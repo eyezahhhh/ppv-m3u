@@ -12,6 +12,8 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_TOKEN }}
       
       - name: Set up Node.JS
         uses: actions/setup-node@v4
@@ -26,3 +28,11 @@ jobs:
 
       - name: List M3U contents
         run: ls m3u
+
+      - name: Push changes
+        run: |
+          git config --global user.name "PPV Updater"
+          git config --global user.email "github@eyezah.com"
+          git add m3u
+          git commit -m "Automatically update M3U playlists"
+          git push
