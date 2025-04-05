@@ -1,0 +1,28 @@
+name: Update M3U Playlists
+
+on:
+  schedule:
+    - cron: "*/30 * * * *" # Every 30 minutes
+  workflow_dispatch: # Allow running manually
+
+jobs:
+  update-m3u:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+      
+      - name: Set up Node.JS
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      
+      - name: Install Depencendies
+        run: npm ci
+      
+      - name: Run
+        run: npm run start
+
+      - name: List M3U contents
+        run: ls m3u
