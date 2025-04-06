@@ -165,7 +165,7 @@ export class Ppv {
                             title += ` (${timestampToString(stream.starts_at * 1000)})`;
                         }
                         
-                        m3uContent += `#EXTINF:-1 tvg-id="${stream.id}" tvg-name="${title}" tvg-logo="${stream.poster}",${title}\n`;
+                        m3uContent += `#EXTINF:-1 tvg-id="${stream.id}" tvg-name="${title}" tvg-epgid="${stream.id}" tvg-logo="${stream.poster}",${title}\n`;
                         m3uContent += `${m3u8}\n`;
                         total++;
                     }
