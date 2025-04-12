@@ -5,7 +5,8 @@ import * as FS from "fs";
 const MIRRORS: string[] = [
     "https://ppv.land",
     "https://freeppv.fun",
-    "https://ppv.wtf"
+    "https://ppv.wtf",
+    "https://ppvs.su
 ];
 
 const m3uList: Record<string, null | ((stream: PpvStreamStub) => boolean)> = {
