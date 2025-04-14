@@ -1,5 +1,5 @@
 import { AxiosError, RawAxiosRequestHeaders } from "axios";
-import { timestampToString } from "./utils";
+import { escapeXml, timestampToString } from "./utils";
 import { request } from "./request";
 
 export interface PpvStreamStub {
@@ -148,6 +148,8 @@ export class Ppv {
         let m3uContent = "#EXTM3U\n";
         let total = 0;
 
+        let tvGuide = `<tv>`;
+
         for (let category of categories) {
             for (let stream of category.streams) {
                 if (criteria && !criteria(stream)) {
@@ -158,6 +160,7 @@ export class Ppv {
                     const isValid = await this.isStreamValid(stream, m3u8);
 
                     if (isValid) {
+
                         const wasMonthAgo = monthAgo > stream.starts_at;
 
                         let title = stream.name;
@@ -165,9 +168,25 @@ export class Ppv {
                             title += ` (${timestampToString(stream.starts_at * 1000)})`;
                         }
                         
-                        m3uContent += `#EXTINF:-1 tvg-id="${stream.id}" tvg-name="${title}" tvg-epgid="${stream.id}" tvg-logo="${stream.poster}",${title}\n`;
+                        m3uContent += `#EXTINF:-1 tvg-id="ppv-${stream.id}" tvg-name="${title}" tvg-epgid="${stream.id}" tvg-logo="${stream.poster}",${title}\n`;
                         m3uContent += `${m3u8}\n`;
                         total++;
+
+                        const xml = `
+                            <channel id="${escapeXml(`ppv-${stream.id}`)}">
+                                <display-name>${escapeXml(stream.name)}
+                            </channel>
+                            <programme
+                                start="${escapeXml(`${stream.starts_at} -0000`)}"
+                                stop="${escapeXml(`${stream.ends_at} -0000`)}"
+                                channel="${escapeXml(`ppv-${stream.id}`)}"
+                            >
+                                <title lang="">${escapeXml(stream.name)}</title>
+                            </programme>
+                        `.split("\n").map((line) => line.trim()).join("\n");
+
+                        console.log(xml);
+                        tvGuide += xml;
                     }
                 } catch (e) {
                     console.error(e);
@@ -181,6 +200,11 @@ export class Ppv {
             throw new Error("No valid streams detected.");
         }
 
-        return m3uContent;
+        tvGuide += "</tv>";
+
+        return {
+            m3u: m3uContent,
+            xml: tvGuide
+        };
     }
 }

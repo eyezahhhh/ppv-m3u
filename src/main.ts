@@ -24,6 +24,9 @@ const m3uList: Record<string, null | ((stream: PpvStreamStub) => boolean)> = {
 FS.mkdirSync("m3u", {
     recursive: true
 });
+FS.mkdirSync("xml", {
+    recursive: true
+});
 
 (async () => {
     for (let mirror of MIRRORS) {
@@ -38,9 +41,10 @@ FS.mkdirSync("m3u", {
         for (let [name, criteria] of Object.entries(m3uList)) {
             try {
                 console.log(`Generating M3U "${name}"...`);
-                const m3u = await ppv.generateM3U(criteria || undefined);
+                const data = await ppv.generateM3U(criteria || undefined);
                 console.log(`Generated M3U successfully; writing to disk...`);
-                await promisify(FS.writeFile)(`m3u/${name}.m3u`, m3u);
+                await promisify(FS.writeFile)(`m3u/${name}.m3u`, data.m3u);
+                await promisify(FS.writeFile)(`xml/${name}.xml`, data.xml);
                 console.log(`Saved M3U successfully.`);
             } catch (e) {
                 console.error(`Failed to generate M3U "${name}".`, e);
