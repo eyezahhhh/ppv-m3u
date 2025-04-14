@@ -1,5 +1,5 @@
 import { AxiosError, RawAxiosRequestHeaders } from "axios";
-import { escapeXml, timestampToString } from "./utils";
+import { escapeXml, timestampToString, toXmlDate } from "./utils";
 import { request } from "./request";
 
 export interface PpvStreamStub {
@@ -177,11 +177,20 @@ export class Ppv {
                                 <display-name>${escapeXml(stream.name)}</display-name>
                             </channel>
                             <programme
-                                start="${escapeXml(`${stream.starts_at} -0000`)}"
-                                stop="${escapeXml(`${stream.ends_at} -0000`)}"
+                                start="${escapeXml(`${toXmlDate(new Date(stream.starts_at * 1000)) } +0000`)}"
+                                stop="${escapeXml(`${toXmlDate(new Date(stream.ends_at * 1000)) } +0000`)}"
                                 channel="${escapeXml(`ppv-${stream.id}`)}"
                             >
-                                <title lang="">${escapeXml(stream.name)}</title>
+                                <title lang="en">${escapeXml(stream.name)}</title>
+                                <sub-title>${escapeXml(stream.name)}</sub-title>
+                                <video>
+                                    <present>yes</present>
+                                    <colour>yes</colour>
+                                </video>
+                                <audio>
+                                    <present>yes</present>
+                                    <stereo>stereo</stereo>
+                                </audio>
                             </programme>
                         `.split("\n").map((line) => line.trim()).join("\n");
                         tvGuide += xml;
