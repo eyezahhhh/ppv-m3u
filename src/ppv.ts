@@ -174,7 +174,7 @@ export class Ppv {
 
                         const xml = `
                             <channel id="${escapeXml(`ppv-${stream.id}`)}">
-                                <display-name>${escapeXml(stream.name)}
+                                <display-name>${escapeXml(stream.name)}</display-name>
                             </channel>
                             <programme
                                 start="${escapeXml(`${stream.starts_at} -0000`)}"
