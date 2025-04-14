@@ -1,0 +1,276 @@
+<tv>
+<channel id="ppv-3677">
+<display-name>LND Monthly
+</channel>
+<programme
+start="1745107200 -0000"
+stop="1745128800 -0000"
+channel="ppv-3677"
+>
+<title lang="">LND Monthly</title>
+</programme>
+
+<channel id="ppv-3678">
+<display-name>MFN Weekly
+</channel>
+<programme
+start="1745107200 -0000"
+stop="1745128800 -0000"
+channel="ppv-3678"
+>
+<title lang="">MFN Weekly</title>
+</programme>
+
+<channel id="ppv-6705">
+<display-name>Players Championship 14 - Board 2
+</channel>
+<programme
+start="1744714800 -0000"
+stop="1744761540 -0000"
+channel="ppv-6705"
+>
+<title lang="">Players Championship 14 - Board 2</title>
+</programme>
+
+<channel id="ppv-6706">
+<display-name>Players Championship 14 - Board 3
+</channel>
+<programme
+start="1744714800 -0000"
+stop="1744761540 -0000"
+channel="ppv-6706"
+>
+<title lang="">Players Championship 14 - Board 3</title>
+</programme>
+
+<channel id="ppv-6707">
+<display-name>Players Championship 14 - Board 4
+</channel>
+<programme
+start="1744714800 -0000"
+stop="1744761540 -0000"
+channel="ppv-6707"
+>
+<title lang="">Players Championship 14 - Board 4</title>
+</programme>
+
+<channel id="ppv-6708">
+<display-name>Players Championship 14 - Board 1
+</channel>
+<programme
+start="1744714800 -0000"
+stop="1744761540 -0000"
+channel="ppv-6708"
+>
+<title lang="">Players Championship 14 - Board 1</title>
+</programme>
+
+<channel id="ppv-6691">
+<display-name>Players Championship 13 - Board 4
+</channel>
+<programme
+start="1744628400 -0000"
+stop="1744675140 -0000"
+channel="ppv-6691"
+>
+<title lang="">Players Championship 13 - Board 4</title>
+</programme>
+
+<channel id="ppv-6692">
+<display-name>Players Championship 13 - Board 3
+</channel>
+<programme
+start="1744628400 -0000"
+stop="1744675140 -0000"
+channel="ppv-6692"
+>
+<title lang="">Players Championship 13 - Board 3</title>
+</programme>
+
+<channel id="ppv-6693">
+<display-name>Players Championship 13 - Board 2
+</channel>
+<programme
+start="1744628400 -0000"
+stop="1744675140 -0000"
+channel="ppv-6693"
+>
+<title lang="">Players Championship 13 - Board 2</title>
+</programme>
+
+<channel id="ppv-6694">
+<display-name>Players Championship 13 - Board 1
+</channel>
+<programme
+start="1744628400 -0000"
+stop="1744675140 -0000"
+channel="ppv-6694"
+>
+<title lang="">Players Championship 13 - Board 1</title>
+</programme>
+
+<channel id="ppv-6704">
+<display-name>Colorado Rockies vs. Los Angeles Dodgers
+</channel>
+<programme
+start="1744683000 -0000"
+stop="1744693800 -0000"
+channel="ppv-6704"
+>
+<title lang="">Colorado Rockies vs. Los Angeles Dodgers</title>
+</programme>
+
+<channel id="ppv-6703">
+<display-name>Chicago Cubs vs. San Diego Padres
+</channel>
+<programme
+start="1744681200 -0000"
+stop="1744692000 -0000"
+channel="ppv-6703"
+>
+<title lang="">Chicago Cubs vs. San Diego Padres</title>
+</programme>
+
+<channel id="ppv-6702">
+<display-name>Houston Astros vs. St. Louis Cardinals
+</channel>
+<programme
+start="1744674300 -0000"
+stop="1744685100 -0000"
+channel="ppv-6702"
+>
+<title lang="">Houston Astros vs. St. Louis Cardinals</title>
+</programme>
+
+<channel id="ppv-6700">
+<display-name>Detroit Tigers vs. Milwaukee Brewers
+</channel>
+<programme
+start="1744674000 -0000"
+stop="1744684800 -0000"
+channel="ppv-6700"
+>
+<title lang="">Detroit Tigers vs. Milwaukee Brewers</title>
+</programme>
+
+<channel id="ppv-6701">
+<display-name>New York Mets vs. Minnesota Twins
+</channel>
+<programme
+start="1744674000 -0000"
+stop="1744684800 -0000"
+channel="ppv-6701"
+>
+<title lang="">New York Mets vs. Minnesota Twins</title>
+</programme>
+
+<channel id="ppv-6699">
+<display-name>Atlanta Braves vs. Toronto Blue Jays
+</channel>
+<programme
+start="1744672020 -0000"
+stop="1744682820 -0000"
+channel="ppv-6699"
+>
+<title lang="">Atlanta Braves vs. Toronto Blue Jays</title>
+</programme>
+
+<channel id="ppv-6697">
+<display-name>Boston Red Sox vs. Tampa Bay Rays
+</channel>
+<programme
+start="1744671900 -0000"
+stop="1744682700 -0000"
+channel="ppv-6697"
+>
+<title lang="">Boston Red Sox vs. Tampa Bay Rays</title>
+</programme>
+
+<channel id="ppv-6698">
+<display-name>Kansas City Royals vs. New York Yankees
+</channel>
+<programme
+start="1744671900 -0000"
+stop="1744682700 -0000"
+channel="ppv-6698"
+>
+<title lang="">Kansas City Royals vs. New York Yankees</title>
+</programme>
+
+<channel id="ppv-6696">
+<display-name>San Francisco Giants vs. Philadelphia Phillies
+</channel>
+<programme
+start="1744670700 -0000"
+stop="1744681500 -0000"
+channel="ppv-6696"
+>
+<title lang="">San Francisco Giants vs. Philadelphia Phillies</title>
+</programme>
+
+<channel id="ppv-6695">
+<display-name>Washington Nationals vs. Pittsburgh Pirates
+</channel>
+<programme
+start="1744670400 -0000"
+stop="1744681200 -0000"
+channel="ppv-6695"
+>
+<title lang="">Washington Nationals vs. Pittsburgh Pirates</title>
+</programme>
+
+<channel id="ppv-6543">
+<display-name>24/7 S*y Sports Golf
+</channel>
+<programme
+start="1744225200 -0000"
+stop="1744239600 -0000"
+channel="ppv-6543"
+>
+<title lang="">24/7 S*y Sports Golf</title>
+</programme>
+
+<channel id="ppv-3716">
+<display-name>(North) Korean Central Television
+</channel>
+<programme
+start="1737226800 -0000"
+stop="1737237600 -0000"
+channel="ppv-3716"
+>
+<title lang="">(North) Korean Central Television</title>
+</programme>
+
+<channel id="ppv-5112">
+<display-name>24/7 South Park
+</channel>
+<programme
+start="1737196080 -0000"
+stop="1737196080 -0000"
+channel="ppv-5112"
+>
+<title lang="">24/7 South Park</title>
+</programme>
+
+<channel id="ppv-5191">
+<display-name>24/7 The Simpsons
+</channel>
+<programme
+start="1737196080 -0000"
+stop="1737196080 -0000"
+channel="ppv-5191"
+>
+<title lang="">24/7 The Simpsons</title>
+</programme>
+
+<channel id="ppv-3663">
+<display-name>24/7 COWS
+</channel>
+<programme
+start="1737176400 -0000"
+stop="1740772800 -0000"
+channel="ppv-3663"
+>
+<title lang="">24/7 COWS</title>
+</programme>
+</tv>

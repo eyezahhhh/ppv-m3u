@@ -1,0 +1,45 @@
+<tv>
+<channel id="ppv-3716">
+<display-name>(North) Korean Central Television
+</channel>
+<programme
+start="1737226800 -0000"
+stop="1737237600 -0000"
+channel="ppv-3716"
+>
+<title lang="">(North) Korean Central Television</title>
+</programme>
+
+<channel id="ppv-5112">
+<display-name>24/7 South Park
+</channel>
+<programme
+start="1737196080 -0000"
+stop="1737196080 -0000"
+channel="ppv-5112"
+>
+<title lang="">24/7 South Park</title>
+</programme>
+
+<channel id="ppv-5191">
+<display-name>24/7 The Simpsons
+</channel>
+<programme
+start="1737196080 -0000"
+stop="1737196080 -0000"
+channel="ppv-5191"
+>
+<title lang="">24/7 The Simpsons</title>
+</programme>
+
+<channel id="ppv-3663">
+<display-name>24/7 COWS
+</channel>
+<programme
+start="1737176400 -0000"
+stop="1740772800 -0000"
+channel="ppv-3663"
+>
+<title lang="">24/7 COWS</title>
+</programme>
+</tv>
