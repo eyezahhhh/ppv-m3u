@@ -40,5 +40,5 @@ export function escapeXml(unsafe: string) {
 }
 
 export function toXmlDate(date: Date) {
-    return `${date.getUTCFullYear()}${padStart(date.getUTCMonth(), 2)}${padStart(date.getUTCDate(), 2)}${padStart(date.getUTCHours(), 2)}${padStart(date.getUTCMinutes(), 2)}${padStart(date.getUTCSeconds(), 2)}`;
+    return `${date.getUTCFullYear()}${padStart(date.getUTCMonth() + 1, 2)}${padStart(date.getUTCDate(), 2)}${padStart(date.getUTCHours(), 2)}${padStart(date.getUTCMinutes(), 2)}${padStart(date.getUTCSeconds(), 2)}`;
 }
