@@ -8,7 +8,7 @@ stop="20250420060000 +0000"
 channel="ppv-3677"
 >
 <title lang="en">LND Monthly</title>
-<sub-title>LND Monthly</sub-title>
+<sub-title>Combat Sports</sub-title>
 <video>
 <present>yes</present>
 <colour>yes</colour>
@@ -17,6 +17,8 @@ channel="ppv-3677"
 <present>yes</present>
 <stereo>stereo</stereo>
 </audio>
+<category>Combat Sports</category>
+<icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/EtF4pVY.png@jpeg" />
 </programme>
 
 <channel id="ppv-3678">
@@ -28,7 +30,7 @@ stop="20250420060000 +0000"
 channel="ppv-3678"
 >
 <title lang="en">MFN Weekly</title>
-<sub-title>MFN Weekly</sub-title>
+<sub-title>Combat Sports</sub-title>
 <video>
 <present>yes</present>
 <colour>yes</colour>
@@ -37,6 +39,8 @@ channel="ppv-3678"
 <present>yes</present>
 <stereo>stereo</stereo>
 </audio>
+<category>Combat Sports</category>
+<icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/sed1Yi8.png@jpeg" />
 </programme>
 
 <channel id="ppv-6705">
@@ -48,7 +52,7 @@ stop="20250415235900 +0000"
 channel="ppv-6705"
 >
 <title lang="en">Players Championship 14 - Board 2</title>
-<sub-title>Players Championship 14 - Board 2</sub-title>
+<sub-title>Darts</sub-title>
 <video>
 <present>yes</present>
 <colour>yes</colour>
@@ -57,6 +61,8 @@ channel="ppv-6705"
 <present>yes</present>
 <stereo>stereo</stereo>
 </audio>
+<category>Darts</category>
+<icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://open.http.mp.streamamg.com/p/3000668/sp/300066800/thumbnail/entry_id/0_2j1ghx40/width/640@jpeg" />
 </programme>
 
 <channel id="ppv-6706">
@@ -68,7 +74,7 @@ stop="20250415235900 +0000"
 channel="ppv-6706"
 >
 <title lang="en">Players Championship 14 - Board 3</title>
-<sub-title>Players Championship 14 - Board 3</sub-title>
+<sub-title>Darts</sub-title>
 <video>
 <present>yes</present>
 <colour>yes</colour>
@@ -77,6 +83,8 @@ channel="ppv-6706"
 <present>yes</present>
 <stereo>stereo</stereo>
 </audio>
+<category>Darts</category>
+<icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://open.http.mp.streamamg.com/p/3000668/sp/300066800/thumbnail/entry_id/0_swr8o537/width/640@jpeg" />
 </programme>
 
 <channel id="ppv-6707">
@@ -88,7 +96,7 @@ stop="20250415235900 +0000"
 channel="ppv-6707"
 >
 <title lang="en">Players Championship 14 - Board 4</title>
-<sub-title>Players Championship 14 - Board 4</sub-title>
+<sub-title>Darts</sub-title>
 <video>
 <present>yes</present>
 <colour>yes</colour>
@@ -97,6 +105,8 @@ channel="ppv-6707"
 <present>yes</present>
 <stereo>stereo</stereo>
 </audio>
+<category>Darts</category>
+<icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://open.http.mp.streamamg.com/p/3000668/sp/300066800/thumbnail/entry_id/0_lfh2548w/width/640@jpeg" />
 </programme>
 
 <channel id="ppv-6708">
@@ -108,7 +118,7 @@ stop="20250415235900 +0000"
 channel="ppv-6708"
 >
 <title lang="en">Players Championship 14 - Board 1</title>
-<sub-title>Players Championship 14 - Board 1</sub-title>
+<sub-title>Darts</sub-title>
 <video>
 <present>yes</present>
 <colour>yes</colour>
@@ -117,6 +127,8 @@ channel="ppv-6708"
 <present>yes</present>
 <stereo>stereo</stereo>
 </audio>
+<category>Darts</category>
+<icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://open.http.mp.streamamg.com/p/3000668/sp/300066800/thumbnail/entry_id/0_bx4fpxoy/width/640@jpeg" />
 </programme>
 
 <channel id="ppv-6691">
@@ -128,7 +140,7 @@ stop="20250414235900 +0000"
 channel="ppv-6691"
 >
 <title lang="en">Players Championship 13 - Board 4</title>
-<sub-title>Players Championship 13 - Board 4</sub-title>
+<sub-title>Darts</sub-title>
 <video>
 <present>yes</present>
 <colour>yes</colour>
@@ -137,6 +149,8 @@ channel="ppv-6691"
 <present>yes</present>
 <stereo>stereo</stereo>
 </audio>
+<category>Darts</category>
+<icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://open.http.mp.streamamg.com/p/3000668/sp/300066800/thumbnail/entry_id/0_zadmy0pq/width/640@jpeg" />
 </programme>
 
 <channel id="ppv-6692">
@@ -148,7 +162,7 @@ stop="20250414235900 +0000"
 channel="ppv-6692"
 >
 <title lang="en">Players Championship 13 - Board 3</title>
-<sub-title>Players Championship 13 - Board 3</sub-title>
+<sub-title>Darts</sub-title>
 <video>
 <present>yes</present>
 <colour>yes</colour>
@@ -157,6 +171,8 @@ channel="ppv-6692"
 <present>yes</present>
 <stereo>stereo</stereo>
 </audio>
+<category>Darts</category>
+<icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://open.http.mp.streamamg.com/p/3000668/sp/300066800/thumbnail/entry_id/0_xxg93f90/width/640@jpeg" />
 </programme>
 
 <channel id="ppv-6693">
@@ -168,7 +184,7 @@ stop="20250414235900 +0000"
 channel="ppv-6693"
 >
 <title lang="en">Players Championship 13 - Board 2</title>
-<sub-title>Players Championship 13 - Board 2</sub-title>
+<sub-title>Darts</sub-title>
 <video>
 <present>yes</present>
 <colour>yes</colour>
@@ -177,6 +193,8 @@ channel="ppv-6693"
 <present>yes</present>
 <stereo>stereo</stereo>
 </audio>
+<category>Darts</category>
+<icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://open.http.mp.streamamg.com/p/3000668/sp/300066800/thumbnail/entry_id/0_42h8nwo9/width/640@jpeg" />
 </programme>
 
 <channel id="ppv-6694">
@@ -188,7 +206,7 @@ stop="20250414235900 +0000"
 channel="ppv-6694"
 >
 <title lang="en">Players Championship 13 - Board 1</title>
-<sub-title>Players Championship 13 - Board 1</sub-title>
+<sub-title>Darts</sub-title>
 <video>
 <present>yes</present>
 <colour>yes</colour>
@@ -197,6 +215,8 @@ channel="ppv-6694"
 <present>yes</present>
 <stereo>stereo</stereo>
 </audio>
+<category>Darts</category>
+<icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://open.http.mp.streamamg.com/p/3000668/sp/300066800/thumbnail/entry_id/0_vhcda85h/width/640@jpeg" />
 </programme>
 
 <channel id="ppv-6709">
@@ -208,7 +228,7 @@ stop="20250414213000 +0000"
 channel="ppv-6709"
 >
 <title lang="en">EPL: Bournemouth vs Fulham</title>
-<sub-title>EPL: Bournemouth vs Fulham</sub-title>
+<sub-title>Football</sub-title>
 <video>
 <present>yes</present>
 <colour>yes</colour>
@@ -217,6 +237,8 @@ channel="ppv-6709"
 <present>yes</present>
 <stereo>stereo</stereo>
 </audio>
+<category>Football</category>
+<icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/y5nPQvh.jpeg@jpeg" />
 </programme>
 
 <channel id="ppv-6710">
@@ -228,7 +250,7 @@ stop="20250414220000 +0000"
 channel="ppv-6710"
 >
 <title lang="en">LaLiga: Atlético Madrid vs Real Valladolid (English)</title>
-<sub-title>LaLiga: Atlético Madrid vs Real Valladolid (English)</sub-title>
+<sub-title>Football</sub-title>
 <video>
 <present>yes</present>
 <colour>yes</colour>
@@ -237,6 +259,8 @@ channel="ppv-6710"
 <present>yes</present>
 <stereo>stereo</stereo>
 </audio>
+<category>Football</category>
+<icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/3w53szf.jpeg@jpeg" />
 </programme>
 
 <channel id="ppv-6711">
@@ -248,7 +272,7 @@ stop="20250414220000 +0000"
 channel="ppv-6711"
 >
 <title lang="en">LaLiga: Atlético Madrid vs Real Valladolid (Español)</title>
-<sub-title>LaLiga: Atlético Madrid vs Real Valladolid (Español)</sub-title>
+<sub-title>Football</sub-title>
 <video>
 <present>yes</present>
 <colour>yes</colour>
@@ -257,6 +281,8 @@ channel="ppv-6711"
 <present>yes</present>
 <stereo>stereo</stereo>
 </audio>
+<category>Football</category>
+<icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/3w53szf.jpeg@jpeg" />
 </programme>
 
 <channel id="ppv-6704">
@@ -268,7 +294,7 @@ stop="20250415051000 +0000"
 channel="ppv-6704"
 >
 <title lang="en">Colorado Rockies vs. Los Angeles Dodgers</title>
-<sub-title>Colorado Rockies vs. Los Angeles Dodgers</sub-title>
+<sub-title>MLB</sub-title>
 <video>
 <present>yes</present>
 <colour>yes</colour>
@@ -277,6 +303,8 @@ channel="ppv-6704"
 <present>yes</present>
 <stereo>stereo</stereo>
 </audio>
+<category>MLB</category>
+<icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/Hz7h9z3.png@jpeg" />
 </programme>
 
 <channel id="ppv-6703">
@@ -288,7 +316,7 @@ stop="20250415044000 +0000"
 channel="ppv-6703"
 >
 <title lang="en">Chicago Cubs vs. San Diego Padres</title>
-<sub-title>Chicago Cubs vs. San Diego Padres</sub-title>
+<sub-title>MLB</sub-title>
 <video>
 <present>yes</present>
 <colour>yes</colour>
@@ -297,6 +325,8 @@ channel="ppv-6703"
 <present>yes</present>
 <stereo>stereo</stereo>
 </audio>
+<category>MLB</category>
+<icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/9NRSHvo.png@jpeg" />
 </programme>
 
 <channel id="ppv-6702">
@@ -308,7 +338,7 @@ stop="20250415024500 +0000"
 channel="ppv-6702"
 >
 <title lang="en">Houston Astros vs. St. Louis Cardinals</title>
-<sub-title>Houston Astros vs. St. Louis Cardinals</sub-title>
+<sub-title>MLB</sub-title>
 <video>
 <present>yes</present>
 <colour>yes</colour>
@@ -317,6 +347,8 @@ channel="ppv-6702"
 <present>yes</present>
 <stereo>stereo</stereo>
 </audio>
+<category>MLB</category>
+<icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/KTbIXuI.png@jpeg" />
 </programme>
 
 <channel id="ppv-6700">
@@ -328,7 +360,7 @@ stop="20250415024000 +0000"
 channel="ppv-6700"
 >
 <title lang="en">Detroit Tigers vs. Milwaukee Brewers</title>
-<sub-title>Detroit Tigers vs. Milwaukee Brewers</sub-title>
+<sub-title>MLB</sub-title>
 <video>
 <present>yes</present>
 <colour>yes</colour>
@@ -337,6 +369,8 @@ channel="ppv-6700"
 <present>yes</present>
 <stereo>stereo</stereo>
 </audio>
+<category>MLB</category>
+<icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/oKOLv2Y.png@jpeg" />
 </programme>
 
 <channel id="ppv-6701">
@@ -348,7 +382,7 @@ stop="20250415024000 +0000"
 channel="ppv-6701"
 >
 <title lang="en">New York Mets vs. Minnesota Twins</title>
-<sub-title>New York Mets vs. Minnesota Twins</sub-title>
+<sub-title>MLB</sub-title>
 <video>
 <present>yes</present>
 <colour>yes</colour>
@@ -357,6 +391,8 @@ channel="ppv-6701"
 <present>yes</present>
 <stereo>stereo</stereo>
 </audio>
+<category>MLB</category>
+<icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/vrGO4EG.png@jpeg" />
 </programme>
 
 <channel id="ppv-6699">
@@ -368,7 +404,7 @@ stop="20250415020700 +0000"
 channel="ppv-6699"
 >
 <title lang="en">Atlanta Braves vs. Toronto Blue Jays</title>
-<sub-title>Atlanta Braves vs. Toronto Blue Jays</sub-title>
+<sub-title>MLB</sub-title>
 <video>
 <present>yes</present>
 <colour>yes</colour>
@@ -377,6 +413,8 @@ channel="ppv-6699"
 <present>yes</present>
 <stereo>stereo</stereo>
 </audio>
+<category>MLB</category>
+<icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/sQPgOEk.png@jpeg" />
 </programme>
 
 <channel id="ppv-6697">
@@ -388,7 +426,7 @@ stop="20250415020500 +0000"
 channel="ppv-6697"
 >
 <title lang="en">Boston Red Sox vs. Tampa Bay Rays</title>
-<sub-title>Boston Red Sox vs. Tampa Bay Rays</sub-title>
+<sub-title>MLB</sub-title>
 <video>
 <present>yes</present>
 <colour>yes</colour>
@@ -397,6 +435,8 @@ channel="ppv-6697"
 <present>yes</present>
 <stereo>stereo</stereo>
 </audio>
+<category>MLB</category>
+<icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/Gz8DMsq.png@jpeg" />
 </programme>
 
 <channel id="ppv-6698">
@@ -408,7 +448,7 @@ stop="20250415020500 +0000"
 channel="ppv-6698"
 >
 <title lang="en">Kansas City Royals vs. New York Yankees</title>
-<sub-title>Kansas City Royals vs. New York Yankees</sub-title>
+<sub-title>MLB</sub-title>
 <video>
 <present>yes</present>
 <colour>yes</colour>
@@ -417,6 +457,8 @@ channel="ppv-6698"
 <present>yes</present>
 <stereo>stereo</stereo>
 </audio>
+<category>MLB</category>
+<icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/jxalfR0.png@jpeg" />
 </programme>
 
 <channel id="ppv-6696">
@@ -428,7 +470,7 @@ stop="20250415014500 +0000"
 channel="ppv-6696"
 >
 <title lang="en">San Francisco Giants vs. Philadelphia Phillies</title>
-<sub-title>San Francisco Giants vs. Philadelphia Phillies</sub-title>
+<sub-title>MLB</sub-title>
 <video>
 <present>yes</present>
 <colour>yes</colour>
@@ -437,6 +479,8 @@ channel="ppv-6696"
 <present>yes</present>
 <stereo>stereo</stereo>
 </audio>
+<category>MLB</category>
+<icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/yJka7DZ.png@jpeg" />
 </programme>
 
 <channel id="ppv-6695">
@@ -448,7 +492,7 @@ stop="20250415014000 +0000"
 channel="ppv-6695"
 >
 <title lang="en">Washington Nationals vs. Pittsburgh Pirates</title>
-<sub-title>Washington Nationals vs. Pittsburgh Pirates</sub-title>
+<sub-title>MLB</sub-title>
 <video>
 <present>yes</present>
 <colour>yes</colour>
@@ -457,6 +501,8 @@ channel="ppv-6695"
 <present>yes</present>
 <stereo>stereo</stereo>
 </audio>
+<category>MLB</category>
+<icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/GFrRDWf.png@jpeg" />
 </programme>
 
 <channel id="ppv-6543">
@@ -468,7 +514,7 @@ stop="20250409230000 +0000"
 channel="ppv-6543"
 >
 <title lang="en">24/7 S*y Sports Golf</title>
-<sub-title>24/7 S*y Sports Golf</sub-title>
+<sub-title>24/7 Streams</sub-title>
 <video>
 <present>yes</present>
 <colour>yes</colour>
@@ -477,6 +523,8 @@ channel="ppv-6543"
 <present>yes</present>
 <stereo>stereo</stereo>
 </audio>
+<category>24/7 Streams</category>
+<icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://ppv.wtf/assets/img/11331c69617670a4233bbde9bc2c448e.jpg@jpeg" />
 </programme>
 
 <channel id="ppv-3716">
@@ -488,7 +536,7 @@ stop="20250118220000 +0000"
 channel="ppv-3716"
 >
 <title lang="en">(North) Korean Central Television</title>
-<sub-title>(North) Korean Central Television</sub-title>
+<sub-title>24/7 Streams</sub-title>
 <video>
 <present>yes</present>
 <colour>yes</colour>
@@ -497,6 +545,8 @@ channel="ppv-3716"
 <present>yes</present>
 <stereo>stereo</stereo>
 </audio>
+<category>24/7 Streams</category>
+<icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/CnphStu.png@jpeg" />
 </programme>
 
 <channel id="ppv-5112">
@@ -508,7 +558,7 @@ stop="20250118102800 +0000"
 channel="ppv-5112"
 >
 <title lang="en">24/7 South Park</title>
-<sub-title>24/7 South Park</sub-title>
+<sub-title>24/7 Streams</sub-title>
 <video>
 <present>yes</present>
 <colour>yes</colour>
@@ -517,6 +567,8 @@ channel="ppv-5112"
 <present>yes</present>
 <stereo>stereo</stereo>
 </audio>
+<category>24/7 Streams</category>
+<icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://waw01-1gbe.fscdn.fun/southpark/preview.jpg@jpeg" />
 </programme>
 
 <channel id="ppv-5191">
@@ -528,7 +580,7 @@ stop="20250118102800 +0000"
 channel="ppv-5191"
 >
 <title lang="en">24/7 The Simpsons</title>
-<sub-title>24/7 The Simpsons</sub-title>
+<sub-title>24/7 Streams</sub-title>
 <video>
 <present>yes</present>
 <colour>yes</colour>
@@ -537,6 +589,8 @@ channel="ppv-5191"
 <present>yes</present>
 <stereo>stereo</stereo>
 </audio>
+<category>24/7 Streams</category>
+<icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://waw01-1gbe.fscdn.fun/thesimpsons/preview.jpg@jpeg" />
 </programme>
 
 <channel id="ppv-3663">
@@ -548,7 +602,7 @@ stop="20250228200000 +0000"
 channel="ppv-3663"
 >
 <title lang="en">24/7 COWS</title>
-<sub-title>24/7 COWS</sub-title>
+<sub-title>24/7 Streams</sub-title>
 <video>
 <present>yes</present>
 <colour>yes</colour>
@@ -557,5 +611,7 @@ channel="ppv-3663"
 <present>yes</present>
 <stereo>stereo</stereo>
 </audio>
+<category>24/7 Streams</category>
+<icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://extension.usu.edu/drought/images/drought-mitigation-cows-thumbnail.png@jpeg" />
 </programme>
 </tv>
