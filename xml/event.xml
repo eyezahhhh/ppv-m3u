@@ -1,6 +1,6 @@
 <tv>
 <channel id="ppv-3677">
-<display-name>LND Monthly
+<display-name>LND Monthly</display-name>
 </channel>
 <programme
 start="1745107200 -0000"
@@ -11,7 +11,7 @@ channel="ppv-3677"
 </programme>
 
 <channel id="ppv-3678">
-<display-name>MFN Weekly
+<display-name>MFN Weekly</display-name>
 </channel>
 <programme
 start="1745107200 -0000"
@@ -22,7 +22,7 @@ channel="ppv-3678"
 </programme>
 
 <channel id="ppv-6705">
-<display-name>Players Championship 14 - Board 2
+<display-name>Players Championship 14 - Board 2</display-name>
 </channel>
 <programme
 start="1744714800 -0000"
@@ -33,7 +33,7 @@ channel="ppv-6705"
 </programme>
 
 <channel id="ppv-6706">
-<display-name>Players Championship 14 - Board 3
+<display-name>Players Championship 14 - Board 3</display-name>
 </channel>
 <programme
 start="1744714800 -0000"
@@ -44,7 +44,7 @@ channel="ppv-6706"
 </programme>
 
 <channel id="ppv-6707">
-<display-name>Players Championship 14 - Board 4
+<display-name>Players Championship 14 - Board 4</display-name>
 </channel>
 <programme
 start="1744714800 -0000"
@@ -55,7 +55,7 @@ channel="ppv-6707"
 </programme>
 
 <channel id="ppv-6708">
-<display-name>Players Championship 14 - Board 1
+<display-name>Players Championship 14 - Board 1</display-name>
 </channel>
 <programme
 start="1744714800 -0000"
@@ -66,7 +66,7 @@ channel="ppv-6708"
 </programme>
 
 <channel id="ppv-6691">
-<display-name>Players Championship 13 - Board 4
+<display-name>Players Championship 13 - Board 4</display-name>
 </channel>
 <programme
 start="1744628400 -0000"
@@ -77,7 +77,7 @@ channel="ppv-6691"
 </programme>
 
 <channel id="ppv-6692">
-<display-name>Players Championship 13 - Board 3
+<display-name>Players Championship 13 - Board 3</display-name>
 </channel>
 <programme
 start="1744628400 -0000"
@@ -88,7 +88,7 @@ channel="ppv-6692"
 </programme>
 
 <channel id="ppv-6693">
-<display-name>Players Championship 13 - Board 2
+<display-name>Players Championship 13 - Board 2</display-name>
 </channel>
 <programme
 start="1744628400 -0000"
@@ -99,7 +99,7 @@ channel="ppv-6693"
 </programme>
 
 <channel id="ppv-6694">
-<display-name>Players Championship 13 - Board 1
+<display-name>Players Championship 13 - Board 1</display-name>
 </channel>
 <programme
 start="1744628400 -0000"
@@ -109,8 +109,41 @@ channel="ppv-6694"
 <title lang="">Players Championship 13 - Board 1</title>
 </programme>
 
+<channel id="ppv-6709">
+<display-name>EPL: Bournemouth vs Fulham</display-name>
+</channel>
+<programme
+start="1744657200 -0000"
+stop="1744666200 -0000"
+channel="ppv-6709"
+>
+<title lang="">EPL: Bournemouth vs Fulham</title>
+</programme>
+
+<channel id="ppv-6710">
+<display-name>LaLiga: Atlético Madrid vs Real Valladolid (English)</display-name>
+</channel>
+<programme
+start="1744657200 -0000"
+stop="1744668000 -0000"
+channel="ppv-6710"
+>
+<title lang="">LaLiga: Atlético Madrid vs Real Valladolid (English)</title>
+</programme>
+
+<channel id="ppv-6711">
+<display-name>LaLiga: Atlético Madrid vs Real Valladolid (Español)</display-name>
+</channel>
+<programme
+start="1744657200 -0000"
+stop="1744668000 -0000"
+channel="ppv-6711"
+>
+<title lang="">LaLiga: Atlético Madrid vs Real Valladolid (Español)</title>
+</programme>
+
 <channel id="ppv-6704">
-<display-name>Colorado Rockies vs. Los Angeles Dodgers
+<display-name>Colorado Rockies vs. Los Angeles Dodgers</display-name>
 </channel>
 <programme
 start="1744683000 -0000"
@@ -121,7 +154,7 @@ channel="ppv-6704"
 </programme>
 
 <channel id="ppv-6703">
-<display-name>Chicago Cubs vs. San Diego Padres
+<display-name>Chicago Cubs vs. San Diego Padres</display-name>
 </channel>
 <programme
 start="1744681200 -0000"
@@ -132,7 +165,7 @@ channel="ppv-6703"
 </programme>
 
 <channel id="ppv-6702">
-<display-name>Houston Astros vs. St. Louis Cardinals
+<display-name>Houston Astros vs. St. Louis Cardinals</display-name>
 </channel>
 <programme
 start="1744674300 -0000"
@@ -143,7 +176,7 @@ channel="ppv-6702"
 </programme>
 
 <channel id="ppv-6700">
-<display-name>Detroit Tigers vs. Milwaukee Brewers
+<display-name>Detroit Tigers vs. Milwaukee Brewers</display-name>
 </channel>
 <programme
 start="1744674000 -0000"
@@ -154,7 +187,7 @@ channel="ppv-6700"
 </programme>
 
 <channel id="ppv-6701">
-<display-name>New York Mets vs. Minnesota Twins
+<display-name>New York Mets vs. Minnesota Twins</display-name>
 </channel>
 <programme
 start="1744674000 -0000"
@@ -165,7 +198,7 @@ channel="ppv-6701"
 </programme>
 
 <channel id="ppv-6699">
-<display-name>Atlanta Braves vs. Toronto Blue Jays
+<display-name>Atlanta Braves vs. Toronto Blue Jays</display-name>
 </channel>
 <programme
 start="1744672020 -0000"
@@ -176,7 +209,7 @@ channel="ppv-6699"
 </programme>
 
 <channel id="ppv-6697">
-<display-name>Boston Red Sox vs. Tampa Bay Rays
+<display-name>Boston Red Sox vs. Tampa Bay Rays</display-name>
 </channel>
 <programme
 start="1744671900 -0000"
@@ -187,7 +220,7 @@ channel="ppv-6697"
 </programme>
 
 <channel id="ppv-6698">
-<display-name>Kansas City Royals vs. New York Yankees
+<display-name>Kansas City Royals vs. New York Yankees</display-name>
 </channel>
 <programme
 start="1744671900 -0000"
@@ -198,7 +231,7 @@ channel="ppv-6698"
 </programme>
 
 <channel id="ppv-6696">
-<display-name>San Francisco Giants vs. Philadelphia Phillies
+<display-name>San Francisco Giants vs. Philadelphia Phillies</display-name>
 </channel>
 <programme
 start="1744670700 -0000"
@@ -209,7 +242,7 @@ channel="ppv-6696"
 </programme>
 
 <channel id="ppv-6695">
-<display-name>Washington Nationals vs. Pittsburgh Pirates
+<display-name>Washington Nationals vs. Pittsburgh Pirates</display-name>
 </channel>
 <programme
 start="1744670400 -0000"
@@ -220,7 +253,7 @@ channel="ppv-6695"
 </programme>
 
 <channel id="ppv-6543">
-<display-name>24/7 S*y Sports Golf
+<display-name>24/7 S*y Sports Golf</display-name>
 </channel>
 <programme
 start="1744225200 -0000"
