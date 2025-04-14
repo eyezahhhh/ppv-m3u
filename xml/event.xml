@@ -351,50 +351,6 @@ channel="ppv-6722"
 <icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/wdZvmR9.jpeg@jpeg" />
 </programme>
 
-<channel id="ppv-6710">
-<display-name>LaLiga: Atlético Madrid vs Real Valladolid (English)</display-name>
-</channel>
-<programme
-start="20250414190000 +0000"
-stop="20250414220000 +0000"
-channel="ppv-6710"
->
-<title lang="en">LaLiga: Atlético Madrid vs Real Valladolid (English)</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/3w53szf.jpeg@jpeg" />
-</programme>
-
-<channel id="ppv-6711">
-<display-name>LaLiga: Atlético de Madrid vs Real Valladolid (Español)</display-name>
-</channel>
-<programme
-start="20250414190000 +0000"
-stop="20250414220000 +0000"
-channel="ppv-6711"
->
-<title lang="en">LaLiga: Atlético de Madrid vs Real Valladolid (Español)</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/3w53szf.jpeg@jpeg" />
-</programme>
-
 <channel id="ppv-6704">
 <display-name>Colorado Rockies vs. Los Angeles Dodgers</display-name>
 </channel>
@@ -613,6 +569,72 @@ channel="ppv-6695"
 </audio>
 <category>MLB</category>
 <icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/GFrRDWf.png@jpeg" />
+</programme>
+
+<channel id="ppv-6723">
+<display-name>AEW: Saturday Night Collision</display-name>
+</channel>
+<programme
+start="20250420000000 +0000"
+stop="20250420030000 +0000"
+channel="ppv-6723"
+>
+<title lang="en">AEW: Saturday Night Collision</title>
+<sub-title>Wrestling</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Wrestling</category>
+<icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/x3OPAo3.jpeg@jpeg" />
+</programme>
+
+<channel id="ppv-6718">
+<display-name>WWE: Friday Night SmackDown</display-name>
+</channel>
+<programme
+start="20250419000000 +0000"
+stop="20250419023000 +0000"
+channel="ppv-6718"
+>
+<title lang="en">WWE: Friday Night SmackDown</title>
+<sub-title>Wrestling</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Wrestling</category>
+<icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/dAHOP0s.jpeg@jpeg" />
+</programme>
+
+<channel id="ppv-6724">
+<display-name>AEW: Wednesday Night Dynamite</display-name>
+</channel>
+<programme
+start="20250417000000 +0000"
+stop="20250417030000 +0000"
+channel="ppv-6724"
+>
+<title lang="en">AEW: Wednesday Night Dynamite</title>
+<sub-title>Wrestling</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Wrestling</category>
+<icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/Gajn72i.jpeg@jpeg" />
 </programme>
 
 <channel id="ppv-6717">
