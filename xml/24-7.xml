@@ -3,8 +3,8 @@
 <display-name>(North) Korean Central Television</display-name>
 </channel>
 <programme
-start="20250018190000 +0000"
-stop="20250018220000 +0000"
+start="20250118190000 +0000"
+stop="20250118220000 +0000"
 channel="ppv-3716"
 >
 <title lang="en">(North) Korean Central Television</title>
@@ -23,8 +23,8 @@ channel="ppv-3716"
 <display-name>24/7 South Park</display-name>
 </channel>
 <programme
-start="20250018102800 +0000"
-stop="20250018102800 +0000"
+start="20250118102800 +0000"
+stop="20250118102800 +0000"
 channel="ppv-5112"
 >
 <title lang="en">24/7 South Park</title>
@@ -43,8 +43,8 @@ channel="ppv-5112"
 <display-name>24/7 The Simpsons</display-name>
 </channel>
 <programme
-start="20250018102800 +0000"
-stop="20250018102800 +0000"
+start="20250118102800 +0000"
+stop="20250118102800 +0000"
 channel="ppv-5191"
 >
 <title lang="en">24/7 The Simpsons</title>
@@ -63,8 +63,8 @@ channel="ppv-5191"
 <display-name>24/7 COWS</display-name>
 </channel>
 <programme
-start="20250018050000 +0000"
-stop="20250128200000 +0000"
+start="20250118050000 +0000"
+stop="20250228200000 +0000"
 channel="ppv-3663"
 >
 <title lang="en">24/7 COWS</title>

@@ -3,8 +3,8 @@
 <display-name>LND Monthly</display-name>
 </channel>
 <programme
-start="20250320000000 +0000"
-stop="20250320060000 +0000"
+start="20250420000000 +0000"
+stop="20250420060000 +0000"
 channel="ppv-3677"
 >
 <title lang="en">LND Monthly</title>
@@ -23,8 +23,8 @@ channel="ppv-3677"
 <display-name>MFN Weekly</display-name>
 </channel>
 <programme
-start="20250320000000 +0000"
-stop="20250320060000 +0000"
+start="20250420000000 +0000"
+stop="20250420060000 +0000"
 channel="ppv-3678"
 >
 <title lang="en">MFN Weekly</title>
@@ -43,8 +43,8 @@ channel="ppv-3678"
 <display-name>Players Championship 14 - Board 2</display-name>
 </channel>
 <programme
-start="20250315110000 +0000"
-stop="20250315235900 +0000"
+start="20250415110000 +0000"
+stop="20250415235900 +0000"
 channel="ppv-6705"
 >
 <title lang="en">Players Championship 14 - Board 2</title>
@@ -63,8 +63,8 @@ channel="ppv-6705"
 <display-name>Players Championship 14 - Board 3</display-name>
 </channel>
 <programme
-start="20250315110000 +0000"
-stop="20250315235900 +0000"
+start="20250415110000 +0000"
+stop="20250415235900 +0000"
 channel="ppv-6706"
 >
 <title lang="en">Players Championship 14 - Board 3</title>
@@ -83,8 +83,8 @@ channel="ppv-6706"
 <display-name>Players Championship 14 - Board 4</display-name>
 </channel>
 <programme
-start="20250315110000 +0000"
-stop="20250315235900 +0000"
+start="20250415110000 +0000"
+stop="20250415235900 +0000"
 channel="ppv-6707"
 >
 <title lang="en">Players Championship 14 - Board 4</title>
@@ -103,8 +103,8 @@ channel="ppv-6707"
 <display-name>Players Championship 14 - Board 1</display-name>
 </channel>
 <programme
-start="20250315110000 +0000"
-stop="20250315235900 +0000"
+start="20250415110000 +0000"
+stop="20250415235900 +0000"
 channel="ppv-6708"
 >
 <title lang="en">Players Championship 14 - Board 1</title>
@@ -123,8 +123,8 @@ channel="ppv-6708"
 <display-name>Players Championship 13 - Board 4</display-name>
 </channel>
 <programme
-start="20250314110000 +0000"
-stop="20250314235900 +0000"
+start="20250414110000 +0000"
+stop="20250414235900 +0000"
 channel="ppv-6691"
 >
 <title lang="en">Players Championship 13 - Board 4</title>
@@ -143,8 +143,8 @@ channel="ppv-6691"
 <display-name>Players Championship 13 - Board 3</display-name>
 </channel>
 <programme
-start="20250314110000 +0000"
-stop="20250314235900 +0000"
+start="20250414110000 +0000"
+stop="20250414235900 +0000"
 channel="ppv-6692"
 >
 <title lang="en">Players Championship 13 - Board 3</title>
@@ -163,8 +163,8 @@ channel="ppv-6692"
 <display-name>Players Championship 13 - Board 2</display-name>
 </channel>
 <programme
-start="20250314110000 +0000"
-stop="20250314235900 +0000"
+start="20250414110000 +0000"
+stop="20250414235900 +0000"
 channel="ppv-6693"
 >
 <title lang="en">Players Championship 13 - Board 2</title>
@@ -183,8 +183,8 @@ channel="ppv-6693"
 <display-name>Players Championship 13 - Board 1</display-name>
 </channel>
 <programme
-start="20250314110000 +0000"
-stop="20250314235900 +0000"
+start="20250414110000 +0000"
+stop="20250414235900 +0000"
 channel="ppv-6694"
 >
 <title lang="en">Players Championship 13 - Board 1</title>
@@ -203,8 +203,8 @@ channel="ppv-6694"
 <display-name>EPL: Bournemouth vs Fulham</display-name>
 </channel>
 <programme
-start="20250314190000 +0000"
-stop="20250314213000 +0000"
+start="20250414190000 +0000"
+stop="20250414213000 +0000"
 channel="ppv-6709"
 >
 <title lang="en">EPL: Bournemouth vs Fulham</title>
@@ -223,8 +223,8 @@ channel="ppv-6709"
 <display-name>LaLiga: Atlético Madrid vs Real Valladolid (English)</display-name>
 </channel>
 <programme
-start="20250314190000 +0000"
-stop="20250314220000 +0000"
+start="20250414190000 +0000"
+stop="20250414220000 +0000"
 channel="ppv-6710"
 >
 <title lang="en">LaLiga: Atlético Madrid vs Real Valladolid (English)</title>
@@ -243,8 +243,8 @@ channel="ppv-6710"
 <display-name>LaLiga: Atlético Madrid vs Real Valladolid (Español)</display-name>
 </channel>
 <programme
-start="20250314190000 +0000"
-stop="20250314220000 +0000"
+start="20250414190000 +0000"
+stop="20250414220000 +0000"
 channel="ppv-6711"
 >
 <title lang="en">LaLiga: Atlético Madrid vs Real Valladolid (Español)</title>
@@ -263,8 +263,8 @@ channel="ppv-6711"
 <display-name>Colorado Rockies vs. Los Angeles Dodgers</display-name>
 </channel>
 <programme
-start="20250315021000 +0000"
-stop="20250315051000 +0000"
+start="20250415021000 +0000"
+stop="20250415051000 +0000"
 channel="ppv-6704"
 >
 <title lang="en">Colorado Rockies vs. Los Angeles Dodgers</title>
@@ -283,8 +283,8 @@ channel="ppv-6704"
 <display-name>Chicago Cubs vs. San Diego Padres</display-name>
 </channel>
 <programme
-start="20250315014000 +0000"
-stop="20250315044000 +0000"
+start="20250415014000 +0000"
+stop="20250415044000 +0000"
 channel="ppv-6703"
 >
 <title lang="en">Chicago Cubs vs. San Diego Padres</title>
@@ -303,8 +303,8 @@ channel="ppv-6703"
 <display-name>Houston Astros vs. St. Louis Cardinals</display-name>
 </channel>
 <programme
-start="20250314234500 +0000"
-stop="20250315024500 +0000"
+start="20250414234500 +0000"
+stop="20250415024500 +0000"
 channel="ppv-6702"
 >
 <title lang="en">Houston Astros vs. St. Louis Cardinals</title>
@@ -323,8 +323,8 @@ channel="ppv-6702"
 <display-name>Detroit Tigers vs. Milwaukee Brewers</display-name>
 </channel>
 <programme
-start="20250314234000 +0000"
-stop="20250315024000 +0000"
+start="20250414234000 +0000"
+stop="20250415024000 +0000"
 channel="ppv-6700"
 >
 <title lang="en">Detroit Tigers vs. Milwaukee Brewers</title>
@@ -343,8 +343,8 @@ channel="ppv-6700"
 <display-name>New York Mets vs. Minnesota Twins</display-name>
 </channel>
 <programme
-start="20250314234000 +0000"
-stop="20250315024000 +0000"
+start="20250414234000 +0000"
+stop="20250415024000 +0000"
 channel="ppv-6701"
 >
 <title lang="en">New York Mets vs. Minnesota Twins</title>
@@ -363,8 +363,8 @@ channel="ppv-6701"
 <display-name>Atlanta Braves vs. Toronto Blue Jays</display-name>
 </channel>
 <programme
-start="20250314230700 +0000"
-stop="20250315020700 +0000"
+start="20250414230700 +0000"
+stop="20250415020700 +0000"
 channel="ppv-6699"
 >
 <title lang="en">Atlanta Braves vs. Toronto Blue Jays</title>
@@ -383,8 +383,8 @@ channel="ppv-6699"
 <display-name>Boston Red Sox vs. Tampa Bay Rays</display-name>
 </channel>
 <programme
-start="20250314230500 +0000"
-stop="20250315020500 +0000"
+start="20250414230500 +0000"
+stop="20250415020500 +0000"
 channel="ppv-6697"
 >
 <title lang="en">Boston Red Sox vs. Tampa Bay Rays</title>
@@ -403,8 +403,8 @@ channel="ppv-6697"
 <display-name>Kansas City Royals vs. New York Yankees</display-name>
 </channel>
 <programme
-start="20250314230500 +0000"
-stop="20250315020500 +0000"
+start="20250414230500 +0000"
+stop="20250415020500 +0000"
 channel="ppv-6698"
 >
 <title lang="en">Kansas City Royals vs. New York Yankees</title>
@@ -423,8 +423,8 @@ channel="ppv-6698"
 <display-name>San Francisco Giants vs. Philadelphia Phillies</display-name>
 </channel>
 <programme
-start="20250314224500 +0000"
-stop="20250315014500 +0000"
+start="20250414224500 +0000"
+stop="20250415014500 +0000"
 channel="ppv-6696"
 >
 <title lang="en">San Francisco Giants vs. Philadelphia Phillies</title>
@@ -443,8 +443,8 @@ channel="ppv-6696"
 <display-name>Washington Nationals vs. Pittsburgh Pirates</display-name>
 </channel>
 <programme
-start="20250314224000 +0000"
-stop="20250315014000 +0000"
+start="20250414224000 +0000"
+stop="20250415014000 +0000"
 channel="ppv-6695"
 >
 <title lang="en">Washington Nationals vs. Pittsburgh Pirates</title>
@@ -463,8 +463,8 @@ channel="ppv-6695"
 <display-name>24/7 S*y Sports Golf</display-name>
 </channel>
 <programme
-start="20250309190000 +0000"
-stop="20250309230000 +0000"
+start="20250409190000 +0000"
+stop="20250409230000 +0000"
 channel="ppv-6543"
 >
 <title lang="en">24/7 S*y Sports Golf</title>
