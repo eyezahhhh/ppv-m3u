@@ -184,8 +184,6 @@ export class Ppv {
                                 <title lang="">${escapeXml(stream.name)}</title>
                             </programme>
                         `.split("\n").map((line) => line.trim()).join("\n");
-
-                        console.log(xml);
                         tvGuide += xml;
                     }
                 } catch (e) {
