@@ -308,14 +308,14 @@ channel="ppv-6710"
 </programme>
 
 <channel id="ppv-6711">
-<display-name>LaLiga: Atlético Madrid vs Real Valladolid (Español)</display-name>
+<display-name>LaLiga: Atlético de Madrid vs Real Valladolid (Español)</display-name>
 </channel>
 <programme
 start="20250414190000 +0000"
 stop="20250414220000 +0000"
 channel="ppv-6711"
 >
-<title lang="en">LaLiga: Atlético Madrid vs Real Valladolid (Español)</title>
+<title lang="en">LaLiga: Atlético de Madrid vs Real Valladolid (Español)</title>
 <sub-title>Football</sub-title>
 <video>
 <present>yes</present>
