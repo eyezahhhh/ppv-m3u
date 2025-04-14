@@ -3,43 +3,79 @@
 <display-name>(North) Korean Central Television</display-name>
 </channel>
 <programme
-start="1737226800 -0000"
-stop="1737237600 -0000"
+start="20250018190000 +0000"
+stop="20250018220000 +0000"
 channel="ppv-3716"
 >
-<title lang="">(North) Korean Central Television</title>
+<title lang="en">(North) Korean Central Television</title>
+<sub-title>(North) Korean Central Television</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
 </programme>
 
 <channel id="ppv-5112">
 <display-name>24/7 South Park</display-name>
 </channel>
 <programme
-start="1737196080 -0000"
-stop="1737196080 -0000"
+start="20250018102800 +0000"
+stop="20250018102800 +0000"
 channel="ppv-5112"
 >
-<title lang="">24/7 South Park</title>
+<title lang="en">24/7 South Park</title>
+<sub-title>24/7 South Park</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
 </programme>
 
 <channel id="ppv-5191">
 <display-name>24/7 The Simpsons</display-name>
 </channel>
 <programme
-start="1737196080 -0000"
-stop="1737196080 -0000"
+start="20250018102800 +0000"
+stop="20250018102800 +0000"
 channel="ppv-5191"
 >
-<title lang="">24/7 The Simpsons</title>
+<title lang="en">24/7 The Simpsons</title>
+<sub-title>24/7 The Simpsons</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
 </programme>
 
 <channel id="ppv-3663">
 <display-name>24/7 COWS</display-name>
 </channel>
 <programme
-start="1737176400 -0000"
-stop="1740772800 -0000"
+start="20250018050000 +0000"
+stop="20250128200000 +0000"
 channel="ppv-3663"
 >
-<title lang="">24/7 COWS</title>
+<title lang="en">24/7 COWS</title>
+<sub-title>24/7 COWS</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
 </programme>
 </tv>
