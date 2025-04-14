@@ -182,7 +182,7 @@ export class Ppv {
                                 channel="${escapeXml(`ppv-${stream.id}`)}"
                             >
                                 <title lang="en">${escapeXml(stream.name)}</title>
-                                <sub-title>${escapeXml(stream.name)}</sub-title>
+                                <sub-title>${escapeXml(stream.category_name)}</sub-title>
                                 <video>
                                     <present>yes</present>
                                     <colour>yes</colour>
@@ -191,6 +191,8 @@ export class Ppv {
                                     <present>yes</present>
                                     <stereo>stereo</stereo>
                                 </audio>
+                                <category>${escapeXml(stream.category_name)}</category>
+                                <icon src="${escapeXml(stream.poster)}" />
                             </programme>
                         `.split("\n").map((line) => line.trim()).join("\n");
                         tvGuide += xml;
