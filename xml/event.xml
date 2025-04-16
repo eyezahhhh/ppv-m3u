@@ -109,6 +109,28 @@ channel="ppv-6763"
 <icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://open.http.mp.streamamg.com/p/3000668/sp/300066800/thumbnail/entry_id/0_q7ntlz5q/width/640@jpeg" />
 </programme>
 
+<channel id="ppv-6771">
+<display-name>PDC_USA_2</display-name>
+</channel>
+<programme
+start="20250416143100 +0000"
+stop="20250416180000 +0000"
+channel="ppv-6771"
+>
+<title lang="en">PDC_USA_2</title>
+<sub-title>Darts</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Darts</category>
+<icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://open.http.mp.streamamg.com/p/3000668/sp/300066800/thumbnail/entry_id/0_g387ky8q/width/640@jpeg" />
+</programme>
+
 <channel id="ppv-6764">
 <display-name>UCL: Real Madrid vs Arsenal (TNT Sports)</display-name>
 </channel>
