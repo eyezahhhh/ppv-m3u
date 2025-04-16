@@ -1,26 +1,4 @@
 <tv>
-<channel id="ppv-6713">
-<display-name>Grizzlies at Warriors</display-name>
-</channel>
-<programme
-start="20250416020000 +0000"
-stop="20250416044500 +0000"
-channel="ppv-6713"
->
-<title lang="en">Grizzlies at Warriors</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/mem-gsw/1280x720.png@jpeg" />
-</programme>
-
 <channel id="ppv-3677">
 <display-name>LND Monthly</display-name>
 </channel>
@@ -437,28 +415,6 @@ channel="ppv-6739"
 </audio>
 <category>MLB</category>
 <icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/U8wdzMR.png@jpeg" />
-</programme>
-
-<channel id="ppv-6738">
-<display-name>Chicago Cubs vs. San Diego Padres</display-name>
-</channel>
-<programme
-start="20250416014000 +0000"
-stop="20250416044000 +0000"
-channel="ppv-6738"
->
-<title lang="en">Chicago Cubs vs. San Diego Padres</title>
-<sub-title>MLB</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>MLB</category>
-<icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/AciTqv0.png@jpeg" />
 </programme>
 
 <channel id="ppv-6723">
