@@ -527,6 +527,28 @@ channel="ppv-6748"
 <icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/c8KazGQ.png@jpeg" />
 </programme>
 
+<channel id="ppv-6770">
+<display-name>TNA: Impact!</display-name>
+</channel>
+<programme
+start="20250418000000 +0000"
+stop="20250418030000 +0000"
+channel="ppv-6770"
+>
+<title lang="en">TNA: Impact!</title>
+<sub-title>Wrestling</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Wrestling</category>
+<icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/FpS5gVp.png@jpeg" />
+</programme>
+
 <channel id="ppv-6724">
 <display-name>AEW: Wednesday Night Dynamite</display-name>
 </channel>
