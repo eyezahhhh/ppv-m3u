@@ -87,6 +87,28 @@ channel="ppv-3678"
 <icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/sed1Yi8.png@jpeg" />
 </programme>
 
+<channel id="ppv-6803">
+<display-name>PFL: First Round - Lightweights and Middleweights</display-name>
+</channel>
+<programme
+start="20250418210000 +0000"
+stop="20250419040000 +0000"
+channel="ppv-6803"
+>
+<title lang="en">PFL: First Round - Lightweights and Middleweights</title>
+<sub-title>Combat Sports</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Combat Sports</category>
+<icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/vNm9uBH.jpeg@jpeg" />
+</programme>
+
 <channel id="ppv-6774">
 <display-name>China Premier League Stage 1 &amp; 2</display-name>
 </channel>
@@ -263,28 +285,6 @@ channel="ppv-6793"
 <icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/dqJ1wTi.png@jpeg" />
 </programme>
 
-<channel id="ppv-6792">
-<display-name>San Francisco Giants vs. Philadelphia Phillies</display-name>
-</channel>
-<programme
-start="20250417200500 +0000"
-stop="20250417230500 +0000"
-channel="ppv-6792"
->
-<title lang="en">San Francisco Giants vs. Philadelphia Phillies</title>
-<sub-title>MLB</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>MLB</category>
-<icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/Kv5PFBc.png@jpeg" />
-</programme>
-
 <channel id="ppv-6802">
 <display-name>F1: Saudi Arabian Grand Prix (Race)</display-name>
 </channel>
@@ -393,6 +393,28 @@ channel="ppv-6798"
 </audio>
 <category>Motorsports</category>
 <icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/0Zzn3wD.png@jpeg" />
+</programme>
+
+<channel id="ppv-6714">
+<display-name>WWE: WrestleMania (Day 1)</display-name>
+</channel>
+<programme
+start="20250419230000 +0000"
+stop="20250420050000 +0000"
+channel="ppv-6714"
+>
+<title lang="en">WWE: WrestleMania (Day 1)</title>
+<sub-title>Wrestling</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Wrestling</category>
+<icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/BA1Xyr4.jpeg@jpeg" />
 </programme>
 
 <channel id="ppv-6718">
