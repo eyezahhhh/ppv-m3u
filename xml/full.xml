@@ -197,6 +197,28 @@ channel="ppv-6834"
 <icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/XduVWAj.jpeg@jpeg" />
 </programme>
 
+<channel id="ppv-6831">
+<display-name>EPL: Fulham vs Chelsea</display-name>
+</channel>
+<programme
+start="20250420130000 +0000"
+stop="20250420153000 +0000"
+channel="ppv-6831"
+>
+<title lang="en">EPL: Fulham vs Chelsea</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/F3UP00C.jpeg@jpeg" />
+</programme>
+
 <channel id="ppv-6832">
 <display-name>EPL: Ipswich Town vs Arsenal</display-name>
 </channel>
@@ -217,6 +239,28 @@ channel="ppv-6832"
 </audio>
 <category>Football</category>
 <icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/hsZ5Ce1.jpeg@jpeg" />
+</programme>
+
+<channel id="ppv-6833">
+<display-name>EPL: Manchester United vs Wolverhampton Wanderers</display-name>
+</channel>
+<programme
+start="20250420130000 +0000"
+stop="20250420153000 +0000"
+channel="ppv-6833"
+>
+<title lang="en">EPL: Manchester United vs Wolverhampton Wanderers</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/tz249gE.jpeg@jpeg" />
 </programme>
 
 <channel id="ppv-6830">
