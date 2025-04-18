@@ -461,28 +461,6 @@ channel="ppv-6807"
 <icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/cYtYZXx.png@jpeg" />
 </programme>
 
-<channel id="ppv-6797">
-<display-name>Los Angeles Angels vs. Texas Rangers</display-name>
-</channel>
-<programme
-start="20250418000500 +0000"
-stop="20250418030500 +0000"
-channel="ppv-6797"
->
-<title lang="en">Los Angeles Angels vs. Texas Rangers</title>
-<sub-title>MLB</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>MLB</category>
-<icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/C70BVub.png@jpeg" />
-</programme>
-
 <channel id="ppv-6802">
 <display-name>F1: Saudi Arabian Grand Prix (Race)</display-name>
 </channel>
@@ -593,6 +571,28 @@ channel="ppv-6798"
 <icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/0Zzn3wD.png@jpeg" />
 </programme>
 
+<channel id="ppv-6715">
+<display-name>WWE: WrestleMania (Day 2)</display-name>
+</channel>
+<programme
+start="20250420230000 +0000"
+stop="20250421050000 +0000"
+channel="ppv-6715"
+>
+<title lang="en">WWE: WrestleMania (Day 2)</title>
+<sub-title>Wrestling</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Wrestling</category>
+<icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/BA1Xyr4.jpeg@jpeg" />
+</programme>
+
 <channel id="ppv-6714">
 <display-name>WWE: WrestleMania (Day 1)</display-name>
 </channel>
@@ -679,50 +679,6 @@ channel="ppv-6822"
 </audio>
 <category>Wrestling</category>
 <icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/1eBOzAK.png@jpeg" />
-</programme>
-
-<channel id="ppv-6723">
-<display-name>AEW: Collision</display-name>
-</channel>
-<programme
-start="20250418000000 +0000"
-stop="20250418030000 +0000"
-channel="ppv-6723"
->
-<title lang="en">AEW: Collision</title>
-<sub-title>Wrestling</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Wrestling</category>
-<icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/x3OPAo3.jpeg@jpeg" />
-</programme>
-
-<channel id="ppv-6770">
-<display-name>TNA: Impact!</display-name>
-</channel>
-<programme
-start="20250418000000 +0000"
-stop="20250418030000 +0000"
-channel="ppv-6770"
->
-<title lang="en">TNA: Impact!</title>
-<sub-title>Wrestling</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Wrestling</category>
-<icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/FpS5gVp.png@jpeg" />
 </programme>
 
 <channel id="ppv-6543">
