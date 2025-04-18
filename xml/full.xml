@@ -791,28 +791,6 @@ channel="ppv-6799"
 <icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/0Zzn3wD.png@jpeg" />
 </programme>
 
-<channel id="ppv-6798">
-<display-name>F1: Saudi Arabian Grand Prix (Practice 1)</display-name>
-</channel>
-<programme
-start="20250418133000 +0000"
-stop="20250418153000 +0000"
-channel="ppv-6798"
->
-<title lang="en">F1: Saudi Arabian Grand Prix (Practice 1)</title>
-<sub-title>Motorsports</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Motorsports</category>
-<icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/0Zzn3wD.png@jpeg" />
-</programme>
-
 <channel id="ppv-6714">
 <display-name>WWE: WrestleMania (Day 1)</display-name>
 </channel>
