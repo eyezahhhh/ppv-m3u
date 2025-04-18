@@ -506,14 +506,14 @@ channel="ppv-6807"
 </programme>
 
 <channel id="ppv-6802">
-<display-name>F1: Saudi Arabian Grand Prix (Race)</display-name>
+<display-name>F1: Saudi Arabian Grand Prix (Race, Sky Sports Commentary)</display-name>
 </channel>
 <programme
 start="20250420170000 +0000"
 stop="20250420200000 +0000"
 channel="ppv-6802"
 >
-<title lang="en">F1: Saudi Arabian Grand Prix (Race)</title>
+<title lang="en">F1: Saudi Arabian Grand Prix (Race, Sky Sports Commentary)</title>
 <sub-title>Motorsports</sub-title>
 <video>
 <present>yes</present>
