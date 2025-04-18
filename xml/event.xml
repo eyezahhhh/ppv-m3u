@@ -131,13 +131,13 @@ channel="ppv-6824"
 <icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://open.http.mp.streamamg.com/p/3000668/sp/300066800/thumbnail/entry_id/0_y7xj6h5h/width/640@jpeg" />
 </programme>
 
-<channel id="ppv-6823">
+<channel id="ppv-6836">
 <display-name>China Premier League  Stage 3, 4 &amp; 5</display-name>
 </channel>
 <programme
 start="20250419010000 +0000"
 stop="20250419160000 +0000"
-channel="ppv-6823"
+channel="ppv-6836"
 >
 <title lang="en">China Premier League  Stage 3, 4 &amp; 5</title>
 <sub-title>Darts</sub-title>
@@ -153,13 +153,13 @@ channel="ppv-6823"
 <icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://open.http.mp.streamamg.com/p/3000668/sp/300066800/thumbnail/entry_id/0_gycvpjin/width/640@jpeg" />
 </programme>
 
-<channel id="ppv-6774">
+<channel id="ppv-6835">
 <display-name>China Premier League Stage 1 &amp; 2</display-name>
 </channel>
 <programme
 start="20250418060000 +0000"
 stop="20250418150000 +0000"
-channel="ppv-6774"
+channel="ppv-6835"
 >
 <title lang="en">China Premier League Stage 1 &amp; 2</title>
 <sub-title>Darts</sub-title>
