@@ -43,28 +43,6 @@ channel="ppv-6868"
 <icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/det-nyk/1280x720.png@jpeg" />
 </programme>
 
-<channel id="ppv-6871">
-<display-name>Clippers at Nuggets</display-name>
-</channel>
-<programme
-start="20250419193000 +0000"
-stop="20250419221500 +0000"
-channel="ppv-6871"
->
-<title lang="en">Clippers at Nuggets</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/lac-den/1280x720.png@jpeg" />
-</programme>
-
 <channel id="ppv-6865">
 <display-name>Boxing: Whittaker v Cameron II</display-name>
 </channel>
@@ -593,28 +571,6 @@ channel="ppv-6846"
 <icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/SUDxl4P.png@jpeg" />
 </programme>
 
-<channel id="ppv-6842">
-<display-name>Seattle Mariners vs. Toronto Blue Jays</display-name>
-</channel>
-<programme
-start="20250419190700 +0000"
-stop="20250419220700 +0000"
-channel="ppv-6842"
->
-<title lang="en">Seattle Mariners vs. Toronto Blue Jays</title>
-<sub-title>MLB</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>MLB</category>
-<icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/I22tu6I.png@jpeg" />
-</programme>
-
 <channel id="ppv-6802">
 <display-name>F1: Saudi Arabian Grand Prix (Race, Sky Sports Commentary)</display-name>
 </channel>
@@ -701,28 +657,6 @@ channel="ppv-6714"
 </audio>
 <category>Wrestling</category>
 <icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/BA1Xyr4.jpeg@jpeg" />
-</programme>
-
-<channel id="ppv-6873">
-<display-name>NXT Stand &amp; Deliver</display-name>
-</channel>
-<programme
-start="20250419160000 +0000"
-stop="20250419230000 +0000"
-channel="ppv-6873"
->
-<title lang="en">NXT Stand &amp; Deliver</title>
-<sub-title>Wrestling</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Wrestling</category>
-<icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/EqBvrZc.jpeg@jpeg" />
 </programme>
 
 <channel id="ppv-6543">
