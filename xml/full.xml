@@ -1,4 +1,92 @@
 <tv>
+<channel id="ppv-6870">
+<display-name>Timberwolves at Lakers</display-name>
+</channel>
+<programme
+start="20250420003000 +0000"
+stop="20250420031500 +0000"
+channel="ppv-6870"
+>
+<title lang="en">Timberwolves at Lakers</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/min-lal/1280x720.png@jpeg" />
+</programme>
+
+<channel id="ppv-6868">
+<display-name>Pistons at Knicks</display-name>
+</channel>
+<programme
+start="20250419220000 +0000"
+stop="20250420004500 +0000"
+channel="ppv-6868"
+>
+<title lang="en">Pistons at Knicks</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/det-nyk/1280x720.png@jpeg" />
+</programme>
+
+<channel id="ppv-6871">
+<display-name>Clippers at Nuggets</display-name>
+</channel>
+<programme
+start="20250419193000 +0000"
+stop="20250419221500 +0000"
+channel="ppv-6871"
+>
+<title lang="en">Clippers at Nuggets</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/lac-den/1280x720.png@jpeg" />
+</programme>
+
+<channel id="ppv-6869">
+<display-name>Bucks at Pacers</display-name>
+</channel>
+<programme
+start="20250419170000 +0000"
+stop="20250419194500 +0000"
+channel="ppv-6869"
+>
+<title lang="en">Bucks at Pacers</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/mil-ind/1280x720.png@jpeg" />
+</programme>
+
 <channel id="ppv-6865">
 <display-name>Boxing: Whittaker v Cameron II</display-name>
 </channel>
@@ -63,6 +151,28 @@ channel="ppv-3678"
 </audio>
 <category>Combat Sports</category>
 <icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/sed1Yi8.png@jpeg" />
+</programme>
+
+<channel id="ppv-6867">
+<display-name>Smith vs. Germain</display-name>
+</channel>
+<programme
+start="20250419180000 +0000"
+stop="20250420010000 +0000"
+channel="ppv-6867"
+>
+<title lang="en">Smith vs. Germain</title>
+<sub-title>Combat Sports</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Combat Sports</category>
+<icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/S8zkukS.png@jpeg" />
 </programme>
 
 <channel id="ppv-6864">
