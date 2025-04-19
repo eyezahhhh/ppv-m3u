@@ -615,28 +615,6 @@ channel="ppv-6842"
 <icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/I22tu6I.png@jpeg" />
 </programme>
 
-<channel id="ppv-6841">
-<display-name>Arizona Diamondbacks vs. Chicago Cubs</display-name>
-</channel>
-<programme
-start="20250419182000 +0000"
-stop="20250419212000 +0000"
-channel="ppv-6841"
->
-<title lang="en">Arizona Diamondbacks vs. Chicago Cubs</title>
-<sub-title>MLB</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>MLB</category>
-<icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/elykGlL.png@jpeg" />
-</programme>
-
 <channel id="ppv-6802">
 <display-name>F1: Saudi Arabian Grand Prix (Race, Sky Sports Commentary)</display-name>
 </channel>
