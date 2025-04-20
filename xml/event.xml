@@ -1,26 +1,4 @@
 <tv>
-<channel id="ppv-6870">
-<display-name>Timberwolves at Lakers</display-name>
-</channel>
-<programme
-start="20250420003000 +0000"
-stop="20250420031500 +0000"
-channel="ppv-6870"
->
-<title lang="en">Timberwolves at Lakers</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/min-lal/1280x720.png@jpeg" />
-</programme>
-
 <channel id="ppv-6865">
 <display-name>Boxing: Whittaker v Cameron II</display-name>
 </channel>
@@ -217,28 +195,6 @@ channel="ppv-6833"
 </audio>
 <category>Football</category>
 <icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/tz249gE.jpeg@jpeg" />
-</programme>
-
-<channel id="ppv-6877">
-<display-name>Colorado Avalanche vs. Dallas Stars</display-name>
-</channel>
-<programme
-start="20250420003000 +0000"
-stop="20250420025100 +0000"
-channel="ppv-6877"
->
-<title lang="en">Colorado Avalanche vs. Dallas Stars</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/EHue8iS.png@jpeg" />
 </programme>
 
 <channel id="ppv-6853">
