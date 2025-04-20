@@ -131,34 +131,12 @@ channel="ppv-6864"
 <icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://open.http.mp.streamamg.com/p/3000668/sp/300066800/thumbnail/entry_id/0_o8c8xq6m/width/640@jpeg" />
 </programme>
 
-<channel id="ppv-6879">
-<display-name>LaLiga: Real Madrid vs Athletic Club</display-name>
-</channel>
-<programme
-start="20250420190000 +0000"
-stop="20250420220000 +0000"
-channel="ppv-6879"
->
-<title lang="en">LaLiga: Real Madrid vs Athletic Club</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/ylzBNYu.jpeg@jpeg" />
-</programme>
-
 <channel id="ppv-6886">
 <display-name>Minnesota Wild vs. Vegas Golden Knights</display-name>
 </channel>
 <programme
 start="20250421020000 +0000"
-stop="20250421042100 +0000"
+stop="20250421050000 +0000"
 channel="ppv-6886"
 >
 <title lang="en">Minnesota Wild vs. Vegas Golden Knights</title>
@@ -180,7 +158,7 @@ channel="ppv-6886"
 </channel>
 <programme
 start="20250420230000 +0000"
-stop="20250421012100 +0000"
+stop="20250421020000 +0000"
 channel="ppv-6885"
 >
 <title lang="en">Ottawa Senators vs. Toronto Maple Leafs</title>
@@ -283,28 +261,6 @@ channel="ppv-6915"
 </audio>
 <category>MLB</category>
 <icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/bu30Wjt.png@jpeg" />
-</programme>
-
-<channel id="ppv-6914">
-<display-name>Los Angeles Dodgers vs. Texas Rangers</display-name>
-</channel>
-<programme
-start="20250420183500 +0000"
-stop="20250420213500 +0000"
-channel="ppv-6914"
->
-<title lang="en">Los Angeles Dodgers vs. Texas Rangers</title>
-<sub-title>MLB</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>MLB</category>
-<icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/kigHVmR.png@jpeg" />
 </programme>
 
 <channel id="ppv-6715">
