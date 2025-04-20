@@ -21,28 +21,6 @@ channel="ppv-6870"
 <icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/min-lal/1280x720.png@jpeg" />
 </programme>
 
-<channel id="ppv-6868">
-<display-name>Pistons at Knicks</display-name>
-</channel>
-<programme
-start="20250419220000 +0000"
-stop="20250420004500 +0000"
-channel="ppv-6868"
->
-<title lang="en">Pistons at Knicks</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/det-nyk/1280x720.png@jpeg" />
-</programme>
-
 <channel id="ppv-6865">
 <display-name>Boxing: Whittaker v Cameron II</display-name>
 </channel>
