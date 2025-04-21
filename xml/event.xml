@@ -43,6 +43,28 @@ channel="ppv-6932"
 <icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/det-nyk/1280x720.png@jpeg" />
 </programme>
 
+<channel id="ppv-6939">
+<display-name>EPL: Manchester City vs Aston Villa</display-name>
+</channel>
+<programme
+start="20250422190000 +0000"
+stop="20250422213000 +0000"
+channel="ppv-6939"
+>
+<title lang="en">EPL: Manchester City vs Aston Villa</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/uMAXnZK.jpeg@jpeg" />
+</programme>
+
 <channel id="ppv-6930">
 <display-name>Edmonton Oilers vs. Los Angeles Kings</display-name>
 </channel>
