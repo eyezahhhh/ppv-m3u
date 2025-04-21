@@ -1,13 +1,13 @@
 <tv>
 <channel id="ppv-6933">
-<display-name>NBA: Clippers at Nuggets</display-name>
+<display-name>Clippers at Nuggets</display-name>
 </channel>
 <programme
 start="20250422020000 +0000"
 stop="20250422044500 +0000"
 channel="ppv-6933"
 >
-<title lang="en">NBA: Clippers at Nuggets</title>
+<title lang="en">Clippers at Nuggets</title>
 <sub-title>Basketball</sub-title>
 <video>
 <present>yes</present>
@@ -22,14 +22,14 @@ channel="ppv-6933"
 </programme>
 
 <channel id="ppv-6932">
-<display-name>NBA: Pistons at Knicks</display-name>
+<display-name>Pistons at Knicks</display-name>
 </channel>
 <programme
 start="20250421233000 +0000"
 stop="20250422021500 +0000"
 channel="ppv-6932"
 >
-<title lang="en">NBA: Pistons at Knicks</title>
+<title lang="en">Pistons at Knicks</title>
 <sub-title>Basketball</sub-title>
 <video>
 <present>yes</present>
