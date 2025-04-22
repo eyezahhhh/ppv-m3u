@@ -1,26 +1,4 @@
 <tv>
-<channel id="ppv-6933">
-<display-name>Clippers at Nuggets</display-name>
-</channel>
-<programme
-start="20250422020000 +0000"
-stop="20250422044500 +0000"
-channel="ppv-6933"
->
-<title lang="en">Clippers at Nuggets</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/lac-den/1280x720.png@jpeg" />
-</programme>
-
 <channel id="ppv-6940">
 <display-name>EPL: Arsenal vs Crystal Palace</display-name>
 </channel>
@@ -481,28 +459,6 @@ channel="ppv-6943"
 </audio>
 <category>MLB</category>
 <icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/J0Y6Pkc.png@jpeg" />
-</programme>
-
-<channel id="ppv-6926">
-<display-name>Milwaukee Brewers vs. San Francisco Giants</display-name>
-</channel>
-<programme
-start="20250422014500 +0000"
-stop="20250422044500 +0000"
-channel="ppv-6926"
->
-<title lang="en">Milwaukee Brewers vs. San Francisco Giants</title>
-<sub-title>MLB</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>MLB</category>
-<icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/hZzieER.png@jpeg" />
 </programme>
 
 <channel id="ppv-6937">
