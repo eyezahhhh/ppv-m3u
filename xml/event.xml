@@ -131,28 +131,6 @@ channel="ppv-6939"
 <icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/uMAXnZK.jpeg@jpeg" />
 </programme>
 
-<channel id="ppv-6941">
-<display-name>LaLiga: Valencia vs Espanyol</display-name>
-</channel>
-<programme
-start="20250422170000 +0000"
-stop="20250422193000 +0000"
-channel="ppv-6941"
->
-<title lang="en">LaLiga: Valencia vs Espanyol</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/0Pm4Y8y.jpeg@jpeg" />
-</programme>
-
 <channel id="ppv-6961">
 <display-name>Minnesota Wild vs. Vegas Golden Knights</display-name>
 </channel>
