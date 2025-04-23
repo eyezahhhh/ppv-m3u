@@ -263,28 +263,6 @@ channel="ppv-6959"
 <icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/4nCB6CL.png@jpeg" />
 </programme>
 
-<channel id="ppv-6958">
-<display-name>New Jersey Devils vs. Carolina Hurricanes</display-name>
-</channel>
-<programme
-start="20250422220000 +0000"
-stop="20250423010000 +0000"
-channel="ppv-6958"
->
-<title lang="en">New Jersey Devils vs. Carolina Hurricanes</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/5H6d9sg.png@jpeg" />
-</programme>
-
 <channel id="ppv-6957">
 <display-name>Texas Rangers vs. Athletics</display-name>
 </channel>
@@ -591,28 +569,6 @@ channel="ppv-6945"
 </audio>
 <category>MLB</category>
 <icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/QajDq4g.png@jpeg" />
-</programme>
-
-<channel id="ppv-6943">
-<display-name>New York Yankees vs. Cleveland Guardians</display-name>
-</channel>
-<programme
-start="20250422221000 +0000"
-stop="20250423011000 +0000"
-channel="ppv-6943"
->
-<title lang="en">New York Yankees vs. Cleveland Guardians</title>
-<sub-title>MLB</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>MLB</category>
-<icon src="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/J0Y6Pkc.png@jpeg" />
 </programme>
 
 <channel id="ppv-6938">
