@@ -32,7 +32,7 @@ jobs:
       - name: Push changes
         run: |
           git config --global user.name "PPV Updater"
-          git config --global user.email "github@eyezah.com"
+          git config --global user.email "ppv-m3u@eyezah.com"
           git add m3u
           git add xml
           git commit -m "Automatically update M3U playlists"
