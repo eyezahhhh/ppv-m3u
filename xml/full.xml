@@ -87,28 +87,6 @@ channel="ppv-7011"
 <icon src="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/den-lac/1280x720.png" />
 </programme>
 
-<channel id="ppv-7010">
-<display-name>Thunder at Grizzlies</display-name>
-</channel>
-<programme
-start="20250425013000 +0000"
-stop="20250425041500 +0000"
-channel="ppv-7010"
->
-<title lang="en">Thunder at Grizzlies</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/okc-mem/1280x720.png" />
-</programme>
-
 <channel id="ppv-3677">
 <display-name>LND Monthly</display-name>
 </channel>
@@ -327,28 +305,6 @@ channel="ppv-7028"
 </audio>
 <category>Ice Hockey</category>
 <icon src="https://i.imgur.com/Qaq0miH.png" />
-</programme>
-
-<channel id="ppv-7006">
-<display-name>Winnipeg Jets vs. St. Louis Blues</display-name>
-</channel>
-<programme
-start="20250425013000 +0000"
-stop="20250425043000 +0000"
-channel="ppv-7006"
->
-<title lang="en">Winnipeg Jets vs. St. Louis Blues</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://i.imgur.com/gIzfSE1.png" />
 </programme>
 
 <channel id="ppv-7027">
@@ -723,28 +679,6 @@ channel="ppv-7001"
 </audio>
 <category>MLB</category>
 <icon src="https://i.imgur.com/RiiNFTT.png" />
-</programme>
-
-<channel id="ppv-7000">
-<display-name>Pittsburgh Pirates vs. Los Angeles Angels</display-name>
-</channel>
-<programme
-start="20250425012900 +0000"
-stop="20250425042900 +0000"
-channel="ppv-7000"
->
-<title lang="en">Pittsburgh Pirates vs. Los Angeles Angels</title>
-<sub-title>MLB</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>MLB</category>
-<icon src="https://i.imgur.com/0TzwztZ.png" />
 </programme>
 
 <channel id="ppv-6938">
