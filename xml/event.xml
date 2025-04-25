@@ -329,28 +329,6 @@ channel="ppv-7004"
 <icon src="https://i.imgur.com/9FiyzU0.png" />
 </programme>
 
-<channel id="ppv-7003">
-<display-name>Florida Panthers vs. Tampa Bay Lightning</display-name>
-</channel>
-<programme
-start="20250424223000 +0000"
-stop="20250425013000 +0000"
-channel="ppv-7003"
->
-<title lang="en">Florida Panthers vs. Tampa Bay Lightning</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://i.imgur.com/Sxytqll.png" />
-</programme>
-
 <channel id="ppv-7002">
 <display-name>Texas Rangers vs. Athletics</display-name>
 </channel>
