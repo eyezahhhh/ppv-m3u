@@ -1,13 +1,13 @@
 <tv>
 <channel id="ppv-6806">
-<display-name>2025 NFL Draft: Day 3</display-name>
+<display-name>2025 NFL Draft: Rounds 4-7</display-name>
 </channel>
 <programme
 start="20250426160000 +0000"
 stop="20250426230000 +0000"
 channel="ppv-6806"
 >
-<title lang="en">2025 NFL Draft: Day 3</title>
+<title lang="en">2025 NFL Draft: Rounds 4-7</title>
 <sub-title>American Football</sub-title>
 <video>
 <present>yes</present>
@@ -22,14 +22,14 @@ channel="ppv-6806"
 </programme>
 
 <channel id="ppv-6805">
-<display-name>2025 NFL Draft: Day 2</display-name>
+<display-name>2025 NFL Draft: Round 2 &amp; 3</display-name>
 </channel>
 <programme
 start="20250425230000 +0000"
 stop="20250426040000 +0000"
 channel="ppv-6805"
 >
-<title lang="en">2025 NFL Draft: Day 2</title>
+<title lang="en">2025 NFL Draft: Round 2 &amp; 3</title>
 <sub-title>American Football</sub-title>
 <video>
 <present>yes</present>
