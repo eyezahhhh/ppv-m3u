@@ -351,15 +351,15 @@ channel="ppv-7041"
 <icon src="https://i.imgur.com/bjFYuVO.jpeg" />
 </programme>
 
-<channel id="ppv-7040">
-<display-name>FA Cup: Crystal Palace vs Aston Villa</display-name>
+<channel id="ppv-7254">
+<display-name>Yokohama F. Marinos vs. Al Nassr</display-name>
 </channel>
 <programme
-start="20250426161500 +0000"
-stop="20250426191500 +0000"
-channel="ppv-7040"
+start="20250426193000 +0000"
+stop="20250426223000 +0000"
+channel="ppv-7254"
 >
-<title lang="en">FA Cup: Crystal Palace vs Aston Villa</title>
+<title lang="en">Yokohama F. Marinos vs. Al Nassr</title>
 <sub-title>Football</sub-title>
 <video>
 <present>yes</present>
@@ -370,7 +370,7 @@ channel="ppv-7040"
 <stereo>stereo</stereo>
 </audio>
 <category>Football</category>
-<icon src="https://i.imgur.com/tDpdzFV.jpeg" />
+<icon src="https://i.imgur.com/tvRuWWp.png" />
 </programme>
 
 <channel id="ppv-7253">
