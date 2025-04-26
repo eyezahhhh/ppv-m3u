@@ -263,28 +263,6 @@ channel="ppv-7031"
 <icon src="https://open.http.mp.streamamg.com/p/3000668/sp/300066800/thumbnail/entry_id/0_afql0yc5/width/640" />
 </programme>
 
-<channel id="ppv-7008">
-<display-name>PDC: 2025 Austrian Darts Open Day One</display-name>
-</channel>
-<programme
-start="20250425110000 +0000"
-stop="20250425235900 +0000"
-channel="ppv-7008"
->
-<title lang="en">PDC: 2025 Austrian Darts Open Day One</title>
-<sub-title>Darts</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Darts</category>
-<icon src="https://open.http.mp.streamamg.com/p/3000668/sp/300066800/thumbnail/entry_id/0_y0k08fwo/width/640" />
-</programme>
-
 <channel id="ppv-7041">
 <display-name>Copa del Rey: Barcelona vs Real Madrid</display-name>
 </channel>
