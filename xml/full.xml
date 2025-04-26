@@ -21,6 +21,94 @@ channel="ppv-6806"
 <icon src="https://i.imgur.com/iQUQhgd.png" />
 </programme>
 
+<channel id="ppv-7091">
+<display-name>Rockets at Warriors</display-name>
+</channel>
+<programme
+start="20250427003000 +0000"
+stop="20250427031500 +0000"
+channel="ppv-7091"
+>
+<title lang="en">Rockets at Warriors</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/hou-gsw/1280x720.png" />
+</programme>
+
+<channel id="ppv-7092">
+<display-name>Nuggets at Clippers</display-name>
+</channel>
+<programme
+start="20250426220000 +0000"
+stop="20250427004500 +0000"
+channel="ppv-7092"
+>
+<title lang="en">Nuggets at Clippers</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/den-lac/1280x720.png" />
+</programme>
+
+<channel id="ppv-7090">
+<display-name>Thunder at Grizzlies</display-name>
+</channel>
+<programme
+start="20250426193000 +0000"
+stop="20250426221500 +0000"
+channel="ppv-7090"
+>
+<title lang="en">Thunder at Grizzlies</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/okc-mem/1280x720.png" />
+</programme>
+
+<channel id="ppv-7089">
+<display-name>Cavaliers at Heat</display-name>
+</channel>
+<programme
+start="20250426170000 +0000"
+stop="20250426194500 +0000"
+channel="ppv-7089"
+>
+<title lang="en">Cavaliers at Heat</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/cle-mia/1280x720.png" />
+</programme>
+
 <channel id="ppv-3677">
 <display-name>LND Monthly</display-name>
 </channel>
@@ -87,28 +175,6 @@ channel="ppv-7073"
 <icon src="https://i.imgur.com/xp1zqVu.jpeg" />
 </programme>
 
-<channel id="ppv-6399">
-<display-name>OKTAGON 70 (German/Deutsch)</display-name>
-</channel>
-<programme
-start="20250426160000 +0000"
-stop="20250426220000 +0000"
-channel="ppv-6399"
->
-<title lang="en">OKTAGON 70 (German/Deutsch)</title>
-<sub-title>Combat Sports</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Combat Sports</category>
-<icon src="https://i.imgur.com/k3tXbj5.jpeg" />
-</programme>
-
 <channel id="ppv-6667">
 <display-name>Boxing: Eubank Jr. vs. Benn</display-name>
 </channel>
@@ -131,12 +197,34 @@ channel="ppv-6667"
 <icon src="https://i.imgur.com/pHcYNVd.jpeg" />
 </programme>
 
+<channel id="ppv-6399">
+<display-name>OKTAGON 70 (German/Deutsch)</display-name>
+</channel>
+<programme
+start="20250426153000 +0000"
+stop="20250426213000 +0000"
+channel="ppv-6399"
+>
+<title lang="en">OKTAGON 70 (German/Deutsch)</title>
+<sub-title>Combat Sports</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Combat Sports</category>
+<icon src="https://i.imgur.com/k3tXbj5.jpeg" />
+</programme>
+
 <channel id="ppv-7042">
 <display-name>OKTAGON 70 (Czech)</display-name>
 </channel>
 <programme
-start="20250426160000 +0000"
-stop="20250426220000 +0000"
+start="20250426153000 +0000"
+stop="20250426213000 +0000"
 channel="ppv-7042"
 >
 <title lang="en">OKTAGON 70 (Czech)</title>
@@ -157,8 +245,8 @@ channel="ppv-7042"
 <display-name>Oktagon 70 (English)</display-name>
 </channel>
 <programme
-start="20250426160000 +0000"
-stop="20250426220000 +0000"
+start="20250426153000 +0000"
+stop="20250426213000 +0000"
 channel="ppv-7043"
 >
 <title lang="en">Oktagon 70 (English)</title>
@@ -503,72 +591,6 @@ channel="ppv-7088"
 </audio>
 <category>Football</category>
 <icon src="https://i.imgur.com/4XMs63T.jpeg" />
-</programme>
-
-<channel id="ppv-7074">
-<display-name>EPL: Chelsea vs Everton</display-name>
-</channel>
-<programme
-start="20250426113000 +0000"
-stop="20250426140000 +0000"
-channel="ppv-7074"
->
-<title lang="en">EPL: Chelsea vs Everton</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://i.imgur.com/ztQrNDK.jpeg" />
-</programme>
-
-<channel id="ppv-7080">
-<display-name>EFL: Luton vs Coventry</display-name>
-</channel>
-<programme
-start="20250426113000 +0000"
-stop="20250426140000 +0000"
-channel="ppv-7080"
->
-<title lang="en">EFL: Luton vs Coventry</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://i.imgur.com/0P1jDJP.jpeg" />
-</programme>
-
-<channel id="ppv-7081">
-<display-name>EFL: QPR vs Burnley</display-name>
-</channel>
-<programme
-start="20250426113000 +0000"
-stop="20250426140000 +0000"
-channel="ppv-7081"
->
-<title lang="en">EFL: QPR vs Burnley</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://i.imgur.com/2hRINbu.jpeg" />
 </programme>
 
 <channel id="ppv-6938">
