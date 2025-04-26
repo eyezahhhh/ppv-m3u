@@ -197,6 +197,28 @@ channel="ppv-7072"
 <icon src="https://open.http.mp.streamamg.com/p/3000668/sp/300066800/thumbnail/entry_id/0_6mh9frxi/width/640" />
 </programme>
 
+<channel id="ppv-7079">
+<display-name>PDC: 2025 Austrian Darts Open Day Two</display-name>
+</channel>
+<programme
+start="20250426110000 +0000"
+stop="20250426235900 +0000"
+channel="ppv-7079"
+>
+<title lang="en">PDC: 2025 Austrian Darts Open Day Two</title>
+<sub-title>Darts</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Darts</category>
+<icon src="https://open.http.mp.streamamg.com/p/3000668/sp/300066800/thumbnail/entry_id/0_afql0yc5/width/640" />
+</programme>
+
 <channel id="ppv-7041">
 <display-name>Copa del Rey: Barcelona vs Real Madrid</display-name>
 </channel>
@@ -239,6 +261,116 @@ channel="ppv-7040"
 </audio>
 <category>Football</category>
 <icon src="https://i.imgur.com/tDpdzFV.jpeg" />
+</programme>
+
+<channel id="ppv-7075">
+<display-name>EPL: Brighton and Hove Albion vs West Ham United</display-name>
+</channel>
+<programme
+start="20250426140000 +0000"
+stop="20250426163000 +0000"
+channel="ppv-7075"
+>
+<title lang="en">EPL: Brighton and Hove Albion vs West Ham United</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://i.imgur.com/ihSDVvG.jpeg" />
+</programme>
+
+<channel id="ppv-7076">
+<display-name>EPL: Newcastle United vs Ipswich Town</display-name>
+</channel>
+<programme
+start="20250426140000 +0000"
+stop="20250426163000 +0000"
+channel="ppv-7076"
+>
+<title lang="en">EPL: Newcastle United vs Ipswich Town</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://i.imgur.com/tD4hrtc.jpeg" />
+</programme>
+
+<channel id="ppv-7077">
+<display-name>EPL: Southampton vs Fulham</display-name>
+</channel>
+<programme
+start="20250426140000 +0000"
+stop="20250426163000 +0000"
+channel="ppv-7077"
+>
+<title lang="en">EPL: Southampton vs Fulham</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://i.imgur.com/Wlq1uJt.jpeg" />
+</programme>
+
+<channel id="ppv-7078">
+<display-name>EPL: Wolverhampton Wanderers vs Leicester City</display-name>
+</channel>
+<programme
+start="20250426140000 +0000"
+stop="20250426163000 +0000"
+channel="ppv-7078"
+>
+<title lang="en">EPL: Wolverhampton Wanderers vs Leicester City</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://i.imgur.com/ZrAWCGp.jpeg" />
+</programme>
+
+<channel id="ppv-7074">
+<display-name>EPL: Chelsea vs Everton</display-name>
+</channel>
+<programme
+start="20250426113000 +0000"
+stop="20250426140000 +0000"
+channel="ppv-7074"
+>
+<title lang="en">EPL: Chelsea vs Everton</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://i.imgur.com/ztQrNDK.jpeg" />
 </programme>
 
 <channel id="ppv-6938">
