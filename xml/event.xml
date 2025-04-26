@@ -373,365 +373,13 @@ channel="ppv-7040"
 <icon src="https://i.imgur.com/tDpdzFV.jpeg" />
 </programme>
 
-<channel id="ppv-5193">
-<display-name>EPL: Goal Rush</display-name>
-</channel>
-<programme
-start="20250426140000 +0000"
-stop="20250426163000 +0000"
-channel="ppv-5193"
->
-<title lang="en">EPL: Goal Rush</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://i.imgur.com/xZ7nAWB.jpeg" />
-</programme>
-
-<channel id="ppv-7075">
-<display-name>EPL: Brighton and Hove Albion vs West Ham United</display-name>
-</channel>
-<programme
-start="20250426140000 +0000"
-stop="20250426163000 +0000"
-channel="ppv-7075"
->
-<title lang="en">EPL: Brighton and Hove Albion vs West Ham United</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://i.imgur.com/ihSDVvG.jpeg" />
-</programme>
-
-<channel id="ppv-7076">
-<display-name>EPL: Newcastle United vs Ipswich Town</display-name>
-</channel>
-<programme
-start="20250426140000 +0000"
-stop="20250426163000 +0000"
-channel="ppv-7076"
->
-<title lang="en">EPL: Newcastle United vs Ipswich Town</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://i.imgur.com/tD4hrtc.jpeg" />
-</programme>
-
-<channel id="ppv-7077">
-<display-name>EPL: Southampton vs Fulham</display-name>
-</channel>
-<programme
-start="20250426140000 +0000"
-stop="20250426163000 +0000"
-channel="ppv-7077"
->
-<title lang="en">EPL: Southampton vs Fulham</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://i.imgur.com/Wlq1uJt.jpeg" />
-</programme>
-
-<channel id="ppv-7078">
-<display-name>EPL: Wolverhampton Wanderers vs Leicester City</display-name>
-</channel>
-<programme
-start="20250426140000 +0000"
-stop="20250426163000 +0000"
-channel="ppv-7078"
->
-<title lang="en">EPL: Wolverhampton Wanderers vs Leicester City</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://i.imgur.com/ZrAWCGp.jpeg" />
-</programme>
-
-<channel id="ppv-7082">
-<display-name>EFL: Cardiff vs West Brom</display-name>
-</channel>
-<programme
-start="20250426140000 +0000"
-stop="20250426163000 +0000"
-channel="ppv-7082"
->
-<title lang="en">EFL: Cardiff vs West Brom</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://i.imgur.com/ciWZn9g.jpeg" />
-</programme>
-
-<channel id="ppv-7083">
-<display-name>EFL: Middlesbrough vs Norwich</display-name>
-</channel>
-<programme
-start="20250426140000 +0000"
-stop="20250426163000 +0000"
-channel="ppv-7083"
->
-<title lang="en">EFL: Middlesbrough vs Norwich</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://i.imgur.com/nBNQAnR.jpeg" />
-</programme>
-
-<channel id="ppv-7084">
-<display-name>EFL: Millwall vs Swansea</display-name>
-</channel>
-<programme
-start="20250426140000 +0000"
-stop="20250426163000 +0000"
-channel="ppv-7084"
->
-<title lang="en">EFL: Millwall vs Swansea</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://i.imgur.com/9uyRy18.jpeg" />
-</programme>
-
-<channel id="ppv-7085">
-<display-name>EFL: Blackburn vs Watford</display-name>
-</channel>
-<programme
-start="20250426140000 +0000"
-stop="20250426163000 +0000"
-channel="ppv-7085"
->
-<title lang="en">EFL: Blackburn vs Watford</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://i.imgur.com/ao2w6HJ.jpeg" />
-</programme>
-
-<channel id="ppv-7086">
-<display-name>EFL: Preston vs Plymouth</display-name>
-</channel>
-<programme
-start="20250426140000 +0000"
-stop="20250426163000 +0000"
-channel="ppv-7086"
->
-<title lang="en">EFL: Preston vs Plymouth</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://i.imgur.com/9Akfffm.jpeg" />
-</programme>
-
-<channel id="ppv-7087">
-<display-name>EFL: Sheffield Weds vs Portsmouth</display-name>
-</channel>
-<programme
-start="20250426140000 +0000"
-stop="20250426163000 +0000"
-channel="ppv-7087"
->
-<title lang="en">EFL: Sheffield Weds vs Portsmouth</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://i.imgur.com/BL9WY6x.jpeg" />
-</programme>
-
-<channel id="ppv-7088">
-<display-name>EFL: Oxford Utd vs Sunderland</display-name>
-</channel>
-<programme
-start="20250426140000 +0000"
-stop="20250426163000 +0000"
-channel="ppv-7088"
->
-<title lang="en">EFL: Oxford Utd vs Sunderland</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://i.imgur.com/4XMs63T.jpeg" />
-</programme>
-
-<channel id="ppv-7096">
-<display-name>Dallas Stars vs. Colorado Avalanche</display-name>
-</channel>
-<programme
-start="20250427013000 +0000"
-stop="20250427043000 +0000"
-channel="ppv-7096"
->
-<title lang="en">Dallas Stars vs. Colorado Avalanche</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://i.imgur.com/cNrOs4r.png" />
-</programme>
-
-<channel id="ppv-7095">
-<display-name>Toronto Maple Leafs vs. Ottawa Senators</display-name>
-</channel>
-<programme
-start="20250426230000 +0000"
-stop="20250427020000 +0000"
-channel="ppv-7095"
->
-<title lang="en">Toronto Maple Leafs vs. Ottawa Senators</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://i.imgur.com/jk4xzKL.png" />
-</programme>
-
-<channel id="ppv-7094">
-<display-name>Vegas Golden Knights vs. Minnesota Wild</display-name>
-</channel>
-<programme
-start="20250426200000 +0000"
-stop="20250426230000 +0000"
-channel="ppv-7094"
->
-<title lang="en">Vegas Golden Knights vs. Minnesota Wild</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://i.imgur.com/gajYeyf.png" />
-</programme>
-
-<channel id="ppv-7093">
-<display-name>Tampa Bay Lightning vs. Florida Panthers</display-name>
-</channel>
-<programme
-start="20250426170000 +0000"
-stop="20250426200000 +0000"
-channel="ppv-7093"
->
-<title lang="en">Tampa Bay Lightning vs. Florida Panthers</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://i.imgur.com/5nAYjrh.png" />
-</programme>
-
-<channel id="ppv-7113">
+<channel id="ppv-7232">
 <display-name>Miami Marlins vs. Seattle Mariners</display-name>
 </channel>
 <programme
 start="20250427014000 +0000"
 stop="20250427044000 +0000"
-channel="ppv-7113"
+channel="ppv-7232"
 >
 <title lang="en">Miami Marlins vs. Seattle Mariners</title>
 <sub-title>MLB</sub-title>
@@ -744,16 +392,38 @@ channel="ppv-7113"
 <stereo>stereo</stereo>
 </audio>
 <category>MLB</category>
-<icon src="https://i.imgur.com/95SMCGH.png" />
+<icon src="https://i.imgur.com/CPJtfOo.png" />
 </programme>
 
-<channel id="ppv-7112">
+<channel id="ppv-7249">
+<display-name>Miami Marlins vs. Seattle Mariners</display-name>
+</channel>
+<programme
+start="20250427014000 +0000"
+stop="20250427044000 +0000"
+channel="ppv-7249"
+>
+<title lang="en">Miami Marlins vs. Seattle Mariners</title>
+<sub-title>MLB</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>MLB</category>
+<icon src="https://i.imgur.com/SSjr1Bc.png" />
+</programme>
+
+<channel id="ppv-7231">
 <display-name>Pittsburgh Pirates vs. Los Angeles Dodgers</display-name>
 </channel>
 <programme
 start="20250427011000 +0000"
 stop="20250427041000 +0000"
-channel="ppv-7112"
+channel="ppv-7231"
 >
 <title lang="en">Pittsburgh Pirates vs. Los Angeles Dodgers</title>
 <sub-title>MLB</sub-title>
@@ -766,16 +436,38 @@ channel="ppv-7112"
 <stereo>stereo</stereo>
 </audio>
 <category>MLB</category>
-<icon src="https://i.imgur.com/CiqdGTe.png" />
+<icon src="https://i.imgur.com/qhAOUgX.png" />
 </programme>
 
-<channel id="ppv-7111">
+<channel id="ppv-7248">
+<display-name>Pittsburgh Pirates vs. Los Angeles Dodgers</display-name>
+</channel>
+<programme
+start="20250427011000 +0000"
+stop="20250427041000 +0000"
+channel="ppv-7248"
+>
+<title lang="en">Pittsburgh Pirates vs. Los Angeles Dodgers</title>
+<sub-title>MLB</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>MLB</category>
+<icon src="https://i.imgur.com/7cemuBP.png" />
+</programme>
+
+<channel id="ppv-7230">
 <display-name>Tampa Bay Rays vs. San Diego Padres</display-name>
 </channel>
 <programme
 start="20250427004000 +0000"
 stop="20250427034000 +0000"
-channel="ppv-7111"
+channel="ppv-7230"
 >
 <title lang="en">Tampa Bay Rays vs. San Diego Padres</title>
 <sub-title>MLB</sub-title>
@@ -788,16 +480,38 @@ channel="ppv-7111"
 <stereo>stereo</stereo>
 </audio>
 <category>MLB</category>
-<icon src="https://i.imgur.com/3DW6P8n.png" />
+<icon src="https://i.imgur.com/Lq9O9A8.png" />
 </programme>
 
-<channel id="ppv-7110">
+<channel id="ppv-7247">
+<display-name>Tampa Bay Rays vs. San Diego Padres</display-name>
+</channel>
+<programme
+start="20250427004000 +0000"
+stop="20250427034000 +0000"
+channel="ppv-7247"
+>
+<title lang="en">Tampa Bay Rays vs. San Diego Padres</title>
+<sub-title>MLB</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>MLB</category>
+<icon src="https://i.imgur.com/jPJsrru.png" />
+</programme>
+
+<channel id="ppv-7229">
 <display-name>Atlanta Braves vs. Arizona Diamondbacks</display-name>
 </channel>
 <programme
 start="20250427001000 +0000"
 stop="20250427031000 +0000"
-channel="ppv-7110"
+channel="ppv-7229"
 >
 <title lang="en">Atlanta Braves vs. Arizona Diamondbacks</title>
 <sub-title>MLB</sub-title>
@@ -810,16 +524,38 @@ channel="ppv-7110"
 <stereo>stereo</stereo>
 </audio>
 <category>MLB</category>
-<icon src="https://i.imgur.com/xVTFWh6.png" />
+<icon src="https://i.imgur.com/JX7rKMH.png" />
 </programme>
 
-<channel id="ppv-7109">
+<channel id="ppv-7246">
+<display-name>Atlanta Braves vs. Arizona Diamondbacks</display-name>
+</channel>
+<programme
+start="20250427001000 +0000"
+stop="20250427031000 +0000"
+channel="ppv-7246"
+>
+<title lang="en">Atlanta Braves vs. Arizona Diamondbacks</title>
+<sub-title>MLB</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>MLB</category>
+<icon src="https://i.imgur.com/11o4lIb.png" />
+</programme>
+
+<channel id="ppv-7228">
 <display-name>Houston Astros vs. Kansas City Royals</display-name>
 </channel>
 <programme
 start="20250426231000 +0000"
 stop="20250427021000 +0000"
-channel="ppv-7109"
+channel="ppv-7228"
 >
 <title lang="en">Houston Astros vs. Kansas City Royals</title>
 <sub-title>MLB</sub-title>
@@ -832,16 +568,38 @@ channel="ppv-7109"
 <stereo>stereo</stereo>
 </audio>
 <category>MLB</category>
-<icon src="https://i.imgur.com/GMkjNUZ.png" />
+<icon src="https://i.imgur.com/iDjTteX.png" />
 </programme>
 
-<channel id="ppv-7107">
+<channel id="ppv-7245">
+<display-name>Houston Astros vs. Kansas City Royals</display-name>
+</channel>
+<programme
+start="20250426231000 +0000"
+stop="20250427021000 +0000"
+channel="ppv-7245"
+>
+<title lang="en">Houston Astros vs. Kansas City Royals</title>
+<sub-title>MLB</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>MLB</category>
+<icon src="https://i.imgur.com/fspfb9z.png" />
+</programme>
+
+<channel id="ppv-7226">
 <display-name>Boston Red Sox vs. Cleveland Guardians</display-name>
 </channel>
 <programme
 start="20250426221000 +0000"
 stop="20250427011000 +0000"
-channel="ppv-7107"
+channel="ppv-7226"
 >
 <title lang="en">Boston Red Sox vs. Cleveland Guardians</title>
 <sub-title>MLB</sub-title>
@@ -854,16 +612,16 @@ channel="ppv-7107"
 <stereo>stereo</stereo>
 </audio>
 <category>MLB</category>
-<icon src="https://i.imgur.com/ldIQd1Q.png" />
+<icon src="https://i.imgur.com/nHEjrMB.png" />
 </programme>
 
-<channel id="ppv-7108">
+<channel id="ppv-7227">
 <display-name>Baltimore Orioles vs. Detroit Tigers</display-name>
 </channel>
 <programme
 start="20250426221000 +0000"
 stop="20250427011000 +0000"
-channel="ppv-7108"
+channel="ppv-7227"
 >
 <title lang="en">Baltimore Orioles vs. Detroit Tigers</title>
 <sub-title>MLB</sub-title>
@@ -876,16 +634,60 @@ channel="ppv-7108"
 <stereo>stereo</stereo>
 </audio>
 <category>MLB</category>
-<icon src="https://i.imgur.com/oJQl9xj.png" />
+<icon src="https://i.imgur.com/5UId5Gr.png" />
 </programme>
 
-<channel id="ppv-7103">
+<channel id="ppv-7243">
+<display-name>Boston Red Sox vs. Cleveland Guardians</display-name>
+</channel>
+<programme
+start="20250426221000 +0000"
+stop="20250427011000 +0000"
+channel="ppv-7243"
+>
+<title lang="en">Boston Red Sox vs. Cleveland Guardians</title>
+<sub-title>MLB</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>MLB</category>
+<icon src="https://i.imgur.com/dPZSE1r.png" />
+</programme>
+
+<channel id="ppv-7244">
+<display-name>Baltimore Orioles vs. Detroit Tigers</display-name>
+</channel>
+<programme
+start="20250426221000 +0000"
+stop="20250427011000 +0000"
+channel="ppv-7244"
+>
+<title lang="en">Baltimore Orioles vs. Detroit Tigers</title>
+<sub-title>MLB</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>MLB</category>
+<icon src="https://i.imgur.com/fdxKSTV.png" />
+</programme>
+
+<channel id="ppv-7222">
 <display-name>New York Mets vs. Washington Nationals</display-name>
 </channel>
 <programme
 start="20250426200500 +0000"
 stop="20250426230500 +0000"
-channel="ppv-7103"
+channel="ppv-7222"
 >
 <title lang="en">New York Mets vs. Washington Nationals</title>
 <sub-title>MLB</sub-title>
@@ -898,16 +700,16 @@ channel="ppv-7103"
 <stereo>stereo</stereo>
 </audio>
 <category>MLB</category>
-<icon src="https://i.imgur.com/A2fzI97.png" />
+<icon src="https://i.imgur.com/OarejfE.png" />
 </programme>
 
-<channel id="ppv-7104">
+<channel id="ppv-7223">
 <display-name>Philadelphia Phillies vs. Chicago Cubs</display-name>
 </channel>
 <programme
 start="20250426200500 +0000"
 stop="20250426230500 +0000"
-channel="ppv-7104"
+channel="ppv-7223"
 >
 <title lang="en">Philadelphia Phillies vs. Chicago Cubs</title>
 <sub-title>MLB</sub-title>
@@ -920,16 +722,16 @@ channel="ppv-7104"
 <stereo>stereo</stereo>
 </audio>
 <category>MLB</category>
-<icon src="https://i.imgur.com/EAQHCMz.png" />
+<icon src="https://i.imgur.com/cM0ZUSc.png" />
 </programme>
 
-<channel id="ppv-7105">
+<channel id="ppv-7224">
 <display-name>Texas Rangers vs. San Francisco Giants</display-name>
 </channel>
 <programme
 start="20250426200500 +0000"
 stop="20250426230500 +0000"
-channel="ppv-7105"
+channel="ppv-7224"
 >
 <title lang="en">Texas Rangers vs. San Francisco Giants</title>
 <sub-title>MLB</sub-title>
@@ -942,16 +744,16 @@ channel="ppv-7105"
 <stereo>stereo</stereo>
 </audio>
 <category>MLB</category>
-<icon src="https://i.imgur.com/nU9uMHm.png" />
+<icon src="https://i.imgur.com/JQDFvuL.png" />
 </programme>
 
-<channel id="ppv-7106">
+<channel id="ppv-7225">
 <display-name>Chicago White Sox vs. Athletics</display-name>
 </channel>
 <programme
 start="20250426200500 +0000"
 stop="20250426230500 +0000"
-channel="ppv-7106"
+channel="ppv-7225"
 >
 <title lang="en">Chicago White Sox vs. Athletics</title>
 <sub-title>MLB</sub-title>
@@ -964,16 +766,104 @@ channel="ppv-7106"
 <stereo>stereo</stereo>
 </audio>
 <category>MLB</category>
-<icon src="https://i.imgur.com/LneXQOe.png" />
+<icon src="https://i.imgur.com/bA45TdG.png" />
 </programme>
 
-<channel id="ppv-7102">
+<channel id="ppv-7239">
+<display-name>New York Mets vs. Washington Nationals</display-name>
+</channel>
+<programme
+start="20250426200500 +0000"
+stop="20250426230500 +0000"
+channel="ppv-7239"
+>
+<title lang="en">New York Mets vs. Washington Nationals</title>
+<sub-title>MLB</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>MLB</category>
+<icon src="https://i.imgur.com/gtr3rgU.png" />
+</programme>
+
+<channel id="ppv-7240">
+<display-name>Philadelphia Phillies vs. Chicago Cubs</display-name>
+</channel>
+<programme
+start="20250426200500 +0000"
+stop="20250426230500 +0000"
+channel="ppv-7240"
+>
+<title lang="en">Philadelphia Phillies vs. Chicago Cubs</title>
+<sub-title>MLB</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>MLB</category>
+<icon src="https://i.imgur.com/ZYAzv4n.png" />
+</programme>
+
+<channel id="ppv-7241">
+<display-name>Texas Rangers vs. San Francisco Giants</display-name>
+</channel>
+<programme
+start="20250426200500 +0000"
+stop="20250426230500 +0000"
+channel="ppv-7241"
+>
+<title lang="en">Texas Rangers vs. San Francisco Giants</title>
+<sub-title>MLB</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>MLB</category>
+<icon src="https://i.imgur.com/HGxtasR.png" />
+</programme>
+
+<channel id="ppv-7242">
+<display-name>Chicago White Sox vs. Athletics</display-name>
+</channel>
+<programme
+start="20250426200500 +0000"
+stop="20250426230500 +0000"
+channel="ppv-7242"
+>
+<title lang="en">Chicago White Sox vs. Athletics</title>
+<sub-title>MLB</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>MLB</category>
+<icon src="https://i.imgur.com/SsyI7a3.png" />
+</programme>
+
+<channel id="ppv-7221">
 <display-name>Cincinnati Reds vs. Colorado Rockies</display-name>
 </channel>
 <programme
 start="20250426191000 +0000"
 stop="20250426221000 +0000"
-channel="ppv-7102"
+channel="ppv-7221"
 >
 <title lang="en">Cincinnati Reds vs. Colorado Rockies</title>
 <sub-title>MLB</sub-title>
@@ -986,16 +876,38 @@ channel="ppv-7102"
 <stereo>stereo</stereo>
 </audio>
 <category>MLB</category>
-<icon src="https://i.imgur.com/BrueKWq.png" />
+<icon src="https://i.imgur.com/3GDKPnx.png" />
 </programme>
 
-<channel id="ppv-7101">
+<channel id="ppv-7238">
+<display-name>Cincinnati Reds vs. Colorado Rockies</display-name>
+</channel>
+<programme
+start="20250426191000 +0000"
+stop="20250426221000 +0000"
+channel="ppv-7238"
+>
+<title lang="en">Cincinnati Reds vs. Colorado Rockies</title>
+<sub-title>MLB</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>MLB</category>
+<icon src="https://i.imgur.com/eiajP91.png" />
+</programme>
+
+<channel id="ppv-7220">
 <display-name>Milwaukee Brewers vs. St. Louis Cardinals</display-name>
 </channel>
 <programme
 start="20250426181500 +0000"
 stop="20250426211500 +0000"
-channel="ppv-7101"
+channel="ppv-7220"
 >
 <title lang="en">Milwaukee Brewers vs. St. Louis Cardinals</title>
 <sub-title>MLB</sub-title>
@@ -1008,16 +920,38 @@ channel="ppv-7101"
 <stereo>stereo</stereo>
 </audio>
 <category>MLB</category>
-<icon src="https://i.imgur.com/oHzMo1q.png" />
+<icon src="https://i.imgur.com/RsZb9He.png" />
 </programme>
 
-<channel id="ppv-7100">
+<channel id="ppv-7237">
+<display-name>Milwaukee Brewers vs. St. Louis Cardinals</display-name>
+</channel>
+<programme
+start="20250426181500 +0000"
+stop="20250426211500 +0000"
+channel="ppv-7237"
+>
+<title lang="en">Milwaukee Brewers vs. St. Louis Cardinals</title>
+<sub-title>MLB</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>MLB</category>
+<icon src="https://i.imgur.com/lMOagzF.png" />
+</programme>
+
+<channel id="ppv-7219">
 <display-name>Los Angeles Angels vs. Minnesota Twins</display-name>
 </channel>
 <programme
 start="20250426181000 +0000"
 stop="20250426211000 +0000"
-channel="ppv-7100"
+channel="ppv-7219"
 >
 <title lang="en">Los Angeles Angels vs. Minnesota Twins</title>
 <sub-title>MLB</sub-title>
@@ -1030,16 +964,38 @@ channel="ppv-7100"
 <stereo>stereo</stereo>
 </audio>
 <category>MLB</category>
-<icon src="https://i.imgur.com/zzGn9mh.png" />
+<icon src="https://i.imgur.com/o9xH5wP.png" />
 </programme>
 
-<channel id="ppv-7098">
+<channel id="ppv-7236">
+<display-name>Los Angeles Angels vs. Minnesota Twins</display-name>
+</channel>
+<programme
+start="20250426181000 +0000"
+stop="20250426211000 +0000"
+channel="ppv-7236"
+>
+<title lang="en">Los Angeles Angels vs. Minnesota Twins</title>
+<sub-title>MLB</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>MLB</category>
+<icon src="https://i.imgur.com/HgcB6oj.png" />
+</programme>
+
+<channel id="ppv-7217">
 <display-name>Baltimore Orioles vs. Detroit Tigers</display-name>
 </channel>
 <programme
 start="20250426171000 +0000"
 stop="20250426201000 +0000"
-channel="ppv-7098"
+channel="ppv-7217"
 >
 <title lang="en">Baltimore Orioles vs. Detroit Tigers</title>
 <sub-title>MLB</sub-title>
@@ -1052,16 +1008,16 @@ channel="ppv-7098"
 <stereo>stereo</stereo>
 </audio>
 <category>MLB</category>
-<icon src="https://i.imgur.com/I9KIYyX.png" />
+<icon src="https://i.imgur.com/hVIY4qa.png" />
 </programme>
 
-<channel id="ppv-7099">
+<channel id="ppv-7218">
 <display-name>Boston Red Sox vs. Cleveland Guardians</display-name>
 </channel>
 <programme
 start="20250426171000 +0000"
 stop="20250426201000 +0000"
-channel="ppv-7099"
+channel="ppv-7218"
 >
 <title lang="en">Boston Red Sox vs. Cleveland Guardians</title>
 <sub-title>MLB</sub-title>
@@ -1074,16 +1030,60 @@ channel="ppv-7099"
 <stereo>stereo</stereo>
 </audio>
 <category>MLB</category>
-<icon src="https://i.imgur.com/dStLpID.png" />
+<icon src="https://i.imgur.com/drl2tWU.png" />
 </programme>
 
-<channel id="ppv-7097">
+<channel id="ppv-7234">
+<display-name>Baltimore Orioles vs. Detroit Tigers</display-name>
+</channel>
+<programme
+start="20250426171000 +0000"
+stop="20250426201000 +0000"
+channel="ppv-7234"
+>
+<title lang="en">Baltimore Orioles vs. Detroit Tigers</title>
+<sub-title>MLB</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>MLB</category>
+<icon src="https://i.imgur.com/orcqwHV.png" />
+</programme>
+
+<channel id="ppv-7235">
+<display-name>Boston Red Sox vs. Cleveland Guardians</display-name>
+</channel>
+<programme
+start="20250426171000 +0000"
+stop="20250426201000 +0000"
+channel="ppv-7235"
+>
+<title lang="en">Boston Red Sox vs. Cleveland Guardians</title>
+<sub-title>MLB</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>MLB</category>
+<icon src="https://i.imgur.com/rcb2EOi.png" />
+</programme>
+
+<channel id="ppv-7216">
 <display-name>Toronto Blue Jays vs. New York Yankees</display-name>
 </channel>
 <programme
 start="20250426170500 +0000"
 stop="20250426200500 +0000"
-channel="ppv-7097"
+channel="ppv-7216"
 >
 <title lang="en">Toronto Blue Jays vs. New York Yankees</title>
 <sub-title>MLB</sub-title>
@@ -1096,7 +1096,73 @@ channel="ppv-7097"
 <stereo>stereo</stereo>
 </audio>
 <category>MLB</category>
-<icon src="https://i.imgur.com/lSmvCqO.png" />
+<icon src="https://i.imgur.com/14jznNc.png" />
+</programme>
+
+<channel id="ppv-7233">
+<display-name>Toronto Blue Jays vs. New York Yankees</display-name>
+</channel>
+<programme
+start="20250426170500 +0000"
+stop="20250426200500 +0000"
+channel="ppv-7233"
+>
+<title lang="en">Toronto Blue Jays vs. New York Yankees</title>
+<sub-title>MLB</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>MLB</category>
+<icon src="https://i.imgur.com/rV3Myrc.png" />
+</programme>
+
+<channel id="ppv-7180">
+<display-name>AMA Supercross: Pittsburgh</display-name>
+</channel>
+<programme
+start="20250426230000 +0000"
+stop="20250427030000 +0000"
+channel="ppv-7180"
+>
+<title lang="en">AMA Supercross: Pittsburgh</title>
+<sub-title>Motorsports</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Motorsports</category>
+<icon src="https://i.imgur.com/ygt5ZA5.png" />
+</programme>
+
+<channel id="ppv-7175">
+<display-name>AMA Supercross: Pittsburgh (Qualifying)</display-name>
+</channel>
+<programme
+start="20250426173000 +0000"
+stop="20250426213000 +0000"
+channel="ppv-7175"
+>
+<title lang="en">AMA Supercross: Pittsburgh (Qualifying)</title>
+<sub-title>Motorsports</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Motorsports</category>
+<icon src="https://i.imgur.com/ygt5ZA5.png" />
 </programme>
 
 <channel id="ppv-6938">
