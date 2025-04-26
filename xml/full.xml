@@ -65,6 +65,28 @@ channel="ppv-3678"
 <icon src="https://i.imgur.com/sed1Yi8.png" />
 </programme>
 
+<channel id="ppv-7073">
+<display-name>UFC Fight Night: Machado Garry vs. Prates</display-name>
+</channel>
+<programme
+start="20250426220000 +0000"
+stop="20250427060000 +0000"
+channel="ppv-7073"
+>
+<title lang="en">UFC Fight Night: Machado Garry vs. Prates</title>
+<sub-title>Combat Sports</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Combat Sports</category>
+<icon src="https://i.imgur.com/xp1zqVu.jpeg" />
+</programme>
+
 <channel id="ppv-6399">
 <display-name>OKTAGON 70 (German/Deutsch)</display-name>
 </channel>
