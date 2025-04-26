@@ -87,28 +87,6 @@ channel="ppv-7090"
 <icon src="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/okc-mem/1280x720.png" />
 </programme>
 
-<channel id="ppv-7089">
-<display-name>Cavaliers at Heat</display-name>
-</channel>
-<programme
-start="20250426170000 +0000"
-stop="20250426194500 +0000"
-channel="ppv-7089"
->
-<title lang="en">Cavaliers at Heat</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/cle-mia/1280x720.png" />
-</programme>
-
 <channel id="ppv-3677">
 <display-name>LND Monthly</display-name>
 </channel>
@@ -437,28 +415,6 @@ channel="ppv-7251"
 </audio>
 <category>Ice Hockey</category>
 <icon src="https://i.imgur.com/WyboMAO.png" />
-</programme>
-
-<channel id="ppv-7250">
-<display-name>Tampa Bay Lightning vs. Florida Panthers</display-name>
-</channel>
-<programme
-start="20250426170000 +0000"
-stop="20250426200000 +0000"
-channel="ppv-7250"
->
-<title lang="en">Tampa Bay Lightning vs. Florida Panthers</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://i.imgur.com/Rvod1l8.png" />
 </programme>
 
 <channel id="ppv-7232">
@@ -1163,50 +1119,6 @@ channel="ppv-7235"
 </audio>
 <category>MLB</category>
 <icon src="https://i.imgur.com/rcb2EOi.png" />
-</programme>
-
-<channel id="ppv-7216">
-<display-name>Toronto Blue Jays vs. New York Yankees</display-name>
-</channel>
-<programme
-start="20250426170500 +0000"
-stop="20250426200500 +0000"
-channel="ppv-7216"
->
-<title lang="en">Toronto Blue Jays vs. New York Yankees</title>
-<sub-title>MLB</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>MLB</category>
-<icon src="https://i.imgur.com/14jznNc.png" />
-</programme>
-
-<channel id="ppv-7233">
-<display-name>Toronto Blue Jays vs. New York Yankees</display-name>
-</channel>
-<programme
-start="20250426170500 +0000"
-stop="20250426200500 +0000"
-channel="ppv-7233"
->
-<title lang="en">Toronto Blue Jays vs. New York Yankees</title>
-<sub-title>MLB</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>MLB</category>
-<icon src="https://i.imgur.com/rV3Myrc.png" />
 </programme>
 
 <channel id="ppv-7180">
