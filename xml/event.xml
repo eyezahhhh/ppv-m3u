@@ -175,28 +175,6 @@ channel="ppv-7256"
 <icon src="https://i.imgur.com/kADG2Vv.png" />
 </programme>
 
-<channel id="ppv-7253">
-<display-name>Dallas Stars vs. Colorado Avalanche</display-name>
-</channel>
-<programme
-start="20250427013000 +0000"
-stop="20250427043000 +0000"
-channel="ppv-7253"
->
-<title lang="en">Dallas Stars vs. Colorado Avalanche</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://i.imgur.com/NOnzCoZ.png" />
-</programme>
-
 <channel id="ppv-7275">
 <display-name>Philadelphia Phillies vs. Chicago Cubs</display-name>
 </channel>
@@ -591,49 +569,5 @@ channel="ppv-7249"
 </audio>
 <category>MLB</category>
 <icon src="https://i.imgur.com/SSjr1Bc.png" />
-</programme>
-
-<channel id="ppv-7231">
-<display-name>Pittsburgh Pirates vs. Los Angeles Dodgers</display-name>
-</channel>
-<programme
-start="20250427011000 +0000"
-stop="20250427041000 +0000"
-channel="ppv-7231"
->
-<title lang="en">Pittsburgh Pirates vs. Los Angeles Dodgers</title>
-<sub-title>MLB</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>MLB</category>
-<icon src="https://i.imgur.com/qhAOUgX.png" />
-</programme>
-
-<channel id="ppv-7248">
-<display-name>Pittsburgh Pirates vs. Los Angeles Dodgers</display-name>
-</channel>
-<programme
-start="20250427011000 +0000"
-stop="20250427041000 +0000"
-channel="ppv-7248"
->
-<title lang="en">Pittsburgh Pirates vs. Los Angeles Dodgers</title>
-<sub-title>MLB</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>MLB</category>
-<icon src="https://i.imgur.com/7cemuBP.png" />
 </programme>
 </tv>
