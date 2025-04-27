@@ -1,59 +1,55 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ppv-3677" tvg-name="LND Monthly (18 May 2025 at 00:00)" tvg-epgid="3677" tvg-logo="https://i.imgur.com/EtF4pVY.png",LND Monthly (18 May 2025 at 00:00)
-https://vod.ppv.wtf/lnd/index.m3u8?md5=0F1mLZwfp1j1ftmVvI0V1w&expires=1747548000&net=MjAuMjUuMjA0LjM1
-#EXTINF:-1 tvg-id="ppv-3678" tvg-name="MFN Weekly (27 April 2025 at 00:00)" tvg-epgid="3678" tvg-logo="https://i.imgur.com/sed1Yi8.png",MFN Weekly (27 April 2025 at 00:00)
-https://vod.ppv.wtf/mfn/index.m3u8?md5=ixp-TvwpZSUxpRusE93PoQ&expires=1745733600&net=MjAuMjUuMjA0LjM1
-#EXTINF:-1 tvg-id="ppv-7073" tvg-name="UFC Fight Night: Machado Garry vs. Prates (26 April 2025 at 22:00)" tvg-epgid="7073" tvg-logo="https://i.imgur.com/xp1zqVu.jpeg",UFC Fight Night: Machado Garry vs. Prates (26 April 2025 at 22:00)
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NzM5YWI2YWVjMWEyLTMwZDgtNjM5NC0yZTZkLTk3NWI5Nzhh/master.m3u8?md5=ixp-TvwpZSUxpRusE93PoQ&expires=1745733600&net=MjAuMjUuMjA0LjM1
+https://vod.ppv.wtf/lnd/index.m3u8?md5=0F1mLZwfp1j1ftmVvI0V1w&expires=1747548000&net=NTIuMTYwLjE2NS4xOTU%3D
 #EXTINF:-1 tvg-id="ppv-7072" tvg-name="PDC: 2025 Austrian Darts Open Day Three (27 April 2025 at 11:00)" tvg-epgid="7072" tvg-logo="https://open.http.mp.streamamg.com/p/3000668/sp/300066800/thumbnail/entry_id/0_6mh9frxi/width/640",PDC: 2025 Austrian Darts Open Day Three (27 April 2025 at 11:00)
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1ZDk3ZDVjZjgzMTczLTNlN2EtOGZkNC01ZTNiLTYxYzc0Zjhi/master.m3u8?md5=D9owDwZTHnWGndLak1szPA&expires=1745798340&net=MjAuMjUuMjA0LjM1
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1ZDk3ZDVjZjgzMTczLTNlN2EtOGZkNC01ZTNiLTYxYzc0Zjhi/master.m3u8?md5=D9owDwZTHnWGndLak1szPA&expires=1745798340&net=NTIuMTYwLjE2NS4xOTU%3D
 #EXTINF:-1 tvg-id="ppv-7259" tvg-name="Los Angeles Kings vs. Edmonton Oilers (28 April 2025 at 01:30)" tvg-epgid="7259" tvg-logo="https://i.imgur.com/lwclbtD.png",Los Angeles Kings vs. Edmonton Oilers (28 April 2025 at 01:30)
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1YWRmNDBkOTYyMmVhLTQxY2EtNTI4NC04NDdiLWE3NTI4MWM2/master.m3u8?md5=STSA_cL2JpfES4jInh56EA&expires=1745814600&net=MjAuMjUuMjA0LjM1
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1YWRmNDBkOTYyMmVhLTQxY2EtNTI4NC04NDdiLWE3NTI4MWM2/master.m3u8?md5=STSA_cL2JpfES4jInh56EA&expires=1745814600&net=NTIuMTYwLjE2NS4xOTU%3D
 #EXTINF:-1 tvg-id="ppv-7258" tvg-name="Washington Capitals vs. Montreal Canadiens (27 April 2025 at 22:30)" tvg-epgid="7258" tvg-logo="https://i.imgur.com/o8XlGKF.png",Washington Capitals vs. Montreal Canadiens (27 April 2025 at 22:30)
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1YWRmNDBkOTYyMmVhLTQxY2EtNTI4NC04NDdiLWE3NTI4MWM2/master.m3u8?md5=SDnIykczR8CpSCWJkH5V7A&expires=1745803800&net=MjAuMjUuMjA0LjM1
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1YWRmNDBkOTYyMmVhLTQxY2EtNTI4NC04NDdiLWE3NTI4MWM2/master.m3u8?md5=SDnIykczR8CpSCWJkH5V7A&expires=1745803800&net=NTIuMTYwLjE2NS4xOTU%3D
 #EXTINF:-1 tvg-id="ppv-7257" tvg-name="Carolina Hurricanes vs. New Jersey Devils (27 April 2025 at 19:30)" tvg-epgid="7257" tvg-logo="https://i.imgur.com/RFlkiCe.png",Carolina Hurricanes vs. New Jersey Devils (27 April 2025 at 19:30)
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1YWRmNDBkOTYyMmVhLTQxY2EtNTI4NC04NDdiLWE3NTI4MWM2/master.m3u8?md5=TozvFF7jiLiH0o3V8kZLjg&expires=1745793000&net=MjAuMjUuMjA0LjM1
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1YWRmNDBkOTYyMmVhLTQxY2EtNTI4NC04NDdiLWE3NTI4MWM2/master.m3u8?md5=TozvFF7jiLiH0o3V8kZLjg&expires=1745793000&net=NTIuMTYwLjE2NS4xOTU%3D
 #EXTINF:-1 tvg-id="ppv-7256" tvg-name="Winnipeg Jets vs. St. Louis Blues (27 April 2025 at 17:00)" tvg-epgid="7256" tvg-logo="https://i.imgur.com/kADG2Vv.png",Winnipeg Jets vs. St. Louis Blues (27 April 2025 at 17:00)
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1YWRmNDBkOTYyMmVhLTQxY2EtNTI4NC04NDdiLWE3NTI4MWM2/master.m3u8?md5=lzJbOa1WSHT2BemQ3pKEEg&expires=1745784000&net=MjAuMjUuMjA0LjM1
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1YWRmNDBkOTYyMmVhLTQxY2EtNTI4NC04NDdiLWE3NTI4MWM2/master.m3u8?md5=lzJbOa1WSHT2BemQ3pKEEg&expires=1745784000&net=NTIuMTYwLjE2NS4xOTU%3D
 #EXTINF:-1 tvg-id="ppv-7275" tvg-name="Philadelphia Phillies vs. Chicago Cubs (27 April 2025 at 23:00)" tvg-epgid="7275" tvg-logo="https://i.imgur.com/C1QlzW5.png",Philadelphia Phillies vs. Chicago Cubs (27 April 2025 at 23:00)
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1ZmY3MTBkYWJlMmMyLTI4NmItMzdlNC1iNjQ2LWM1Nzc3ZTRl/master.m3u8?md5=iKrBXwE_jnBW8pZcKl7eaw&expires=1745805600&net=MjAuMjUuMjA0LjM1
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1ZmY3MTBkYWJlMmMyLTI4NmItMzdlNC1iNjQ2LWM1Nzc3ZTRl/master.m3u8?md5=iKrBXwE_jnBW8pZcKl7eaw&expires=1745805600&net=NTIuMTYwLjE2NS4xOTU%3D
 #EXTINF:-1 tvg-id="ppv-7274" tvg-name="Toronto Blue Jays vs. New York Yankees (27 April 2025 at 21:05)" tvg-epgid="7274" tvg-logo="https://i.imgur.com/fCgUjfK.png",Toronto Blue Jays vs. New York Yankees (27 April 2025 at 21:05)
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1MmQ4YjNmYzE5YTY1LTZjZDktMTEwNC05NzExLTc2M2QwNGE2/master.m3u8?md5=RYW3qbCKL9xPPyCS6UXsjA&expires=1745798700&net=MjAuMjUuMjA0LjM1
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1MmQ4YjNmYzE5YTY1LTZjZDktMTEwNC05NzExLTc2M2QwNGE2/master.m3u8?md5=RYW3qbCKL9xPPyCS6UXsjA&expires=1745798700&net=NTIuMTYwLjE2NS4xOTU%3D
 #EXTINF:-1 tvg-id="ppv-7270" tvg-name="Atlanta Braves vs. Arizona Diamondbacks (27 April 2025 at 20:10)" tvg-epgid="7270" tvg-logo="https://i.imgur.com/6jvoSxe.png",Atlanta Braves vs. Arizona Diamondbacks (27 April 2025 at 20:10)
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1YWVhYWY3YmY4OGUzLWM0NmItZWUzNC1hZGE1LTU2NDk5ZGIy/master.m3u8?md5=nxoBYPM6pRHcx4d-3reQkA&expires=1745795400&net=MjAuMjUuMjA0LjM1
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1YWVhYWY3YmY4OGUzLWM0NmItZWUzNC1hZGE1LTU2NDk5ZGIy/master.m3u8?md5=nxoBYPM6pRHcx4d-3reQkA&expires=1745795400&net=NTIuMTYwLjE2NS4xOTU%3D
 #EXTINF:-1 tvg-id="ppv-7271" tvg-name="Miami Marlins vs. Seattle Mariners (27 April 2025 at 20:10)" tvg-epgid="7271" tvg-logo="https://i.imgur.com/0rg0WCI.png",Miami Marlins vs. Seattle Mariners (27 April 2025 at 20:10)
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1ODVmMjkyM2QzZTM1LTk2OGItM2U2NC1kNjJmLTk2ZTkzMmRh/master.m3u8?md5=nxoBYPM6pRHcx4d-3reQkA&expires=1745795400&net=MjAuMjUuMjA0LjM1
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1ODVmMjkyM2QzZTM1LTk2OGItM2U2NC1kNjJmLTk2ZTkzMmRh/master.m3u8?md5=nxoBYPM6pRHcx4d-3reQkA&expires=1745795400&net=NTIuMTYwLjE2NS4xOTU%3D
 #EXTINF:-1 tvg-id="ppv-7272" tvg-name="Pittsburgh Pirates vs. Los Angeles Dodgers (27 April 2025 at 20:10)" tvg-epgid="7272" tvg-logo="https://i.imgur.com/48JzGVB.png",Pittsburgh Pirates vs. Los Angeles Dodgers (27 April 2025 at 20:10)
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1OWUzMmMwNDYzMDRlLWI4MTktNTdhNC1kYTU5LTcwMDc3MTky/master.m3u8?md5=nxoBYPM6pRHcx4d-3reQkA&expires=1745795400&net=MjAuMjUuMjA0LjM1
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1OWUzMmMwNDYzMDRlLWI4MTktNTdhNC1kYTU5LTcwMDc3MTky/master.m3u8?md5=nxoBYPM6pRHcx4d-3reQkA&expires=1745795400&net=NTIuMTYwLjE2NS4xOTU%3D
 #EXTINF:-1 tvg-id="ppv-7273" tvg-name="Tampa Bay Rays vs. San Diego Padres (27 April 2025 at 20:10)" tvg-epgid="7273" tvg-logo="https://i.imgur.com/x31Dm0d.png",Tampa Bay Rays vs. San Diego Padres (27 April 2025 at 20:10)
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1OGRiM2QyY2Q3MzU5LWUyNWEtYjY3NC1hYWIwLWEzMDM1NDU5/master.m3u8?md5=nxoBYPM6pRHcx4d-3reQkA&expires=1745795400&net=MjAuMjUuMjA0LjM1
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1OGRiM2QyY2Q3MzU5LWUyNWEtYjY3NC1hYWIwLWEzMDM1NDU5/master.m3u8?md5=nxoBYPM6pRHcx4d-3reQkA&expires=1745795400&net=NTIuMTYwLjE2NS4xOTU%3D
 #EXTINF:-1 tvg-id="ppv-7268" tvg-name="Texas Rangers vs. San Francisco Giants (27 April 2025 at 20:05)" tvg-epgid="7268" tvg-logo="https://i.imgur.com/P6iH2WQ.png",Texas Rangers vs. San Francisco Giants (27 April 2025 at 20:05)
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1M2IyYTE4OGFmNjY5LWRlMDktYTc0NC0yMjg1LWU0MjAyNDU1/master.m3u8?md5=2zqVwugxpCw8sVpQVojYIg&expires=1745795100&net=MjAuMjUuMjA0LjM1
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1M2IyYTE4OGFmNjY5LWRlMDktYTc0NC0yMjg1LWU0MjAyNDU1/master.m3u8?md5=2zqVwugxpCw8sVpQVojYIg&expires=1745795100&net=NTIuMTYwLjE2NS4xOTU%3D
 #EXTINF:-1 tvg-id="ppv-7269" tvg-name="Chicago White Sox vs. Athletics (27 April 2025 at 20:05)" tvg-epgid="7269" tvg-logo="https://i.imgur.com/4W75isP.png",Chicago White Sox vs. Athletics (27 April 2025 at 20:05)
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1ZjAyZWVhMjhkMmNhLWNkOWEtNzBmNC1lN2MwLWU5NWI3YjU3/master.m3u8?md5=2zqVwugxpCw8sVpQVojYIg&expires=1745795100&net=MjAuMjUuMjA0LjM1
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1ZjAyZWVhMjhkMmNhLWNkOWEtNzBmNC1lN2MwLWU5NWI3YjU3/master.m3u8?md5=2zqVwugxpCw8sVpQVojYIg&expires=1745795100&net=NTIuMTYwLjE2NS4xOTU%3D
 #EXTINF:-1 tvg-id="ppv-7267" tvg-name="Cincinnati Reds vs. Colorado Rockies (27 April 2025 at 19:10)" tvg-epgid="7267" tvg-logo="https://i.imgur.com/DEibJVg.png",Cincinnati Reds vs. Colorado Rockies (27 April 2025 at 19:10)
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NjkxMmNmNWU0OGZmLTZlNDgtZTk0NC05ZjE1LTcwNTc0MTI4/master.m3u8?md5=d2Ik7ytKm1ngnSC8Y4VwgQ&expires=1745791800&net=MjAuMjUuMjA0LjM1
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NjkxMmNmNWU0OGZmLTZlNDgtZTk0NC05ZjE1LTcwNTc0MTI4/master.m3u8?md5=d2Ik7ytKm1ngnSC8Y4VwgQ&expires=1745791800&net=NTIuMTYwLjE2NS4xOTU%3D
 #EXTINF:-1 tvg-id="ppv-7266" tvg-name="Milwaukee Brewers vs. St. Louis Cardinals (27 April 2025 at 18:15)" tvg-epgid="7266" tvg-logo="https://i.imgur.com/S4JKZzx.png",Milwaukee Brewers vs. St. Louis Cardinals (27 April 2025 at 18:15)
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1Yjk4YjU1MjgzYTI5LTc0OTgtZDJhNC05ZmFmLTNkMjhkNjQ4/master.m3u8?md5=nTvbn4Hd3dGWX5UbNHd8Ww&expires=1745788500&net=MjAuMjUuMjA0LjM1
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1Yjk4YjU1MjgzYTI5LTc0OTgtZDJhNC05ZmFmLTNkMjhkNjQ4/master.m3u8?md5=nTvbn4Hd3dGWX5UbNHd8Ww&expires=1745788500&net=NTIuMTYwLjE2NS4xOTU%3D
 #EXTINF:-1 tvg-id="ppv-7265" tvg-name="Houston Astros vs. Kansas City Royals (27 April 2025 at 18:10)" tvg-epgid="7265" tvg-logo="https://i.imgur.com/slaGhI1.png",Houston Astros vs. Kansas City Royals (27 April 2025 at 18:10)
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1MGY0YTI5ZjVkMGRiLTkyNTktODgyNC03OTQ3LTBiOWIzYzRm/master.m3u8?md5=Q4x3_0HfrOxk1RzVq6CzJA&expires=1745788200&net=MjAuMjUuMjA0LjM1
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1MGY0YTI5ZjVkMGRiLTkyNTktODgyNC03OTQ3LTBiOWIzYzRm/master.m3u8?md5=Q4x3_0HfrOxk1RzVq6CzJA&expires=1745788200&net=NTIuMTYwLjE2NS4xOTU%3D
 #EXTINF:-1 tvg-id="ppv-7262" tvg-name="Baltimore Orioles vs. Detroit Tigers (27 April 2025 at 17:40)" tvg-epgid="7262" tvg-logo="https://i.imgur.com/oTONScn.png",Baltimore Orioles vs. Detroit Tigers (27 April 2025 at 17:40)
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1YWJmNWYzYjhjNjY2LWE1OGItZmI2NC1iNTUwLTBkNDgwNDg4/master.m3u8?md5=Zo1qmXGgDoaxkLJqhYxXNw&expires=1745786400&net=MjAuMjUuMjA0LjM1
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1YWJmNWYzYjhjNjY2LWE1OGItZmI2NC1iNTUwLTBkNDgwNDg4/master.m3u8?md5=Zo1qmXGgDoaxkLJqhYxXNw&expires=1745786400&net=NTIuMTYwLjE2NS4xOTU%3D
 #EXTINF:-1 tvg-id="ppv-7263" tvg-name="Los Angeles Angels vs. Minnesota Twins (27 April 2025 at 17:40)" tvg-epgid="7263" tvg-logo="https://i.imgur.com/lhEMTgD.png",Los Angeles Angels vs. Minnesota Twins (27 April 2025 at 17:40)
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1YjBlOGIzMjEzNzg1LTMyYzktNDA5NC00MTIyLTgxOGYyODU0/master.m3u8?md5=Zo1qmXGgDoaxkLJqhYxXNw&expires=1745786400&net=MjAuMjUuMjA0LjM1
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1YjBlOGIzMjEzNzg1LTMyYzktNDA5NC00MTIyLTgxOGYyODU0/master.m3u8?md5=Zo1qmXGgDoaxkLJqhYxXNw&expires=1745786400&net=NTIuMTYwLjE2NS4xOTU%3D
 #EXTINF:-1 tvg-id="ppv-7264" tvg-name="Boston Red Sox vs. Cleveland Guardians (27 April 2025 at 17:40)" tvg-epgid="7264" tvg-logo="https://i.imgur.com/nYLC5vJ.png",Boston Red Sox vs. Cleveland Guardians (27 April 2025 at 17:40)
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1MGY2OTdiZGE1YjJjLTMzODgtNTY3NC0yMjI3LTg3YWM0ZDRm/master.m3u8?md5=Zo1qmXGgDoaxkLJqhYxXNw&expires=1745786400&net=MjAuMjUuMjA0LjM1
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1MGY2OTdiZGE1YjJjLTMzODgtNTY3NC0yMjI3LTg3YWM0ZDRm/master.m3u8?md5=Zo1qmXGgDoaxkLJqhYxXNw&expires=1745786400&net=NTIuMTYwLjE2NS4xOTU%3D
 #EXTINF:-1 tvg-id="ppv-7260" tvg-name="New York Mets vs. Washington Nationals (27 April 2025 at 17:35)" tvg-epgid="7260" tvg-logo="https://i.imgur.com/B5lXrjn.png",New York Mets vs. Washington Nationals (27 April 2025 at 17:35)
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NDFhNjk4YjE5YzA3LTgyMmEtYmVjNC04N2RlLTIyYWI2MDlm/master.m3u8?md5=k_H_hZZRtih_cjzAC9Rn-Q&expires=1745786100&net=MjAuMjUuMjA0LjM1
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NDFhNjk4YjE5YzA3LTgyMmEtYmVjNC04N2RlLTIyYWI2MDlm/master.m3u8?md5=k_H_hZZRtih_cjzAC9Rn-Q&expires=1745786100&net=NTIuMTYwLjE2NS4xOTU%3D
 #EXTINF:-1 tvg-id="ppv-7261" tvg-name="Toronto Blue Jays vs. New York Yankees (27 April 2025 at 17:35)" tvg-epgid="7261" tvg-logo="https://i.imgur.com/XpqGn3f.png",Toronto Blue Jays vs. New York Yankees (27 April 2025 at 17:35)
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1MmQ4YjNmYzE5YTY1LTZjZDktMTEwNC05NzExLTc2M2QwNGE2/master.m3u8?md5=k_H_hZZRtih_cjzAC9Rn-Q&expires=1745786100&net=MjAuMjUuMjA0LjM1
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1MmQ4YjNmYzE5YTY1LTZjZDktMTEwNC05NzExLTc2M2QwNGE2/master.m3u8?md5=k_H_hZZRtih_cjzAC9Rn-Q&expires=1745786100&net=NTIuMTYwLjE2NS4xOTU%3D
 #EXTINF:-1 tvg-id="ppv-6543" tvg-name="24/7 S*y Sports Golf (9 April 2025 at 19:00)" tvg-epgid="6543" tvg-logo="https://ppv.wtf/assets/img/11331c69617670a4233bbde9bc2c448e.jpg",24/7 S*y Sports Golf (9 April 2025 at 19:00)
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1YjI3ZTk2YjFiM2RkLTUzMzktMjExNC01OWVkLTczMzZiYTg5/master.m3u8?md5=R9xwoI40gN9Jfi613hGNLQ&expires=1744239600&net=MjAuMjUuMjA0LjM1
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1YjI3ZTk2YjFiM2RkLTUzMzktMjExNC01OWVkLTczMzZiYTg5/master.m3u8?md5=R9xwoI40gN9Jfi613hGNLQ&expires=1744239600&net=NTIuMTYwLjE2NS4xOTU%3D
 #EXTINF:-1 tvg-id="ppv-3716" tvg-name="(North) Korean Central Television" tvg-epgid="3716" tvg-logo="https://i.imgur.com/CnphStu.png",(North) Korean Central Television
-https://waw01-1gbe.fscdn.fun/nknews/index.m3u8?md5=Yg2p2XMywLYDUGhXGk91ag&expires=1737237600&net=MjAuMjUuMjA0LjM1
+https://waw01-1gbe.fscdn.fun/nknews/index.m3u8?md5=Yg2p2XMywLYDUGhXGk91ag&expires=1737237600&net=NTIuMTYwLjE2NS4xOTU%3D
 #EXTINF:-1 tvg-id="ppv-5112" tvg-name="24/7 South Park" tvg-epgid="5112" tvg-logo="https://waw01-1gbe.fscdn.fun/southpark/preview.jpg",24/7 South Park
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1ZGEyNDNkZWMyNzFjLWU2OWItNzFlNC00NWU5LTUyODY0MWIz/master.m3u8?md5=EloZhPbdP5s_81KkXPwpYQ&expires=1737196080&net=MjAuMjUuMjA0LjM1
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1ZGEyNDNkZWMyNzFjLWU2OWItNzFlNC00NWU5LTUyODY0MWIz/master.m3u8?md5=EloZhPbdP5s_81KkXPwpYQ&expires=1737196080&net=NTIuMTYwLjE2NS4xOTU%3D
 #EXTINF:-1 tvg-id="ppv-5191" tvg-name="24/7 The Simpsons" tvg-epgid="5191" tvg-logo="https://waw01-1gbe.fscdn.fun/thesimpsons/preview.jpg",24/7 The Simpsons
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1MGQzNzI5MTE0YjQwLTVmYmEtYmE3NC1kOThlLWY2MmU4NGI4/master.m3u8?md5=EloZhPbdP5s_81KkXPwpYQ&expires=1737196080&net=MjAuMjUuMjA0LjM1
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1MGQzNzI5MTE0YjQwLTVmYmEtYmE3NC1kOThlLWY2MmU4NGI4/master.m3u8?md5=EloZhPbdP5s_81KkXPwpYQ&expires=1737196080&net=NTIuMTYwLjE2NS4xOTU%3D
 #EXTINF:-1 tvg-id="ppv-3663" tvg-name="24/7 COWS" tvg-epgid="3663" tvg-logo="https://extension.usu.edu/drought/images/drought-mitigation-cows-thumbnail.png",24/7 COWS
-https://waw01-1gbe.fscdn.fun/cows/index.m3u8?md5=R3Ar_0CYE2aGYITnyPQ-Ig&expires=1740772800&net=MjAuMjUuMjA0LjM1
+https://waw01-1gbe.fscdn.fun/cows/index.m3u8?md5=R3Ar_0CYE2aGYITnyPQ-Ig&expires=1740772800&net=NTIuMTYwLjE2NS4xOTU%3D
