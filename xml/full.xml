@@ -527,16 +527,16 @@ channel="ppv-7261"
 <icon src="https://i.imgur.com/XpqGn3f.png" />
 </programme>
 
-<channel id="ppv-7232">
-<display-name>Miami Marlins vs. Seattle Mariners</display-name>
+<channel id="ppv-6543">
+<display-name>24/7 S*y Sports Golf</display-name>
 </channel>
 <programme
-start="20250427014000 +0000"
-stop="20250427044000 +0000"
-channel="ppv-7232"
+start="20250409190000 +0000"
+stop="20250409230000 +0000"
+channel="ppv-6543"
 >
-<title lang="en">Miami Marlins vs. Seattle Mariners</title>
-<sub-title>MLB</sub-title>
+<title lang="en">24/7 S*y Sports Golf</title>
+<sub-title>24/7 Streams</sub-title>
 <video>
 <present>yes</present>
 <colour>yes</colour>
@@ -545,30 +545,8 @@ channel="ppv-7232"
 <present>yes</present>
 <stereo>stereo</stereo>
 </audio>
-<category>MLB</category>
-<icon src="https://i.imgur.com/CPJtfOo.png" />
-</programme>
-
-<channel id="ppv-7249">
-<display-name>Miami Marlins vs. Seattle Mariners</display-name>
-</channel>
-<programme
-start="20250427014000 +0000"
-stop="20250427044000 +0000"
-channel="ppv-7249"
->
-<title lang="en">Miami Marlins vs. Seattle Mariners</title>
-<sub-title>MLB</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>MLB</category>
-<icon src="https://i.imgur.com/SSjr1Bc.png" />
+<category>24/7 Streams</category>
+<icon src="https://ppv.wtf/assets/img/11331c69617670a4233bbde9bc2c448e.jpg" />
 </programme>
 
 <channel id="ppv-3716">
@@ -591,6 +569,50 @@ channel="ppv-3716"
 </audio>
 <category>24/7 Streams</category>
 <icon src="https://i.imgur.com/CnphStu.png" />
+</programme>
+
+<channel id="ppv-5112">
+<display-name>24/7 South Park</display-name>
+</channel>
+<programme
+start="20250118102800 +0000"
+stop="20250118102800 +0000"
+channel="ppv-5112"
+>
+<title lang="en">24/7 South Park</title>
+<sub-title>24/7 Streams</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>24/7 Streams</category>
+<icon src="https://waw01-1gbe.fscdn.fun/southpark/preview.jpg" />
+</programme>
+
+<channel id="ppv-5191">
+<display-name>24/7 The Simpsons</display-name>
+</channel>
+<programme
+start="20250118102800 +0000"
+stop="20250118102800 +0000"
+channel="ppv-5191"
+>
+<title lang="en">24/7 The Simpsons</title>
+<sub-title>24/7 Streams</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>24/7 Streams</category>
+<icon src="https://waw01-1gbe.fscdn.fun/thesimpsons/preview.jpg" />
 </programme>
 
 <channel id="ppv-3663">
