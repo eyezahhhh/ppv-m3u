@@ -1,13 +1,13 @@
 <tv>
 <channel id="ppv-7298">
-<display-name>Rockets at Warriors</display-name>
+<display-name>Rockets at Warriors (US IP)</display-name>
 </channel>
 <programme
 start="20250429020000 +0000"
 stop="20250429044500 +0000"
 channel="ppv-7298"
 >
-<title lang="en">Rockets at Warriors</title>
+<title lang="en">Rockets at Warriors (US IP)</title>
 <sub-title>Basketball</sub-title>
 <video>
 <present>yes</present>
@@ -547,72 +547,6 @@ channel="ppv-7294"
 </audio>
 <category>MLB</category>
 <icon src="https://i.imgur.com/fOgqlXt.png" />
-</programme>
-
-<channel id="ppv-7293">
-<display-name>Detroit Tigers vs. Houston Astros</display-name>
-</channel>
-<programme
-start="20250429001000 +0000"
-stop="20250429031000 +0000"
-channel="ppv-7293"
->
-<title lang="en">Detroit Tigers vs. Houston Astros</title>
-<sub-title>MLB</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>MLB</category>
-<icon src="https://i.imgur.com/5FNRejY.png" />
-</programme>
-
-<channel id="ppv-7292">
-<display-name>Athletics vs. Texas Rangers</display-name>
-</channel>
-<programme
-start="20250429000500 +0000"
-stop="20250429030500 +0000"
-channel="ppv-7292"
->
-<title lang="en">Athletics vs. Texas Rangers</title>
-<sub-title>MLB</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>MLB</category>
-<icon src="https://i.imgur.com/1Is6XQ5.png" />
-</programme>
-
-<channel id="ppv-7299">
-<display-name>WWE: Monday Night RAW</display-name>
-</channel>
-<programme
-start="20250429000000 +0000"
-stop="20250429024500 +0000"
-channel="ppv-7299"
->
-<title lang="en">WWE: Monday Night RAW</title>
-<sub-title>Wrestling</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Wrestling</category>
-<icon src="https://i.imgur.com/zmuUYCm.png" />
 </programme>
 
 <channel id="ppv-3716">
