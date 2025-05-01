@@ -175,28 +175,6 @@ channel="ppv-7349"
 <icon src="https://i.imgur.com/JKpXW31.png" />
 </programme>
 
-<channel id="ppv-7328">
-<display-name>St. Louis Blues vs. Winnipeg Jets</display-name>
-</channel>
-<programme
-start="20250501013000 +0000"
-stop="20250501043000 +0000"
-channel="ppv-7328"
->
-<title lang="en">St. Louis Blues vs. Winnipeg Jets</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://i.imgur.com/BgLGh0R.png" />
-</programme>
-
 <channel id="ppv-7363">
 <display-name>Colorado Rockies vs. San Francisco Giants</display-name>
 </channel>
