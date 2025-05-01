@@ -593,50 +593,6 @@ channel="ppv-7357"
 <icon src="https://i.imgur.com/BSLau6w.png" />
 </programme>
 
-<channel id="ppv-7354">
-<display-name>St. Louis Cardinals vs. Cincinnati Reds</display-name>
-</channel>
-<programme
-start="20250501164000 +0000"
-stop="20250501194000 +0000"
-channel="ppv-7354"
->
-<title lang="en">St. Louis Cardinals vs. Cincinnati Reds</title>
-<sub-title>MLB</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>MLB</category>
-<icon src="https://i.imgur.com/2cfQchj.png" />
-</programme>
-
-<channel id="ppv-7353">
-<display-name>Chicago Cubs vs. Pittsburgh Pirates</display-name>
-</channel>
-<programme
-start="20250501163500 +0000"
-stop="20250501193500 +0000"
-channel="ppv-7353"
->
-<title lang="en">Chicago Cubs vs. Pittsburgh Pirates</title>
-<sub-title>MLB</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>MLB</category>
-<icon src="https://i.imgur.com/ICmHqWZ.png" />
-</programme>
-
 <channel id="ppv-3716">
 <display-name>(North) Korean Central Television</display-name>
 </channel>
