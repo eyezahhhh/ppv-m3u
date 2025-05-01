@@ -65,6 +65,72 @@ channel="ppv-7329"
 <icon src="https://open.http.mp.streamamg.com/p/3000668/sp/300066800/thumbnail/entry_id/0_ysyinqlg/width/640" />
 </programme>
 
+<channel id="ppv-7364">
+<display-name>UEL: Athletic Bilbao vs Manchester United</display-name>
+</channel>
+<programme
+start="20250501190000 +0000"
+stop="20250501220000 +0000"
+channel="ppv-7364"
+>
+<title lang="en">UEL: Athletic Bilbao vs Manchester United</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://i.imgur.com/AmQyscS.png" />
+</programme>
+
+<channel id="ppv-7365">
+<display-name>UEL: Tottenham vs Bodø/Glimt</display-name>
+</channel>
+<programme
+start="20250501190000 +0000"
+stop="20250501220000 +0000"
+channel="ppv-7365"
+>
+<title lang="en">UEL: Tottenham vs Bodø/Glimt</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://i.imgur.com/lqcI6kj.png" />
+</programme>
+
+<channel id="ppv-7366">
+<display-name>UECL: Djurgården vs Chelsea</display-name>
+</channel>
+<programme
+start="20250501190000 +0000"
+stop="20250501220000 +0000"
+channel="ppv-7366"
+>
+<title lang="en">UECL: Djurgården vs Chelsea</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://i.imgur.com/HdLSbKy.png" />
+</programme>
+
 <channel id="ppv-7352">
 <display-name>Los Angeles Kings vs. Edmonton Oilers</display-name>
 </channel>
