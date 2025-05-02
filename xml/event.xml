@@ -175,28 +175,6 @@ channel="ppv-7370"
 <icon src="https://open.http.mp.streamamg.com/p/3000668/sp/300066800/thumbnail/entry_id/0_qqtym9in/width/640" />
 </programme>
 
-<channel id="ppv-7401">
-<display-name>EPL: Manchester City vs Wolverhampton Wanderers</display-name>
-</channel>
-<programme
-start="20250502190000 +0000"
-stop="20250502213000 +0000"
-channel="ppv-7401"
->
-<title lang="en">EPL: Manchester City vs Wolverhampton Wanderers</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://i.imgur.com/1pGdrk3.jpeg" />
-</programme>
-
 <channel id="ppv-7374">
 <display-name>Winnipeg Jets vs. St. Louis Blues</display-name>
 </channel>
