@@ -1,4 +1,26 @@
 <tv>
+<channel id="ppv-7402">
+<display-name>Rockets at Warriors</display-name>
+</channel>
+<programme
+start="20250503010000 +0000"
+stop="20250503034500 +0000"
+channel="ppv-7402"
+>
+<title lang="en">Rockets at Warriors</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/hou-gsw/1280x720.png" />
+</programme>
+
 <channel id="ppv-3677">
 <display-name>LND Monthly</display-name>
 </channel>
@@ -129,6 +151,28 @@ channel="ppv-7370"
 </audio>
 <category>Darts</category>
 <icon src="https://open.http.mp.streamamg.com/p/3000668/sp/300066800/thumbnail/entry_id/0_qqtym9in/width/640" />
+</programme>
+
+<channel id="ppv-7401">
+<display-name>EPL: Manchester City vs Wolverhampton Wanderers</display-name>
+</channel>
+<programme
+start="20250502190000 +0000"
+stop="20250502213000 +0000"
+channel="ppv-7401"
+>
+<title lang="en">EPL: Manchester City vs Wolverhampton Wanderers</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://i.imgur.com/1pGdrk3.jpeg" />
 </programme>
 
 <channel id="ppv-7374">
@@ -481,6 +525,226 @@ channel="ppv-7375"
 </audio>
 <category>MLB</category>
 <icon src="https://i.imgur.com/8uBBE49.png" />
+</programme>
+
+<channel id="ppv-7399">
+<display-name>F1: Miami GP (Race)</display-name>
+</channel>
+<programme
+start="20250504200000 +0000"
+stop="20250504230000 +0000"
+channel="ppv-7399"
+>
+<title lang="en">F1: Miami GP (Race)</title>
+<sub-title>Motorsports</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Motorsports</category>
+<icon src="https://i.imgur.com/0Zzn3wD.png" />
+</programme>
+
+<channel id="ppv-7400">
+<display-name>F1: Miami GP (Race / F1TV)</display-name>
+</channel>
+<programme
+start="20250504200000 +0000"
+stop="20250504230000 +0000"
+channel="ppv-7400"
+>
+<title lang="en">F1: Miami GP (Race / F1TV)</title>
+<sub-title>Motorsports</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Motorsports</category>
+<icon src="https://i.imgur.com/0Zzn3wD.png" />
+</programme>
+
+<channel id="ppv-7397">
+<display-name>F1: Miami GP (Quali)</display-name>
+</channel>
+<programme
+start="20250503200000 +0000"
+stop="20250503220000 +0000"
+channel="ppv-7397"
+>
+<title lang="en">F1: Miami GP (Quali)</title>
+<sub-title>Motorsports</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Motorsports</category>
+<icon src="https://i.imgur.com/0Zzn3wD.png" />
+</programme>
+
+<channel id="ppv-7398">
+<display-name>F1: Miami GP (Quali / F1TV)</display-name>
+</channel>
+<programme
+start="20250503200000 +0000"
+stop="20250503220000 +0000"
+channel="ppv-7398"
+>
+<title lang="en">F1: Miami GP (Quali / F1TV)</title>
+<sub-title>Motorsports</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Motorsports</category>
+<icon src="https://i.imgur.com/0Zzn3wD.png" />
+</programme>
+
+<channel id="ppv-7395">
+<display-name>F1: Miami GP (Sprint)</display-name>
+</channel>
+<programme
+start="20250503160000 +0000"
+stop="20250503180000 +0000"
+channel="ppv-7395"
+>
+<title lang="en">F1: Miami GP (Sprint)</title>
+<sub-title>Motorsports</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Motorsports</category>
+<icon src="https://i.imgur.com/0Zzn3wD.png" />
+</programme>
+
+<channel id="ppv-7396">
+<display-name>F1: Miami GP (Sprint / F1TV)</display-name>
+</channel>
+<programme
+start="20250503160000 +0000"
+stop="20250503180000 +0000"
+channel="ppv-7396"
+>
+<title lang="en">F1: Miami GP (Sprint / F1TV)</title>
+<sub-title>Motorsports</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Motorsports</category>
+<icon src="https://i.imgur.com/0Zzn3wD.png" />
+</programme>
+
+<channel id="ppv-7393">
+<display-name>F1: Miami GP (Sprint Quali)</display-name>
+</channel>
+<programme
+start="20250502203000 +0000"
+stop="20250502223000 +0000"
+channel="ppv-7393"
+>
+<title lang="en">F1: Miami GP (Sprint Quali)</title>
+<sub-title>Motorsports</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Motorsports</category>
+<icon src="https://i.imgur.com/0Zzn3wD.png" />
+</programme>
+
+<channel id="ppv-7394">
+<display-name>F1: Miami GP (Sprint Quali / F1TV)</display-name>
+</channel>
+<programme
+start="20250502203000 +0000"
+stop="20250502223000 +0000"
+channel="ppv-7394"
+>
+<title lang="en">F1: Miami GP (Sprint Quali / F1TV)</title>
+<sub-title>Motorsports</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Motorsports</category>
+<icon src="https://i.imgur.com/0Zzn3wD.png" />
+</programme>
+
+<channel id="ppv-7391">
+<display-name>F1: Miami GP (FP1)</display-name>
+</channel>
+<programme
+start="20250502163000 +0000"
+stop="20250502183000 +0000"
+channel="ppv-7391"
+>
+<title lang="en">F1: Miami GP (FP1)</title>
+<sub-title>Motorsports</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Motorsports</category>
+<icon src="https://i.imgur.com/0Zzn3wD.png" />
+</programme>
+
+<channel id="ppv-7392">
+<display-name>F1: Miami GP (FP1 / F1TV)</display-name>
+</channel>
+<programme
+start="20250502163000 +0000"
+stop="20250502183000 +0000"
+channel="ppv-7392"
+>
+<title lang="en">F1: Miami GP (FP1 / F1TV)</title>
+<sub-title>Motorsports</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Motorsports</category>
+<icon src="https://i.imgur.com/0Zzn3wD.png" />
 </programme>
 
 <channel id="ppv-3716">
