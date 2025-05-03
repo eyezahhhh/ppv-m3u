@@ -593,50 +593,6 @@ channel="ppv-7414"
 <icon src="https://i.imgur.com/pxU913r.png" />
 </programme>
 
-<channel id="ppv-7411">
-<display-name>San Diego Padres vs. Pittsburgh Pirates</display-name>
-</channel>
-<programme
-start="20250503200500 +0000"
-stop="20250503230500 +0000"
-channel="ppv-7411"
->
-<title lang="en">San Diego Padres vs. Pittsburgh Pirates</title>
-<sub-title>MLB</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>MLB</category>
-<icon src="https://i.imgur.com/aPGfrGy.png" />
-</programme>
-
-<channel id="ppv-7412">
-<display-name>Colorado Rockies vs. San Francisco Giants</display-name>
-</channel>
-<programme
-start="20250503200500 +0000"
-stop="20250503230500 +0000"
-channel="ppv-7412"
->
-<title lang="en">Colorado Rockies vs. San Francisco Giants</title>
-<sub-title>MLB</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>MLB</category>
-<icon src="https://i.imgur.com/9zH91eq.png" />
-</programme>
-
 <channel id="ppv-7399">
 <display-name>F1: Miami GP (Race)</display-name>
 </channel>
