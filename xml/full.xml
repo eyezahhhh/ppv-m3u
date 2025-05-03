@@ -197,28 +197,6 @@ channel="ppv-7429"
 <icon src="https://i.imgur.com/NcuSGe6.png" />
 </programme>
 
-<channel id="ppv-7428">
-<display-name>EPL: Arsenal vs Bournemouth</display-name>
-</channel>
-<programme
-start="20250503163000 +0000"
-stop="20250503190000 +0000"
-channel="ppv-7428"
->
-<title lang="en">EPL: Arsenal vs Bournemouth</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://i.imgur.com/HiDw2ao.jpeg" />
-</programme>
-
 <channel id="ppv-7406">
 <display-name>Colorado Avalanche vs. Dallas Stars</display-name>
 </channel>
