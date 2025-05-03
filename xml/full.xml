@@ -1,26 +1,4 @@
 <tv>
-<channel id="ppv-7402">
-<display-name>Rockets at Warriors</display-name>
-</channel>
-<programme
-start="20250503010000 +0000"
-stop="20250503034500 +0000"
-channel="ppv-7402"
->
-<title lang="en">Rockets at Warriors</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/hou-gsw/1280x720.png" />
-</programme>
-
 <channel id="ppv-3677">
 <display-name>LND Monthly</display-name>
 </channel>
@@ -85,6 +63,72 @@ channel="ppv-7373"
 </audio>
 <category>Combat Sports</category>
 <icon src="https://i.imgur.com/8ueNBsR.jpeg" />
+</programme>
+
+<channel id="ppv-7424">
+<display-name>PDC: World Cup Asia Qualifying (Malaysia) 2025</display-name>
+</channel>
+<programme
+start="20250504120000 +0000"
+stop="20250504190000 +0000"
+channel="ppv-7424"
+>
+<title lang="en">PDC: World Cup Asia Qualifying (Malaysia) 2025</title>
+<sub-title>Darts</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Darts</category>
+<icon src="https://open.http.mp.streamamg.com/p/3000668/sp/300066800/thumbnail/entry_id/0_uvu6i189/width/640" />
+</programme>
+
+<channel id="ppv-7423">
+<display-name>PDC: 2025 European Darts Grand Prix Day Three</display-name>
+</channel>
+<programme
+start="20250504110000 +0000"
+stop="20250504235900 +0000"
+channel="ppv-7423"
+>
+<title lang="en">PDC: 2025 European Darts Grand Prix Day Three</title>
+<sub-title>Darts</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Darts</category>
+<icon src="https://open.http.mp.streamamg.com/p/3000668/sp/300066800/thumbnail/entry_id/0_1fbwtq00/width/640" />
+</programme>
+
+<channel id="ppv-7422">
+<display-name>PDC: Asian Tour 10 - Kuala Lumpur - Day Two</display-name>
+</channel>
+<programme
+start="20250504020000 +0000"
+stop="20250504150000 +0000"
+channel="ppv-7422"
+>
+<title lang="en">PDC: Asian Tour 10 - Kuala Lumpur - Day Two</title>
+<sub-title>Darts</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Darts</category>
+<icon src="https://open.http.mp.streamamg.com/p/3000668/sp/300066800/thumbnail/entry_id/0_m7ejbafq/width/640" />
 </programme>
 
 <channel id="ppv-7390">
