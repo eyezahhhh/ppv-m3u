@@ -527,28 +527,6 @@ channel="ppv-7407"
 <icon src="https://i.imgur.com/7AiaNtK.png" />
 </programme>
 
-<channel id="ppv-7389">
-<display-name>Colorado Rockies vs. San Francisco Giants</display-name>
-</channel>
-<programme
-start="20250503021500 +0000"
-stop="20250503051500 +0000"
-channel="ppv-7389"
->
-<title lang="en">Colorado Rockies vs. San Francisco Giants</title>
-<sub-title>MLB</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>MLB</category>
-<icon src="https://i.imgur.com/VOG0cHq.png" />
-</programme>
-
 <channel id="ppv-7399">
 <display-name>F1: Miami GP (Race)</display-name>
 </channel>
