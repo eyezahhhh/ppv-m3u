@@ -153,13 +153,13 @@ channel="ppv-7390"
 <icon src="https://open.http.mp.streamamg.com/p/3000668/sp/300066800/thumbnail/entry_id/0_lteflblc/width/640" />
 </programme>
 
-<channel id="ppv-7403">
+<channel id="ppv-7455">
 <display-name>PDC: Asian Tour 9 - Kuala Lumpur - Day One</display-name>
 </channel>
 <programme
 start="20250503020000 +0000"
 stop="20250503150000 +0000"
-channel="ppv-7403"
+channel="ppv-7455"
 >
 <title lang="en">PDC: Asian Tour 9 - Kuala Lumpur - Day One</title>
 <sub-title>Darts</sub-title>
