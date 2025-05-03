@@ -175,6 +175,380 @@ channel="ppv-7403"
 <icon src="https://open.http.mp.streamamg.com/p/3000668/sp/300066800/thumbnail/entry_id/0_03ubff52/width/640" />
 </programme>
 
+<channel id="ppv-7429">
+<display-name>LaLiga: Valladolid vs Barcelona</display-name>
+</channel>
+<programme
+start="20250503190000 +0000"
+stop="20250503220000 +0000"
+channel="ppv-7429"
+>
+<title lang="en">LaLiga: Valladolid vs Barcelona</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://i.imgur.com/NcuSGe6.png" />
+</programme>
+
+<channel id="ppv-7428">
+<display-name>EPL: Arsenal vs Bournemouth</display-name>
+</channel>
+<programme
+start="20250503163000 +0000"
+stop="20250503190000 +0000"
+channel="ppv-7428"
+>
+<title lang="en">EPL: Arsenal vs Bournemouth</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://i.imgur.com/HiDw2ao.jpeg" />
+</programme>
+
+<channel id="ppv-7426">
+<display-name>EPL: Everton vs Ipswich Town</display-name>
+</channel>
+<programme
+start="20250503140000 +0000"
+stop="20250503163000 +0000"
+channel="ppv-7426"
+>
+<title lang="en">EPL: Everton vs Ipswich Town</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://i.imgur.com/2I0mawP.jpeg" />
+</programme>
+
+<channel id="ppv-7427">
+<display-name>EPL: Leicester City vs Southampton</display-name>
+</channel>
+<programme
+start="20250503140000 +0000"
+stop="20250503163000 +0000"
+channel="ppv-7427"
+>
+<title lang="en">EPL: Leicester City vs Southampton</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://i.imgur.com/BztXgbl.jpeg" />
+</programme>
+
+<channel id="ppv-7425">
+<display-name>EPL: Aston Villa vs Fulham</display-name>
+</channel>
+<programme
+start="20250503113000 +0000"
+stop="20250503140000 +0000"
+channel="ppv-7425"
+>
+<title lang="en">EPL: Aston Villa vs Fulham</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://i.imgur.com/gk9wci5.jpeg" />
+</programme>
+
+<channel id="ppv-7430">
+<display-name>EFL: Bristol City vs Preston</display-name>
+</channel>
+<programme
+start="20250503113000 +0000"
+stop="20250503140000 +0000"
+channel="ppv-7430"
+>
+<title lang="en">EFL: Bristol City vs Preston</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://i.imgur.com/t9VTH8o.jpeg" />
+</programme>
+
+<channel id="ppv-7431">
+<display-name>EFL: Burnley vs Millwall</display-name>
+</channel>
+<programme
+start="20250503113000 +0000"
+stop="20250503140000 +0000"
+channel="ppv-7431"
+>
+<title lang="en">EFL: Burnley vs Millwall</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://i.imgur.com/wd5G1ef.jpeg" />
+</programme>
+
+<channel id="ppv-7432">
+<display-name>EFL: Coventry vs Middlesbrough</display-name>
+</channel>
+<programme
+start="20250503113000 +0000"
+stop="20250503140000 +0000"
+channel="ppv-7432"
+>
+<title lang="en">EFL: Coventry vs Middlesbrough</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://i.imgur.com/X9SgWV2.jpeg" />
+</programme>
+
+<channel id="ppv-7433">
+<display-name>EFL: Derby vs Stoke</display-name>
+</channel>
+<programme
+start="20250503113000 +0000"
+stop="20250503140000 +0000"
+channel="ppv-7433"
+>
+<title lang="en">EFL: Derby vs Stoke</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://i.imgur.com/L2QGvuQ.png" />
+</programme>
+
+<channel id="ppv-7434">
+<display-name>EFL: Plymouth vs Leeds</display-name>
+</channel>
+<programme
+start="20250503113000 +0000"
+stop="20250503140000 +0000"
+channel="ppv-7434"
+>
+<title lang="en">EFL: Plymouth vs Leeds</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://i.imgur.com/jlA1y5x.jpeg" />
+</programme>
+
+<channel id="ppv-7435">
+<display-name>EFL: Portsmouth vs Hull</display-name>
+</channel>
+<programme
+start="20250503113000 +0000"
+stop="20250503140000 +0000"
+channel="ppv-7435"
+>
+<title lang="en">EFL: Portsmouth vs Hull</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://i.imgur.com/cJbo0n0.jpeg" />
+</programme>
+
+<channel id="ppv-7436">
+<display-name>EFL: Sheffield United vs Blackburn</display-name>
+</channel>
+<programme
+start="20250503113000 +0000"
+stop="20250503140000 +0000"
+channel="ppv-7436"
+>
+<title lang="en">EFL: Sheffield United vs Blackburn</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://i.imgur.com/65nIh3K.jpeg" />
+</programme>
+
+<channel id="ppv-7437">
+<display-name>EFL: Sunderland vs QPR</display-name>
+</channel>
+<programme
+start="20250503113000 +0000"
+stop="20250503140000 +0000"
+channel="ppv-7437"
+>
+<title lang="en">EFL: Sunderland vs QPR</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://i.imgur.com/SXEvmUB.jpeg" />
+</programme>
+
+<channel id="ppv-7438">
+<display-name>EFL: Swansea vs Oxford Utd</display-name>
+</channel>
+<programme
+start="20250503113000 +0000"
+stop="20250503140000 +0000"
+channel="ppv-7438"
+>
+<title lang="en">EFL: Swansea vs Oxford Utd</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://i.imgur.com/QsNA90H.jpeg" />
+</programme>
+
+<channel id="ppv-7439">
+<display-name>EFL: Watford vs Sheffield Weds</display-name>
+</channel>
+<programme
+start="20250503113000 +0000"
+stop="20250503140000 +0000"
+channel="ppv-7439"
+>
+<title lang="en">EFL: Watford vs Sheffield Weds</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://i.imgur.com/2zx7qLZ.jpeg" />
+</programme>
+
+<channel id="ppv-7440">
+<display-name>EFL: West Brom vs Luton</display-name>
+</channel>
+<programme
+start="20250503113000 +0000"
+stop="20250503140000 +0000"
+channel="ppv-7440"
+>
+<title lang="en">EFL: West Brom vs Luton</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://i.imgur.com/myUJKaM.jpeg" />
+</programme>
+
+<channel id="ppv-7441">
+<display-name>EFL: Norwich vs Cardiff</display-name>
+</channel>
+<programme
+start="20250503113000 +0000"
+stop="20250503140000 +0000"
+channel="ppv-7441"
+>
+<title lang="en">EFL: Norwich vs Cardiff</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://i.imgur.com/myUJKaM.jpeg" />
+</programme>
+
 <channel id="ppv-7406">
 <display-name>Colorado Avalanche vs. Dallas Stars</display-name>
 </channel>
