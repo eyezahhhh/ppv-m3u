@@ -241,28 +241,6 @@ channel="ppv-7485"
 <icon src="https://i.imgur.com/GtLw1wh.png" />
 </programme>
 
-<channel id="ppv-7484">
-<display-name>Seattle Mariners vs. Texas Rangers</display-name>
-</channel>
-<programme
-start="20250504183500 +0000"
-stop="20250504213500 +0000"
-channel="ppv-7484"
->
-<title lang="en">Seattle Mariners vs. Texas Rangers</title>
-<sub-title>MLB</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>MLB</category>
-<icon src="https://i.imgur.com/8GhH8Fj.png" />
-</programme>
-
 <channel id="ppv-7399">
 <display-name>F1: Miami GP (Race)</display-name>
 </channel>
