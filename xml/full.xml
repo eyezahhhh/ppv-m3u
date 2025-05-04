@@ -1,26 +1,4 @@
 <tv>
-<channel id="ppv-7456">
-<display-name>Clippers at Nuggets</display-name>
-</channel>
-<programme
-start="20250503233000 +0000"
-stop="20250504021500 +0000"
-channel="ppv-7456"
->
-<title lang="en">Clippers at Nuggets</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/lac-den/1280x720.png" />
-</programme>
-
 <channel id="ppv-3677">
 <display-name>LND Monthly</display-name>
 </channel>
@@ -395,28 +373,6 @@ channel="ppv-7421"
 <icon src="https://i.imgur.com/zMvGt1E.png" />
 </programme>
 
-<channel id="ppv-7419">
-<display-name>Kansas City Royals vs. Baltimore Orioles</display-name>
-</channel>
-<programme
-start="20250503231500 +0000"
-stop="20250504021500 +0000"
-channel="ppv-7419"
->
-<title lang="en">Kansas City Royals vs. Baltimore Orioles</title>
-<sub-title>MLB</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>MLB</category>
-<icon src="https://i.imgur.com/tAELDpA.png" />
-</programme>
-
 <channel id="ppv-7420">
 <display-name>Los Angeles Dodgers vs. Atlanta Braves</display-name>
 </channel>
@@ -437,72 +393,6 @@ channel="ppv-7420"
 </audio>
 <category>MLB</category>
 <icon src="https://i.imgur.com/rRfzhu2.png" />
-</programme>
-
-<channel id="ppv-7418">
-<display-name>Chicago Cubs vs. Milwaukee Brewers</display-name>
-</channel>
-<programme
-start="20250503231000 +0000"
-stop="20250504021000 +0000"
-channel="ppv-7418"
->
-<title lang="en">Chicago Cubs vs. Milwaukee Brewers</title>
-<sub-title>MLB</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>MLB</category>
-<icon src="https://i.imgur.com/h9CmsjW.png" />
-</programme>
-
-<channel id="ppv-7417">
-<display-name>Seattle Mariners vs. Texas Rangers</display-name>
-</channel>
-<programme
-start="20250503230500 +0000"
-stop="20250504020500 +0000"
-channel="ppv-7417"
->
-<title lang="en">Seattle Mariners vs. Texas Rangers</title>
-<sub-title>MLB</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>MLB</category>
-<icon src="https://i.imgur.com/3d8UVI9.png" />
-</programme>
-
-<channel id="ppv-7416">
-<display-name>Washington Nationals vs. Cincinnati Reds</display-name>
-</channel>
-<programme
-start="20250503224000 +0000"
-stop="20250504014000 +0000"
-channel="ppv-7416"
->
-<title lang="en">Washington Nationals vs. Cincinnati Reds</title>
-<sub-title>MLB</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>MLB</category>
-<icon src="https://i.imgur.com/VZYwsTj.png" />
 </programme>
 
 <channel id="ppv-7399">
