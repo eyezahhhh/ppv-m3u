@@ -1,4 +1,48 @@
 <tv>
+<channel id="ppv-7518">
+<display-name>Nuggets at Thunder</display-name>
+</channel>
+<programme
+start="20250506013000 +0000"
+stop="20250506041500 +0000"
+channel="ppv-7518"
+>
+<title lang="en">Nuggets at Thunder</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/den-okc/1280x720.png" />
+</programme>
+
+<channel id="ppv-7517">
+<display-name>Knicks at Celtics</display-name>
+</channel>
+<programme
+start="20250505230000 +0000"
+stop="20250506014500 +0000"
+channel="ppv-7517"
+>
+<title lang="en">Knicks at Celtics</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/nyk-bos/1280x720.png" />
+</programme>
+
 <channel id="ppv-3677">
 <display-name>LND Monthly</display-name>
 </channel>
