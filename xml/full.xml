@@ -153,28 +153,6 @@ channel="ppv-7508"
 <icon src="https://i.imgur.com/NntTFb1.png" />
 </programme>
 
-<channel id="ppv-7538">
-<display-name>UCL: Inter Milan vs Barcelona</display-name>
-</channel>
-<programme
-start="20250506190000 +0000"
-stop="20250506223000 +0000"
-channel="ppv-7538"
->
-<title lang="en">UCL: Inter Milan vs Barcelona</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://i.imgur.com/fqkQtAz.jpeg" />
-</programme>
-
 <channel id="ppv-7521">
 <display-name>Edmonton Oilers vs. Vegas Golden Knights</display-name>
 </channel>
@@ -547,28 +525,6 @@ channel="ppv-7523"
 </audio>
 <category>MLB</category>
 <icon src="https://i.imgur.com/1YmNJ8W.png" />
-</programme>
-
-<channel id="ppv-7522">
-<display-name>Cleveland Guardians vs. Washington Nationals</display-name>
-</channel>
-<programme
-start="20250506193500 +0000"
-stop="20250506223500 +0000"
-channel="ppv-7522"
->
-<title lang="en">Cleveland Guardians vs. Washington Nationals</title>
-<sub-title>MLB</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>MLB</category>
-<icon src="https://i.imgur.com/MNo1LTD.png" />
 </programme>
 
 <channel id="ppv-3716">
