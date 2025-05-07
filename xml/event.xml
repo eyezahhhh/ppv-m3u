@@ -1,26 +1,4 @@
 <tv>
-<channel id="ppv-7540">
-<display-name>Warriors at Timberwolves</display-name>
-</channel>
-<programme
-start="20250507013000 +0000"
-stop="20250507041500 +0000"
-channel="ppv-7540"
->
-<title lang="en">Warriors at Timberwolves</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/gsw-min/1280x720.png" />
-</programme>
-
 <channel id="ppv-3677">
 <display-name>LND Monthly</display-name>
 </channel>
@@ -195,28 +173,6 @@ channel="ppv-7541"
 </audio>
 <category>Ice Hockey</category>
 <icon src="https://i.imgur.com/muq2yF8.png" />
-</programme>
-
-<channel id="ppv-7521">
-<display-name>Edmonton Oilers vs. Vegas Golden Knights</display-name>
-</channel>
-<programme
-start="20250507013000 +0000"
-stop="20250507043000 +0000"
-channel="ppv-7521"
->
-<title lang="en">Edmonton Oilers vs. Vegas Golden Knights</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://i.imgur.com/YnlRzr0.png" />
 </programme>
 
 <channel id="ppv-7557">
@@ -591,27 +547,5 @@ channel="ppv-7536"
 </audio>
 <category>MLB</category>
 <icon src="https://i.imgur.com/v1nVLVZ.png" />
-</programme>
-
-<channel id="ppv-7535">
-<display-name>Toronto Blue Jays vs. Los Angeles Angels</display-name>
-</channel>
-<programme
-start="20250507013800 +0000"
-stop="20250507043800 +0000"
-channel="ppv-7535"
->
-<title lang="en">Toronto Blue Jays vs. Los Angeles Angels</title>
-<sub-title>MLB</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>MLB</category>
-<icon src="https://i.imgur.com/2tlBrUM.png" />
 </programme>
 </tv>
