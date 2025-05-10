@@ -175,6 +175,28 @@ channel="ppv-7516"
 <icon src="https://i.imgur.com/JgbHSpU.png" />
 </programme>
 
+<channel id="ppv-7643">
+<display-name>Notts County vs AFC Wimbledon</display-name>
+</channel>
+<programme
+start="20250510190000 +0000"
+stop="20250510220000 +0000"
+channel="ppv-7643"
+>
+<title lang="en">Notts County vs AFC Wimbledon</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://i.imgur.com/9kQs5RX.jpeg" />
+</programme>
+
 <channel id="ppv-7617">
 <display-name>EPL: Bournemouth vs Aston Villa</display-name>
 </channel>
@@ -195,6 +217,28 @@ channel="ppv-7617"
 </audio>
 <category>Football</category>
 <icon src="https://i.imgur.com/eR5Yilr.jpeg" />
+</programme>
+
+<channel id="ppv-5193">
+<display-name>EPL: Goal Rush</display-name>
+</channel>
+<programme
+start="20250510140000 +0000"
+stop="20250510163000 +0000"
+channel="ppv-5193"
+>
+<title lang="en">EPL: Goal Rush</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://i.imgur.com/xZ7nAWB.jpeg" />
 </programme>
 
 <channel id="ppv-7613">
@@ -283,6 +327,28 @@ channel="ppv-7616"
 </audio>
 <category>Football</category>
 <icon src="https://i.imgur.com/1wsVVaf.jpeg" />
+</programme>
+
+<channel id="ppv-7642">
+<display-name>Leyton Orient vs Stockport County</display-name>
+</channel>
+<programme
+start="20250510113000 +0000"
+stop="20250510143000 +0000"
+channel="ppv-7642"
+>
+<title lang="en">Leyton Orient vs Stockport County</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://i.imgur.com/Nz6RyfE.jpeg" />
 </programme>
 
 <channel id="ppv-7620">
