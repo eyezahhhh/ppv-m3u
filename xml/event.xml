@@ -65,13 +65,13 @@ channel="ppv-7644"
 <icon src="https://i.imgur.com/yOSgn52.jpeg" />
 </programme>
 
-<channel id="ppv-7653">
+<channel id="ppv-7656">
 <display-name>PDC: Magic Darts Masters 2025 - Board 2</display-name>
 </channel>
 <programme
 start="20250510160000 +0000"
-stop="20250510230000 +0000"
-channel="ppv-7653"
+stop="20250511020000 +0000"
+channel="ppv-7656"
 >
 <title lang="en">PDC: Magic Darts Masters 2025 - Board 2</title>
 <sub-title>Darts</sub-title>
