@@ -197,6 +197,94 @@ channel="ppv-7516"
 <icon src="https://i.imgur.com/JgbHSpU.png" />
 </programme>
 
+<channel id="ppv-7698">
+<display-name>2025 IIHF Men&apos;s World Championship: Finland vs. Sweden</display-name>
+</channel>
+<programme
+start="20250512182000 +0000"
+stop="20250512212000 +0000"
+channel="ppv-7698"
+>
+<title lang="en">2025 IIHF Men&apos;s World Championship: Finland vs. Sweden</title>
+<sub-title>Ice Hockey</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Ice Hockey</category>
+<icon src="https://i.imgur.com/BBhBQXs.jpeg" />
+</programme>
+
+<channel id="ppv-7699">
+<display-name>2025 IIHF Men&apos;s World Championship: Czechia vs. Denmark</display-name>
+</channel>
+<programme
+start="20250512182000 +0000"
+stop="20250512212000 +0000"
+channel="ppv-7699"
+>
+<title lang="en">2025 IIHF Men&apos;s World Championship: Czechia vs. Denmark</title>
+<sub-title>Ice Hockey</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Ice Hockey</category>
+<icon src="https://i.imgur.com/Gllne8L.jpeg" />
+</programme>
+
+<channel id="ppv-7696">
+<display-name>2025 IIHF Men&apos;s World Championship: Austria vs. Slovakia</display-name>
+</channel>
+<programme
+start="20250512142000 +0000"
+stop="20250512172000 +0000"
+channel="ppv-7696"
+>
+<title lang="en">2025 IIHF Men&apos;s World Championship: Austria vs. Slovakia</title>
+<sub-title>Ice Hockey</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Ice Hockey</category>
+<icon src="https://i.imgur.com/e0aEyiM.jpeg" />
+</programme>
+
+<channel id="ppv-7697">
+<display-name>2025 IIHF Men&apos;s World Championship: USA vs. Switzerland</display-name>
+</channel>
+<programme
+start="20250512142000 +0000"
+stop="20250512172000 +0000"
+channel="ppv-7697"
+>
+<title lang="en">2025 IIHF Men&apos;s World Championship: USA vs. Switzerland</title>
+<sub-title>Ice Hockey</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Ice Hockey</category>
+<icon src="https://i.imgur.com/RjPwzVq.jpeg" />
+</programme>
+
 <channel id="ppv-7658">
 <display-name>Toronto Maple Leafs vs. Florida Panthers</display-name>
 </channel>
@@ -219,28 +307,6 @@ channel="ppv-7658"
 <icon src="https://i.imgur.com/67Ef9Bl.png" />
 </programme>
 
-<channel id="ppv-7657">
-<display-name>Winnipeg Jets vs. Dallas Stars</display-name>
-</channel>
-<programme
-start="20250511203000 +0000"
-stop="20250511233000 +0000"
-channel="ppv-7657"
->
-<title lang="en">Winnipeg Jets vs. Dallas Stars</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://i.imgur.com/3EdFaft.png" />
-</programme>
-
 <channel id="ppv-7673">
 <display-name>Philadelphia Phillies vs. Cleveland Guardians</display-name>
 </channel>
@@ -261,94 +327,6 @@ channel="ppv-7673"
 </audio>
 <category>MLB</category>
 <icon src="https://i.imgur.com/HAV570e.png" />
-</programme>
-
-<channel id="ppv-7671">
-<display-name>Los Angeles Dodgers vs. Arizona Diamondbacks</display-name>
-</channel>
-<programme
-start="20250511201000 +0000"
-stop="20250511231000 +0000"
-channel="ppv-7671"
->
-<title lang="en">Los Angeles Dodgers vs. Arizona Diamondbacks</title>
-<sub-title>MLB</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>MLB</category>
-<icon src="https://i.imgur.com/acSUesc.png" />
-</programme>
-
-<channel id="ppv-7672">
-<display-name>Toronto Blue Jays vs. Seattle Mariners</display-name>
-</channel>
-<programme
-start="20250511201000 +0000"
-stop="20250511231000 +0000"
-channel="ppv-7672"
->
-<title lang="en">Toronto Blue Jays vs. Seattle Mariners</title>
-<sub-title>MLB</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>MLB</category>
-<icon src="https://i.imgur.com/9ouqFRT.png" />
-</programme>
-
-<channel id="ppv-7670">
-<display-name>Baltimore Orioles vs. Los Angeles Angels</display-name>
-</channel>
-<programme
-start="20250511200700 +0000"
-stop="20250511230700 +0000"
-channel="ppv-7670"
->
-<title lang="en">Baltimore Orioles vs. Los Angeles Angels</title>
-<sub-title>MLB</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>MLB</category>
-<icon src="https://i.imgur.com/8NWdB6H.png" />
-</programme>
-
-<channel id="ppv-7669">
-<display-name>New York Yankees vs. Athletics</display-name>
-</channel>
-<programme
-start="20250511200500 +0000"
-stop="20250511230500 +0000"
-channel="ppv-7669"
->
-<title lang="en">New York Yankees vs. Athletics</title>
-<sub-title>MLB</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>MLB</category>
-<icon src="https://i.imgur.com/XU0pK19.png" />
 </programme>
 
 <channel id="ppv-3716">
@@ -415,5 +393,27 @@ channel="ppv-5191"
 </audio>
 <category>24/7 Streams</category>
 <icon src="https://thumbs.poocloud.in/thesimpsons/preview.jpg" />
+</programme>
+
+<channel id="ppv-3663">
+<display-name>24/7 COWS</display-name>
+</channel>
+<programme
+start="20250118050000 +0000"
+stop="20250228200000 +0000"
+channel="ppv-3663"
+>
+<title lang="en">24/7 COWS</title>
+<sub-title>24/7 Streams</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>24/7 Streams</category>
+<icon src="https://extension.usu.edu/drought/images/drought-mitigation-cows-thumbnail.png" />
 </programme>
 </tv>
