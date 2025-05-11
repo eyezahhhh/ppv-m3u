@@ -109,50 +109,6 @@ channel="ppv-7677"
 <icon src="https://open.http.mp.streamamg.com/p/3000668/sp/300066800/thumbnail/entry_id/0_1vpco1xv/width/640" />
 </programme>
 
-<channel id="ppv-7650">
-<display-name>Marseille vs Rennes</display-name>
-</channel>
-<programme
-start="20250517190000 +0000"
-stop="20250517220000 +0000"
-channel="ppv-7650"
->
-<title lang="en">Marseille vs Rennes</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://i.imgur.com/gLVZQDz.png" />
-</programme>
-
-<channel id="ppv-7511">
-<display-name>Sunderland vs Coventry</display-name>
-</channel>
-<programme
-start="20250513190000 +0000"
-stop="20250513220000 +0000"
-channel="ppv-7511"
->
-<title lang="en">Sunderland vs Coventry</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://i.imgur.com/hsaNhDl.jpeg" />
-</programme>
-
 <channel id="ppv-7516">
 <display-name>Sheffield United vs Bristol City</display-name>
 </channel>
@@ -857,28 +813,6 @@ channel="ppv-7659"
 <icon src="https://i.imgur.com/eFOogCo.png" />
 </programme>
 
-<channel id="ppv-3716">
-<display-name>(North) Korean Central Television</display-name>
-</channel>
-<programme
-start="20250118190000 +0000"
-stop="20250118220000 +0000"
-channel="ppv-3716"
->
-<title lang="en">(North) Korean Central Television</title>
-<sub-title>24/7 Streams</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>24/7 Streams</category>
-<icon src="https://i.imgur.com/CnphStu.png" />
-</programme>
-
 <channel id="ppv-5112">
 <display-name>24/7 South Park</display-name>
 </channel>
@@ -899,49 +833,5 @@ channel="ppv-5112"
 </audio>
 <category>24/7 Streams</category>
 <icon src="https://thumbs.poocloud.in/southpark/preview.jpg" />
-</programme>
-
-<channel id="ppv-5191">
-<display-name>24/7 The Simpsons</display-name>
-</channel>
-<programme
-start="20250118102800 +0000"
-stop="20250118102800 +0000"
-channel="ppv-5191"
->
-<title lang="en">24/7 The Simpsons</title>
-<sub-title>24/7 Streams</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>24/7 Streams</category>
-<icon src="https://thumbs.poocloud.in/thesimpsons/preview.jpg" />
-</programme>
-
-<channel id="ppv-3663">
-<display-name>24/7 COWS</display-name>
-</channel>
-<programme
-start="20250118050000 +0000"
-stop="20250228200000 +0000"
-channel="ppv-3663"
->
-<title lang="en">24/7 COWS</title>
-<sub-title>24/7 Streams</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>24/7 Streams</category>
-<icon src="https://extension.usu.edu/drought/images/drought-mitigation-cows-thumbnail.png" />
 </programme>
 </tv>
