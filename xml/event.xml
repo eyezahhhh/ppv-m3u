@@ -21,6 +21,94 @@ channel="ppv-7644"
 <icon src="https://i.imgur.com/yOSgn52.jpeg" />
 </programme>
 
+<channel id="ppv-7674">
+<display-name>PDC: Players Championship 15 - Board 4</display-name>
+</channel>
+<programme
+start="20250512110000 +0000"
+stop="20250512235900 +0000"
+channel="ppv-7674"
+>
+<title lang="en">PDC: Players Championship 15 - Board 4</title>
+<sub-title>Darts</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Darts</category>
+<icon src="https://open.http.mp.streamamg.com/p/3000668/sp/300066800/thumbnail/entry_id/0_zmzqzjqp/width/640" />
+</programme>
+
+<channel id="ppv-7675">
+<display-name>PDC: Players Championship 15 - Board 1</display-name>
+</channel>
+<programme
+start="20250512110000 +0000"
+stop="20250512235900 +0000"
+channel="ppv-7675"
+>
+<title lang="en">PDC: Players Championship 15 - Board 1</title>
+<sub-title>Darts</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Darts</category>
+<icon src="https://open.http.mp.streamamg.com/p/3000668/sp/300066800/thumbnail/entry_id/0_4zz4k9gb/width/640" />
+</programme>
+
+<channel id="ppv-7676">
+<display-name>PDC: Players Championship 15 - Board 3</display-name>
+</channel>
+<programme
+start="20250512110000 +0000"
+stop="20250512235900 +0000"
+channel="ppv-7676"
+>
+<title lang="en">PDC: Players Championship 15 - Board 3</title>
+<sub-title>Darts</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Darts</category>
+<icon src="https://open.http.mp.streamamg.com/p/3000668/sp/300066800/thumbnail/entry_id/0_eh881v3l/width/640" />
+</programme>
+
+<channel id="ppv-7677">
+<display-name>PDC: Players Championship 15 - Board 2</display-name>
+</channel>
+<programme
+start="20250512110000 +0000"
+stop="20250512235900 +0000"
+channel="ppv-7677"
+>
+<title lang="en">PDC: Players Championship 15 - Board 2</title>
+<sub-title>Darts</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Darts</category>
+<icon src="https://open.http.mp.streamamg.com/p/3000668/sp/300066800/thumbnail/entry_id/0_1vpco1xv/width/640" />
+</programme>
+
 <channel id="ppv-7650">
 <display-name>Marseille vs Rennes</display-name>
 </channel>
@@ -129,28 +217,6 @@ channel="ppv-7657"
 </audio>
 <category>Ice Hockey</category>
 <icon src="https://i.imgur.com/3EdFaft.png" />
-</programme>
-
-<channel id="ppv-7620">
-<display-name>Vegas Golden Knights vs. Edmonton Oilers</display-name>
-</channel>
-<programme
-start="20250511010000 +0000"
-stop="20250511040000 +0000"
-channel="ppv-7620"
->
-<title lang="en">Vegas Golden Knights vs. Edmonton Oilers</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://i.imgur.com/hB14kH1.png" />
 </programme>
 
 <channel id="ppv-7673">
