@@ -21,6 +21,94 @@ channel="ppv-3677"
 <icon src="https://i.imgur.com/EtF4pVY.png" />
 </programme>
 
+<channel id="ppv-7713">
+<display-name>PDC: Players Championship 16 - Board 4</display-name>
+</channel>
+<programme
+start="20250513110000 +0000"
+stop="20250513235900 +0000"
+channel="ppv-7713"
+>
+<title lang="en">PDC: Players Championship 16 - Board 4</title>
+<sub-title>Darts</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Darts</category>
+<icon src="https://open.http.mp.streamamg.com/p/3000668/sp/300066800/thumbnail/entry_id/0_wd5zpnfb/width/640" />
+</programme>
+
+<channel id="ppv-7714">
+<display-name>PDC: Players Championship 16 - Board 1</display-name>
+</channel>
+<programme
+start="20250513110000 +0000"
+stop="20250513235900 +0000"
+channel="ppv-7714"
+>
+<title lang="en">PDC: Players Championship 16 - Board 1</title>
+<sub-title>Darts</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Darts</category>
+<icon src="https://open.http.mp.streamamg.com/p/3000668/sp/300066800/thumbnail/entry_id/0_h10bmz8s/width/640" />
+</programme>
+
+<channel id="ppv-7715">
+<display-name>PDC: Players Championship 16 - Board 3</display-name>
+</channel>
+<programme
+start="20250513110000 +0000"
+stop="20250513235900 +0000"
+channel="ppv-7715"
+>
+<title lang="en">PDC: Players Championship 16 - Board 3</title>
+<sub-title>Darts</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Darts</category>
+<icon src="https://open.http.mp.streamamg.com/p/3000668/sp/300066800/thumbnail/entry_id/0_eiu1v9o8/width/640" />
+</programme>
+
+<channel id="ppv-7716">
+<display-name>PDC: Players Championship 16 - Board 2</display-name>
+</channel>
+<programme
+start="20250513110000 +0000"
+stop="20250513235900 +0000"
+channel="ppv-7716"
+>
+<title lang="en">PDC: Players Championship 16 - Board 2</title>
+<sub-title>Darts</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Darts</category>
+<icon src="https://open.http.mp.streamamg.com/p/3000668/sp/300066800/thumbnail/entry_id/0_lrta6t50/width/640" />
+</programme>
+
 <channel id="ppv-7674">
 <display-name>PDC: Players Championship 15 - Board 4</display-name>
 </channel>
