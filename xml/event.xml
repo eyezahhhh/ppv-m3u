@@ -1,26 +1,4 @@
 <tv>
-<channel id="ppv-7718">
-<display-name>Timberwolves at Warriors</display-name>
-</channel>
-<programme
-start="20250513020000 +0000"
-stop="20250513044500 +0000"
-channel="ppv-7718"
->
-<title lang="en">Timberwolves at Warriors</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/min-gsw/1280x720.png" />
-</programme>
-
 <channel id="ppv-3677">
 <display-name>LND Monthly</display-name>
 </channel>
@@ -613,71 +591,5 @@ channel="ppv-7724"
 </audio>
 <category>MLB</category>
 <icon src="https://i.imgur.com/o5Df6PE.png" />
-</programme>
-
-<channel id="ppv-7712">
-<display-name>Arizona Diamondbacks vs. San Francisco Giants</display-name>
-</channel>
-<programme
-start="20250513014500 +0000"
-stop="20250513044500 +0000"
-channel="ppv-7712"
->
-<title lang="en">Arizona Diamondbacks vs. San Francisco Giants</title>
-<sub-title>MLB</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>MLB</category>
-<icon src="https://i.imgur.com/bvCXwXz.png" />
-</programme>
-
-<channel id="ppv-7710">
-<display-name>Los Angeles Angels vs. San Diego Padres</display-name>
-</channel>
-<programme
-start="20250513014000 +0000"
-stop="20250513044000 +0000"
-channel="ppv-7710"
->
-<title lang="en">Los Angeles Angels vs. San Diego Padres</title>
-<sub-title>MLB</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>MLB</category>
-<icon src="https://i.imgur.com/hpFS0MM.png" />
-</programme>
-
-<channel id="ppv-7711">
-<display-name>New York Yankees vs. Seattle Mariners</display-name>
-</channel>
-<programme
-start="20250513014000 +0000"
-stop="20250513044000 +0000"
-channel="ppv-7711"
->
-<title lang="en">New York Yankees vs. Seattle Mariners</title>
-<sub-title>MLB</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>MLB</category>
-<icon src="https://i.imgur.com/PyUbpaJ.png" />
 </programme>
 </tv>
