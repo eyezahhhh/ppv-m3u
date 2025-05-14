@@ -571,28 +571,6 @@ channel="ppv-7750"
 <icon src="https://i.imgur.com/OTdFS4t.png" />
 </programme>
 
-<channel id="ppv-7749">
-<display-name>St. Louis Cardinals vs. Philadelphia Phillies</display-name>
-</channel>
-<programme
-start="20250514170500 +0000"
-stop="20250514200500 +0000"
-channel="ppv-7749"
->
-<title lang="en">St. Louis Cardinals vs. Philadelphia Phillies</title>
-<sub-title>MLB</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>MLB</category>
-<icon src="https://i.imgur.com/Lvkz8jb.png" />
-</programme>
-
 <channel id="ppv-7774">
 <display-name>AEW: Wednesday Night Dynamite</display-name>
 </channel>
