@@ -197,6 +197,94 @@ channel="ppv-7746"
 <icon src="https://i.imgur.com/mVs722g.png" />
 </programme>
 
+<channel id="ppv-7772">
+<display-name>2025 IIHF Men&apos;s World Championship: Latvia vs. Sweden</display-name>
+</channel>
+<programme
+start="20250514182000 +0000"
+stop="20250514212000 +0000"
+channel="ppv-7772"
+>
+<title lang="en">2025 IIHF Men&apos;s World Championship: Latvia vs. Sweden</title>
+<sub-title>Ice Hockey</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Ice Hockey</category>
+<icon src="https://i.imgur.com/8OtQpHQ.jpeg" />
+</programme>
+
+<channel id="ppv-7773">
+<display-name>2025 IIHF Men&apos;s World Championship: Kazakhstan vs. Denmark</display-name>
+</channel>
+<programme
+start="20250514182000 +0000"
+stop="20250514212000 +0000"
+channel="ppv-7773"
+>
+<title lang="en">2025 IIHF Men&apos;s World Championship: Kazakhstan vs. Denmark</title>
+<sub-title>Ice Hockey</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Ice Hockey</category>
+<icon src="https://i.imgur.com/l6wKAhX.jpeg" />
+</programme>
+
+<channel id="ppv-7770">
+<display-name>2025 IIHF Men&apos;s World Championship: Slovakia vs. France</display-name>
+</channel>
+<programme
+start="20250514142000 +0000"
+stop="20250514172000 +0000"
+channel="ppv-7770"
+>
+<title lang="en">2025 IIHF Men&apos;s World Championship: Slovakia vs. France</title>
+<sub-title>Ice Hockey</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Ice Hockey</category>
+<icon src="https://i.imgur.com/ExgaojU.jpeg" />
+</programme>
+
+<channel id="ppv-7771">
+<display-name>2025 IIHF Men&apos;s World Championship: USA vs. Norway</display-name>
+</channel>
+<programme
+start="20250514142000 +0000"
+stop="20250514172000 +0000"
+channel="ppv-7771"
+>
+<title lang="en">2025 IIHF Men&apos;s World Championship: USA vs. Norway</title>
+<sub-title>Ice Hockey</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Ice Hockey</category>
+<icon src="https://i.imgur.com/4CYwIs0.jpeg" />
+</programme>
+
 <channel id="ppv-7764">
 <display-name>Athletics vs. Los Angeles Dodgers</display-name>
 </channel>
