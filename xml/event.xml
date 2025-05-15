@@ -328,26 +328,4 @@ channel="ppv-7777"
 <category>MLB</category>
 <icon src="https://i.imgur.com/gU2YGLd.png" />
 </programme>
-
-<channel id="ppv-7776">
-<display-name>Washington Nationals vs. Atlanta Braves</display-name>
-</channel>
-<programme
-start="20250515161500 +0000"
-stop="20250515191500 +0000"
-channel="ppv-7776"
->
-<title lang="en">Washington Nationals vs. Atlanta Braves</title>
-<sub-title>MLB</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>MLB</category>
-<icon src="https://i.imgur.com/6kGsgYW.png" />
-</programme>
 </tv>
