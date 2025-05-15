@@ -240,26 +240,4 @@ channel="ppv-7776"
 <category>MLB</category>
 <icon src="https://i.imgur.com/6kGsgYW.png" />
 </programme>
-
-<channel id="ppv-7764">
-<display-name>Athletics vs. Los Angeles Dodgers</display-name>
-</channel>
-<programme
-start="20250515021000 +0000"
-stop="20250515051000 +0000"
-channel="ppv-7764"
->
-<title lang="en">Athletics vs. Los Angeles Dodgers</title>
-<sub-title>MLB</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>MLB</category>
-<icon src="https://i.imgur.com/dr5YrWY.png" />
-</programme>
 </tv>
