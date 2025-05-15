@@ -285,50 +285,6 @@ channel="ppv-7779"
 <icon src="https://i.imgur.com/joSV2U1.png" />
 </programme>
 
-<channel id="ppv-7778">
-<display-name>Chicago White Sox vs. Cincinnati Reds</display-name>
-</channel>
-<programme
-start="20250515164000 +0000"
-stop="20250515194000 +0000"
-channel="ppv-7778"
->
-<title lang="en">Chicago White Sox vs. Cincinnati Reds</title>
-<sub-title>MLB</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>MLB</category>
-<icon src="https://i.imgur.com/JaeYLiM.png" />
-</programme>
-
-<channel id="ppv-7777">
-<display-name>Minnesota Twins vs. Baltimore Orioles</display-name>
-</channel>
-<programme
-start="20250515163500 +0000"
-stop="20250515193500 +0000"
-channel="ppv-7777"
->
-<title lang="en">Minnesota Twins vs. Baltimore Orioles</title>
-<sub-title>MLB</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>MLB</category>
-<icon src="https://i.imgur.com/gU2YGLd.png" />
-</programme>
-
 <channel id="ppv-3716">
 <display-name>(North) Korean Central Television</display-name>
 </channel>
