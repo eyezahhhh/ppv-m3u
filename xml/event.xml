@@ -43,28 +43,6 @@ channel="ppv-3677"
 <icon src="https://i.imgur.com/EtF4pVY.png" />
 </programme>
 
-<channel id="ppv-7765">
-<display-name>PDC: BetMGM Premier League - Night Fifteen</display-name>
-</channel>
-<programme
-start="20250515180000 +0000"
-stop="20250515235900 +0000"
-channel="ppv-7765"
->
-<title lang="en">PDC: BetMGM Premier League - Night Fifteen</title>
-<sub-title>Darts</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Darts</category>
-<icon src="https://open.http.mp.streamamg.com/p/3000668/sp/300066800/thumbnail/entry_id/0_o3xwqc3w/width/640" />
-</programme>
-
 <channel id="ppv-7650">
 <display-name>Marseille vs Rennes</display-name>
 </channel>
