@@ -417,28 +417,6 @@ channel="ppv-7799"
 <icon src="https://i.imgur.com/YJrbIXP.png" />
 </programme>
 
-<channel id="ppv-7781">
-<display-name>Athletics vs. Los Angeles Dodgers</display-name>
-</channel>
-<programme
-start="20250516021000 +0000"
-stop="20250516051000 +0000"
-channel="ppv-7781"
->
-<title lang="en">Athletics vs. Los Angeles Dodgers</title>
-<sub-title>MLB</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>MLB</category>
-<icon src="https://i.imgur.com/6ZV28yb.png" />
-</programme>
-
 <channel id="ppv-7795">
 <display-name>F1: Emilia Romagna Grand Prix (Race)</display-name>
 </channel>
