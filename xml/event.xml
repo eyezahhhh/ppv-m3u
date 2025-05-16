@@ -1,4 +1,26 @@
 <tv>
+<channel id="ppv-7823">
+<display-name>Celtics at Knicks</display-name>
+</channel>
+<programme
+start="20250517000000 +0000"
+stop="20250517024500 +0000"
+channel="ppv-7823"
+>
+<title lang="en">Celtics at Knicks</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/bos-nyk/1280x720.png" />
+</programme>
+
 <channel id="ppv-3677">
 <display-name>LND Monthly</display-name>
 </channel>
