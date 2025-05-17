@@ -21,6 +21,28 @@ channel="ppv-3677"
 <icon src="https://i.imgur.com/EtF4pVY.png" />
 </programme>
 
+<channel id="ppv-7845">
+<display-name>Boxing: Fisher vs. Allen 2</display-name>
+</channel>
+<programme
+start="20250517180000 +0000"
+stop="20250518020000 +0000"
+channel="ppv-7845"
+>
+<title lang="en">Boxing: Fisher vs. Allen 2</title>
+<sub-title>Combat Sports</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Combat Sports</category>
+<icon src="https://i.imgur.com/dyEoOIH.png" />
+</programme>
+
 <channel id="ppv-7827">
 <display-name>OKTAGON 71 (English)</display-name>
 </channel>
@@ -151,6 +173,138 @@ channel="ppv-7829"
 </audio>
 <category>Ice Hockey</category>
 <icon src="https://i.imgur.com/XmXvyxB.png" />
+</programme>
+
+<channel id="ppv-7850">
+<display-name>2025 IIHF Men&apos;s World Championship: Canada vs. Slovakia</display-name>
+</channel>
+<programme
+start="20250517182000 +0000"
+stop="20250518022000 +0000"
+channel="ppv-7850"
+>
+<title lang="en">2025 IIHF Men&apos;s World Championship: Canada vs. Slovakia</title>
+<sub-title>Ice Hockey</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Ice Hockey</category>
+<icon src="https://i.imgur.com/Dw9hSit.jpeg" />
+</programme>
+
+<channel id="ppv-7851">
+<display-name>2025 IIHF Men&apos;s World Championship: Denmark vs. Norway</display-name>
+</channel>
+<programme
+start="20250517182000 +0000"
+stop="20250518022000 +0000"
+channel="ppv-7851"
+>
+<title lang="en">2025 IIHF Men&apos;s World Championship: Denmark vs. Norway</title>
+<sub-title>Ice Hockey</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Ice Hockey</category>
+<icon src="https://i.imgur.com/LBB2DrH.jpeg" />
+</programme>
+
+<channel id="ppv-7848">
+<display-name>2025 IIHF Men&apos;s World Championship: France vs. Sweden</display-name>
+</channel>
+<programme
+start="20250517142000 +0000"
+stop="20250517222000 +0000"
+channel="ppv-7848"
+>
+<title lang="en">2025 IIHF Men&apos;s World Championship: France vs. Sweden</title>
+<sub-title>Ice Hockey</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Ice Hockey</category>
+<icon src="https://i.imgur.com/Bn7YEhN.jpeg" />
+</programme>
+
+<channel id="ppv-7849">
+<display-name>2025 IIHF Men&apos;s World Championship: Czechia vs. Kazakhstan</display-name>
+</channel>
+<programme
+start="20250517142000 +0000"
+stop="20250517222000 +0000"
+channel="ppv-7849"
+>
+<title lang="en">2025 IIHF Men&apos;s World Championship: Czechia vs. Kazakhstan</title>
+<sub-title>Ice Hockey</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Ice Hockey</category>
+<icon src="https://i.imgur.com/SzVQf7e.jpeg" />
+</programme>
+
+<channel id="ppv-7846">
+<display-name>2025 IIHF Men&apos;s World Championship: Finland vs. Latvia</display-name>
+</channel>
+<programme
+start="20250517102000 +0000"
+stop="20250517182000 +0000"
+channel="ppv-7846"
+>
+<title lang="en">2025 IIHF Men&apos;s World Championship: Finland vs. Latvia</title>
+<sub-title>Ice Hockey</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Ice Hockey</category>
+<icon src="https://i.imgur.com/oDda3qD.jpeg" />
+</programme>
+
+<channel id="ppv-7847">
+<display-name>2025 IIHF Men&apos;s World Championship: USA vs. Germany</display-name>
+</channel>
+<programme
+start="20250517102000 +0000"
+stop="20250517182000 +0000"
+channel="ppv-7847"
+>
+<title lang="en">2025 IIHF Men&apos;s World Championship: USA vs. Germany</title>
+<sub-title>Ice Hockey</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Ice Hockey</category>
+<icon src="https://i.imgur.com/fOKIvJe.jpeg" />
 </programme>
 
 <channel id="ppv-7844">
