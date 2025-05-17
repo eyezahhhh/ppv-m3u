@@ -1,13 +1,13 @@
 <tv>
-<channel id="ppv-7854">
-<display-name> (Game 7)</display-name>
+<channel id="ppv-7855">
+<display-name>Nuggets at Thunder (Game 7)</display-name>
 </channel>
 <programme
 start="20250518193000 +0000"
 stop="20250518221500 +0000"
-channel="ppv-7854"
+channel="ppv-7855"
 >
-<title lang="en"> (Game 7)</title>
+<title lang="en">Nuggets at Thunder (Game 7)</title>
 <sub-title>Basketball</sub-title>
 <video>
 <present>yes</present>
