@@ -87,15 +87,15 @@ channel="ppv-7852"
 <icon src="https://open.http.mp.streamamg.com/p/3000668/sp/300066800/thumbnail/entry_id/0_b1b7mbc5/width/640" />
 </programme>
 
-<channel id="ppv-7829">
-<display-name>Winnipeg Jets vs. Dallas Stars</display-name>
+<channel id="ppv-7856">
+<display-name>Florida Panthers vs. Toronto Maple Leafs</display-name>
 </channel>
 <programme
-start="20250518000000 +0000"
-stop="20250518030000 +0000"
-channel="ppv-7829"
+start="20250518233000 +0000"
+stop="20250519023000 +0000"
+channel="ppv-7856"
 >
-<title lang="en">Winnipeg Jets vs. Dallas Stars</title>
+<title lang="en">Florida Panthers vs. Toronto Maple Leafs</title>
 <sub-title>Ice Hockey</sub-title>
 <video>
 <present>yes</present>
@@ -106,7 +106,337 @@ channel="ppv-7829"
 <stereo>stereo</stereo>
 </audio>
 <category>Ice Hockey</category>
-<icon src="https://i.imgur.com/XmXvyxB.png" />
+<icon src="https://i.imgur.com/Jdxa0hC.png" />
+</programme>
+
+<channel id="ppv-7871">
+<display-name>New York Mets vs. New York Yankees</display-name>
+</channel>
+<programme
+start="20250518230000 +0000"
+stop="20250519020000 +0000"
+channel="ppv-7871"
+>
+<title lang="en">New York Mets vs. New York Yankees</title>
+<sub-title>MLB</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>MLB</category>
+<icon src="https://i.imgur.com/CkTHbdR.png" />
+</programme>
+
+<channel id="ppv-7868">
+<display-name>Los Angeles Angels vs. Los Angeles Dodgers</display-name>
+</channel>
+<programme
+start="20250518201000 +0000"
+stop="20250518231000 +0000"
+channel="ppv-7868"
+>
+<title lang="en">Los Angeles Angels vs. Los Angeles Dodgers</title>
+<sub-title>MLB</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>MLB</category>
+<icon src="https://i.imgur.com/YbyhUCZ.png" />
+</programme>
+
+<channel id="ppv-7869">
+<display-name>Colorado Rockies vs. Arizona Diamondbacks</display-name>
+</channel>
+<programme
+start="20250518201000 +0000"
+stop="20250518231000 +0000"
+channel="ppv-7869"
+>
+<title lang="en">Colorado Rockies vs. Arizona Diamondbacks</title>
+<sub-title>MLB</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>MLB</category>
+<icon src="https://i.imgur.com/wSVjI7h.png" />
+</programme>
+
+<channel id="ppv-7870">
+<display-name>Seattle Mariners vs. San Diego Padres</display-name>
+</channel>
+<programme
+start="20250518201000 +0000"
+stop="20250518231000 +0000"
+channel="ppv-7870"
+>
+<title lang="en">Seattle Mariners vs. San Diego Padres</title>
+<sub-title>MLB</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>MLB</category>
+<icon src="https://i.imgur.com/Vb3HYfP.png" />
+</programme>
+
+<channel id="ppv-7867">
+<display-name>Athletics vs. San Francisco Giants</display-name>
+</channel>
+<programme
+start="20250518200500 +0000"
+stop="20250518230500 +0000"
+channel="ppv-7867"
+>
+<title lang="en">Athletics vs. San Francisco Giants</title>
+<sub-title>MLB</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>MLB</category>
+<icon src="https://i.imgur.com/EsSjO7g.png" />
+</programme>
+
+<channel id="ppv-7866">
+<display-name>Chicago White Sox vs. Chicago Cubs</display-name>
+</channel>
+<programme
+start="20250518182000 +0000"
+stop="20250518212000 +0000"
+channel="ppv-7866"
+>
+<title lang="en">Chicago White Sox vs. Chicago Cubs</title>
+<sub-title>MLB</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>MLB</category>
+<icon src="https://i.imgur.com/vuZBSXw.png" />
+</programme>
+
+<channel id="ppv-7864">
+<display-name>Minnesota Twins vs. Milwaukee Brewers</display-name>
+</channel>
+<programme
+start="20250518181000 +0000"
+stop="20250518211000 +0000"
+channel="ppv-7864"
+>
+<title lang="en">Minnesota Twins vs. Milwaukee Brewers</title>
+<sub-title>MLB</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>MLB</category>
+<icon src="https://i.imgur.com/P3wJcOg.png" />
+</programme>
+
+<channel id="ppv-7865">
+<display-name>St. Louis Cardinals vs. Kansas City Royals</display-name>
+</channel>
+<programme
+start="20250518181000 +0000"
+stop="20250518211000 +0000"
+channel="ppv-7865"
+>
+<title lang="en">St. Louis Cardinals vs. Kansas City Royals</title>
+<sub-title>MLB</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>MLB</category>
+<icon src="https://i.imgur.com/cqugHEX.png" />
+</programme>
+
+<channel id="ppv-7862">
+<display-name>Cleveland Guardians vs. Cincinnati Reds</display-name>
+</channel>
+<programme
+start="20250518174000 +0000"
+stop="20250518204000 +0000"
+channel="ppv-7862"
+>
+<title lang="en">Cleveland Guardians vs. Cincinnati Reds</title>
+<sub-title>MLB</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>MLB</category>
+<icon src="https://i.imgur.com/TNnyVyV.png" />
+</programme>
+
+<channel id="ppv-7863">
+<display-name>Tampa Bay Rays vs. Miami Marlins</display-name>
+</channel>
+<programme
+start="20250518174000 +0000"
+stop="20250518204000 +0000"
+channel="ppv-7863"
+>
+<title lang="en">Tampa Bay Rays vs. Miami Marlins</title>
+<sub-title>MLB</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>MLB</category>
+<icon src="https://i.imgur.com/lsK0hzR.png" />
+</programme>
+
+<channel id="ppv-7861">
+<display-name>Detroit Tigers vs. Toronto Blue Jays</display-name>
+</channel>
+<programme
+start="20250518173700 +0000"
+stop="20250518203700 +0000"
+channel="ppv-7861"
+>
+<title lang="en">Detroit Tigers vs. Toronto Blue Jays</title>
+<sub-title>MLB</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>MLB</category>
+<icon src="https://i.imgur.com/3ewqYt3.png" />
+</programme>
+
+<channel id="ppv-7858">
+<display-name>Atlanta Braves vs. Boston Red Sox</display-name>
+</channel>
+<programme
+start="20250518173500 +0000"
+stop="20250518203500 +0000"
+channel="ppv-7858"
+>
+<title lang="en">Atlanta Braves vs. Boston Red Sox</title>
+<sub-title>MLB</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>MLB</category>
+<icon src="https://i.imgur.com/zlMlCdJ.png" />
+</programme>
+
+<channel id="ppv-7859">
+<display-name>Pittsburgh Pirates vs. Philadelphia Phillies</display-name>
+</channel>
+<programme
+start="20250518173500 +0000"
+stop="20250518203500 +0000"
+channel="ppv-7859"
+>
+<title lang="en">Pittsburgh Pirates vs. Philadelphia Phillies</title>
+<sub-title>MLB</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>MLB</category>
+<icon src="https://i.imgur.com/1o2hn8n.png" />
+</programme>
+
+<channel id="ppv-7860">
+<display-name>Washington Nationals vs. Baltimore Orioles</display-name>
+</channel>
+<programme
+start="20250518173500 +0000"
+stop="20250518203500 +0000"
+channel="ppv-7860"
+>
+<title lang="en">Washington Nationals vs. Baltimore Orioles</title>
+<sub-title>MLB</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>MLB</category>
+<icon src="https://i.imgur.com/KZbacXl.png" />
+</programme>
+
+<channel id="ppv-7857">
+<display-name>Houston Astros vs. Texas Rangers</display-name>
+</channel>
+<programme
+start="20250518170500 +0000"
+stop="20250518200500 +0000"
+channel="ppv-7857"
+>
+<title lang="en">Houston Astros vs. Texas Rangers</title>
+<sub-title>MLB</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>MLB</category>
+<icon src="https://i.imgur.com/rGYW8wi.png" />
 </programme>
 
 <channel id="ppv-7844">
@@ -173,28 +503,6 @@ channel="ppv-7842"
 </audio>
 <category>MLB</category>
 <icon src="https://i.imgur.com/AKSJuJ2.png" />
-</programme>
-
-<channel id="ppv-7841">
-<display-name>Colorado Rockies vs. Arizona Diamondbacks</display-name>
-</channel>
-<programme
-start="20250518001000 +0000"
-stop="20250518031000 +0000"
-channel="ppv-7841"
->
-<title lang="en">Colorado Rockies vs. Arizona Diamondbacks</title>
-<sub-title>MLB</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>MLB</category>
-<icon src="https://i.imgur.com/JfLnlLL.png" />
 </programme>
 
 <channel id="ppv-7795">
