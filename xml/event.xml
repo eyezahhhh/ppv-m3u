@@ -175,28 +175,6 @@ channel="ppv-7873"
 <icon src="https://i.imgur.com/Cl5T9Au.jpeg" />
 </programme>
 
-<channel id="ppv-7872">
-<display-name>EPL: Everton vs Southampton</display-name>
-</channel>
-<programme
-start="20250518110000 +0000"
-stop="20250518133000 +0000"
-channel="ppv-7872"
->
-<title lang="en">EPL: Everton vs Southampton</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://i.imgur.com/4Of8XtT.jpeg" />
-</programme>
-
 <channel id="ppv-7856">
 <display-name>Florida Panthers vs. Toronto Maple Leafs</display-name>
 </channel>
