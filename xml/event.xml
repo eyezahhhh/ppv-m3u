@@ -1,26 +1,4 @@
 <tv>
-<channel id="ppv-7855">
-<display-name>Nuggets at Thunder (Game 7)</display-name>
-</channel>
-<programme
-start="20250518193000 +0000"
-stop="20250518221500 +0000"
-channel="ppv-7855"
->
-<title lang="en">Nuggets at Thunder (Game 7)</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/den-okc/1280x720.png" />
-</programme>
-
 <channel id="ppv-7856">
 <display-name>Florida Panthers vs. Toronto Maple Leafs</display-name>
 </channel>
