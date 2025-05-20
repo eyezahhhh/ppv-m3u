@@ -153,50 +153,6 @@ channel="ppv-7925"
 <icon src="https://i.imgur.com/HXgOKIC.jpeg" />
 </programme>
 
-<channel id="ppv-7922">
-<display-name>2025 IIHF Men&apos;s World Championship: Slovakia vs. Finland</display-name>
-</channel>
-<programme
-start="20250520142000 +0000"
-stop="20250520172000 +0000"
-channel="ppv-7922"
->
-<title lang="en">2025 IIHF Men&apos;s World Championship: Slovakia vs. Finland</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://i.imgur.com/tdkq4WT.jpeg" />
-</programme>
-
-<channel id="ppv-7923">
-<display-name>2025 IIHF Men&apos;s World Championship: Czechia vs. USA</display-name>
-</channel>
-<programme
-start="20250520142000 +0000"
-stop="20250520172000 +0000"
-channel="ppv-7923"
->
-<title lang="en">2025 IIHF Men&apos;s World Championship: Czechia vs. USA</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://i.imgur.com/sA4Huia.jpeg" />
-</programme>
-
 <channel id="ppv-7919">
 <display-name>Arizona Diamondbacks vs. Los Angeles Dodgers</display-name>
 </channel>
