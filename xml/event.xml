@@ -394,48 +394,4 @@ channel="ppv-7897"
 <category>MLB</category>
 <icon src="https://i.imgur.com/4i77Hli.png" />
 </programme>
-
-<channel id="ppv-7896">
-<display-name>Los Angeles Angels vs. Athletics</display-name>
-</channel>
-<programme
-start="20250520020500 +0000"
-stop="20250520050500 +0000"
-channel="ppv-7896"
->
-<title lang="en">Los Angeles Angels vs. Athletics</title>
-<sub-title>MLB</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>MLB</category>
-<icon src="https://i.imgur.com/vICoHDJ.png" />
-</programme>
-
-<channel id="ppv-7895">
-<display-name>Kansas City Royals vs. San Francisco Giants</display-name>
-</channel>
-<programme
-start="20250520014500 +0000"
-stop="20250520044500 +0000"
-channel="ppv-7895"
->
-<title lang="en">Kansas City Royals vs. San Francisco Giants</title>
-<sub-title>MLB</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>MLB</category>
-<icon src="https://i.imgur.com/H41fQR5.png" />
-</programme>
 </tv>
