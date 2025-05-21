@@ -241,16 +241,16 @@ channel="ppv-7940"
 <icon src="https://i.imgur.com/RVWOLMr.png" />
 </programme>
 
-<channel id="ppv-7938">
-<display-name>Kansas City Royals vs. San Francisco Giants</display-name>
+<channel id="ppv-7960">
+<display-name>AEW: Saturday Night Collision</display-name>
 </channel>
 <programme
-start="20250521194500 +0000"
-stop="20250521224500 +0000"
-channel="ppv-7938"
+start="20250525000000 +0000"
+stop="20250525030000 +0000"
+channel="ppv-7960"
 >
-<title lang="en">Kansas City Royals vs. San Francisco Giants</title>
-<sub-title>MLB</sub-title>
+<title lang="en">AEW: Saturday Night Collision</title>
+<sub-title>Wrestling</sub-title>
 <video>
 <present>yes</present>
 <colour>yes</colour>
@@ -259,8 +259,30 @@ channel="ppv-7938"
 <present>yes</present>
 <stereo>stereo</stereo>
 </audio>
-<category>MLB</category>
-<icon src="https://i.imgur.com/TvOdxtY.png" />
+<category>Wrestling</category>
+<icon src="https://i.imgur.com/x3OPAo3.jpeg" />
+</programme>
+
+<channel id="ppv-7959">
+<display-name>WWE: Friday Night Smackdown</display-name>
+</channel>
+<programme
+start="20250524000000 +0000"
+stop="20250524030000 +0000"
+channel="ppv-7959"
+>
+<title lang="en">WWE: Friday Night Smackdown</title>
+<sub-title>Wrestling</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Wrestling</category>
+<icon src="https://i.imgur.com/RqupbgS.png" />
 </programme>
 
 <channel id="ppv-7958">
