@@ -43,28 +43,6 @@ channel="ppv-7946"
 <icon src="https://open.http.mp.streamamg.com/p/3000668/sp/300066800/thumbnail/entry_id/0_u43l0q4c/width/640" />
 </programme>
 
-<channel id="ppv-7947">
-<display-name>Tottenham Hotspur vs Manchester United</display-name>
-</channel>
-<programme
-start="20250521190000 +0000"
-stop="20250521220000 +0000"
-channel="ppv-7947"
->
-<title lang="en">Tottenham Hotspur vs Manchester United</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://i.imgur.com/teQWQFi.png" />
-</programme>
-
 <channel id="ppv-7929">
 <display-name>Florida Panthers vs. Carolina Hurricanes</display-name>
 </channel>
@@ -283,28 +261,6 @@ channel="ppv-7938"
 </audio>
 <category>MLB</category>
 <icon src="https://i.imgur.com/TvOdxtY.png" />
-</programme>
-
-<channel id="ppv-7937">
-<display-name>Cleveland Guardians vs. Minnesota Twins</display-name>
-</channel>
-<programme
-start="20250521190000 +0000"
-stop="20250521220000 +0000"
-channel="ppv-7937"
->
-<title lang="en">Cleveland Guardians vs. Minnesota Twins</title>
-<sub-title>MLB</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>MLB</category>
-<icon src="https://i.imgur.com/u4piYas.png" />
 </programme>
 
 <channel id="ppv-7958">
