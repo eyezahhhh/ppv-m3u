@@ -417,50 +417,6 @@ channel="ppv-7919"
 <icon src="https://i.imgur.com/jTt6wzT.png" />
 </programme>
 
-<channel id="ppv-7918">
-<display-name>Los Angeles Angels vs. Athletics</display-name>
-</channel>
-<programme
-start="20250521020500 +0000"
-stop="20250521050500 +0000"
-channel="ppv-7918"
->
-<title lang="en">Los Angeles Angels vs. Athletics</title>
-<sub-title>MLB</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>MLB</category>
-<icon src="https://i.imgur.com/QRBkya4.png" />
-</programme>
-
-<channel id="ppv-7917">
-<display-name>Kansas City Royals vs. San Francisco Giants</display-name>
-</channel>
-<programme
-start="20250521014500 +0000"
-stop="20250521044500 +0000"
-channel="ppv-7917"
->
-<title lang="en">Kansas City Royals vs. San Francisco Giants</title>
-<sub-title>MLB</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>MLB</category>
-<icon src="https://i.imgur.com/qSy9hCU.png" />
-</programme>
-
 <channel id="ppv-3716">
 <display-name>(North) Korean Central Television</display-name>
 </channel>
