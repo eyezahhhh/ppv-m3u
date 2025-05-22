@@ -153,15 +153,15 @@ channel="ppv-8003"
 <icon src="https://i.imgur.com/KBpLiBw.png" />
 </programme>
 
-<channel id="ppv-8004">
-<display-name>Los Angeles Dodgers vs. New York Mets</display-name>
+<channel id="ppv-8002">
+<display-name>Toronto Blue Jays vs. Tampa Bay Rays</display-name>
 </channel>
 <programme
-start="20250524231500 +0000"
-stop="20250525021500 +0000"
-channel="ppv-8004"
+start="20250524230500 +0000"
+stop="20250525020500 +0000"
+channel="ppv-8002"
 >
-<title lang="en">Los Angeles Dodgers vs. New York Mets</title>
+<title lang="en">Toronto Blue Jays vs. Tampa Bay Rays</title>
 <sub-title>MLB</sub-title>
 <video>
 <present>yes</present>
@@ -172,7 +172,7 @@ channel="ppv-8004"
 <stereo>stereo</stereo>
 </audio>
 <category>MLB</category>
-<icon src="https://i.imgur.com/FZGBdLA.png" />
+<icon src="https://i.imgur.com/JbAsX8H.png" />
 </programme>
 
 <channel id="ppv-7996">
