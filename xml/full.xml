@@ -175,6 +175,28 @@ channel="ppv-8012"
 <icon src="https://i.imgur.com/d22WkKG.jpeg" />
 </programme>
 
+<channel id="ppv-8001">
+<display-name>New York Yankees vs. Colorado Rockies</display-name>
+</channel>
+<programme
+start="20250524201000 +0000"
+stop="20250524231000 +0000"
+channel="ppv-8001"
+>
+<title lang="en">New York Yankees vs. Colorado Rockies</title>
+<sub-title>MLB</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>MLB</category>
+<icon src="https://i.imgur.com/cQ9NNqc.png" />
+</programme>
+
 <channel id="ppv-7993">
 <display-name>Arizona Diamondbacks vs. St. Louis Cardinals</display-name>
 </channel>
