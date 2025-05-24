@@ -1,70 +1,4 @@
 <tv>
-<channel id="ppv-8025">
-<display-name>Mystics at Aces</display-name>
-</channel>
-<programme
-start="20250524020000 +0000"
-stop="20250524044500 +0000"
-channel="ppv-8025"
->
-<title lang="en">Mystics at Aces</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://cdn.nba.com/davinci/images/team-matchups/wnba/latest/ced/was-lva/1280x720.png" />
-</programme>
-
-<channel id="ppv-8026">
-<display-name>Valkyries at Sparks</display-name>
-</channel>
-<programme
-start="20250524020000 +0000"
-stop="20250524044500 +0000"
-channel="ppv-8026"
->
-<title lang="en">Valkyries at Sparks</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://cdn.nba.com/davinci/images/team-matchups/wnba/latest/ced/gsv-las/1280x720.png" />
-</programme>
-
-<channel id="ppv-8027">
-<display-name>Mercury at Storm</display-name>
-</channel>
-<programme
-start="20250524020000 +0000"
-stop="20250524044500 +0000"
-channel="ppv-8027"
->
-<title lang="en">Mercury at Storm</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://cdn.nba.com/davinci/images/team-matchups/wnba/latest/ced/phx-sea/1280x720.png" />
-</programme>
-
 <channel id="ppv-8035">
 <display-name>PDC: 2025 Dutch Darts Championship Day Three</display-name>
 </channel>
@@ -547,28 +481,6 @@ channel="ppv-7992"
 </audio>
 <category>MLB</category>
 <icon src="https://i.imgur.com/cipsKe6.png" />
-</programme>
-
-<channel id="ppv-7991">
-<display-name>Philadelphia Phillies vs. Athletics</display-name>
-</channel>
-<programme
-start="20250524020500 +0000"
-stop="20250524050500 +0000"
-channel="ppv-7991"
->
-<title lang="en">Philadelphia Phillies vs. Athletics</title>
-<sub-title>MLB</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>MLB</category>
-<icon src="https://i.imgur.com/EP4jygh.png" />
 </programme>
 
 <channel id="ppv-8020">
