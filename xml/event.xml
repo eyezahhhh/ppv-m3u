@@ -571,28 +571,6 @@ channel="ppv-7991"
 <icon src="https://i.imgur.com/EP4jygh.png" />
 </programme>
 
-<channel id="ppv-7990">
-<display-name>Miami Marlins vs. Los Angeles Angels</display-name>
-</channel>
-<programme
-start="20250524013800 +0000"
-stop="20250524043800 +0000"
-channel="ppv-7990"
->
-<title lang="en">Miami Marlins vs. Los Angeles Angels</title>
-<sub-title>MLB</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>MLB</category>
-<icon src="https://i.imgur.com/bcAUOag.png" />
-</programme>
-
 <channel id="ppv-8020">
 <display-name>F1: Monaco GP (Race)</display-name>
 </channel>
