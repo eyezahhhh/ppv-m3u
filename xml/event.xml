@@ -43,28 +43,6 @@ channel="ppv-8045"
 <icon src="https://cdn.nba.com/davinci/images/team-matchups/wnba/latest/ced/dal-atl/1280x720.png" />
 </programme>
 
-<channel id="ppv-8044">
-<display-name>Liberty at Fever</display-name>
-</channel>
-<programme
-start="20250524170000 +0000"
-stop="20250524194500 +0000"
-channel="ppv-8044"
->
-<title lang="en">Liberty at Fever</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://cdn.nba.com/davinci/images/team-matchups/wnba/latest/ced/nyl-ind/1280x720.png" />
-</programme>
-
 <channel id="ppv-8043">
 <display-name>Boxing: Taylor vs. Essuman</display-name>
 </channel>
