@@ -131,6 +131,28 @@ channel="ppv-8023"
 <icon src="https://open.http.mp.streamamg.com/p/3000668/sp/300066800/thumbnail/entry_id/0_mzq8tyn1/width/640" />
 </programme>
 
+<channel id="ppv-5193">
+<display-name>EPL: Goal Rush</display-name>
+</channel>
+<programme
+start="20250525150000 +0000"
+stop="20250525173000 +0000"
+channel="ppv-5193"
+>
+<title lang="en">EPL: Goal Rush</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://i.imgur.com/xZ7nAWB.jpeg" />
+</programme>
+
 <channel id="ppv-8049">
 <display-name>EPL: Bournemouth vs Leicester City</display-name>
 </channel>
@@ -657,50 +679,6 @@ channel="ppv-7995"
 </audio>
 <category>MLB</category>
 <icon src="https://i.imgur.com/90ePzGm.png" />
-</programme>
-
-<channel id="ppv-7993">
-<display-name>Arizona Diamondbacks vs. St. Louis Cardinals</display-name>
-</channel>
-<programme
-start="20250524181500 +0000"
-stop="20250524211500 +0000"
-channel="ppv-7993"
->
-<title lang="en">Arizona Diamondbacks vs. St. Louis Cardinals</title>
-<sub-title>MLB</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>MLB</category>
-<icon src="https://i.imgur.com/hNpqM53.png" />
-</programme>
-
-<channel id="ppv-7992">
-<display-name>Kansas City Royals vs. Minnesota Twins</display-name>
-</channel>
-<programme
-start="20250524181000 +0000"
-stop="20250524211000 +0000"
-channel="ppv-7992"
->
-<title lang="en">Kansas City Royals vs. Minnesota Twins</title>
-<sub-title>MLB</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>MLB</category>
-<icon src="https://i.imgur.com/cipsKe6.png" />
 </programme>
 
 <channel id="ppv-8020">
