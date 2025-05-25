@@ -158,7 +158,7 @@ channel="ppv-8051"
 </channel>
 <programme
 start="20250525150000 +0000"
-stop="20250525173000 +0000"
+stop="20250525180000 +0000"
 channel="ppv-8052"
 >
 <title lang="en">EPL: Liverpool vs Crystal Palace</title>
@@ -180,7 +180,7 @@ channel="ppv-8052"
 </channel>
 <programme
 start="20250525150000 +0000"
-stop="20250525173000 +0000"
+stop="20250525180000 +0000"
 channel="ppv-8053"
 >
 <title lang="en">EPL: Manchester United vs Aston Villa</title>
@@ -224,7 +224,7 @@ channel="ppv-8054"
 </channel>
 <programme
 start="20250525150000 +0000"
-stop="20250525173000 +0000"
+stop="20250525180000 +0000"
 channel="ppv-8055"
 >
 <title lang="en">EPL: Nottingham Forest vs Chelsea</title>
