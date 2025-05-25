@@ -175,16 +175,16 @@ channel="ppv-8077"
 <icon src="https://i.imgur.com/r5DVSG0.png" />
 </programme>
 
-<channel id="ppv-8076">
-<display-name>Philadelphia Phillies vs. Athletics</display-name>
+<channel id="ppv-8104">
+<display-name>AFC Wimbledon vs Walsall</display-name>
 </channel>
 <programme
-start="20250525200500 +0000"
-stop="20250525230500 +0000"
-channel="ppv-8076"
+start="20250526140000 +0000"
+stop="20250526170000 +0000"
+channel="ppv-8104"
 >
-<title lang="en">Philadelphia Phillies vs. Athletics</title>
-<sub-title>MLB</sub-title>
+<title lang="en">AFC Wimbledon vs Walsall</title>
+<sub-title>Streams</sub-title>
 <video>
 <present>yes</present>
 <colour>yes</colour>
@@ -193,8 +193,8 @@ channel="ppv-8076"
 <present>yes</present>
 <stereo>stereo</stereo>
 </audio>
-<category>MLB</category>
-<icon src="https://i.imgur.com/SxKuD1n.png" />
+<category>Streams</category>
+<icon src="https://i.imgur.com/gImkOrx.png" />
 </programme>
 
 <channel id="ppv-8082">
