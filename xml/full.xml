@@ -307,6 +307,138 @@ channel="ppv-8104"
 <icon src="https://i.imgur.com/gImkOrx.png" />
 </programme>
 
+<channel id="ppv-8125">
+<display-name>AEW: Saturday Night Collision</display-name>
+</channel>
+<programme
+start="20250601000000 +0000"
+stop="20250601030000 +0000"
+channel="ppv-8125"
+>
+<title lang="en">AEW: Saturday Night Collision</title>
+<sub-title>Wrestling</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Wrestling</category>
+<icon src="https://i.imgur.com/x3OPAo3.jpeg" />
+</programme>
+
+<channel id="ppv-8124">
+<display-name>WWE: Friday Night Smackdown</display-name>
+</channel>
+<programme
+start="20250531000000 +0000"
+stop="20250531030000 +0000"
+channel="ppv-8124"
+>
+<title lang="en">WWE: Friday Night Smackdown</title>
+<sub-title>Wrestling</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Wrestling</category>
+<icon src="https://i.imgur.com/RqupbgS.png" />
+</programme>
+
+<channel id="ppv-8123">
+<display-name>TNA: Impact</display-name>
+</channel>
+<programme
+start="20250530000000 +0000"
+stop="20250530030000 +0000"
+channel="ppv-8123"
+>
+<title lang="en">TNA: Impact</title>
+<sub-title>Wrestling</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Wrestling</category>
+<icon src="https://i.imgur.com/FpS5gVp.png" />
+</programme>
+
+<channel id="ppv-8122">
+<display-name>AEW: Wednesday Night Dynamite</display-name>
+</channel>
+<programme
+start="20250529000000 +0000"
+stop="20250529030000 +0000"
+channel="ppv-8122"
+>
+<title lang="en">AEW: Wednesday Night Dynamite</title>
+<sub-title>Wrestling</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Wrestling</category>
+<icon src="https://i.imgur.com/Gajn72i.jpeg" />
+</programme>
+
+<channel id="ppv-8121">
+<display-name>WWE: NXT</display-name>
+</channel>
+<programme
+start="20250528000000 +0000"
+stop="20250528030000 +0000"
+channel="ppv-8121"
+>
+<title lang="en">WWE: NXT</title>
+<sub-title>Wrestling</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Wrestling</category>
+<icon src="https://i.imgur.com/n7tkxQQ.png" />
+</programme>
+
+<channel id="ppv-8120">
+<display-name>WWE: Monday Night RAW</display-name>
+</channel>
+<programme
+start="20250527000000 +0000"
+stop="20250527030000 +0000"
+channel="ppv-8120"
+>
+<title lang="en">WWE: Monday Night RAW</title>
+<sub-title>Wrestling</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Wrestling</category>
+<icon src="https://i.imgur.com/zmuUYCm.png" />
+</programme>
+
 <channel id="ppv-3716">
 <display-name>(North) Korean Central Television</display-name>
 </channel>
