@@ -175,6 +175,138 @@ channel="ppv-8127"
 <icon src="https://i.imgur.com/icjDYqn.jpeg" />
 </programme>
 
+<channel id="ppv-8154">
+<display-name>Independiente del Valle vs Barcelona</display-name>
+</channel>
+<programme
+start="20250528003000 +0000"
+stop="20250528033000 +0000"
+channel="ppv-8154"
+>
+<title lang="en">Independiente del Valle vs Barcelona</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://i.imgur.com/30S639w.png" />
+</programme>
+
+<channel id="ppv-8155">
+<display-name>River Plate vs Universitario</display-name>
+</channel>
+<programme
+start="20250528003000 +0000"
+stop="20250528033000 +0000"
+channel="ppv-8155"
+>
+<title lang="en">River Plate vs Universitario</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://i.imgur.com/V2qWTw3.png" />
+</programme>
+
+<channel id="ppv-8156">
+<display-name>Estudiantes vs Carabobo</display-name>
+</channel>
+<programme
+start="20250528003000 +0000"
+stop="20250528033000 +0000"
+channel="ppv-8156"
+>
+<title lang="en">Estudiantes vs Carabobo</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://i.imgur.com/7nRbw10.png" />
+</programme>
+
+<channel id="ppv-8157">
+<display-name>Botafogo vs Universidad Chile</display-name>
+</channel>
+<programme
+start="20250528003000 +0000"
+stop="20250528033000 +0000"
+channel="ppv-8157"
+>
+<title lang="en">Botafogo vs Universidad Chile</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://i.imgur.com/GNsA3RV.png" />
+</programme>
+
+<channel id="ppv-8152">
+<display-name>São Paulo vs Talleres Córdoba</display-name>
+</channel>
+<programme
+start="20250527220000 +0000"
+stop="20250528010000 +0000"
+channel="ppv-8152"
+>
+<title lang="en">São Paulo vs Talleres Córdoba</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://i.imgur.com/ADaD33f.png" />
+</programme>
+
+<channel id="ppv-8153">
+<display-name>Libertad vs Alianza Lima</display-name>
+</channel>
+<programme
+start="20250527220000 +0000"
+stop="20250528010000 +0000"
+channel="ppv-8153"
+>
+<title lang="en">Libertad vs Alianza Lima</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://i.imgur.com/fw2mO0r.png" />
+</programme>
+
 <channel id="ppv-8128">
 <display-name>Dallas Stars vs. Edmonton Oilers</display-name>
 </channel>
