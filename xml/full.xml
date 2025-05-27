@@ -1,26 +1,4 @@
 <tv>
-<channel id="ppv-8126">
-<display-name>Thunder at Timberwolves (Game 4)</display-name>
-</channel>
-<programme
-start="20250527003000 +0000"
-stop="20250527031500 +0000"
-channel="ppv-8126"
->
-<title lang="en">Thunder at Timberwolves (Game 4)</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/okc-min/1280x720.png" />
-</programme>
-
 <channel id="ppv-8127">
 <display-name>ASEAN All-Stars vs Manchester United</display-name>
 </channel>
@@ -63,28 +41,6 @@ channel="ppv-8128"
 </audio>
 <category>Ice Hockey</category>
 <icon src="https://i.imgur.com/yEQNsAf.png" />
-</programme>
-
-<channel id="ppv-8107">
-<display-name>Carolina Hurricanes vs. Florida Panthers</display-name>
-</channel>
-<programme
-start="20250527000000 +0000"
-stop="20250527030000 +0000"
-channel="ppv-8107"
->
-<title lang="en">Carolina Hurricanes vs. Florida Panthers</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://i.imgur.com/tiVkHfT.png" />
 </programme>
 
 <channel id="ppv-8141">
@@ -461,28 +417,6 @@ channel="ppv-8118"
 <icon src="https://i.imgur.com/xHk4F7H.png" />
 </programme>
 
-<channel id="ppv-8117">
-<display-name>Pittsburgh Pirates vs. Arizona Diamondbacks</display-name>
-</channel>
-<programme
-start="20250527001000 +0000"
-stop="20250527031000 +0000"
-channel="ppv-8117"
->
-<title lang="en">Pittsburgh Pirates vs. Arizona Diamondbacks</title>
-<sub-title>MLB</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>MLB</category>
-<icon src="https://i.imgur.com/JqLWNa5.png" />
-</programme>
-
 <channel id="ppv-8125">
 <display-name>AEW: Saturday Night Collision</display-name>
 </channel>
@@ -591,28 +525,6 @@ channel="ppv-8121"
 </audio>
 <category>Wrestling</category>
 <icon src="https://i.imgur.com/n7tkxQQ.png" />
-</programme>
-
-<channel id="ppv-8120">
-<display-name>WWE: Monday Night RAW</display-name>
-</channel>
-<programme
-start="20250527000000 +0000"
-stop="20250527030000 +0000"
-channel="ppv-8120"
->
-<title lang="en">WWE: Monday Night RAW</title>
-<sub-title>Wrestling</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Wrestling</category>
-<icon src="https://i.imgur.com/zmuUYCm.png" />
 </programme>
 
 <channel id="ppv-3716">
