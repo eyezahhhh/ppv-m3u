@@ -131,6 +131,182 @@ channel="ppv-8147"
 <icon src="https://cdn.nba.com/davinci/images/team-matchups/wnba/latest/ced/gsv-nyl/1280x720.png" />
 </programme>
 
+<channel id="ppv-8165">
+<display-name>Columbus Crew vs Nashville SC</display-name>
+</channel>
+<programme
+start="20250529020000 +0000"
+stop="20250529050000 +0000"
+channel="ppv-8165"
+>
+<title lang="en">Columbus Crew vs Nashville SC</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://i.imgur.com/oPmEgzT.png" />
+</programme>
+
+<channel id="ppv-8160">
+<display-name>Palmeiras vs Sporting Cristal</display-name>
+</channel>
+<programme
+start="20250529003000 +0000"
+stop="20250529033000 +0000"
+channel="ppv-8160"
+>
+<title lang="en">Palmeiras vs Sporting Cristal</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://i.imgur.com/Rb6mY3L.png" />
+</programme>
+
+<channel id="ppv-8161">
+<display-name>LDU Quito vs Central Córdoba SdE</display-name>
+</channel>
+<programme
+start="20250529003000 +0000"
+stop="20250529033000 +0000"
+channel="ppv-8161"
+>
+<title lang="en">LDU Quito vs Central Córdoba SdE</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://i.imgur.com/JXGG5xM.png" />
+</programme>
+
+<channel id="ppv-8162">
+<display-name>Flamengo vs Deportivo Táchira</display-name>
+</channel>
+<programme
+start="20250529003000 +0000"
+stop="20250529033000 +0000"
+channel="ppv-8162"
+>
+<title lang="en">Flamengo vs Deportivo Táchira</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://i.imgur.com/dmzmhpr.png" />
+</programme>
+
+<channel id="ppv-8163">
+<display-name>Bolívar vs Cerro Porteño</display-name>
+</channel>
+<programme
+start="20250529003000 +0000"
+stop="20250529033000 +0000"
+channel="ppv-8163"
+>
+<title lang="en">Bolívar vs Cerro Porteño</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://i.imgur.com/xNq8JzT.png" />
+</programme>
+
+<channel id="ppv-8164">
+<display-name>LA Galaxy vs SJ Earthquakes</display-name>
+</channel>
+<programme
+start="20250529000000 +0000"
+stop="20250529030000 +0000"
+channel="ppv-8164"
+>
+<title lang="en">LA Galaxy vs SJ Earthquakes</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://i.imgur.com/hSiGLNi.png" />
+</programme>
+
+<channel id="ppv-8158">
+<display-name>Internacional vs Bahia</display-name>
+</channel>
+<programme
+start="20250528220000 +0000"
+stop="20250529010000 +0000"
+channel="ppv-8158"
+>
+<title lang="en">Internacional vs Bahia</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://i.imgur.com/EaNd0PP.png" />
+</programme>
+
+<channel id="ppv-8159">
+<display-name>Nacional vs Atlético Nacional</display-name>
+</channel>
+<programme
+start="20250528220000 +0000"
+stop="20250529010000 +0000"
+channel="ppv-8159"
+>
+<title lang="en">Nacional vs Atlético Nacional</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://i.imgur.com/DrfGELo.png" />
+</programme>
+
 <channel id="ppv-8144">
 <display-name>Real Betis vs Chelsea</display-name>
 </channel>
@@ -657,6 +833,72 @@ channel="ppv-8129"
 </audio>
 <category>MLB</category>
 <icon src="https://i.imgur.com/t1zMTz1.png" />
+</programme>
+
+<channel id="ppv-8125">
+<display-name>AEW: Saturday Night Collision</display-name>
+</channel>
+<programme
+start="20250601000000 +0000"
+stop="20250601030000 +0000"
+channel="ppv-8125"
+>
+<title lang="en">AEW: Saturday Night Collision</title>
+<sub-title>Wrestling</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Wrestling</category>
+<icon src="https://i.imgur.com/x3OPAo3.jpeg" />
+</programme>
+
+<channel id="ppv-8124">
+<display-name>WWE: Friday Night Smackdown</display-name>
+</channel>
+<programme
+start="20250531000000 +0000"
+stop="20250531030000 +0000"
+channel="ppv-8124"
+>
+<title lang="en">WWE: Friday Night Smackdown</title>
+<sub-title>Wrestling</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Wrestling</category>
+<icon src="https://i.imgur.com/RqupbgS.png" />
+</programme>
+
+<channel id="ppv-8123">
+<display-name>TNA: Impact</display-name>
+</channel>
+<programme
+start="20250530000000 +0000"
+stop="20250530030000 +0000"
+channel="ppv-8123"
+>
+<title lang="en">TNA: Impact</title>
+<sub-title>Wrestling</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Wrestling</category>
+<icon src="https://i.imgur.com/FpS5gVp.png" />
 </programme>
 
 <channel id="ppv-8122">
