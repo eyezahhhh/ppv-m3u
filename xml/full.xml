@@ -1,4 +1,70 @@
 <tv>
+<channel id="ppv-8193">
+<display-name>Wings at Sky</display-name>
+</channel>
+<programme
+start="20250530000000 +0000"
+stop="20250530024500 +0000"
+channel="ppv-8193"
+>
+<title lang="en">Wings at Sky</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://cdn.nba.com/davinci/images/team-matchups/wnba/latest/ced/dal-chi/1280x720.png" />
+</programme>
+
+<channel id="ppv-8194">
+<display-name>Pacers at Knicks (Game 5)</display-name>
+</channel>
+<programme
+start="20250530000000 +0000"
+stop="20250530024500 +0000"
+channel="ppv-8194"
+>
+<title lang="en">Pacers at Knicks (Game 5)</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/ind-nyk/1280x720.png" />
+</programme>
+
+<channel id="ppv-8192">
+<display-name>Valkyries at Liberty</display-name>
+</channel>
+<programme
+start="20250529230000 +0000"
+stop="20250530014500 +0000"
+channel="ppv-8192"
+>
+<title lang="en">Valkyries at Liberty</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://cdn.nba.com/davinci/images/team-matchups/wnba/latest/ced/gsv-nyl/1280x720.png" />
+</programme>
+
 <channel id="ppv-8191">
 <display-name>PDC: 2025 European Darts Open Day One</display-name>
 </channel>
