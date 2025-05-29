@@ -219,28 +219,6 @@ channel="ppv-8184"
 <icon src="https://i.imgur.com/3dcC8Oe.png" />
 </programme>
 
-<channel id="ppv-8183">
-<display-name>New York Yankees vs. Los Angeles Angels</display-name>
-</channel>
-<programme
-start="20250529013800 +0000"
-stop="20250529043800 +0000"
-channel="ppv-8183"
->
-<title lang="en">New York Yankees vs. Los Angeles Angels</title>
-<sub-title>MLB</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>MLB</category>
-<icon src="https://i.imgur.com/RR9any1.png" />
-</programme>
-
 <channel id="ppv-8124">
 <display-name>WWE: Friday Night Smackdown</display-name>
 </channel>
