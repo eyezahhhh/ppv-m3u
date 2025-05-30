@@ -43,28 +43,6 @@ channel="ppv-8194"
 <icon src="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/ind-nyk/1280x720.png" />
 </programme>
 
-<channel id="ppv-8192">
-<display-name>Valkyries at Liberty</display-name>
-</channel>
-<programme
-start="20250529230000 +0000"
-stop="20250530014500 +0000"
-channel="ppv-8192"
->
-<title lang="en">Valkyries at Liberty</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://cdn.nba.com/davinci/images/team-matchups/wnba/latest/ced/gsv-nyl/1280x720.png" />
-</programme>
-
 <channel id="ppv-8191">
 <display-name>PDC: 2025 European Darts Open Day One</display-name>
 </channel>
@@ -195,50 +173,6 @@ channel="ppv-8189"
 </audio>
 <category>MLB</category>
 <icon src="https://i.imgur.com/knGzHGr.png" />
-</programme>
-
-<channel id="ppv-8188">
-<display-name>Athletics vs. Toronto Blue Jays</display-name>
-</channel>
-<programme
-start="20250529230700 +0000"
-stop="20250530020700 +0000"
-channel="ppv-8188"
->
-<title lang="en">Athletics vs. Toronto Blue Jays</title>
-<sub-title>MLB</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>MLB</category>
-<icon src="https://i.imgur.com/3v9kfkE.png" />
-</programme>
-
-<channel id="ppv-8187">
-<display-name>Atlanta Braves vs. Philadelphia Phillies</display-name>
-</channel>
-<programme
-start="20250529224500 +0000"
-stop="20250530014500 +0000"
-channel="ppv-8187"
->
-<title lang="en">Atlanta Braves vs. Philadelphia Phillies</title>
-<sub-title>MLB</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>MLB</category>
-<icon src="https://i.imgur.com/dYDZTz4.png" />
 </programme>
 
 <channel id="ppv-8125">
