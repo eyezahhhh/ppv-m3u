@@ -175,28 +175,6 @@ channel="ppv-8200"
 <icon src="https://i.imgur.com/6uX4nBz.png" />
 </programme>
 
-<channel id="ppv-8218">
-<display-name>Hong Kong vs Manchester United</display-name>
-</channel>
-<programme
-start="20250530120000 +0000"
-stop="20250530150000 +0000"
-channel="ppv-8218"
->
-<title lang="en">Hong Kong vs Manchester United</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://a.wayin.com/images/5497/e1247231-0e5f-422c-8b6e-30bad7bf9662/Wayin_HongKong.jpg" />
-</programme>
-
 <channel id="ppv-8216">
 <display-name>Florida Panthers vs. Edmonton Oilers</display-name>
 </channel>
