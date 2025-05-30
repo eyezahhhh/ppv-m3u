@@ -1,4 +1,114 @@
 <tv>
+<channel id="ppv-8227">
+<display-name>Sparks at Aces</display-name>
+</channel>
+<programme
+start="20250531020000 +0000"
+stop="20250531044500 +0000"
+channel="ppv-8227"
+>
+<title lang="en">Sparks at Aces</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://cdn.nba.com/davinci/images/team-matchups/wnba/latest/ced/las-lva/1280x720.png" />
+</programme>
+
+<channel id="ppv-8228">
+<display-name>Lynx at Mercury</display-name>
+</channel>
+<programme
+start="20250531020000 +0000"
+stop="20250531044500 +0000"
+channel="ppv-8228"
+>
+<title lang="en">Lynx at Mercury</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://cdn.nba.com/davinci/images/team-matchups/wnba/latest/ced/min-phx/1280x720.png" />
+</programme>
+
+<channel id="ppv-8229">
+<display-name>Dream at Storm</display-name>
+</channel>
+<programme
+start="20250531020000 +0000"
+stop="20250531044500 +0000"
+channel="ppv-8229"
+>
+<title lang="en">Dream at Storm</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://cdn.nba.com/davinci/images/team-matchups/wnba/latest/ced/atl-sea/1280x720.png" />
+</programme>
+
+<channel id="ppv-8225">
+<display-name>Sun at Fever</display-name>
+</channel>
+<programme
+start="20250530233000 +0000"
+stop="20250531021500 +0000"
+channel="ppv-8225"
+>
+<title lang="en">Sun at Fever</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://cdn.nba.com/davinci/images/team-matchups/wnba/latest/ced/con-ind/1280x720.png" />
+</programme>
+
+<channel id="ppv-8226">
+<display-name>Liberty at Mystics</display-name>
+</channel>
+<programme
+start="20250530233000 +0000"
+stop="20250531021500 +0000"
+channel="ppv-8226"
+>
+<title lang="en">Liberty at Mystics</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://cdn.nba.com/davinci/images/team-matchups/wnba/latest/ced/nyl-was/1280x720.png" />
+</programme>
+
 <channel id="ppv-8217">
 <display-name>PDC: 2025 European Darts Open Day Two</display-name>
 </channel>
