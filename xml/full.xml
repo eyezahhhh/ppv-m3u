@@ -65,28 +65,6 @@ channel="ppv-8230"
 <icon src="https://open.http.mp.streamamg.com/p/3000668/sp/300066800/thumbnail/entry_id/0_yh87ac2f/width/640" />
 </programme>
 
-<channel id="ppv-8200">
-<display-name>Club WC Play In: Los Angeles FC vs América</display-name>
-</channel>
-<programme
-start="20250601023000 +0000"
-stop="20250601053000 +0000"
-channel="ppv-8200"
->
-<title lang="en">Club WC Play In: Los Angeles FC vs América</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://i.imgur.com/6uX4nBz.png" />
-</programme>
-
 <channel id="ppv-8216">
 <display-name>Florida Panthers vs. Edmonton Oilers</display-name>
 </channel>
@@ -107,28 +85,6 @@ channel="ppv-8216"
 </audio>
 <category>Ice Hockey</category>
 <icon src="https://i.imgur.com/kaVFhfz.png" />
-</programme>
-
-<channel id="ppv-8252">
-<display-name>Washington Nationals vs. Arizona Diamondbacks</display-name>
-</channel>
-<programme
-start="20250601021000 +0000"
-stop="20250601051000 +0000"
-channel="ppv-8252"
->
-<title lang="en">Washington Nationals vs. Arizona Diamondbacks</title>
-<sub-title>MLB</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>MLB</category>
-<icon src="https://i.imgur.com/5jltpZF.png" />
 </programme>
 
 <channel id="ppv-8223">
