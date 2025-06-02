@@ -1,13 +1,13 @@
 <tv>
-<channel id="ppv-8300">
-<display-name>Arkansas-Little Rock vs LSU</display-name>
+<channel id="ppv-8304">
+<display-name>Creighton vs. Arkansas</display-name>
 </channel>
 <programme
 start="20250602010000 +0000"
-stop="20250602050000 +0000"
-channel="ppv-8300"
+stop="20250602042100 +0000"
+channel="ppv-8304"
 >
-<title lang="en">Arkansas-Little Rock vs LSU</title>
+<title lang="en">Creighton vs. Arkansas</title>
 <sub-title>Baseball</sub-title>
 <video>
 <present>yes</present>
@@ -18,7 +18,51 @@ channel="ppv-8300"
 <stereo>stereo</stereo>
 </audio>
 <category>Baseball</category>
-<icon src="https://images.fubo.tv/page-manager/common/slate?w=1.0&amp;h=1.0&amp;auto=format&amp;mask=ellipse2.png&amp;mask-bg=fdd023&amp;bg=6B2D47&amp;mark-w=1.0&amp;mark-h=1.0&amp;mark-pad=0&amp;mark64=aHR0cHM6Ly9pbWFnZXMuZnViby50di9wYWdlLW1hbmFnZXIvY29tbW9uL3NsYXRlP3c9MTkyMCZoPTEwODAmYXV0bz1mb3JtYXQmYmxlbmQtbW9kZT1ub3JtYWwmYmxlbmQteD05NjAmYmxlbmQ2ND1hSFIwY0hNNkx5OW5iaTFwYldkNExtWjFZbTh1ZEhZdllYTnpaWFJ6TDNVeE5EbGZiRjlvTVRWZllXTXVjRzVuUDNjOU9UWXdKbWc5TVRBNE1DWndZV1E5TVRFNUpuQmhaQzEwYjNBOU1qZzJKbkJoWkMxaWIzUjBiMjA5TWpnMkpuUnlhVzA5WVd4d2FHRW1abWwwUFdacGJHd21abWxzYkVOdmJHOXlQVEF3TURBd01EQXcmbWFyay14PTAmbWFyay1wYWQ9MCZtYXJrNjQ9YUhSMGNITTZMeTluYmkxcGJXZDRMbVoxWW04dWRIWXZZWE56WlhSekwzVXhOVjlzWDJneE5WOWhaQzV3Ym1jX2R6MDVOakFtYUQweE1EZ3dKbkJoWkQweE1Ua21jR0ZrTFhSdmNEMHlPRFltY0dGa0xXSnZkSFJ2YlQweU9EWW1kSEpwYlQxaGJIQm9ZU1ptYVhROVptbHNiQ1ptYVd4c1EyOXNiM0k5TURBd01EQXdNREE&amp;kg=1&amp;ch=width&amp;auto=format%2Ccompress&amp;fit=clamp&amp;h=268&amp;w=476" />
+<icon src="https://images.fubo.tv/page-manager/common/slate?w=1.0&amp;h=1.0&amp;auto=format&amp;mask=ellipse2.png&amp;mask-bg=2D5981&amp;bg=4A4B4D&amp;mark-w=1.0&amp;mark-h=1.0&amp;mark-pad=0&amp;mark64=aHR0cHM6Ly9pbWFnZXMuZnViby50di9wYWdlLW1hbmFnZXIvY29tbW9uL3NsYXRlP3c9MTkyMCZoPTEwODAmYXV0bz1mb3JtYXQmYmxlbmQtbW9kZT1ub3JtYWwmYmxlbmQteD05NjAmYmxlbmQ2ND1hSFIwY0hNNkx5OW5iaTFwYldkNExtWjFZbTh1ZEhZdllYTnpaWFJ6TDNVMk0xOXNYMmd4TlY5aFlpNXdibWNfZHowNU5qQW1hRDB4TURnd0puQmhaRDB4TVRrbWNHRmtMWFJ2Y0QweU9EWW1jR0ZrTFdKdmRIUnZiVDB5T0RZbWRISnBiVDFoYkhCb1lTWm1hWFE5Wm1sc2JDWm1hV3hzUTI5c2IzSTlNREF3TURBd01EQSZtYXJrLXg9MCZtYXJrLXBhZD0wJm1hcms2ND1hSFIwY0hNNkx5OW5iaTFwYldkNExtWjFZbTh1ZEhZdllYTnpaWFJ6TDNVeE0xOXNYMmd4TlY5aFlpNXdibWNfZHowNU5qQW1hRDB4TURnd0puQmhaRDB4TVRrbWNHRmtMWFJ2Y0QweU9EWW1jR0ZrTFdKdmRIUnZiVDB5T0RZbWRISnBiVDFoYkhCb1lTWm1hWFE5Wm1sc2JDWm1hV3hzUTI5c2IzSTlNREF3TURBd01EQQ&amp;kg=1&amp;ch=width&amp;auto=format%2Ccompress&amp;w=256&amp;h=144&amp;fit=crop" />
+</programme>
+
+<channel id="ppv-8305">
+<display-name>LSU vs. Little Rock</display-name>
+</channel>
+<programme
+start="20250602010000 +0000"
+stop="20250602042100 +0000"
+channel="ppv-8305"
+>
+<title lang="en">LSU vs. Little Rock</title>
+<sub-title>Baseball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Baseball</category>
+<icon src="https://images.fubo.tv/page-manager/common/slate?w=1.0&amp;h=1.0&amp;auto=format&amp;mask=ellipse2.png&amp;mask-bg=fdd023&amp;bg=6B2D47&amp;mark-w=1.0&amp;mark-h=1.0&amp;mark-pad=0&amp;mark64=aHR0cHM6Ly9pbWFnZXMuZnViby50di9wYWdlLW1hbmFnZXIvY29tbW9uL3NsYXRlP3c9MTkyMCZoPTEwODAmYXV0bz1mb3JtYXQmYmxlbmQtbW9kZT1ub3JtYWwmYmxlbmQteD05NjAmYmxlbmQ2ND1hSFIwY0hNNkx5OW5iaTFwYldkNExtWjFZbTh1ZEhZdllYTnpaWFJ6TDNVeE5EbGZiRjlvTVRWZllXTXVjRzVuUDNjOU9UWXdKbWc5TVRBNE1DWndZV1E5TVRFNUpuQmhaQzEwYjNBOU1qZzJKbkJoWkMxaWIzUjBiMjA5TWpnMkpuUnlhVzA5WVd4d2FHRW1abWwwUFdacGJHd21abWxzYkVOdmJHOXlQVEF3TURBd01EQXcmbWFyay14PTAmbWFyay1wYWQ9MCZtYXJrNjQ9YUhSMGNITTZMeTluYmkxcGJXZDRMbVoxWW04dWRIWXZZWE56WlhSekwzVXhOVjlzWDJneE5WOWhaQzV3Ym1jX2R6MDVOakFtYUQweE1EZ3dKbkJoWkQweE1Ua21jR0ZrTFhSdmNEMHlPRFltY0dGa0xXSnZkSFJ2YlQweU9EWW1kSEpwYlQxaGJIQm9ZU1ptYVhROVptbHNiQ1ptYVd4c1EyOXNiM0k5TURBd01EQXdNREE&amp;kg=1&amp;ch=width&amp;auto=format%2Ccompress&amp;w=256&amp;h=144&amp;fit=crop" />
+</programme>
+
+<channel id="ppv-8306">
+<display-name>Louisville vs. Wright State</display-name>
+</channel>
+<programme
+start="20250602010000 +0000"
+stop="20250602042100 +0000"
+channel="ppv-8306"
+>
+<title lang="en">Louisville vs. Wright State</title>
+<sub-title>Baseball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Baseball</category>
+<icon src="https://images.fubo.tv/page-manager/common/slate?w=1.0&amp;h=1.0&amp;auto=format&amp;mask=ellipse2.png&amp;mask-bg=4E4B4C&amp;bg=286146&amp;mark-w=1.0&amp;mark-h=1.0&amp;mark-pad=0&amp;mark64=aHR0cHM6Ly9pbWFnZXMuZnViby50di9wYWdlLW1hbmFnZXIvY29tbW9uL3NsYXRlP3c9MTkyMCZoPTEwODAmYXV0bz1mb3JtYXQmYmxlbmQtbW9kZT1ub3JtYWwmYmxlbmQteD05NjAmYmxlbmQ2ND1hSFIwY0hNNkx5OW5iaTFwYldkNExtWjFZbTh1ZEhZdllYTnpaWFJ6TDNVeE5EVmZiRjlvTVRWZllXSXVjRzVuUDNjOU9UWXdKbWc5TVRBNE1DWndZV1E5TVRFNUpuQmhaQzEwYjNBOU1qZzJKbkJoWkMxaWIzUjBiMjA5TWpnMkpuUnlhVzA5WVd4d2FHRW1abWwwUFdacGJHd21abWxzYkVOdmJHOXlQVEF3TURBd01EQXcmbWFyay14PTAmbWFyay1wYWQ9MCZtYXJrNjQ9YUhSMGNITTZMeTluYmkxcGJXZDRMbVoxWW04dWRIWXZZWE56WlhSekwzVXpNalpmYkY5b01UVmZZV011Y0c1blAzYzlPVFl3Sm1nOU1UQTRNQ1p3WVdROU1URTVKbkJoWkMxMGIzQTlNamcySm5CaFpDMWliM1IwYjIwOU1qZzJKblJ5YVcwOVlXeHdhR0VtWm1sMFBXWnBiR3dtWm1sc2JFTnZiRzl5UFRBd01EQXdNREF3&amp;kg=1&amp;ch=width&amp;auto=format%2Ccompress&amp;w=256&amp;h=144&amp;fit=crop" />
 </programme>
 
 <channel id="ppv-8283">
@@ -43,15 +87,15 @@ channel="ppv-8283"
 <icon src="https://i.imgur.com/NSvdgA3.png" />
 </programme>
 
-<channel id="ppv-8282">
-<display-name>Pittsburgh Pirates vs. San Diego Padres</display-name>
+<channel id="ppv-8303">
+<display-name>North Carolina vs. Oklahoma</display-name>
 </channel>
 <programme
-start="20250601211000 +0000"
-stop="20250602001000 +0000"
-channel="ppv-8282"
+start="20250601223500 +0000"
+stop="20250602015600 +0000"
+channel="ppv-8303"
 >
-<title lang="en">Pittsburgh Pirates vs. San Diego Padres</title>
+<title lang="en">North Carolina vs. Oklahoma</title>
 <sub-title>Baseball</sub-title>
 <video>
 <present>yes</present>
@@ -62,7 +106,29 @@ channel="ppv-8282"
 <stereo>stereo</stereo>
 </audio>
 <category>Baseball</category>
-<icon src="https://i.imgur.com/YN2VC1o.png" />
+<icon src="https://i.imgur.com/ASzoiP6.png" />
+</programme>
+
+<channel id="ppv-8302">
+<display-name>Tennessee vs. Wake Forest</display-name>
+</channel>
+<programme
+start="20250601220000 +0000"
+stop="20250602012100 +0000"
+channel="ppv-8302"
+>
+<title lang="en">Tennessee vs. Wake Forest</title>
+<sub-title>Baseball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Baseball</category>
+<icon src="https://images.fubo.tv/page-manager/common/slate?w=1.0&amp;h=1.0&amp;auto=format&amp;mask=ellipse2.png&amp;mask-bg=C03700&amp;bg=645333&amp;mark-w=1.0&amp;mark-h=1.0&amp;mark-pad=0&amp;mark64=aHR0cHM6Ly9pbWFnZXMuZnViby50di9wYWdlLW1hbmFnZXIvY29tbW9uL3NsYXRlP3c9MTkyMCZoPTEwODAmYXV0bz1mb3JtYXQmYmxlbmQtbW9kZT1ub3JtYWwmYmxlbmQteD05NjAmYmxlbmQ2ND1hSFIwY0hNNkx5OW5iaTFwYldkNExtWjFZbTh1ZEhZdllYTnpaWFJ6TDNVeU5qZGZiRjlvTVRWZllXSXVjRzVuUDNjOU9UWXdKbWc5TVRBNE1DWndZV1E5TVRFNUpuQmhaQzEwYjNBOU1qZzJKbkJoWkMxaWIzUjBiMjA5TWpnMkpuUnlhVzA5WVd4d2FHRW1abWwwUFdacGJHd21abWxzYkVOdmJHOXlQVEF3TURBd01EQXcmbWFyay14PTAmbWFyay1wYWQ9MCZtYXJrNjQ9YUhSMGNITTZMeTluYmkxcGJXZDRMbVoxWW04dWRIWXZZWE56WlhSekwzVXpNVEJmYkY5b01UVmZZV1F1Y0c1blAzYzlPVFl3Sm1nOU1UQTRNQ1p3WVdROU1URTVKbkJoWkMxMGIzQTlNamcySm5CaFpDMWliM1IwYjIwOU1qZzJKblJ5YVcwOVlXeHdhR0VtWm1sMFBXWnBiR3dtWm1sc2JFTnZiRzl5UFRBd01EQXdNREF3&amp;kg=1&amp;ch=width&amp;auto=format%2Ccompress&amp;w=256&amp;h=144&amp;fit=crop" />
 </programme>
 
 <channel id="ppv-8268">
@@ -85,28 +151,6 @@ channel="ppv-8268"
 </audio>
 <category>Basketball</category>
 <icon src="https://cdn.nba.com/davinci/images/team-matchups/wnba/latest/ced/min-gsv/1280x720.png" />
-</programme>
-
-<channel id="ppv-8293">
-<display-name>North Carolina vs. Oklahoma</display-name>
-</channel>
-<programme
-start="20250601223500 +0000"
-stop="20250602005600 +0000"
-channel="ppv-8293"
->
-<title lang="en">North Carolina vs. Oklahoma</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://images.fubo.tv/page-manager/common/slate?w=1.0&amp;h=1.0&amp;auto=format&amp;mask=ellipse2.png&amp;mask-bg=ffffff&amp;bg=722324&amp;mark-w=1.0&amp;mark-h=1.0&amp;mark-pad=0&amp;mark64=aHR0cHM6Ly9pbWFnZXMuZnViby50di9wYWdlLW1hbmFnZXIvY29tbW9uL3NsYXRlP3c9MTkyMCZoPTEwODAmYXV0bz1mb3JtYXQmYmxlbmQtbW9kZT1ub3JtYWwmYmxlbmQteD05NjAmYmxlbmQ2ND1hSFIwY0hNNkx5OW5iaTFwYldkNExtWjFZbTh1ZEhZdllYTnpaWFJ6TDNVeE9URmZiRjlvTVRWZllXSXVjRzVuUDNjOU9UWXdKbWc5TVRBNE1DWndZV1E5TVRFNUpuQmhaQzEwYjNBOU1qZzJKbkJoWkMxaWIzUjBiMjA5TWpnMkpuUnlhVzA5WVd4d2FHRW1abWwwUFdacGJHd21abWxzYkVOdmJHOXlQVEF3TURBd01EQXcmbWFyay14PTAmbWFyay1wYWQ9MCZtYXJrNjQ9YUhSMGNITTZMeTluYmkxcGJXZDRMbVoxWW04dWRIWXZZWE56WlhSekwzVXlNRFpmYkY5b01UVmZZV0l1Y0c1blAzYzlPVFl3Sm1nOU1UQTRNQ1p3WVdROU1URTVKbkJoWkMxMGIzQTlNamcySm5CaFpDMWliM1IwYjIwOU1qZzJKblJ5YVcwOVlXeHdhR0VtWm1sMFBXWnBiR3dtWm1sc2JFTnZiRzl5UFRBd01EQXdNREF3&amp;kg=1&amp;ch=width&amp;auto=format%2Ccompress&amp;fit=clamp&amp;h=268&amp;w=476" />
 </programme>
 
 <channel id="ppv-8266">
@@ -151,72 +195,6 @@ channel="ppv-8267"
 </audio>
 <category>Basketball</category>
 <icon src="https://cdn.nba.com/davinci/images/team-matchups/wnba/latest/ced/lva-sea/1280x720.png" />
-</programme>
-
-<channel id="ppv-8291">
-<display-name>Mississippi State vs. Florida State</display-name>
-</channel>
-<programme
-start="20250601220000 +0000"
-stop="20250602002100 +0000"
-channel="ppv-8291"
->
-<title lang="en">Mississippi State vs. Florida State</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://images.fubo.tv/page-manager/common/slate?w=1.0&amp;h=1.0&amp;auto=format&amp;mask=ellipse2.png&amp;mask-bg=6B3C34&amp;bg=603039&amp;mark-w=1.0&amp;mark-h=1.0&amp;mark-pad=0&amp;mark64=aHR0cHM6Ly9pbWFnZXMuZnViby50di9wYWdlLW1hbmFnZXIvY29tbW9uL3NsYXRlP3c9MTkyMCZoPTEwODAmYXV0bz1mb3JtYXQmYmxlbmQtbW9kZT1ub3JtYWwmYmxlbmQteD05NjAmYmxlbmQ2ND1hSFIwY0hNNkx5OW5iaTFwYldkNExtWjFZbTh1ZEhZdllYTnpaWFJ6TDNVNU1GOXNYMmc1WDJGaUxuQnVaejkzUFRrMk1DWm9QVEV3T0RBbWNHRmtQVEV4T1Nad1lXUXRkRzl3UFRJNE5pWndZV1F0WW05MGRHOXRQVEk0TmlaMGNtbHRQV0ZzY0doaEptWnBkRDFtYVd4c0ptWnBiR3hEYjJ4dmNqMHdNREF3TURBd01BJm1hcmsteD0wJm1hcmstcGFkPTAmbWFyazY0PWFIUjBjSE02THk5bmJpMXBiV2Q0TG1aMVltOHVkSFl2WVhOelpYUnpMM1V4TmpsZmJGOW9NVFZmWVdVdWNHNW5QM2M5T1RZd0ptZzlNVEE0TUNad1lXUTlNVEU1Sm5CaFpDMTBiM0E5TWpnMkpuQmhaQzFpYjNSMGIyMDlNamcySm5SeWFXMDlZV3h3YUdFbVptbDBQV1pwYkd3bVptbHNiRU52Ykc5eVBUQXdNREF3TURBdw&amp;kg=1" />
-</programme>
-
-<channel id="ppv-8292">
-<display-name>Tennessee vs. Wake Forest</display-name>
-</channel>
-<programme
-start="20250601220000 +0000"
-stop="20250602002100 +0000"
-channel="ppv-8292"
->
-<title lang="en">Tennessee vs. Wake Forest</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://images.fubo.tv/page-manager/common/slate?w=1.0&amp;h=1.0&amp;auto=format&amp;mask=ellipse2.png&amp;mask-bg=C03700&amp;bg=645333&amp;mark-w=1.0&amp;mark-h=1.0&amp;mark-pad=0&amp;mark64=aHR0cHM6Ly9pbWFnZXMuZnViby50di9wYWdlLW1hbmFnZXIvY29tbW9uL3NsYXRlP3c9MTkyMCZoPTEwODAmYXV0bz1mb3JtYXQmYmxlbmQtbW9kZT1ub3JtYWwmYmxlbmQteD05NjAmYmxlbmQ2ND1hSFIwY0hNNkx5OW5iaTFwYldkNExtWjFZbTh1ZEhZdllYTnpaWFJ6TDNVeU5qZGZiRjlvTVRWZllXSXVjRzVuUDNjOU9UWXdKbWc5TVRBNE1DWndZV1E5TVRFNUpuQmhaQzEwYjNBOU1qZzJKbkJoWkMxaWIzUjBiMjA5TWpnMkpuUnlhVzA5WVd4d2FHRW1abWwwUFdacGJHd21abWxzYkVOdmJHOXlQVEF3TURBd01EQXcmbWFyay14PTAmbWFyay1wYWQ9MCZtYXJrNjQ9YUhSMGNITTZMeTluYmkxcGJXZDRMbVoxWW04dWRIWXZZWE56WlhSekwzVXpNVEJmYkY5b01UVmZZV1F1Y0c1blAzYzlPVFl3Sm1nOU1UQTRNQ1p3WVdROU1URTVKbkJoWkMxMGIzQTlNamcySm5CaFpDMWliM1IwYjIwOU1qZzJKblJ5YVcwOVlXeHdhR0VtWm1sMFBXWnBiR3dtWm1sc2JFTnZiRzl5UFRBd01EQXdNREF3" />
-</programme>
-
-<channel id="ppv-8230">
-<display-name>PDC: 2025 European Darts Open Day Three</display-name>
-</channel>
-<programme
-start="20250601110000 +0000"
-stop="20250601235900 +0000"
-channel="ppv-8230"
->
-<title lang="en">PDC: 2025 European Darts Open Day Three</title>
-<sub-title>Darts</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Darts</category>
-<icon src="https://open.http.mp.streamamg.com/p/3000668/sp/300066800/thumbnail/entry_id/0_yh87ac2f/width/640" />
 </programme>
 
 <channel id="ppv-8263">
