@@ -307,6 +307,28 @@ channel="ppv-8216"
 <icon src="https://i.imgur.com/kaVFhfz.png" />
 </programme>
 
+<channel id="ppv-8335">
+<display-name>Roland-Garros</display-name>
+</channel>
+<programme
+start="20250602130000 +0000"
+stop="20250602220000 +0000"
+channel="ppv-8335"
+>
+<title lang="en">Roland-Garros</title>
+<sub-title>Miscellaneous</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Miscellaneous</category>
+<icon src="https://www.lespetitsas.com/wp-content/uploads/2022/06/B9730898122Z.1_20220513102756_000GDDKG0N8U.2-0.jpg" />
+</programme>
+
 <channel id="ppv-3716">
 <display-name>(North) Korean Central Television</display-name>
 </channel>
