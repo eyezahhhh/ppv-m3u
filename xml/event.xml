@@ -175,50 +175,6 @@ channel="ppv-8319"
 <icon src="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/d7e89611-66ba-4cb1-ba9c-9ea2cad9fa40/compose?format=webp&amp;label=standard_regular_prompt_espn-_178&amp;width=800" />
 </programme>
 
-<channel id="ppv-8320">
-<display-name>Arizona vs. Cal Poly</display-name>
-</channel>
-<programme
-start="20250602023000 +0000"
-stop="20250602063000 +0000"
-channel="ppv-8320"
->
-<title lang="en">Arizona vs. Cal Poly</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://s.secure.espncdn.com/stitcher/artwork/16x9.jpg?height=720&amp;width=1280&amp;cb=12&amp;templateId=espn.core.dtc.large.16x9.1&amp;source=https://artwork.espncdn.com/events/401776847/16x9/1280x720_20250526174209.png&amp;showBadge=true" />
-</programme>
-
-<channel id="ppv-8321">
-<display-name>Oregon State vs. USC</display-name>
-</channel>
-<programme
-start="20250602023000 +0000"
-stop="20250602063000 +0000"
-channel="ppv-8321"
->
-<title lang="en">Oregon State vs. USC</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/73a689b8-30a5-467d-9cb1-3c128e4b1ab8/compose?format=webp&amp;label=standard_regular_prompt_espn-_178&amp;width=800" />
-</programme>
-
 <channel id="ppv-8216">
 <display-name>Florida Panthers vs. Edmonton Oilers</display-name>
 </channel>
