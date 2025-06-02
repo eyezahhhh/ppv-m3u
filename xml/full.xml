@@ -285,6 +285,28 @@ channel="ppv-8329"
 <icon src="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/175f3eff-3c93-4688-bb1d-ca3765951d01/compose?format=webp&amp;label=standard_regular_prompt_espn-_178&amp;width=800" />
 </programme>
 
+<channel id="ppv-8262">
+<display-name>UEFA Nations League: Germany vs Portugal</display-name>
+</channel>
+<programme
+start="20250604190000 +0000"
+stop="20250604220000 +0000"
+channel="ppv-8262"
+>
+<title lang="en">UEFA Nations League: Germany vs Portugal</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://i.imgur.com/yTZFL2O.png" />
+</programme>
+
 <channel id="ppv-8216">
 <display-name>Florida Panthers vs. Edmonton Oilers</display-name>
 </channel>
