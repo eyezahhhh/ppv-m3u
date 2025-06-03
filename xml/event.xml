@@ -1,4 +1,70 @@
 <tv>
+<channel id="ppv-8347">
+<display-name>Wings at Storm</display-name>
+</channel>
+<programme
+start="20250604013000 +0000"
+stop="20250604041500 +0000"
+channel="ppv-8347"
+>
+<title lang="en">Wings at Storm</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://cdn.nba.com/davinci/images/team-matchups/wnba/latest/ced/dal-sea/1280x720.png" />
+</programme>
+
+<channel id="ppv-8346">
+<display-name>Mercury at Lynx</display-name>
+</channel>
+<programme
+start="20250604000000 +0000"
+stop="20250604024500 +0000"
+channel="ppv-8346"
+>
+<title lang="en">Mercury at Lynx</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://cdn.nba.com/davinci/images/team-matchups/wnba/latest/ced/phx-min/1280x720.png" />
+</programme>
+
+<channel id="ppv-8345">
+<display-name>Mystics at Fever</display-name>
+</channel>
+<programme
+start="20250603230000 +0000"
+stop="20250604014500 +0000"
+channel="ppv-8345"
+>
+<title lang="en">Mystics at Fever</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://cdn.nba.com/davinci/images/team-matchups/wnba/latest/ced/was-ind/1280x720.png" />
+</programme>
+
 <channel id="ppv-8263">
 <display-name>UEFA Nations League: Spain vs France</display-name>
 </channel>
