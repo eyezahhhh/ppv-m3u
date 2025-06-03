@@ -65,50 +65,6 @@ channel="ppv-8326"
 <icon src="https://i.imgur.com/na3jpVN.png" />
 </programme>
 
-<channel id="ppv-8333">
-<display-name>LSU vs. Arkansas Little Rock</display-name>
-</channel>
-<programme
-start="20250603010000 +0000"
-stop="20250603040000 +0000"
-channel="ppv-8333"
->
-<title lang="en">LSU vs. Arkansas Little Rock</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://artwork.espncdn.com/events/401776916/16x9/1280x720_20250601224601.png" />
-</programme>
-
-<channel id="ppv-8334">
-<display-name>Miami vs. Southern Miss</display-name>
-</channel>
-<programme
-start="20250603010000 +0000"
-stop="20250603040000 +0000"
-channel="ppv-8334"
->
-<title lang="en">Miami vs. Southern Miss</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://s.secure.espncdn.com/stitcher/artwork/collections/media/f7efb852-5c47-4052-b1d9-78c118e35d8f/16x9.jpg?timestamp=202506020023&amp;showBadge=true&amp;cb=12&amp;package=ESPN_PLUS&amp;width=1280&amp;height=720" />
-</programme>
-
 <channel id="ppv-8262">
 <display-name>UEFA Nations League: Germany vs Portugal</display-name>
 </channel>
