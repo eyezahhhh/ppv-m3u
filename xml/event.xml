@@ -87,50 +87,6 @@ channel="ppv-8359"
 <icon src="https://i.imgur.com/k6JWsuF.png" />
 </programme>
 
-<channel id="ppv-8358">
-<display-name>Kansas City Royals vs. St. Louis Cardinals</display-name>
-</channel>
-<programme
-start="20250603234500 +0000"
-stop="20250604024500 +0000"
-channel="ppv-8358"
->
-<title lang="en">Kansas City Royals vs. St. Louis Cardinals</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://i.imgur.com/pB4F90W.png" />
-</programme>
-
-<channel id="ppv-8357">
-<display-name>Detroit Tigers vs. Chicago White Sox</display-name>
-</channel>
-<programme
-start="20250603234000 +0000"
-stop="20250604024000 +0000"
-channel="ppv-8357"
->
-<title lang="en">Detroit Tigers vs. Chicago White Sox</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://i.imgur.com/WFQ7wt9.png" />
-</programme>
-
 <channel id="ppv-8342">
 <display-name>Chile vs Argentina</display-name>
 </channel>
@@ -329,6 +285,28 @@ channel="ppv-8216"
 <icon src="https://i.imgur.com/kaVFhfz.png" />
 </programme>
 
+<channel id="ppv-8335">
+<display-name>Roland-Garros</display-name>
+</channel>
+<programme
+start="20250604140000 +0000"
+stop="20250604230000 +0000"
+channel="ppv-8335"
+>
+<title lang="en">Roland-Garros</title>
+<sub-title>Miscellaneous</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Miscellaneous</category>
+<icon src="https://www.lespetitsas.com/wp-content/uploads/2022/06/B9730898122Z.1_20220513102756_000GDDKG0N8U.2-0.jpg" />
+</programme>
+
 <channel id="ppv-8341">
 <display-name>AEW: Saturday Night Collision</display-name>
 </channel>
@@ -415,27 +393,5 @@ channel="ppv-8338"
 </audio>
 <category>Wrestling</category>
 <icon src="https://i.imgur.com/Gajn72i.jpeg" />
-</programme>
-
-<channel id="ppv-8337">
-<display-name>WWE: NXT</display-name>
-</channel>
-<programme
-start="20250604000000 +0000"
-stop="20250604030000 +0000"
-channel="ppv-8337"
->
-<title lang="en">WWE: NXT</title>
-<sub-title>Wrestling</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Wrestling</category>
-<icon src="https://i.imgur.com/n7tkxQQ.png" />
 </programme>
 </tv>
