@@ -1,4 +1,70 @@
 <tv>
+<channel id="ppv-8401">
+<display-name>Florida State vs. Oregon State</display-name>
+</channel>
+<programme
+start="20250606220000 +0000"
+stop="20250607012100 +0000"
+channel="ppv-8401"
+>
+<title lang="en">Florida State vs. Oregon State</title>
+<sub-title>Baseball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Baseball</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FrjCb1gi.png@jpg" />
+</programme>
+
+<channel id="ppv-8400">
+<display-name>Miami vs. Louisville</display-name>
+</channel>
+<programme
+start="20250606190000 +0000"
+stop="20250606222100 +0000"
+channel="ppv-8400"
+>
+<title lang="en">Miami vs. Louisville</title>
+<sub-title>Baseball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Baseball</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FrjCb1gi.png@jpg" />
+</programme>
+
+<channel id="ppv-8399">
+<display-name>Arizona vs. North Carolina</display-name>
+</channel>
+<programme
+start="20250606160000 +0000"
+stop="20250606192100 +0000"
+channel="ppv-8399"
+>
+<title lang="en">Arizona vs. North Carolina</title>
+<sub-title>Baseball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Baseball</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FrjCb1gi.png@jpg" />
+</programme>
+
 <channel id="ppv-8390">
 <display-name>New York Mets vs. Los Angeles Dodgers</display-name>
 </channel>
@@ -307,6 +373,204 @@ channel="ppv-8263"
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FNhM3XFc.png@jpg" />
 </programme>
 
+<channel id="ppv-8418">
+<display-name>South Korea vs. Iraq</display-name>
+</channel>
+<programme
+start="20250605181500 +0000"
+stop="20250605213600 +0000"
+channel="ppv-8418"
+>
+<title lang="en">South Korea vs. Iraq</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FrjCb1gi.png@jpg" />
+</programme>
+
+<channel id="ppv-8419">
+<display-name>Palestine vs. Kuwait</display-name>
+</channel>
+<programme
+start="20250605181500 +0000"
+stop="20250605213600 +0000"
+channel="ppv-8419"
+>
+<title lang="en">Palestine vs. Kuwait</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FrjCb1gi.png@jpg" />
+</programme>
+
+<channel id="ppv-8420">
+<display-name>Kyrgyz Republic vs. North Korea</display-name>
+</channel>
+<programme
+start="20250605181500 +0000"
+stop="20250605213600 +0000"
+channel="ppv-8420"
+>
+<title lang="en">Kyrgyz Republic vs. North Korea</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FrjCb1gi.png@jpg" />
+</programme>
+
+<channel id="ppv-8421">
+<display-name>Iran vs. Qatar</display-name>
+</channel>
+<programme
+start="20250605181500 +0000"
+stop="20250605213600 +0000"
+channel="ppv-8421"
+>
+<title lang="en">Iran vs. Qatar</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FrjCb1gi.png@jpg" />
+</programme>
+
+<channel id="ppv-8415">
+<display-name>Saudi Arabia vs. Bahrain</display-name>
+</channel>
+<programme
+start="20250605160000 +0000"
+stop="20250605192100 +0000"
+channel="ppv-8415"
+>
+<title lang="en">Saudi Arabia vs. Bahrain</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FrjCb1gi.png@jpg" />
+</programme>
+
+<channel id="ppv-8416">
+<display-name>Jordan vs. Oman</display-name>
+</channel>
+<programme
+start="20250605160000 +0000"
+stop="20250605192100 +0000"
+channel="ppv-8416"
+>
+<title lang="en">Jordan vs. Oman</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FrjCb1gi.png@jpg" />
+</programme>
+
+<channel id="ppv-8417">
+<display-name>Uzbekistan vs. United Arab Emirates</display-name>
+</channel>
+<programme
+start="20250605160000 +0000"
+stop="20250605192100 +0000"
+channel="ppv-8417"
+>
+<title lang="en">Uzbekistan vs. United Arab Emirates</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FrjCb1gi.png@jpg" />
+</programme>
+
+<channel id="ppv-8414">
+<display-name>China vs. Indonesia</display-name>
+</channel>
+<programme
+start="20250605134500 +0000"
+stop="20250605170600 +0000"
+channel="ppv-8414"
+>
+<title lang="en">China vs. Indonesia</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FrjCb1gi.png@jpg" />
+</programme>
+
+<channel id="ppv-8413">
+<display-name>Japan vs. Australia</display-name>
+</channel>
+<programme
+start="20250605111000 +0000"
+stop="20250605143100 +0000"
+channel="ppv-8413"
+>
+<title lang="en">Japan vs. Australia</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FrjCb1gi.png@jpg" />
+</programme>
+
 <channel id="ppv-8395">
 <display-name>Bermuda vs Cayman Islands</display-name>
 </channel>
@@ -415,28 +679,6 @@ channel="ppv-8394"
 </audio>
 <category>Football</category>
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FtRKNede.png@jpg" />
-</programme>
-
-<channel id="ppv-8262">
-<display-name>UEFA Nations League: Germany vs Portugal</display-name>
-</channel>
-<programme
-start="20250604190000 +0000"
-stop="20250604220000 +0000"
-channel="ppv-8262"
->
-<title lang="en">UEFA Nations League: Germany vs Portugal</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FyTZFL2O.png@jpg" />
 </programme>
 
 <channel id="ppv-8367">
