@@ -197,28 +197,6 @@ channel="ppv-8438"
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FBZx9hTr.png@jpg" />
 </programme>
 
-<channel id="ppv-8437">
-<display-name>New York Mets vs. Los Angeles Dodgers</display-name>
-</channel>
-<programme
-start="20250605201000 +0000"
-stop="20250605231000 +0000"
-channel="ppv-8437"
->
-<title lang="en">New York Mets vs. Los Angeles Dodgers</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2Fq9iCgpB.png@jpg" />
-</programme>
-
 <channel id="ppv-8427">
 <display-name>Valkyries at Mercury</display-name>
 </channel>
