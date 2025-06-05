@@ -176,14 +176,36 @@ channel="ppv-8425"
 </programme>
 
 <channel id="ppv-8342">
-<display-name>Chile vs Argentina</display-name>
+<display-name>Chile vs Argentina (Spanish)</display-name>
 </channel>
 <programme
 start="20250606010000 +0000"
 stop="20250606040000 +0000"
 channel="ppv-8342"
 >
-<title lang="en">Chile vs Argentina</title>
+<title lang="en">Chile vs Argentina (Spanish)</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FgBSxmeq.png@jpg" />
+</programme>
+
+<channel id="ppv-8429">
+<display-name>Chile vs Argentina (English)</display-name>
+</channel>
+<programme
+start="20250606010000 +0000"
+stop="20250606040000 +0000"
+channel="ppv-8429"
+>
+<title lang="en">Chile vs Argentina (English)</title>
 <sub-title>Football</sub-title>
 <video>
 <present>yes</present>
@@ -282,7 +304,7 @@ channel="ppv-8418"
 <stereo>stereo</stereo>
 </audio>
 <category>Football</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FPJvEmn2.png@jpg" />
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fimages.fancode.com%2Fskillup-uploads%2Fcms-media%2F3740_IRQ_KRP_fc-web.jpg@jpg" />
 </programme>
 
 <channel id="ppv-8419">
@@ -304,7 +326,7 @@ channel="ppv-8419"
 <stereo>stereo</stereo>
 </audio>
 <category>Football</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FtwVKoGs.png@jpg" />
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fimages.fancode.com%2Fskillup-uploads%2Fcms-media%2F3740_KUW_PAL_fc-web.jpg@jpg" />
 </programme>
 
 <channel id="ppv-8420">
