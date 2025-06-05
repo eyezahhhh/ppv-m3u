@@ -1,4 +1,26 @@
 <tv>
+<channel id="ppv-8402">
+<display-name>Coastal Carolina vs. Auburn</display-name>
+</channel>
+<programme
+start="20250607010000 +0000"
+stop="20250607042100 +0000"
+channel="ppv-8402"
+>
+<title lang="en">Coastal Carolina vs. Auburn</title>
+<sub-title>Baseball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Baseball</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FrjCb1gi.png@jpg" />
+</programme>
+
 <channel id="ppv-8401">
 <display-name>Florida State vs. Oregon State</display-name>
 </channel>
@@ -613,72 +635,6 @@ channel="ppv-8413"
 </audio>
 <category>Football</category>
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FrjCb1gi.png@jpg" />
-</programme>
-
-<channel id="ppv-8395">
-<display-name>Bermuda vs Cayman Islands</display-name>
-</channel>
-<programme
-start="20250604230000 +0000"
-stop="20250605010000 +0000"
-channel="ppv-8395"
->
-<title lang="en">Bermuda vs Cayman Islands</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FDTBrujD.png@jpg" />
-</programme>
-
-<channel id="ppv-8396">
-<display-name>Grenada vs Bahamas</display-name>
-</channel>
-<programme
-start="20250604230000 +0000"
-stop="20250605010000 +0000"
-channel="ppv-8396"
->
-<title lang="en">Grenada vs Bahamas</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FBRfuwF4.png@jpg" />
-</programme>
-
-<channel id="ppv-8398">
-<display-name>Saint Vincent and the Grenadines vs Anguilla</display-name>
-</channel>
-<programme
-start="20250604230000 +0000"
-stop="20250605010000 +0000"
-channel="ppv-8398"
->
-<title lang="en">Saint Vincent and the Grenadines vs Anguilla</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FaiqadrV.png@jpg" />
 </programme>
 
 <channel id="ppv-8367">
