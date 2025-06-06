@@ -153,6 +153,160 @@ channel="ppv-8427"
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fwnba%2Flatest%2Fced%2Fgsv-phx%2F1280x720.png@jpg" />
 </programme>
 
+<channel id="ppv-8467">
+<display-name>PDC: Mr Vegas Nordic Darts Masters - Day Two</display-name>
+</channel>
+<programme
+start="20250607180000 +0000"
+stop="20250607235900 +0000"
+channel="ppv-8467"
+>
+<title lang="en">PDC: Mr Vegas Nordic Darts Masters - Day Two</title>
+<sub-title>Darts</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Darts</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fopen.http.mp.streamamg.com%2Fp%2F3000668%2Fsp%2F300066800%2Fthumbnail%2Fentry_id%2F0_svqqcc5n%2Fwidth%2F640@jpg" />
+</programme>
+
+<channel id="ppv-8462">
+<display-name>PDC: Cosmo Darts Classic - Board 5</display-name>
+</channel>
+<programme
+start="20250607160000 +0000"
+stop="20250607200000 +0000"
+channel="ppv-8462"
+>
+<title lang="en">PDC: Cosmo Darts Classic - Board 5</title>
+<sub-title>Darts</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Darts</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fopen.http.mp.streamamg.com%2Fp%2F3000668%2Fsp%2F300066800%2Fthumbnail%2Fentry_id%2F0_tgdp1a9x%2Fwidth%2F640@jpg" />
+</programme>
+
+<channel id="ppv-8463">
+<display-name>PDC: Cosmo Darts Classic - Board 3</display-name>
+</channel>
+<programme
+start="20250607160000 +0000"
+stop="20250607200000 +0000"
+channel="ppv-8463"
+>
+<title lang="en">PDC: Cosmo Darts Classic - Board 3</title>
+<sub-title>Darts</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Darts</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fopen.http.mp.streamamg.com%2Fp%2F3000668%2Fsp%2F300066800%2Fthumbnail%2Fentry_id%2F0_0spdxi79%2Fwidth%2F640@jpg" />
+</programme>
+
+<channel id="ppv-8464">
+<display-name>PDC: Cosmo Darts Classic 2025</display-name>
+</channel>
+<programme
+start="20250607160000 +0000"
+stop="20250607200000 +0000"
+channel="ppv-8464"
+>
+<title lang="en">PDC: Cosmo Darts Classic 2025</title>
+<sub-title>Darts</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Darts</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fopen.http.mp.streamamg.com%2Fp%2F3000668%2Fsp%2F300066800%2Fthumbnail%2Fentry_id%2F0_0v36jn1h%2Fwidth%2F640@jpg" />
+</programme>
+
+<channel id="ppv-8465">
+<display-name>PDC: Cosmo Darts Classic - Board 4</display-name>
+</channel>
+<programme
+start="20250607160000 +0000"
+stop="20250607200000 +0000"
+channel="ppv-8465"
+>
+<title lang="en">PDC: Cosmo Darts Classic - Board 4</title>
+<sub-title>Darts</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Darts</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fopen.http.mp.streamamg.com%2Fp%2F3000668%2Fsp%2F300066800%2Fthumbnail%2Fentry_id%2F0_d1dir9ml%2Fwidth%2F640@jpg" />
+</programme>
+
+<channel id="ppv-8466">
+<display-name>PDC: Cosmo Darts Classic - Board 2</display-name>
+</channel>
+<programme
+start="20250607160000 +0000"
+stop="20250607200000 +0000"
+channel="ppv-8466"
+>
+<title lang="en">PDC: Cosmo Darts Classic - Board 2</title>
+<sub-title>Darts</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Darts</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fopen.http.mp.streamamg.com%2Fp%2F3000668%2Fsp%2F300066800%2Fthumbnail%2Fentry_id%2F0_av328irw%2Fwidth%2F640@jpg" />
+</programme>
+
+<channel id="ppv-8461">
+<display-name>PDC: Women&apos;s Series 13-14</display-name>
+</channel>
+<programme
+start="20250607090000 +0000"
+stop="20250607220000 +0000"
+channel="ppv-8461"
+>
+<title lang="en">PDC: Women&apos;s Series 13-14</title>
+<sub-title>Darts</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Darts</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fopen.http.mp.streamamg.com%2Fp%2F3000668%2Fsp%2F300066800%2Fthumbnail%2Fentry_id%2F0_tzptexe4%2Fwidth%2F640@jpg" />
+</programme>
+
 <channel id="ppv-8425">
 <display-name>PDC: Mr Vegas Nordic Darts Masters - Day One</display-name>
 </channel>
@@ -349,50 +503,6 @@ channel="ppv-8449"
 </audio>
 <category>Football</category>
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FdcINbfl.png@jpg" />
-</programme>
-
-<channel id="ppv-8342">
-<display-name>Chile vs Argentina (Spanish)</display-name>
-</channel>
-<programme
-start="20250606010000 +0000"
-stop="20250606040000 +0000"
-channel="ppv-8342"
->
-<title lang="en">Chile vs Argentina (Spanish)</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FgBSxmeq.png@jpg" />
-</programme>
-
-<channel id="ppv-8429">
-<display-name>Chile vs Argentina (English)</display-name>
-</channel>
-<programme
-start="20250606010000 +0000"
-stop="20250606040000 +0000"
-channel="ppv-8429"
->
-<title lang="en">Chile vs Argentina (English)</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FgBSxmeq.png@jpg" />
 </programme>
 
 <channel id="ppv-8363">
