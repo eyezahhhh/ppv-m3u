@@ -180,7 +180,7 @@ channel="ppv-8439"
 </channel>
 <programme
 start="20250605224000 +0000"
-stop="20250606014000 +0000"
+stop="20250606034000 +0000"
 channel="ppv-8438"
 >
 <title lang="en">Houston Astros vs. Pittsburgh Pirates</title>
@@ -283,6 +283,50 @@ channel="ppv-8425"
 </audio>
 <category>Darts</category>
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fopen.http.mp.streamamg.com%2Fp%2F3000668%2Fsp%2F300066800%2Fthumbnail%2Fentry_id%2F0_2j1hzvah%2Fwidth%2F640@jpg" />
+</programme>
+
+<channel id="ppv-8460">
+<display-name>Bolivia vs. Venezuela</display-name>
+</channel>
+<programme
+start="20250606220000 +0000"
+stop="20250607002100 +0000"
+channel="ppv-8460"
+>
+<title lang="en">Bolivia vs. Venezuela</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FceYNjpG.png@jpg" />
+</programme>
+
+<channel id="ppv-8459">
+<display-name>Peru vs. Colombia</display-name>
+</channel>
+<programme
+start="20250606203000 +0000"
+stop="20250606225100 +0000"
+channel="ppv-8459"
+>
+<title lang="en">Peru vs. Colombia</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2F45AlajZ.png@jpg" />
 </programme>
 
 <channel id="ppv-8444">
