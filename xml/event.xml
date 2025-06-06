@@ -1,4 +1,26 @@
 <tv>
+<channel id="ppv-8412">
+<display-name>ArmSports Entertainment: Arizona State Championship 2025</display-name>
+</channel>
+<programme
+start="20250608020000 +0000"
+stop="20250608100000 +0000"
+channel="ppv-8412"
+>
+<title lang="en">ArmSports Entertainment: Arizona State Championship 2025</title>
+<sub-title>Arm Wrestling</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Arm Wrestling</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FO9Ts6hS.jpeg@jpg" />
+</programme>
+
 <channel id="ppv-8402">
 <display-name>Coastal Carolina vs. Auburn</display-name>
 </channel>
@@ -109,72 +131,6 @@ channel="ppv-8442"
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2Fim9rvAo.png@jpg" />
 </programme>
 
-<channel id="ppv-8441">
-<display-name>Texas Rangers vs. Tampa Bay Rays</display-name>
-</channel>
-<programme
-start="20250605233500 +0000"
-stop="20250606023500 +0000"
-channel="ppv-8441"
->
-<title lang="en">Texas Rangers vs. Tampa Bay Rays</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FS8cuxDV.png@jpg" />
-</programme>
-
-<channel id="ppv-8440">
-<display-name>Cleveland Guardians vs. New York Yankees</display-name>
-</channel>
-<programme
-start="20250605230500 +0000"
-stop="20250606020500 +0000"
-channel="ppv-8440"
->
-<title lang="en">Cleveland Guardians vs. New York Yankees</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FhQLm5D4.png@jpg" />
-</programme>
-
-<channel id="ppv-8439">
-<display-name>Chicago Cubs vs. Washington Nationals</display-name>
-</channel>
-<programme
-start="20250605224500 +0000"
-stop="20250606014500 +0000"
-channel="ppv-8439"
->
-<title lang="en">Chicago Cubs vs. Washington Nationals</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2Fc2aeuYY.png@jpg" />
-</programme>
-
 <channel id="ppv-8438">
 <display-name>Houston Astros vs. Pittsburgh Pirates</display-name>
 </channel>
@@ -239,28 +195,6 @@ channel="ppv-8428"
 </audio>
 <category>Basketball</category>
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fnba%2Flatest%2Fced%2Find-okc%2F1280x720.png@jpg" />
-</programme>
-
-<channel id="ppv-8426">
-<display-name>Liberty at Mystics</display-name>
-</channel>
-<programme
-start="20250605233000 +0000"
-stop="20250606021500 +0000"
-channel="ppv-8426"
->
-<title lang="en">Liberty at Mystics</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fwnba%2Flatest%2Fced%2Fnyl-was%2F1280x720.png@jpg" />
 </programme>
 
 <channel id="ppv-8425">
@@ -503,50 +437,6 @@ channel="ppv-8429"
 </audio>
 <category>Football</category>
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FgBSxmeq.png@jpg" />
-</programme>
-
-<channel id="ppv-8422">
-<display-name>Brazil vs. Ecuador</display-name>
-</channel>
-<programme
-start="20250605230000 +0000"
-stop="20250606022100 +0000"
-channel="ppv-8422"
->
-<title lang="en">Brazil vs. Ecuador</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2Fm8O8pUs.png@jpg" />
-</programme>
-
-<channel id="ppv-8423">
-<display-name>Uruguay vs. Paraguay</display-name>
-</channel>
-<programme
-start="20250605230000 +0000"
-stop="20250606022100 +0000"
-channel="ppv-8423"
->
-<title lang="en">Uruguay vs. Paraguay</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2F9B2gHKz.png@jpg" />
 </programme>
 
 <channel id="ppv-8363">
