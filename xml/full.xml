@@ -659,6 +659,28 @@ channel="ppv-8425"
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fopen.http.mp.streamamg.com%2Fp%2F3000668%2Fsp%2F300066800%2Fthumbnail%2Fentry_id%2F0_2j1hzvah%2Fwidth%2F640@jpg" />
 </programme>
 
+<channel id="ppv-8488">
+<display-name>UEFA Nations League: Germany vs France</display-name>
+</channel>
+<programme
+start="20250608190000 +0000"
+stop="20250608220000 +0000"
+channel="ppv-8488"
+>
+<title lang="en">UEFA Nations League: Germany vs France</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FCj3N0Qr.png@jpg" />
+</programme>
+
 <channel id="ppv-8487">
 <display-name>UEFA Nations League: Germany vs France</display-name>
 </channel>
@@ -965,50 +987,6 @@ channel="ppv-8363"
 </audio>
 <category>Ice Hockey</category>
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FuPYQyT2.png@jpg" />
-</programme>
-
-<channel id="ppv-8470">
-<display-name>Roland-Garros Feed 1</display-name>
-</channel>
-<programme
-start="20250606130000 +0000"
-stop="20250606190000 +0000"
-channel="ppv-8470"
->
-<title lang="en">Roland-Garros Feed 1</title>
-<sub-title>Miscellaneous</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Miscellaneous</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fpadelmagazine.fr%2Fwp-content%2Fuploads%2F2020%2F01%2Froland-garros-2020-1.jpg@jpg" />
-</programme>
-
-<channel id="ppv-8471">
-<display-name>Roland-Garros Feed 2</display-name>
-</channel>
-<programme
-start="20250606130000 +0000"
-stop="20250606190000 +0000"
-channel="ppv-8471"
->
-<title lang="en">Roland-Garros Feed 2</title>
-<sub-title>Miscellaneous</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Miscellaneous</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fpadelmagazine.fr%2Fwp-content%2Fuploads%2F2020%2F01%2Froland-garros-2020-1.jpg@jpg" />
 </programme>
 
 <channel id="ppv-8341">
