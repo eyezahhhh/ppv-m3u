@@ -109,28 +109,6 @@ channel="ppv-8399"
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FrjCb1gi.png@jpg" />
 </programme>
 
-<channel id="ppv-8438">
-<display-name>Houston Astros vs. Pittsburgh Pirates</display-name>
-</channel>
-<programme
-start="20250606004000 +0000"
-stop="20250606054000 +0000"
-channel="ppv-8438"
->
-<title lang="en">Houston Astros vs. Pittsburgh Pirates</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FBZx9hTr.png@jpg" />
-</programme>
-
 <channel id="ppv-8467">
 <display-name>PDC: Mr Vegas Nordic Darts Masters - Day Two</display-name>
 </channel>
