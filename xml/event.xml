@@ -879,28 +879,6 @@ channel="ppv-8533"
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FpYrYq5z.png@jpg" />
 </programme>
 
-<channel id="ppv-8530">
-<display-name>MXGP of Latvia (Day 1)</display-name>
-</channel>
-<programme
-start="20250607090000 +0000"
-stop="20250607210000 +0000"
-channel="ppv-8530"
->
-<title lang="en">MXGP of Latvia (Day 1)</title>
-<sub-title>Motorsports</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Motorsports</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fwp-mxgp.streamamg.com%2Fwp-content%2Fuploads%2FMXGP_9_LV_2024_MX2-147-1620x1080.jpg@jpg" />
-</programme>
-
 <channel id="ppv-8341">
 <display-name>AEW: Saturday Night Collision</display-name>
 </channel>
