@@ -483,28 +483,6 @@ channel="ppv-8517"
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FrjCb1gi.png@jpg" />
 </programme>
 
-<channel id="ppv-8516">
-<display-name>North Carolina vs. Arizona</display-name>
-</channel>
-<programme
-start="20250607160000 +0000"
-stop="20250607192100 +0000"
-channel="ppv-8516"
->
-<title lang="en">North Carolina vs. Arizona</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FrjCb1gi.png@jpg" />
-</programme>
-
 <channel id="ppv-8537">
 <display-name>Storm at Mercury</display-name>
 </channel>
