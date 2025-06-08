@@ -351,28 +351,6 @@ channel="ppv-8541"
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FC1crtlg.png@jpg" />
 </programme>
 
-<channel id="ppv-8492">
-<display-name>UFC 316: Dvalishvili vs O&apos;Malley 2</display-name>
-</channel>
-<programme
-start="20250607220000 +0000"
-stop="20250608060000 +0000"
-channel="ppv-8492"
->
-<title lang="en">UFC 316: Dvalishvili vs O&apos;Malley 2</title>
-<sub-title>Combat Sports</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Combat Sports</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FJshoBdp.png@jpg" />
-</programme>
-
 <channel id="ppv-8524">
 <display-name>PDC: DJD Masters  - Board 5</display-name>
 </channel>
