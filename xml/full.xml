@@ -571,28 +571,6 @@ channel="ppv-8364"
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2Fq2k4WUN.png@jpg" />
 </programme>
 
-<channel id="ppv-8531">
-<display-name>MXGP of Latvia (Day 2)</display-name>
-</channel>
-<programme
-start="20250608063500 +0000"
-stop="20250608183500 +0000"
-channel="ppv-8531"
->
-<title lang="en">MXGP of Latvia (Day 2)</title>
-<sub-title>Motorsports</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Motorsports</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fwp-mxgp.streamamg.com%2Fwp-content%2Fuploads%2FMXGP_9_LV_2024_MX2-147-1620x1080.jpg@jpg" />
-</programme>
-
 <channel id="ppv-3716">
 <display-name>(North) Korean Central Television</display-name>
 </channel>
