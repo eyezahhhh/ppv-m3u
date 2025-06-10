@@ -1,114 +1,4 @@
 <tv>
-<channel id="ppv-8576">
-<display-name>Los Angeles Dodgers vs. San Diego Padres</display-name>
-</channel>
-<programme
-start="20250610014000 +0000"
-stop="20250610044000 +0000"
-channel="ppv-8576"
->
-<title lang="en">Los Angeles Dodgers vs. San Diego Padres</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2F0Tcjltj.png@jpg" />
-</programme>
-
-<channel id="ppv-8577">
-<display-name>Seattle Mariners vs. Arizona Diamondbacks</display-name>
-</channel>
-<programme
-start="20250610014000 +0000"
-stop="20250610044000 +0000"
-channel="ppv-8577"
->
-<title lang="en">Seattle Mariners vs. Arizona Diamondbacks</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2Fs3SvXw3.png@jpg" />
-</programme>
-
-<channel id="ppv-8575">
-<display-name>Athletics vs. Los Angeles Angels</display-name>
-</channel>
-<programme
-start="20250610013800 +0000"
-stop="20250610043800 +0000"
-channel="ppv-8575"
->
-<title lang="en">Athletics vs. Los Angeles Angels</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FPaHr1XP.png@jpg" />
-</programme>
-
-<channel id="ppv-8574">
-<display-name>Toronto Blue Jays vs. St. Louis Cardinals</display-name>
-</channel>
-<programme
-start="20250609234500 +0000"
-stop="20250610024500 +0000"
-channel="ppv-8574"
->
-<title lang="en">Toronto Blue Jays vs. St. Louis Cardinals</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2F7mKpN6I.png@jpg" />
-</programme>
-
-<channel id="ppv-8573">
-<display-name>Atlanta Braves vs. Milwaukee Brewers</display-name>
-</channel>
-<programme
-start="20250609234000 +0000"
-stop="20250610024000 +0000"
-channel="ppv-8573"
->
-<title lang="en">Atlanta Braves vs. Milwaukee Brewers</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FRAsicRW.png@jpg" />
-</programme>
-
 <channel id="ppv-8572">
 <display-name>Tampa Bay Rays vs. Boston Red Sox</display-name>
 </channel>
@@ -217,6 +107,72 @@ channel="ppv-8562"
 </audio>
 <category>Basketball</category>
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fwnba%2Flatest%2Fced%2Fgsv-las%2F1280x720.png@jpg" />
+</programme>
+
+<channel id="ppv-8367">
+<display-name>Edmonton Oilers vs. Florida Panthers</display-name>
+</channel>
+<programme
+start="20250618000000 +0000"
+stop="20250618030000 +0000"
+channel="ppv-8367"
+>
+<title lang="en">Edmonton Oilers vs. Florida Panthers</title>
+<sub-title>Ice Hockey</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Ice Hockey</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FsOLq2hh.png@jpg" />
+</programme>
+
+<channel id="ppv-8366">
+<display-name>Florida Panthers vs. Edmonton Oilers</display-name>
+</channel>
+<programme
+start="20250615000000 +0000"
+stop="20250615030000 +0000"
+channel="ppv-8366"
+>
+<title lang="en">Florida Panthers vs. Edmonton Oilers</title>
+<sub-title>Ice Hockey</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Ice Hockey</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FIb2Gjr5.png@jpg" />
+</programme>
+
+<channel id="ppv-8365">
+<display-name>Edmonton Oilers vs. Florida Panthers</display-name>
+</channel>
+<programme
+start="20250613000000 +0000"
+stop="20250613030000 +0000"
+channel="ppv-8365"
+>
+<title lang="en">Edmonton Oilers vs. Florida Panthers</title>
+<sub-title>Ice Hockey</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Ice Hockey</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FsAoaR5h.png@jpg" />
 </programme>
 
 <channel id="ppv-8364">
