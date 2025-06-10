@@ -1,4 +1,48 @@
 <tv>
+<channel id="ppv-8606">
+<display-name>Sky at Liberty</display-name>
+</channel>
+<programme
+start="20250611000000 +0000"
+stop="20250611024500 +0000"
+channel="ppv-8606"
+>
+<title lang="en">Sky at Liberty</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fwnba%2Flatest%2Fced%2Fchi-nyl%2F1280x720.png@jpg" />
+</programme>
+
+<channel id="ppv-8605">
+<display-name>Fever at Dream</display-name>
+</channel>
+<programme
+start="20250610233000 +0000"
+stop="20250611021500 +0000"
+channel="ppv-8605"
+>
+<title lang="en">Fever at Dream</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fwnba%2Flatest%2Fced%2Find-atl%2F1280x720.png@jpg" />
+</programme>
+
 <channel id="ppv-8603">
 <display-name>Ecuador vs. Peru</display-name>
 </channel>
