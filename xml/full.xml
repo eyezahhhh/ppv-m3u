@@ -65,50 +65,6 @@ channel="ppv-8590"
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FA8kxlKJ.png@jpg" />
 </programme>
 
-<channel id="ppv-8589">
-<display-name>Toronto Blue Jays vs. St. Louis Cardinals</display-name>
-</channel>
-<programme
-start="20250609234500 +0000"
-stop="20250610024500 +0000"
-channel="ppv-8589"
->
-<title lang="en">Toronto Blue Jays vs. St. Louis Cardinals</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FSUicUSu.png@jpg" />
-</programme>
-
-<channel id="ppv-8588">
-<display-name>Atlanta Braves vs. Milwaukee Brewers</display-name>
-</channel>
-<programme
-start="20250609234000 +0000"
-stop="20250610024000 +0000"
-channel="ppv-8588"
->
-<title lang="en">Atlanta Braves vs. Milwaukee Brewers</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FgKPuKt6.png@jpg" />
-</programme>
-
 <channel id="ppv-8562">
 <display-name>Valkyries at Sparks</display-name>
 </channel>
@@ -282,7 +238,7 @@ channel="ppv-8594"
 <stereo>stereo</stereo>
 </audio>
 <category>Football</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FrjCb1gi.png@jpg" />
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2F54v8doI.png@jpg" />
 </programme>
 
 <channel id="ppv-8595">
@@ -304,7 +260,7 @@ channel="ppv-8595"
 <stereo>stereo</stereo>
 </audio>
 <category>Football</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FrjCb1gi.png@jpg" />
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FnO8LWcT.png@jpg" />
 </programme>
 
 <channel id="ppv-8596">
@@ -326,7 +282,7 @@ channel="ppv-8596"
 <stereo>stereo</stereo>
 </audio>
 <category>Football</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FrjCb1gi.png@jpg" />
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FEeJFtN0.png@jpg" />
 </programme>
 
 <channel id="ppv-8597">
@@ -348,7 +304,7 @@ channel="ppv-8597"
 <stereo>stereo</stereo>
 </audio>
 <category>Football</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FrjCb1gi.png@jpg" />
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FWmEsdoU.png@jpg" />
 </programme>
 
 <channel id="ppv-8598">
@@ -370,7 +326,7 @@ channel="ppv-8598"
 <stereo>stereo</stereo>
 </audio>
 <category>Football</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FrjCb1gi.png@jpg" />
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FG8eFdhM.png@jpg" />
 </programme>
 
 <channel id="ppv-8367">
@@ -437,28 +393,6 @@ channel="ppv-8365"
 </audio>
 <category>Ice Hockey</category>
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FsAoaR5h.png@jpg" />
-</programme>
-
-<channel id="ppv-8364">
-<display-name>Edmonton Oilers vs. Florida Panthers</display-name>
-</channel>
-<programme
-start="20250610000000 +0000"
-stop="20250610030000 +0000"
-channel="ppv-8364"
->
-<title lang="en">Edmonton Oilers vs. Florida Panthers</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2Fq2k4WUN.png@jpg" />
 </programme>
 
 <channel id="ppv-8583">
@@ -569,28 +503,6 @@ channel="ppv-8579"
 </audio>
 <category>Wrestling</category>
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2Fn7tkxQQ.png@jpg" />
-</programme>
-
-<channel id="ppv-8578">
-<display-name>WWE: Monday Night RAW</display-name>
-</channel>
-<programme
-start="20250610000000 +0000"
-stop="20250610030000 +0000"
-channel="ppv-8578"
->
-<title lang="en">WWE: Monday Night RAW</title>
-<sub-title>Wrestling</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Wrestling</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FzmuUYCm.png@jpg" />
 </programme>
 
 <channel id="ppv-3716">
