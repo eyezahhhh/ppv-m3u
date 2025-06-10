@@ -307,6 +307,28 @@ channel="ppv-8607"
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2F9ImoLmC.png@jpg" />
 </programme>
 
+<channel id="ppv-8608">
+<display-name>England vs Senegal</display-name>
+</channel>
+<programme
+start="20250610184500 +0000"
+stop="20250610224500 +0000"
+channel="ppv-8608"
+>
+<title lang="en">England vs Senegal</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FA7uxmQi.png@jpg" />
+</programme>
+
 <channel id="ppv-8580">
 <display-name>AEW: Wednesday Night Dynamite</display-name>
 </channel>
