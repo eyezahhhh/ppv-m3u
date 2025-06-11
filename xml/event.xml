@@ -87,138 +87,6 @@ channel="ppv-8620"
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FgGel4XX.png@jpg" />
 </programme>
 
-<channel id="ppv-8619">
-<display-name>Chicago White Sox vs. Houston Astros</display-name>
-</channel>
-<programme
-start="20250611001000 +0000"
-stop="20250611031000 +0000"
-channel="ppv-8619"
->
-<title lang="en">Chicago White Sox vs. Houston Astros</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2F8FBp1Iw.png@jpg" />
-</programme>
-
-<channel id="ppv-8618">
-<display-name>Toronto Blue Jays vs. St. Louis Cardinals</display-name>
-</channel>
-<programme
-start="20250610234500 +0000"
-stop="20250611024500 +0000"
-channel="ppv-8618"
->
-<title lang="en">Toronto Blue Jays vs. St. Louis Cardinals</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FFQeNfiA.png@jpg" />
-</programme>
-
-<channel id="ppv-8615">
-<display-name>Atlanta Braves vs. Milwaukee Brewers</display-name>
-</channel>
-<programme
-start="20250610234000 +0000"
-stop="20250611024000 +0000"
-channel="ppv-8615"
->
-<title lang="en">Atlanta Braves vs. Milwaukee Brewers</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FJ6LuIHF.png@jpg" />
-</programme>
-
-<channel id="ppv-8616">
-<display-name>New York Yankees vs. Kansas City Royals</display-name>
-</channel>
-<programme
-start="20250610234000 +0000"
-stop="20250611024000 +0000"
-channel="ppv-8616"
->
-<title lang="en">New York Yankees vs. Kansas City Royals</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2F9xOwfUm.png@jpg" />
-</programme>
-
-<channel id="ppv-8617">
-<display-name>Texas Rangers vs. Minnesota Twins</display-name>
-</channel>
-<programme
-start="20250610234000 +0000"
-stop="20250611024000 +0000"
-channel="ppv-8617"
->
-<title lang="en">Texas Rangers vs. Minnesota Twins</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2F0IZAB3Y.png@jpg" />
-</programme>
-
-<channel id="ppv-8606">
-<display-name>Sky at Liberty</display-name>
-</channel>
-<programme
-start="20250611000000 +0000"
-stop="20250611024500 +0000"
-channel="ppv-8606"
->
-<title lang="en">Sky at Liberty</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fwnba%2Flatest%2Fced%2Fchi-nyl%2F1280x720.png@jpg" />
-</programme>
-
 <channel id="ppv-8624">
 <display-name>Mexico vs Turkey</display-name>
 </channel>
@@ -239,28 +107,6 @@ channel="ppv-8624"
 </audio>
 <category>Football</category>
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2F4Barfx6.png@jpg" />
-</programme>
-
-<channel id="ppv-8602">
-<display-name>Paraguay vs. Brazil</display-name>
-</channel>
-<programme
-start="20250611004500 +0000"
-stop="20250611030600 +0000"
-channel="ppv-8602"
->
-<title lang="en">Paraguay vs. Brazil</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FlwGF3uM.png@jpg" />
 </programme>
 
 <channel id="ppv-8365">
@@ -371,27 +217,5 @@ channel="ppv-8580"
 </audio>
 <category>Wrestling</category>
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FGajn72i.jpeg@jpg" />
-</programme>
-
-<channel id="ppv-8579">
-<display-name>WWE: NXT</display-name>
-</channel>
-<programme
-start="20250611000000 +0000"
-stop="20250611030000 +0000"
-channel="ppv-8579"
->
-<title lang="en">WWE: NXT</title>
-<sub-title>Wrestling</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Wrestling</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2Fn7tkxQQ.png@jpg" />
 </programme>
 </tv>
