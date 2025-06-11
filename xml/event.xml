@@ -65,16 +65,16 @@ channel="ppv-8621"
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FBTMtNmA.png@jpg" />
 </programme>
 
-<channel id="ppv-8624">
-<display-name>Mexico vs Turkey</display-name>
+<channel id="ppv-8630">
+<display-name>PDC: BetVictor World Cup of Darts - Day One</display-name>
 </channel>
 <programme
-start="20250611010000 +0000"
-stop="20250611040000 +0000"
-channel="ppv-8624"
+start="20250612170000 +0000"
+stop="20250612235900 +0000"
+channel="ppv-8630"
 >
-<title lang="en">Mexico vs Turkey</title>
-<sub-title>Football</sub-title>
+<title lang="en">PDC: BetVictor World Cup of Darts - Day One</title>
+<sub-title>Darts</sub-title>
 <video>
 <present>yes</present>
 <colour>yes</colour>
@@ -83,8 +83,96 @@ channel="ppv-8624"
 <present>yes</present>
 <stereo>stereo</stereo>
 </audio>
-<category>Football</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2F4Barfx6.png@jpg" />
+<category>Darts</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fopen.http.mp.streamamg.com%2Fp%2F3000668%2Fsp%2F300066800%2Fthumbnail%2Fentry_id%2F0_rktd9ks1%2Fwidth%2F640@jpg" />
+</programme>
+
+<channel id="ppv-8626">
+<display-name>PDC: Players Championship 17 - Board 3</display-name>
+</channel>
+<programme
+start="20250612120000 +0000"
+stop="20250612220000 +0000"
+channel="ppv-8626"
+>
+<title lang="en">PDC: Players Championship 17 - Board 3</title>
+<sub-title>Darts</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Darts</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fopen.http.mp.streamamg.com%2Fp%2F3000668%2Fsp%2F300066800%2Fthumbnail%2Fentry_id%2F0_1u34wa9j%2Fwidth%2F640@jpg" />
+</programme>
+
+<channel id="ppv-8627">
+<display-name>PDC: Players Championship 17 - Board 2</display-name>
+</channel>
+<programme
+start="20250612120000 +0000"
+stop="20250612220000 +0000"
+channel="ppv-8627"
+>
+<title lang="en">PDC: Players Championship 17 - Board 2</title>
+<sub-title>Darts</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Darts</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fopen.http.mp.streamamg.com%2Fp%2F3000668%2Fsp%2F300066800%2Fthumbnail%2Fentry_id%2F0_y45t7kqp%2Fwidth%2F640@jpg" />
+</programme>
+
+<channel id="ppv-8628">
+<display-name>PDC: Players Championship 17 - Board 4</display-name>
+</channel>
+<programme
+start="20250612120000 +0000"
+stop="20250612220000 +0000"
+channel="ppv-8628"
+>
+<title lang="en">PDC: Players Championship 17 - Board 4</title>
+<sub-title>Darts</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Darts</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fopen.http.mp.streamamg.com%2Fp%2F3000668%2Fsp%2F300066800%2Fthumbnail%2Fentry_id%2F0_9gjnxn9d%2Fwidth%2F640@jpg" />
+</programme>
+
+<channel id="ppv-8629">
+<display-name>PDC: Players Championship 17 - Board 1</display-name>
+</channel>
+<programme
+start="20250612120000 +0000"
+stop="20250612220000 +0000"
+channel="ppv-8629"
+>
+<title lang="en">PDC: Players Championship 17 - Board 1</title>
+<sub-title>Darts</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Darts</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fopen.http.mp.streamamg.com%2Fp%2F3000668%2Fsp%2F300066800%2Fthumbnail%2Fentry_id%2F0_5ivu0u20%2Fwidth%2F640@jpg" />
 </programme>
 
 <channel id="ppv-8365">
