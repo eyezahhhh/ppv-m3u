@@ -395,6 +395,28 @@ channel="ppv-8603"
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FUxpaGmV.png@jpg" />
 </programme>
 
+<channel id="ppv-8624">
+<display-name>Mexico vs Turkey</display-name>
+</channel>
+<programme
+start="20250611010000 +0000"
+stop="20250611040000 +0000"
+channel="ppv-8624"
+>
+<title lang="en">Mexico vs Turkey</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2F4Barfx6.png@jpg" />
+</programme>
+
 <channel id="ppv-8602">
 <display-name>Paraguay vs. Brazil</display-name>
 </channel>
@@ -417,28 +439,6 @@ channel="ppv-8602"
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FlwGF3uM.png@jpg" />
 </programme>
 
-<channel id="ppv-8624">
-<display-name>Mexico vs Turkey</display-name>
-</channel>
-<programme
-start="20250611003000 +0000"
-stop="20250611033000 +0000"
-channel="ppv-8624"
->
-<title lang="en">Mexico vs Turkey</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2F4Barfx6.png@jpg" />
-</programme>
-
 <channel id="ppv-8601">
 <display-name>Colombia vs. Argentina</display-name>
 </channel>
@@ -459,28 +459,6 @@ channel="ppv-8601"
 </audio>
 <category>Football</category>
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2F9E13MFv.png@jpg" />
-</programme>
-
-<channel id="ppv-8600">
-<display-name>Venezuela vs. Uruguay</display-name>
-</channel>
-<programme
-start="20250610230000 +0000"
-stop="20250611012100 +0000"
-channel="ppv-8600"
->
-<title lang="en">Venezuela vs. Uruguay</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FOLZeHgo.png@jpg" />
 </programme>
 
 <channel id="ppv-8625">
