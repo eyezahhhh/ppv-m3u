@@ -285,28 +285,6 @@ channel="ppv-8699"
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fwnba%2Flatest%2Fced%2Fsea-gsv%2F1280x720.png@jpg" />
 </programme>
 
-<channel id="ppv-8698">
-<display-name>Liberty at Fever</display-name>
-</channel>
-<programme
-start="20250614190000 +0000"
-stop="20250614214500 +0000"
-channel="ppv-8698"
->
-<title lang="en">Liberty at Fever</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fwnba%2Flatest%2Fced%2Fnyl-ind%2F1280x720.png@jpg" />
-</programme>
-
 <channel id="ppv-8703">
 <display-name>UFC Fight Night: Usman vs. Buckley</display-name>
 </channel>
@@ -635,50 +613,6 @@ channel="ppv-8672"
 </audio>
 <category>Motorsports</category>
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FumsmA1y.png@jpg" />
-</programme>
-
-<channel id="ppv-8671">
-<display-name>F1: Canada GP (Qualifying)</display-name>
-</channel>
-<programme
-start="20250614200000 +0000"
-stop="20250614220000 +0000"
-channel="ppv-8671"
->
-<title lang="en">F1: Canada GP (Qualifying)</title>
-<sub-title>Motorsports</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Motorsports</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FumsmA1y.png@jpg" />
-</programme>
-
-<channel id="ppv-8701">
-<display-name>Pro Motocross: High Point</display-name>
-</channel>
-<programme
-start="20250614170000 +0000"
-stop="20250614220000 +0000"
-channel="ppv-8701"
->
-<title lang="en">Pro Motocross: High Point</title>
-<sub-title>Motorsports</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Motorsports</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FpYrYq5z.png@jpg" />
 </programme>
 
 <channel id="ppv-8678">
