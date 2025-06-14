@@ -153,160 +153,6 @@ channel="ppv-8687"
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FIbYXHva.png@jpg" />
 </programme>
 
-<channel id="ppv-8686">
-<display-name>Colorado Rockies vs. Atlanta Braves</display-name>
-</channel>
-<programme
-start="20250613231500 +0000"
-stop="20250614021500 +0000"
-channel="ppv-8686"
->
-<title lang="en">Colorado Rockies vs. Atlanta Braves</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FN75nGvr.png@jpg" />
-</programme>
-
-<channel id="ppv-8683">
-<display-name>Cincinnati Reds vs. Detroit Tigers</display-name>
-</channel>
-<programme
-start="20250613231000 +0000"
-stop="20250614021000 +0000"
-channel="ppv-8683"
->
-<title lang="en">Cincinnati Reds vs. Detroit Tigers</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FIyP4Ejq.png@jpg" />
-</programme>
-
-<channel id="ppv-8684">
-<display-name>New York Yankees vs. Boston Red Sox</display-name>
-</channel>
-<programme
-start="20250613231000 +0000"
-stop="20250614021000 +0000"
-channel="ppv-8684"
->
-<title lang="en">New York Yankees vs. Boston Red Sox</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2Fsl8jjSo.png@jpg" />
-</programme>
-
-<channel id="ppv-8685">
-<display-name>Tampa Bay Rays vs. New York Mets</display-name>
-</channel>
-<programme
-start="20250613231000 +0000"
-stop="20250614021000 +0000"
-channel="ppv-8685"
->
-<title lang="en">Tampa Bay Rays vs. New York Mets</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FEuvKMfR.png@jpg" />
-</programme>
-
-<channel id="ppv-8682">
-<display-name>Los Angeles Angels vs. Baltimore Orioles</display-name>
-</channel>
-<programme
-start="20250613230500 +0000"
-stop="20250614020500 +0000"
-channel="ppv-8682"
->
-<title lang="en">Los Angeles Angels vs. Baltimore Orioles</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2F9M5AFe4.png@jpg" />
-</programme>
-
-<channel id="ppv-8680">
-<display-name>Miami Marlins vs. Washington Nationals</display-name>
-</channel>
-<programme
-start="20250613224500 +0000"
-stop="20250614014500 +0000"
-channel="ppv-8680"
->
-<title lang="en">Miami Marlins vs. Washington Nationals</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FB0o7F34.png@jpg" />
-</programme>
-
-<channel id="ppv-8681">
-<display-name>Toronto Blue Jays vs. Philadelphia Phillies</display-name>
-</channel>
-<programme
-start="20250613224500 +0000"
-stop="20250614014500 +0000"
-channel="ppv-8681"
->
-<title lang="en">Toronto Blue Jays vs. Philadelphia Phillies</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FWTdehgG.png@jpg" />
-</programme>
-
 <channel id="ppv-8676">
 <display-name>Wings at Aces</display-name>
 </channel>
@@ -351,28 +197,6 @@ channel="ppv-8677"
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fnba%2Flatest%2Fced%2Fokc-ind%2F1280x720.png@jpg" />
 </programme>
 
-<channel id="ppv-8675">
-<display-name>Sky at Dream</display-name>
-</channel>
-<programme
-start="20250613233000 +0000"
-stop="20250614021500 +0000"
-channel="ppv-8675"
->
-<title lang="en">Sky at Dream</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fwnba%2Flatest%2Fced%2Fchi-atl%2F1280x720.png@jpg" />
-</programme>
-
 <channel id="ppv-8674">
 <display-name>PDC: BetVictor World Cup of Darts - Day Three</display-name>
 </channel>
@@ -393,6 +217,28 @@ channel="ppv-8674"
 </audio>
 <category>Darts</category>
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fopen.http.mp.streamamg.com%2Fp%2F3000668%2Fsp%2F300066800%2Fthumbnail%2Fentry_id%2F0_8d5cgv6t%2Fwidth%2F640@jpg" />
+</programme>
+
+<channel id="ppv-8667">
+<display-name>Seattle Sounders FC vs. Botafogo</display-name>
+</channel>
+<programme
+start="20250616020000 +0000"
+stop="20250616042100 +0000"
+channel="ppv-8667"
+>
+<title lang="en">Seattle Sounders FC vs. Botafogo</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2F0DWVdDX.png@jpg" />
 </programme>
 
 <channel id="ppv-8666">
