@@ -6,7 +6,8 @@ const MIRRORS: string[] = [
     "https://ppv.land",
     "https://freeppv.fun",
     "https://ppv.wtf",
-    "https://ppvs.su"
+    "https://ppvs.su",
+    "https://ppv.to"
 ];
 
 const m3uList: Record<string, null | ((stream: PpvStreamStub) => boolean)> = {
