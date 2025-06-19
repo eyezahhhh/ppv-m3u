@@ -65,72 +65,6 @@ channel="ppv-8814"
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FPAVgrOp.png@jpg" />
 </programme>
 
-<channel id="ppv-8812">
-<display-name>Kansas City Royals vs. Texas Rangers</display-name>
-</channel>
-<programme
-start="20250619000500 +0000"
-stop="20250619030500 +0000"
-channel="ppv-8812"
->
-<title lang="en">Kansas City Royals vs. Texas Rangers</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FRpnfxrj.png@jpg" />
-</programme>
-
-<channel id="ppv-8813">
-<display-name>Milwaukee Brewers vs. Chicago Cubs</display-name>
-</channel>
-<programme
-start="20250619000500 +0000"
-stop="20250619030500 +0000"
-channel="ppv-8813"
->
-<title lang="en">Milwaukee Brewers vs. Chicago Cubs</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2Ffr9r6AA.png@jpg" />
-</programme>
-
-<channel id="ppv-8811">
-<display-name>St. Louis Cardinals vs. Chicago White Sox</display-name>
-</channel>
-<programme
-start="20250618234000 +0000"
-stop="20250619024000 +0000"
-channel="ppv-8811"
->
-<title lang="en">St. Louis Cardinals vs. Chicago White Sox</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FgXsOZeO.png@jpg" />
-</programme>
-
 <channel id="ppv-8798">
 <display-name>PDC: Players Championship 19 - Board 2</display-name>
 </channel>
@@ -373,28 +307,6 @@ channel="ppv-8817"
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2Fw8WGLNW.png@jpg" />
 </programme>
 
-<channel id="ppv-8761">
-<display-name>Juventus vs. Al Ain</display-name>
-</channel>
-<programme
-start="20250619010000 +0000"
-stop="20250619032100 +0000"
-channel="ppv-8761"
->
-<title lang="en">Juventus vs. Al Ain</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2F4CXensa.png@jpg" />
-</programme>
-
 <channel id="ppv-8770">
 <display-name>WWE: Friday Night Smackdown</display-name>
 </channel>
@@ -437,27 +349,5 @@ channel="ppv-8769"
 </audio>
 <category>Wrestling</category>
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FFpS5gVp.png@jpg" />
-</programme>
-
-<channel id="ppv-8768">
-<display-name>AEW: Wednesday Night Dynamite</display-name>
-</channel>
-<programme
-start="20250619000000 +0000"
-stop="20250619030000 +0000"
-channel="ppv-8768"
->
-<title lang="en">AEW: Wednesday Night Dynamite</title>
-<sub-title>Wrestling</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Wrestling</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FGajn72i.jpeg@jpg" />
 </programme>
 </tv>
