@@ -21,28 +21,6 @@ channel="ppv-8879"
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FZX7z8XC.png@jpg" />
 </programme>
 
-<channel id="ppv-8878">
-<display-name>Cleveland Guardians vs. Athletics</display-name>
-</channel>
-<programme
-start="20250622020500 +0000"
-stop="20250622050500 +0000"
-channel="ppv-8878"
->
-<title lang="en">Cleveland Guardians vs. Athletics</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FMRLy10s.png@jpg" />
-</programme>
-
 <channel id="ppv-8861">
 <display-name>MXGP of Great Britain (Day 2)</display-name>
 </channel>
