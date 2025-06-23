@@ -372,4 +372,48 @@ channel="ppv-8894"
 <category>Football</category>
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FYVUgIay.png@jpg" />
 </programme>
+
+<channel id="ppv-8913">
+<display-name>WWE: NXT</display-name>
+</channel>
+<programme
+start="20250625000000 +0000"
+stop="20250625030000 +0000"
+channel="ppv-8913"
+>
+<title lang="en">WWE: NXT</title>
+<sub-title>Wrestling</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Wrestling</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2Fn7tkxQQ.png@jpg" />
+</programme>
+
+<channel id="ppv-8912">
+<display-name>WWE: Monday Night RAW</display-name>
+</channel>
+<programme
+start="20250624000000 +0000"
+stop="20250624030000 +0000"
+channel="ppv-8912"
+>
+<title lang="en">WWE: Monday Night RAW</title>
+<sub-title>Wrestling</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Wrestling</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FzmuUYCm.png@jpg" />
+</programme>
 </tv>
