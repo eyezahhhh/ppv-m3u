@@ -1,4 +1,92 @@
 <tv>
+<channel id="ppv-8921">
+<display-name>Fever at Storm</display-name>
+</channel>
+<programme
+start="20250625020000 +0000"
+stop="20250625044500 +0000"
+channel="ppv-8921"
+>
+<title lang="en">Fever at Storm</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fwnba%2Flatest%2Fced%2Find-sea%2F1280x720.png@jpg" />
+</programme>
+
+<channel id="ppv-8918">
+<display-name>Lynx at Mystics</display-name>
+</channel>
+<programme
+start="20250625000000 +0000"
+stop="20250625024500 +0000"
+channel="ppv-8918"
+>
+<title lang="en">Lynx at Mystics</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fwnba%2Flatest%2Fced%2Fmin-was%2F1280x720.png@jpg" />
+</programme>
+
+<channel id="ppv-8919">
+<display-name>Sparks at Sky</display-name>
+</channel>
+<programme
+start="20250625000000 +0000"
+stop="20250625024500 +0000"
+channel="ppv-8919"
+>
+<title lang="en">Sparks at Sky</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fwnba%2Flatest%2Fced%2Flas-chi%2F1280x720.png@jpg" />
+</programme>
+
+<channel id="ppv-8920">
+<display-name>Dream at Wings</display-name>
+</channel>
+<programme
+start="20250625000000 +0000"
+stop="20250625024500 +0000"
+channel="ppv-8920"
+>
+<title lang="en">Dream at Wings</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fwnba%2Flatest%2Fced%2Fatl-dal%2F1280x720.png@jpg" />
+</programme>
+
 <channel id="ppv-8901">
 <display-name>Chelsea vs. Esperance Sportive de Tunis</display-name>
 </channel>
