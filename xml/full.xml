@@ -417,13 +417,13 @@ channel="ppv-8920"
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fwnba%2Flatest%2Fced%2Fatl-dal%2F1280x720.png@jpg" />
 </programme>
 
-<channel id="ppv-8939">
+<channel id="ppv-8940">
 <display-name>PDC: Live Test</display-name>
 </channel>
 <programme
 start="20250623000000 +0000"
 stop="20250625000000 +0000"
-channel="ppv-8939"
+channel="ppv-8940"
 >
 <title lang="en">PDC: Live Test</title>
 <sub-title>Darts</sub-title>
