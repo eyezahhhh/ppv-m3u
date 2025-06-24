@@ -461,50 +461,6 @@ channel="ppv-8902"
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FJnHZrpb.png@jpg" />
 </programme>
 
-<channel id="ppv-8899">
-<display-name>Boca Juniors vs. Auckland City</display-name>
-</channel>
-<programme
-start="20250624190000 +0000"
-stop="20250624212100 +0000"
-channel="ppv-8899"
->
-<title lang="en">Boca Juniors vs. Auckland City</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FvWTGEZn.png@jpg" />
-</programme>
-
-<channel id="ppv-8900">
-<display-name>Bayern Munich vs. Benfica</display-name>
-</channel>
-<programme
-start="20250624190000 +0000"
-stop="20250624212100 +0000"
-channel="ppv-8900"
->
-<title lang="en">Bayern Munich vs. Benfica</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FHbSeKj4.png@jpg" />
-</programme>
-
 <channel id="ppv-8914">
 <display-name>AEW: Wednesday Night Dynamite</display-name>
 </channel>
