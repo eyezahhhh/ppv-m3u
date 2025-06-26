@@ -65,72 +65,6 @@ channel="ppv-8976"
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FnIc1aD6.png@jpg" />
 </programme>
 
-<channel id="ppv-8975">
-<display-name>Chicago Cubs vs. St. Louis Cardinals</display-name>
-</channel>
-<programme
-start="20250626181500 +0000"
-stop="20250626211500 +0000"
-channel="ppv-8975"
->
-<title lang="en">Chicago Cubs vs. St. Louis Cardinals</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2F2YndTzy.png@jpg" />
-</programme>
-
-<channel id="ppv-8973">
-<display-name>Philadelphia Phillies vs. Houston Astros</display-name>
-</channel>
-<programme
-start="20250626181000 +0000"
-stop="20250626211000 +0000"
-channel="ppv-8973"
->
-<title lang="en">Philadelphia Phillies vs. Houston Astros</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2Frp2ftSr.png@jpg" />
-</programme>
-
-<channel id="ppv-8974">
-<display-name>Tampa Bay Rays vs. Kansas City Royals</display-name>
-</channel>
-<programme
-start="20250626181000 +0000"
-stop="20250626211000 +0000"
-channel="ppv-8974"
->
-<title lang="en">Tampa Bay Rays vs. Kansas City Royals</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2Foo4UQ4B.png@jpg" />
-</programme>
-
 <channel id="ppv-8986">
 <display-name>Mystics at Aces</display-name>
 </channel>
@@ -272,50 +206,6 @@ stop="20250627032100 +0000"
 channel="ppv-8982"
 >
 <title lang="en">Real Madrid vs. RB Salzburg</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FrjCb1gi.png@jpg" />
-</programme>
-
-<channel id="ppv-8979">
-<display-name>Manchester City vs. Juventus</display-name>
-</channel>
-<programme
-start="20250626190000 +0000"
-stop="20250626212100 +0000"
-channel="ppv-8979"
->
-<title lang="en">Manchester City vs. Juventus</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FrjCb1gi.png@jpg" />
-</programme>
-
-<channel id="ppv-8980">
-<display-name>Al Ain vs. Wydad AC</display-name>
-</channel>
-<programme
-start="20250626190000 +0000"
-stop="20250626212100 +0000"
-channel="ppv-8980"
->
-<title lang="en">Al Ain vs. Wydad AC</title>
 <sub-title>Football</sub-title>
 <video>
 <present>yes</present>
