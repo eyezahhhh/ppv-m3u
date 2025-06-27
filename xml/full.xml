@@ -395,6 +395,28 @@ channel="ppv-8984"
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fopen.http.mp.streamamg.com%2Fp%2F3000668%2Fsp%2F300066800%2Fthumbnail%2Fentry_id%2F0_frxiswur%2Fwidth%2F640@jpg" />
 </programme>
 
+<channel id="ppv-9006">
+<display-name>PDC: ADA Tour Weekend 1 - Event 1 (Test)</display-name>
+</channel>
+<programme
+start="20250627080000 +0000"
+stop="20250627235900 +0000"
+channel="ppv-9006"
+>
+<title lang="en">PDC: ADA Tour Weekend 1 - Event 1 (Test)</title>
+<sub-title>Darts</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Darts</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fopen.http.mp.streamamg.com%2Fp%2F3000668%2Fsp%2F300066800%2Fthumbnail%2Fentry_id%2F0_qvfn5gff%2Fwidth%2F640@jpg" />
+</programme>
+
 <channel id="ppv-8945">
 <display-name>F1: Austrian Grand Prix (Qualifying)</display-name>
 </channel>
