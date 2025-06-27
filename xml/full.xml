@@ -21,28 +21,6 @@ channel="ppv-8986"
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fwnba%2Flatest%2Fced%2Fwas-lva%2F1280x720.png@jpg" />
 </programme>
 
-<channel id="ppv-8954">
-<display-name>2025 NBA Draft</display-name>
-</channel>
-<programme
-start="20250627000000 +0000"
-stop="20250627030000 +0000"
-channel="ppv-8954"
->
-<title lang="en">2025 NBA Draft</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FHBxVtYV.png@jpg" />
-</programme>
-
 <channel id="ppv-8983">
 <display-name>PDC: ADA Tour Weekend 1 - Day 1</display-name>
 </channel>
@@ -85,50 +63,6 @@ channel="ppv-8984"
 </audio>
 <category>Darts</category>
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fopen.http.mp.streamamg.com%2Fp%2F3000668%2Fsp%2F300066800%2Fthumbnail%2Fentry_id%2F0_frxiswur%2Fwidth%2F640@jpg" />
-</programme>
-
-<channel id="ppv-8981">
-<display-name>Pachuca vs. Al Hilal</display-name>
-</channel>
-<programme
-start="20250627010000 +0000"
-stop="20250627032100 +0000"
-channel="ppv-8981"
->
-<title lang="en">Pachuca vs. Al Hilal</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FrjCb1gi.png@jpg" />
-</programme>
-
-<channel id="ppv-8982">
-<display-name>Real Madrid vs. RB Salzburg</display-name>
-</channel>
-<programme
-start="20250627010000 +0000"
-stop="20250627032100 +0000"
-channel="ppv-8982"
->
-<title lang="en">Real Madrid vs. RB Salzburg</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FrjCb1gi.png@jpg" />
 </programme>
 
 <channel id="ppv-8945">
@@ -261,28 +195,6 @@ channel="ppv-8916"
 </audio>
 <category>Wrestling</category>
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FRqupbgS.png@jpg" />
-</programme>
-
-<channel id="ppv-8915">
-<display-name>TNA: Impact</display-name>
-</channel>
-<programme
-start="20250627000000 +0000"
-stop="20250627030000 +0000"
-channel="ppv-8915"
->
-<title lang="en">TNA: Impact</title>
-<sub-title>Wrestling</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Wrestling</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FFpS5gVp.png@jpg" />
 </programme>
 
 <channel id="ppv-3716">
