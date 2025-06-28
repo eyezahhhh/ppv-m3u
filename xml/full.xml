@@ -43,6 +43,50 @@ channel="ppv-9012"
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FqXua1XK.png@jpg" />
 </programme>
 
+<channel id="ppv-9021">
+<display-name>OKTAGON 73: Eckerlin vs. Pukač (Deutsch)</display-name>
+</channel>
+<programme
+start="20250628160000 +0000"
+stop="20250628230000 +0000"
+channel="ppv-9021"
+>
+<title lang="en">OKTAGON 73: Eckerlin vs. Pukač (Deutsch)</title>
+<sub-title>Combat Sports</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Combat Sports</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FAR4GyWP.jpeg@jpg" />
+</programme>
+
+<channel id="ppv-9022">
+<display-name>OKTAGON 73: Eckerlin vs. Pukač (English)</display-name>
+</channel>
+<programme
+start="20250628160000 +0000"
+stop="20250628230000 +0000"
+channel="ppv-9022"
+>
+<title lang="en">OKTAGON 73: Eckerlin vs. Pukač (English)</title>
+<sub-title>Combat Sports</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Combat Sports</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FAR4GyWP.jpeg@jpg" />
+</programme>
+
 <channel id="ppv-9015">
 <display-name>PDC: Bet365 US Darts Masters - Day Two</display-name>
 </channel>
@@ -153,6 +197,28 @@ channel="ppv-8946"
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FSonokuE.jpeg@jpg" />
 </programme>
 
+<channel id="ppv-9019">
+<display-name>Pro Motocross: Southwick</display-name>
+</channel>
+<programme
+start="20250628170000 +0000"
+stop="20250628210000 +0000"
+channel="ppv-9019"
+>
+<title lang="en">Pro Motocross: Southwick</title>
+<sub-title>Motorsports</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Motorsports</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FpYrYq5z.png@jpg" />
+</programme>
+
 <channel id="ppv-8945">
 <display-name>F1: Austrian Grand Prix (Qualifying)</display-name>
 </channel>
@@ -175,15 +241,15 @@ channel="ppv-8945"
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FSonokuE.jpeg@jpg" />
 </programme>
 
-<channel id="ppv-8944">
-<display-name>F1: Austrian Grand Prix (Practice 3)</display-name>
+<channel id="ppv-9018">
+<display-name>Pro Motocross: Southwick (Qualifying)</display-name>
 </channel>
 <programme
-start="20250628103000 +0000"
-stop="20250628123000 +0000"
-channel="ppv-8944"
+start="20250628140000 +0000"
+stop="20250628150000 +0000"
+channel="ppv-9018"
 >
-<title lang="en">F1: Austrian Grand Prix (Practice 3)</title>
+<title lang="en">Pro Motocross: Southwick (Qualifying)</title>
 <sub-title>Motorsports</sub-title>
 <video>
 <present>yes</present>
@@ -194,7 +260,7 @@ channel="ppv-8944"
 <stereo>stereo</stereo>
 </audio>
 <category>Motorsports</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FSonokuE.jpeg@jpg" />
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FpYrYq5z.png@jpg" />
 </programme>
 
 <channel id="ppv-8917">
@@ -217,6 +283,28 @@ channel="ppv-8917"
 </audio>
 <category>Wrestling</category>
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2Fx3OPAo3.jpeg@jpg" />
+</programme>
+
+<channel id="ppv-9020">
+<display-name>WWE: Night of Champions 2025</display-name>
+</channel>
+<programme
+start="20250628170000 +0000"
+stop="20250628220000 +0000"
+channel="ppv-9020"
+>
+<title lang="en">WWE: Night of Champions 2025</title>
+<sub-title>Wrestling</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Wrestling</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FDTNGOo0.png@jpg" />
 </programme>
 
 <channel id="ppv-3716">
