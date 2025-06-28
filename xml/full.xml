@@ -109,28 +109,6 @@ channel="ppv-8988"
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fopen.http.mp.streamamg.com%2Fp%2F3000668%2Fsp%2F300066800%2Fthumbnail%2Fentry_id%2F0_8jdk3m14%2Fwidth%2F640@jpg" />
 </programme>
 
-<channel id="ppv-8987">
-<display-name>PDC: Bet365 US Darts Masters - Day One</display-name>
-</channel>
-<programme
-start="20250627230000 +0000"
-stop="20250628060000 +0000"
-channel="ppv-8987"
->
-<title lang="en">PDC: Bet365 US Darts Masters - Day One</title>
-<sub-title>Darts</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Darts</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fopen.http.mp.streamamg.com%2Fp%2F3000668%2Fsp%2F300066800%2Fthumbnail%2Fentry_id%2F0_efufd0zb%2Fwidth%2F640@jpg" />
-</programme>
-
 <channel id="ppv-8946">
 <display-name>F1: Austrian Grand Prix (Race)</display-name>
 </channel>
