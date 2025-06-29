@@ -175,28 +175,6 @@ channel="ppv-9074"
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FEb0YMYi.png@jpg" />
 </programme>
 
-<channel id="ppv-9070">
-<display-name>San Diego Padres vs. Cincinnati Reds</display-name>
-</channel>
-<programme
-start="20250629174000 +0000"
-stop="20250629204000 +0000"
-channel="ppv-9070"
->
-<title lang="en">San Diego Padres vs. Cincinnati Reds</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2F12wl3on.png@jpg" />
-</programme>
-
 <channel id="ppv-9085">
 <display-name>Storm at Valkyries</display-name>
 </channel>
