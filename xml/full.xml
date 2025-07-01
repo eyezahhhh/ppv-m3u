@@ -307,28 +307,6 @@ channel="ppv-9105"
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FEzbG8Gu.png@jpg" />
 </programme>
 
-<channel id="ppv-9104">
-<display-name>New York Yankees vs. Toronto Blue Jays</display-name>
-</channel>
-<programme
-start="20250701190700 +0000"
-stop="20250701220700 +0000"
-channel="ppv-9104"
->
-<title lang="en">New York Yankees vs. Toronto Blue Jays</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FuuIoKUL.png@jpg" />
-</programme>
-
 <channel id="ppv-9119">
 <display-name>Fever at Lynx (Championship)</display-name>
 </channel>
