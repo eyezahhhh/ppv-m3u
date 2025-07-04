@@ -65,6 +65,50 @@ channel="ppv-9139"
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fopen.http.mp.streamamg.com%2Fp%2F3000668%2Fsp%2F300066800%2Fthumbnail%2Fentry_id%2F0_7wkagjea%2Fwidth%2F640@jpg" />
 </programme>
 
+<channel id="ppv-9163">
+<display-name>Palmeiras vs Chelsea FC</display-name>
+</channel>
+<programme
+start="20250705010000 +0000"
+stop="20250705050000 +0000"
+channel="ppv-9163"
+>
+<title lang="en">Palmeiras vs Chelsea FC</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FTDsmXlQ.jpeg@jpg" />
+</programme>
+
+<channel id="ppv-9162">
+<display-name>Fluminense FC vs Al Hilal</display-name>
+</channel>
+<programme
+start="20250704190000 +0000"
+stop="20250704230000 +0000"
+channel="ppv-9162"
+>
+<title lang="en">Fluminense FC vs Al Hilal</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FeVK1FGv.jpeg@jpg" />
+</programme>
+
 <channel id="ppv-9158">
 <display-name>F1: British Grand Prix (Qualifying)</display-name>
 </channel>
