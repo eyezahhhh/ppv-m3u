@@ -197,50 +197,6 @@ channel="ppv-9192"
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FyzDjPVt.png@jpg" />
 </programme>
 
-<channel id="ppv-9188">
-<display-name>Boston Red Sox vs. Washington Nationals</display-name>
-</channel>
-<programme
-start="20250705200500 +0000"
-stop="20250705230500 +0000"
-channel="ppv-9188"
->
-<title lang="en">Boston Red Sox vs. Washington Nationals</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FcsWKUJO.png@jpg" />
-</programme>
-
-<channel id="ppv-9189">
-<display-name>Cincinnati Reds vs. Philadelphia Phillies</display-name>
-</channel>
-<programme
-start="20250705200500 +0000"
-stop="20250705230500 +0000"
-channel="ppv-9189"
->
-<title lang="en">Cincinnati Reds vs. Philadelphia Phillies</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2Fx6z4wEZ.png@jpg" />
-</programme>
-
 <channel id="ppv-9207">
 <display-name>76ers at Jazz</display-name>
 </channel>
@@ -415,28 +371,6 @@ channel="ppv-9179"
 </audio>
 <category>Darts</category>
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fopen.http.mp.streamamg.com%2Fp%2F3000668%2Fsp%2F300066800%2Fthumbnail%2Fentry_id%2F0_7a4266fw%2Fwidth%2F640@jpg" />
-</programme>
-
-<channel id="ppv-9161">
-<display-name>PDC: Superbet Poland Darts Masters - Day Two</display-name>
-</channel>
-<programme
-start="20250705170000 +0000"
-stop="20250705230000 +0000"
-channel="ppv-9161"
->
-<title lang="en">PDC: Superbet Poland Darts Masters - Day Two</title>
-<sub-title>Darts</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Darts</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fopen.http.mp.streamamg.com%2Fp%2F3000668%2Fsp%2F300066800%2Fthumbnail%2Fentry_id%2F0_g5iw5ae7%2Fwidth%2F640@jpg" />
 </programme>
 
 <channel id="ppv-9184">
