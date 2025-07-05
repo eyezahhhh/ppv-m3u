@@ -263,50 +263,6 @@ channel="ppv-9187"
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FVdgfAI6.png@jpg" />
 </programme>
 
-<channel id="ppv-9186">
-<display-name>St. Louis Cardinals vs. Chicago Cubs</display-name>
-</channel>
-<programme
-start="20250705182000 +0000"
-stop="20250705212000 +0000"
-channel="ppv-9186"
->
-<title lang="en">St. Louis Cardinals vs. Chicago Cubs</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FwhdoB9e.png@jpg" />
-</programme>
-
-<channel id="ppv-9185">
-<display-name>Tampa Bay Rays vs. Minnesota Twins</display-name>
-</channel>
-<programme
-start="20250705181000 +0000"
-stop="20250705211000 +0000"
-channel="ppv-9185"
->
-<title lang="en">Tampa Bay Rays vs. Minnesota Twins</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FafL6HZ3.png@jpg" />
-</programme>
-
 <channel id="ppv-9207">
 <display-name>76ers at Jazz</display-name>
 </channel>
