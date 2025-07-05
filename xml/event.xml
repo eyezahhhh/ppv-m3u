@@ -307,6 +307,50 @@ channel="ppv-9185"
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FafL6HZ3.png@jpg" />
 </programme>
 
+<channel id="ppv-9200">
+<display-name>Valkyries at Lynx</display-name>
+</channel>
+<programme
+start="20250706000000 +0000"
+stop="20250706024500 +0000"
+channel="ppv-9200"
+>
+<title lang="en">Valkyries at Lynx</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fwnba%2Flatest%2Fced%2Fgsv-min%2F1280x720.png@jpg" />
+</programme>
+
+<channel id="ppv-9199">
+<display-name>Sparks at Fever</display-name>
+</channel>
+<programme
+start="20250705230000 +0000"
+stop="20250706014500 +0000"
+channel="ppv-9199"
+>
+<title lang="en">Sparks at Fever</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fwnba%2Flatest%2Fced%2Flas-ind%2F1280x720.png@jpg" />
+</programme>
+
 <channel id="ppv-9179">
 <display-name>PDC: Asian Tour 19-20 (Singapore)</display-name>
 </channel>
