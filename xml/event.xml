@@ -460,48 +460,4 @@ channel="ppv-9231"
 <category>Football</category>
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fwww.concacaf.com%2Fmedia%2Flf0lmatl%2Fimagem-2.png%3Fwidth%3D1000@jpg" />
 </programme>
-
-<channel id="ppv-9159">
-<display-name>F1: British Grand Prix (Race, Sky Sports Feed)</display-name>
-</channel>
-<programme
-start="20250706140000 +0000"
-stop="20250706180000 +0000"
-channel="ppv-9159"
->
-<title lang="en">F1: British Grand Prix (Race, Sky Sports Feed)</title>
-<sub-title>Motorsports</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Motorsports</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FRM7soH3.jpeg@jpg" />
-</programme>
-
-<channel id="ppv-9213">
-<display-name>F1: British Grand Prix (Race, F1TV Feed)</display-name>
-</channel>
-<programme
-start="20250706140000 +0000"
-stop="20250706180000 +0000"
-channel="ppv-9213"
->
-<title lang="en">F1: British Grand Prix (Race, F1TV Feed)</title>
-<sub-title>Motorsports</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Motorsports</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FRM7soH3.jpeg@jpg" />
-</programme>
 </tv>
