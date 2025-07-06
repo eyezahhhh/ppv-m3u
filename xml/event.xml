@@ -329,13 +329,13 @@ channel="ppv-9236"
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fwnba%2Flatest%2Fced%2Fchi-min%2F1280x720.png@jpg" />
 </programme>
 
-<channel id="ppv-9234">
+<channel id="ppv-9242">
 <display-name>Spurs at Warriors</display-name>
 </channel>
 <programme
 start="20250706223000 +0000"
 stop="20250707011500 +0000"
-channel="ppv-9234"
+channel="ppv-9242"
 >
 <title lang="en">Spurs at Warriors</title>
 <sub-title>Basketball</sub-title>
@@ -351,13 +351,13 @@ channel="ppv-9234"
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fnba%2Flatest%2Fced%2Fsas-gsw%2F1280x720.png@jpg" />
 </programme>
 
-<channel id="ppv-9232">
+<channel id="ppv-9241">
 <display-name>Lakers at Heat</display-name>
 </channel>
 <programme
 start="20250706203000 +0000"
 stop="20250706231500 +0000"
-channel="ppv-9232"
+channel="ppv-9241"
 >
 <title lang="en">Lakers at Heat</title>
 <sub-title>Basketball</sub-title>
