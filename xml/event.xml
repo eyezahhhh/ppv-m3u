@@ -307,13 +307,13 @@ channel="ppv-9214"
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2Fx0Igomw.png@jpg" />
 </programme>
 
-<channel id="ppv-9179">
+<channel id="ppv-9228">
 <display-name>PDC: Asian Tour 19-20 (Singapore)</display-name>
 </channel>
 <programme
 start="20250706020000 +0000"
 stop="20250706130000 +0000"
-channel="ppv-9179"
+channel="ppv-9228"
 >
 <title lang="en">PDC: Asian Tour 19-20 (Singapore)</title>
 <sub-title>Darts</sub-title>
@@ -352,14 +352,14 @@ channel="ppv-9208"
 </programme>
 
 <channel id="ppv-9159">
-<display-name>F1: British Grand Prix (Race)</display-name>
+<display-name>F1: British Grand Prix (Race, Sky Sports Feed)</display-name>
 </channel>
 <programme
 start="20250706140000 +0000"
 stop="20250706180000 +0000"
 channel="ppv-9159"
 >
-<title lang="en">F1: British Grand Prix (Race)</title>
+<title lang="en">F1: British Grand Prix (Race, Sky Sports Feed)</title>
 <sub-title>Motorsports</sub-title>
 <video>
 <present>yes</present>
