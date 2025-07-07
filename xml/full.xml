@@ -1,4 +1,92 @@
 <tv>
+<channel id="ppv-9255">
+<display-name>Wings at Mercury</display-name>
+</channel>
+<programme
+start="20250708020000 +0000"
+stop="20250708044500 +0000"
+channel="ppv-9255"
+>
+<title lang="en">Wings at Mercury</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fwnba%2Flatest%2Fced%2Fdal-phx%2F1280x720.png@jpg" />
+</programme>
+
+<channel id="ppv-9254">
+<display-name>Grizzlies at Jazz</display-name>
+</channel>
+<programme
+start="20250708010000 +0000"
+stop="20250708034500 +0000"
+channel="ppv-9254"
+>
+<title lang="en">Grizzlies at Jazz</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fnba%2Flatest%2Fced%2Fmem-uta%2F1280x720.png@jpg" />
+</programme>
+
+<channel id="ppv-9252">
+<display-name>Valkyries at Dream</display-name>
+</channel>
+<programme
+start="20250707233000 +0000"
+stop="20250708021500 +0000"
+channel="ppv-9252"
+>
+<title lang="en">Valkyries at Dream</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fwnba%2Flatest%2Fced%2Fgsv-atl%2F1280x720.png@jpg" />
+</programme>
+
+<channel id="ppv-9253">
+<display-name>Thunder at 76ers</display-name>
+</channel>
+<programme
+start="20250707230000 +0000"
+stop="20250708014500 +0000"
+channel="ppv-9253"
+>
+<title lang="en">Thunder at 76ers</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fnba%2Flatest%2Fced%2Fokc-phi%2F1280x720.png@jpg" />
+</programme>
+
 <channel id="ppv-9248">
 <display-name>PDC: Players Championship 20 - Board 1</display-name>
 </channel>
