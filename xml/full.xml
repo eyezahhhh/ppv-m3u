@@ -21,16 +21,16 @@ channel="ppv-9227"
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2F5OJ9PHc.png@jpg" />
 </programme>
 
-<channel id="ppv-9226">
-<display-name>Texas Rangers vs. San Diego Padres</display-name>
+<channel id="ppv-9248">
+<display-name>PDC: Players Championship 20 - Board 1</display-name>
 </channel>
 <programme
-start="20250707011000 +0000"
-stop="20250707041000 +0000"
-channel="ppv-9226"
+start="20250708120000 +0000"
+stop="20250708235900 +0000"
+channel="ppv-9248"
 >
-<title lang="en">Texas Rangers vs. San Diego Padres</title>
-<sub-title>Baseball</sub-title>
+<title lang="en">PDC: Players Championship 20 - Board 1</title>
+<sub-title>Darts</sub-title>
 <video>
 <present>yes</present>
 <colour>yes</colour>
@@ -39,8 +39,96 @@ channel="ppv-9226"
 <present>yes</present>
 <stereo>stereo</stereo>
 </audio>
-<category>Baseball</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2Fw7ChE4Z.png@jpg" />
+<category>Darts</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fopen.http.mp.streamamg.com%2Fp%2F3000668%2Fsp%2F300066800%2Fthumbnail%2Fentry_id%2F0_5holi9x8%2Fwidth%2F640@jpg" />
+</programme>
+
+<channel id="ppv-9249">
+<display-name>PDC: Players Championship 20 - Board 2</display-name>
+</channel>
+<programme
+start="20250708120000 +0000"
+stop="20250708235900 +0000"
+channel="ppv-9249"
+>
+<title lang="en">PDC: Players Championship 20 - Board 2</title>
+<sub-title>Darts</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Darts</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fopen.http.mp.streamamg.com%2Fp%2F3000668%2Fsp%2F300066800%2Fthumbnail%2Fentry_id%2F0_ng8nk5jo%2Fwidth%2F640@jpg" />
+</programme>
+
+<channel id="ppv-9250">
+<display-name>PDC: Players Championship 20 - Board 3</display-name>
+</channel>
+<programme
+start="20250708120000 +0000"
+stop="20250708235900 +0000"
+channel="ppv-9250"
+>
+<title lang="en">PDC: Players Championship 20 - Board 3</title>
+<sub-title>Darts</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Darts</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fopen.http.mp.streamamg.com%2Fp%2F3000668%2Fsp%2F300066800%2Fthumbnail%2Fentry_id%2F0_199a0089%2Fwidth%2F640@jpg" />
+</programme>
+
+<channel id="ppv-9251">
+<display-name>PDC: Players Championship 20 - Board 4</display-name>
+</channel>
+<programme
+start="20250708120000 +0000"
+stop="20250708235900 +0000"
+channel="ppv-9251"
+>
+<title lang="en">PDC: Players Championship 20 - Board 4</title>
+<sub-title>Darts</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Darts</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fopen.http.mp.streamamg.com%2Fp%2F3000668%2Fsp%2F300066800%2Fthumbnail%2Fentry_id%2F0_d9d2tdop%2Fwidth%2F640@jpg" />
+</programme>
+
+<channel id="ppv-9244">
+<display-name>Chelsea vs. Fluminense</display-name>
+</channel>
+<programme
+start="20250708190000 +0000"
+stop="20250708212100 +0000"
+channel="ppv-9244"
+>
+<title lang="en">Chelsea vs. Fluminense</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FrjCb1gi.png@jpg" />
 </programme>
 
 <channel id="ppv-3716">
