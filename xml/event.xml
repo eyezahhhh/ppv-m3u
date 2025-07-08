@@ -329,6 +329,138 @@ channel="ppv-9278"
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FG7UmkTj.png@jpg" />
 </programme>
 
+<channel id="ppv-9298">
+<display-name>Lakers at Spurs</display-name>
+</channel>
+<programme
+start="20250709020000 +0000"
+stop="20250709044500 +0000"
+channel="ppv-9298"
+>
+<title lang="en">Lakers at Spurs</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fnba%2Flatest%2Fced%2Flal-sas%2F1280x720.png@jpg" />
+</programme>
+
+<channel id="ppv-9296">
+<display-name>Thunder at Jazz</display-name>
+</channel>
+<programme
+start="20250709010000 +0000"
+stop="20250709034500 +0000"
+channel="ppv-9296"
+>
+<title lang="en">Thunder at Jazz</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fnba%2Flatest%2Fced%2Fokc-uta%2F1280x720.png@jpg" />
+</programme>
+
+<channel id="ppv-9294">
+<display-name>Aces at Liberty</display-name>
+</channel>
+<programme
+start="20250709000000 +0000"
+stop="20250709024500 +0000"
+channel="ppv-9294"
+>
+<title lang="en">Aces at Liberty</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fwnba%2Flatest%2Fced%2Flva-nyl%2F1280x720.png@jpg" />
+</programme>
+
+<channel id="ppv-9295">
+<display-name>Grizzlies at 76ers</display-name>
+</channel>
+<programme
+start="20250708230000 +0000"
+stop="20250709014500 +0000"
+channel="ppv-9295"
+>
+<title lang="en">Grizzlies at 76ers</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fnba%2Flatest%2Fced%2Fmem-phi%2F1280x720.png@jpg" />
+</programme>
+
+<channel id="ppv-9297">
+<display-name>Heat at Warriors</display-name>
+</channel>
+<programme
+start="20250708230000 +0000"
+stop="20250709014500 +0000"
+channel="ppv-9297"
+>
+<title lang="en">Heat at Warriors</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fnba%2Flatest%2Fced%2Fmia-gsw%2F1280x720.png@jpg" />
+</programme>
+
+<channel id="ppv-9293">
+<display-name>Sky at Mystics</display-name>
+</channel>
+<programme
+start="20250708153000 +0000"
+stop="20250708181500 +0000"
+channel="ppv-9293"
+>
+<title lang="en">Sky at Mystics</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fwnba%2Flatest%2Fced%2Fchi-was%2F1280x720.png@jpg" />
+</programme>
+
 <channel id="ppv-9274">
 <display-name>PDC: Players Championship 21 - Board 4</display-name>
 </channel>
