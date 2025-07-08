@@ -87,6 +87,94 @@ channel="ppv-9255"
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fwnba%2Flatest%2Fced%2Fdal-phx%2F1280x720.png@jpg" />
 </programme>
 
+<channel id="ppv-9274">
+<display-name>PDC: Players Championship 21 - Board 4</display-name>
+</channel>
+<programme
+start="20250709120000 +0000"
+stop="20250709235900 +0000"
+channel="ppv-9274"
+>
+<title lang="en">PDC: Players Championship 21 - Board 4</title>
+<sub-title>Darts</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Darts</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fopen.http.mp.streamamg.com%2Fp%2F3000668%2Fsp%2F300066800%2Fthumbnail%2Fentry_id%2F0_y1f5gbya%2Fwidth%2F640@jpg" />
+</programme>
+
+<channel id="ppv-9275">
+<display-name>PDC: Players Championship 21 - Board 2</display-name>
+</channel>
+<programme
+start="20250709120000 +0000"
+stop="20250709235900 +0000"
+channel="ppv-9275"
+>
+<title lang="en">PDC: Players Championship 21 - Board 2</title>
+<sub-title>Darts</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Darts</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fopen.http.mp.streamamg.com%2Fp%2F3000668%2Fsp%2F300066800%2Fthumbnail%2Fentry_id%2F0_gol8896w%2Fwidth%2F640@jpg" />
+</programme>
+
+<channel id="ppv-9276">
+<display-name>PDC: Players Championship 21 - Board 1</display-name>
+</channel>
+<programme
+start="20250709120000 +0000"
+stop="20250709235900 +0000"
+channel="ppv-9276"
+>
+<title lang="en">PDC: Players Championship 21 - Board 1</title>
+<sub-title>Darts</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Darts</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fopen.http.mp.streamamg.com%2Fp%2F3000668%2Fsp%2F300066800%2Fthumbnail%2Fentry_id%2F0_ge81tt9v%2Fwidth%2F640@jpg" />
+</programme>
+
+<channel id="ppv-9277">
+<display-name>PDC: Players Championship 21 - Board 3</display-name>
+</channel>
+<programme
+start="20250709120000 +0000"
+stop="20250709235900 +0000"
+channel="ppv-9277"
+>
+<title lang="en">PDC: Players Championship 21 - Board 3</title>
+<sub-title>Darts</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Darts</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fopen.http.mp.streamamg.com%2Fp%2F3000668%2Fsp%2F300066800%2Fthumbnail%2Fentry_id%2F0_qps4qiud%2Fwidth%2F640@jpg" />
+</programme>
+
 <channel id="ppv-9248">
 <display-name>PDC: Players Championship 20 - Board 1</display-name>
 </channel>
