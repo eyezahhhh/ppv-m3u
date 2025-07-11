@@ -1,4 +1,136 @@
 <tv>
+<channel id="ppv-9340">
+<display-name>PDC: Boomerang Tours Bash 2025 - Board 3</display-name>
+</channel>
+<programme
+start="20250712170000 +0000"
+stop="20250712230000 +0000"
+channel="ppv-9340"
+>
+<title lang="en">PDC: Boomerang Tours Bash 2025 - Board 3</title>
+<sub-title>Darts</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Darts</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fopen.http.mp.streamamg.com%2Fp%2F3000668%2Fsp%2F300066800%2Fthumbnail%2Fentry_id%2F0_em9244vh%2Fwidth%2F640@jpg" />
+</programme>
+
+<channel id="ppv-9341">
+<display-name>PDC: Boomerang Tours Bash 2025 - Board 4</display-name>
+</channel>
+<programme
+start="20250712170000 +0000"
+stop="20250712230000 +0000"
+channel="ppv-9341"
+>
+<title lang="en">PDC: Boomerang Tours Bash 2025 - Board 4</title>
+<sub-title>Darts</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Darts</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fopen.http.mp.streamamg.com%2Fp%2F3000668%2Fsp%2F300066800%2Fthumbnail%2Fentry_id%2F0_0v3sv86g%2Fwidth%2F640@jpg" />
+</programme>
+
+<channel id="ppv-9342">
+<display-name>PDC: Boomerang Tours Bash 2025 - Board 2</display-name>
+</channel>
+<programme
+start="20250712170000 +0000"
+stop="20250712230000 +0000"
+channel="ppv-9342"
+>
+<title lang="en">PDC: Boomerang Tours Bash 2025 - Board 2</title>
+<sub-title>Darts</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Darts</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fopen.http.mp.streamamg.com%2Fp%2F3000668%2Fsp%2F300066800%2Fthumbnail%2Fentry_id%2F0_ez6dc2mm%2Fwidth%2F640@jpg" />
+</programme>
+
+<channel id="ppv-9343">
+<display-name>PDC: Boomerang Tours Bash 2025</display-name>
+</channel>
+<programme
+start="20250712170000 +0000"
+stop="20250712230000 +0000"
+channel="ppv-9343"
+>
+<title lang="en">PDC: Boomerang Tours Bash 2025</title>
+<sub-title>Darts</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Darts</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fopen.http.mp.streamamg.com%2Fp%2F3000668%2Fsp%2F300066800%2Fthumbnail%2Fentry_id%2F0_4e9ptdg5%2Fwidth%2F640@jpg" />
+</programme>
+
+<channel id="ppv-9344">
+<display-name>PDC: Boomerang Tours Bash 2025 - Board 5</display-name>
+</channel>
+<programme
+start="20250712170000 +0000"
+stop="20250712230000 +0000"
+channel="ppv-9344"
+>
+<title lang="en">PDC: Boomerang Tours Bash 2025 - Board 5</title>
+<sub-title>Darts</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Darts</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fopen.http.mp.streamamg.com%2Fp%2F3000668%2Fsp%2F300066800%2Fthumbnail%2Fentry_id%2F0_d2f6dx2o%2Fwidth%2F640@jpg" />
+</programme>
+
+<channel id="ppv-9339">
+<display-name>PDC: 2025 Baltic Sea Darts Open - Day Two</display-name>
+</channel>
+<programme
+start="20250712120000 +0000"
+stop="20250712235900 +0000"
+channel="ppv-9339"
+>
+<title lang="en">PDC: 2025 Baltic Sea Darts Open - Day Two</title>
+<sub-title>Darts</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Darts</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fopen.http.mp.streamamg.com%2Fp%2F3000668%2Fsp%2F300066800%2Fthumbnail%2Fentry_id%2F0_dx6xbfab%2Fwidth%2F640@jpg" />
+</programme>
+
 <channel id="ppv-9309">
 <display-name>PDC: 2025 Baltic Sea Darts Open - Day One</display-name>
 </channel>
@@ -110,14 +242,14 @@ channel="ppv-5191"
 </programme>
 
 <channel id="ppv-8008">
-<display-name>24/7 Family​​‌​‌​​​​‌​‌​‌‌​​‌​‌​​​​‌​‌‌​​‌‌ Guy</display-name>
+<display-name>24/7 Family‌​‌​‌‌​​‌​‌‌‌‌‌​​​‌​​‌‌​​‌‌​​​​​ Guy</display-name>
 </channel>
 <programme
 start="20250118080000 +0000"
 stop="20250118090000 +0000"
 channel="ppv-8008"
 >
-<title lang="en">24/7 Family​​‌​‌​​​​‌​‌​‌‌​​‌​‌​​​​‌​‌‌​​‌‌ Guy</title>
+<title lang="en">24/7 Family‌​‌​‌‌​​‌​‌‌‌‌‌​​​‌​​‌‌​​‌‌​​​​​ Guy</title>
 <sub-title>24/7 Streams</sub-title>
 <video>
 <present>yes</present>
