@@ -19,6 +19,8 @@
 
 #EXTINF:-1 tvg-id="ppv-9385" tvg-name="Lynx at Sky (12 July 2025 at 17:00)" tvg-epgid="9385" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fwnba%2Flatest%2Fced%2Fmin-chi%2F1280x720.png@jpg",Lynx at Sky (12 July 2025 at 17:00)
 
+#EXTINF:-1 tvg-id="ppv-9399" tvg-name="Boxing: Berlanga vs Sheeraz (12 July 2025 at 22:00)" tvg-epgid="9399" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2Fb1yHsId.png@jpg",Boxing: Berlanga vs Sheeraz (12 July 2025 at 22:00)
+
 #EXTINF:-1 tvg-id="ppv-9380" tvg-name="PDC: The DartConnect Challenge 2025 - Board 5 (13 July 2025 at 16:00)" tvg-epgid="9380" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fopen.http.mp.streamamg.com%2Fp%2F3000668%2Fsp%2F300066800%2Fthumbnail%2Fentry_id%2F0_c6kleej8%2Fwidth%2F640@jpg",PDC: The DartConnect Challenge 2025 - Board 5 (13 July 2025 at 16:00)
 
 #EXTINF:-1 tvg-id="ppv-9381" tvg-name="PDC: The DartConnect Challenge 2025 - Board 4 (13 July 2025 at 16:00)" tvg-epgid="9381" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fopen.http.mp.streamamg.com%2Fp%2F3000668%2Fsp%2F300066800%2Fthumbnail%2Fentry_id%2F0_x8h2o8f2%2Fwidth%2F640@jpg",PDC: The DartConnect Challenge 2025 - Board 4 (13 July 2025 at 16:00)
@@ -47,8 +49,6 @@
 
 #EXTINF:-1 tvg-id="ppv-9342" tvg-name="PDC: Boomerang Tours Bash 2025 - Board 2 (12 July 2025 at 17:00)" tvg-epgid="9342" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fopen.http.mp.streamamg.com%2Fp%2F3000668%2Fsp%2F300066800%2Fthumbnail%2Fentry_id%2F0_ez6dc2mm%2Fwidth%2F640@jpg",PDC: Boomerang Tours Bash 2025 - Board 2 (12 July 2025 at 17:00)
 
-#EXTINF:-1 tvg-id="ppv-9343" tvg-name="PDC: Boomerang Tours Bash 2025 (12 July 2025 at 17:00)" tvg-epgid="9343" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fopen.http.mp.streamamg.com%2Fp%2F3000668%2Fsp%2F300066800%2Fthumbnail%2Fentry_id%2F0_4e9ptdg5%2Fwidth%2F640@jpg",PDC: Boomerang Tours Bash 2025 (12 July 2025 at 17:00)
-
 #EXTINF:-1 tvg-id="ppv-9344" tvg-name="PDC: Boomerang Tours Bash 2025 - Board 5 (12 July 2025 at 17:00)" tvg-epgid="9344" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fopen.http.mp.streamamg.com%2Fp%2F3000668%2Fsp%2F300066800%2Fthumbnail%2Fentry_id%2F0_d2f6dx2o%2Fwidth%2F640@jpg",PDC: Boomerang Tours Bash 2025 - Board 5 (12 July 2025 at 17:00)
 
 #EXTINF:-1 tvg-id="ppv-9345" tvg-name="PDC: Boomerang Tours Bash 2025 - Board 1 (12 July 2025 at 17:00)" tvg-epgid="9345" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fopen.http.mp.streamamg.com%2Fp%2F3000668%2Fsp%2F300066800%2Fthumbnail%2Fentry_id%2F0_4e9ptdg5%2Fwidth%2F640@jpg",PDC: Boomerang Tours Bash 2025 - Board 1 (12 July 2025 at 17:00)
@@ -59,17 +59,17 @@
 
 #EXTINF:-1 tvg-id="ppv-9397" tvg-name="WWE: Saturday Night's Main Event (13 July 2025 at 00:00)" tvg-epgid="9397" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2Fh6hdJJU.jpeg@jpg",WWE: Saturday Night's Main Event (13 July 2025 at 00:00)
 
+#EXTINF:-1 tvg-id="ppv-9396" tvg-name="WWE: Great American Bash 2025 (12 July 2025 at 19:00)" tvg-epgid="9396" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FzQzfrzL.jpeg@jpg",WWE: Great American Bash 2025 (12 July 2025 at 19:00)
+
 #EXTINF:-1 tvg-id="ppv-9398" tvg-name="AEW: All In Texas 2025 (12 July 2025 at 19:00)" tvg-epgid="9398" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FEOp3N33.jpeg@jpg",AEW: All In Texas 2025 (12 July 2025 at 19:00)
 
-#EXTINF:-1 tvg-id="ppv-9396" tvg-name="WWE: Great American Bash 2025 (12 July 2025 at 18:00)" tvg-epgid="9396" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FzQzfrzL.jpeg@jpg",WWE: Great American Bash 2025 (12 July 2025 at 18:00)
-
 #EXTINF:-1 tvg-id="ppv-3716" tvg-name="(North) Korean Central Television" tvg-epgid="3716" tvg-logo="https://i.imgur.com/CnphStu.png",(North) Korean Central Television
-https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1MTM1MGFmMDIzODI3LTk3Y2EtMDZhNC0yNTA3LWY0M2Q4NmE0/master.m3u8?md5=iN4Eec0g7qK_aAqtjTyoyw&expires=1752381545&net=MTcyLjIwMy4xMjQuMTQx
+https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1MTM1MGFmMDIzODI3LTk3Y2EtMDZhNC0yNTA3LWY0M2Q4NmE0/master.m3u8?md5=GkofOWe00gWG6yhx7wATWA&expires=1752383072&net=MTcyLjE3Mi42Ljgy
 #EXTINF:-1 tvg-id="ppv-5191" tvg-name="24/7 The Simpsons" tvg-epgid="5191" tvg-logo="https://thumbs.poocloud.in/thesimpsons/preview.jpg",24/7 The Simpsons
-https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1MGQzNzI5MTE0YjQwLTVmYmEtYmE3NC1kOThlLWY2MmU4NGI4/master.m3u8?md5=iN4Eec0g7qK_aAqtjTyoyw&expires=1752381545&net=MTcyLjIwMy4xMjQuMTQx
-#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family‌​‌​‌‌​​‌‌​​‌​‌‌​‌‌‌‌‌​​‌​​​‌‌​‌ Guy" tvg-epgid="8008" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg",24/7 Family‌​‌​‌‌​​‌‌​​‌​‌‌​‌‌‌‌‌​​‌​​​‌‌​‌ Guy
-https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1YTA5ZTU3MjFhNTI0LWRkZTktZTRlNC1mMzU4LTQwMWI0YjJk/master.m3u8?md5=RUs9KffGPwQEc_I39znugQ&expires=1752381546&net=MTcyLjIwMy4xMjQuMTQx
+https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1MGQzNzI5MTE0YjQwLTVmYmEtYmE3NC1kOThlLWY2MmU4NGI4/master.m3u8?md5=lz1X_Me173PLHNFWD_l4jg&expires=1752383073&net=MTcyLjE3Mi42Ljgy
+#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family‌​‌​‌‌​​‌​‌​‌‌​​​​​​​‌‌​​‌​‌​​‌​ Guy" tvg-epgid="8008" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg",24/7 Family‌​‌​‌‌​​‌​‌​‌‌​​​​​​​‌‌​​‌​‌​​‌​ Guy
+https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1YTA5ZTU3MjFhNTI0LWRkZTktZTRlNC1mMzU4LTQwMWI0YjJk/master.m3u8?md5=lz1X_Me173PLHNFWD_l4jg&expires=1752383073&net=MTcyLjE3Mi42Ljgy
 #EXTINF:-1 tvg-id="ppv-3663" tvg-name="24/7 COWS" tvg-epgid="3663" tvg-logo="https://extension.usu.edu/drought/images/drought-mitigation-cows-thumbnail.png",24/7 COWS
-https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8?md5=RUs9KffGPwQEc_I39znugQ&expires=1752381546&net=MTcyLjIwMy4xMjQuMTQx
+https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8?md5=te49tjodLGlLkocoY9WEAw&expires=1752383074&net=MTcyLjE3Mi42Ljgy
 #EXTINF:-1 tvg-id="ppv-5112" tvg-name="24/7 South Park" tvg-epgid="5112" tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg",24/7 South Park
-https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1ZGEyNDNkZWMyNzFjLWU2OWItNzFlNC00NWU5LTUyODY0MWIz/master.m3u8?md5=RUs9KffGPwQEc_I39znugQ&expires=1752381546&net=MTcyLjIwMy4xMjQuMTQx
+https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1ZGEyNDNkZWMyNzFjLWU2OWItNzFlNC00NWU5LTUyODY0MWIz/master.m3u8?md5=te49tjodLGlLkocoY9WEAw&expires=1752383074&net=MTcyLjE3Mi42Ljgy
