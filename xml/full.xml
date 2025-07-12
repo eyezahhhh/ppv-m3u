@@ -219,116 +219,6 @@ channel="ppv-9366"
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FuuhcAwu.png@jpg" />
 </programme>
 
-<channel id="ppv-9359">
-<display-name>Colorado Rockies vs. Cincinnati Reds</display-name>
-</channel>
-<programme
-start="20250711231000 +0000"
-stop="20250712021000 +0000"
-channel="ppv-9359"
->
-<title lang="en">Colorado Rockies vs. Cincinnati Reds</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2Fd1Q3ine.png@jpg" />
-</programme>
-
-<channel id="ppv-9360">
-<display-name>Seattle Mariners vs. Detroit Tigers</display-name>
-</channel>
-<programme
-start="20250711231000 +0000"
-stop="20250712021000 +0000"
-channel="ppv-9360"
->
-<title lang="en">Seattle Mariners vs. Detroit Tigers</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FmGSDtIi.png@jpg" />
-</programme>
-
-<channel id="ppv-9361">
-<display-name>Tampa Bay Rays vs. Boston Red Sox</display-name>
-</channel>
-<programme
-start="20250711231000 +0000"
-stop="20250712021000 +0000"
-channel="ppv-9361"
->
-<title lang="en">Tampa Bay Rays vs. Boston Red Sox</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FkgfbZOc.png@jpg" />
-</programme>
-
-<channel id="ppv-9357">
-<display-name>Chicago Cubs vs. New York Yankees</display-name>
-</channel>
-<programme
-start="20250711230500 +0000"
-stop="20250712020500 +0000"
-channel="ppv-9357"
->
-<title lang="en">Chicago Cubs vs. New York Yankees</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FdP9nVkF.png@jpg" />
-</programme>
-
-<channel id="ppv-9358">
-<display-name>Miami Marlins vs. Baltimore Orioles</display-name>
-</channel>
-<programme
-start="20250711230500 +0000"
-stop="20250712020500 +0000"
-channel="ppv-9358"
->
-<title lang="en">Miami Marlins vs. Baltimore Orioles</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FLWbY7uV.png@jpg" />
-</programme>
-
 <channel id="ppv-9355">
 <display-name>Trail Blazers at Warriors</display-name>
 </channel>
@@ -437,50 +327,6 @@ channel="ppv-9352"
 </audio>
 <category>Basketball</category>
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fnba%2Flatest%2Fced%2Fchi-tor%2F1280x720.png@jpg" />
-</programme>
-
-<channel id="ppv-9347">
-<display-name>Dream at Fever</display-name>
-</channel>
-<programme
-start="20250711233000 +0000"
-stop="20250712021500 +0000"
-channel="ppv-9347"
->
-<title lang="en">Dream at Fever</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fwnba%2Flatest%2Fced%2Fatl-ind%2F1280x720.png@jpg" />
-</programme>
-
-<channel id="ppv-9351">
-<display-name>Jazz at Hornets</display-name>
-</channel>
-<programme
-start="20250711230000 +0000"
-stop="20250712014500 +0000"
-channel="ppv-9351"
->
-<title lang="en">Jazz at Hornets</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fnba%2Flatest%2Fced%2Futa-cha%2F1280x720.png@jpg" />
 </programme>
 
 <channel id="ppv-9372">
@@ -726,14 +572,14 @@ channel="ppv-5191"
 </programme>
 
 <channel id="ppv-8008">
-<display-name>24/7 Family​​​‌​‌​​‌​‌​‌​‌‌‌​​​‌​‌‌‌‌​‌‌‌​​ Guy</display-name>
+<display-name>24/7 Family​​​‌​‌​​‌​‌​‌​‌‌​‌‌​‌‌​​​​‌‌‌‌​‌ Guy</display-name>
 </channel>
 <programme
 start="20250118080000 +0000"
 stop="20250118090000 +0000"
 channel="ppv-8008"
 >
-<title lang="en">24/7 Family​​​‌​‌​​‌​‌​‌​‌‌‌​​​‌​‌‌‌‌​‌‌‌​​ Guy</title>
+<title lang="en">24/7 Family​​​‌​‌​​‌​‌​‌​‌‌​‌‌​‌‌​​​​‌‌‌‌​‌ Guy</title>
 <sub-title>24/7 Streams</sub-title>
 <video>
 <present>yes</present>
