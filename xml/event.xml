@@ -483,28 +483,6 @@ channel="ppv-9351"
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fnba%2Flatest%2Fced%2Futa-cha%2F1280x720.png@jpg" />
 </programme>
 
-<channel id="ppv-9350">
-<display-name>Knicks at Pistons</display-name>
-</channel>
-<programme
-start="20250711220000 +0000"
-stop="20250712004500 +0000"
-channel="ppv-9350"
->
-<title lang="en">Knicks at Pistons</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fnba%2Flatest%2Fced%2Fnyk-det%2F1280x720.png@jpg" />
-</programme>
-
 <channel id="ppv-9372">
 <display-name>Katie Taylor vs. Amanda Serrano 3</display-name>
 </channel>
