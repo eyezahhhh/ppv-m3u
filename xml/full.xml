@@ -285,28 +285,6 @@ channel="ppv-9402"
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FxAWBOli.png@jpg" />
 </programme>
 
-<channel id="ppv-9401">
-<display-name>Seattle Mariners vs. Detroit Tigers</display-name>
-</channel>
-<programme
-start="20250712171000 +0000"
-stop="20250712201000 +0000"
-channel="ppv-9401"
->
-<title lang="en">Seattle Mariners vs. Detroit Tigers</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FE7RKRwq.png@jpg" />
-</programme>
-
 <channel id="ppv-9394">
 <display-name>Grizzlies at Trail Blazers</display-name>
 </channel>
@@ -1034,14 +1012,14 @@ channel="ppv-5191"
 </programme>
 
 <channel id="ppv-8008">
-<display-name>24/7 Family​​‌‌​‌​​‌​‌‌​​​‌​​​​‌​‌‌‌​‌‌​​​‌ Guy</display-name>
+<display-name>24/7 Family​​​‌​‌​​‌​‌​​​‌‌​‌‌​​‌‌​‌​‌​‌​​​ Guy</display-name>
 </channel>
 <programme
 start="20250118080000 +0000"
 stop="20250118090000 +0000"
 channel="ppv-8008"
 >
-<title lang="en">24/7 Family​​‌‌​‌​​‌​‌‌​​​‌​​​​‌​‌‌‌​‌‌​​​‌ Guy</title>
+<title lang="en">24/7 Family​​​‌​‌​​‌​‌​​​‌‌​‌‌​​‌‌​‌​‌​‌​​​ Guy</title>
 <sub-title>24/7 Streams</sub-title>
 <video>
 <present>yes</present>
