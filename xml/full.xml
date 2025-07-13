@@ -21,28 +21,6 @@ channel="ppv-9414"
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FoKgxUAM.png@jpg" />
 </programme>
 
-<channel id="ppv-9413">
-<display-name>Arizona Diamondbacks vs. Los Angeles Angels</display-name>
-</channel>
-<programme
-start="20250713013800 +0000"
-stop="20250713043800 +0000"
-channel="ppv-9413"
->
-<title lang="en">Arizona Diamondbacks vs. Los Angeles Angels</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FcE43HvN.png@jpg" />
-</programme>
-
 <channel id="ppv-9394">
 <display-name>Grizzlies at Trail Blazers</display-name>
 </channel>
@@ -440,14 +418,14 @@ channel="ppv-5191"
 </programme>
 
 <channel id="ppv-8008">
-<display-name>24/7 Family‌​‌​‌‌​​‌‌​​‌​‌‌‌​​‌‌​‌‌‌‌‌​‌‌​​ Guy</display-name>
+<display-name>24/7 Family​‌‌​‌​​​​​‌​‌​​​​​‌‌​​‌​​‌​‌‌​​‌ Guy</display-name>
 </channel>
 <programme
 start="20250118080000 +0000"
 stop="20250118090000 +0000"
 channel="ppv-8008"
 >
-<title lang="en">24/7 Family‌​‌​‌‌​​‌‌​​‌​‌‌‌​​‌‌​‌‌‌‌‌​‌‌​​ Guy</title>
+<title lang="en">24/7 Family​‌‌​‌​​​​​‌​‌​​​​​‌‌​​‌​​‌​‌‌​​‌ Guy</title>
 <sub-title>24/7 Streams</sub-title>
 <video>
 <present>yes</present>
