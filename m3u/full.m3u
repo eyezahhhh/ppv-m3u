@@ -15,8 +15,6 @@
 
 #EXTINF:-1 tvg-id="ppv-9461" tvg-name="Hornets at Mavericks (14 July 2025 at 22:30)" tvg-epgid="9461" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fnba%2Flatest%2Fced%2Fcha-dal%2F1280x720.png@jpg",Hornets at Mavericks (14 July 2025 at 22:30)
 
-#EXTINF:-1 tvg-id="ppv-9460" tvg-name="Bulls at Pacers (14 July 2025 at 22:00)" tvg-epgid="9460" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fnba%2Flatest%2Fced%2Fchi-ind%2F1280x720.png@jpg",Bulls at Pacers (14 July 2025 at 22:00)
-
 #EXTINF:-1 tvg-id="ppv-9468" tvg-name="AEW: Wednesday Night Dynamite (17 July 2025 at 00:00)" tvg-epgid="9468" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FGajn72i.jpeg@jpg",AEW: Wednesday Night Dynamite (17 July 2025 at 00:00)
 
 #EXTINF:-1 tvg-id="ppv-9467" tvg-name="WWE: NXT (16 July 2025 at 00:00)" tvg-epgid="9467" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2Fn7tkxQQ.png@jpg",WWE: NXT (16 July 2025 at 00:00)
@@ -24,12 +22,12 @@
 #EXTINF:-1 tvg-id="ppv-9466" tvg-name="WWE: Monday Night RAW (15 July 2025 at 00:00)" tvg-epgid="9466" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FzmuUYCm.png@jpg",WWE: Monday Night RAW (15 July 2025 at 00:00)
 
 #EXTINF:-1 tvg-id="ppv-3716" tvg-name="(North) Korean Central Television" tvg-epgid="3716" tvg-logo="https://i.imgur.com/CnphStu.png",(North) Korean Central Television
-https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1MTM1MGFmMDIzODI3LTk3Y2EtMDZhNC0yNTA3LWY0M2Q4NmE0/master.m3u8?md5=LXiy4A5ar65f7PcEwcKAaw&expires=1752582327&net=MTcyLjE4Mi4yMTMuNjY%3D
+https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1MTM1MGFmMDIzODI3LTk3Y2EtMDZhNC0yNTA3LWY0M2Q4NmE0/master.m3u8?md5=V09zUxwTnoMvQRXP5wKkVw&expires=1752583770&net=NjQuMjM2LjIwMS4xOA%3D%3D
 #EXTINF:-1 tvg-id="ppv-5191" tvg-name="24/7 The Simpsons" tvg-epgid="5191" tvg-logo="https://thumbs.poocloud.in/thesimpsons/preview.jpg",24/7 The Simpsons
-https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1MGQzNzI5MTE0YjQwLTVmYmEtYmE3NC1kOThlLWY2MmU4NGI4/master.m3u8?md5=yMe1mPCoGCjAqUEN7wKgkA&expires=1752582328&net=MTcyLjE4Mi4yMTMuNjY%3D
-#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family‌​‌​‌‌​​‌​‌‌​‌‌​‌‌​‌​‌​‌​‌​​​​‌​ Guy" tvg-epgid="8008" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg",24/7 Family‌​‌​‌‌​​‌​‌‌​‌‌​‌‌​‌​‌​‌​‌​​​​‌​ Guy
-https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1YTA5ZTU3MjFhNTI0LWRkZTktZTRlNC1mMzU4LTQwMWI0YjJk/master.m3u8?md5=yMe1mPCoGCjAqUEN7wKgkA&expires=1752582328&net=MTcyLjE4Mi4yMTMuNjY%3D
+https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1MGQzNzI5MTE0YjQwLTVmYmEtYmE3NC1kOThlLWY2MmU4NGI4/master.m3u8?md5=ocN16IwJ2AyKHfZddQ_OLg&expires=1752583771&net=NjQuMjM2LjIwMS4xOA%3D%3D
+#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family​‌​​​​​​‌‌‌​‌‌​​‌‌​​‌​​‌​​​‌​​‌​ Guy" tvg-epgid="8008" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg",24/7 Family​‌​​​​​​‌‌‌​‌‌​​‌‌​​‌​​‌​​​‌​​‌​ Guy
+https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1YTA5ZTU3MjFhNTI0LWRkZTktZTRlNC1mMzU4LTQwMWI0YjJk/master.m3u8?md5=ocN16IwJ2AyKHfZddQ_OLg&expires=1752583771&net=NjQuMjM2LjIwMS4xOA%3D%3D
 #EXTINF:-1 tvg-id="ppv-3663" tvg-name="24/7 COWS" tvg-epgid="3663" tvg-logo="https://extension.usu.edu/drought/images/drought-mitigation-cows-thumbnail.png",24/7 COWS
-https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8?md5=cpBbGqxPvV46Wwqy68aHSw&expires=1752582329&net=MTcyLjE4Mi4yMTMuNjY%3D
+https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8?md5=LJ7hWzX11VHfPhrvG3-uQQ&expires=1752583772&net=NjQuMjM2LjIwMS4xOA%3D%3D
 #EXTINF:-1 tvg-id="ppv-5112" tvg-name="24/7 South Park" tvg-epgid="5112" tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg",24/7 South Park
-https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1ZGEyNDNkZWMyNzFjLWU2OWItNzFlNC00NWU5LTUyODY0MWIz/master.m3u8?md5=cpBbGqxPvV46Wwqy68aHSw&expires=1752582329&net=MTcyLjE4Mi4yMTMuNjY%3D
+https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1ZGEyNDNkZWMyNzFjLWU2OWItNzFlNC00NWU5LTUyODY0MWIz/master.m3u8?md5=LJ7hWzX11VHfPhrvG3-uQQ&expires=1752583772&net=NjQuMjM2LjIwMS4xOA%3D%3D
