@@ -197,28 +197,6 @@ channel="ppv-9472"
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fnba%2Flatest%2Fced%2Fmin-det%2F1280x720.png@jpg" />
 </programme>
 
-<channel id="ppv-9481">
-<display-name>Accrington Stanley vs Everton</display-name>
-</channel>
-<programme
-start="20250715184500 +0000"
-stop="20250715224500 +0000"
-channel="ppv-9481"
->
-<title lang="en">Accrington Stanley vs Everton</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2F1vHLsuP.png@jpg" />
-</programme>
-
 <channel id="ppv-9468">
 <display-name>AEW: Wednesday Night Dynamite</display-name>
 </channel>
