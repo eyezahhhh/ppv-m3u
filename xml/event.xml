@@ -1,4 +1,268 @@
 <tv>
+<channel id="ppv-9493">
+<display-name>Wizards at Jazz</display-name>
+</channel>
+<programme
+start="20250717020000 +0000"
+stop="20250717044500 +0000"
+channel="ppv-9493"
+>
+<title lang="en">Wizards at Jazz</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fnba%2Flatest%2Fced%2Fwas-uta%2F1280x720.png@jpg" />
+</programme>
+
+<channel id="ppv-9492">
+<display-name>Pelicans at Thunder</display-name>
+</channel>
+<programme
+start="20250717013000 +0000"
+stop="20250717041500 +0000"
+channel="ppv-9492"
+>
+<title lang="en">Pelicans at Thunder</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fnba%2Flatest%2Fced%2Fnop-okc%2F1280x720.png@jpg" />
+</programme>
+
+<channel id="ppv-9486">
+<display-name>Aces at Wings</display-name>
+</channel>
+<programme
+start="20250717000000 +0000"
+stop="20250717024500 +0000"
+channel="ppv-9486"
+>
+<title lang="en">Aces at Wings</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fwnba%2Flatest%2Fced%2Flva-dal%2F1280x720.png@jpg" />
+</programme>
+
+<channel id="ppv-9491">
+<display-name>Mavericks at 76ers</display-name>
+</channel>
+<programme
+start="20250717000000 +0000"
+stop="20250717024500 +0000"
+channel="ppv-9491"
+>
+<title lang="en">Mavericks at 76ers</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fnba%2Flatest%2Fced%2Fdal-phi%2F1280x720.png@jpg" />
+</programme>
+
+<channel id="ppv-9485">
+<display-name>Fever at Liberty</display-name>
+</channel>
+<programme
+start="20250716233000 +0000"
+stop="20250717021500 +0000"
+channel="ppv-9485"
+>
+<title lang="en">Fever at Liberty</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fwnba%2Flatest%2Fced%2Find-nyl%2F1280x720.png@jpg" />
+</programme>
+
+<channel id="ppv-9490">
+<display-name>Magic at Nets</display-name>
+</channel>
+<programme
+start="20250716233000 +0000"
+stop="20250717021500 +0000"
+channel="ppv-9490"
+>
+<title lang="en">Magic at Nets</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fnba%2Flatest%2Fced%2Forl-bkn%2F1280x720.png@jpg" />
+</programme>
+
+<channel id="ppv-9489">
+<display-name>Bucks at Bulls</display-name>
+</channel>
+<programme
+start="20250716213000 +0000"
+stop="20250717001500 +0000"
+channel="ppv-9489"
+>
+<title lang="en">Bucks at Bulls</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fnba%2Flatest%2Fced%2Fmil-chi%2F1280x720.png@jpg" />
+</programme>
+
+<channel id="ppv-9488">
+<display-name>Suns at Timberwolves</display-name>
+</channel>
+<programme
+start="20250716210000 +0000"
+stop="20250716234500 +0000"
+channel="ppv-9488"
+>
+<title lang="en">Suns at Timberwolves</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fnba%2Flatest%2Fced%2Fphx-min%2F1280x720.png@jpg" />
+</programme>
+
+<channel id="ppv-9487">
+<display-name>Kings at Cavaliers</display-name>
+</channel>
+<programme
+start="20250716193000 +0000"
+stop="20250716221500 +0000"
+channel="ppv-9487"
+>
+<title lang="en">Kings at Cavaliers</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fnba%2Flatest%2Fced%2Fsac-cle%2F1280x720.png@jpg" />
+</programme>
+
+<channel id="ppv-9484">
+<display-name>Valkyries at Storm</display-name>
+</channel>
+<programme
+start="20250716190000 +0000"
+stop="20250716214500 +0000"
+channel="ppv-9484"
+>
+<title lang="en">Valkyries at Storm</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fwnba%2Flatest%2Fced%2Fgsv-sea%2F1280x720.png@jpg" />
+</programme>
+
+<channel id="ppv-9483">
+<display-name>Mercury at Lynx</display-name>
+</channel>
+<programme
+start="20250716170000 +0000"
+stop="20250716194500 +0000"
+channel="ppv-9483"
+>
+<title lang="en">Mercury at Lynx</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fwnba%2Flatest%2Fced%2Fphx-min%2F1280x720.png@jpg" />
+</programme>
+
+<channel id="ppv-9482">
+<display-name>Dream at Sky</display-name>
+</channel>
+<programme
+start="20250716160000 +0000"
+stop="20250716184500 +0000"
+channel="ppv-9482"
+>
+<title lang="en">Dream at Sky</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fwnba%2Flatest%2Fced%2Fatl-chi%2F1280x720.png@jpg" />
+</programme>
+
 <channel id="ppv-9469">
 <display-name>TNA: Impact</display-name>
 </channel>
