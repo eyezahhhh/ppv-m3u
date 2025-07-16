@@ -1,26 +1,4 @@
 <tv>
-<channel id="ppv-9456">
-<display-name>American All-Stars vs. National All-Stars</display-name>
-</channel>
-<programme
-start="20250716000000 +0000"
-stop="20250716030000 +0000"
-channel="ppv-9456"
->
-<title lang="en">American All-Stars vs. National All-Stars</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FKpLMVNu.jpeg@jpg" />
-</programme>
-
 <channel id="ppv-9480">
 <display-name>Warriors at Grizzlies</display-name>
 </channel>
@@ -85,72 +63,6 @@ channel="ppv-9479"
 </audio>
 <category>Basketball</category>
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fnba%2Flatest%2Fced%2Fpor-nop%2F1280x720.png@jpg" />
-</programme>
-
-<channel id="ppv-9478">
-<display-name>76ers at Wizards</display-name>
-</channel>
-<programme
-start="20250716003000 +0000"
-stop="20250716031500 +0000"
-channel="ppv-9478"
->
-<title lang="en">76ers at Wizards</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fnba%2Flatest%2Fced%2Fphi-was%2F1280x720.png@jpg" />
-</programme>
-
-<channel id="ppv-9473">
-<display-name>Fever at Sun</display-name>
-</channel>
-<programme
-start="20250716000000 +0000"
-stop="20250716024500 +0000"
-channel="ppv-9473"
->
-<title lang="en">Fever at Sun</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fwnba%2Flatest%2Fced%2Find-con%2F1280x720.png@jpg" />
-</programme>
-
-<channel id="ppv-9477">
-<display-name>Raptors at Nuggets</display-name>
-</channel>
-<programme
-start="20250716000000 +0000"
-stop="20250716024500 +0000"
-channel="ppv-9477"
->
-<title lang="en">Raptors at Nuggets</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fnba%2Flatest%2Fced%2Ftor-den%2F1280x720.png@jpg" />
 </programme>
 
 <channel id="ppv-9469">
@@ -242,14 +154,14 @@ channel="ppv-5191"
 </programme>
 
 <channel id="ppv-8008">
-<display-name>24/7 Family‌​‌​‌‌​​‌​‌‌​‌‌​‌‌​​​​​‌‌​​​​​‌‌ Guy</display-name>
+<display-name>24/7 Family​​​‌​‌​​‌​‌​​​​‌​​‌‌‌‌​​​​​‌​​‌​ Guy</display-name>
 </channel>
 <programme
 start="20250118080000 +0000"
 stop="20250118090000 +0000"
 channel="ppv-8008"
 >
-<title lang="en">24/7 Family‌​‌​‌‌​​‌​‌‌​‌‌​‌‌​​​​​‌‌​​​​​‌‌ Guy</title>
+<title lang="en">24/7 Family​​​‌​‌​​‌​‌​​​​‌​​‌‌‌‌​​​​​‌​​‌​ Guy</title>
 <sub-title>24/7 Streams</sub-title>
 <video>
 <present>yes</present>
