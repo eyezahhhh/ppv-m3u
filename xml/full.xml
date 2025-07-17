@@ -87,50 +87,6 @@ channel="ppv-9491"
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fnba%2Flatest%2Fced%2Fdal-phi%2F1280x720.png@jpg" />
 </programme>
 
-<channel id="ppv-9485">
-<display-name>Fever at Liberty</display-name>
-</channel>
-<programme
-start="20250716233000 +0000"
-stop="20250717021500 +0000"
-channel="ppv-9485"
->
-<title lang="en">Fever at Liberty</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fwnba%2Flatest%2Fced%2Find-nyl%2F1280x720.png@jpg" />
-</programme>
-
-<channel id="ppv-9490">
-<display-name>Magic at Nets</display-name>
-</channel>
-<programme
-start="20250716233000 +0000"
-stop="20250717021500 +0000"
-channel="ppv-9490"
->
-<title lang="en">Magic at Nets</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fnba%2Flatest%2Fced%2Forl-bkn%2F1280x720.png@jpg" />
-</programme>
-
 <channel id="ppv-9470">
 <display-name>WWE: Friday Night Smackdown</display-name>
 </channel>
