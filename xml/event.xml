@@ -1,26 +1,4 @@
 <tv>
-<channel id="ppv-9493">
-<display-name>Wizards at Jazz</display-name>
-</channel>
-<programme
-start="20250717020000 +0000"
-stop="20250717044500 +0000"
-channel="ppv-9493"
->
-<title lang="en">Wizards at Jazz</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fnba%2Flatest%2Fced%2Fwas-uta%2F1280x720.png@jpg" />
-</programme>
-
 <channel id="ppv-9470">
 <display-name>WWE: Friday Night Smackdown</display-name>
 </channel>
