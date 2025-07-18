@@ -65,28 +65,6 @@ channel="ppv-9499"
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fnba%2Flatest%2Fced%2Fbos-lal%2F1280x720.png@jpg" />
 </programme>
 
-<channel id="ppv-9498">
-<display-name>Rockets at Trail Blazers</display-name>
-</channel>
-<programme
-start="20250718000000 +0000"
-stop="20250718024500 +0000"
-channel="ppv-9498"
->
-<title lang="en">Rockets at Trail Blazers</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fnba%2Flatest%2Fced%2Fhou-por%2F1280x720.png@jpg" />
-</programme>
-
 <channel id="ppv-9471">
 <display-name>AEW: Saturday Night Collision</display-name>
 </channel>
@@ -129,27 +107,5 @@ channel="ppv-9470"
 </audio>
 <category>Wrestling</category>
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FRqupbgS.png@jpg" />
-</programme>
-
-<channel id="ppv-9469">
-<display-name>TNA: Impact</display-name>
-</channel>
-<programme
-start="20250718000000 +0000"
-stop="20250718030000 +0000"
-channel="ppv-9469"
->
-<title lang="en">TNA: Impact</title>
-<sub-title>Wrestling</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Wrestling</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FFpS5gVp.png@jpg" />
 </programme>
 </tv>
