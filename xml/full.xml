@@ -87,28 +87,6 @@ channel="ppv-9522"
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fnba%2Flatest%2Fced%2Fcle-gsw%2F1280x720.png@jpg" />
 </programme>
 
-<channel id="ppv-9521">
-<display-name>Hornets at Thunder (Semifinals)</display-name>
-</channel>
-<programme
-start="20250719220000 +0000"
-stop="20250720004500 +0000"
-channel="ppv-9521"
->
-<title lang="en">Hornets at Thunder (Semifinals)</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fnba%2Flatest%2Fced%2Fcha-okc%2F1280x720.png@jpg" />
-</programme>
-
 <channel id="ppv-9526">
 <display-name>PBC PPV: Pacquiao vs. Barrios</display-name>
 </channel>
@@ -151,28 +129,6 @@ channel="ppv-9510"
 </audio>
 <category>Combat Sports</category>
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FynmfaWE.jpeg@jpg" />
-</programme>
-
-<channel id="ppv-9511">
-<display-name>Oleksandr Usyk vs. Daniel Dubois 2</display-name>
-</channel>
-<programme
-start="20250719163000 +0000"
-stop="20250720003000 +0000"
-channel="ppv-9511"
->
-<title lang="en">Oleksandr Usyk vs. Daniel Dubois 2</title>
-<sub-title>Combat Sports</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Combat Sports</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FtLRhxR3.jpeg@jpg" />
 </programme>
 
 <channel id="ppv-9516">
@@ -286,14 +242,14 @@ channel="ppv-5191"
 </programme>
 
 <channel id="ppv-8008">
-<display-name>24/7 Family​​‌‌​‌​​‌‌‌​‌​‌​​​‌​‌​‌​​​‌​​​​​ Guy</display-name>
+<display-name>24/7 Family‌​​​​‌​​‌‌​​​‌​​​​‌​​​​​​‌​​​​‌​ Guy</display-name>
 </channel>
 <programme
 start="20250118080000 +0000"
 stop="20250118090000 +0000"
 channel="ppv-8008"
 >
-<title lang="en">24/7 Family​​‌‌​‌​​‌‌‌​‌​‌​​​‌​‌​‌​​​‌​​​​​ Guy</title>
+<title lang="en">24/7 Family‌​​​​‌​​‌‌​​​‌​​​​‌​​​​​​‌​​​​‌​ Guy</title>
 <sub-title>24/7 Streams</sub-title>
 <video>
 <present>yes</present>
