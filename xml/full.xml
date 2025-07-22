@@ -87,50 +87,6 @@ channel="ppv-9561"
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FOhGwsNm.png@jpg" />
 </programme>
 
-<channel id="ppv-9559">
-<display-name>Kansas City Royals vs. Chicago Cubs</display-name>
-</channel>
-<programme
-start="20250722000500 +0000"
-stop="20250722030500 +0000"
-channel="ppv-9559"
->
-<title lang="en">Kansas City Royals vs. Chicago Cubs</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FtitI6cM.png@jpg" />
-</programme>
-
-<channel id="ppv-9560">
-<display-name>Athletics vs. Texas Rangers</display-name>
-</channel>
-<programme
-start="20250722000500 +0000"
-stop="20250722030500 +0000"
-channel="ppv-9560"
->
-<title lang="en">Athletics vs. Texas Rangers</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2F7svabS2.png@jpg" />
-</programme>
-
 <channel id="ppv-9549">
 <display-name>PDC: Betfred World Matchplay - Day Four</display-name>
 </channel>
@@ -197,28 +153,6 @@ channel="ppv-9566"
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2Fn7tkxQQ.png@jpg" />
 </programme>
 
-<channel id="ppv-9565">
-<display-name>WWE: Monday Night RAW</display-name>
-</channel>
-<programme
-start="20250722000000 +0000"
-stop="20250722030000 +0000"
-channel="ppv-9565"
->
-<title lang="en">WWE: Monday Night RAW</title>
-<sub-title>Wrestling</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Wrestling</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FzmuUYCm.png@jpg" />
-</programme>
-
 <channel id="ppv-3716">
 <display-name>(North) Korean Central Television</display-name>
 </channel>
@@ -264,14 +198,14 @@ channel="ppv-5191"
 </programme>
 
 <channel id="ppv-8008">
-<display-name>24/7 Family‌​​​​‌‌‌‌‌‌​‌‌​‌‌​​​​​‌​‌​‌‌​​‌‌ Guy</display-name>
+<display-name>24/7 Family​​‌‌​‌​​‌​​‌‌‌‌‌‌‌‌‌​‌​‌‌​‌‌​​​‌ Guy</display-name>
 </channel>
 <programme
 start="20250118080000 +0000"
 stop="20250118090000 +0000"
 channel="ppv-8008"
 >
-<title lang="en">24/7 Family‌​​​​‌‌‌‌‌‌​‌‌​‌‌​​​​​‌​‌​‌‌​​‌‌ Guy</title>
+<title lang="en">24/7 Family​​‌‌​‌​​‌​​‌‌‌‌‌‌‌‌‌​‌​‌‌​‌‌​​​‌ Guy</title>
 <sub-title>24/7 Streams</sub-title>
 <video>
 <present>yes</present>
