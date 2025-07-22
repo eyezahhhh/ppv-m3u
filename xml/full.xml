@@ -502,7 +502,7 @@ channel="ppv-9592"
 <stereo>stereo</stereo>
 </audio>
 <category>Football</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FEQWKJfw.png@jpg" />
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FqsubCxe.png@jpg" />
 </programme>
 
 <channel id="ppv-9567">
@@ -594,14 +594,14 @@ channel="ppv-5191"
 </programme>
 
 <channel id="ppv-8008">
-<display-name>24/7 Family​​‌‌​‌​​‌‌‌​‌‌‌​​​​‌‌​‌​‌‌‌‌​​​‌ Guy</display-name>
+<display-name>24/7 Family​​​‌​‌​​‌​‌​​​​‌​‌​​​‌​‌​​‌​‌​​​ Guy</display-name>
 </channel>
 <programme
 start="20250118080000 +0000"
 stop="20250118090000 +0000"
 channel="ppv-8008"
 >
-<title lang="en">24/7 Family​​‌‌​‌​​‌‌‌​‌‌‌​​​​‌‌​‌​‌‌‌‌​​​‌ Guy</title>
+<title lang="en">24/7 Family​​​‌​‌​​‌​‌​​​​‌​‌​​​‌​‌​​‌​‌​​​ Guy</title>
 <sub-title>24/7 Streams</sub-title>
 <video>
 <present>yes</present>
