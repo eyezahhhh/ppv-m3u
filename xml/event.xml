@@ -1,26 +1,4 @@
 <tv>
-<channel id="ppv-9612">
-<display-name>Dream at Mercury</display-name>
-</channel>
-<programme
-start="20250724020000 +0000"
-stop="20250724044500 +0000"
-channel="ppv-9612"
->
-<title lang="en">Dream at Mercury</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fwnba%2Flatest%2Fced%2Fatl-phx%2F1280x720.png@jpg" />
-</programme>
-
 <channel id="ppv-9615">
 <display-name>PDC: Betfred World Matchplay - Day Seven</display-name>
 </channel>
