@@ -417,28 +417,6 @@ channel="ppv-9619"
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fopen.http.mp.streamamg.com%2Fp%2F3000668%2Fsp%2F300066800%2Fthumbnail%2Fentry_id%2F0_a15w0xum%2Fwidth%2F640@jpg" />
 </programme>
 
-<channel id="ppv-9615">
-<display-name>PDC: Betfred World Matchplay - Day Seven</display-name>
-</channel>
-<programme
-start="20250725183000 +0000"
-stop="20250725230000 +0000"
-channel="ppv-9615"
->
-<title lang="en">PDC: Betfred World Matchplay - Day Seven</title>
-<sub-title>Darts</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Darts</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fopen.http.mp.streamamg.com%2Fp%2F3000668%2Fsp%2F300066800%2Fthumbnail%2Fentry_id%2F0_ujs2s8r4%2Fwidth%2F640@jpg" />
-</programme>
-
 <channel id="ppv-9624">
 <display-name>F1: Belgian Grand Prix (Race)</display-name>
 </channel>
@@ -616,14 +594,14 @@ channel="ppv-5191"
 </programme>
 
 <channel id="ppv-8008">
-<display-name>24/7 Family​​​‌​‌​​​​‌‌​‌‌‌​‌‌‌‌‌‌​‌‌‌‌​​​‌ Guy</display-name>
+<display-name>24/7 Family‌​‌​‌‌​​‌​‌​‌‌​​​‌​‌​‌‌‌‌‌​​​​‌‌ Guy</display-name>
 </channel>
 <programme
 start="20250118080000 +0000"
 stop="20250118090000 +0000"
 channel="ppv-8008"
 >
-<title lang="en">24/7 Family​​​‌​‌​​​​‌‌​‌‌‌​‌‌‌‌‌‌​‌‌‌‌​​​‌ Guy</title>
+<title lang="en">24/7 Family‌​‌​‌‌​​‌​‌​‌‌​​​‌​‌​‌‌‌‌‌​​​​‌‌ Guy</title>
 <sub-title>24/7 Streams</sub-title>
 <video>
 <present>yes</present>
