@@ -27,8 +27,6 @@
 
 #EXTINF:-1 tvg-id="ppv-9651" tvg-name="Toronto Blue Jays vs. Detroit Tigers (26 July 2025 at 22:10)" tvg-epgid="9651" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FmSVNbuQ.png@jpg",Toronto Blue Jays vs. Detroit Tigers (26 July 2025 at 22:10)
 
-#EXTINF:-1 tvg-id="ppv-9650" tvg-name="Cleveland Guardians vs. Kansas City Royals (26 July 2025 at 18:40)" tvg-epgid="9650" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2Fv2IuMJe.png@jpg",Cleveland Guardians vs. Kansas City Royals (26 July 2025 at 18:40)
-
 #EXTINF:-1 tvg-id="ppv-9671" tvg-name="Storm at Mystics (26 July 2025 at 23:30)" tvg-epgid="9671" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fwnba%2Flatest%2Fced%2Fsea-was%2F1280x720.png@jpg",Storm at Mystics (26 July 2025 at 23:30)
 
 #EXTINF:-1 tvg-id="ppv-9670" tvg-name="Sparks at Liberty (26 July 2025 at 23:00)" tvg-epgid="9670" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fwnba%2Flatest%2Fced%2Flas-nyl%2F1280x720.png@jpg",Sparks at Liberty (26 July 2025 at 23:00)
@@ -51,17 +49,15 @@
 
 #EXTINF:-1 tvg-id="ppv-9666" tvg-name="MXGP of Czech Republic: Day 2 (27 July 2025 at 06:35)" tvg-epgid="9666" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fwp-mxgp.streamamg.com%2Fwp-content%2Fuploads%2FEMX85-START-MOTOCROSS-GP-13-CZE-2024-1620x1080.jpg@jpg",MXGP of Czech Republic: Day 2 (27 July 2025 at 06:35)
 
-#EXTINF:-1 tvg-id="ppv-9665" tvg-name="MXGP of Czech Republic: Day 1 (26 July 2025 at 10:00)" tvg-epgid="9665" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fwp-mxgp.streamamg.com%2Fwp-content%2Fuploads%2FEMX85-START-MOTOCROSS-GP-13-CZE-2024-1620x1080.jpg@jpg",MXGP of Czech Republic: Day 1 (26 July 2025 at 10:00)
-
 #EXTINF:-1 tvg-id="ppv-9570" tvg-name="AEW: Saturday Night Collision (27 July 2025 at 00:00)" tvg-epgid="9570" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2Fx3OPAo3.jpeg@jpg",AEW: Saturday Night Collision (27 July 2025 at 00:00)
 
 #EXTINF:-1 tvg-id="ppv-3716" tvg-name="(North) Korean Central Television" tvg-epgid="3716" tvg-logo="https://i.imgur.com/CnphStu.png",(North) Korean Central Television
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MTM1MGFmMDIzODI3LTk3Y2EtMDZhNC0yNTA3LWY0M2Q4NmE0/master.m3u8?md5=w--OapDkdtPheUc8zwzoOg&expires=1753608915&net=MjAuNTUuMTMuMTYy
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MTM1MGFmMDIzODI3LTk3Y2EtMDZhNC0yNTA3LWY0M2Q4NmE0/master.m3u8?md5=4PJwTyM1RQ0aE6h1OTq-gQ&expires=1753610717&net=MTcyLjE4Mi4yMjYuMjA4
 #EXTINF:-1 tvg-id="ppv-5191" tvg-name="24/7 The Simpsons" tvg-epgid="5191" tvg-logo="https://thumbs.poocloud.in/thesimpsons/preview.jpg",24/7 The Simpsons
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MGQzNzI5MTE0YjQwLTVmYmEtYmE3NC1kOThlLWY2MmU4NGI4/master.m3u8?md5=BC-n5B3SpcndntZuQnlWAQ&expires=1753608916&net=MjAuNTUuMTMuMTYy
-#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family​​​‌​‌​​​​‌‌​‌‌‌​​​​‌‌​‌‌​‌​​​‌​ Guy" tvg-epgid="8008" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg",24/7 Family​​​‌​‌​​​​‌‌​‌‌‌​​​​‌‌​‌‌​‌​​​‌​ Guy
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YTA5ZTU3MjFhNTI0LWRkZTktZTRlNC1mMzU4LTQwMWI0YjJk/master.m3u8?md5=BC-n5B3SpcndntZuQnlWAQ&expires=1753608916&net=MjAuNTUuMTMuMTYy
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MGQzNzI5MTE0YjQwLTVmYmEtYmE3NC1kOThlLWY2MmU4NGI4/master.m3u8?md5=8E5OfkM0CajkumftUGDCPA&expires=1753610718&net=MTcyLjE4Mi4yMjYuMjA4
+#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family‌​‌​‌‌​​‌​‌‌​‌‌​‌‌‌​​​‌​‌‌​‌​​​​ Guy" tvg-epgid="8008" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg",24/7 Family‌​‌​‌‌​​‌​‌‌​‌‌​‌‌‌​​​‌​‌‌​‌​​​​ Guy
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YTA5ZTU3MjFhNTI0LWRkZTktZTRlNC1mMzU4LTQwMWI0YjJk/master.m3u8?md5=8E5OfkM0CajkumftUGDCPA&expires=1753610718&net=MTcyLjE4Mi4yMjYuMjA4
 #EXTINF:-1 tvg-id="ppv-3663" tvg-name="24/7 COWS" tvg-epgid="3663" tvg-logo="https://extension.usu.edu/drought/images/drought-mitigation-cows-thumbnail.png",24/7 COWS
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8?md5=BC-n5B3SpcndntZuQnlWAQ&expires=1753608916&net=MjAuNTUuMTMuMTYy
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8?md5=D62afFS47Qgn1TPWmYvWRA&expires=1753610719&net=MTcyLjE4Mi4yMjYuMjA4
 #EXTINF:-1 tvg-id="ppv-5112" tvg-name="24/7 South Park" tvg-epgid="5112" tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg",24/7 South Park
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZGEyNDNkZWMyNzFjLWU2OWItNzFlNC00NWU5LTUyODY0MWIz/master.m3u8?md5=mstJJuFr3Xo7MXQyqMGC0A&expires=1753608917&net=MjAuNTUuMTMuMTYy
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZGEyNDNkZWMyNzFjLWU2OWItNzFlNC00NWU5LTUyODY0MWIz/master.m3u8?md5=D62afFS47Qgn1TPWmYvWRA&expires=1753610719&net=MTcyLjE4Mi4yMjYuMjA4
