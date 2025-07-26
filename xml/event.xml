@@ -505,28 +505,6 @@ channel="ppv-9667"
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FGfXIJiX.png@jpg" />
 </programme>
 
-<channel id="ppv-9672">
-<display-name>Galatasaray vs Strasbourg</display-name>
-</channel>
-<programme
-start="20250726180000 +0000"
-stop="20250726210000 +0000"
-channel="ppv-9672"
->
-<title lang="en">Galatasaray vs Strasbourg</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fmedia-cdn.t24.com.tr%2Fmedia%2Flibrary%2F2025%2F07%2F1753428645970-galatasaray-strasbourg-maci-ne-zaman-saat-kacta-hangi-kanalda-fbjp-1.jpg@jpg" />
-</programme>
-
 <channel id="ppv-9624">
 <display-name>F1: Belgian Grand Prix (Race)</display-name>
 </channel>
