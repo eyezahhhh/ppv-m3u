@@ -483,6 +483,28 @@ channel="ppv-9681"
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2F4zwBwVH.png@jpg" />
 </programme>
 
+<channel id="ppv-9624">
+<display-name>F1: Belgian Grand Prix (Race)</display-name>
+</channel>
+<programme
+start="20250727130000 +0000"
+stop="20250727170000 +0000"
+channel="ppv-9624"
+>
+<title lang="en">F1: Belgian Grand Prix (Race)</title>
+<sub-title>Motorsports</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Motorsports</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fmedia.formula1.com%2Fimage%2Fupload%2Fc_lfill%2Cw_3392%2Fq_auto%2Fv1740000000%2Fcontent%2Fdam%2Ffom-website%2F2018-redesign-assets%2FRacehub%2520header%2520images%252016x9%2FBelgium.webp@jpg" />
+</programme>
+
 <channel id="ppv-9666">
 <display-name>MXGP of Czech Republic: Day 2</display-name>
 </channel>

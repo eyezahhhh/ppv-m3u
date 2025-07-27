@@ -43,15 +43,17 @@
 
 #EXTINF:-1 tvg-id="ppv-9681" tvg-name="Bochum vs Bayer Leverkusen (27 July 2025 at 16:00)" tvg-epgid="9681" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2F4zwBwVH.png@jpg",Bochum vs Bayer Leverkusen (27 July 2025 at 16:00)
 
+#EXTINF:-1 tvg-id="ppv-9624" tvg-name="F1: Belgian Grand Prix (Race) (27 July 2025 at 13:00)" tvg-epgid="9624" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fmedia.formula1.com%2Fimage%2Fupload%2Fc_lfill%2Cw_3392%2Fq_auto%2Fv1740000000%2Fcontent%2Fdam%2Ffom-website%2F2018-redesign-assets%2FRacehub%2520header%2520images%252016x9%2FBelgium.webp@jpg",F1: Belgian Grand Prix (Race) (27 July 2025 at 13:00)
+
 #EXTINF:-1 tvg-id="ppv-9666" tvg-name="MXGP of Czech Republic: Day 2 (27 July 2025 at 06:35)" tvg-epgid="9666" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fwp-mxgp.streamamg.com%2Fwp-content%2Fuploads%2FEMX85-START-MOTOCROSS-GP-13-CZE-2024-1620x1080.jpg@jpg",MXGP of Czech Republic: Day 2 (27 July 2025 at 06:35)
 
 #EXTINF:-1 tvg-id="ppv-3716" tvg-name="(North) Korean Central Television" tvg-epgid="3716" tvg-logo="https://i.imgur.com/CnphStu.png",(North) Korean Central Television
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MTM1MGFmMDIzODI3LTk3Y2EtMDZhNC0yNTA3LWY0M2Q4NmE0/master.m3u8?md5=MQBKl5wmEwpfWuU9LAs14A&expires=1753671902&net=OS4yMzQuMTQ5LjE3Nw%3D%3D
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MTM1MGFmMDIzODI3LTk3Y2EtMDZhNC0yNTA3LWY0M2Q4NmE0/master.m3u8?md5=3Io5Jt_KpshBpIuf1DxzKQ&expires=1753673792&net=NjguMTU0LjExNy4zNA%3D%3D
 #EXTINF:-1 tvg-id="ppv-5191" tvg-name="24/7 The Simpsons" tvg-epgid="5191" tvg-logo="https://thumbs.poocloud.in/thesimpsons/preview.jpg",24/7 The Simpsons
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MGQzNzI5MTE0YjQwLTVmYmEtYmE3NC1kOThlLWY2MmU4NGI4/master.m3u8?md5=vF_F7SY5OwN7xetFMzcPCA&expires=1753671903&net=OS4yMzQuMTQ5LjE3Nw%3D%3D
-#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family​​​​‌​​‌‌‌‌​‌​‌​‌​​‌​‌​‌‌​‌‌​​​‌ Guy" tvg-epgid="8008" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg",24/7 Family​​​​‌​​‌‌‌‌​‌​‌​‌​​‌​‌​‌‌​‌‌​​​‌ Guy
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YTA5ZTU3MjFhNTI0LWRkZTktZTRlNC1mMzU4LTQwMWI0YjJk/master.m3u8?md5=vF_F7SY5OwN7xetFMzcPCA&expires=1753671903&net=OS4yMzQuMTQ5LjE3Nw%3D%3D
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MGQzNzI5MTE0YjQwLTVmYmEtYmE3NC1kOThlLWY2MmU4NGI4/master.m3u8?md5=3Io5Jt_KpshBpIuf1DxzKQ&expires=1753673792&net=NjguMTU0LjExNy4zNA%3D%3D
+#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family​‌​​​‌​​‌​​‌‌​‌​​‌‌‌​‌​‌​​‌​​​‌​ Guy" tvg-epgid="8008" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg",24/7 Family​‌​​​‌​​‌​​‌‌​‌​​‌‌‌​‌​‌​​‌​​​‌​ Guy
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YTA5ZTU3MjFhNTI0LWRkZTktZTRlNC1mMzU4LTQwMWI0YjJk/master.m3u8?md5=cC0i8kNmxywMse7WPrDwCA&expires=1753673793&net=NjguMTU0LjExNy4zNA%3D%3D
 #EXTINF:-1 tvg-id="ppv-3663" tvg-name="24/7 COWS" tvg-epgid="3663" tvg-logo="https://extension.usu.edu/drought/images/drought-mitigation-cows-thumbnail.png",24/7 COWS
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8?md5=vF_F7SY5OwN7xetFMzcPCA&expires=1753671903&net=OS4yMzQuMTQ5LjE3Nw%3D%3D
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8?md5=cC0i8kNmxywMse7WPrDwCA&expires=1753673793&net=NjguMTU0LjExNy4zNA%3D%3D
 #EXTINF:-1 tvg-id="ppv-5112" tvg-name="24/7 South Park" tvg-epgid="5112" tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg",24/7 South Park
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZGEyNDNkZWMyNzFjLWU2OWItNzFlNC00NWU5LTUyODY0MWIz/master.m3u8?md5=vF_F7SY5OwN7xetFMzcPCA&expires=1753671903&net=OS4yMzQuMTQ5LjE3Nw%3D%3D
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZGEyNDNkZWMyNzFjLWU2OWItNzFlNC00NWU5LTUyODY0MWIz/master.m3u8?md5=cC0i8kNmxywMse7WPrDwCA&expires=1753673793&net=NjguMTU0LjExNy4zNA%3D%3D
