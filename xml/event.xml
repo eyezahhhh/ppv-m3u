@@ -351,28 +351,6 @@ channel="ppv-9670"
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fwnba%2Flatest%2Fced%2Flas-nyl%2F1280x720.png@jpg" />
 </programme>
 
-<channel id="ppv-9669">
-<display-name>UFC Fight Night: Whittaker vs. de Ridder</display-name>
-</channel>
-<programme
-start="20250726160000 +0000"
-stop="20250727000000 +0000"
-channel="ppv-9669"
->
-<title lang="en">UFC Fight Night: Whittaker vs. de Ridder</title>
-<sub-title>Combat Sports</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Combat Sports</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fespnpressroom.com%2Fus%2Ffiles%2F2025%2F07%2FUFC_FN_20250726_FS_1920x1080_ENG_DDT.png@jpg" />
-</programme>
-
 <channel id="ppv-9648">
 <display-name>PDC: Betfred World Matchplay - Day Nine</display-name>
 </channel>
