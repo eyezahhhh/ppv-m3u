@@ -29,6 +29,16 @@
 
 #EXTINF:-1 tvg-id="ppv-9685" tvg-name="Philadelphia Phillies vs. New York Yankees (27 July 2025 at 17:35)" tvg-epgid="9685" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FJoQsP8G.png@jpg",Philadelphia Phillies vs. New York Yankees (27 July 2025 at 17:35)
 
+#EXTINF:-1 tvg-id="ppv-9701" tvg-name="Dream at Lynx (27 July 2025 at 23:00)" tvg-epgid="9701" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fwnba%2Flatest%2Fced%2Fatl-min%2F1280x720.png@jpg",Dream at Lynx (27 July 2025 at 23:00)
+
+#EXTINF:-1 tvg-id="ppv-9700" tvg-name="Mercury at Mystics (27 July 2025 at 22:00)" tvg-epgid="9700" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fwnba%2Flatest%2Fced%2Fphx-was%2F1280x720.png@jpg",Mercury at Mystics (27 July 2025 at 22:00)
+
+#EXTINF:-1 tvg-id="ppv-9699" tvg-name="Aces at Wings (27 July 2025 at 20:00)" tvg-epgid="9699" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fwnba%2Flatest%2Fced%2Flva-dal%2F1280x720.png@jpg",Aces at Wings (27 July 2025 at 20:00)
+
+#EXTINF:-1 tvg-id="ppv-9697" tvg-name="Fever at Sky (27 July 2025 at 19:00)" tvg-epgid="9697" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fwnba%2Flatest%2Fced%2Find-chi%2F1280x720.png@jpg",Fever at Sky (27 July 2025 at 19:00)
+
+#EXTINF:-1 tvg-id="ppv-9698" tvg-name="Valkyries at Sun (27 July 2025 at 17:00)" tvg-epgid="9698" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fwnba%2Flatest%2Fced%2Fgsv-con%2F1280x720.png@jpg",Valkyries at Sun (27 July 2025 at 17:00)
+
 #EXTINF:-1 tvg-id="ppv-9648" tvg-name="PDC: Betfred World Matchplay - Day Nine (27 July 2025 at 12:00)" tvg-epgid="9648" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fopen.http.mp.streamamg.com%2Fp%2F3000668%2Fsp%2F300066800%2Fthumbnail%2Fentry_id%2F0_1ter1jyb%2Fwidth%2F640@jpg",PDC: Betfred World Matchplay - Day Nine (27 July 2025 at 12:00)
 
 #EXTINF:-1 tvg-id="ppv-9681" tvg-name="Bochum vs Bayer Leverkusen (27 July 2025 at 16:00)" tvg-epgid="9681" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2F4zwBwVH.png@jpg",Bochum vs Bayer Leverkusen (27 July 2025 at 16:00)
@@ -40,12 +50,12 @@
 #EXTINF:-1 tvg-id="ppv-9666" tvg-name="MXGP of Czech Republic: Day 2 (27 July 2025 at 06:35)" tvg-epgid="9666" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fwp-mxgp.streamamg.com%2Fwp-content%2Fuploads%2FEMX85-START-MOTOCROSS-GP-13-CZE-2024-1620x1080.jpg@jpg",MXGP of Czech Republic: Day 2 (27 July 2025 at 06:35)
 
 #EXTINF:-1 tvg-id="ppv-3716" tvg-name="(North) Korean Central Television" tvg-epgid="3716" tvg-logo="https://i.imgur.com/CnphStu.png",(North) Korean Central Television
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MTM1MGFmMDIzODI3LTk3Y2EtMDZhNC0yNTA3LWY0M2Q4NmE0/master.m3u8?md5=XEudmIYHQ7dZOYYsMlWXbg&expires=1753666856&net=MTcyLjE3NC4yMjMuMjQx
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MTM1MGFmMDIzODI3LTk3Y2EtMDZhNC0yNTA3LWY0M2Q4NmE0/master.m3u8?md5=h-yTq0Zryu59QR_lizVTtQ&expires=1753668301&net=MTcyLjE4My4xNTcuMTc4
 #EXTINF:-1 tvg-id="ppv-5191" tvg-name="24/7 The Simpsons" tvg-epgid="5191" tvg-logo="https://thumbs.poocloud.in/thesimpsons/preview.jpg",24/7 The Simpsons
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MGQzNzI5MTE0YjQwLTVmYmEtYmE3NC1kOThlLWY2MmU4NGI4/master.m3u8?md5=CFMk-Txp3rEppG6tUU3dZg&expires=1753666857&net=MTcyLjE3NC4yMjMuMjQx
-#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family‌​‌​‌‌​​‌​‌​‌‌‌​‌‌​‌‌‌‌‌‌‌‌‌​​​‌ Guy" tvg-epgid="8008" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg",24/7 Family‌​‌​‌‌​​‌​‌​‌‌‌​‌‌​‌‌‌‌‌‌‌‌‌​​​‌ Guy
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YTA5ZTU3MjFhNTI0LWRkZTktZTRlNC1mMzU4LTQwMWI0YjJk/master.m3u8?md5=CFMk-Txp3rEppG6tUU3dZg&expires=1753666857&net=MTcyLjE3NC4yMjMuMjQx
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MGQzNzI5MTE0YjQwLTVmYmEtYmE3NC1kOThlLWY2MmU4NGI4/master.m3u8?md5=h-yTq0Zryu59QR_lizVTtQ&expires=1753668301&net=MTcyLjE4My4xNTcuMTc4
+#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family‌​‌​‌‌​​‌​‌‌​‌‌‌‌​​‌‌‌​‌‌​‌‌​​‌​ Guy" tvg-epgid="8008" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg",24/7 Family‌​‌​‌‌​​‌​‌‌​‌‌‌‌​​‌‌‌​‌‌​‌‌​​‌​ Guy
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YTA5ZTU3MjFhNTI0LWRkZTktZTRlNC1mMzU4LTQwMWI0YjJk/master.m3u8?md5=h-yTq0Zryu59QR_lizVTtQ&expires=1753668301&net=MTcyLjE4My4xNTcuMTc4
 #EXTINF:-1 tvg-id="ppv-3663" tvg-name="24/7 COWS" tvg-epgid="3663" tvg-logo="https://extension.usu.edu/drought/images/drought-mitigation-cows-thumbnail.png",24/7 COWS
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8?md5=CFMk-Txp3rEppG6tUU3dZg&expires=1753666857&net=MTcyLjE3NC4yMjMuMjQx
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8?md5=jn4pCH5oqi1BZHkxEIRGQQ&expires=1753668302&net=MTcyLjE4My4xNTcuMTc4
 #EXTINF:-1 tvg-id="ppv-5112" tvg-name="24/7 South Park" tvg-epgid="5112" tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg",24/7 South Park
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZGEyNDNkZWMyNzFjLWU2OWItNzFlNC00NWU5LTUyODY0MWIz/master.m3u8?md5=bB3QL0RgOgiEeq_zTxJlYg&expires=1753666858&net=MTcyLjE3NC4yMjMuMjQx
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZGEyNDNkZWMyNzFjLWU2OWItNzFlNC00NWU5LTUyODY0MWIz/master.m3u8?md5=jn4pCH5oqi1BZHkxEIRGQQ&expires=1753668302&net=MTcyLjE4My4xNTcuMTc4
