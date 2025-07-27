@@ -21,14 +21,6 @@
 
 #EXTINF:-1 tvg-id="ppv-9687" tvg-name="Toronto Blue Jays vs. Detroit Tigers (27 July 2025 at 17:40)" tvg-epgid="9687" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FpKQuX0Y.png@jpg",Toronto Blue Jays vs. Detroit Tigers (27 July 2025 at 17:40)
 
-#EXTINF:-1 tvg-id="ppv-9682" tvg-name="Arizona Diamondbacks vs. Pittsburgh Pirates (27 July 2025 at 17:35)" tvg-epgid="9682" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2Ftlz3iOd.png@jpg",Arizona Diamondbacks vs. Pittsburgh Pirates (27 July 2025 at 17:35)
-
-#EXTINF:-1 tvg-id="ppv-9683" tvg-name="Colorado Rockies vs. Baltimore Orioles (27 July 2025 at 17:35)" tvg-epgid="9683" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FbpFSTxh.png@jpg",Colorado Rockies vs. Baltimore Orioles (27 July 2025 at 17:35)
-
-#EXTINF:-1 tvg-id="ppv-9684" tvg-name="Los Angeles Dodgers vs. Boston Red Sox (27 July 2025 at 17:35)" tvg-epgid="9684" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FMEC9AKR.png@jpg",Los Angeles Dodgers vs. Boston Red Sox (27 July 2025 at 17:35)
-
-#EXTINF:-1 tvg-id="ppv-9685" tvg-name="Philadelphia Phillies vs. New York Yankees (27 July 2025 at 17:35)" tvg-epgid="9685" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FJoQsP8G.png@jpg",Philadelphia Phillies vs. New York Yankees (27 July 2025 at 17:35)
-
 #EXTINF:-1 tvg-id="ppv-9701" tvg-name="Dream at Lynx (27 July 2025 at 23:00)" tvg-epgid="9701" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fwnba%2Flatest%2Fced%2Fatl-min%2F1280x720.png@jpg",Dream at Lynx (27 July 2025 at 23:00)
 
 #EXTINF:-1 tvg-id="ppv-9700" tvg-name="Mercury at Mystics (27 July 2025 at 22:00)" tvg-epgid="9700" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fwnba%2Flatest%2Fced%2Fphx-was%2F1280x720.png@jpg",Mercury at Mystics (27 July 2025 at 22:00)
@@ -40,12 +32,12 @@
 #EXTINF:-1 tvg-id="ppv-9648" tvg-name="PDC: Betfred World Matchplay - Day Nine (27 July 2025 at 12:00)" tvg-epgid="9648" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fopen.http.mp.streamamg.com%2Fp%2F3000668%2Fsp%2F300066800%2Fthumbnail%2Fentry_id%2F0_1ter1jyb%2Fwidth%2F640@jpg",PDC: Betfred World Matchplay - Day Nine (27 July 2025 at 12:00)
 
 #EXTINF:-1 tvg-id="ppv-3716" tvg-name="(North) Korean Central Television" tvg-epgid="3716" tvg-logo="https://i.imgur.com/CnphStu.png",(North) Korean Central Television
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MTM1MGFmMDIzODI3LTk3Y2EtMDZhNC0yNTA3LWY0M2Q4NmE0/master.m3u8?md5=k9EQmY5spz_oThAgBNvmLg&expires=1753689958&net=MTM1LjIzMi4yMDEuMjQx
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MTM1MGFmMDIzODI3LTk3Y2EtMDZhNC0yNTA3LWY0M2Q4NmE0/master.m3u8?md5=K466q9Qv0YUQtewk8_Ym7A&expires=1753691837&net=MTM1LjIzMi4yMDEuMzI%3D
 #EXTINF:-1 tvg-id="ppv-5191" tvg-name="24/7 The Simpsons" tvg-epgid="5191" tvg-logo="https://thumbs.poocloud.in/thesimpsons/preview.jpg",24/7 The Simpsons
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MGQzNzI5MTE0YjQwLTVmYmEtYmE3NC1kOThlLWY2MmU4NGI4/master.m3u8?md5=yLwi9qMcBpKeql-FLOp5zA&expires=1753689959&net=MTM1LjIzMi4yMDEuMjQx
-#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family‌​​​​‌‌‌‌‌‌​‌​​​‌‌​​‌​​‌‌‌‌‌​​​‌ Guy" tvg-epgid="8008" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg",24/7 Family‌​​​​‌‌‌‌‌‌​‌​​​‌‌​​‌​​‌‌‌‌‌​​​‌ Guy
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YTA5ZTU3MjFhNTI0LWRkZTktZTRlNC1mMzU4LTQwMWI0YjJk/master.m3u8?md5=yLwi9qMcBpKeql-FLOp5zA&expires=1753689959&net=MTM1LjIzMi4yMDEuMjQx
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MGQzNzI5MTE0YjQwLTVmYmEtYmE3NC1kOThlLWY2MmU4NGI4/master.m3u8?md5=K466q9Qv0YUQtewk8_Ym7A&expires=1753691837&net=MTM1LjIzMi4yMDEuMzI%3D
+#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family‌​​​​‌‌‌‌‌‌​‌​​​‌‌​​‌​​‌​​‌​​​​​ Guy" tvg-epgid="8008" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg",24/7 Family‌​​​​‌‌‌‌‌‌​‌​​​‌‌​​‌​​‌​​‌​​​​​ Guy
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YTA5ZTU3MjFhNTI0LWRkZTktZTRlNC1mMzU4LTQwMWI0YjJk/master.m3u8?md5=K466q9Qv0YUQtewk8_Ym7A&expires=1753691837&net=MTM1LjIzMi4yMDEuMzI%3D
 #EXTINF:-1 tvg-id="ppv-3663" tvg-name="24/7 COWS" tvg-epgid="3663" tvg-logo="https://extension.usu.edu/drought/images/drought-mitigation-cows-thumbnail.png",24/7 COWS
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8?md5=yLwi9qMcBpKeql-FLOp5zA&expires=1753689959&net=MTM1LjIzMi4yMDEuMjQx
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8?md5=-0epm84YVU-ZKlWcqL7bWw&expires=1753691838&net=MTM1LjIzMi4yMDEuMzI%3D
 #EXTINF:-1 tvg-id="ppv-5112" tvg-name="24/7 South Park" tvg-epgid="5112" tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg",24/7 South Park
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZGEyNDNkZWMyNzFjLWU2OWItNzFlNC00NWU5LTUyODY0MWIz/master.m3u8?md5=yLwi9qMcBpKeql-FLOp5zA&expires=1753689959&net=MTM1LjIzMi4yMDEuMjQx
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZGEyNDNkZWMyNzFjLWU2OWItNzFlNC00NWU5LTUyODY0MWIz/master.m3u8?md5=-0epm84YVU-ZKlWcqL7bWw&expires=1753691838&net=MTM1LjIzMi4yMDEuMzI%3D
