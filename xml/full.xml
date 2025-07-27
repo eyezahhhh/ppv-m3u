@@ -43,160 +43,6 @@ channel="ppv-9695"
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FCEOzER5.png@jpg" />
 </programme>
 
-<channel id="ppv-9694">
-<display-name>Atlanta Braves vs. Texas Rangers</display-name>
-</channel>
-<programme
-start="20250727183500 +0000"
-stop="20250727213500 +0000"
-channel="ppv-9694"
->
-<title lang="en">Atlanta Braves vs. Texas Rangers</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2Fono7fFt.png@jpg" />
-</programme>
-
-<channel id="ppv-9693">
-<display-name>San Diego Padres vs. St. Louis Cardinals</display-name>
-</channel>
-<programme
-start="20250727181500 +0000"
-stop="20250727211500 +0000"
-channel="ppv-9693"
->
-<title lang="en">San Diego Padres vs. St. Louis Cardinals</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FGVKyUeF.png@jpg" />
-</programme>
-
-<channel id="ppv-9688">
-<display-name>Chicago Cubs vs. Chicago White Sox</display-name>
-</channel>
-<programme
-start="20250727181000 +0000"
-stop="20250727211000 +0000"
-channel="ppv-9688"
->
-<title lang="en">Chicago Cubs vs. Chicago White Sox</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FIfX99qG.png@jpg" />
-</programme>
-
-<channel id="ppv-9689">
-<display-name>Cleveland Guardians vs. Kansas City Royals</display-name>
-</channel>
-<programme
-start="20250727181000 +0000"
-stop="20250727211000 +0000"
-channel="ppv-9689"
->
-<title lang="en">Cleveland Guardians vs. Kansas City Royals</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2Fjn8V9Uw.png@jpg" />
-</programme>
-
-<channel id="ppv-9690">
-<display-name>Miami Marlins vs. Milwaukee Brewers</display-name>
-</channel>
-<programme
-start="20250727181000 +0000"
-stop="20250727211000 +0000"
-channel="ppv-9690"
->
-<title lang="en">Miami Marlins vs. Milwaukee Brewers</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FJbdxxSw.png@jpg" />
-</programme>
-
-<channel id="ppv-9691">
-<display-name>Athletics vs. Houston Astros</display-name>
-</channel>
-<programme
-start="20250727181000 +0000"
-stop="20250727211000 +0000"
-channel="ppv-9691"
->
-<title lang="en">Athletics vs. Houston Astros</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FOc179zx.png@jpg" />
-</programme>
-
-<channel id="ppv-9692">
-<display-name>Washington Nationals vs. Minnesota Twins</display-name>
-</channel>
-<programme
-start="20250727181000 +0000"
-stop="20250727211000 +0000"
-channel="ppv-9692"
->
-<title lang="en">Washington Nationals vs. Minnesota Twins</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FNmr8BzK.png@jpg" />
-</programme>
-
 <channel id="ppv-9701">
 <display-name>Dream at Lynx</display-name>
 </channel>
@@ -352,14 +198,14 @@ channel="ppv-5191"
 </programme>
 
 <channel id="ppv-8008">
-<display-name>24/7 Family​‌​​‌​‌​‌‌‌​‌​‌‌​‌‌‌‌‌‌‌‌​‌​​​‌‌ Guy</display-name>
+<display-name>24/7 Family‌​‌​‌‌​​‌‌​‌​​​​​‌​‌​‌​​‌‌‌‌​​​‌ Guy</display-name>
 </channel>
 <programme
 start="20250118080000 +0000"
 stop="20250118090000 +0000"
 channel="ppv-8008"
 >
-<title lang="en">24/7 Family​‌​​‌​‌​‌‌‌​‌​‌‌​‌‌‌‌‌‌‌‌​‌​​​‌‌ Guy</title>
+<title lang="en">24/7 Family‌​‌​‌‌​​‌‌​‌​​​​​‌​‌​‌​​‌‌‌‌​​​‌ Guy</title>
 <sub-title>24/7 Streams</sub-title>
 <video>
 <present>yes</present>
