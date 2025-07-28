@@ -3,8 +3,6 @@
 
 #EXTINF:-1 tvg-id="ppv-9701" tvg-name="Dream at Lynx (27 July 2025 at 23:00)" tvg-epgid="9701" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fwnba%2Flatest%2Fced%2Fatl-min%2F1280x720.png@jpg",Dream at Lynx (27 July 2025 at 23:00)
 
-#EXTINF:-1 tvg-id="ppv-9700" tvg-name="Mercury at Mystics (27 July 2025 at 22:00)" tvg-epgid="9700" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fwnba%2Flatest%2Fced%2Fphx-was%2F1280x720.png@jpg",Mercury at Mystics (27 July 2025 at 22:00)
-
 #EXTINF:-1 tvg-id="ppv-9675" tvg-name="Puebla vs. New York City FC (30 July 2025 at 00:00)" tvg-epgid="9675" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FjwLub1v.png@jpg",Puebla vs. New York City FC (30 July 2025 at 00:00)
 
 #EXTINF:-1 tvg-id="ppv-9673" tvg-name="León vs. CF Montréal (29 July 2025 at 23:00)" tvg-epgid="9673" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2Fs6GrBU8.png@jpg",León vs. CF Montréal (29 July 2025 at 23:00)
@@ -12,12 +10,12 @@
 #EXTINF:-1 tvg-id="ppv-9674" tvg-name="Columbus Crew vs. Toluca (29 July 2025 at 23:00)" tvg-epgid="9674" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FOZd884D.png@jpg",Columbus Crew vs. Toluca (29 July 2025 at 23:00)
 
 #EXTINF:-1 tvg-id="ppv-3716" tvg-name="(North) Korean Central Television" tvg-epgid="3716" tvg-logo="https://i.imgur.com/CnphStu.png",(North) Korean Central Television
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MTM1MGFmMDIzODI3LTk3Y2EtMDZhNC0yNTA3LWY0M2Q4NmE0/master.m3u8?md5=DgiPdPnib0v2HcgFy9bdGw&expires=1753705651&net=MTcyLjE4Mi4xOTUuMzM%3D
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MTM1MGFmMDIzODI3LTk3Y2EtMDZhNC0yNTA3LWY0M2Q4NmE0/master.m3u8?md5=LRXaQMekh3TlQu1v3uzbIQ&expires=1753707191&net=MTcyLjE3NC4yMjMuMTAy
 #EXTINF:-1 tvg-id="ppv-5191" tvg-name="24/7 The Simpsons" tvg-epgid="5191" tvg-logo="https://thumbs.poocloud.in/thesimpsons/preview.jpg",24/7 The Simpsons
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MGQzNzI5MTE0YjQwLTVmYmEtYmE3NC1kOThlLWY2MmU4NGI4/master.m3u8?md5=uVZiObnC-WZ4CqBdMhm-qw&expires=1753705652&net=MTcyLjE4Mi4xOTUuMzM%3D
-#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family‌​‌​‌‌​​‌​‌‌​‌‌​‌‌​​​​‌‌​​‌​​​​‌ Guy" tvg-epgid="8008" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg",24/7 Family‌​‌​‌‌​​‌​‌‌​‌‌​‌‌​​​​‌‌​​‌​​​​‌ Guy
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YTA5ZTU3MjFhNTI0LWRkZTktZTRlNC1mMzU4LTQwMWI0YjJk/master.m3u8?md5=uVZiObnC-WZ4CqBdMhm-qw&expires=1753705652&net=MTcyLjE4Mi4xOTUuMzM%3D
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MGQzNzI5MTE0YjQwLTVmYmEtYmE3NC1kOThlLWY2MmU4NGI4/master.m3u8?md5=9GYrRlqOIGs78rhlx_Rpug&expires=1753707192&net=MTcyLjE3NC4yMjMuMTAy
+#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family‌​‌​‌‌​​‌​‌​‌‌‌​‌‌​‌‌‌‌‌​‌‌​​‌‌​ Guy" tvg-epgid="8008" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg",24/7 Family‌​‌​‌‌​​‌​‌​‌‌‌​‌‌​‌‌‌‌‌​‌‌​​‌‌​ Guy
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YTA5ZTU3MjFhNTI0LWRkZTktZTRlNC1mMzU4LTQwMWI0YjJk/master.m3u8?md5=9GYrRlqOIGs78rhlx_Rpug&expires=1753707192&net=MTcyLjE3NC4yMjMuMTAy
 #EXTINF:-1 tvg-id="ppv-3663" tvg-name="24/7 COWS" tvg-epgid="3663" tvg-logo="https://extension.usu.edu/drought/images/drought-mitigation-cows-thumbnail.png",24/7 COWS
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8?md5=uVZiObnC-WZ4CqBdMhm-qw&expires=1753705652&net=MTcyLjE4Mi4xOTUuMzM%3D
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8?md5=9GYrRlqOIGs78rhlx_Rpug&expires=1753707192&net=MTcyLjE3NC4yMjMuMTAy
 #EXTINF:-1 tvg-id="ppv-5112" tvg-name="24/7 South Park" tvg-epgid="5112" tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg",24/7 South Park
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZGEyNDNkZWMyNzFjLWU2OWItNzFlNC00NWU5LTUyODY0MWIz/master.m3u8?md5=nGZrg5cJpTH8E1FDgd82qA&expires=1753705653&net=MTcyLjE4Mi4xOTUuMzM%3D
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZGEyNDNkZWMyNzFjLWU2OWItNzFlNC00NWU5LTUyODY0MWIz/master.m3u8?md5=9GYrRlqOIGs78rhlx_Rpug&expires=1753707192&net=MTcyLjE3NC4yMjMuMTAy
