@@ -329,6 +329,50 @@ channel="ppv-9707"
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FkYDcKwB.png@jpg" />
 </programme>
 
+<channel id="ppv-9723">
+<display-name>Liberty at Wings</display-name>
+</channel>
+<programme
+start="20250729000000 +0000"
+stop="20250729024500 +0000"
+channel="ppv-9723"
+>
+<title lang="en">Liberty at Wings</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fwnba%2Flatest%2Fced%2Fnyl-dal%2F1280x720.png@jpg" />
+</programme>
+
+<channel id="ppv-9722">
+<display-name>Storm at Sun</display-name>
+</channel>
+<programme
+start="20250728230000 +0000"
+stop="20250729014500 +0000"
+channel="ppv-9722"
+>
+<title lang="en">Storm at Sun</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fwnba%2Flatest%2Fced%2Fsea-con%2F1280x720.png@jpg" />
+</programme>
+
 <channel id="ppv-9703">
 <display-name>PDC: Players Championship 22 - Board 1</display-name>
 </channel>
