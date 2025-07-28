@@ -436,7 +436,7 @@ channel="ppv-9678"
 <stereo>stereo</stereo>
 </audio>
 <category>Football</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2F5WEOBGV.png@jpg" />
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FEvSRhMj.png@jpg" />
 </programme>
 
 <channel id="ppv-9677">
@@ -458,7 +458,7 @@ channel="ppv-9677"
 <stereo>stereo</stereo>
 </audio>
 <category>Football</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FRmYlYGe.png@jpg" />
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FMb3Xuhi.png@jpg" />
 </programme>
 
 <channel id="ppv-9676">
@@ -480,7 +480,7 @@ channel="ppv-9676"
 <stereo>stereo</stereo>
 </audio>
 <category>Football</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FcflOEGZ.png@jpg" />
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FB3Bj2ng.png@jpg" />
 </programme>
 
 <channel id="ppv-9675">
@@ -502,7 +502,7 @@ channel="ppv-9675"
 <stereo>stereo</stereo>
 </audio>
 <category>Football</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FjwLub1v.png@jpg" />
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FhVZJBEW.png@jpg" />
 </programme>
 
 <channel id="ppv-9673">
@@ -524,7 +524,7 @@ channel="ppv-9673"
 <stereo>stereo</stereo>
 </audio>
 <category>Football</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2Fs6GrBU8.png@jpg" />
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2Fxi4CECo.png@jpg" />
 </programme>
 
 <channel id="ppv-9674">
@@ -546,7 +546,7 @@ channel="ppv-9674"
 <stereo>stereo</stereo>
 </audio>
 <category>Football</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FOZd884D.png@jpg" />
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FHPBEcKg.png@jpg" />
 </programme>
 
 <channel id="ppv-3716">
@@ -594,14 +594,14 @@ channel="ppv-5191"
 </programme>
 
 <channel id="ppv-8008">
-<display-name>24/7 Family​‌​​​‌​​‌‌​‌‌‌​​​​‌‌‌​​​‌‌‌‌​‌​​ Guy</display-name>
+<display-name>24/7 Family​​‌‌​‌​​‌​‌‌​​​​​‌‌‌‌‌​​‌‌‌​​​​‌ Guy</display-name>
 </channel>
 <programme
 start="20250118080000 +0000"
 stop="20250118090000 +0000"
 channel="ppv-8008"
 >
-<title lang="en">24/7 Family​‌​​​‌​​‌‌​‌‌‌​​​​‌‌‌​​​‌‌‌‌​‌​​ Guy</title>
+<title lang="en">24/7 Family​​‌‌​‌​​‌​‌‌​​​​​‌‌‌‌‌​​‌‌‌​​​​‌ Guy</title>
 <sub-title>24/7 Streams</sub-title>
 <video>
 <present>yes</present>
