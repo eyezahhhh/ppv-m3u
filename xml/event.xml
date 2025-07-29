@@ -87,28 +87,6 @@ channel="ppv-9718"
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FYJilgbC.png@jpg" />
 </programme>
 
-<channel id="ppv-9717">
-<display-name>Washington Nationals vs. Houston Astros</display-name>
-</channel>
-<programme
-start="20250729001000 +0000"
-stop="20250729031000 +0000"
-channel="ppv-9717"
->
-<title lang="en">Washington Nationals vs. Houston Astros</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FsHJxbR9.png@jpg" />
-</programme>
-
 <channel id="ppv-9703">
 <display-name>PDC: Players Championship 22 - Board 1</display-name>
 </channel>
@@ -371,27 +349,5 @@ channel="ppv-9725"
 </audio>
 <category>Wrestling</category>
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2Fn7tkxQQ.png@jpg" />
-</programme>
-
-<channel id="ppv-9724">
-<display-name>WWE: Monday Night RAW</display-name>
-</channel>
-<programme
-start="20250729000000 +0000"
-stop="20250729030000 +0000"
-channel="ppv-9724"
->
-<title lang="en">WWE: Monday Night RAW</title>
-<sub-title>Wrestling</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Wrestling</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FzmuUYCm.png@jpg" />
 </programme>
 </tv>
