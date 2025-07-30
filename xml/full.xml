@@ -637,50 +637,6 @@ channel="ppv-9675"
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FhVZJBEW.png@jpg" />
 </programme>
 
-<channel id="ppv-9673">
-<display-name>León vs. CF Montréal</display-name>
-</channel>
-<programme
-start="20250729230000 +0000"
-stop="20250730012100 +0000"
-channel="ppv-9673"
->
-<title lang="en">León vs. CF Montréal</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2Fxi4CECo.png@jpg" />
-</programme>
-
-<channel id="ppv-9674">
-<display-name>Columbus Crew vs. Toluca</display-name>
-</channel>
-<programme
-start="20250729230000 +0000"
-stop="20250730012100 +0000"
-channel="ppv-9674"
->
-<title lang="en">Columbus Crew vs. Toluca</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FHPBEcKg.png@jpg" />
-</programme>
-
 <channel id="ppv-9727">
 <display-name>TNA: Impact</display-name>
 </channel>
@@ -792,14 +748,14 @@ channel="ppv-5191"
 </programme>
 
 <channel id="ppv-8008">
-<display-name>24/7 Family​‌​​​‌​​‌​​‌‌​‌​​‌‌‌​‌​​​‌​​​​​‌ Guy</display-name>
+<display-name>24/7 Family​​‌‌​‌​​‌​‌​​​​​‌​‌​​‌‌​​‌​​​‌​​ Guy</display-name>
 </channel>
 <programme
 start="20250118080000 +0000"
 stop="20250118090000 +0000"
 channel="ppv-8008"
 >
-<title lang="en">24/7 Family​‌​​​‌​​‌​​‌‌​‌​​‌‌‌​‌​​​‌​​​​​‌ Guy</title>
+<title lang="en">24/7 Family​​‌‌​‌​​‌​‌​​​​​‌​‌​​‌‌​​‌​​​‌​​ Guy</title>
 <sub-title>24/7 Streams</sub-title>
 <video>
 <present>yes</present>
