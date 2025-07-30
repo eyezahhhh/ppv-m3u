@@ -175,28 +175,6 @@ channel="ppv-9810"
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FMfHfjDS.png@jpg" />
 </programme>
 
-<channel id="ppv-9809">
-<display-name>Pittsburgh Pirates vs. San Francisco Giants</display-name>
-</channel>
-<programme
-start="20250730194500 +0000"
-stop="20250730224500 +0000"
-channel="ppv-9809"
->
-<title lang="en">Pittsburgh Pirates vs. San Francisco Giants</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FNDK2Hxt.png@jpg" />
-</programme>
-
 <channel id="ppv-9819">
 <display-name>Dream at Wings</display-name>
 </channel>
@@ -261,94 +239,6 @@ channel="ppv-9818"
 </audio>
 <category>Basketball</category>
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fwnba%2Flatest%2Fced%2Fphx-ind%2F1280x720.png@jpg" />
-</programme>
-
-<channel id="ppv-9741">
-<display-name>PDC: Players Championship 23 - Board 4</display-name>
-</channel>
-<programme
-start="20250730110000 +0000"
-stop="20250730230000 +0000"
-channel="ppv-9741"
->
-<title lang="en">PDC: Players Championship 23 - Board 4</title>
-<sub-title>Darts</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Darts</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fopen.http.mp.streamamg.com%2Fp%2F3000668%2Fsp%2F300066800%2Fthumbnail%2Fentry_id%2F0_s7fg0uc8%2Fwidth%2F640@jpg" />
-</programme>
-
-<channel id="ppv-9742">
-<display-name>PDC: Players Championship 23 - Board 1</display-name>
-</channel>
-<programme
-start="20250730110000 +0000"
-stop="20250730230000 +0000"
-channel="ppv-9742"
->
-<title lang="en">PDC: Players Championship 23 - Board 1</title>
-<sub-title>Darts</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Darts</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fopen.http.mp.streamamg.com%2Fp%2F3000668%2Fsp%2F300066800%2Fthumbnail%2Fentry_id%2F0_0efobggs%2Fwidth%2F640@jpg" />
-</programme>
-
-<channel id="ppv-9743">
-<display-name>PDC: Players Championship 23 - Board 2</display-name>
-</channel>
-<programme
-start="20250730110000 +0000"
-stop="20250730230000 +0000"
-channel="ppv-9743"
->
-<title lang="en">PDC: Players Championship 23 - Board 2</title>
-<sub-title>Darts</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Darts</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fopen.http.mp.streamamg.com%2Fp%2F3000668%2Fsp%2F300066800%2Fthumbnail%2Fentry_id%2F0_0kdtu0de%2Fwidth%2F640@jpg" />
-</programme>
-
-<channel id="ppv-9744">
-<display-name>PDC: Players Championship 23 - Board 3</display-name>
-</channel>
-<programme
-start="20250730110000 +0000"
-stop="20250730230000 +0000"
-channel="ppv-9744"
->
-<title lang="en">PDC: Players Championship 23 - Board 3</title>
-<sub-title>Darts</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Darts</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fopen.http.mp.streamamg.com%2Fp%2F3000668%2Fsp%2F300066800%2Fthumbnail%2Fentry_id%2F0_lmcd8zcf%2Fwidth%2F640@jpg" />
 </programme>
 
 <channel id="ppv-9801">
@@ -616,14 +506,14 @@ channel="ppv-5191"
 </programme>
 
 <channel id="ppv-8008">
-<display-name>24/7 Family‌​‌​‌‌​​‌‌​‌​‌​​‌​‌​‌​‌‌‌​​‌​​‌‌ Guy</display-name>
+<display-name>24/7 Family​​‌‌​‌​​‌​​‌‌​‌​​​​‌​‌​‌​​‌‌​​‌‌ Guy</display-name>
 </channel>
 <programme
 start="20250118080000 +0000"
 stop="20250118090000 +0000"
 channel="ppv-8008"
 >
-<title lang="en">24/7 Family‌​‌​‌‌​​‌‌​‌​‌​​‌​‌​‌​‌‌‌​​‌​​‌‌ Guy</title>
+<title lang="en">24/7 Family​​‌‌​‌​​‌​​‌‌​‌​​​​‌​‌​‌​​‌‌​​‌‌ Guy</title>
 <sub-title>24/7 Streams</sub-title>
 <video>
 <present>yes</present>
