@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ppv-9767" tvg-name="Los Angeles Chargers vs. Detroit Lions (1 August 2025 at 00:00)" tvg-epgid="9767" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FE7MPu9i.png@jpg",Los Angeles Chargers vs. Detroit Lions (1 August 2025 at 00:00)
+
 #EXTINF:-1 tvg-id="ppv-9783" tvg-name="Seattle Mariners vs. Athletics (30 July 2025 at 02:05)" tvg-epgid="9783" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2Fwog8RUD.png@jpg",Seattle Mariners vs. Athletics (30 July 2025 at 02:05)
 
 #EXTINF:-1 tvg-id="ppv-9782" tvg-name="Pittsburgh Pirates vs. San Francisco Giants (30 July 2025 at 01:45)" tvg-epgid="9782" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FzaXbd6I.png@jpg",Pittsburgh Pirates vs. San Francisco Giants (30 July 2025 at 01:45)
@@ -58,6 +60,8 @@
 #EXTINF:-1 tvg-id="ppv-9673" tvg-name="León vs. CF Montréal (29 July 2025 at 23:00)" tvg-epgid="9673" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2Fxi4CECo.png@jpg",León vs. CF Montréal (29 July 2025 at 23:00)
 
 #EXTINF:-1 tvg-id="ppv-9674" tvg-name="Columbus Crew vs. Toluca (29 July 2025 at 23:00)" tvg-epgid="9674" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FHPBEcKg.png@jpg",Columbus Crew vs. Toluca (29 July 2025 at 23:00)
+
+#EXTINF:-1 tvg-id="ppv-9727" tvg-name="TNA: Impact (1 August 2025 at 00:00)" tvg-epgid="9727" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FFpS5gVp.png@jpg",TNA: Impact (1 August 2025 at 00:00)
 
 #EXTINF:-1 tvg-id="ppv-9726" tvg-name="AEW: Wednesday Night Dynamite (31 July 2025 at 00:00)" tvg-epgid="9726" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FGajn72i.jpeg@jpg",AEW: Wednesday Night Dynamite (31 July 2025 at 00:00)
 
