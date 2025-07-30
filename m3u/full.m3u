@@ -31,8 +31,6 @@
 
 #EXTINF:-1 tvg-id="ppv-9802" tvg-name="Toronto Blue Jays vs. Baltimore Orioles (30 July 2025 at 16:35)" tvg-epgid="9802" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FxSlliGR.png@jpg",Toronto Blue Jays vs. Baltimore Orioles (30 July 2025 at 16:35)
 
-#EXTINF:-1 tvg-id="ppv-9783" tvg-name="Seattle Mariners vs. Athletics (30 July 2025 at 02:05)" tvg-epgid="9783" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2Fwog8RUD.png@jpg",Seattle Mariners vs. Athletics (30 July 2025 at 02:05)
-
 #EXTINF:-1 tvg-id="ppv-9741" tvg-name="PDC: Players Championship 23 - Board 4 (30 July 2025 at 11:00)" tvg-epgid="9741" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fopen.http.mp.streamamg.com%2Fp%2F3000668%2Fsp%2F300066800%2Fthumbnail%2Fentry_id%2F0_s7fg0uc8%2Fwidth%2F640@jpg",PDC: Players Championship 23 - Board 4 (30 July 2025 at 11:00)
 
 #EXTINF:-1 tvg-id="ppv-9742" tvg-name="PDC: Players Championship 23 - Board 1 (30 July 2025 at 11:00)" tvg-epgid="9742" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fopen.http.mp.streamamg.com%2Fp%2F3000668%2Fsp%2F300066800%2Fthumbnail%2Fentry_id%2F0_0efobggs%2Fwidth%2F640@jpg",PDC: Players Championship 23 - Board 1 (30 July 2025 at 11:00)
@@ -61,19 +59,17 @@
 
 #EXTINF:-1 tvg-id="ppv-9678" tvg-name="San Diego FC vs. Pachuca (30 July 2025 at 03:00)" tvg-epgid="9678" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FEvSRhMj.png@jpg",San Diego FC vs. Pachuca (30 July 2025 at 03:00)
 
-#EXTINF:-1 tvg-id="ppv-9677" tvg-name="Mazatlán FC vs. LAFC (30 July 2025 at 02:30)" tvg-epgid="9677" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FMb3Xuhi.png@jpg",Mazatlán FC vs. LAFC (30 July 2025 at 02:30)
-
 #EXTINF:-1 tvg-id="ppv-9727" tvg-name="TNA: Impact (1 August 2025 at 00:00)" tvg-epgid="9727" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FFpS5gVp.png@jpg",TNA: Impact (1 August 2025 at 00:00)
 
 #EXTINF:-1 tvg-id="ppv-9726" tvg-name="AEW: Wednesday Night Dynamite (31 July 2025 at 00:00)" tvg-epgid="9726" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FGajn72i.jpeg@jpg",AEW: Wednesday Night Dynamite (31 July 2025 at 00:00)
 
 #EXTINF:-1 tvg-id="ppv-3716" tvg-name="(North) Korean Central Television" tvg-epgid="3716" tvg-logo="https://i.imgur.com/CnphStu.png",(North) Korean Central Television
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MTM1MGFmMDIzODI3LTk3Y2EtMDZhNC0yNTA3LWY0M2Q4NmE0/master.m3u8?md5=JhSy1mVMHz4nzKvV5NDT9g&expires=1753893994&net=MjAuMTA5LjM5LjQ5
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MTM1MGFmMDIzODI3LTk3Y2EtMDZhNC0yNTA3LWY0M2Q4NmE0/master.m3u8?md5=UC3dSPmsX0UQLU0r7_FMxA&expires=1753895537&net=NDguMjE0LjU1LjUw
 #EXTINF:-1 tvg-id="ppv-5191" tvg-name="24/7 The Simpsons" tvg-epgid="5191" tvg-logo="https://thumbs.poocloud.in/thesimpsons/preview.jpg",24/7 The Simpsons
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MGQzNzI5MTE0YjQwLTVmYmEtYmE3NC1kOThlLWY2MmU4NGI4/master.m3u8?md5=Dx3XntRrekWoz-wZDCP5Cw&expires=1753893995&net=MjAuMTA5LjM5LjQ5
-#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family​​​‌​‌​​​‌‌​‌‌​‌​​‌​​‌‌‌​​‌‌​​​‌ Guy" tvg-epgid="8008" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg",24/7 Family​​​‌​‌​​​‌‌​‌‌​‌​​‌​​‌‌‌​​‌‌​​​‌ Guy
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YTA5ZTU3MjFhNTI0LWRkZTktZTRlNC1mMzU4LTQwMWI0YjJk/master.m3u8?md5=Dx3XntRrekWoz-wZDCP5Cw&expires=1753893995&net=MjAuMTA5LjM5LjQ5
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MGQzNzI5MTE0YjQwLTVmYmEtYmE3NC1kOThlLWY2MmU4NGI4/master.m3u8?md5=mJXi3xdfT_uSSL4xW_HDjg&expires=1753895538&net=NDguMjE0LjU1LjUw
+#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family​​‌‌​​​​‌‌​‌​‌‌​​​‌‌​‌‌‌​​‌‌​​‌​ Guy" tvg-epgid="8008" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg",24/7 Family​​‌‌​​​​‌‌​‌​‌‌​​​‌‌​‌‌‌​​‌‌​​‌​ Guy
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YTA5ZTU3MjFhNTI0LWRkZTktZTRlNC1mMzU4LTQwMWI0YjJk/master.m3u8?md5=mJXi3xdfT_uSSL4xW_HDjg&expires=1753895538&net=NDguMjE0LjU1LjUw
 #EXTINF:-1 tvg-id="ppv-3663" tvg-name="24/7 COWS" tvg-epgid="3663" tvg-logo="https://extension.usu.edu/drought/images/drought-mitigation-cows-thumbnail.png",24/7 COWS
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8?md5=CR68I-mgMTQ0eHWQFvubcg&expires=1753893996&net=MjAuMTA5LjM5LjQ5
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8?md5=mJXi3xdfT_uSSL4xW_HDjg&expires=1753895538&net=NDguMjE0LjU1LjUw
 #EXTINF:-1 tvg-id="ppv-5112" tvg-name="24/7 South Park" tvg-epgid="5112" tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg",24/7 South Park
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZGEyNDNkZWMyNzFjLWU2OWItNzFlNC00NWU5LTUyODY0MWIz/master.m3u8?md5=CR68I-mgMTQ0eHWQFvubcg&expires=1753893996&net=MjAuMTA5LjM5LjQ5
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZGEyNDNkZWMyNzFjLWU2OWItNzFlNC00NWU5LTUyODY0MWIz/master.m3u8?md5=52wZaiDMd8LQPdVrZtgdHA&expires=1753895539&net=NDguMjE0LjU1LjUw
