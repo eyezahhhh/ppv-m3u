@@ -153,28 +153,6 @@ channel="ppv-9800"
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FKhVOh6g.png@jpg" />
 </programme>
 
-<channel id="ppv-9799">
-<display-name>Querétaro vs. Minnesota United FC</display-name>
-</channel>
-<programme
-start="20250731003000 +0000"
-stop="20250731025100 +0000"
-channel="ppv-9799"
->
-<title lang="en">Querétaro vs. Minnesota United FC</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2Fry9txEJ.png@jpg" />
-</programme>
-
 <channel id="ppv-9728">
 <display-name>WWE: Friday Night Smackdown</display-name>
 </channel>
@@ -217,28 +195,6 @@ channel="ppv-9727"
 </audio>
 <category>Wrestling</category>
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FFpS5gVp.png@jpg" />
-</programme>
-
-<channel id="ppv-9726">
-<display-name>AEW: Wednesday Night Dynamite</display-name>
-</channel>
-<programme
-start="20250731000000 +0000"
-stop="20250731030000 +0000"
-channel="ppv-9726"
->
-<title lang="en">AEW: Wednesday Night Dynamite</title>
-<sub-title>Wrestling</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Wrestling</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FGajn72i.jpeg@jpg" />
 </programme>
 
 <channel id="ppv-3716">
@@ -286,14 +242,14 @@ channel="ppv-5191"
 </programme>
 
 <channel id="ppv-8008">
-<display-name>24/7 Family‌​​​​‌‌‌‌‌‌​‌​​​‌‌​​‌​​‌​​‌​​​‌‌ Guy</display-name>
+<display-name>24/7 Family​‌​​​​​​‌‌‌​‌‌​​‌​​​‌‌‌‌​​‌​​‌​​ Guy</display-name>
 </channel>
 <programme
 start="20250118080000 +0000"
 stop="20250118090000 +0000"
 channel="ppv-8008"
 >
-<title lang="en">24/7 Family‌​​​​‌‌‌‌‌‌​‌​​​‌‌​​‌​​‌​​‌​​​‌‌ Guy</title>
+<title lang="en">24/7 Family​‌​​​​​​‌‌‌​‌‌​​‌​​​‌‌‌‌​​‌​​‌​​ Guy</title>
 <sub-title>24/7 Streams</sub-title>
 <video>
 <present>yes</present>
