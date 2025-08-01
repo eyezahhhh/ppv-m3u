@@ -395,6 +395,50 @@ channel="ppv-9856"
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fopen.http.mp.streamamg.com%2Fp%2F3000668%2Fsp%2F300066800%2Fthumbnail%2Fentry_id%2F0_npmetal5%2Fwidth%2F640@jpg" />
 </programme>
 
+<channel id="ppv-9874">
+<display-name>PDC: Winmau Darts Classic 2025 - Board 3</display-name>
+</channel>
+<programme
+start="20250802160000 +0000"
+stop="20250802220000 +0000"
+channel="ppv-9874"
+>
+<title lang="en">PDC: Winmau Darts Classic 2025 - Board 3</title>
+<sub-title>Darts</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Darts</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fopen.http.mp.streamamg.com%2Fp%2F3000668%2Fsp%2F300066800%2Fthumbnail%2Fentry_id%2F0_qf5acu87%2Fwidth%2F640@jpg" />
+</programme>
+
+<channel id="ppv-9875">
+<display-name>PDC: Winmau Darts Classic 2025 - Board 2</display-name>
+</channel>
+<programme
+start="20250802160000 +0000"
+stop="20250802220000 +0000"
+channel="ppv-9875"
+>
+<title lang="en">PDC: Winmau Darts Classic 2025 - Board 2</title>
+<sub-title>Darts</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Darts</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fopen.http.mp.streamamg.com%2Fp%2F3000668%2Fsp%2F300066800%2Fthumbnail%2Fentry_id%2F0_31gjp6s9%2Fwidth%2F640@jpg" />
+</programme>
+
 <channel id="ppv-9853">
 <display-name>PDC: Asian Tour 21-22 (Philippines) – Day 1</display-name>
 </channel>
@@ -503,6 +547,50 @@ channel="ppv-9851"
 </audio>
 <category>Darts</category>
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fopen.http.mp.streamamg.com%2Fp%2F3000668%2Fsp%2F300066800%2Fthumbnail%2Fentry_id%2F0_teouz913%2Fwidth%2F640@jpg" />
+</programme>
+
+<channel id="ppv-9872">
+<display-name>PDC: CDC Showcase 2025 - Board 2</display-name>
+</channel>
+<programme
+start="20250801220000 +0000"
+stop="20250802040000 +0000"
+channel="ppv-9872"
+>
+<title lang="en">PDC: CDC Showcase 2025 - Board 2</title>
+<sub-title>Darts</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Darts</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fopen.http.mp.streamamg.com%2Fp%2F3000668%2Fsp%2F300066800%2Fthumbnail%2Fentry_id%2F0_rcl7o0ew%2Fwidth%2F640@jpg" />
+</programme>
+
+<channel id="ppv-9873">
+<display-name>PDC: CDC Showcase 2025 - Board 3</display-name>
+</channel>
+<programme
+start="20250801220000 +0000"
+stop="20250802040000 +0000"
+channel="ppv-9873"
+>
+<title lang="en">PDC: CDC Showcase 2025 - Board 3</title>
+<sub-title>Darts</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Darts</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fopen.http.mp.streamamg.com%2Fp%2F3000668%2Fsp%2F300066800%2Fthumbnail%2Fentry_id%2F0_mckv66zi%2Fwidth%2F640@jpg" />
 </programme>
 
 <channel id="ppv-9826">
@@ -616,14 +704,14 @@ channel="ppv-5191"
 </programme>
 
 <channel id="ppv-8008">
-<display-name>24/7 Family​​‌‌​‌​​‌​‌‌​​​​​​‌​​‌​‌​‌​​​​​‌ Guy</display-name>
+<display-name>24/7 Family​​‌‌​​​​‌‌​‌‌​​‌‌​​​‌‌‌​​‌​‌​‌​‌ Guy</display-name>
 </channel>
 <programme
 start="20250118080000 +0000"
 stop="20250118090000 +0000"
 channel="ppv-8008"
 >
-<title lang="en">24/7 Family​​‌‌​‌​​‌​‌‌​​​​​​‌​​‌​‌​‌​​​​​‌ Guy</title>
+<title lang="en">24/7 Family​​‌‌​​​​‌‌​‌‌​​‌‌​​​‌‌‌​​‌​‌​‌​‌ Guy</title>
 <sub-title>24/7 Streams</sub-title>
 <video>
 <present>yes</present>
