@@ -722,7 +722,7 @@ channel="ppv-9905"
 <stereo>stereo</stereo>
 </audio>
 <category>Football</category>
-<icon src="https://ppv.to/assets/thumb/d08636f9768e8ce5d70a3447202f14eb-thumbnail.jpg" />
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FaBgDwYu.png@jpg" />
 </programme>
 
 <channel id="ppv-9904">
@@ -744,7 +744,7 @@ channel="ppv-9904"
 <stereo>stereo</stereo>
 </audio>
 <category>Football</category>
-<icon src="https://ppv.to/assets/thumb/d08636f9768e8ce5d70a3447202f14eb-thumbnail.jpg" />
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2F9zep5XK.png@jpg" />
 </programme>
 
 <channel id="ppv-9903">
@@ -766,7 +766,7 @@ channel="ppv-9903"
 <stereo>stereo</stereo>
 </audio>
 <category>Football</category>
-<icon src="https://ppv.to/assets/thumb/d08636f9768e8ce5d70a3447202f14eb-thumbnail.jpg" />
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2Fv3XUcFB.png@jpg" />
 </programme>
 
 <channel id="ppv-9902">
@@ -788,18 +788,18 @@ channel="ppv-9902"
 <stereo>stereo</stereo>
 </audio>
 <category>Football</category>
-<icon src="https://ppv.to/assets/thumb/d08636f9768e8ce5d70a3447202f14eb-thumbnail.jpg" />
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FZJL7VlC.png@jpg" />
 </programme>
 
 <channel id="ppv-9901">
-<display-name>sPuebla vs. Columbus Crew</display-name>
+<display-name>Puebla vs. Columbus Crew</display-name>
 </channel>
 <programme
 start="20250801230000 +0000"
 stop="20250802012100 +0000"
 channel="ppv-9901"
 >
-<title lang="en">sPuebla vs. Columbus Crew</title>
+<title lang="en">Puebla vs. Columbus Crew</title>
 <sub-title>Football</sub-title>
 <video>
 <present>yes</present>
@@ -810,7 +810,7 @@ channel="ppv-9901"
 <stereo>stereo</stereo>
 </audio>
 <category>Football</category>
-<icon src="https://ppv.to/assets/thumb/d08636f9768e8ce5d70a3447202f14eb-thumbnail.jpg" />
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2Ft4mNiOL.png@jpg" />
 </programme>
 
 <channel id="ppv-9900">
@@ -1012,14 +1012,14 @@ channel="ppv-5191"
 </programme>
 
 <channel id="ppv-8008">
-<display-name>24/7 Family​​‌‌​‌​​‌​‌‌​​​​​‌‌‌‌‌​​‌‌‌​​​​​ Guy</display-name>
+<display-name>24/7 Family​​‌‌​‌​​‌​​‌‌‌‌‌‌‌‌‌​‌‌​​​​​​​​​ Guy</display-name>
 </channel>
 <programme
 start="20250118080000 +0000"
 stop="20250118090000 +0000"
 channel="ppv-8008"
 >
-<title lang="en">24/7 Family​​‌‌​‌​​‌​‌‌​​​​​‌‌‌‌‌​​‌‌‌​​​​​ Guy</title>
+<title lang="en">24/7 Family​​‌‌​‌​​‌​​‌‌‌‌‌‌‌‌‌​‌‌​​​​​​​​​ Guy</title>
 <sub-title>24/7 Streams</sub-title>
 <video>
 <present>yes</present>
