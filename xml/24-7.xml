@@ -18,7 +18,7 @@ channel="ppv-3716"
 <stereo>stereo</stereo>
 </audio>
 <category>24/7 Streams</category>
-<icon src="https://i.imgur.com/CnphStu.png" />
+<icon src="&quot;https:\/\/i.imgur.com\/CnphStu.png&quot;" />
 </programme>
 
 <channel id="ppv-5191">
@@ -40,18 +40,18 @@ channel="ppv-5191"
 <stereo>stereo</stereo>
 </audio>
 <category>24/7 Streams</category>
-<icon src="https://thumbs.poocloud.in/thesimpsons/preview.jpg" />
+<icon src="&quot;https:\/\/thumbs.poocloud.in\/thesimpsons\/preview.jpg&quot;" />
 </programme>
 
 <channel id="ppv-8008">
-<display-name>24/7 Family​‌​​​​​​‌‌‌​‌‌​​‌​​​​‌​‌‌​‌‌​‌​​ Guy</display-name>
+<display-name>24/7 Family​‌​​​​​​‌‌‌​‌‌​​‌​​​​‌‌​​​‌​​​‌‌ Guy</display-name>
 </channel>
 <programme
 start="20250118080000 +0000"
 stop="20250118090000 +0000"
 channel="ppv-8008"
 >
-<title lang="en">24/7 Family​‌​​​​​​‌‌‌​‌‌​​‌​​​​‌​‌‌​‌‌​‌​​ Guy</title>
+<title lang="en">24/7 Family​‌​​​​​​‌‌‌​‌‌​​‌​​​​‌‌​​​‌​​​‌‌ Guy</title>
 <sub-title>24/7 Streams</sub-title>
 <video>
 <present>yes</present>
@@ -62,7 +62,7 @@ channel="ppv-8008"
 <stereo>stereo</stereo>
 </audio>
 <category>24/7 Streams</category>
-<icon src="https://thumbs.poocloud.in/familyguy/preview.jpg" />
+<icon src="&quot;https:\/\/thumbs.poocloud.in\/familyguy\/preview.jpg&quot;" />
 </programme>
 
 <channel id="ppv-3663">
@@ -84,7 +84,7 @@ channel="ppv-3663"
 <stereo>stereo</stereo>
 </audio>
 <category>24/7 Streams</category>
-<icon src="https://extension.usu.edu/drought/images/drought-mitigation-cows-thumbnail.png" />
+<icon src="&quot;https:\/\/extension.usu.edu\/drought\/images\/drought-mitigation-cows-thumbnail.png&quot;" />
 </programme>
 
 <channel id="ppv-5112">
@@ -106,6 +106,6 @@ channel="ppv-5112"
 <stereo>stereo</stereo>
 </audio>
 <category>24/7 Streams</category>
-<icon src="https://thumbs.poocloud.in/southpark/preview.jpg" />
+<icon src="&quot;https:\/\/thumbs.poocloud.in\/southpark\/preview.jpg&quot;" />
 </programme>
 </tv>
