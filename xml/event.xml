@@ -769,28 +769,6 @@ channel="ppv-9884"
 <icon src="https://ppv.to/assets/thumb/d2ee0ddc429d6a2e40705519c4ccd46e-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-9883">
-<display-name>F1: Hungarian Grand Prix (Practice 2)</display-name>
-</channel>
-<programme
-start="20250801150000 +0000"
-stop="20250801170000 +0000"
-channel="ppv-9883"
->
-<title lang="en">F1: Hungarian Grand Prix (Practice 2)</title>
-<sub-title>Motorsports</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Motorsports</category>
-<icon src="https://ppv.to/assets/thumb/d2ee0ddc429d6a2e40705519c4ccd46e-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-9729">
 <display-name>AEW: Saturday Night Collision</display-name>
 </channel>
