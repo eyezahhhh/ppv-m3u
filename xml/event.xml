@@ -329,6 +329,116 @@ channel="ppv-9857"
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FB9wd6Ip.png@jpg" />
 </programme>
 
+<channel id="ppv-9892">
+<display-name>Sparks at Storm</display-name>
+</channel>
+<programme
+start="20250802020000 +0000"
+stop="20250802044500 +0000"
+channel="ppv-9892"
+>
+<title lang="en">Sparks at Storm</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://ppv.to/assets/thumb/f8386da1d964d241fb825784e8d499dc-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-9888">
+<display-name>Mercury at Dream</display-name>
+</channel>
+<programme
+start="20250801233000 +0000"
+stop="20250802021500 +0000"
+channel="ppv-9888"
+>
+<title lang="en">Mercury at Dream</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://ppv.to/assets/thumb/dbf1f16aa7abdf90b3c2828e6e4b5111-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-9889">
+<display-name>Liberty at Sun</display-name>
+</channel>
+<programme
+start="20250801233000 +0000"
+stop="20250802021500 +0000"
+channel="ppv-9889"
+>
+<title lang="en">Liberty at Sun</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://ppv.to/assets/thumb/a92d5a8fee1bf33ef34f305b5242e014-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-9890">
+<display-name>Valkyries at Sky</display-name>
+</channel>
+<programme
+start="20250801233000 +0000"
+stop="20250802021500 +0000"
+channel="ppv-9890"
+>
+<title lang="en">Valkyries at Sky</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://ppv.to/assets/thumb/3d5bec4b880e90c9b916761cb5261063-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-9891">
+<display-name>Fever at Wings</display-name>
+</channel>
+<programme
+start="20250801233000 +0000"
+stop="20250802021500 +0000"
+channel="ppv-9891"
+>
+<title lang="en">Fever at Wings</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://ppv.to/assets/thumb/0166796d3e0fdb2630c4ed00dc6c619f-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-9854">
 <display-name>PDC: Winmau Darts Classic - Board 3</display-name>
 </channel>
