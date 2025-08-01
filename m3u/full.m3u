@@ -25,8 +25,6 @@
 
 #EXTINF:-1 tvg-id="ppv-9860" tvg-name="Milwaukee Brewers vs. Washington Nationals (1 August 2025 at 22:45)" tvg-epgid="9860" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2Fr6zinMb.png@jpg",Milwaukee Brewers vs. Washington Nationals (1 August 2025 at 22:45)
 
-#EXTINF:-1 tvg-id="ppv-9858" tvg-name="Baltimore Orioles vs. Chicago Cubs (1 August 2025 at 18:20)" tvg-epgid="9858" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FmqVPIVV.png@jpg",Baltimore Orioles vs. Chicago Cubs (1 August 2025 at 18:20)
-
 #EXTINF:-1 tvg-id="ppv-9892" tvg-name="Sparks at Storm (2 August 2025 at 02:00)" tvg-epgid="9892" tvg-logo="https://ppv.to/assets/thumb/f8386da1d964d241fb825784e8d499dc-thumbnail.jpg",Sparks at Storm (2 August 2025 at 02:00)
 
 #EXTINF:-1 tvg-id="ppv-9888" tvg-name="Mercury at Dream (1 August 2025 at 23:30)" tvg-epgid="9888" tvg-logo="https://ppv.to/assets/thumb/dbf1f16aa7abdf90b3c2828e6e4b5111-thumbnail.jpg",Mercury at Dream (1 August 2025 at 23:30)
@@ -76,12 +74,12 @@
 #EXTINF:-1 tvg-id="ppv-9728" tvg-name="WWE: Friday Night Smackdown (2 August 2025 at 00:00)" tvg-epgid="9728" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FRqupbgS.png@jpg",WWE: Friday Night Smackdown (2 August 2025 at 00:00)
 
 #EXTINF:-1 tvg-id="ppv-3716" tvg-name="(North) Korean Central Television" tvg-epgid="3716" tvg-logo="https://i.imgur.com/CnphStu.png",(North) Korean Central Television
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MTM1MGFmMDIzODI3LTk3Y2EtMDZhNC0yNTA3LWY0M2Q4NmE0/master.m3u8?md5=q6lhzxmI43UQ859pbwquJQ&expires=1754125534&net=MTcyLjE4NC4yMTAuMjEx
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MTM1MGFmMDIzODI3LTk3Y2EtMDZhNC0yNTA3LWY0M2Q4NmE0/master.m3u8?md5=fjaBksAozd9WR8dTcNWHWA&expires=1754127384&net=NDAuNzYuMjM4LjE3OA%3D%3D
 #EXTINF:-1 tvg-id="ppv-5191" tvg-name="24/7 The Simpsons" tvg-epgid="5191" tvg-logo="https://thumbs.poocloud.in/thesimpsons/preview.jpg",24/7 The Simpsons
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MGQzNzI5MTE0YjQwLTVmYmEtYmE3NC1kOThlLWY2MmU4NGI4/master.m3u8?md5=q6lhzxmI43UQ859pbwquJQ&expires=1754125534&net=MTcyLjE4NC4yMTAuMjEx
-#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family‌​‌​‌‌​​‌​‌‌‌​​​‌‌​‌​​‌​‌‌​‌​​‌‌ Guy" tvg-epgid="8008" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg",24/7 Family‌​‌​‌‌​​‌​‌‌‌​​​‌‌​‌​​‌​‌‌​‌​​‌‌ Guy
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YTA5ZTU3MjFhNTI0LWRkZTktZTRlNC1mMzU4LTQwMWI0YjJk/master.m3u8?md5=3jakwuM-Uk-Dma_wvStbMw&expires=1754125535&net=MTcyLjE4NC4yMTAuMjEx
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MGQzNzI5MTE0YjQwLTVmYmEtYmE3NC1kOThlLWY2MmU4NGI4/master.m3u8?md5=-bf7OAAXMkPEWNwqSL2AqQ&expires=1754127385&net=NDAuNzYuMjM4LjE3OA%3D%3D
+#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family​​‌​‌​​​​‌​​‌‌​​‌‌‌​‌‌‌​‌​‌‌​​‌​ Guy" tvg-epgid="8008" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg",24/7 Family​​‌​‌​​​​‌​​‌‌​​‌‌‌​‌‌‌​‌​‌‌​​‌​ Guy
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YTA5ZTU3MjFhNTI0LWRkZTktZTRlNC1mMzU4LTQwMWI0YjJk/master.m3u8?md5=-bf7OAAXMkPEWNwqSL2AqQ&expires=1754127385&net=NDAuNzYuMjM4LjE3OA%3D%3D
 #EXTINF:-1 tvg-id="ppv-3663" tvg-name="24/7 COWS" tvg-epgid="3663" tvg-logo="https://extension.usu.edu/drought/images/drought-mitigation-cows-thumbnail.png",24/7 COWS
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8?md5=3jakwuM-Uk-Dma_wvStbMw&expires=1754125535&net=MTcyLjE4NC4yMTAuMjEx
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8?md5=-bf7OAAXMkPEWNwqSL2AqQ&expires=1754127385&net=NDAuNzYuMjM4LjE3OA%3D%3D
 #EXTINF:-1 tvg-id="ppv-5112" tvg-name="24/7 South Park" tvg-epgid="5112" tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg",24/7 South Park
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZGEyNDNkZWMyNzFjLWU2OWItNzFlNC00NWU5LTUyODY0MWIz/master.m3u8?md5=4d3QUWpABB-qUJ9Uu7dWww&expires=1754125536&net=MTcyLjE4NC4yMTAuMjEx
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZGEyNDNkZWMyNzFjLWU2OWItNzFlNC00NWU5LTUyODY0MWIz/master.m3u8?md5=Z26Jbrm6Er3KSnxdtz9XjQ&expires=1754127386&net=NDAuNzYuMjM4LjE3OA%3D%3D
