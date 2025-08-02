@@ -33,10 +33,6 @@
 
 #EXTINF:-1 tvg-id="ppv-9870" tvg-name="Arizona Diamondbacks vs. Athletics (2 August 2025 at 02:05)" tvg-epgid="9870" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FU0GQQjz.png@jpg",Arizona Diamondbacks vs. Athletics (2 August 2025 at 02:05)
 
-#EXTINF:-1 tvg-id="ppv-9869" tvg-name="St. Louis Cardinals vs. San Diego Padres (2 August 2025 at 01:40)" tvg-epgid="9869" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FaSTb4hh.png@jpg",St. Louis Cardinals vs. San Diego Padres (2 August 2025 at 01:40)
-
-#EXTINF:-1 tvg-id="ppv-9868" tvg-name="Chicago White Sox vs. Los Angeles Angels (2 August 2025 at 01:38)" tvg-epgid="9868" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FY83S9gR.png@jpg",Chicago White Sox vs. Los Angeles Angels (2 August 2025 at 01:38)
-
 #EXTINF:-1 tvg-id="ppv-9892" tvg-name="Sparks at Storm (2 August 2025 at 02:00)" tvg-epgid="9892" tvg-logo="https://ppv.to/assets/thumb/f8386da1d964d241fb825784e8d499dc-thumbnail.jpg",Sparks at Storm (2 August 2025 at 02:00)
 
 #EXTINF:-1 tvg-id="ppv-9854" tvg-name="PDC: Winmau Darts Classic - Board 3 (2 August 2025 at 16:00)" tvg-epgid="9854" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fopen.http.mp.streamamg.com%2Fp%2F3000668%2Fsp%2F300066800%2Fthumbnail%2Fentry_id%2F0_qf5acu87%2Fwidth%2F640@jpg",PDC: Winmau Darts Classic - Board 3 (2 August 2025 at 16:00)
@@ -72,12 +68,12 @@
 #EXTINF:-1 tvg-id="ppv-9729" tvg-name="AEW: Saturday Night Collision (3 August 2025 at 00:00)" tvg-epgid="9729" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2Fx3OPAo3.jpeg@jpg",AEW: Saturday Night Collision (3 August 2025 at 00:00)
 
 #EXTINF:-1 tvg-id="ppv-3716" tvg-name="(North) Korean Central Television" tvg-epgid="3716" tvg-logo="https://i.imgur.com/CnphStu.png",(North) Korean Central Television
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MTM1MGFmMDIzODI3LTk3Y2EtMDZhNC0yNTA3LWY0M2Q4NmE0/master.m3u8?md5=U0OOyGdhYKydGj5bt7iGbA&expires=1754151360&net=NjQuMjM2LjE1My4xNDc%3D
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MTM1MGFmMDIzODI3LTk3Y2EtMDZhNC0yNTA3LWY0M2Q4NmE0/master.m3u8?md5=acBhtrbmUk75N9U18fOQXw&expires=1754153037&net=MTM1LjIzNy4xMzAuMTQ0
 #EXTINF:-1 tvg-id="ppv-5191" tvg-name="24/7 The Simpsons" tvg-epgid="5191" tvg-logo="https://thumbs.poocloud.in/thesimpsons/preview.jpg",24/7 The Simpsons
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MGQzNzI5MTE0YjQwLTVmYmEtYmE3NC1kOThlLWY2MmU4NGI4/master.m3u8?md5=x-DIN2JJja83IURdzlxQRQ&expires=1754151361&net=NjQuMjM2LjE1My4xNDc%3D
-#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family​‌​​​​​​‌‌‌​‌‌​​‌​​‌‌​​‌‌​​‌​​‌‌ Guy" tvg-epgid="8008" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg",24/7 Family​‌​​​​​​‌‌‌​‌‌​​‌​​‌‌​​‌‌​​‌​​‌‌ Guy
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YTA5ZTU3MjFhNTI0LWRkZTktZTRlNC1mMzU4LTQwMWI0YjJk/master.m3u8?md5=x-DIN2JJja83IURdzlxQRQ&expires=1754151361&net=NjQuMjM2LjE1My4xNDc%3D
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MGQzNzI5MTE0YjQwLTVmYmEtYmE3NC1kOThlLWY2MmU4NGI4/master.m3u8?md5=acBhtrbmUk75N9U18fOQXw&expires=1754153037&net=MTM1LjIzNy4xMzAuMTQ0
+#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family‌​​​​‌‌‌‌‌‌​‌‌​‌‌​​​​​‌​‌​​‌​​​​ Guy" tvg-epgid="8008" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg",24/7 Family‌​​​​‌‌‌‌‌‌​‌‌​‌‌​​​​​‌​‌​​‌​​​​ Guy
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YTA5ZTU3MjFhNTI0LWRkZTktZTRlNC1mMzU4LTQwMWI0YjJk/master.m3u8?md5=2UYKeauyXM6NZHkRLp7Utw&expires=1754153038&net=MTM1LjIzNy4xMzAuMTQ0
 #EXTINF:-1 tvg-id="ppv-3663" tvg-name="24/7 COWS" tvg-epgid="3663" tvg-logo="https://extension.usu.edu/drought/images/drought-mitigation-cows-thumbnail.png",24/7 COWS
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8?md5=x-DIN2JJja83IURdzlxQRQ&expires=1754151361&net=NjQuMjM2LjE1My4xNDc%3D
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8?md5=2UYKeauyXM6NZHkRLp7Utw&expires=1754153038&net=MTM1LjIzNy4xMzAuMTQ0
 #EXTINF:-1 tvg-id="ppv-5112" tvg-name="24/7 South Park" tvg-epgid="5112" tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg",24/7 South Park
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZGEyNDNkZWMyNzFjLWU2OWItNzFlNC00NWU5LTUyODY0MWIz/master.m3u8?md5=x-DIN2JJja83IURdzlxQRQ&expires=1754151361&net=NjQuMjM2LjE1My4xNDc%3D
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZGEyNDNkZWMyNzFjLWU2OWItNzFlNC00NWU5LTUyODY0MWIz/master.m3u8?md5=2UYKeauyXM6NZHkRLp7Utw&expires=1754153038&net=MTM1LjIzNy4xMzAuMTQ0
