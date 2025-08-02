@@ -1,4 +1,334 @@
 <tv>
+<channel id="ppv-9922">
+<display-name>St. Louis Cardinals vs. San Diego Padres</display-name>
+</channel>
+<programme
+start="20250803021000 +0000"
+stop="20250803051000 +0000"
+channel="ppv-9922"
+>
+<title lang="en">St. Louis Cardinals vs. San Diego Padres</title>
+<sub-title>Baseball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Baseball</category>
+<icon src="https://ppv.to/assets/thumb/23ea43f6744fae81451cb8193423c93d-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-9921">
+<display-name>Chicago White Sox vs. Los Angeles Angels</display-name>
+</channel>
+<programme
+start="20250803020700 +0000"
+stop="20250803050700 +0000"
+channel="ppv-9921"
+>
+<title lang="en">Chicago White Sox vs. Los Angeles Angels</title>
+<sub-title>Baseball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Baseball</category>
+<icon src="https://ppv.to/assets/thumb/15f47aa2ed0e38235a3ec315e677d6f1-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-9920">
+<display-name>Arizona Diamondbacks vs. Athletics</display-name>
+</channel>
+<programme
+start="20250803020500 +0000"
+stop="20250803050500 +0000"
+channel="ppv-9920"
+>
+<title lang="en">Arizona Diamondbacks vs. Athletics</title>
+<sub-title>Baseball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Baseball</category>
+<icon src="https://ppv.to/assets/thumb/059154ec23ef89effc2e6ec1ba4caad0-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-9919">
+<display-name>Atlanta Braves vs. Cincinnati Reds</display-name>
+</channel>
+<programme
+start="20250802231500 +0000"
+stop="20250803021500 +0000"
+channel="ppv-9919"
+>
+<title lang="en">Atlanta Braves vs. Cincinnati Reds</title>
+<sub-title>Baseball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Baseball</category>
+<icon src="https://ppv.to/assets/thumb/a1dd83ac588d5f595658bc046b25cd6e-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-9914">
+<display-name>Houston Astros vs. Boston Red Sox</display-name>
+</channel>
+<programme
+start="20250802201000 +0000"
+stop="20250802231000 +0000"
+channel="ppv-9914"
+>
+<title lang="en">Houston Astros vs. Boston Red Sox</title>
+<sub-title>Baseball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Baseball</category>
+<icon src="https://ppv.to/assets/thumb/17f9c2725feb7c3fba67ecf5321d12db-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-9915">
+<display-name>Minnesota Twins vs. Cleveland Guardians</display-name>
+</channel>
+<programme
+start="20250802201000 +0000"
+stop="20250802231000 +0000"
+channel="ppv-9915"
+>
+<title lang="en">Minnesota Twins vs. Cleveland Guardians</title>
+<sub-title>Baseball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Baseball</category>
+<icon src="https://ppv.to/assets/thumb/3a285e3897bf4a19eea3f7fc5011fb24-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-9916">
+<display-name>New York Yankees vs. Miami Marlins</display-name>
+</channel>
+<programme
+start="20250802201000 +0000"
+stop="20250802231000 +0000"
+channel="ppv-9916"
+>
+<title lang="en">New York Yankees vs. Miami Marlins</title>
+<sub-title>Baseball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Baseball</category>
+<icon src="https://ppv.to/assets/thumb/07a712a759dc41db79a20941d0ac1044-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-9917">
+<display-name>San Francisco Giants vs. New York Mets</display-name>
+</channel>
+<programme
+start="20250802201000 +0000"
+stop="20250802231000 +0000"
+channel="ppv-9917"
+>
+<title lang="en">San Francisco Giants vs. New York Mets</title>
+<sub-title>Baseball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Baseball</category>
+<icon src="https://ppv.to/assets/thumb/ae3012ba36be859cef7f5ef74c82c898-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-9918">
+<display-name>Texas Rangers vs. Seattle Mariners</display-name>
+</channel>
+<programme
+start="20250802201000 +0000"
+stop="20250802231000 +0000"
+channel="ppv-9918"
+>
+<title lang="en">Texas Rangers vs. Seattle Mariners</title>
+<sub-title>Baseball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Baseball</category>
+<icon src="https://ppv.to/assets/thumb/6ee67b66a1e104e53701ffbe6e4bca77-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-9912">
+<display-name>Detroit Tigers vs. Philadelphia Phillies</display-name>
+</channel>
+<programme
+start="20250802200500 +0000"
+stop="20250802230500 +0000"
+channel="ppv-9912"
+>
+<title lang="en">Detroit Tigers vs. Philadelphia Phillies</title>
+<sub-title>Baseball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Baseball</category>
+<icon src="https://ppv.to/assets/thumb/43b5c03ac2b7c11fc4b0d1a468fe4936-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-9913">
+<display-name>Milwaukee Brewers vs. Washington Nationals</display-name>
+</channel>
+<programme
+start="20250802200500 +0000"
+stop="20250802230500 +0000"
+channel="ppv-9913"
+>
+<title lang="en">Milwaukee Brewers vs. Washington Nationals</title>
+<sub-title>Baseball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Baseball</category>
+<icon src="https://ppv.to/assets/thumb/2a3a30b3cc3ba5c26ccc65b5bdf60d43-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-9911">
+<display-name>Pittsburgh Pirates vs. Colorado Rockies</display-name>
+</channel>
+<programme
+start="20250802191000 +0000"
+stop="20250802221000 +0000"
+channel="ppv-9911"
+>
+<title lang="en">Pittsburgh Pirates vs. Colorado Rockies</title>
+<sub-title>Baseball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Baseball</category>
+<icon src="https://ppv.to/assets/thumb/dc3e60359c5fd48052e74b3bdb59b4b0-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-9910">
+<display-name>Kansas City Royals vs. Toronto Blue Jays</display-name>
+</channel>
+<programme
+start="20250802190700 +0000"
+stop="20250802220700 +0000"
+channel="ppv-9910"
+>
+<title lang="en">Kansas City Royals vs. Toronto Blue Jays</title>
+<sub-title>Baseball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Baseball</category>
+<icon src="https://ppv.to/assets/thumb/d7525be5aca9f68a5a6ee50618d59ffa-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-9909">
+<display-name>Baltimore Orioles vs. Chicago Cubs</display-name>
+</channel>
+<programme
+start="20250802182000 +0000"
+stop="20250802212000 +0000"
+channel="ppv-9909"
+>
+<title lang="en">Baltimore Orioles vs. Chicago Cubs</title>
+<sub-title>Baseball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Baseball</category>
+<icon src="https://ppv.to/assets/thumb/b3ca7fa6e6222b2386243c3a8de2b34f-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-9908">
+<display-name>Los Angeles Dodgers vs. Tampa Bay Rays</display-name>
+</channel>
+<programme
+start="20250802171000 +0000"
+stop="20250802201000 +0000"
+channel="ppv-9908"
+>
+<title lang="en">Los Angeles Dodgers vs. Tampa Bay Rays</title>
+<sub-title>Baseball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Baseball</category>
+<icon src="https://ppv.to/assets/thumb/a99ab3bb944ad28d64f299cf0fcbe4f0-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-9871">
 <display-name>Texas Rangers vs. Seattle Mariners</display-name>
 </channel>
@@ -263,116 +593,6 @@ channel="ppv-9852"
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fopen.http.mp.streamamg.com%2Fp%2F3000668%2Fsp%2F300066800%2Fthumbnail%2Fentry_id%2F0_486b03y8%2Fwidth%2F640@jpg" />
 </programme>
 
-<channel id="ppv-9849">
-<display-name>PDC: CDC Showcase - Board 2</display-name>
-</channel>
-<programme
-start="20250801220000 +0000"
-stop="20250802040000 +0000"
-channel="ppv-9849"
->
-<title lang="en">PDC: CDC Showcase - Board 2</title>
-<sub-title>Darts</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Darts</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fopen.http.mp.streamamg.com%2Fp%2F3000668%2Fsp%2F300066800%2Fthumbnail%2Fentry_id%2F0_rcl7o0ew%2Fwidth%2F640@jpg" />
-</programme>
-
-<channel id="ppv-9850">
-<display-name>PDC: CDC Showcase - Board 3</display-name>
-</channel>
-<programme
-start="20250801220000 +0000"
-stop="20250802040000 +0000"
-channel="ppv-9850"
->
-<title lang="en">PDC: CDC Showcase - Board 3</title>
-<sub-title>Darts</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Darts</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fopen.http.mp.streamamg.com%2Fp%2F3000668%2Fsp%2F300066800%2Fthumbnail%2Fentry_id%2F0_mckv66zi%2Fwidth%2F640@jpg" />
-</programme>
-
-<channel id="ppv-9851">
-<display-name>PDC: CDC Showcase 2025 - Board 1</display-name>
-</channel>
-<programme
-start="20250801220000 +0000"
-stop="20250802040000 +0000"
-channel="ppv-9851"
->
-<title lang="en">PDC: CDC Showcase 2025 - Board 1</title>
-<sub-title>Darts</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Darts</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fopen.http.mp.streamamg.com%2Fp%2F3000668%2Fsp%2F300066800%2Fthumbnail%2Fentry_id%2F0_teouz913%2Fwidth%2F640@jpg" />
-</programme>
-
-<channel id="ppv-9872">
-<display-name>PDC: CDC Showcase 2025 - Board 2</display-name>
-</channel>
-<programme
-start="20250801220000 +0000"
-stop="20250802040000 +0000"
-channel="ppv-9872"
->
-<title lang="en">PDC: CDC Showcase 2025 - Board 2</title>
-<sub-title>Darts</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Darts</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fopen.http.mp.streamamg.com%2Fp%2F3000668%2Fsp%2F300066800%2Fthumbnail%2Fentry_id%2F0_rcl7o0ew%2Fwidth%2F640@jpg" />
-</programme>
-
-<channel id="ppv-9873">
-<display-name>PDC: CDC Showcase 2025 - Board 3</display-name>
-</channel>
-<programme
-start="20250801220000 +0000"
-stop="20250802040000 +0000"
-channel="ppv-9873"
->
-<title lang="en">PDC: CDC Showcase 2025 - Board 3</title>
-<sub-title>Darts</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Darts</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fopen.http.mp.streamamg.com%2Fp%2F3000668%2Fsp%2F300066800%2Fthumbnail%2Fentry_id%2F0_mckv66zi%2Fwidth%2F640@jpg" />
-</programme>
-
 <channel id="ppv-9881">
 <display-name>Manchester United vs. Everton</display-name>
 </channel>
@@ -616,14 +836,14 @@ channel="ppv-5191"
 </programme>
 
 <channel id="ppv-8008">
-<display-name>24/7 Family​‌​​​​​​‌‌‌​‌‌​​‌​​‌‌​​‌​‌‌​​​‌‌ Guy</display-name>
+<display-name>24/7 Family​‌​​​​​​‌‌‌​‌‌​​‌​​‌‌​​‌‌​​‌​​‌‌ Guy</display-name>
 </channel>
 <programme
 start="20250118080000 +0000"
 stop="20250118090000 +0000"
 channel="ppv-8008"
 >
-<title lang="en">24/7 Family​‌​​​​​​‌‌‌​‌‌​​‌​​‌‌​​‌​‌‌​​​‌‌ Guy</title>
+<title lang="en">24/7 Family​‌​​​​​​‌‌‌​‌‌​​‌​​‌‌​​‌‌​​‌​​‌‌ Guy</title>
 <sub-title>24/7 Streams</sub-title>
 <video>
 <present>yes</present>
