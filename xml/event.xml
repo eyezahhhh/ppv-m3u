@@ -87,28 +87,6 @@ channel="ppv-9868"
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FY83S9gR.png@jpg" />
 </programme>
 
-<channel id="ppv-9867">
-<display-name>Pittsburgh Pirates vs. Colorado Rockies</display-name>
-</channel>
-<programme
-start="20250802001000 +0000"
-stop="20250802031000 +0000"
-channel="ppv-9867"
->
-<title lang="en">Pittsburgh Pirates vs. Colorado Rockies</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FGkIeUXA.png@jpg" />
-</programme>
-
 <channel id="ppv-9892">
 <display-name>Sparks at Storm</display-name>
 </channel>
@@ -128,7 +106,7 @@ channel="ppv-9892"
 <stereo>stereo</stereo>
 </audio>
 <category>Basketball</category>
-<icon src="https://ppvs.su/assets/thumb/f8386da1d964d241fb825784e8d499dc-thumbnail.jpg" />
+<icon src="https://ppv.to/assets/thumb/f8386da1d964d241fb825784e8d499dc-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-9854">
@@ -414,7 +392,7 @@ channel="ppv-9881"
 <stereo>stereo</stereo>
 </audio>
 <category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/92dbc65bf2783072d3abe079b1dc01cc-thumbnail.jpg" />
+<icon src="https://ppv.to/assets/thumb/92dbc65bf2783072d3abe079b1dc01cc-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-9880">
@@ -436,7 +414,7 @@ channel="ppv-9880"
 <stereo>stereo</stereo>
 </audio>
 <category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/c54322ebc47387b46891fceb9fab646c-thumbnail.jpg" />
+<icon src="https://ppv.to/assets/thumb/c54322ebc47387b46891fceb9fab646c-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-9905">
@@ -502,51 +480,7 @@ channel="ppv-9907"
 <stereo>stereo</stereo>
 </audio>
 <category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/a97f9d2d40095fd16241891610a42b1d-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-9903">
-<display-name>CF Montréal vs. Toluca</display-name>
-</channel>
-<programme
-start="20250802010000 +0000"
-stop="20250802032100 +0000"
-channel="ppv-9903"
->
-<title lang="en">CF Montréal vs. Toluca</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2Fv3XUcFB.png@jpg" />
-</programme>
-
-<channel id="ppv-9902">
-<display-name>Mazatlán FC vs. Houston Dynamo FC</display-name>
-</channel>
-<programme
-start="20250802003000 +0000"
-stop="20250802025100 +0000"
-channel="ppv-9902"
->
-<title lang="en">Mazatlán FC vs. Houston Dynamo FC</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FZJL7VlC.png@jpg" />
+<icon src="https://ppv.to/assets/thumb/a97f9d2d40095fd16241891610a42b1d-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-9886">
@@ -568,7 +502,7 @@ channel="ppv-9886"
 <stereo>stereo</stereo>
 </audio>
 <category>Motorsports</category>
-<icon src="https://ppvs.su/assets/thumb/d2ee0ddc429d6a2e40705519c4ccd46e-thumbnail.jpg" />
+<icon src="https://ppv.to/assets/thumb/d2ee0ddc429d6a2e40705519c4ccd46e-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-9885">
@@ -590,7 +524,7 @@ channel="ppv-9885"
 <stereo>stereo</stereo>
 </audio>
 <category>Motorsports</category>
-<icon src="https://ppvs.su/assets/thumb/d2ee0ddc429d6a2e40705519c4ccd46e-thumbnail.jpg" />
+<icon src="https://ppv.to/assets/thumb/d2ee0ddc429d6a2e40705519c4ccd46e-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-9884">
@@ -612,7 +546,7 @@ channel="ppv-9884"
 <stereo>stereo</stereo>
 </audio>
 <category>Motorsports</category>
-<icon src="https://ppvs.su/assets/thumb/d2ee0ddc429d6a2e40705519c4ccd46e-thumbnail.jpg" />
+<icon src="https://ppv.to/assets/thumb/d2ee0ddc429d6a2e40705519c4ccd46e-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-9729">
@@ -635,27 +569,5 @@ channel="ppv-9729"
 </audio>
 <category>Wrestling</category>
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2Fx3OPAo3.jpeg@jpg" />
-</programme>
-
-<channel id="ppv-9728">
-<display-name>WWE: Friday Night Smackdown</display-name>
-</channel>
-<programme
-start="20250802000000 +0000"
-stop="20250802030000 +0000"
-channel="ppv-9728"
->
-<title lang="en">WWE: Friday Night Smackdown</title>
-<sub-title>Wrestling</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Wrestling</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FRqupbgS.png@jpg" />
 </programme>
 </tv>
