@@ -23,6 +23,8 @@
 
 #EXTINF:-1 tvg-id="ppv-9949" tvg-name="Milwaukee Brewers vs. Washington Nationals (3 August 2025 at 17:35)" tvg-epgid="9949" tvg-logo="https://ppv.to/assets/thumb/2a3a30b3cc3ba5c26ccc65b5bdf60d43-thumbnail.jpg",Milwaukee Brewers vs. Washington Nationals (3 August 2025 at 17:35)
 
+#EXTINF:-1 tvg-id="ppv-9919" tvg-name="Atlanta Braves vs. Cincinnati Reds (3 August 2025 at 17:00)" tvg-epgid="9919" tvg-logo="https://ppv.to/assets/thumb/a1dd83ac588d5f595658bc046b25cd6e-thumbnail.jpg",Atlanta Braves vs. Cincinnati Reds (3 August 2025 at 17:00)
+
 #EXTINF:-1 tvg-id="ppv-9948" tvg-name="Los Angeles Dodgers vs. Tampa Bay Rays (3 August 2025 at 16:10)" tvg-epgid="9948" tvg-logo="https://ppv.to/assets/thumb/a99ab3bb944ad28d64f299cf0fcbe4f0-thumbnail.jpg",Los Angeles Dodgers vs. Tampa Bay Rays (3 August 2025 at 16:10)
 
 #EXTINF:-1 tvg-id="ppv-9965" tvg-name="Mercury at Sky (3 August 2025 at 22:00)" tvg-epgid="9965" tvg-logo="https://ppv.to/assets/thumb/11bb9d2d86735e4812936aff9de667ab-thumbnail.jpg",Mercury at Sky (3 August 2025 at 22:00)
@@ -41,17 +43,29 @@
 
 #EXTINF:-1 tvg-id="ppv-9927" tvg-name="PDC: DJD Darts Duel 2025 - Board 3 (3 August 2025 at 15:00)" tvg-epgid="9927" tvg-logo="https://ppv.to/assets/thumb/e350a94906dfe714b65d0080c42398a6-thumbnail.jpg",PDC: DJD Darts Duel 2025 - Board 3 (3 August 2025 at 15:00)
 
+#EXTINF:-1 tvg-id="ppv-9972" tvg-name="Cruz Azul vs. LA Galaxy (4 August 2025 at 02:30)" tvg-epgid="9972" tvg-logo="https://ppv.to/assets/thumb/d08636f9768e8ce5d70a3447202f14eb-thumbnail.jpg",Cruz Azul vs. LA Galaxy (4 August 2025 at 02:30)
+
+#EXTINF:-1 tvg-id="ppv-9973" tvg-name="Santos vs. Seattle Sounders FC (4 August 2025 at 02:30)" tvg-epgid="9973" tvg-logo="https://ppv.to/assets/thumb/d08636f9768e8ce5d70a3447202f14eb-thumbnail.jpg",Santos vs. Seattle Sounders FC (4 August 2025 at 02:30)
+
+#EXTINF:-1 tvg-id="ppv-9971" tvg-name="Tijuana vs. Colorado Rapids (4 August 2025 at 01:30)" tvg-epgid="9971" tvg-logo="https://ppv.to/assets/thumb/d08636f9768e8ce5d70a3447202f14eb-thumbnail.jpg",Tijuana vs. Colorado Rapids (4 August 2025 at 01:30)
+
+#EXTINF:-1 tvg-id="ppv-9970" tvg-name="New York Red Bulls vs. Monterrey (4 August 2025 at 00:30)" tvg-epgid="9970" tvg-logo="https://ppv.to/assets/thumb/d08636f9768e8ce5d70a3447202f14eb-thumbnail.jpg",New York Red Bulls vs. Monterrey (4 August 2025 at 00:30)
+
+#EXTINF:-1 tvg-id="ppv-9969" tvg-name="Charlotte FC vs. Guadalajara (3 August 2025 at 23:50)" tvg-epgid="9969" tvg-logo="https://ppv.to/assets/thumb/d08636f9768e8ce5d70a3447202f14eb-thumbnail.jpg",Charlotte FC vs. Guadalajara (3 August 2025 at 23:50)
+
+#EXTINF:-1 tvg-id="ppv-9968" tvg-name="FC Juarez vs. FC Cincinnati (3 August 2025 at 21:30)" tvg-epgid="9968" tvg-logo="https://ppv.to/assets/thumb/d08636f9768e8ce5d70a3447202f14eb-thumbnail.jpg",FC Juarez vs. FC Cincinnati (3 August 2025 at 21:30)
+
 #EXTINF:-1 tvg-id="ppv-9881" tvg-name="Manchester United vs. Everton (3 August 2025 at 21:00)" tvg-epgid="9881" tvg-logo="https://ppv.to/assets/thumb/92dbc65bf2783072d3abe079b1dc01cc-thumbnail.jpg",Manchester United vs. Everton (3 August 2025 at 21:00)
 
 #EXTINF:-1 tvg-id="ppv-9880" tvg-name="Bournemouth vs. West Ham United (3 August 2025 at 18:00)" tvg-epgid="9880" tvg-logo="https://ppv.to/assets/thumb/c54322ebc47387b46891fceb9fab646c-thumbnail.jpg",Bournemouth vs. West Ham United (3 August 2025 at 18:00)
 
 #EXTINF:-1 tvg-id="ppv-3716" tvg-name="(North) Korean Central Television" tvg-epgid="3716" tvg-logo="https://i.imgur.com/CnphStu.png",(North) Korean Central Television
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MTM1MGFmMDIzODI3LTk3Y2EtMDZhNC0yNTA3LWY0M2Q4NmE0/master.m3u8?md5=-jABTFotIW6J6eM1nAlFjw&expires=1754289754&net=MTcyLjE3NC4xNjUuMA%3D%3D
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MTM1MGFmMDIzODI3LTk3Y2EtMDZhNC0yNTA3LWY0M2Q4NmE0/master.m3u8?md5=fie8f8mhSb8NbmNIY3iF4g&expires=1754291106&net=MTcyLjIwOC42Mi4xNjE%3D
 #EXTINF:-1 tvg-id="ppv-5191" tvg-name="24/7 The Simpsons" tvg-epgid="5191" tvg-logo="https://thumbs.poocloud.in/thesimpsons/preview.jpg",24/7 The Simpsons
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MGQzNzI5MTE0YjQwLTVmYmEtYmE3NC1kOThlLWY2MmU4NGI4/master.m3u8?md5=-jABTFotIW6J6eM1nAlFjw&expires=1754289754&net=MTcyLjE3NC4xNjUuMA%3D%3D
-#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family‌​‌​‌‌​​‌​‌​‌‌‌​‌​‌​​‌​‌​​​​​​​​ Guy" tvg-epgid="8008" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg",24/7 Family‌​‌​‌‌​​‌​‌​‌‌‌​‌​‌​​‌​‌​​​​​​​​ Guy
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YTA5ZTU3MjFhNTI0LWRkZTktZTRlNC1mMzU4LTQwMWI0YjJk/master.m3u8?md5=-jABTFotIW6J6eM1nAlFjw&expires=1754289754&net=MTcyLjE3NC4xNjUuMA%3D%3D
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MGQzNzI5MTE0YjQwLTVmYmEtYmE3NC1kOThlLWY2MmU4NGI4/master.m3u8?md5=fie8f8mhSb8NbmNIY3iF4g&expires=1754291106&net=MTcyLjIwOC42Mi4xNjE%3D
+#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family‌​‌​‌‌​​‌‌​‌​​​​​​‌‌‌‌‌​‌​‌​​​​‌ Guy" tvg-epgid="8008" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg",24/7 Family‌​‌​‌‌​​‌‌​‌​​​​​​‌‌‌‌‌​‌​‌​​​​‌ Guy
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YTA5ZTU3MjFhNTI0LWRkZTktZTRlNC1mMzU4LTQwMWI0YjJk/master.m3u8?md5=XaFKmRAImik2_QfUhrae8g&expires=1754291107&net=MTcyLjIwOC42Mi4xNjE%3D
 #EXTINF:-1 tvg-id="ppv-3663" tvg-name="24/7 COWS" tvg-epgid="3663" tvg-logo="https://extension.usu.edu/drought/images/drought-mitigation-cows-thumbnail.png",24/7 COWS
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8?md5=obdd5jVERH6S-AcPw5yYXg&expires=1754289755&net=MTcyLjE3NC4xNjUuMA%3D%3D
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8?md5=XaFKmRAImik2_QfUhrae8g&expires=1754291107&net=MTcyLjIwOC42Mi4xNjE%3D
 #EXTINF:-1 tvg-id="ppv-5112" tvg-name="24/7 South Park" tvg-epgid="5112" tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg",24/7 South Park
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZGEyNDNkZWMyNzFjLWU2OWItNzFlNC00NWU5LTUyODY0MWIz/master.m3u8?md5=obdd5jVERH6S-AcPw5yYXg&expires=1754289755&net=MTcyLjE3NC4xNjUuMA%3D%3D
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZGEyNDNkZWMyNzFjLWU2OWItNzFlNC00NWU5LTUyODY0MWIz/master.m3u8?md5=XaFKmRAImik2_QfUhrae8g&expires=1754291107&net=MTcyLjIwOC42Mi4xNjE%3D
