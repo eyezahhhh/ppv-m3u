@@ -18,73 +18,7 @@ channel="ppv-9960"
 <stereo>stereo</stereo>
 </audio>
 <category>Baseball</category>
-<icon src="https://ppv.to/assets/thumb/43b5c03ac2b7c11fc4b0d1a468fe4936-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-9958">
-<display-name>St. Louis Cardinals vs. San Diego Padres</display-name>
-</channel>
-<programme
-start="20250803201000 +0000"
-stop="20250803231000 +0000"
-channel="ppv-9958"
->
-<title lang="en">St. Louis Cardinals vs. San Diego Padres</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppv.to/assets/thumb/23ea43f6744fae81451cb8193423c93d-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-9959">
-<display-name>Texas Rangers vs. Seattle Mariners</display-name>
-</channel>
-<programme
-start="20250803201000 +0000"
-stop="20250803231000 +0000"
-channel="ppv-9959"
->
-<title lang="en">Texas Rangers vs. Seattle Mariners</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppv.to/assets/thumb/6ee67b66a1e104e53701ffbe6e4bca77-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-9957">
-<display-name>Chicago White Sox vs. Los Angeles Angels</display-name>
-</channel>
-<programme
-start="20250803200700 +0000"
-stop="20250803230700 +0000"
-channel="ppv-9957"
->
-<title lang="en">Chicago White Sox vs. Los Angeles Angels</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppv.to/assets/thumb/15f47aa2ed0e38235a3ec315e677d6f1-thumbnail.jpg" />
+<icon src="https://ppvs.su/assets/thumb/43b5c03ac2b7c11fc4b0d1a468fe4936-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-9965">
@@ -106,7 +40,7 @@ channel="ppv-9965"
 <stereo>stereo</stereo>
 </audio>
 <category>Basketball</category>
-<icon src="https://ppv.to/assets/thumb/11bb9d2d86735e4812936aff9de667ab-thumbnail.jpg" />
+<icon src="https://ppvs.su/assets/thumb/11bb9d2d86735e4812936aff9de667ab-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-9966">
@@ -128,7 +62,7 @@ channel="ppv-9966"
 <stereo>stereo</stereo>
 </audio>
 <category>Basketball</category>
-<icon src="https://ppv.to/assets/thumb/2ca16ece956c90e63ade2c233f5ab0fa-thumbnail.jpg" />
+<icon src="https://ppvs.su/assets/thumb/2ca16ece956c90e63ade2c233f5ab0fa-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-9972">
@@ -282,7 +216,7 @@ channel="ppv-9881"
 <stereo>stereo</stereo>
 </audio>
 <category>Football</category>
-<icon src="https://ppv.to/assets/thumb/92dbc65bf2783072d3abe079b1dc01cc-thumbnail.jpg" />
+<icon src="https://ppvs.su/assets/thumb/92dbc65bf2783072d3abe079b1dc01cc-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-9937">
@@ -304,6 +238,6 @@ channel="ppv-9937"
 <stereo>stereo</stereo>
 </audio>
 <category>Wrestling</category>
-<icon src="https://ppv.to/assets/thumb/a055a1e38ac92a0e4f16bf6fe4ff8330-thumbnail.jpg" />
+<icon src="https://ppvs.su/assets/thumb/a055a1e38ac92a0e4f16bf6fe4ff8330-thumbnail.jpg" />
 </programme>
 </tv>
