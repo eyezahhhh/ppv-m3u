@@ -27,6 +27,16 @@
 
 #EXTINF:-1 tvg-id="ppv-9947" tvg-name="Houston Astros vs. Boston Red Sox (3 August 2025 at 15:35)" tvg-epgid="9947" tvg-logo="https://ppv.to/assets/thumb/17f9c2725feb7c3fba67ecf5321d12db-thumbnail.jpg",Houston Astros vs. Boston Red Sox (3 August 2025 at 15:35)
 
+#EXTINF:-1 tvg-id="ppv-9965" tvg-name="Mercury at Sky (3 August 2025 at 22:00)" tvg-epgid="9965" tvg-logo="https://ppv.to/assets/thumb/11bb9d2d86735e4812936aff9de667ab-thumbnail.jpg",Mercury at Sky (3 August 2025 at 22:00)
+
+#EXTINF:-1 tvg-id="ppv-9966" tvg-name="Valkyries at Aces (3 August 2025 at 22:00)" tvg-epgid="9966" tvg-logo="https://ppv.to/assets/thumb/2ca16ece956c90e63ade2c233f5ab0fa-thumbnail.jpg",Valkyries at Aces (3 August 2025 at 22:00)
+
+#EXTINF:-1 tvg-id="ppv-9963" tvg-name="Mystics at Dream (3 August 2025 at 19:00)" tvg-epgid="9963" tvg-logo="https://ppv.to/assets/thumb/749729225ad32dcd8bffc7eb5354210d-thumbnail.jpg",Mystics at Dream (3 August 2025 at 19:00)
+
+#EXTINF:-1 tvg-id="ppv-9967" tvg-name="Fever at Storm (3 August 2025 at 19:00)" tvg-epgid="9967" tvg-logo="https://ppv.to/assets/thumb/c51fda2a1ad827414bdf8f0158618da9-thumbnail.jpg",Fever at Storm (3 August 2025 at 19:00)
+
+#EXTINF:-1 tvg-id="ppv-9964" tvg-name="Liberty at Sun (3 August 2025 at 17:00)" tvg-epgid="9964" tvg-logo="https://ppv.to/assets/thumb/a92d5a8fee1bf33ef34f305b5242e014-thumbnail.jpg",Liberty at Sun (3 August 2025 at 17:00)
+
 #EXTINF:-1 tvg-id="ppv-9925" tvg-name="PDC: DJD Darts Duel 2025 - Board 1 (3 August 2025 at 15:00)" tvg-epgid="9925" tvg-logo="https://ppv.to/assets/thumb/38b0bf5ceb970f8481befa31c30db4fc-thumbnail.jpg",PDC: DJD Darts Duel 2025 - Board 1 (3 August 2025 at 15:00)
 
 #EXTINF:-1 tvg-id="ppv-9926" tvg-name="PDC: DJD Darts Duel 2025 - Board 2 (3 August 2025 at 15:00)" tvg-epgid="9926" tvg-logo="https://ppv.to/assets/thumb/e350a94906dfe714b65d0080c42398a6-thumbnail.jpg",PDC: DJD Darts Duel 2025 - Board 2 (3 August 2025 at 15:00)
@@ -37,17 +47,15 @@
 
 #EXTINF:-1 tvg-id="ppv-9880" tvg-name="Bournemouth vs. West Ham United (3 August 2025 at 18:00)" tvg-epgid="9880" tvg-logo="https://ppv.to/assets/thumb/c54322ebc47387b46891fceb9fab646c-thumbnail.jpg",Bournemouth vs. West Ham United (3 August 2025 at 18:00)
 
-#EXTINF:-1 tvg-id="ppv-9961" tvg-name="Newcastle United vs Tottenham Hotspur (3 August 2025 at 11:00)" tvg-epgid="9961" tvg-logo="https://ppv.to/assets/thumb/13d0dd00c116c0ae2277729f17cf6329-thumbnail.jpg",Newcastle United vs Tottenham Hotspur (3 August 2025 at 11:00)
-
 #EXTINF:-1 tvg-id="ppv-9886" tvg-name="F1: Hungarian Grand Prix (Race) (3 August 2025 at 13:00)" tvg-epgid="9886" tvg-logo="https://ppv.to/assets/thumb/d2ee0ddc429d6a2e40705519c4ccd46e-thumbnail.jpg",F1: Hungarian Grand Prix (Race) (3 August 2025 at 13:00)
 
 #EXTINF:-1 tvg-id="ppv-3716" tvg-name="(North) Korean Central Television" tvg-epgid="3716" tvg-logo="https://i.imgur.com/CnphStu.png",(North) Korean Central Television
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MTM1MGFmMDIzODI3LTk3Y2EtMDZhNC0yNTA3LWY0M2Q4NmE0/master.m3u8?md5=j6o5z2IWjDC5sVhhGg-Mbg&expires=1754271706&net=NDAuNjUuNjEuMzU%3D
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MTM1MGFmMDIzODI3LTk3Y2EtMDZhNC0yNTA3LWY0M2Q4NmE0/master.m3u8?md5=HgASTVhqDGDmdeTHYGjUjw&expires=1754273106&net=NDAuNzkuMjQ1LjE5
 #EXTINF:-1 tvg-id="ppv-5191" tvg-name="24/7 The Simpsons" tvg-epgid="5191" tvg-logo="https://thumbs.poocloud.in/thesimpsons/preview.jpg",24/7 The Simpsons
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MGQzNzI5MTE0YjQwLTVmYmEtYmE3NC1kOThlLWY2MmU4NGI4/master.m3u8?md5=17D70o_xlvKAkn5gjtRv2g&expires=1754271707&net=NDAuNjUuNjEuMzU%3D
-#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family​​‌​‌​​​​‌​​​​​‌​​‌‌‌‌​‌​​‌​​​‌‌ Guy" tvg-epgid="8008" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg",24/7 Family​​‌​‌​​​​‌​​​​​‌​​‌‌‌‌​‌​​‌​​​‌‌ Guy
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YTA5ZTU3MjFhNTI0LWRkZTktZTRlNC1mMzU4LTQwMWI0YjJk/master.m3u8?md5=17D70o_xlvKAkn5gjtRv2g&expires=1754271707&net=NDAuNjUuNjEuMzU%3D
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MGQzNzI5MTE0YjQwLTVmYmEtYmE3NC1kOThlLWY2MmU4NGI4/master.m3u8?md5=HgASTVhqDGDmdeTHYGjUjw&expires=1754273106&net=NDAuNzkuMjQ1LjE5
+#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family​​‌​‌​​​​‌​​‌‌‌‌‌‌‌‌​‌​‌​​​‌​​‌‌ Guy" tvg-epgid="8008" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg",24/7 Family​​‌​‌​​​​‌​​‌‌‌‌‌‌‌‌​‌​‌​​​‌​​‌‌ Guy
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YTA5ZTU3MjFhNTI0LWRkZTktZTRlNC1mMzU4LTQwMWI0YjJk/master.m3u8?md5=HgASTVhqDGDmdeTHYGjUjw&expires=1754273106&net=NDAuNzkuMjQ1LjE5
 #EXTINF:-1 tvg-id="ppv-3663" tvg-name="24/7 COWS" tvg-epgid="3663" tvg-logo="https://extension.usu.edu/drought/images/drought-mitigation-cows-thumbnail.png",24/7 COWS
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8?md5=c-UcNIIK1hDYb3Ce_lmmrw&expires=1754271708&net=NDAuNjUuNjEuMzU%3D
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8?md5=tizvzen-dIP_T-0tcoMBxA&expires=1754273107&net=NDAuNzkuMjQ1LjE5
 #EXTINF:-1 tvg-id="ppv-5112" tvg-name="24/7 South Park" tvg-epgid="5112" tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg",24/7 South Park
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZGEyNDNkZWMyNzFjLWU2OWItNzFlNC00NWU5LTUyODY0MWIz/master.m3u8?md5=c-UcNIIK1hDYb3Ce_lmmrw&expires=1754271708&net=NDAuNjUuNjEuMzU%3D
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZGEyNDNkZWMyNzFjLWU2OWItNzFlNC00NWU5LTUyODY0MWIz/master.m3u8?md5=tizvzen-dIP_T-0tcoMBxA&expires=1754273107&net=NDAuNzkuMjQ1LjE5
