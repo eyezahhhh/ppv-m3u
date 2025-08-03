@@ -18,7 +18,7 @@ channel="ppv-9960"
 <stereo>stereo</stereo>
 </audio>
 <category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/43b5c03ac2b7c11fc4b0d1a468fe4936-thumbnail.jpg" />
+<icon src="https://ppv.to/assets/thumb/43b5c03ac2b7c11fc4b0d1a468fe4936-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-9958">
@@ -40,7 +40,7 @@ channel="ppv-9958"
 <stereo>stereo</stereo>
 </audio>
 <category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/23ea43f6744fae81451cb8193423c93d-thumbnail.jpg" />
+<icon src="https://ppv.to/assets/thumb/23ea43f6744fae81451cb8193423c93d-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-9959">
@@ -62,7 +62,7 @@ channel="ppv-9959"
 <stereo>stereo</stereo>
 </audio>
 <category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/6ee67b66a1e104e53701ffbe6e4bca77-thumbnail.jpg" />
+<icon src="https://ppv.to/assets/thumb/6ee67b66a1e104e53701ffbe6e4bca77-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-9957">
@@ -84,7 +84,7 @@ channel="ppv-9957"
 <stereo>stereo</stereo>
 </audio>
 <category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/15f47aa2ed0e38235a3ec315e677d6f1-thumbnail.jpg" />
+<icon src="https://ppv.to/assets/thumb/15f47aa2ed0e38235a3ec315e677d6f1-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-9956">
@@ -106,7 +106,7 @@ channel="ppv-9956"
 <stereo>stereo</stereo>
 </audio>
 <category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/059154ec23ef89effc2e6ec1ba4caad0-thumbnail.jpg" />
+<icon src="https://ppv.to/assets/thumb/059154ec23ef89effc2e6ec1ba4caad0-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-9955">
@@ -128,7 +128,7 @@ channel="ppv-9955"
 <stereo>stereo</stereo>
 </audio>
 <category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/dc3e60359c5fd48052e74b3bdb59b4b0-thumbnail.jpg" />
+<icon src="https://ppv.to/assets/thumb/dc3e60359c5fd48052e74b3bdb59b4b0-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-9954">
@@ -150,7 +150,7 @@ channel="ppv-9954"
 <stereo>stereo</stereo>
 </audio>
 <category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/b3ca7fa6e6222b2386243c3a8de2b34f-thumbnail.jpg" />
+<icon src="https://ppv.to/assets/thumb/b3ca7fa6e6222b2386243c3a8de2b34f-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-9951">
@@ -172,7 +172,7 @@ channel="ppv-9951"
 <stereo>stereo</stereo>
 </audio>
 <category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/3a285e3897bf4a19eea3f7fc5011fb24-thumbnail.jpg" />
+<icon src="https://ppv.to/assets/thumb/3a285e3897bf4a19eea3f7fc5011fb24-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-9952">
@@ -194,7 +194,7 @@ channel="ppv-9952"
 <stereo>stereo</stereo>
 </audio>
 <category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/07a712a759dc41db79a20941d0ac1044-thumbnail.jpg" />
+<icon src="https://ppv.to/assets/thumb/07a712a759dc41db79a20941d0ac1044-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-9953">
@@ -216,7 +216,7 @@ channel="ppv-9953"
 <stereo>stereo</stereo>
 </audio>
 <category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/ae3012ba36be859cef7f5ef74c82c898-thumbnail.jpg" />
+<icon src="https://ppv.to/assets/thumb/ae3012ba36be859cef7f5ef74c82c898-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-9950">
@@ -238,7 +238,7 @@ channel="ppv-9950"
 <stereo>stereo</stereo>
 </audio>
 <category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/d7525be5aca9f68a5a6ee50618d59ffa-thumbnail.jpg" />
+<icon src="https://ppv.to/assets/thumb/d7525be5aca9f68a5a6ee50618d59ffa-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-9949">
@@ -260,29 +260,7 @@ channel="ppv-9949"
 <stereo>stereo</stereo>
 </audio>
 <category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/2a3a30b3cc3ba5c26ccc65b5bdf60d43-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-9919">
-<display-name>Atlanta Braves vs. Cincinnati Reds</display-name>
-</channel>
-<programme
-start="20250803170000 +0000"
-stop="20250803200000 +0000"
-channel="ppv-9919"
->
-<title lang="en">Atlanta Braves vs. Cincinnati Reds</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/a1dd83ac588d5f595658bc046b25cd6e-thumbnail.jpg" />
+<icon src="https://ppv.to/assets/thumb/2a3a30b3cc3ba5c26ccc65b5bdf60d43-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-9965">
@@ -304,7 +282,7 @@ channel="ppv-9965"
 <stereo>stereo</stereo>
 </audio>
 <category>Basketball</category>
-<icon src="https://ppvs.su/assets/thumb/11bb9d2d86735e4812936aff9de667ab-thumbnail.jpg" />
+<icon src="https://ppv.to/assets/thumb/11bb9d2d86735e4812936aff9de667ab-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-9966">
@@ -326,7 +304,7 @@ channel="ppv-9966"
 <stereo>stereo</stereo>
 </audio>
 <category>Basketball</category>
-<icon src="https://ppvs.su/assets/thumb/2ca16ece956c90e63ade2c233f5ab0fa-thumbnail.jpg" />
+<icon src="https://ppv.to/assets/thumb/2ca16ece956c90e63ade2c233f5ab0fa-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-9963">
@@ -348,7 +326,7 @@ channel="ppv-9963"
 <stereo>stereo</stereo>
 </audio>
 <category>Basketball</category>
-<icon src="https://ppvs.su/assets/thumb/749729225ad32dcd8bffc7eb5354210d-thumbnail.jpg" />
+<icon src="https://ppv.to/assets/thumb/749729225ad32dcd8bffc7eb5354210d-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-9967">
@@ -370,29 +348,7 @@ channel="ppv-9967"
 <stereo>stereo</stereo>
 </audio>
 <category>Basketball</category>
-<icon src="https://ppvs.su/assets/thumb/c51fda2a1ad827414bdf8f0158618da9-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-9964">
-<display-name>Liberty at Sun</display-name>
-</channel>
-<programme
-start="20250803170000 +0000"
-stop="20250803194500 +0000"
-channel="ppv-9964"
->
-<title lang="en">Liberty at Sun</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://ppvs.su/assets/thumb/a92d5a8fee1bf33ef34f305b5242e014-thumbnail.jpg" />
+<icon src="https://ppv.to/assets/thumb/c51fda2a1ad827414bdf8f0158618da9-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-9925">
@@ -414,7 +370,7 @@ channel="ppv-9925"
 <stereo>stereo</stereo>
 </audio>
 <category>Darts</category>
-<icon src="https://ppvs.su/assets/thumb/38b0bf5ceb970f8481befa31c30db4fc-thumbnail.jpg" />
+<icon src="https://ppv.to/assets/thumb/38b0bf5ceb970f8481befa31c30db4fc-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-9926">
@@ -436,7 +392,7 @@ channel="ppv-9926"
 <stereo>stereo</stereo>
 </audio>
 <category>Darts</category>
-<icon src="https://ppvs.su/assets/thumb/e350a94906dfe714b65d0080c42398a6-thumbnail.jpg" />
+<icon src="https://ppv.to/assets/thumb/e350a94906dfe714b65d0080c42398a6-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-9927">
@@ -458,7 +414,7 @@ channel="ppv-9927"
 <stereo>stereo</stereo>
 </audio>
 <category>Darts</category>
-<icon src="https://ppvs.su/assets/thumb/e350a94906dfe714b65d0080c42398a6-thumbnail.jpg" />
+<icon src="https://ppv.to/assets/thumb/e350a94906dfe714b65d0080c42398a6-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-9972">
@@ -480,7 +436,7 @@ channel="ppv-9972"
 <stereo>stereo</stereo>
 </audio>
 <category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/d08636f9768e8ce5d70a3447202f14eb-thumbnail.jpg" />
+<icon src="https://ppv.to/assets/thumb/d08636f9768e8ce5d70a3447202f14eb-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-9973">
@@ -502,7 +458,7 @@ channel="ppv-9973"
 <stereo>stereo</stereo>
 </audio>
 <category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/d08636f9768e8ce5d70a3447202f14eb-thumbnail.jpg" />
+<icon src="https://ppv.to/assets/thumb/d08636f9768e8ce5d70a3447202f14eb-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-9971">
@@ -524,7 +480,7 @@ channel="ppv-9971"
 <stereo>stereo</stereo>
 </audio>
 <category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/d08636f9768e8ce5d70a3447202f14eb-thumbnail.jpg" />
+<icon src="https://ppv.to/assets/thumb/d08636f9768e8ce5d70a3447202f14eb-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-9970">
@@ -546,7 +502,7 @@ channel="ppv-9970"
 <stereo>stereo</stereo>
 </audio>
 <category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/d08636f9768e8ce5d70a3447202f14eb-thumbnail.jpg" />
+<icon src="https://ppv.to/assets/thumb/d08636f9768e8ce5d70a3447202f14eb-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-9969">
@@ -568,7 +524,7 @@ channel="ppv-9969"
 <stereo>stereo</stereo>
 </audio>
 <category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/d08636f9768e8ce5d70a3447202f14eb-thumbnail.jpg" />
+<icon src="https://ppv.to/assets/thumb/d08636f9768e8ce5d70a3447202f14eb-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-9968">
@@ -590,7 +546,7 @@ channel="ppv-9968"
 <stereo>stereo</stereo>
 </audio>
 <category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/d08636f9768e8ce5d70a3447202f14eb-thumbnail.jpg" />
+<icon src="https://ppv.to/assets/thumb/d08636f9768e8ce5d70a3447202f14eb-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-9881">
@@ -612,7 +568,7 @@ channel="ppv-9881"
 <stereo>stereo</stereo>
 </audio>
 <category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/92dbc65bf2783072d3abe079b1dc01cc-thumbnail.jpg" />
+<icon src="https://ppv.to/assets/thumb/92dbc65bf2783072d3abe079b1dc01cc-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-9880">
@@ -634,6 +590,6 @@ channel="ppv-9880"
 <stereo>stereo</stereo>
 </audio>
 <category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/c54322ebc47387b46891fceb9fab646c-thumbnail.jpg" />
+<icon src="https://ppv.to/assets/thumb/c54322ebc47387b46891fceb9fab646c-thumbnail.jpg" />
 </programme>
 </tv>
