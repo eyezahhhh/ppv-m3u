@@ -11,17 +11,13 @@
 
 #EXTINF:-1 tvg-id="ppv-9990" tvg-name="New York City FC vs. Toluca (5 August 2025 at 23:30)" tvg-epgid="9990" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FnIrpel3.png@jpg",New York City FC vs. Toluca (5 August 2025 at 23:30)
 
-#EXTINF:-1 tvg-id="ppv-9972" tvg-name="Cruz Azul vs. LA Galaxy (4 August 2025 at 02:30)" tvg-epgid="9972" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FUINIzYb.png@jpg",Cruz Azul vs. LA Galaxy (4 August 2025 at 02:30)
-
-#EXTINF:-1 tvg-id="ppv-9973" tvg-name="Santos vs. Seattle Sounders FC (4 August 2025 at 02:30)" tvg-epgid="9973" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2F9aRYR2X.png@jpg",Santos vs. Seattle Sounders FC (4 August 2025 at 02:30)
-
 #EXTINF:-1 tvg-id="ppv-3716" tvg-name="(North) Korean Central Television" tvg-epgid="3716" tvg-logo="https://i.imgur.com/CnphStu.png",(North) Korean Central Television
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MTM1MGFmMDIzODI3LTk3Y2EtMDZhNC0yNTA3LWY0M2Q4NmE0/master.m3u8?md5=CFjYMO-FLzRrw2CPojL68w&expires=1754324907&net=MjAuMTYxLjQ1LjExNQ%3D%3D
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MTM1MGFmMDIzODI3LTk3Y2EtMDZhNC0yNTA3LWY0M2Q4NmE0/master.m3u8?md5=lgVb0L72WhXKVjuJxu7k7w&expires=1754326371&net=NjguMjIwLjYwLjE0NA%3D%3D
 #EXTINF:-1 tvg-id="ppv-5191" tvg-name="24/7 The Simpsons" tvg-epgid="5191" tvg-logo="https://thumbs.poocloud.in/thesimpsons/preview.jpg",24/7 The Simpsons
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MGQzNzI5MTE0YjQwLTVmYmEtYmE3NC1kOThlLWY2MmU4NGI4/master.m3u8?md5=CFjYMO-FLzRrw2CPojL68w&expires=1754324907&net=MjAuMTYxLjQ1LjExNQ%3D%3D
-#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family​​​‌​‌​​‌​‌​​​​‌​​‌​‌‌​‌​‌‌‌​​‌‌ Guy" tvg-epgid="8008" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg",24/7 Family​​​‌​‌​​‌​‌​​​​‌​​‌​‌‌​‌​‌‌‌​​‌‌ Guy
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YTA5ZTU3MjFhNTI0LWRkZTktZTRlNC1mMzU4LTQwMWI0YjJk/master.m3u8?md5=WgP33fQ1OLjWQnJoLNGNaw&expires=1754324908&net=MjAuMTYxLjQ1LjExNQ%3D%3D
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MGQzNzI5MTE0YjQwLTVmYmEtYmE3NC1kOThlLWY2MmU4NGI4/master.m3u8?md5=lgVb0L72WhXKVjuJxu7k7w&expires=1754326371&net=NjguMjIwLjYwLjE0NA%3D%3D
+#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family​‌​​​‌​​‌‌​‌‌‌​​​​‌‌‌‌​​‌​​‌​​​​ Guy" tvg-epgid="8008" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg",24/7 Family​‌​​​‌​​‌‌​‌‌‌​​​​‌‌‌‌​​‌​​‌​​​​ Guy
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YTA5ZTU3MjFhNTI0LWRkZTktZTRlNC1mMzU4LTQwMWI0YjJk/master.m3u8?md5=t-obfCK1Eb3mo7G2wDWKhw&expires=1754326372&net=NjguMjIwLjYwLjE0NA%3D%3D
 #EXTINF:-1 tvg-id="ppv-3663" tvg-name="24/7 COWS" tvg-epgid="3663" tvg-logo="https://extension.usu.edu/drought/images/drought-mitigation-cows-thumbnail.png",24/7 COWS
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8?md5=WgP33fQ1OLjWQnJoLNGNaw&expires=1754324908&net=MjAuMTYxLjQ1LjExNQ%3D%3D
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8?md5=t-obfCK1Eb3mo7G2wDWKhw&expires=1754326372&net=NjguMjIwLjYwLjE0NA%3D%3D
 #EXTINF:-1 tvg-id="ppv-5112" tvg-name="24/7 South Park" tvg-epgid="5112" tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg",24/7 South Park
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZGEyNDNkZWMyNzFjLWU2OWItNzFlNC00NWU5LTUyODY0MWIz/master.m3u8?md5=WgP33fQ1OLjWQnJoLNGNaw&expires=1754324908&net=MjAuMTYxLjQ1LjExNQ%3D%3D
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZGEyNDNkZWMyNzFjLWU2OWItNzFlNC00NWU5LTUyODY0MWIz/master.m3u8?md5=zulK0bES16Zlb9RHRR7i3A&expires=1754326373&net=NjguMjIwLjYwLjE0NA%3D%3D
