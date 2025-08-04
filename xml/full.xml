@@ -1,4 +1,136 @@
 <tv>
+<channel id="ppv-9994">
+<display-name>LAFC vs. Tigres UANL</display-name>
+</channel>
+<programme
+start="20250806023000 +0000"
+stop="20250806045100 +0000"
+channel="ppv-9994"
+>
+<title lang="en">LAFC vs. Tigres UANL</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FjBx6mjU.png@jpg" />
+</programme>
+
+<channel id="ppv-9993">
+<display-name>San Diego FC vs. Mazatlán FC</display-name>
+</channel>
+<programme
+start="20250806020000 +0000"
+stop="20250806042100 +0000"
+channel="ppv-9993"
+>
+<title lang="en">San Diego FC vs. Mazatlán FC</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FAyAXSnx.png@jpg" />
+</programme>
+
+<channel id="ppv-9992">
+<display-name>Pachuca vs. Houston Dynamo FC</display-name>
+</channel>
+<programme
+start="20250806003000 +0000"
+stop="20250806025100 +0000"
+channel="ppv-9992"
+>
+<title lang="en">Pachuca vs. Houston Dynamo FC</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FCJMig8W.png@jpg" />
+</programme>
+
+<channel id="ppv-9991">
+<display-name>Puebla vs. CF Montréal</display-name>
+</channel>
+<programme
+start="20250806000000 +0000"
+stop="20250806022100 +0000"
+channel="ppv-9991"
+>
+<title lang="en">Puebla vs. CF Montréal</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FiB0wEUp.png@jpg" />
+</programme>
+
+<channel id="ppv-9989">
+<display-name>León vs. Columbus Crew</display-name>
+</channel>
+<programme
+start="20250805233000 +0000"
+stop="20250806015100 +0000"
+channel="ppv-9989"
+>
+<title lang="en">León vs. Columbus Crew</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2F1HQvmdU.png@jpg" />
+</programme>
+
+<channel id="ppv-9990">
+<display-name>New York City FC vs. Toluca</display-name>
+</channel>
+<programme
+start="20250805233000 +0000"
+stop="20250806015100 +0000"
+channel="ppv-9990"
+>
+<title lang="en">New York City FC vs. Toluca</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FnIrpel3.png@jpg" />
+</programme>
+
 <channel id="ppv-9972">
 <display-name>Cruz Azul vs. LA Galaxy</display-name>
 </channel>
@@ -41,50 +173,6 @@ channel="ppv-9973"
 </audio>
 <category>Football</category>
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2F9aRYR2X.png@jpg" />
-</programme>
-
-<channel id="ppv-9971">
-<display-name>Tijuana vs. Colorado Rapids</display-name>
-</channel>
-<programme
-start="20250804013000 +0000"
-stop="20250804035100 +0000"
-channel="ppv-9971"
->
-<title lang="en">Tijuana vs. Colorado Rapids</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FimGccIa.png@jpg" />
-</programme>
-
-<channel id="ppv-9937">
-<display-name>WWE: SummerSlam 2025</display-name>
-</channel>
-<programme
-start="20250803220000 +0000"
-stop="20250804040000 +0000"
-channel="ppv-9937"
->
-<title lang="en">WWE: SummerSlam 2025</title>
-<sub-title>Wrestling</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Wrestling</category>
-<icon src="https://ppvs.su/assets/thumb/a055a1e38ac92a0e4f16bf6fe4ff8330-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-3716">
@@ -132,14 +220,14 @@ channel="ppv-5191"
 </programme>
 
 <channel id="ppv-8008">
-<display-name>24/7 Family‌​‌​‌‌​​‌​‌‌‌​​​‌​‌​‌‌‌‌‌​​‌​​​‌ Guy</display-name>
+<display-name>24/7 Family​​​‌​‌​​‌​‌​​​​‌​​‌​‌‌​‌​‌‌‌​​‌‌ Guy</display-name>
 </channel>
 <programme
 start="20250118080000 +0000"
 stop="20250118090000 +0000"
 channel="ppv-8008"
 >
-<title lang="en">24/7 Family‌​‌​‌‌​​‌​‌‌‌​​​‌​‌​‌‌‌‌‌​​‌​​​‌ Guy</title>
+<title lang="en">24/7 Family​​​‌​‌​​‌​‌​​​​‌​​‌​‌‌​‌​‌‌‌​​‌‌ Guy</title>
 <sub-title>24/7 Streams</sub-title>
 <video>
 <present>yes</present>
