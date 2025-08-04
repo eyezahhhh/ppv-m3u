@@ -1,26 +1,4 @@
 <tv>
-<channel id="ppv-9960">
-<display-name>Detroit Tigers vs. Philadelphia Phillies</display-name>
-</channel>
-<programme
-start="20250803230000 +0000"
-stop="20250804020000 +0000"
-channel="ppv-9960"
->
-<title lang="en">Detroit Tigers vs. Philadelphia Phillies</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppv.to/assets/thumb/43b5c03ac2b7c11fc4b0d1a468fe4936-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-9972">
 <display-name>Cruz Azul vs. LA Galaxy</display-name>
 </channel>
@@ -85,50 +63,6 @@ channel="ppv-9971"
 </audio>
 <category>Football</category>
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FimGccIa.png@jpg" />
-</programme>
-
-<channel id="ppv-9970">
-<display-name>New York Red Bulls vs. Monterrey</display-name>
-</channel>
-<programme
-start="20250804003000 +0000"
-stop="20250804025100 +0000"
-channel="ppv-9970"
->
-<title lang="en">New York Red Bulls vs. Monterrey</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FKzJHfJq.png@jpg" />
-</programme>
-
-<channel id="ppv-9969">
-<display-name>Charlotte FC vs. Guadalajara</display-name>
-</channel>
-<programme
-start="20250803235000 +0000"
-stop="20250804021100 +0000"
-channel="ppv-9969"
->
-<title lang="en">Charlotte FC vs. Guadalajara</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2Fx94Pvp9.png@jpg" />
 </programme>
 
 <channel id="ppv-9937">
