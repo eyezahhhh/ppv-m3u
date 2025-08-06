@@ -659,50 +659,6 @@ channel="ppv-10113"
 <icon src="https://ppvs.su/assets/thumb/928548a51be813c9764d1b0dca94c1d8-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-10110">
-<display-name>Baltimore Orioles vs. Philadelphia Phillies</display-name>
-</channel>
-<programme
-start="20250806163500 +0000"
-stop="20250806193500 +0000"
-channel="ppv-10110"
->
-<title lang="en">Baltimore Orioles vs. Philadelphia Phillies</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/86a42accdbc02fefb8ec3d91542e9774-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10111">
-<display-name>San Francisco Giants vs. Pittsburgh Pirates</display-name>
-</channel>
-<programme
-start="20250806163500 +0000"
-stop="20250806193500 +0000"
-channel="ppv-10111"
->
-<title lang="en">San Francisco Giants vs. Pittsburgh Pirates</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/fff1fd4731b292b3d67aea360f6c2df4-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-10134">
 <display-name>Aces at Valkyries</display-name>
 </channel>
