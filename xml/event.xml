@@ -461,28 +461,6 @@ channel="ppv-10111"
 <icon src="https://ppvs.su/assets/thumb/fff1fd4731b292b3d67aea360f6c2df4-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-10096">
-<display-name>St. Louis Cardinals vs. Los Angeles Dodgers</display-name>
-</channel>
-<programme
-start="20250806021000 +0000"
-stop="20250806051000 +0000"
-channel="ppv-10096"
->
-<title lang="en">St. Louis Cardinals vs. Los Angeles Dodgers</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/a76c641e7465f674cd100cacde541eb2-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-10039">
 <display-name>Manchester United vs. Arsenal</display-name>
 </channel>
@@ -657,28 +635,6 @@ channel="ppv-10103"
 </audio>
 <category>Football</category>
 <icon src="https://ppvs.su/assets/thumb/13d0dd00c116c0ae2277729f17cf6329-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-9994">
-<display-name>LAFC vs. Tigres UANL</display-name>
-</channel>
-<programme
-start="20250806023000 +0000"
-stop="20250806045100 +0000"
-channel="ppv-9994"
->
-<title lang="en">LAFC vs. Tigres UANL</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/12f785f4b83cea849948b57dab88d8ec-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-10015">
