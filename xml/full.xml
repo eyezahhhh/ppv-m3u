@@ -901,6 +901,28 @@ channel="ppv-10103"
 <icon src="https://ppvs.su/assets/thumb/94c4de8651b6a1cf772c15ba490d545c-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-10157">
+<display-name>Arsenal vs Villarreal</display-name>
+</channel>
+<programme
+start="20250806170000 +0000"
+stop="20250806200000 +0000"
+channel="ppv-10157"
+>
+<title lang="en">Arsenal vs Villarreal</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/48b2f4fdaa5295b81e1c318e58a42101-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-10015">
 <display-name>AEW: Saturday Night Collision</display-name>
 </channel>
@@ -1034,14 +1056,14 @@ channel="ppv-5191"
 </programme>
 
 <channel id="ppv-8008">
-<display-name>24/7 Family​​‌​‌​​​​‌​​‌‌​​‌​‌‌‌‌‌‌‌​‌​​‌​‌ Guy</display-name>
+<display-name>24/7 Family​​​‌​‌​​‌​‌​​​​‌​​‌​‌‌‌‌​‌‌‌​​​​ Guy</display-name>
 </channel>
 <programme
 start="20250118080000 +0000"
 stop="20250118090000 +0000"
 channel="ppv-8008"
 >
-<title lang="en">24/7 Family​​‌​‌​​​​‌​​‌‌​​‌​‌‌‌‌‌‌‌​‌​​‌​‌ Guy</title>
+<title lang="en">24/7 Family​​​‌​‌​​‌​‌​​​​‌​​‌​‌‌‌‌​‌‌‌​​​​ Guy</title>
 <sub-title>24/7 Streams</sub-title>
 <video>
 <present>yes</present>
