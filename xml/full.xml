@@ -483,138 +483,6 @@ channel="ppv-10096"
 <icon src="https://ppvs.su/assets/thumb/a76c641e7465f674cd100cacde541eb2-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-10094">
-<display-name>Chicago White Sox vs. Seattle Mariners</display-name>
-</channel>
-<programme
-start="20250806014000 +0000"
-stop="20250806044000 +0000"
-channel="ppv-10094"
->
-<title lang="en">Chicago White Sox vs. Seattle Mariners</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/833391ecdad66c082178395819089cd2-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10095">
-<display-name>San Diego Padres vs. Arizona Diamondbacks</display-name>
-</channel>
-<programme
-start="20250806014000 +0000"
-stop="20250806044000 +0000"
-channel="ppv-10095"
->
-<title lang="en">San Diego Padres vs. Arizona Diamondbacks</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/526948db5e8455d23e65dd7f851eebbb-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10093">
-<display-name>Tampa Bay Rays vs. Los Angeles Angels</display-name>
-</channel>
-<programme
-start="20250806013800 +0000"
-stop="20250806043800 +0000"
-channel="ppv-10093"
->
-<title lang="en">Tampa Bay Rays vs. Los Angeles Angels</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/2750ce8272824f64934b2ce51f02f451-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10099">
-<display-name>Fever at Sparks</display-name>
-</channel>
-<programme
-start="20250806020000 +0000"
-stop="20250806044500 +0000"
-channel="ppv-10099"
->
-<title lang="en">Fever at Sparks</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://ppvs.su/assets/thumb/caf044a84f4a142f8d53674d890c078a-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10100">
-<display-name>Sun at Mercury</display-name>
-</channel>
-<programme
-start="20250806020000 +0000"
-stop="20250806044500 +0000"
-channel="ppv-10100"
->
-<title lang="en">Sun at Mercury</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://ppvs.su/assets/thumb/96262a2e93c892fba0d15629e6d12cf2-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10101">
-<display-name>Lynx at Storm</display-name>
-</channel>
-<programme
-start="20250806020000 +0000"
-stop="20250806044500 +0000"
-channel="ppv-10101"
->
-<title lang="en">Lynx at Storm</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://ppvs.su/assets/thumb/c33d0b63bc729bd8b4a2e51837602449-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-10039">
 <display-name>Manchester United vs. Arsenal</display-name>
 </channel>
@@ -946,14 +814,14 @@ channel="ppv-5191"
 </programme>
 
 <channel id="ppv-8008">
-<display-name>24/7 Family​​‌‌​‌​​‌​​‌‌​‌​‌​​​​​‌​‌‌​‌​​‌‌ Guy</display-name>
+<display-name>24/7 Family​​​‌​‌​​‌​‌​​​​‌​‌​​​‌‌‌​​‌‌​​​‌ Guy</display-name>
 </channel>
 <programme
 start="20250118080000 +0000"
 stop="20250118090000 +0000"
 channel="ppv-8008"
 >
-<title lang="en">24/7 Family​​‌‌​‌​​‌​​‌‌​‌​‌​​​​​‌​‌‌​‌​​‌‌ Guy</title>
+<title lang="en">24/7 Family​​​‌​‌​​‌​‌​​​​‌​‌​​​‌‌‌​​‌‌​​​‌ Guy</title>
 <sub-title>24/7 Streams</sub-title>
 <video>
 <present>yes</present>
