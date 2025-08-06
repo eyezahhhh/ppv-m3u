@@ -524,7 +524,7 @@ channel="ppv-10109"
 <stereo>stereo</stereo>
 </audio>
 <category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/13d0dd00c116c0ae2277729f17cf6329-thumbnail.jpg" />
+<icon src="https://ppvs.su/assets/thumb/067e55e90cefa9075aa0d40e1f44f612-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-10107">
@@ -546,7 +546,7 @@ channel="ppv-10107"
 <stereo>stereo</stereo>
 </audio>
 <category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/13d0dd00c116c0ae2277729f17cf6329-thumbnail.jpg" />
+<icon src="https://ppvs.su/assets/thumb/f2aa545ff8b1b6783663b791d71f0033-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-10108">
@@ -568,7 +568,7 @@ channel="ppv-10108"
 <stereo>stereo</stereo>
 </audio>
 <category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/13d0dd00c116c0ae2277729f17cf6329-thumbnail.jpg" />
+<icon src="https://ppvs.su/assets/thumb/aa43b1d33985c7d6187d9863db728cfb-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-10106">
@@ -590,7 +590,7 @@ channel="ppv-10106"
 <stereo>stereo</stereo>
 </audio>
 <category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/13d0dd00c116c0ae2277729f17cf6329-thumbnail.jpg" />
+<icon src="https://ppvs.su/assets/thumb/f25d77d83079424a2e0ca6c1e1f3c76f-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-10104">
@@ -612,7 +612,7 @@ channel="ppv-10104"
 <stereo>stereo</stereo>
 </audio>
 <category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/13d0dd00c116c0ae2277729f17cf6329-thumbnail.jpg" />
+<icon src="https://ppvs.su/assets/thumb/93545a834bc393cc677b48306c096eb4-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-10105">
@@ -634,7 +634,7 @@ channel="ppv-10105"
 <stereo>stereo</stereo>
 </audio>
 <category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/c8844e7a98975f6a9df502e80c3a48f8-thumbnail.jpg" />
+<icon src="https://ppvs.su/assets/thumb/84fc4a070254afd71c949ec1c0682258-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-10103">
@@ -656,7 +656,7 @@ channel="ppv-10103"
 <stereo>stereo</stereo>
 </audio>
 <category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/d93bb2fe5e6d8dad10d727292af98e70-thumbnail.jpg" />
+<icon src="https://ppvs.su/assets/thumb/94c4de8651b6a1cf772c15ba490d545c-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-10015">
@@ -792,14 +792,14 @@ channel="ppv-5191"
 </programme>
 
 <channel id="ppv-8008">
-<display-name>24/7 Family‌​‌​‌‌​​‌‌​‌​‌​​‌​‌​‌​​‌‌​​‌​​‌‌ Guy</display-name>
+<display-name>24/7 Family​​‌‌​‌​​‌​‌​​‌​‌​​‌‌‌​‌​​​‌​​​‌​ Guy</display-name>
 </channel>
 <programme
 start="20250118080000 +0000"
 stop="20250118090000 +0000"
 channel="ppv-8008"
 >
-<title lang="en">24/7 Family‌​‌​‌‌​​‌‌​‌​‌​​‌​‌​‌​​‌‌​​‌​​‌‌ Guy</title>
+<title lang="en">24/7 Family​​‌‌​‌​​‌​‌​​‌​‌​​‌‌‌​‌​​​‌​​​‌​ Guy</title>
 <sub-title>24/7 Streams</sub-title>
 <video>
 <present>yes</present>
