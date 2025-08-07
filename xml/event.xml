@@ -659,16 +659,16 @@ channel="ppv-10105"
 <icon src="https://ppvs.su/assets/thumb/84fc4a070254afd71c949ec1c0682258-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-10103">
-<display-name>Necaxa vs. Orlando City SC</display-name>
+<channel id="ppv-10161">
+<display-name>South Park: Season 27, Episode 2</display-name>
 </channel>
 <programme
-start="20250806230000 +0000"
-stop="20250807012100 +0000"
-channel="ppv-10103"
+start="20250807020000 +0000"
+stop="20250807030000 +0000"
+channel="ppv-10161"
 >
-<title lang="en">Necaxa vs. Orlando City SC</title>
-<sub-title>Football</sub-title>
+<title lang="en">South Park: Season 27, Episode 2</title>
+<sub-title>Streams</sub-title>
 <video>
 <present>yes</present>
 <colour>yes</colour>
@@ -677,8 +677,8 @@ channel="ppv-10103"
 <present>yes</present>
 <stereo>stereo</stereo>
 </audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/94c4de8651b6a1cf772c15ba490d545c-thumbnail.jpg" />
+<category>Streams</category>
+<icon src="https://ppvs.su/assets/thumb/b3c7313e53be5398ca5fd2389e79ef64-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-10015">
