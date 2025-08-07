@@ -461,6 +461,138 @@ channel="ppv-10039"
 <icon src="https://ppvs.su/assets/thumb/b79bfffaea2db395fcc384588222aa08-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-10167">
+<display-name>Santos vs. LA Galaxy</display-name>
+</channel>
+<programme
+start="20250808031500 +0000"
+stop="20250808053600 +0000"
+channel="ppv-10167"
+>
+<title lang="en">Santos vs. LA Galaxy</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/dc9817c68ca13d5bfea80a41e9a6fa08-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10166">
+<display-name>Colorado Rapids vs. Cruz Azul</display-name>
+</channel>
+<programme
+start="20250808003000 +0000"
+stop="20250808025100 +0000"
+channel="ppv-10166"
+>
+<title lang="en">Colorado Rapids vs. Cruz Azul</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/b996e54ca7b05220bbfe27ea89ee1717-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10164">
+<display-name>Charlotte FC vs. Monterrey</display-name>
+</channel>
+<programme
+start="20250807233000 +0000"
+stop="20250808015100 +0000"
+channel="ppv-10164"
+>
+<title lang="en">Charlotte FC vs. Monterrey</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/5b0ae24600537e2fee7b8fb296e52f05-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10165">
+<display-name>FC Juarez vs. New York Red Bulls</display-name>
+</channel>
+<programme
+start="20250807233000 +0000"
+stop="20250808015100 +0000"
+channel="ppv-10165"
+>
+<title lang="en">FC Juarez vs. New York Red Bulls</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/d32ffa644368fdd34f42c300b0517076-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10163">
+<display-name>Guadalajara vs. FC Cincinnati</display-name>
+</channel>
+<programme
+start="20250807230000 +0000"
+stop="20250808012100 +0000"
+channel="ppv-10163"
+>
+<title lang="en">Guadalajara vs. FC Cincinnati</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/c5d623b946f75fb8eca0e7ccf7cb5a9b-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10162">
+<display-name>Bayern München vs Tottenham Hotspur</display-name>
+</channel>
+<programme
+start="20250807043000 +0000"
+stop="20250807073000 +0000"
+channel="ppv-10162"
+>
+<title lang="en">Bayern München vs Tottenham Hotspur</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/19e8f612cb066600e43907077ff0988b-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-10109">
 <display-name>Tijuana vs. Seattle Sounders FC</display-name>
 </channel>
@@ -525,28 +657,6 @@ channel="ppv-10108"
 </audio>
 <category>Football</category>
 <icon src="https://ppvs.su/assets/thumb/aa43b1d33985c7d6187d9863db728cfb-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10106">
-<display-name>Atlético de San Luis vs. Minnesota United FC</display-name>
-</channel>
-<programme
-start="20250807003000 +0000"
-stop="20250807025100 +0000"
-channel="ppv-10106"
->
-<title lang="en">Atlético de San Luis vs. Minnesota United FC</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/f25d77d83079424a2e0ca6c1e1f3c76f-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-10015">
@@ -682,14 +792,14 @@ channel="ppv-5191"
 </programme>
 
 <channel id="ppv-8008">
-<display-name>24/7 Family‌​‌​‌‌​​‌​‌‌​​‌​​‌‌​‌‌‌‌‌‌​‌​​‌​ Guy</display-name>
+<display-name>24/7 Family​​​​​‌​​‌‌‌​​​‌‌‌​‌​‌‌‌​‌​‌‌​​‌​ Guy</display-name>
 </channel>
 <programme
 start="20250118080000 +0000"
 stop="20250118090000 +0000"
 channel="ppv-8008"
 >
-<title lang="en">24/7 Family‌​‌​‌‌​​‌​‌‌​​‌​​‌‌​‌‌‌‌‌‌​‌​​‌​ Guy</title>
+<title lang="en">24/7 Family​​​​​‌​​‌‌‌​​​‌‌‌​‌​‌‌‌​‌​‌‌​​‌​ Guy</title>
 <sub-title>24/7 Streams</sub-title>
 <video>
 <present>yes</present>
