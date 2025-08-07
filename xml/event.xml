@@ -417,72 +417,6 @@ channel="ppv-10124"
 <icon src="https://ppvs.su/assets/thumb/526948db5e8455d23e65dd7f851eebbb-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-10122">
-<display-name>Milwaukee Brewers vs. Atlanta Braves</display-name>
-</channel>
-<programme
-start="20250806231500 +0000"
-stop="20250807021500 +0000"
-channel="ppv-10122"
->
-<title lang="en">Milwaukee Brewers vs. Atlanta Braves</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/912f742743d700277bf446a115bd4e12-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10121">
-<display-name>Kansas City Royals vs. Boston Red Sox</display-name>
-</channel>
-<programme
-start="20250806231000 +0000"
-stop="20250807021000 +0000"
-channel="ppv-10121"
->
-<title lang="en">Kansas City Royals vs. Boston Red Sox</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/82e447a52749d17b62a9a647c1ec510a-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10120">
-<display-name>Athletics vs. Washington Nationals</display-name>
-</channel>
-<programme
-start="20250806224500 +0000"
-stop="20250807014500 +0000"
-channel="ppv-10120"
->
-<title lang="en">Athletics vs. Washington Nationals</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/4f9d0244feb50646e5112093d964ad0f-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-10134">
 <display-name>Aces at Valkyries</display-name>
 </channel>
@@ -615,72 +549,6 @@ channel="ppv-10106"
 <icon src="https://ppvs.su/assets/thumb/f25d77d83079424a2e0ca6c1e1f3c76f-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-10104">
-<display-name>Atlas vs. Atlanta United FC</display-name>
-</channel>
-<programme
-start="20250806233000 +0000"
-stop="20250807015100 +0000"
-channel="ppv-10104"
->
-<title lang="en">Atlas vs. Atlanta United FC</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/93545a834bc393cc677b48306c096eb4-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10105">
-<display-name>Pumas UNAM vs. Inter Miami CF</display-name>
-</channel>
-<programme
-start="20250806233000 +0000"
-stop="20250807015100 +0000"
-channel="ppv-10105"
->
-<title lang="en">Pumas UNAM vs. Inter Miami CF</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/84fc4a070254afd71c949ec1c0682258-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10161">
-<display-name>South Park: Season 27, Episode 2</display-name>
-</channel>
-<programme
-start="20250807020000 +0000"
-stop="20250807030000 +0000"
-channel="ppv-10161"
->
-<title lang="en">South Park: Season 27, Episode 2</title>
-<sub-title>Streams</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Streams</category>
-<icon src="https://ppvs.su/assets/thumb/b3c7313e53be5398ca5fd2389e79ef64-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-10015">
 <display-name>AEW: Saturday Night Collision</display-name>
 </channel>
@@ -745,5 +613,27 @@ channel="ppv-10013"
 </audio>
 <category>Wrestling</category>
 <icon src="https://ppvs.su/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-9614">
+<display-name>Comedy Central</display-name>
+</channel>
+<programme
+start="20250723113000 +0000"
+stop="20250723143000 +0000"
+channel="ppv-9614"
+>
+<title lang="en">Comedy Central</title>
+<sub-title>24/7 Streams</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>24/7 Streams</category>
+<icon src="https://ppvs.su/assets/thumb/8762257a0848675867f3588dbd8cf58b-thumbnail.jpg" />
 </programme>
 </tv>
