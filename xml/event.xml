@@ -439,28 +439,6 @@ channel="ppv-10170"
 <icon src="https://ppvs.su/assets/thumb/833391ecdad66c082178395819089cd2-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-10169">
-<display-name>Athletics vs. Washington Nationals</display-name>
-</channel>
-<programme
-start="20250807160500 +0000"
-stop="20250807190500 +0000"
-channel="ppv-10169"
->
-<title lang="en">Athletics vs. Washington Nationals</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/4f9d0244feb50646e5112093d964ad0f-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-10174">
 <display-name>Sun at Sparks</display-name>
 </channel>
