@@ -659,28 +659,6 @@ channel="ppv-10163"
 <icon src="https://ppvs.su/assets/thumb/c5d623b946f75fb8eca0e7ccf7cb5a9b-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-10176">
-<display-name>Bayern Munich vs Tottenham Hotspur</display-name>
-</channel>
-<programme
-start="20250807163000 +0000"
-stop="20250807193000 +0000"
-channel="ppv-10176"
->
-<title lang="en">Bayern Munich vs Tottenham Hotspur</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/dd24727185ab7584dbbe3cf8ed70a0d0-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-10015">
 <display-name>AEW: Saturday Night Collision</display-name>
 </channel>
@@ -814,14 +792,14 @@ channel="ppv-5191"
 </programme>
 
 <channel id="ppv-8008">
-<display-name>24/7 Family​​​​​‌​​‌‌‌‌​‌‌​‌​​​​‌‌‌‌‌​​​​‌​ Guy</display-name>
+<display-name>24/7 Family​​‌‌​‌​​‌​‌​‌‌​‌‌​‌‌​‌‌​‌​‌​​​‌​ Guy</display-name>
 </channel>
 <programme
 start="20250118080000 +0000"
 stop="20250118090000 +0000"
 channel="ppv-8008"
 >
-<title lang="en">24/7 Family​​​​​‌​​‌‌‌‌​‌‌​‌​​​​‌‌‌‌‌​​​​‌​ Guy</title>
+<title lang="en">24/7 Family​​‌‌​‌​​‌​‌​‌‌​‌‌​‌‌​‌‌​‌​‌​​​‌​ Guy</title>
 <sub-title>24/7 Streams</sub-title>
 <video>
 <present>yes</present>
