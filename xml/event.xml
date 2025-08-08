@@ -637,15 +637,15 @@ channel="ppv-10178"
 <icon src="https://ppvs.su/assets/thumb/358f92f357c78125f51bb5ea5a3eb0d4-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-10177">
-<display-name>PDC: KenoGO Australian Darts Masters - Day Two</display-name>
+<channel id="ppv-10203">
+<display-name>PDC: KenoGO Australian Darts Masters - Day One</display-name>
 </channel>
 <programme
-start="20250809090000 +0000"
-stop="20250809130000 +0000"
-channel="ppv-10177"
+start="20250808090000 +0000"
+stop="20250808130000 +0000"
+channel="ppv-10203"
 >
-<title lang="en">PDC: KenoGO Australian Darts Masters - Day Two</title>
+<title lang="en">PDC: KenoGO Australian Darts Masters - Day One</title>
 <sub-title>Darts</sub-title>
 <video>
 <present>yes</present>
@@ -656,7 +656,7 @@ channel="ppv-10177"
 <stereo>stereo</stereo>
 </audio>
 <category>Darts</category>
-<icon src="https://ppvs.su/assets/thumb/e7fb4914d576866c05af70c90bfa9168-thumbnail.jpg" />
+<icon src="https://ppvs.su/assets/thumb/cdb15ae4ef195347a381d4c140f1166f-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-10039">
