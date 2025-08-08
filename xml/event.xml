@@ -659,13 +659,13 @@ channel="ppv-10205"
 <icon src="https://ppvs.su/assets/thumb/e7fb4914d576866c05af70c90bfa9168-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-10203">
+<channel id="ppv-10207">
 <display-name>PDC: KenoGO Australian Darts Masters - Day One</display-name>
 </channel>
 <programme
 start="20250808090000 +0000"
-stop="20250808130000 +0000"
-channel="ppv-10203"
+stop="20250808140000 +0000"
+channel="ppv-10207"
 >
 <title lang="en">PDC: KenoGO Australian Darts Masters - Day One</title>
 <sub-title>Darts</sub-title>
