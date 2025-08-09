@@ -263,13 +263,13 @@ channel="ppv-10213"
 <icon src="https://ppvs.su/assets/thumb/2246b9bacf9ae66d7e18b328abef85ca-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-10205">
+<channel id="ppv-10216">
 <display-name>PDC: KenoGO Australian Darts Masters - Day Two</display-name>
 </channel>
 <programme
 start="20250809090000 +0000"
-stop="20250809130000 +0000"
-channel="ppv-10205"
+stop="20250809140000 +0000"
+channel="ppv-10216"
 >
 <title lang="en">PDC: KenoGO Australian Darts Masters - Day Two</title>
 <sub-title>Darts</sub-title>
