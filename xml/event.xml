@@ -351,6 +351,72 @@ channel="ppv-10244"
 <icon src="https://ppvs.su/assets/thumb/c650c10ac03a68675a378a2ce500ac4c-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-10262">
+<display-name>Storm at Sparks</display-name>
+</channel>
+<programme
+start="20250811000000 +0000"
+stop="20250811024500 +0000"
+channel="ppv-10262"
+>
+<title lang="en">Storm at Sparks</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://ppvs.su/assets/thumb/31a249eb3ee7e305c9f54bc1c98dd6da-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10261">
+<display-name>Mystics at Wings</display-name>
+</channel>
+<programme
+start="20250810200000 +0000"
+stop="20250810224500 +0000"
+channel="ppv-10261"
+>
+<title lang="en">Mystics at Wings</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://ppvs.su/assets/thumb/30d54df38b92877c4e1f0de039748471-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10260">
+<display-name>Lynx at Liberty</display-name>
+</channel>
+<programme
+start="20250810163000 +0000"
+stop="20250810191500 +0000"
+channel="ppv-10260"
+>
+<title lang="en">Lynx at Liberty</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://ppvs.su/assets/thumb/978d61dfa0fd9e1c3814291da44a62ed-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-10039">
 <display-name>Manchester United vs. Arsenal</display-name>
 </channel>
@@ -393,49 +459,5 @@ channel="ppv-10038"
 </audio>
 <category>Football</category>
 <icon src="https://ppvs.su/assets/thumb/0089eb8ae718995fe4a7f5952bf5dbcb-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10258">
-<display-name>Crystal Palace vs Liverpool</display-name>
-</channel>
-<programme
-start="20250810140000 +0000"
-stop="20250810170000 +0000"
-channel="ppv-10258"
->
-<title lang="en">Crystal Palace vs Liverpool</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/26bc91dab3168fda73f787ca57008149-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10259">
-<display-name>Chelsea vs AC Milan</display-name>
-</channel>
-<programme
-start="20250810140000 +0000"
-stop="20250810170000 +0000"
-channel="ppv-10259"
->
-<title lang="en">Chelsea vs AC Milan</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/13d0dd00c116c0ae2277729f17cf6329-thumbnail.jpg" />
 </programme>
 </tv>
