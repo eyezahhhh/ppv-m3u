@@ -219,94 +219,6 @@ channel="ppv-10249"
 <icon src="https://ppvs.su/assets/thumb/947f415c9a05e0e4fa24b43213e94c95-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-10245">
-<display-name>Cincinnati Reds vs. Pittsburgh Pirates</display-name>
-</channel>
-<programme
-start="20250810173500 +0000"
-stop="20250810203500 +0000"
-channel="ppv-10245"
->
-<title lang="en">Cincinnati Reds vs. Pittsburgh Pirates</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/89be95f77a0680b60d0c053d6fbb0fb3-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10246">
-<display-name>Houston Astros vs. New York Yankees</display-name>
-</channel>
-<programme
-start="20250810173500 +0000"
-stop="20250810203500 +0000"
-channel="ppv-10246"
->
-<title lang="en">Houston Astros vs. New York Yankees</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/9f36ff88f3d7189a1891a083fcbbe97a-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10247">
-<display-name>Miami Marlins vs. Atlanta Braves</display-name>
-</channel>
-<programme
-start="20250810173500 +0000"
-stop="20250810203500 +0000"
-channel="ppv-10247"
->
-<title lang="en">Miami Marlins vs. Atlanta Braves</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/4b7e6b47750e9329276d073f4d7e879f-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10248">
-<display-name>Athletics vs. Baltimore Orioles</display-name>
-</channel>
-<programme
-start="20250810173500 +0000"
-stop="20250810203500 +0000"
-channel="ppv-10248"
->
-<title lang="en">Athletics vs. Baltimore Orioles</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/d467569f9cf62c280044708837a61c34-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-10264">
 <display-name>Sun at Aces</display-name>
 </channel>
@@ -484,14 +396,14 @@ channel="ppv-5191"
 </programme>
 
 <channel id="ppv-8008">
-<display-name>24/7 Family​‌​​​​​​‌‌‌​‌‌​​‌​​​‌‌​‌‌‌​‌​​‌​ Guy</display-name>
+<display-name>24/7 Family‌​‌​‌‌​​‌​‌‌​‌‌​‌‌‌​​​​‌‌‌​​​​‌​ Guy</display-name>
 </channel>
 <programme
 start="20250118080000 +0000"
 stop="20250118090000 +0000"
 channel="ppv-8008"
 >
-<title lang="en">24/7 Family​‌​​​​​​‌‌‌​‌‌​​‌​​​‌‌​‌‌‌​‌​​‌​ Guy</title>
+<title lang="en">24/7 Family‌​‌​‌‌​​‌​‌‌​‌‌​‌‌‌​​​​‌‌‌​​​​‌​ Guy</title>
 <sub-title>24/7 Streams</sub-title>
 <video>
 <present>yes</present>
