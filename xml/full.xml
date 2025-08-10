@@ -417,28 +417,6 @@ channel="ppv-10226"
 <icon src="https://ppvs.su/assets/thumb/358f92f357c78125f51bb5ea5a3eb0d4-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-10233">
-<display-name>Los Angeles Angels vs. Detroit Tigers</display-name>
-</channel>
-<programme
-start="20250809221000 +0000"
-stop="20250810011000 +0000"
-channel="ppv-10233"
->
-<title lang="en">Los Angeles Angels vs. Detroit Tigers</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/780d85b203b9fb071ed6882316e214ec-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-10218">
 <display-name>Sparks at Valkyries</display-name>
 </channel>
@@ -572,14 +550,14 @@ channel="ppv-5191"
 </programme>
 
 <channel id="ppv-8008">
-<display-name>24/7 Family​‌​​‌​‌​‌‌‌​‌​‌‌​‌‌‌‌​‌‌​​​​​​​‌ Guy</display-name>
+<display-name>24/7 Family​​​‌​‌​​​​‌‌​‌‌‌​​​​‌‌​‌‌​‌​​​‌‌ Guy</display-name>
 </channel>
 <programme
 start="20250118080000 +0000"
 stop="20250118090000 +0000"
 channel="ppv-8008"
 >
-<title lang="en">24/7 Family​‌​​‌​‌​‌‌‌​‌​‌‌​‌‌‌‌​‌‌​​​​​​​‌ Guy</title>
+<title lang="en">24/7 Family​​​‌​‌​​​​‌‌​‌‌‌​​​​‌‌​‌‌​‌​​​‌‌ Guy</title>
 <sub-title>24/7 Streams</sub-title>
 <video>
 <present>yes</present>
