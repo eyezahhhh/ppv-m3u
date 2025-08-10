@@ -43,72 +43,6 @@ channel="ppv-10155"
 <icon src="https://ppvs.su/assets/thumb/4679bbdfbd1f1e43e5005f4a591467aa-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-10151">
-<display-name>Denver Broncos vs. San Francisco 49ers</display-name>
-</channel>
-<programme
-start="20250810003000 +0000"
-stop="20250810033000 +0000"
-channel="ppv-10151"
->
-<title lang="en">Denver Broncos vs. San Francisco 49ers</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://ppvs.su/assets/thumb/98051cc640cb1ecc99f14acd59dbf9c6-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10149">
-<display-name>New York Jets vs. Green Bay Packers</display-name>
-</channel>
-<programme
-start="20250810000000 +0000"
-stop="20250810030000 +0000"
-channel="ppv-10149"
->
-<title lang="en">New York Jets vs. Green Bay Packers</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://ppvs.su/assets/thumb/7b7524f0652c8b5abd13bd6e9444accd-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10150">
-<display-name>Kansas City Chiefs vs. Arizona Cardinals</display-name>
-</channel>
-<programme
-start="20250810000000 +0000"
-stop="20250810030000 +0000"
-channel="ppv-10150"
->
-<title lang="en">Kansas City Chiefs vs. Arizona Cardinals</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://ppvs.su/assets/thumb/1cd3dc0e2fbf5617d62a1c9b97add9a9-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-10243">
 <display-name>Tampa Bay Rays vs. Seattle Mariners</display-name>
 </channel>
@@ -151,50 +85,6 @@ channel="ppv-10242"
 </audio>
 <category>Baseball</category>
 <icon src="https://ppvs.su/assets/thumb/4bdea8c642459d671a1d931d4381c07c-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10241">
-<display-name>Colorado Rockies vs. Arizona Diamondbacks</display-name>
-</channel>
-<programme
-start="20250810001000 +0000"
-stop="20250810031000 +0000"
-channel="ppv-10241"
->
-<title lang="en">Colorado Rockies vs. Arizona Diamondbacks</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/c796c856e90931f66530c30aa0cc7489-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10218">
-<display-name>Sparks at Valkyries</display-name>
-</channel>
-<programme
-start="20250810003000 +0000"
-stop="20250810031500 +0000"
-channel="ppv-10218"
->
-<title lang="en">Sparks at Valkyries</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://ppvs.su/assets/thumb/8fd041f1d671944409d5599badfd4c76-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-10222">
