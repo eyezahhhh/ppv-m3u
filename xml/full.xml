@@ -373,6 +373,28 @@ channel="ppv-10039"
 <icon src="https://ppvs.su/assets/thumb/b79bfffaea2db395fcc384588222aa08-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-10038">
+<display-name>Chelsea vs. Crystal Palace</display-name>
+</channel>
+<programme
+start="20250817130000 +0000"
+stop="20250817160000 +0000"
+channel="ppv-10038"
+>
+<title lang="en">Chelsea vs. Crystal Palace</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/0089eb8ae718995fe4a7f5952bf5dbcb-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-10258">
 <display-name>Crystal Palace vs Liverpool</display-name>
 </channel>
@@ -393,6 +415,28 @@ channel="ppv-10258"
 </audio>
 <category>Football</category>
 <icon src="https://ppvs.su/assets/thumb/26bc91dab3168fda73f787ca57008149-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10259">
+<display-name>Chelsea vs AC Milan</display-name>
+</channel>
+<programme
+start="20250810140000 +0000"
+stop="20250810170000 +0000"
+channel="ppv-10259"
+>
+<title lang="en">Chelsea vs AC Milan</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/13d0dd00c116c0ae2277729f17cf6329-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-3716">
@@ -440,14 +484,14 @@ channel="ppv-5191"
 </programme>
 
 <channel id="ppv-8008">
-<display-name>24/7 Family‌​‌​‌‌​​‌​‌‌‌​​​‌‌​‌​​‌‌​​‌​​​​​ Guy</display-name>
+<display-name>24/7 Family‌​‌​‌‌​​‌​‌‌​‌‌​‌‌​​​‌​​​​‌‌​​​‌ Guy</display-name>
 </channel>
 <programme
 start="20250118080000 +0000"
 stop="20250118090000 +0000"
 channel="ppv-8008"
 >
-<title lang="en">24/7 Family‌​‌​‌‌​​‌​‌‌‌​​​‌‌​‌​​‌‌​​‌​​​​​ Guy</title>
+<title lang="en">24/7 Family‌​‌​‌‌​​‌​‌‌​‌‌​‌‌​​​‌​​​​‌‌​​​‌ Guy</title>
 <sub-title>24/7 Streams</sub-title>
 <video>
 <present>yes</present>
