@@ -241,6 +241,50 @@ channel="ppv-10265"
 <icon src="https://ppvs.su/assets/thumb/1096caeab6eeb2c52d5f048018222d81-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-10039">
+<display-name>Manchester United vs. Arsenal</display-name>
+</channel>
+<programme
+start="20250817153000 +0000"
+stop="20250817183000 +0000"
+channel="ppv-10039"
+>
+<title lang="en">Manchester United vs. Arsenal</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/b79bfffaea2db395fcc384588222aa08-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10038">
+<display-name>Chelsea vs. Crystal Palace</display-name>
+</channel>
+<programme
+start="20250817130000 +0000"
+stop="20250817160000 +0000"
+channel="ppv-10038"
+>
+<title lang="en">Chelsea vs. Crystal Palace</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/0089eb8ae718995fe4a7f5952bf5dbcb-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-10281">
 <display-name>AEW: Saturday Night Collision</display-name>
 </channel>
@@ -373,15 +417,59 @@ channel="ppv-10276"
 <icon src="https://ppvs.su/assets/thumb/56336f9d22c51c416e1a56afbd18f314-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-3716">
+<display-name>(North) Korean Central Television</display-name>
+</channel>
+<programme
+start="20250118190000 +0000"
+stop="20250118220000 +0000"
+channel="ppv-3716"
+>
+<title lang="en">(North) Korean Central Television</title>
+<sub-title>24/7 Streams</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>24/7 Streams</category>
+<icon src="https://ppvs.su/assets/thumb/7b1146f3a2bd19175749404e676d5127-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-5191">
+<display-name>24/7 The Simpsons</display-name>
+</channel>
+<programme
+start="20250118102800 +0000"
+stop="20250118102800 +0000"
+channel="ppv-5191"
+>
+<title lang="en">24/7 The Simpsons</title>
+<sub-title>24/7 Streams</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>24/7 Streams</category>
+<icon src="https://thumbs.poocloud.in/thesimpsons/preview.jpg" />
+</programme>
+
 <channel id="ppv-8008">
-<display-name>24/7 Family​‌​​​​​​‌‌‌​‌‌​​‌​​​‌‌‌​‌‌‌​​‌​‌ Guy</display-name>
+<display-name>24/7 Family​‌​​​‌​​‌‌​‌‌‌​​​​‌‌‌​‌​‌​​‌​​​​ Guy</display-name>
 </channel>
 <programme
 start="20250118080000 +0000"
 stop="20250118090000 +0000"
 channel="ppv-8008"
 >
-<title lang="en">24/7 Family​‌​​​​​​‌‌‌​‌‌​​‌​​​‌‌‌​‌‌‌​​‌​‌ Guy</title>
+<title lang="en">24/7 Family​‌​​​‌​​‌‌​‌‌‌​​​​‌‌‌​‌​‌​​‌​​​​ Guy</title>
 <sub-title>24/7 Streams</sub-title>
 <video>
 <present>yes</present>
@@ -393,6 +481,28 @@ channel="ppv-8008"
 </audio>
 <category>24/7 Streams</category>
 <icon src="https://thumbs.poocloud.in/familyguy/preview.jpg" />
+</programme>
+
+<channel id="ppv-3663">
+<display-name>24/7 COWS</display-name>
+</channel>
+<programme
+start="20250118050000 +0000"
+stop="20250228200000 +0000"
+channel="ppv-3663"
+>
+<title lang="en">24/7 COWS</title>
+<sub-title>24/7 Streams</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>24/7 Streams</category>
+<icon src="https://ppvs.su/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-5112">
