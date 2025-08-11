@@ -1,14 +1,14 @@
 <tv>
-<channel id="ppv-10264">
-<display-name>Sun at Aces</display-name>
+<channel id="ppv-10275">
+<display-name>Tampa Bay Rays vs. Athletics</display-name>
 </channel>
 <programme
-start="20250811010000 +0000"
-stop="20250811034500 +0000"
-channel="ppv-10264"
+start="20250812020500 +0000"
+stop="20250812050500 +0000"
+channel="ppv-10275"
 >
-<title lang="en">Sun at Aces</title>
-<sub-title>Basketball</sub-title>
+<title lang="en">Tampa Bay Rays vs. Athletics</title>
+<sub-title>Baseball</sub-title>
 <video>
 <present>yes</present>
 <colour>yes</colour>
@@ -17,8 +17,228 @@ channel="ppv-10264"
 <present>yes</present>
 <stereo>stereo</stereo>
 </audio>
-<category>Basketball</category>
-<icon src="https://ppvs.su/assets/thumb/5054e043c2e53684e4e9c206a576444b-thumbnail.jpg" />
+<category>Baseball</category>
+<icon src="https://ppvs.su/assets/thumb/bb6dd7a7c8a282da30f4f9c5dee2dc06-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10274">
+<display-name>San Diego Padres vs. San Francisco Giants</display-name>
+</channel>
+<programme
+start="20250812014500 +0000"
+stop="20250812044500 +0000"
+channel="ppv-10274"
+>
+<title lang="en">San Diego Padres vs. San Francisco Giants</title>
+<sub-title>Baseball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Baseball</category>
+<icon src="https://ppvs.su/assets/thumb/190ca98153201ffa2006d1147f4b4f36-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10273">
+<display-name>Los Angeles Dodgers vs. Los Angeles Angels</display-name>
+</channel>
+<programme
+start="20250812013800 +0000"
+stop="20250812043800 +0000"
+channel="ppv-10273"
+>
+<title lang="en">Los Angeles Dodgers vs. Los Angeles Angels</title>
+<sub-title>Baseball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Baseball</category>
+<icon src="https://ppvs.su/assets/thumb/62b17289e46788c63a436dd458b95ac9-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10272">
+<display-name>Boston Red Sox vs. Houston Astros</display-name>
+</channel>
+<programme
+start="20250812001000 +0000"
+stop="20250812031000 +0000"
+channel="ppv-10272"
+>
+<title lang="en">Boston Red Sox vs. Houston Astros</title>
+<sub-title>Baseball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Baseball</category>
+<icon src="https://ppvs.su/assets/thumb/0db8aee498d1330824ff7dc7e8b54d14-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10271">
+<display-name>Arizona Diamondbacks vs. Texas Rangers</display-name>
+</channel>
+<programme
+start="20250812000500 +0000"
+stop="20250812030500 +0000"
+channel="ppv-10271"
+>
+<title lang="en">Arizona Diamondbacks vs. Texas Rangers</title>
+<sub-title>Baseball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Baseball</category>
+<icon src="https://ppvs.su/assets/thumb/005bfdada06e0bdc55aeead9eb56c821-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10270">
+<display-name>Colorado Rockies vs. St. Louis Cardinals</display-name>
+</channel>
+<programme
+start="20250811234500 +0000"
+stop="20250812024500 +0000"
+channel="ppv-10270"
+>
+<title lang="en">Colorado Rockies vs. St. Louis Cardinals</title>
+<sub-title>Baseball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Baseball</category>
+<icon src="https://ppvs.su/assets/thumb/ae0ca82db968462c38e525c3b050725b-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10267">
+<display-name>Detroit Tigers vs. Chicago White Sox</display-name>
+</channel>
+<programme
+start="20250811234000 +0000"
+stop="20250812024000 +0000"
+channel="ppv-10267"
+>
+<title lang="en">Detroit Tigers vs. Chicago White Sox</title>
+<sub-title>Baseball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Baseball</category>
+<icon src="https://ppvs.su/assets/thumb/d4433c0519ec517971cd1a4390d169ad-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10268">
+<display-name>Pittsburgh Pirates vs. Milwaukee Brewers</display-name>
+</channel>
+<programme
+start="20250811234000 +0000"
+stop="20250812024000 +0000"
+channel="ppv-10268"
+>
+<title lang="en">Pittsburgh Pirates vs. Milwaukee Brewers</title>
+<sub-title>Baseball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Baseball</category>
+<icon src="https://ppvs.su/assets/thumb/b8b802746742f57e5e663427a0b2bccf-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10269">
+<display-name>Washington Nationals vs. Kansas City Royals</display-name>
+</channel>
+<programme
+start="20250811234000 +0000"
+stop="20250812024000 +0000"
+channel="ppv-10269"
+>
+<title lang="en">Washington Nationals vs. Kansas City Royals</title>
+<sub-title>Baseball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Baseball</category>
+<icon src="https://ppvs.su/assets/thumb/a12169741817cabf09b1f8095b7d2802-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10266">
+<display-name>Minnesota Twins vs. New York Yankees</display-name>
+</channel>
+<programme
+start="20250811230500 +0000"
+stop="20250812020500 +0000"
+channel="ppv-10266"
+>
+<title lang="en">Minnesota Twins vs. New York Yankees</title>
+<sub-title>Baseball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Baseball</category>
+<icon src="https://ppvs.su/assets/thumb/3226ff8592a4a2ea7387fd58c01c1e91-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10265">
+<display-name>Philadelphia Phillies vs. Cincinnati Reds</display-name>
+</channel>
+<programme
+start="20250811221000 +0000"
+stop="20250812011000 +0000"
+channel="ppv-10265"
+>
+<title lang="en">Philadelphia Phillies vs. Cincinnati Reds</title>
+<sub-title>Baseball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Baseball</category>
+<icon src="https://ppvs.su/assets/thumb/1096caeab6eeb2c52d5f048018222d81-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-10039">
