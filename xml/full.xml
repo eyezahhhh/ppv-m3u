@@ -505,6 +505,28 @@ channel="ppv-10304"
 <icon src="https://ppvs.su/assets/thumb/38565df44c8f61a88508ff56c163fc1c-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-10305">
+<display-name>PSG vs Tottenham Hotspur (DAZN/International Commentary)</display-name>
+</channel>
+<programme
+start="20250813190000 +0000"
+stop="20250813230000 +0000"
+channel="ppv-10305"
+>
+<title lang="en">PSG vs Tottenham Hotspur (DAZN/International Commentary)</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/ae9147e52eafb48cde4de8143406a91c-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-10281">
 <display-name>AEW: Saturday Night Collision</display-name>
 </channel>
@@ -660,14 +682,14 @@ channel="ppv-5191"
 </programme>
 
 <channel id="ppv-8008">
-<display-name>24/7 Family​‌​​​‌​​‌‌​‌‌‌​​​​‌‌‌​‌​‌‌‌‌​​​‌ Guy</display-name>
+<display-name>24/7 Family​​‌‌​‌​​‌​‌‌​​​​​‌‌‌‌‌​‌​‌‌‌​​‌​ Guy</display-name>
 </channel>
 <programme
 start="20250118080000 +0000"
 stop="20250118090000 +0000"
 channel="ppv-8008"
 >
-<title lang="en">24/7 Family​‌​​​‌​​‌‌​‌‌‌​​​​‌‌‌​‌​‌‌‌‌​​​‌ Guy</title>
+<title lang="en">24/7 Family​​‌‌​‌​​‌​‌‌​​​​​‌‌‌‌‌​‌​‌‌‌​​‌​ Guy</title>
 <sub-title>24/7 Streams</sub-title>
 <video>
 <present>yes</present>
