@@ -131,50 +131,6 @@ channel="ppv-10344"
 <icon src="https://ppvs.su/assets/thumb/b8bb2473cb8ccce7a9e6de53db85348d-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-10343">
-<display-name>Manchester United vs. Arsenal</display-name>
-</channel>
-<programme
-start="20250817153000 +0000"
-stop="20250817183000 +0000"
-channel="ppv-10343"
->
-<title lang="en">Manchester United vs. Arsenal</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/b79bfffaea2db395fcc384588222aa08-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10342">
-<display-name>Chelsea vs. Crystal Palace</display-name>
-</channel>
-<programme
-start="20250817130000 +0000"
-stop="20250817160000 +0000"
-channel="ppv-10342"
->
-<title lang="en">Chelsea vs. Crystal Palace</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/0089eb8ae718995fe4a7f5952bf5dbcb-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-10341">
 <display-name>Wolverhampton Wanderers vs. Manchester City</display-name>
 </channel>
