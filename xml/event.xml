@@ -153,50 +153,6 @@ channel="ppv-10345"
 <icon src="https://ppvs.su/assets/thumb/dc41810aa561198be5dda52ec30cf39f-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-10320">
-<display-name>Tampa Bay Rays vs. Athletics</display-name>
-</channel>
-<programme
-start="20250814020500 +0000"
-stop="20250814050500 +0000"
-channel="ppv-10320"
->
-<title lang="en">Tampa Bay Rays vs. Athletics</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/bb6dd7a7c8a282da30f4f9c5dee2dc06-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10324">
-<display-name>Dream at Storm</display-name>
-</channel>
-<programme
-start="20250814020000 +0000"
-stop="20250814044500 +0000"
-channel="ppv-10324"
->
-<title lang="en">Dream at Storm</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://ppvs.su/assets/thumb/8475004edd353125c0fef1bc7fc4d398-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-10344">
 <display-name>PDC: NZ Darts Masters - Day One</display-name>
 </channel>
