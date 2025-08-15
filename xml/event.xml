@@ -329,6 +329,116 @@ channel="ppv-10355"
 <icon src="https://ppvs.su/assets/thumb/b051ec5c1f41ca69aa2a85e8a3df7645-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-10374">
+<display-name>Storm at Dream</display-name>
+</channel>
+<programme
+start="20250816020000 +0000"
+stop="20250816044500 +0000"
+channel="ppv-10374"
+>
+<title lang="en">Storm at Dream</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://ppvs.su/assets/thumb/fd7cd2d3c339451c6d9442076247a4aa-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10375">
+<display-name>Aces at Mercury</display-name>
+</channel>
+<programme
+start="20250816020000 +0000"
+stop="20250816044500 +0000"
+channel="ppv-10375"
+>
+<title lang="en">Aces at Mercury</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://ppvs.su/assets/thumb/395ca43ee571a5db03303198cdced8d2-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10371">
+<display-name>Mystics at Fever</display-name>
+</channel>
+<programme
+start="20250815233000 +0000"
+stop="20250816021500 +0000"
+channel="ppv-10371"
+>
+<title lang="en">Mystics at Fever</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://ppvs.su/assets/thumb/b19e4146cc4f5d12054d4d282d483b6a-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10372">
+<display-name>Valkyries at Sky</display-name>
+</channel>
+<programme
+start="20250815233000 +0000"
+stop="20250816021500 +0000"
+channel="ppv-10372"
+>
+<title lang="en">Valkyries at Sky</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://ppvs.su/assets/thumb/3d5bec4b880e90c9b916761cb5261063-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10373">
+<display-name>Sparks at Wings</display-name>
+</channel>
+<programme
+start="20250815233000 +0000"
+stop="20250816021500 +0000"
+channel="ppv-10373"
+>
+<title lang="en">Sparks at Wings</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://ppvs.su/assets/thumb/01782543ad8b8572647adfec8ca1a4a6-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-10354">
 <display-name>PDC: NZ Darts Masters - Day Two</display-name>
 </channel>
