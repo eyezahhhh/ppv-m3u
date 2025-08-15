@@ -1,4 +1,48 @@
 <tv>
+<channel id="ppv-10380">
+<display-name>Kansas City Chiefs vs. Seattle Seahawks</display-name>
+</channel>
+<programme
+start="20250816020000 +0000"
+stop="20250816050000 +0000"
+channel="ppv-10380"
+>
+<title lang="en">Kansas City Chiefs vs. Seattle Seahawks</title>
+<sub-title>American Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>American Football</category>
+<icon src="https://ppvs.su/assets/thumb/5a0c63f2bec091270dfe99088fb45397-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10379">
+<display-name>Tennessee Titans vs. Atlanta Falcons</display-name>
+</channel>
+<programme
+start="20250815230000 +0000"
+stop="20250816020000 +0000"
+channel="ppv-10379"
+>
+<title lang="en">Tennessee Titans vs. Atlanta Falcons</title>
+<sub-title>American Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>American Football</category>
+<icon src="https://ppvs.su/assets/thumb/fa20e7e447e3b4877c1838964f213568-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-10369">
 <display-name>Tampa Bay Rays vs. San Francisco Giants</display-name>
 </channel>
