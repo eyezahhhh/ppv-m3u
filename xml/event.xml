@@ -439,6 +439,28 @@ channel="ppv-10342"
 <icon src="https://ppvs.su/assets/thumb/0089eb8ae718995fe4a7f5952bf5dbcb-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-10370">
+<display-name>Mallorca vs Barcelona</display-name>
+</channel>
+<programme
+start="20250816173000 +0000"
+stop="20250816203000 +0000"
+channel="ppv-10370"
+>
+<title lang="en">Mallorca vs Barcelona</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/13d0dd00c116c0ae2277729f17cf6329-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-10341">
 <display-name>Wolverhampton Wanderers vs. Manchester City</display-name>
 </channel>
