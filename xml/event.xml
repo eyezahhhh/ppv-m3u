@@ -923,6 +923,28 @@ channel="ppv-10336"
 <icon src="https://ppvs.su/assets/thumb/8d4b56d49d68c6e84590420cdb1b2045-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-10416">
+<display-name>MXGP of Sweden: Day 2</display-name>
+</channel>
+<programme
+start="20250817064500 +0000"
+stop="20250817164500 +0000"
+channel="ppv-10416"
+>
+<title lang="en">MXGP of Sweden: Day 2</title>
+<sub-title>Motorsports</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Motorsports</category>
+<icon src="https://ppvs.su/assets/thumb/58c3ab56734730cbdb38ab9ffee0d502-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-10413">
 <display-name>Pro Motocross: Unadilla</display-name>
 </channel>
@@ -965,6 +987,28 @@ channel="ppv-10412"
 </audio>
 <category>Motorsports</category>
 <icon src="https://ppvs.su/assets/thumb/2246b9bacf9ae66d7e18b328abef85ca-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10415">
+<display-name>MXGP of Sweden: Day 1</display-name>
+</channel>
+<programme
+start="20250816100000 +0000"
+stop="20250816180000 +0000"
+channel="ppv-10415"
+>
+<title lang="en">MXGP of Sweden: Day 1</title>
+<sub-title>Motorsports</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Motorsports</category>
+<icon src="https://ppvs.su/assets/thumb/58c3ab56734730cbdb38ab9ffee0d502-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-10281">
