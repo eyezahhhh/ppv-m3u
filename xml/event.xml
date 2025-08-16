@@ -813,6 +813,28 @@ channel="ppv-10341"
 <icon src="https://ppvs.su/assets/thumb/654b504f1bd4a5c979f62e45f25f75b8-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-5193">
+<display-name>EPL: Goal Rush</display-name>
+</channel>
+<programme
+start="20250816140000 +0000"
+stop="20250816170000 +0000"
+channel="ppv-5193"
+>
+<title lang="en">EPL: Goal Rush</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FxZ7nAWB.jpeg@jpg" />
+</programme>
+
 <channel id="ppv-10337">
 <display-name>Brighton and Hove Albion vs. Fulham</display-name>
 </channel>
@@ -899,6 +921,50 @@ channel="ppv-10336"
 </audio>
 <category>Football</category>
 <icon src="https://ppvs.su/assets/thumb/8d4b56d49d68c6e84590420cdb1b2045-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10413">
+<display-name>Pro Motocross: Unadilla</display-name>
+</channel>
+<programme
+start="20250816170000 +0000"
+stop="20250816220000 +0000"
+channel="ppv-10413"
+>
+<title lang="en">Pro Motocross: Unadilla</title>
+<sub-title>Motorsports</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Motorsports</category>
+<icon src="https://ppvs.su/assets/thumb/2246b9bacf9ae66d7e18b328abef85ca-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10412">
+<display-name>Pro Motocross: Unadilla (Qualifying)</display-name>
+</channel>
+<programme
+start="20250816140000 +0000"
+stop="20250816150000 +0000"
+channel="ppv-10412"
+>
+<title lang="en">Pro Motocross: Unadilla (Qualifying)</title>
+<sub-title>Motorsports</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Motorsports</category>
+<icon src="https://ppvs.su/assets/thumb/2246b9bacf9ae66d7e18b328abef85ca-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-10281">
