@@ -637,6 +637,28 @@ channel="ppv-10397"
 <icon src="https://ppvs.su/assets/thumb/b051ec5c1f41ca69aa2a85e8a3df7645-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-10414">
+<display-name>UFC 319: Du Plessis vs. Chimaev</display-name>
+</channel>
+<programme
+start="20250816223000 +0000"
+stop="20250817063000 +0000"
+channel="ppv-10414"
+>
+<title lang="en">UFC 319: Du Plessis vs. Chimaev</title>
+<sub-title>Combat Sports</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Combat Sports</category>
+<icon src="https://ppvs.su/assets/thumb/e0d56ec009bfb710ef4864143298b216-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-10396">
 <display-name>PDC: Steel Darts Japan Tour 3-4</display-name>
 </channel>
