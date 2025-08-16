@@ -681,6 +681,28 @@ channel="ppv-10414"
 <icon src="https://ppvs.su/assets/thumb/e0d56ec009bfb710ef4864143298b216-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-10419">
+<display-name>Itauma vs. Whyte</display-name>
+</channel>
+<programme
+start="20250816164500 +0000"
+stop="20250817004500 +0000"
+channel="ppv-10419"
+>
+<title lang="en">Itauma vs. Whyte</title>
+<sub-title>Combat Sports</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Combat Sports</category>
+<icon src="https://ppvs.su/assets/thumb/59a0348370c66a745de8659ffff95e60-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-10396">
 <display-name>PDC: Steel Darts Japan Tour 3-4</display-name>
 </channel>
@@ -954,28 +976,6 @@ stop="20250816220000 +0000"
 channel="ppv-10413"
 >
 <title lang="en">Pro Motocross: Unadilla</title>
-<sub-title>Motorsports</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Motorsports</category>
-<icon src="https://ppvs.su/assets/thumb/2246b9bacf9ae66d7e18b328abef85ca-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10412">
-<display-name>Pro Motocross: Unadilla (Qualifying)</display-name>
-</channel>
-<programme
-start="20250816140000 +0000"
-stop="20250816150000 +0000"
-channel="ppv-10412"
->
-<title lang="en">Pro Motocross: Unadilla (Qualifying)</title>
 <sub-title>Motorsports</sub-title>
 <video>
 <present>yes</present>
