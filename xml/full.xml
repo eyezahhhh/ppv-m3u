@@ -87,6 +87,28 @@ channel="ppv-10392"
 <icon src="https://ppvs.su/assets/thumb/1b8cbcfcadcda32584c615e29ddfecac-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-10420">
+<display-name>Seattle Mariners vs. New York Mets</display-name>
+</channel>
+<programme
+start="20250817230000 +0000"
+stop="20250818020000 +0000"
+channel="ppv-10420"
+>
+<title lang="en">Seattle Mariners vs. New York Mets</title>
+<sub-title>Baseball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Baseball</category>
+<icon src="https://ppvs.su/assets/thumb/db4e081519650f93008534c2c894b285-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-10411">
 <display-name>Los Angeles Angels vs. Athletics</display-name>
 </channel>
@@ -107,50 +129,6 @@ channel="ppv-10411"
 </audio>
 <category>Baseball</category>
 <icon src="https://ppvs.su/assets/thumb/aa989670c310925b3896a24242b24a99-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10410">
-<display-name>San Diego Padres vs. Los Angeles Dodgers</display-name>
-</channel>
-<programme
-start="20250817011000 +0000"
-stop="20250817041000 +0000"
-channel="ppv-10410"
->
-<title lang="en">San Diego Padres vs. Los Angeles Dodgers</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/e738bd3eddaddff0dc908afd0bfd0755-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10409">
-<display-name>Tampa Bay Rays vs. San Francisco Giants</display-name>
-</channel>
-<programme
-start="20250817010500 +0000"
-stop="20250817040500 +0000"
-channel="ppv-10409"
->
-<title lang="en">Tampa Bay Rays vs. San Francisco Giants</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/fad3a03c1f2b02d555e3e4ca96913721-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-10378">
@@ -352,14 +330,14 @@ channel="ppv-5191"
 </programme>
 
 <channel id="ppv-8008">
-<display-name>24/7 Family​​‌‌​‌​​‌​​‌​‌‌​​​​‌‌‌‌​‌​​​​​​‌ Guy</display-name>
+<display-name>24/7 Family​‌​​​​​​‌‌‌​‌‌​​‌​​​​‌‌​‌‌​‌​‌​​ Guy</display-name>
 </channel>
 <programme
 start="20250118080000 +0000"
 stop="20250118090000 +0000"
 channel="ppv-8008"
 >
-<title lang="en">24/7 Family​​‌‌​‌​​‌​​‌​‌‌​​​​‌‌‌‌​‌​​​​​​‌ Guy</title>
+<title lang="en">24/7 Family​‌​​​​​​‌‌‌​‌‌​​‌​​​​‌‌​‌‌​‌​‌​​ Guy</title>
 <sub-title>24/7 Streams</sub-title>
 <video>
 <present>yes</present>
