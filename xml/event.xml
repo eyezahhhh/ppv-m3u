@@ -87,6 +87,116 @@ channel="ppv-10420"
 <icon src="https://ppvs.su/assets/thumb/db4e081519650f93008534c2c894b285-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-10426">
+<display-name>Dream at Valkyries</display-name>
+</channel>
+<programme
+start="20250818003000 +0000"
+stop="20250818031500 +0000"
+channel="ppv-10426"
+>
+<title lang="en">Dream at Valkyries</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://ppvs.su/assets/thumb/ea42b93eea55ee2bb45df4220ea61fe6-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10425">
+<display-name>Mercury at Storm</display-name>
+</channel>
+<programme
+start="20250817220000 +0000"
+stop="20250818004500 +0000"
+channel="ppv-10425"
+>
+<title lang="en">Mercury at Storm</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://ppvs.su/assets/thumb/3022f3dd210d9498c5df3ad6ea340c39-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10424">
+<display-name>Wings at Aces</display-name>
+</channel>
+<programme
+start="20250817193000 +0000"
+stop="20250817221500 +0000"
+channel="ppv-10424"
+>
+<title lang="en">Wings at Aces</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://ppvs.su/assets/thumb/77ba6ce2311d884201161732bbf6ae4d-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10422">
+<display-name>Sparks at Mystics</display-name>
+</channel>
+<programme
+start="20250817190000 +0000"
+stop="20250817214500 +0000"
+channel="ppv-10422"
+>
+<title lang="en">Sparks at Mystics</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://ppvs.su/assets/thumb/81b3e1ae37b0bfc8732be62dfcbf8535-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10423">
+<display-name>Fever at Sun</display-name>
+</channel>
+<programme
+start="20250817170000 +0000"
+stop="20250817194500 +0000"
+channel="ppv-10423"
+>
+<title lang="en">Fever at Sun</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://ppvs.su/assets/thumb/d14a9631a027aa32b6dd263d80a484c6-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-10378">
 <display-name>GLORY 103</display-name>
 </channel>
@@ -107,28 +217,6 @@ channel="ppv-10378"
 </audio>
 <category>Combat Sports</category>
 <icon src="https://ppvs.su/assets/thumb/02f834a6bfd1ca91505b741954865592-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10396">
-<display-name>PDC: Steel Darts Japan Tour 3-4</display-name>
-</channel>
-<programme
-start="20250817000000 +0000"
-stop="20250817140000 +0000"
-channel="ppv-10396"
->
-<title lang="en">PDC: Steel Darts Japan Tour 3-4</title>
-<sub-title>Darts</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Darts</category>
-<icon src="https://ppvs.su/assets/thumb/e350a94906dfe714b65d0080c42398a6-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-10343">
