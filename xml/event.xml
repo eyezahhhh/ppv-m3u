@@ -219,50 +219,6 @@ channel="ppv-10343"
 <icon src="https://ppvs.su/assets/thumb/b79bfffaea2db395fcc384588222aa08-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-10338">
-<display-name>Nottingham Forest vs. Brentford</display-name>
-</channel>
-<programme
-start="20250817130000 +0000"
-stop="20250817160000 +0000"
-channel="ppv-10338"
->
-<title lang="en">Nottingham Forest vs. Brentford</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/9c1e5d23abe60a222b04029ea077ee6a-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10342">
-<display-name>Chelsea vs. Crystal Palace</display-name>
-</channel>
-<programme
-start="20250817130000 +0000"
-stop="20250817160000 +0000"
-channel="ppv-10342"
->
-<title lang="en">Chelsea vs. Crystal Palace</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/0089eb8ae718995fe4a7f5952bf5dbcb-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-10416">
 <display-name>MXGP of Sweden: Day 2</display-name>
 </channel>
