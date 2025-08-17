@@ -87,28 +87,6 @@ channel="ppv-10420"
 <icon src="https://ppvs.su/assets/thumb/db4e081519650f93008534c2c894b285-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-10411">
-<display-name>Los Angeles Angels vs. Athletics</display-name>
-</channel>
-<programme
-start="20250817020500 +0000"
-stop="20250817050500 +0000"
-channel="ppv-10411"
->
-<title lang="en">Los Angeles Angels vs. Athletics</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/aa989670c310925b3896a24242b24a99-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-10378">
 <display-name>GLORY 103</display-name>
 </channel>
