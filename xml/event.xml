@@ -197,28 +197,6 @@ channel="ppv-10423"
 <icon src="https://ppvs.su/assets/thumb/d14a9631a027aa32b6dd263d80a484c6-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-10378">
-<display-name>GLORY 103</display-name>
-</channel>
-<programme
-start="20250823180000 +0000"
-stop="20250823220000 +0000"
-channel="ppv-10378"
->
-<title lang="en">GLORY 103</title>
-<sub-title>Combat Sports</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Combat Sports</category>
-<icon src="https://ppvs.su/assets/thumb/02f834a6bfd1ca91505b741954865592-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-10343">
 <display-name>Manchester United vs. Arsenal</display-name>
 </channel>
