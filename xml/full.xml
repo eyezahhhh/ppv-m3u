@@ -87,28 +87,6 @@ channel="ppv-10426"
 <icon src="https://ppvs.su/assets/thumb/ea42b93eea55ee2bb45df4220ea61fe6-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-10425">
-<display-name>Mercury at Storm</display-name>
-</channel>
-<programme
-start="20250817220000 +0000"
-stop="20250818004500 +0000"
-channel="ppv-10425"
->
-<title lang="en">Mercury at Storm</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://ppvs.su/assets/thumb/3022f3dd210d9498c5df3ad6ea340c39-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-3716">
 <display-name>(North) Korean Central Television</display-name>
 </channel>
@@ -154,14 +132,14 @@ channel="ppv-5191"
 </programme>
 
 <channel id="ppv-8008">
-<display-name>24/7 Family​​‌‌​‌​​‌​​‌‌‌‌‌‌‌‌​​‌​‌​​‌‌​​‌‌ Guy</display-name>
+<display-name>24/7 Family‌​‌​‌‌​​‌​‌‌‌​​​‌‌​‌​​​‌‌​​‌​​​‌ Guy</display-name>
 </channel>
 <programme
 start="20250118080000 +0000"
 stop="20250118090000 +0000"
 channel="ppv-8008"
 >
-<title lang="en">24/7 Family​​‌‌​‌​​‌​​‌‌‌‌‌‌‌‌​​‌​‌​​‌‌​​‌‌ Guy</title>
+<title lang="en">24/7 Family‌​‌​‌‌​​‌​‌‌‌​​​‌‌​‌​​​‌‌​​‌​​​‌ Guy</title>
 <sub-title>24/7 Streams</sub-title>
 <video>
 <present>yes</present>
