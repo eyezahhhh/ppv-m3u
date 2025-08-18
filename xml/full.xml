@@ -43,28 +43,6 @@ channel="ppv-10394"
 <icon src="https://ppvs.su/assets/thumb/9d0f45fdbb0cccb5f5dddd661e5aa7b3-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-10420">
-<display-name>Seattle Mariners vs. New York Mets</display-name>
-</channel>
-<programme
-start="20250817230000 +0000"
-stop="20250818020000 +0000"
-channel="ppv-10420"
->
-<title lang="en">Seattle Mariners vs. New York Mets</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/db4e081519650f93008534c2c894b285-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-10426">
 <display-name>Dream at Valkyries</display-name>
 </channel>
@@ -132,14 +110,14 @@ channel="ppv-5191"
 </programme>
 
 <channel id="ppv-8008">
-<display-name>24/7 Family​‌‌​‌​​​‌‌​‌​​​‌​​​​‌​‌‌‌‌​‌​‌​​ Guy</display-name>
+<display-name>24/7 Family​​‌‌​‌​​‌​​‌‌‌‌‌‌‌‌​​​‌‌‌‌​​​‌​‌ Guy</display-name>
 </channel>
 <programme
 start="20250118080000 +0000"
 stop="20250118090000 +0000"
 channel="ppv-8008"
 >
-<title lang="en">24/7 Family​‌‌​‌​​​‌‌​‌​​​‌​​​​‌​‌‌‌‌​‌​‌​​ Guy</title>
+<title lang="en">24/7 Family​​‌‌​‌​​‌​​‌‌‌‌‌‌‌‌​​​‌‌‌‌​​​‌​‌ Guy</title>
 <sub-title>24/7 Streams</sub-title>
 <video>
 <present>yes</present>
