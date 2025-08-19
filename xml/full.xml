@@ -153,138 +153,6 @@ channel="ppv-10435"
 <icon src="https://ppvs.su/assets/thumb/f0c712e6345a1a95a1e0b0f67f4dd3a8-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-10434">
-<display-name>Chicago White Sox vs. Atlanta Braves</display-name>
-</channel>
-<programme
-start="20250818231500 +0000"
-stop="20250819021500 +0000"
-channel="ppv-10434"
->
-<title lang="en">Chicago White Sox vs. Atlanta Braves</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/74e6cf58a7962d5f5ef1ab0e543862aa-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10433">
-<display-name>Baltimore Orioles vs. Boston Red Sox</display-name>
-</channel>
-<programme
-start="20250818231000 +0000"
-stop="20250819021000 +0000"
-channel="ppv-10433"
->
-<title lang="en">Baltimore Orioles vs. Boston Red Sox</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/996eae9789b447223932e21ea7048fbc-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10432">
-<display-name>Seattle Mariners vs. Philadelphia Phillies</display-name>
-</channel>
-<programme
-start="20250818224500 +0000"
-stop="20250819014500 +0000"
-channel="ppv-10432"
->
-<title lang="en">Seattle Mariners vs. Philadelphia Phillies</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/b3a095f00824f28395152d42e05e69cf-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10429">
-<display-name>Houston Astros vs. Detroit Tigers</display-name>
-</channel>
-<programme
-start="20250818224000 +0000"
-stop="20250819014000 +0000"
-channel="ppv-10429"
->
-<title lang="en">Houston Astros vs. Detroit Tigers</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/9b686ef8080daf87924801ed9533a68c-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10430">
-<display-name>St. Louis Cardinals vs. Miami Marlins</display-name>
-</channel>
-<programme
-start="20250818224000 +0000"
-stop="20250819014000 +0000"
-channel="ppv-10430"
->
-<title lang="en">St. Louis Cardinals vs. Miami Marlins</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/0e465e7d3124e105d4d7a58ee251a945-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10431">
-<display-name>Toronto Blue Jays vs. Pittsburgh Pirates</display-name>
-</channel>
-<programme
-start="20250818224000 +0000"
-stop="20250819014000 +0000"
-channel="ppv-10431"
->
-<title lang="en">Toronto Blue Jays vs. Pittsburgh Pirates</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/fe4f0dc9792fd7cc2229a1892d1a0287-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-10461">
 <display-name>Dana White&apos;s Contender Series</display-name>
 </channel>
@@ -506,14 +374,14 @@ channel="ppv-5191"
 </programme>
 
 <channel id="ppv-8008">
-<display-name>24/7 Family​​​‌​‌​​​​‌‌​‌‌‌​‌‌‌‌‌‌​‌‌‌‌​‌​​ Guy</display-name>
+<display-name>24/7 Family‌​‌​‌‌​​‌‌​​‌​‌‌​​​​​‌‌‌​​‌‌‌‌​‌ Guy</display-name>
 </channel>
 <programme
 start="20250118080000 +0000"
 stop="20250118090000 +0000"
 channel="ppv-8008"
 >
-<title lang="en">24/7 Family​​​‌​‌​​​​‌‌​‌‌‌​‌‌‌‌‌‌​‌‌‌‌​‌​​ Guy</title>
+<title lang="en">24/7 Family‌​‌​‌‌​​‌‌​​‌​‌‌​​​​​‌‌‌​​‌‌‌‌​‌ Guy</title>
 <sub-title>24/7 Streams</sub-title>
 <video>
 <present>yes</present>
