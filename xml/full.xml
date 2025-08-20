@@ -263,50 +263,6 @@ channel="ppv-10493"
 <icon src="https://ppvs.su/assets/thumb/9b686ef8080daf87924801ed9533a68c-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-10492">
-<display-name>Seattle Mariners vs. Philadelphia Phillies</display-name>
-</channel>
-<programme
-start="20250820170500 +0000"
-stop="20250820200500 +0000"
-channel="ppv-10492"
->
-<title lang="en">Seattle Mariners vs. Philadelphia Phillies</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/b3a095f00824f28395152d42e05e69cf-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10491">
-<display-name>Toronto Blue Jays vs. Pittsburgh Pirates</display-name>
-</channel>
-<programme
-start="20250820163500 +0000"
-stop="20250820193500 +0000"
-channel="ppv-10491"
->
-<title lang="en">Toronto Blue Jays vs. Pittsburgh Pirates</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/fe4f0dc9792fd7cc2229a1892d1a0287-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-10505">
 <display-name>Wings at Sparks</display-name>
 </channel>
@@ -572,14 +528,14 @@ channel="ppv-5191"
 </programme>
 
 <channel id="ppv-8008">
-<display-name>24/7 Family‌​‌​‌‌​​‌‌​‌​‌​​‌​‌​​‌‌‌​‌​‌​​​‌ Guy</display-name>
+<display-name>24/7 Family‌​​​​‌‌‌‌‌‌​‌​​​‌‌​‌‌​​​​​‌‌​​​‌ Guy</display-name>
 </channel>
 <programme
 start="20250118080000 +0000"
 stop="20250118090000 +0000"
 channel="ppv-8008"
 >
-<title lang="en">24/7 Family‌​‌​‌‌​​‌‌​‌​‌​​‌​‌​​‌‌‌​‌​‌​​​‌ Guy</title>
+<title lang="en">24/7 Family‌​​​​‌‌‌‌‌‌​‌​​​‌‌​‌‌​​​​​‌‌​​​‌ Guy</title>
 <sub-title>24/7 Streams</sub-title>
 <video>
 <present>yes</present>
