@@ -461,6 +461,94 @@ channel="ppv-10461"
 <icon src="https://ppvs.su/assets/thumb/738dc34c074c6b89deec435936d24d8c-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-10490">
+<display-name>Pachuca vs. LA Galaxy</display-name>
+</channel>
+<programme
+start="20250821034500 +0000"
+stop="20250821060600 +0000"
+channel="ppv-10490"
+>
+<title lang="en">Pachuca vs. LA Galaxy</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/164c643a11f18aff565ce31c969037c9-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10489">
+<display-name>Puebla vs. Seattle Sounders FC</display-name>
+</channel>
+<programme
+start="20250821030000 +0000"
+stop="20250821052100 +0000"
+channel="ppv-10489"
+>
+<title lang="en">Puebla vs. Seattle Sounders FC</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/83c5615c57088f573645a91384e9cc5a-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10488">
+<display-name>Orlando City SC vs. Toluca</display-name>
+</channel>
+<programme
+start="20250821010000 +0000"
+stop="20250821032100 +0000"
+channel="ppv-10488"
+>
+<title lang="en">Orlando City SC vs. Toluca</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/6ddbc124133db4e3c6e4d78553c1b492-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10487">
+<display-name>Tigres UANL vs. Inter Miami CF</display-name>
+</channel>
+<programme
+start="20250821000000 +0000"
+stop="20250821022100 +0000"
+channel="ppv-10487"
+>
+<title lang="en">Tigres UANL vs. Inter Miami CF</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/573db95a418aee54f880904b60396e37-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-10446">
 <display-name>AEW: Saturday Night Collision</display-name>
 </channel>
@@ -616,14 +704,14 @@ channel="ppv-5191"
 </programme>
 
 <channel id="ppv-8008">
-<display-name>24/7 Family​​​​​‌​​‌‌‌​‌‌​​‌​‌​‌‌​‌‌​‌​​‌‌​ Guy</display-name>
+<display-name>24/7 Family​‌​​​​​​‌‌‌​‌‌​​‌​​​‌‌​‌‌‌​‌​​‌‌ Guy</display-name>
 </channel>
 <programme
 start="20250118080000 +0000"
 stop="20250118090000 +0000"
 channel="ppv-8008"
 >
-<title lang="en">24/7 Family​​​​​‌​​‌‌‌​‌‌​​‌​‌​‌‌​‌‌​‌​​‌‌​ Guy</title>
+<title lang="en">24/7 Family​‌​​​​​​‌‌‌​‌‌​​‌​​​‌‌​‌‌‌​‌​​‌‌ Guy</title>
 <sub-title>24/7 Streams</sub-title>
 <video>
 <present>yes</present>
