@@ -87,94 +87,6 @@ channel="ppv-10478"
 <icon src="https://ppvs.su/assets/thumb/ab186653ad09460a812420a08e2a75ab-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-10477">
-<display-name>Milwaukee Brewers vs. Chicago Cubs</display-name>
-</channel>
-<programme
-start="20250820000500 +0000"
-stop="20250820030500 +0000"
-channel="ppv-10477"
->
-<title lang="en">Milwaukee Brewers vs. Chicago Cubs</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/bd49708cc0f9b20e8dee3b15cfcf109b-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10475">
-<display-name>Athletics vs. Minnesota Twins</display-name>
-</channel>
-<programme
-start="20250819234000 +0000"
-stop="20250820024000 +0000"
-channel="ppv-10475"
->
-<title lang="en">Athletics vs. Minnesota Twins</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/d00974062229fea8dbfc509b19af3791-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10476">
-<display-name>Texas Rangers vs. Kansas City Royals</display-name>
-</channel>
-<programme
-start="20250819234000 +0000"
-stop="20250820024000 +0000"
-channel="ppv-10476"
->
-<title lang="en">Texas Rangers vs. Kansas City Royals</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/f0c712e6345a1a95a1e0b0f67f4dd3a8-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10474">
-<display-name>New York Yankees vs. Tampa Bay Rays</display-name>
-</channel>
-<programme
-start="20250819233500 +0000"
-stop="20250820023500 +0000"
-channel="ppv-10474"
->
-<title lang="en">New York Yankees vs. Tampa Bay Rays</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/4ae3853d2fa12955be51bf0ffbcb378a-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-10485">
 <display-name>Dream at Aces</display-name>
 </channel>
@@ -217,28 +129,6 @@ channel="ppv-10486"
 </audio>
 <category>Basketball</category>
 <icon src="https://ppvs.su/assets/thumb/b153a0c40cd78da7a48a3ba6125c6bcf-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10484">
-<display-name>Storm at Sky</display-name>
-</channel>
-<programme
-start="20250820000000 +0000"
-stop="20250820024500 +0000"
-channel="ppv-10484"
->
-<title lang="en">Storm at Sky</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://ppvs.su/assets/thumb/962b6b1436cb4ac689dd830ac08529f6-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-10461">
@@ -437,27 +327,5 @@ channel="ppv-10443"
 </audio>
 <category>Wrestling</category>
 <icon src="https://ppvs.su/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10442">
-<display-name>WWE: NXT</display-name>
-</channel>
-<programme
-start="20250820000000 +0000"
-stop="20250820030000 +0000"
-channel="ppv-10442"
->
-<title lang="en">WWE: NXT</title>
-<sub-title>Wrestling</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Wrestling</category>
-<icon src="https://ppvs.su/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg" />
 </programme>
 </tv>
