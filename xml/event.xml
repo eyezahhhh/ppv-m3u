@@ -241,6 +241,94 @@ channel="ppv-10511"
 <icon src="https://ppvs.su/assets/thumb/d00974062229fea8dbfc509b19af3791-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-10523">
+<display-name>Mercury at Aces</display-name>
+</channel>
+<programme
+start="20250822020000 +0000"
+stop="20250822044500 +0000"
+channel="ppv-10523"
+>
+<title lang="en">Mercury at Aces</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://ppvs.su/assets/thumb/8cd1835fdfb1a2f98855867f38aaa11a-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10522">
+<display-name>Lynx at Dream</display-name>
+</channel>
+<programme
+start="20250821233000 +0000"
+stop="20250822021500 +0000"
+channel="ppv-10522"
+>
+<title lang="en">Lynx at Dream</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://ppvs.su/assets/thumb/374b39f04d7e118cbd055142604ea4db-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10520">
+<display-name>Mystics at Sun</display-name>
+</channel>
+<programme
+start="20250821230000 +0000"
+stop="20250822014500 +0000"
+channel="ppv-10520"
+>
+<title lang="en">Mystics at Sun</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://ppvs.su/assets/thumb/f4fa4e1a26117424a53da1039d5ae583-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10521">
+<display-name>Sky at Liberty</display-name>
+</channel>
+<programme
+start="20250821230000 +0000"
+stop="20250822014500 +0000"
+channel="ppv-10521"
+>
+<title lang="en">Sky at Liberty</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://ppvs.su/assets/thumb/ce7e61da004dda6001bb75ce8a5ab382-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-10510">
 <display-name>PDC: China ProTour 7-8</display-name>
 </channel>
@@ -261,6 +349,72 @@ channel="ppv-10510"
 </audio>
 <category>Darts</category>
 <icon src="https://ppvs.su/assets/thumb/36b56b4e4cb7c6f8d0333c45adf673a0-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10451">
+<display-name>Bournemouth vs. Wolverhampton Wanderers</display-name>
+</channel>
+<programme
+start="20250823140000 +0000"
+stop="20250823170000 +0000"
+channel="ppv-10451"
+>
+<title lang="en">Bournemouth vs. Wolverhampton Wanderers</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/6dc1289c799cc5f30344ac9919c3e3f3-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10453">
+<display-name>Brentford vs. Aston Villa</display-name>
+</channel>
+<programme
+start="20250823140000 +0000"
+stop="20250823170000 +0000"
+channel="ppv-10453"
+>
+<title lang="en">Brentford vs. Aston Villa</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/37eb55c046c59f4d1dd1980088380b9e-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10454">
+<display-name>Burnley vs. Sunderland</display-name>
+</channel>
+<programme
+start="20250823140000 +0000"
+stop="20250823170000 +0000"
+channel="ppv-10454"
+>
+<title lang="en">Burnley vs. Sunderland</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/ddb6c75c0c186eced1c9f9f04dbb9bcc-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-10458">
