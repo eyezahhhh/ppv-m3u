@@ -1,4 +1,48 @@
 <tv>
+<channel id="ppv-10508">
+<display-name>New England Patriots vs. New York Giants</display-name>
+</channel>
+<programme
+start="20250822000000 +0000"
+stop="20250822030000 +0000"
+channel="ppv-10508"
+>
+<title lang="en">New England Patriots vs. New York Giants</title>
+<sub-title>American Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>American Football</category>
+<icon src="https://ppvs.su/assets/thumb/ff5f428daed61f4638fea0c3c4202379-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10507">
+<display-name>Pittsburgh Steelers vs. Carolina Panthers</display-name>
+</channel>
+<programme
+start="20250821230000 +0000"
+stop="20250822020000 +0000"
+channel="ppv-10507"
+>
+<title lang="en">Pittsburgh Steelers vs. Carolina Panthers</title>
+<sub-title>American Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>American Football</category>
+<icon src="https://ppvs.su/assets/thumb/04c31d391c691304f50c2f8e7a8ff35d-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-10504">
 <display-name>San Francisco Giants vs. San Diego Padres</display-name>
 </channel>
@@ -153,72 +197,6 @@ channel="ppv-10498"
 <icon src="https://ppvs.su/assets/thumb/4ae3853d2fa12955be51bf0ffbcb378a-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-10497">
-<display-name>Chicago White Sox vs. Atlanta Braves</display-name>
-</channel>
-<programme
-start="20250820231500 +0000"
-stop="20250821021500 +0000"
-channel="ppv-10497"
->
-<title lang="en">Chicago White Sox vs. Atlanta Braves</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/74e6cf58a7962d5f5ef1ab0e543862aa-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10496">
-<display-name>New York Mets vs. Washington Nationals</display-name>
-</channel>
-<programme
-start="20250820224500 +0000"
-stop="20250821014500 +0000"
-channel="ppv-10496"
->
-<title lang="en">New York Mets vs. Washington Nationals</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/311ec2fb29ffff1ef9e647dab3146289-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10495">
-<display-name>St. Louis Cardinals vs. Miami Marlins</display-name>
-</channel>
-<programme
-start="20250820224000 +0000"
-stop="20250821014000 +0000"
-channel="ppv-10495"
->
-<title lang="en">St. Louis Cardinals vs. Miami Marlins</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/0e465e7d3124e105d4d7a58ee251a945-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-10505">
 <display-name>Wings at Sparks</display-name>
 </channel>
@@ -327,28 +305,6 @@ channel="ppv-10488"
 </audio>
 <category>Football</category>
 <icon src="https://ppvs.su/assets/thumb/6ddbc124133db4e3c6e4d78553c1b492-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10487">
-<display-name>Tigres UANL vs. Inter Miami CF</display-name>
-</channel>
-<programme
-start="20250821000000 +0000"
-stop="20250821022100 +0000"
-channel="ppv-10487"
->
-<title lang="en">Tigres UANL vs. Inter Miami CF</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/573db95a418aee54f880904b60396e37-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-10446">
