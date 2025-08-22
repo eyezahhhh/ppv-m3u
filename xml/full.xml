@@ -813,6 +813,28 @@ channel="ppv-10456"
 <icon src="https://ppvs.su/assets/thumb/0a39ece0e7156dd7b10c86a9ed3e2fc9-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-10563">
+<display-name>Levante vs Barcelona</display-name>
+</channel>
+<programme
+start="20250823193000 +0000"
+stop="20250823223000 +0000"
+channel="ppv-10563"
+>
+<title lang="en">Levante vs Barcelona</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/e802f5d0eda48d71b0fd65dec34ff0b8-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-10452">
 <display-name>Arsenal vs. Leeds United</display-name>
 </channel>
@@ -833,6 +855,28 @@ channel="ppv-10452"
 </audio>
 <category>Football</category>
 <icon src="https://ppvs.su/assets/thumb/109f714cfcfebc0e73e4d88a12654cc9-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-5193">
+<display-name>EPL: Goal Rush</display-name>
+</channel>
+<programme
+start="20250823140000 +0000"
+stop="20250823170000 +0000"
+channel="ppv-5193"
+>
+<title lang="en">EPL: Goal Rush</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FxZ7nAWB.jpeg@jpg" />
 </programme>
 
 <channel id="ppv-10451">
@@ -945,6 +989,50 @@ channel="ppv-10460"
 <icon src="https://ppvs.su/assets/thumb/3aed386e03eaa50a41a3d8b100a67d1c-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-10562">
+<display-name>Pro Motocross: Budds Creek</display-name>
+</channel>
+<programme
+start="20250823170000 +0000"
+stop="20250823220000 +0000"
+channel="ppv-10562"
+>
+<title lang="en">Pro Motocross: Budds Creek</title>
+<sub-title>Motorsports</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Motorsports</category>
+<icon src="https://ppvs.su/assets/thumb/f029411fc5f0e9d0199e943d87d2f9b2-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10561">
+<display-name>Pro Motocross: Budds Creek (Qualifying)</display-name>
+</channel>
+<programme
+start="20250823140000 +0000"
+stop="20250823153000 +0000"
+channel="ppv-10561"
+>
+<title lang="en">Pro Motocross: Budds Creek (Qualifying)</title>
+<sub-title>Motorsports</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Motorsports</category>
+<icon src="https://ppvs.su/assets/thumb/f029411fc5f0e9d0199e943d87d2f9b2-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-10446">
 <display-name>AEW: Saturday Night Collision</display-name>
 </channel>
@@ -1012,14 +1100,14 @@ channel="ppv-5191"
 </programme>
 
 <channel id="ppv-8008">
-<display-name>24/7 Family​​‌‌​​​​‌‌​‌​‌‌​​​‌‌​‌​‌​‌​​​‌‌​ Guy</display-name>
+<display-name>24/7 Family​​​​‌‌​‌​‌​‌​​‌‌‌​‌​​​​‌​​​‌​​‌​ Guy</display-name>
 </channel>
 <programme
 start="20250118080000 +0000"
 stop="20250118090000 +0000"
 channel="ppv-8008"
 >
-<title lang="en">24/7 Family​​‌‌​​​​‌‌​‌​‌‌​​​‌‌​‌​‌​‌​​​‌‌​ Guy</title>
+<title lang="en">24/7 Family​​​​‌‌​‌​‌​‌​​‌‌‌​‌​​​​‌​​​‌​​‌​ Guy</title>
 <sub-title>24/7 Streams</sub-title>
 <video>
 <present>yes</present>
