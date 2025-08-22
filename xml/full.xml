@@ -1,48 +1,4 @@
 <tv>
-<channel id="ppv-10508">
-<display-name>New England Patriots vs. New York Giants</display-name>
-</channel>
-<programme
-start="20250822000000 +0000"
-stop="20250822030000 +0000"
-channel="ppv-10508"
->
-<title lang="en">New England Patriots vs. New York Giants</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://ppvs.su/assets/thumb/ff5f428daed61f4638fea0c3c4202379-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10519">
-<display-name>St. Louis Cardinals vs. Tampa Bay Rays</display-name>
-</channel>
-<programme
-start="20250821233500 +0000"
-stop="20250822023500 +0000"
-channel="ppv-10519"
->
-<title lang="en">St. Louis Cardinals vs. Tampa Bay Rays</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/cad4de2fb8680525420172b9d70e67b2-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-10523">
 <display-name>Mercury at Aces</display-name>
 </channel>
@@ -307,28 +263,6 @@ channel="ppv-10445"
 <icon src="https://ppvs.su/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-10444">
-<display-name>TNA: Impact</display-name>
-</channel>
-<programme
-start="20250822000000 +0000"
-stop="20250822030000 +0000"
-channel="ppv-10444"
->
-<title lang="en">TNA: Impact</title>
-<sub-title>Wrestling</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Wrestling</category>
-<icon src="https://ppvs.su/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-3716">
 <display-name>(North) Korean Central Television</display-name>
 </channel>
@@ -374,14 +308,14 @@ channel="ppv-5191"
 </programme>
 
 <channel id="ppv-8008">
-<display-name>24/7 Family‌​‌​‌‌​​‌​‌‌​‌‌​‌‌‌​​​​​‌‌​​​‌‌‌ Guy</display-name>
+<display-name>24/7 Family‌​​‌​​​‌‌​​​​‌​​​‌‌​​‌‌‌​​​‌​​‌‌ Guy</display-name>
 </channel>
 <programme
 start="20250118080000 +0000"
 stop="20250118090000 +0000"
 channel="ppv-8008"
 >
-<title lang="en">24/7 Family‌​‌​‌‌​​‌​‌‌​‌‌​‌‌‌​​​​​‌‌​​​‌‌‌ Guy</title>
+<title lang="en">24/7 Family‌​​‌​​​‌‌​​​​‌​​​‌‌​​‌‌‌​​​‌​​‌‌ Guy</title>
 <sub-title>24/7 Streams</sub-title>
 <video>
 <present>yes</present>
