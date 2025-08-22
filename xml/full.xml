@@ -967,28 +967,6 @@ channel="ppv-10458"
 <icon src="https://ppvs.su/assets/thumb/06fd3aa894bcdc7ac13e39bdf6906c76-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-10460">
-<display-name>West Ham United vs. Chelsea</display-name>
-</channel>
-<programme
-start="20250822190000 +0000"
-stop="20250822220000 +0000"
-channel="ppv-10460"
->
-<title lang="en">West Ham United vs. Chelsea</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/3aed386e03eaa50a41a3d8b100a67d1c-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-10562">
 <display-name>Pro Motocross: Budds Creek</display-name>
 </channel>
@@ -1100,14 +1078,14 @@ channel="ppv-5191"
 </programme>
 
 <channel id="ppv-8008">
-<display-name>24/7 Family​​​​‌‌​‌​‌​‌​​‌‌‌​‌​​​​‌​​​‌​​‌​ Guy</display-name>
+<display-name>24/7 Family‌​​​​‌‌‌‌‌‌​‌​​​‌‌​​‌​​‌​‌​​​​​​ Guy</display-name>
 </channel>
 <programme
 start="20250118080000 +0000"
 stop="20250118090000 +0000"
 channel="ppv-8008"
 >
-<title lang="en">24/7 Family​​​​‌‌​‌​‌​‌​​‌‌‌​‌​​​​‌​​​‌​​‌​ Guy</title>
+<title lang="en">24/7 Family‌​​​​‌‌‌‌‌‌​‌​​​‌‌​​‌​​‌​‌​​​​​​ Guy</title>
 <sub-title>24/7 Streams</sub-title>
 <video>
 <present>yes</present>
