@@ -1,4 +1,334 @@
 <tv>
+<channel id="ppv-10546">
+<display-name>Athletics vs. Seattle Mariners</display-name>
+</channel>
+<programme
+start="20250823021000 +0000"
+stop="20250823051000 +0000"
+channel="ppv-10546"
+>
+<title lang="en">Athletics vs. Seattle Mariners</title>
+<sub-title>Baseball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Baseball</category>
+<icon src="https://ppvs.su/assets/thumb/9aa48a16e4b4f063747e5e2468193f9a-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10544">
+<display-name>Cincinnati Reds vs. Arizona Diamondbacks</display-name>
+</channel>
+<programme
+start="20250823014000 +0000"
+stop="20250823044000 +0000"
+channel="ppv-10544"
+>
+<title lang="en">Cincinnati Reds vs. Arizona Diamondbacks</title>
+<sub-title>Baseball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Baseball</category>
+<icon src="https://ppvs.su/assets/thumb/1d8a6afb0b0375493e70b684e7f821fd-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10545">
+<display-name>Los Angeles Dodgers vs. San Diego Padres</display-name>
+</channel>
+<programme
+start="20250823014000 +0000"
+stop="20250823044000 +0000"
+channel="ppv-10545"
+>
+<title lang="en">Los Angeles Dodgers vs. San Diego Padres</title>
+<sub-title>Baseball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Baseball</category>
+<icon src="https://ppvs.su/assets/thumb/cff4766d1a39f14543aee57f25703fba-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10542">
+<display-name>Chicago Cubs vs. Los Angeles Angels</display-name>
+</channel>
+<programme
+start="20250823013800 +0000"
+stop="20250823043800 +0000"
+channel="ppv-10542"
+>
+<title lang="en">Chicago Cubs vs. Los Angeles Angels</title>
+<sub-title>Baseball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Baseball</category>
+<icon src="https://ppvs.su/assets/thumb/638cf32d7580534218766ae34b612af4-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10541">
+<display-name>San Francisco Giants vs. Milwaukee Brewers</display-name>
+</channel>
+<programme
+start="20250823001000 +0000"
+stop="20250823031000 +0000"
+channel="ppv-10541"
+>
+<title lang="en">San Francisco Giants vs. Milwaukee Brewers</title>
+<sub-title>Baseball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Baseball</category>
+<icon src="https://ppvs.su/assets/thumb/8e697635251f5392d0d2d07800a4de8e-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10540">
+<display-name>Cleveland Guardians vs. Texas Rangers</display-name>
+</channel>
+<programme
+start="20250823000500 +0000"
+stop="20250823030500 +0000"
+channel="ppv-10540"
+>
+<title lang="en">Cleveland Guardians vs. Texas Rangers</title>
+<sub-title>Baseball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Baseball</category>
+<icon src="https://ppvs.su/assets/thumb/ddd9abda5e1f80c14b7602ecf42ac789-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10539">
+<display-name>Minnesota Twins vs. Chicago White Sox</display-name>
+</channel>
+<programme
+start="20250822234000 +0000"
+stop="20250823024000 +0000"
+channel="ppv-10539"
+>
+<title lang="en">Minnesota Twins vs. Chicago White Sox</title>
+<sub-title>Baseball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Baseball</category>
+<icon src="https://ppvs.su/assets/thumb/dd13b1334d372d714cdf54e012c1d84f-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10538">
+<display-name>St. Louis Cardinals vs. Tampa Bay Rays</display-name>
+</channel>
+<programme
+start="20250822233500 +0000"
+stop="20250823023500 +0000"
+channel="ppv-10538"
+>
+<title lang="en">St. Louis Cardinals vs. Tampa Bay Rays</title>
+<sub-title>Baseball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Baseball</category>
+<icon src="https://ppvs.su/assets/thumb/cad4de2fb8680525420172b9d70e67b2-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10537">
+<display-name>New York Mets vs. Atlanta Braves</display-name>
+</channel>
+<programme
+start="20250822231500 +0000"
+stop="20250823021500 +0000"
+channel="ppv-10537"
+>
+<title lang="en">New York Mets vs. Atlanta Braves</title>
+<sub-title>Baseball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Baseball</category>
+<icon src="https://ppvs.su/assets/thumb/4f7d377e07eefd91c8f7e8b6ea1ca9d5-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10535">
+<display-name>Kansas City Royals vs. Detroit Tigers</display-name>
+</channel>
+<programme
+start="20250822231000 +0000"
+stop="20250823021000 +0000"
+channel="ppv-10535"
+>
+<title lang="en">Kansas City Royals vs. Detroit Tigers</title>
+<sub-title>Baseball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Baseball</category>
+<icon src="https://ppvs.su/assets/thumb/8bac4ce1077cc9c5575d47dd47e06326-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10536">
+<display-name>Toronto Blue Jays vs. Miami Marlins</display-name>
+</channel>
+<programme
+start="20250822231000 +0000"
+stop="20250823021000 +0000"
+channel="ppv-10536"
+>
+<title lang="en">Toronto Blue Jays vs. Miami Marlins</title>
+<sub-title>Baseball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Baseball</category>
+<icon src="https://ppvs.su/assets/thumb/3149f5afa058c47d59c582f3a5d64908-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10533">
+<display-name>Boston Red Sox vs. New York Yankees</display-name>
+</channel>
+<programme
+start="20250822230500 +0000"
+stop="20250823020500 +0000"
+channel="ppv-10533"
+>
+<title lang="en">Boston Red Sox vs. New York Yankees</title>
+<sub-title>Baseball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Baseball</category>
+<icon src="https://ppvs.su/assets/thumb/df99eea86ea73aaadec6332a334a63fc-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10534">
+<display-name>Houston Astros vs. Baltimore Orioles</display-name>
+</channel>
+<programme
+start="20250822230500 +0000"
+stop="20250823020500 +0000"
+channel="ppv-10534"
+>
+<title lang="en">Houston Astros vs. Baltimore Orioles</title>
+<sub-title>Baseball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Baseball</category>
+<icon src="https://ppvs.su/assets/thumb/abe8af30b00ba8d986f7a1172fb8c016-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10532">
+<display-name>Washington Nationals vs. Philadelphia Phillies</display-name>
+</channel>
+<programme
+start="20250822224500 +0000"
+stop="20250823014500 +0000"
+channel="ppv-10532"
+>
+<title lang="en">Washington Nationals vs. Philadelphia Phillies</title>
+<sub-title>Baseball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Baseball</category>
+<icon src="https://ppvs.su/assets/thumb/2b42c5a7bef57648e8a8459ea61c9a36-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10530">
+<display-name>Colorado Rockies vs. Pittsburgh Pirates</display-name>
+</channel>
+<programme
+start="20250822224000 +0000"
+stop="20250823014000 +0000"
+channel="ppv-10530"
+>
+<title lang="en">Colorado Rockies vs. Pittsburgh Pirates</title>
+<sub-title>Baseball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Baseball</category>
+<icon src="https://ppvs.su/assets/thumb/b1de59b2bfb7b0382b3b9f2ca4821978-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-10523">
 <display-name>Mercury at Aces</display-name>
 </channel>
@@ -63,6 +393,336 @@ channel="ppv-10524"
 </audio>
 <category>Combat Sports</category>
 <icon src="https://ppvs.su/assets/thumb/cd77a997fa06d802a1b7960c8dd90df1-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10527">
+<display-name>PDC: Cosmo Darts Championship - Board 4</display-name>
+</channel>
+<programme
+start="20250823170000 +0000"
+stop="20250823230000 +0000"
+channel="ppv-10527"
+>
+<title lang="en">PDC: Cosmo Darts Championship - Board 4</title>
+<sub-title>Darts</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Darts</category>
+<icon src="https://ppvs.su/assets/thumb/1e1a939c1b2075590bf7e1ab5677d63f-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10528">
+<display-name>PDC: Cosmo Darts Championship 2025</display-name>
+</channel>
+<programme
+start="20250823170000 +0000"
+stop="20250823230000 +0000"
+channel="ppv-10528"
+>
+<title lang="en">PDC: Cosmo Darts Championship 2025</title>
+<sub-title>Darts</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Darts</category>
+<icon src="https://ppvs.su/assets/thumb/1e1a939c1b2075590bf7e1ab5677d63f-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10529">
+<display-name>PDC: Cosmo Darts Championship - Board 4</display-name>
+</channel>
+<programme
+start="20250823170000 +0000"
+stop="20250823230000 +0000"
+channel="ppv-10529"
+>
+<title lang="en">PDC: Cosmo Darts Championship - Board 4</title>
+<sub-title>Darts</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Darts</category>
+<icon src="https://ppvs.su/assets/thumb/1e1a939c1b2075590bf7e1ab5677d63f-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10531">
+<display-name>PDC: Cosmo Darts Championship - Board 2</display-name>
+</channel>
+<programme
+start="20250823170000 +0000"
+stop="20250823230000 +0000"
+channel="ppv-10531"
+>
+<title lang="en">PDC: Cosmo Darts Championship - Board 2</title>
+<sub-title>Darts</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Darts</category>
+<icon src="https://ppvs.su/assets/thumb/1e1a939c1b2075590bf7e1ab5677d63f-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10543">
+<display-name>PDC: Cosmo Darts Championship 2025</display-name>
+</channel>
+<programme
+start="20250823170000 +0000"
+stop="20250823230000 +0000"
+channel="ppv-10543"
+>
+<title lang="en">PDC: Cosmo Darts Championship 2025</title>
+<sub-title>Darts</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Darts</category>
+<icon src="https://ppvs.su/assets/thumb/1e1a939c1b2075590bf7e1ab5677d63f-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10547">
+<display-name>PDC: Cosmo Darts Championship - Board 3</display-name>
+</channel>
+<programme
+start="20250823170000 +0000"
+stop="20250823230000 +0000"
+channel="ppv-10547"
+>
+<title lang="en">PDC: Cosmo Darts Championship - Board 3</title>
+<sub-title>Darts</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Darts</category>
+<icon src="https://ppvs.su/assets/thumb/1e1a939c1b2075590bf7e1ab5677d63f-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10548">
+<display-name>PDC: Cosmo Darts Championship - Board 2</display-name>
+</channel>
+<programme
+start="20250823170000 +0000"
+stop="20250823230000 +0000"
+channel="ppv-10548"
+>
+<title lang="en">PDC: Cosmo Darts Championship - Board 2</title>
+<sub-title>Darts</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Darts</category>
+<icon src="https://ppvs.su/assets/thumb/1e1a939c1b2075590bf7e1ab5677d63f-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10549">
+<display-name>PDC: Cosmo Darts Championship - Board 3</display-name>
+</channel>
+<programme
+start="20250823170000 +0000"
+stop="20250823230000 +0000"
+channel="ppv-10549"
+>
+<title lang="en">PDC: Cosmo Darts Championship - Board 3</title>
+<sub-title>Darts</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Darts</category>
+<icon src="https://ppvs.su/assets/thumb/1e1a939c1b2075590bf7e1ab5677d63f-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10550">
+<display-name>PDC: Cosmo Darts Championship - Board 5</display-name>
+</channel>
+<programme
+start="20250823170000 +0000"
+stop="20250823230000 +0000"
+channel="ppv-10550"
+>
+<title lang="en">PDC: Cosmo Darts Championship - Board 5</title>
+<sub-title>Darts</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Darts</category>
+<icon src="https://ppvs.su/assets/thumb/1e1a939c1b2075590bf7e1ab5677d63f-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10551">
+<display-name>PDC: Cosmo Darts Championship - Board 3</display-name>
+</channel>
+<programme
+start="20250823170000 +0000"
+stop="20250823230000 +0000"
+channel="ppv-10551"
+>
+<title lang="en">PDC: Cosmo Darts Championship - Board 3</title>
+<sub-title>Darts</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Darts</category>
+<icon src="https://ppvs.su/assets/thumb/1e1a939c1b2075590bf7e1ab5677d63f-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10552">
+<display-name>PDC: Cosmo Darts Championship - Board 5</display-name>
+</channel>
+<programme
+start="20250823170000 +0000"
+stop="20250823230000 +0000"
+channel="ppv-10552"
+>
+<title lang="en">PDC: Cosmo Darts Championship - Board 5</title>
+<sub-title>Darts</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Darts</category>
+<icon src="https://ppvs.su/assets/thumb/1e1a939c1b2075590bf7e1ab5677d63f-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10553">
+<display-name>PDC: Cosmo Darts Championship - Board 5</display-name>
+</channel>
+<programme
+start="20250823170000 +0000"
+stop="20250823230000 +0000"
+channel="ppv-10553"
+>
+<title lang="en">PDC: Cosmo Darts Championship - Board 5</title>
+<sub-title>Darts</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Darts</category>
+<icon src="https://ppvs.su/assets/thumb/1e1a939c1b2075590bf7e1ab5677d63f-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10554">
+<display-name>PDC: Cosmo Darts Championship - Board 5</display-name>
+</channel>
+<programme
+start="20250823170000 +0000"
+stop="20250823230000 +0000"
+channel="ppv-10554"
+>
+<title lang="en">PDC: Cosmo Darts Championship - Board 5</title>
+<sub-title>Darts</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Darts</category>
+<icon src="https://ppvs.su/assets/thumb/1e1a939c1b2075590bf7e1ab5677d63f-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10526">
+<display-name>PDC: Women&apos;s Series 17-18</display-name>
+</channel>
+<programme
+start="20250823090000 +0000"
+stop="20250823220000 +0000"
+channel="ppv-10526"
+>
+<title lang="en">PDC: Women&apos;s Series 17-18</title>
+<sub-title>Darts</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Darts</category>
+<icon src="https://ppvs.su/assets/thumb/79c7b16d338264c0fac8f3f3b01b4bb6-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10525">
+<display-name>PDC: China ProTour 9-10</display-name>
+</channel>
+<programme
+start="20250823010000 +0000"
+stop="20250823150000 +0000"
+channel="ppv-10525"
+>
+<title lang="en">PDC: China ProTour 9-10</title>
+<sub-title>Darts</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Darts</category>
+<icon src="https://ppvs.su/assets/thumb/36b56b4e4cb7c6f8d0333c45adf673a0-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-10510">
@@ -308,14 +968,14 @@ channel="ppv-5191"
 </programme>
 
 <channel id="ppv-8008">
-<display-name>24/7 Family​​​‌​‌​​‌​‌​​​​‌​‌​​​‌​​‌‌‌‌​​‌​ Guy</display-name>
+<display-name>24/7 Family​​‌‌​​​​‌‌​‌​‌‌​​​‌‌​‌​‌​‌‌‌​‌​​ Guy</display-name>
 </channel>
 <programme
 start="20250118080000 +0000"
 stop="20250118090000 +0000"
 channel="ppv-8008"
 >
-<title lang="en">24/7 Family​​​‌​‌​​‌​‌​​​​‌​‌​​​‌​​‌‌‌‌​​‌​ Guy</title>
+<title lang="en">24/7 Family​​‌‌​​​​‌‌​‌​‌‌​​​‌‌​‌​‌​‌‌‌​‌​​ Guy</title>
 <sub-title>24/7 Streams</sub-title>
 <video>
 <present>yes</present>
