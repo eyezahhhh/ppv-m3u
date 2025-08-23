@@ -417,50 +417,6 @@ channel="ppv-10634"
 <icon src="https://ppvs.su/assets/thumb/a8d24a7f5fb053c288997c194d6f3f34-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-10633">
-<display-name>Aces at Mystics</display-name>
-</channel>
-<programme
-start="20250823190000 +0000"
-stop="20250823214500 +0000"
-channel="ppv-10633"
->
-<title lang="en">Aces at Mystics</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://ppvs.su/assets/thumb/55f40ed00579e0fa007eeee6a68913bd-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10378">
-<display-name>GLORY 103</display-name>
-</channel>
-<programme
-start="20250823180000 +0000"
-stop="20250823220000 +0000"
-channel="ppv-10378"
->
-<title lang="en">GLORY 103</title>
-<sub-title>Combat Sports</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Combat Sports</category>
-<icon src="https://ppvs.su/assets/thumb/02f834a6bfd1ca91505b741954865592-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-10657">
 <display-name>PDC: Boomerang Tours Fiesta 2025</display-name>
 </channel>
@@ -835,28 +791,6 @@ channel="ppv-10649"
 <icon src="https://ppvs.su/assets/thumb/1e1a939c1b2075590bf7e1ab5677d63f-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-10644">
-<display-name>PDC: Women&apos;s Series 17-18</display-name>
-</channel>
-<programme
-start="20250823090000 +0000"
-stop="20250823220000 +0000"
-channel="ppv-10644"
->
-<title lang="en">PDC: Women&apos;s Series 17-18</title>
-<sub-title>Darts</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Darts</category>
-<icon src="https://ppvs.su/assets/thumb/79c7b16d338264c0fac8f3f3b01b4bb6-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-10459">
 <display-name>Newcastle United vs. Liverpool</display-name>
 </channel>
@@ -967,28 +901,6 @@ channel="ppv-10563"
 <icon src="https://ppvs.su/assets/thumb/e802f5d0eda48d71b0fd65dec34ff0b8-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-10562">
-<display-name>Pro Motocross: Budds Creek</display-name>
-</channel>
-<programme
-start="20250823170000 +0000"
-stop="20250823220000 +0000"
-channel="ppv-10562"
->
-<title lang="en">Pro Motocross: Budds Creek</title>
-<sub-title>Motorsports</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Motorsports</category>
-<icon src="https://ppvs.su/assets/thumb/f029411fc5f0e9d0199e943d87d2f9b2-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-10446">
 <display-name>AEW: Saturday Night Collision</display-name>
 </channel>
@@ -1034,14 +946,14 @@ channel="ppv-5191"
 </programme>
 
 <channel id="ppv-8008">
-<display-name>24/7 Family‌​‌​‌‌​​‌‌​‌​​​​​‌‌‌‌‌‌‌‌‌​​​​​​ Guy</display-name>
+<display-name>24/7 Family​​‌‌​‌​​‌​​‌‌‌‌‌‌‌‌‌​‌‌​​​​​​​‌​ Guy</display-name>
 </channel>
 <programme
 start="20250118080000 +0000"
 stop="20250118090000 +0000"
 channel="ppv-8008"
 >
-<title lang="en">24/7 Family‌​‌​‌‌​​‌‌​‌​​​​​‌‌‌‌‌‌‌‌‌​​​​​​ Guy</title>
+<title lang="en">24/7 Family​​‌‌​‌​​‌​​‌‌‌‌‌‌‌‌‌​‌‌​​​​​​​‌​ Guy</title>
 <sub-title>24/7 Streams</sub-title>
 <video>
 <present>yes</present>
