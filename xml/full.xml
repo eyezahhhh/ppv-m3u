@@ -109,94 +109,6 @@ channel="ppv-10588"
 <icon src="https://ppvs.su/assets/thumb/ee2b8b2bda785d4c909fa3462cfbab66-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-10584">
-<display-name>Indianapolis Colts vs. Cincinnati Bengals</display-name>
-</channel>
-<programme
-start="20250823170000 +0000"
-stop="20250823200000 +0000"
-channel="ppv-10584"
->
-<title lang="en">Indianapolis Colts vs. Cincinnati Bengals</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://ppvs.su/assets/thumb/fbe3d64bd53250a6b25dd2acc23ed964-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10585">
-<display-name>Los Angeles Rams vs. Cleveland Browns</display-name>
-</channel>
-<programme
-start="20250823170000 +0000"
-stop="20250823200000 +0000"
-channel="ppv-10585"
->
-<title lang="en">Los Angeles Rams vs. Cleveland Browns</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://ppvs.su/assets/thumb/98e54d893d5bffb3d229dd4392ebf2b8-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10586">
-<display-name>Houston Texans vs. Detroit Lions</display-name>
-</channel>
-<programme
-start="20250823170000 +0000"
-stop="20250823200000 +0000"
-channel="ppv-10586"
->
-<title lang="en">Houston Texans vs. Detroit Lions</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://ppvs.su/assets/thumb/d1ab059387dd2817cff760e35ff2406b-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10587">
-<display-name>Denver Broncos vs. New Orleans Saints</display-name>
-</channel>
-<programme
-start="20250823170000 +0000"
-stop="20250823200000 +0000"
-channel="ppv-10587"
->
-<title lang="en">Denver Broncos vs. New Orleans Saints</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://ppvs.su/assets/thumb/4857367eda3061cd0452f19720d8f049-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-10611">
 <display-name>Athletics vs. Seattle Mariners</display-name>
 </channel>
@@ -483,28 +395,6 @@ channel="ppv-10599"
 <icon src="https://ppvs.su/assets/thumb/3149f5afa058c47d59c582f3a5d64908-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-10597">
-<display-name>Boston Red Sox vs. New York Yankees</display-name>
-</channel>
-<programme
-start="20250823170500 +0000"
-stop="20250823200500 +0000"
-channel="ppv-10597"
->
-<title lang="en">Boston Red Sox vs. New York Yankees</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/df99eea86ea73aaadec6332a334a63fc-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-10634">
 <display-name>Sun at Sky</display-name>
 </channel>
@@ -593,13 +483,13 @@ channel="ppv-10378"
 <icon src="https://ppvs.su/assets/thumb/02f834a6bfd1ca91505b741954865592-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-10620">
+<channel id="ppv-10657">
 <display-name>PDC: Boomerang Tours Fiesta 2025</display-name>
 </channel>
 <programme
 start="20250824160000 +0000"
 stop="20250824230000 +0000"
-channel="ppv-10620"
+channel="ppv-10657"
 >
 <title lang="en">PDC: Boomerang Tours Fiesta 2025</title>
 <sub-title>Darts</sub-title>
@@ -615,13 +505,13 @@ channel="ppv-10620"
 <icon src="https://ppvs.su/assets/thumb/9f57f2c119092e7480b1cce2e924aeee-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-10621">
+<channel id="ppv-10658">
 <display-name>PDC: Boomerang Tours Fiesta - Board 2</display-name>
 </channel>
 <programme
 start="20250824160000 +0000"
 stop="20250824230000 +0000"
-channel="ppv-10621"
+channel="ppv-10658"
 >
 <title lang="en">PDC: Boomerang Tours Fiesta - Board 2</title>
 <sub-title>Darts</sub-title>
@@ -637,35 +527,13 @@ channel="ppv-10621"
 <icon src="https://ppvs.su/assets/thumb/9f57f2c119092e7480b1cce2e924aeee-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-10622">
-<display-name>PDC: Boomerang Tours Fiesta - Board 2</display-name>
-</channel>
-<programme
-start="20250824160000 +0000"
-stop="20250824230000 +0000"
-channel="ppv-10622"
->
-<title lang="en">PDC: Boomerang Tours Fiesta - Board 2</title>
-<sub-title>Darts</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Darts</category>
-<icon src="https://ppvs.su/assets/thumb/9f57f2c119092e7480b1cce2e924aeee-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10623">
+<channel id="ppv-10659">
 <display-name>PDC: Boomerang Tours Fiesta - Board 3</display-name>
 </channel>
 <programme
 start="20250824160000 +0000"
 stop="20250824230000 +0000"
-channel="ppv-10623"
+channel="ppv-10659"
 >
 <title lang="en">PDC: Boomerang Tours Fiesta - Board 3</title>
 <sub-title>Darts</sub-title>
@@ -681,35 +549,13 @@ channel="ppv-10623"
 <icon src="https://ppvs.su/assets/thumb/9f57f2c119092e7480b1cce2e924aeee-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-10624">
-<display-name>PDC: Boomerang Tours Fiesta - Board 3</display-name>
-</channel>
-<programme
-start="20250824160000 +0000"
-stop="20250824230000 +0000"
-channel="ppv-10624"
->
-<title lang="en">PDC: Boomerang Tours Fiesta - Board 3</title>
-<sub-title>Darts</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Darts</category>
-<icon src="https://ppvs.su/assets/thumb/9f57f2c119092e7480b1cce2e924aeee-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10625">
+<channel id="ppv-10660">
 <display-name>PDC: Boomerang Tours Fiesta - Board 5</display-name>
 </channel>
 <programme
 start="20250824160000 +0000"
 stop="20250824230000 +0000"
-channel="ppv-10625"
+channel="ppv-10660"
 >
 <title lang="en">PDC: Boomerang Tours Fiesta - Board 5</title>
 <sub-title>Darts</sub-title>
@@ -725,57 +571,13 @@ channel="ppv-10625"
 <icon src="https://ppvs.su/assets/thumb/9f57f2c119092e7480b1cce2e924aeee-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-10626">
-<display-name>PDC: Boomerang Tours Fiesta - Board 5</display-name>
-</channel>
-<programme
-start="20250824160000 +0000"
-stop="20250824230000 +0000"
-channel="ppv-10626"
->
-<title lang="en">PDC: Boomerang Tours Fiesta - Board 5</title>
-<sub-title>Darts</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Darts</category>
-<icon src="https://ppvs.su/assets/thumb/9f57f2c119092e7480b1cce2e924aeee-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10627">
-<display-name>PDC: Boomerang Tours Fiesta - Board 5</display-name>
-</channel>
-<programme
-start="20250824160000 +0000"
-stop="20250824230000 +0000"
-channel="ppv-10627"
->
-<title lang="en">PDC: Boomerang Tours Fiesta - Board 5</title>
-<sub-title>Darts</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Darts</category>
-<icon src="https://ppvs.su/assets/thumb/9f57f2c119092e7480b1cce2e924aeee-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10628">
+<channel id="ppv-10661">
 <display-name>PDC: Boomerang Tours Fiesta - Board 4</display-name>
 </channel>
 <programme
 start="20250824160000 +0000"
 stop="20250824230000 +0000"
-channel="ppv-10628"
+channel="ppv-10661"
 >
 <title lang="en">PDC: Boomerang Tours Fiesta - Board 4</title>
 <sub-title>Darts</sub-title>
@@ -791,57 +593,13 @@ channel="ppv-10628"
 <icon src="https://ppvs.su/assets/thumb/9f57f2c119092e7480b1cce2e924aeee-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-10629">
-<display-name>PDC: Boomerang Tours Fiesta - Board 4</display-name>
-</channel>
-<programme
-start="20250824160000 +0000"
-stop="20250824230000 +0000"
-channel="ppv-10629"
->
-<title lang="en">PDC: Boomerang Tours Fiesta - Board 4</title>
-<sub-title>Darts</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Darts</category>
-<icon src="https://ppvs.su/assets/thumb/9f57f2c119092e7480b1cce2e924aeee-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10630">
-<display-name>PDC: Boomerang Tours Fiesta - Board 4</display-name>
-</channel>
-<programme
-start="20250824160000 +0000"
-stop="20250824230000 +0000"
-channel="ppv-10630"
->
-<title lang="en">PDC: Boomerang Tours Fiesta - Board 4</title>
-<sub-title>Darts</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Darts</category>
-<icon src="https://ppvs.su/assets/thumb/9f57f2c119092e7480b1cce2e924aeee-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10617">
+<channel id="ppv-10656">
 <display-name>PDC: Women&apos;s Series 19-20</display-name>
 </channel>
 <programme
 start="20250824090000 +0000"
 stop="20250824230000 +0000"
-channel="ppv-10617"
+channel="ppv-10656"
 >
 <title lang="en">PDC: Women&apos;s Series 19-20</title>
 <sub-title>Darts</sub-title>
@@ -857,15 +615,15 @@ channel="ppv-10617"
 <icon src="https://ppvs.su/assets/thumb/45d28c32444ec885553be12770f244a0-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-10618">
-<display-name>PDC: Women&apos;s Series 19-20</display-name>
+<channel id="ppv-10655">
+<display-name>PDC: China Championship</display-name>
 </channel>
 <programme
-start="20250824090000 +0000"
-stop="20250824230000 +0000"
-channel="ppv-10618"
+start="20250824010000 +0000"
+stop="20250824150000 +0000"
+channel="ppv-10655"
 >
-<title lang="en">PDC: Women&apos;s Series 19-20</title>
+<title lang="en">PDC: China Championship</title>
 <sub-title>Darts</sub-title>
 <video>
 <present>yes</present>
@@ -876,7 +634,249 @@ channel="ppv-10618"
 <stereo>stereo</stereo>
 </audio>
 <category>Darts</category>
-<icon src="https://ppvs.su/assets/thumb/45d28c32444ec885553be12770f244a0-thumbnail.jpg" />
+<icon src="https://ppvs.su/assets/thumb/36b56b4e4cb7c6f8d0333c45adf673a0-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10650">
+<display-name>PDC: CDC Showdown - Board 2</display-name>
+</channel>
+<programme
+start="20250823230000 +0000"
+stop="20250824050000 +0000"
+channel="ppv-10650"
+>
+<title lang="en">PDC: CDC Showdown - Board 2</title>
+<sub-title>Darts</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Darts</category>
+<icon src="https://ppvs.su/assets/thumb/75dfc48d29e1189c386715a362e731c4-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10651">
+<display-name>PDC: CDC Showdown - Board 4</display-name>
+</channel>
+<programme
+start="20250823230000 +0000"
+stop="20250824050000 +0000"
+channel="ppv-10651"
+>
+<title lang="en">PDC: CDC Showdown - Board 4</title>
+<sub-title>Darts</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Darts</category>
+<icon src="https://ppvs.su/assets/thumb/75dfc48d29e1189c386715a362e731c4-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10652">
+<display-name>PDC: CDC Showdown 2025</display-name>
+</channel>
+<programme
+start="20250823230000 +0000"
+stop="20250824050000 +0000"
+channel="ppv-10652"
+>
+<title lang="en">PDC: CDC Showdown 2025</title>
+<sub-title>Darts</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Darts</category>
+<icon src="https://ppvs.su/assets/thumb/75dfc48d29e1189c386715a362e731c4-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10653">
+<display-name>PDC: CDC Showdown - Board 3</display-name>
+</channel>
+<programme
+start="20250823230000 +0000"
+stop="20250824050000 +0000"
+channel="ppv-10653"
+>
+<title lang="en">PDC: CDC Showdown - Board 3</title>
+<sub-title>Darts</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Darts</category>
+<icon src="https://ppvs.su/assets/thumb/75dfc48d29e1189c386715a362e731c4-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10654">
+<display-name>PDC: CDC Showdown - Board 5</display-name>
+</channel>
+<programme
+start="20250823230000 +0000"
+stop="20250824050000 +0000"
+channel="ppv-10654"
+>
+<title lang="en">PDC: CDC Showdown - Board 5</title>
+<sub-title>Darts</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Darts</category>
+<icon src="https://ppvs.su/assets/thumb/75dfc48d29e1189c386715a362e731c4-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10645">
+<display-name>PDC: Cosmo Darts Championship - Board 4</display-name>
+</channel>
+<programme
+start="20250823170000 +0000"
+stop="20250823230000 +0000"
+channel="ppv-10645"
+>
+<title lang="en">PDC: Cosmo Darts Championship - Board 4</title>
+<sub-title>Darts</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Darts</category>
+<icon src="https://ppvs.su/assets/thumb/1e1a939c1b2075590bf7e1ab5677d63f-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10646">
+<display-name>PDC: Cosmo Darts Championship 2025</display-name>
+</channel>
+<programme
+start="20250823170000 +0000"
+stop="20250823230000 +0000"
+channel="ppv-10646"
+>
+<title lang="en">PDC: Cosmo Darts Championship 2025</title>
+<sub-title>Darts</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Darts</category>
+<icon src="https://ppvs.su/assets/thumb/1e1a939c1b2075590bf7e1ab5677d63f-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10647">
+<display-name>PDC: Cosmo Darts Championship - Board 2</display-name>
+</channel>
+<programme
+start="20250823170000 +0000"
+stop="20250823230000 +0000"
+channel="ppv-10647"
+>
+<title lang="en">PDC: Cosmo Darts Championship - Board 2</title>
+<sub-title>Darts</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Darts</category>
+<icon src="https://ppvs.su/assets/thumb/1e1a939c1b2075590bf7e1ab5677d63f-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10648">
+<display-name>PDC: Cosmo Darts Championship - Board 3</display-name>
+</channel>
+<programme
+start="20250823170000 +0000"
+stop="20250823230000 +0000"
+channel="ppv-10648"
+>
+<title lang="en">PDC: Cosmo Darts Championship - Board 3</title>
+<sub-title>Darts</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Darts</category>
+<icon src="https://ppvs.su/assets/thumb/1e1a939c1b2075590bf7e1ab5677d63f-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10649">
+<display-name>PDC: Cosmo Darts Championship - Board 5</display-name>
+</channel>
+<programme
+start="20250823170000 +0000"
+stop="20250823230000 +0000"
+channel="ppv-10649"
+>
+<title lang="en">PDC: Cosmo Darts Championship - Board 5</title>
+<sub-title>Darts</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Darts</category>
+<icon src="https://ppvs.su/assets/thumb/1e1a939c1b2075590bf7e1ab5677d63f-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10644">
+<display-name>PDC: Women&apos;s Series 17-18</display-name>
+</channel>
+<programme
+start="20250823090000 +0000"
+stop="20250823220000 +0000"
+channel="ppv-10644"
+>
+<title lang="en">PDC: Women&apos;s Series 17-18</title>
+<sub-title>Darts</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Darts</category>
+<icon src="https://ppvs.su/assets/thumb/79c7b16d338264c0fac8f3f3b01b4bb6-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-10459">
@@ -1056,14 +1056,14 @@ channel="ppv-5191"
 </programme>
 
 <channel id="ppv-8008">
-<display-name>24/7 Family​‌​​​​​​‌‌‌​‌‌​​‌​​​​‌‌​‌​‌​​​​‌ Guy</display-name>
+<display-name>24/7 Family‌​​​​‌‌‌‌‌‌​‌‌​‌‌​​​​​‌​‌​‌‌​​​​ Guy</display-name>
 </channel>
 <programme
 start="20250118080000 +0000"
 stop="20250118090000 +0000"
 channel="ppv-8008"
 >
-<title lang="en">24/7 Family​‌​​​​​​‌‌‌​‌‌​​‌​​​​‌‌​‌​‌​​​​‌ Guy</title>
+<title lang="en">24/7 Family‌​​​​‌‌‌‌‌‌​‌‌​‌‌​​​​​‌​‌​‌‌​​​​ Guy</title>
 <sub-title>24/7 Streams</sub-title>
 <video>
 <present>yes</present>
