@@ -241,50 +241,6 @@ channel="ppv-10567"
 <icon src="https://ppvs.su/assets/thumb/429e1fe2df34d9b7c7eb9fa1f35a102a-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-10565">
-<display-name>Atlanta Falcons vs. Dallas Cowboys</display-name>
-</channel>
-<programme
-start="20250823000000 +0000"
-stop="20250823030000 +0000"
-channel="ppv-10565"
->
-<title lang="en">Atlanta Falcons vs. Dallas Cowboys</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://ppvs.su/assets/thumb/420ce68c825fba7bd28589442066e758-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10566">
-<display-name>Minnesota Vikings vs. Tennessee Titans</display-name>
-</channel>
-<programme
-start="20250823000000 +0000"
-stop="20250823030000 +0000"
-channel="ppv-10566"
->
-<title lang="en">Minnesota Vikings vs. Tennessee Titans</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://ppvs.su/assets/thumb/1f3a2ef4209d5fe18fd0922b7fdb5943-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-10546">
 <display-name>Athletics vs. Seattle Mariners</display-name>
 </channel>
@@ -371,94 +327,6 @@ channel="ppv-10542"
 </audio>
 <category>Baseball</category>
 <icon src="https://ppvs.su/assets/thumb/638cf32d7580534218766ae34b612af4-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10541">
-<display-name>San Francisco Giants vs. Milwaukee Brewers</display-name>
-</channel>
-<programme
-start="20250823001000 +0000"
-stop="20250823031000 +0000"
-channel="ppv-10541"
->
-<title lang="en">San Francisco Giants vs. Milwaukee Brewers</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/8e697635251f5392d0d2d07800a4de8e-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10540">
-<display-name>Cleveland Guardians vs. Texas Rangers</display-name>
-</channel>
-<programme
-start="20250823000500 +0000"
-stop="20250823030500 +0000"
-channel="ppv-10540"
->
-<title lang="en">Cleveland Guardians vs. Texas Rangers</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/ddd9abda5e1f80c14b7602ecf42ac789-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10539">
-<display-name>Minnesota Twins vs. Chicago White Sox</display-name>
-</channel>
-<programme
-start="20250822234000 +0000"
-stop="20250823024000 +0000"
-channel="ppv-10539"
->
-<title lang="en">Minnesota Twins vs. Chicago White Sox</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/dd13b1334d372d714cdf54e012c1d84f-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10538">
-<display-name>St. Louis Cardinals vs. Tampa Bay Rays</display-name>
-</channel>
-<programme
-start="20250822233500 +0000"
-stop="20250823023500 +0000"
-channel="ppv-10538"
->
-<title lang="en">St. Louis Cardinals vs. Tampa Bay Rays</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/cad4de2fb8680525420172b9d70e67b2-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-10559">
@@ -1119,27 +987,5 @@ channel="ppv-10446"
 </audio>
 <category>Wrestling</category>
 <icon src="https://ppvs.su/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10445">
-<display-name>WWE: Friday Night Smackdown</display-name>
-</channel>
-<programme
-start="20250823000000 +0000"
-stop="20250823030000 +0000"
-channel="ppv-10445"
->
-<title lang="en">WWE: Friday Night Smackdown</title>
-<sub-title>Wrestling</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Wrestling</category>
-<icon src="https://ppvs.su/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" />
 </programme>
 </tv>
