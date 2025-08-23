@@ -439,28 +439,6 @@ channel="ppv-10633"
 <icon src="https://ppvs.su/assets/thumb/55f40ed00579e0fa007eeee6a68913bd-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-10632">
-<display-name>Liberty at Dream</display-name>
-</channel>
-<programme
-start="20250823180000 +0000"
-stop="20250823204500 +0000"
-channel="ppv-10632"
->
-<title lang="en">Liberty at Dream</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://ppvs.su/assets/thumb/0703c856232b44b6adc231cb259a2687-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-10378">
 <display-name>GLORY 103</display-name>
 </channel>
@@ -1056,14 +1034,14 @@ channel="ppv-5191"
 </programme>
 
 <channel id="ppv-8008">
-<display-name>24/7 Family​​‌‌​‌​​‌​​‌​‌‌​​​​‌‌‌​‌​‌‌​​​‌‌ Guy</display-name>
+<display-name>24/7 Family‌​‌​‌‌​​‌​‌‌​‌‌​‌‌‌​​​‌​‌‌‌​​‌​‌ Guy</display-name>
 </channel>
 <programme
 start="20250118080000 +0000"
 stop="20250118090000 +0000"
 channel="ppv-8008"
 >
-<title lang="en">24/7 Family​​‌‌​‌​​‌​​‌​‌‌​​​​‌‌‌​‌​‌‌​​​‌‌ Guy</title>
+<title lang="en">24/7 Family‌​‌​‌‌​​‌​‌‌​‌‌​‌‌‌​​​‌​‌‌‌​​‌​‌ Guy</title>
 <sub-title>24/7 Streams</sub-title>
 <video>
 <present>yes</present>
