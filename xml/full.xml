@@ -549,94 +549,6 @@ channel="ppv-10546"
 <icon src="https://ppvs.su/assets/thumb/9aa48a16e4b4f063747e5e2468193f9a-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-10544">
-<display-name>Cincinnati Reds vs. Arizona Diamondbacks</display-name>
-</channel>
-<programme
-start="20250823014000 +0000"
-stop="20250823044000 +0000"
-channel="ppv-10544"
->
-<title lang="en">Cincinnati Reds vs. Arizona Diamondbacks</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/1d8a6afb0b0375493e70b684e7f821fd-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10545">
-<display-name>Los Angeles Dodgers vs. San Diego Padres</display-name>
-</channel>
-<programme
-start="20250823014000 +0000"
-stop="20250823044000 +0000"
-channel="ppv-10545"
->
-<title lang="en">Los Angeles Dodgers vs. San Diego Padres</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/cff4766d1a39f14543aee57f25703fba-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10542">
-<display-name>Chicago Cubs vs. Los Angeles Angels</display-name>
-</channel>
-<programme
-start="20250823013800 +0000"
-stop="20250823043800 +0000"
-channel="ppv-10542"
->
-<title lang="en">Chicago Cubs vs. Los Angeles Angels</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/638cf32d7580534218766ae34b612af4-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10559">
-<display-name>Valkyries at Mercury</display-name>
-</channel>
-<programme
-start="20250823020000 +0000"
-stop="20250823044500 +0000"
-channel="ppv-10559"
->
-<title lang="en">Valkyries at Mercury</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://ppvs.su/assets/thumb/429f01b7c2fe06ab6edb9cf2fee224f4-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-10378">
 <display-name>GLORY 103</display-name>
 </channel>
@@ -1826,14 +1738,14 @@ channel="ppv-5191"
 </programme>
 
 <channel id="ppv-8008">
-<display-name>24/7 Family​​​​‌‌​‌​‌​‌​​‌‌‌​‌​​​‌​​​​​​‌‌​ Guy</display-name>
+<display-name>24/7 Family​​‌‌​‌​​‌​‌‌​​​​‌​​​‌​‌​‌​‌‌​​​‌ Guy</display-name>
 </channel>
 <programme
 start="20250118080000 +0000"
 stop="20250118090000 +0000"
 channel="ppv-8008"
 >
-<title lang="en">24/7 Family​​​​‌‌​‌​‌​‌​​‌‌‌​‌​​​‌​​​​​​‌‌​ Guy</title>
+<title lang="en">24/7 Family​​‌‌​‌​​‌​‌‌​​​​‌​​​‌​‌​‌​‌‌​​​‌ Guy</title>
 <sub-title>24/7 Streams</sub-title>
 <video>
 <present>yes</present>
