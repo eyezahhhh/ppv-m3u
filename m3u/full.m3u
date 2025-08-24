@@ -29,8 +29,6 @@
 
 #EXTINF:-1 tvg-id="ppv-10666" tvg-name="Colorado Rockies vs. Pittsburgh Pirates (24 August 2025 at 16:05)" tvg-epgid="10666" tvg-logo="https://ppvs.su/assets/thumb/b1de59b2bfb7b0382b3b9f2ca4821978-thumbnail.jpg",Colorado Rockies vs. Pittsburgh Pirates (24 August 2025 at 16:05)
 
-#EXTINF:-1 tvg-id="ppv-10681" tvg-name="Master stream test (24 August 2025 at 05:00)" tvg-epgid="10681" tvg-logo="https://ppvs.su/assets/thumb/375b0928e95d80f97f761eeb3fd005c9-thumbnail.jpg",Master stream test (24 August 2025 at 05:00)
-
 #EXTINF:-1 tvg-id="ppv-10662" tvg-name="PDC: Players Championship 24 - Board 1 (25 August 2025 at 12:00)" tvg-epgid="10662" tvg-logo="https://ppvs.su/assets/thumb/9e2936d7e85db9609273963ac3cc1643-thumbnail.jpg",PDC: Players Championship 24 - Board 1 (25 August 2025 at 12:00)
 
 #EXTINF:-1 tvg-id="ppv-10663" tvg-name="PDC: Players Championship 24 - Board 4 (25 August 2025 at 12:00)" tvg-epgid="10663" tvg-logo="https://ppvs.su/assets/thumb/9e2936d7e85db9609273963ac3cc1643-thumbnail.jpg",PDC: Players Championship 24 - Board 4 (25 August 2025 at 12:00)
@@ -62,10 +60,10 @@
 #EXTINF:-1 tvg-id="ppv-10456" tvg-name="Everton vs. Brighton and Hove Albion (24 August 2025 at 13:00)" tvg-epgid="10456" tvg-logo="https://ppvs.su/assets/thumb/0a39ece0e7156dd7b10c86a9ed3e2fc9-thumbnail.jpg",Everton vs. Brighton and Hove Albion (24 August 2025 at 13:00)
 
 #EXTINF:-1 tvg-id="ppv-5191" tvg-name="24/7 The Simpsons" tvg-epgid="5191" tvg-logo="https://thumbs.poocloud.in/thesimpsons/preview.jpg",24/7 The Simpsons
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MGQzNzI5MTE0YjQwLTVmYmEtYmE3NC1kOThlLWY2MmU4NGI4/master.m3u8?md5=Xe3ZhW8AmWKNexBD-SxHAw&expires=1756067823&net=MTcyLjE4NC4yMTkuMjEw
-#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family‌​‌​‌‌​​‌​‌‌‌​​​‌‌​‌‌​‌‌‌‌​‌​​‌​ Guy" tvg-epgid="8008" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg",24/7 Family‌​‌​‌‌​​‌​‌‌‌​​​‌‌​‌‌​‌‌‌‌​‌​​‌​ Guy
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YTA5ZTU3MjFhNTI0LWRkZTktZTRlNC1mMzU4LTQwMWI0YjJk/master.m3u8?md5=Xe3ZhW8AmWKNexBD-SxHAw&expires=1756067823&net=MTcyLjE4NC4yMTkuMjEw
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MGQzNzI5MTE0YjQwLTVmYmEtYmE3NC1kOThlLWY2MmU4NGI4/master.m3u8?md5=bcKnBZ7FLt3Pw_rfqsymgg&expires=1756069526&net=MTM1LjIzNy4xMzAuMTgz
+#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family‌​​​​‌‌‌‌‌‌​‌‌​‌‌​​​​​‌​‌​‌‌​‌‌‌ Guy" tvg-epgid="8008" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg",24/7 Family‌​​​​‌‌‌‌‌‌​‌‌​‌‌​​​​​‌​‌​‌‌​‌‌‌ Guy
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YTA5ZTU3MjFhNTI0LWRkZTktZTRlNC1mMzU4LTQwMWI0YjJk/master.m3u8?md5=5aquUSAvVgkmFRRzW4sf6A&expires=1756069527&net=MTM1LjIzNy4xMzAuMTgz
 #EXTINF:-1 tvg-id="ppv-3663" tvg-name="24/7 COWS" tvg-epgid="3663" tvg-logo="https://ppvs.su/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg",24/7 COWS
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8?md5=tClaER9ILgajRIlpcSiAgg&expires=1756067824&net=MTcyLjE4NC4yMTkuMjEw
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8?md5=5aquUSAvVgkmFRRzW4sf6A&expires=1756069527&net=MTM1LjIzNy4xMzAuMTgz
 #EXTINF:-1 tvg-id="ppv-5112" tvg-name="24/7 South Park" tvg-epgid="5112" tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg",24/7 South Park
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZGEyNDNkZWMyNzFjLWU2OWItNzFlNC00NWU5LTUyODY0MWIz/master.m3u8?md5=tClaER9ILgajRIlpcSiAgg&expires=1756067824&net=MTcyLjE4NC4yMTkuMjEw
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZGEyNDNkZWMyNzFjLWU2OWItNzFlNC00NWU5LTUyODY0MWIz/master.m3u8?md5=5aquUSAvVgkmFRRzW4sf6A&expires=1756069527&net=MTM1LjIzNy4xMzAuMTgz
