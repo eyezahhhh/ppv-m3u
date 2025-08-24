@@ -329,6 +329,72 @@ channel="ppv-10666"
 <icon src="https://ppvs.su/assets/thumb/b1de59b2bfb7b0382b3b9f2ca4821978-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-10686">
+<display-name>Fever at Lynx</display-name>
+</channel>
+<programme
+start="20250824230000 +0000"
+stop="20250825014500 +0000"
+channel="ppv-10686"
+>
+<title lang="en">Fever at Lynx</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://ppvs.su/assets/thumb/a19f901b8714785e400fc32b11d8ec9f-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10685">
+<display-name>Valkyries at Wings</display-name>
+</channel>
+<programme
+start="20250824200000 +0000"
+stop="20250824224500 +0000"
+channel="ppv-10685"
+>
+<title lang="en">Valkyries at Wings</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://ppvs.su/assets/thumb/b65b3021fa8b180b541cc0142d8b35cb-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10684">
+<display-name>Storm at Mystics</display-name>
+</channel>
+<programme
+start="20250824190000 +0000"
+stop="20250824214500 +0000"
+channel="ppv-10684"
+>
+<title lang="en">Storm at Mystics</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://ppvs.su/assets/thumb/755e078fdf04b6263945a255e46c244d-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-10662">
 <display-name>PDC: Players Championship 24 - Board 1</display-name>
 </channel>
