@@ -21,28 +21,6 @@ channel="ppv-10592"
 <icon src="https://ppvs.su/assets/thumb/7f4d5219b4f0fbe2bd62d91affe1aef7-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-10591">
-<display-name>Los Angeles Chargers vs. San Francisco 49ers</display-name>
-</channel>
-<programme
-start="20250824003000 +0000"
-stop="20250824033000 +0000"
-channel="ppv-10591"
->
-<title lang="en">Los Angeles Chargers vs. San Francisco 49ers</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://ppvs.su/assets/thumb/0594412b709942e62048ec1bbb212bfb-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-10611">
 <display-name>Athletics vs. Seattle Mariners</display-name>
 </channel>
@@ -85,28 +63,6 @@ channel="ppv-10610"
 </audio>
 <category>Baseball</category>
 <icon src="https://ppvs.su/assets/thumb/638cf32d7580534218766ae34b612af4-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10609">
-<display-name>Los Angeles Dodgers vs. San Diego Padres</display-name>
-</channel>
-<programme
-start="20250824004000 +0000"
-stop="20250824034000 +0000"
-channel="ppv-10609"
->
-<title lang="en">Los Angeles Dodgers vs. San Diego Padres</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/cff4766d1a39f14543aee57f25703fba-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-10657">
@@ -484,14 +440,14 @@ channel="ppv-5191"
 </programme>
 
 <channel id="ppv-8008">
-<display-name>24/7 Family‌​‌​‌‌​​‌​‌‌​​‌​​‌‌‌​‌‌‌​‌‌‌​​‌‌ Guy</display-name>
+<display-name>24/7 Family​‌​​‌​‌​‌‌‌​‌​‌‌​‌‌‌‌​‌‌​​​​​‌​​ Guy</display-name>
 </channel>
 <programme
 start="20250118080000 +0000"
 stop="20250118090000 +0000"
 channel="ppv-8008"
 >
-<title lang="en">24/7 Family‌​‌​‌‌​​‌​‌‌​​‌​​‌‌‌​‌‌‌​‌‌‌​​‌‌ Guy</title>
+<title lang="en">24/7 Family​‌​​‌​‌​‌‌‌​‌​‌‌​‌‌‌‌​‌‌​​​​​‌​​ Guy</title>
 <sub-title>24/7 Streams</sub-title>
 <video>
 <present>yes</present>
