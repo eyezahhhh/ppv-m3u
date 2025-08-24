@@ -55,8 +55,6 @@
 
 #EXTINF:-1 tvg-id="ppv-10656" tvg-name="PDC: Women's Series 19-20 (24 August 2025 at 09:00)" tvg-epgid="10656" tvg-logo="https://ppvs.su/assets/thumb/45d28c32444ec885553be12770f244a0-thumbnail.jpg",PDC: Women's Series 19-20 (24 August 2025 at 09:00)
 
-#EXTINF:-1 tvg-id="ppv-10655" tvg-name="PDC: China Championship (24 August 2025 at 01:00)" tvg-epgid="10655" tvg-logo="https://ppvs.su/assets/thumb/36b56b4e4cb7c6f8d0333c45adf673a0-thumbnail.jpg",PDC: China Championship (24 August 2025 at 01:00)
-
 #EXTINF:-1 tvg-id="ppv-10459" tvg-name="Newcastle United vs. Liverpool (25 August 2025 at 19:00)" tvg-epgid="10459" tvg-logo="https://ppvs.su/assets/thumb/38265c76fd4126cac14e903357af2db1-thumbnail.jpg",Newcastle United vs. Liverpool (25 August 2025 at 19:00)
 
 #EXTINF:-1 tvg-id="ppv-10683" tvg-name="Real Oviedo vs Real Madrid (24 August 2025 at 19:30)" tvg-epgid="10683" tvg-logo="https://ppvs.su/assets/thumb/c3d8ca9c583890f1415c7f5ee50e53c5-thumbnail.jpg",Real Oviedo vs Real Madrid (24 August 2025 at 19:30)
@@ -66,4 +64,6 @@
 #EXTINF:-1 tvg-id="ppv-10455" tvg-name="Crystal Palace vs. Nottingham Forest (24 August 2025 at 13:00)" tvg-epgid="10455" tvg-logo="https://ppvs.su/assets/thumb/7cd9c5e70f5927123536086873e87ad2-thumbnail.jpg",Crystal Palace vs. Nottingham Forest (24 August 2025 at 13:00)
 
 #EXTINF:-1 tvg-id="ppv-10456" tvg-name="Everton vs. Brighton and Hove Albion (24 August 2025 at 13:00)" tvg-epgid="10456" tvg-logo="https://ppvs.su/assets/thumb/0a39ece0e7156dd7b10c86a9ed3e2fc9-thumbnail.jpg",Everton vs. Brighton and Hove Albion (24 August 2025 at 13:00)
+
+#EXTINF:-1 tvg-id="ppv-10687" tvg-name="AEW x NJPW: Forbidden Door 2025 - London (24 August 2025 at 17:00)" tvg-epgid="10687" tvg-logo="https://ppvs.su/assets/thumb/417a89ae38d126149825a5cfe8b3b504-thumbnail.jpg",AEW x NJPW: Forbidden Door 2025 - London (24 August 2025 at 17:00)
 
