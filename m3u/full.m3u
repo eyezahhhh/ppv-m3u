@@ -1,14 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ppv-10680" tvg-name="Boston Red Sox vs. New York Yankees (24 August 2025 at 23:00)" tvg-epgid="10680" tvg-logo="https://ppvs.su/assets/thumb/df99eea86ea73aaadec6332a334a63fc-thumbnail.jpg",Boston Red Sox vs. New York Yankees (24 August 2025 at 23:00)
 
-#EXTINF:-1 tvg-id="ppv-10677" tvg-name="Cincinnati Reds vs. Arizona Diamondbacks (24 August 2025 at 20:10)" tvg-epgid="10677" tvg-logo="https://ppvs.su/assets/thumb/1d8a6afb0b0375493e70b684e7f821fd-thumbnail.jpg",Cincinnati Reds vs. Arizona Diamondbacks (24 August 2025 at 20:10)
-
-#EXTINF:-1 tvg-id="ppv-10678" tvg-name="Los Angeles Dodgers vs. San Diego Padres (24 August 2025 at 20:10)" tvg-epgid="10678" tvg-logo="https://ppvs.su/assets/thumb/cff4766d1a39f14543aee57f25703fba-thumbnail.jpg",Los Angeles Dodgers vs. San Diego Padres (24 August 2025 at 20:10)
-
-#EXTINF:-1 tvg-id="ppv-10679" tvg-name="Athletics vs. Seattle Mariners (24 August 2025 at 20:10)" tvg-epgid="10679" tvg-logo="https://ppvs.su/assets/thumb/9aa48a16e4b4f063747e5e2468193f9a-thumbnail.jpg",Athletics vs. Seattle Mariners (24 August 2025 at 20:10)
-
-#EXTINF:-1 tvg-id="ppv-10676" tvg-name="Chicago Cubs vs. Los Angeles Angels (24 August 2025 at 20:07)" tvg-epgid="10676" tvg-logo="https://ppvs.su/assets/thumb/638cf32d7580534218766ae34b612af4-thumbnail.jpg",Chicago Cubs vs. Los Angeles Angels (24 August 2025 at 20:07)
-
 #EXTINF:-1 tvg-id="ppv-10686" tvg-name="Fever at Lynx (24 August 2025 at 23:00)" tvg-epgid="10686" tvg-logo="https://ppvs.su/assets/thumb/a19f901b8714785e400fc32b11d8ec9f-thumbnail.jpg",Fever at Lynx (24 August 2025 at 23:00)
 
 #EXTINF:-1 tvg-id="ppv-10662" tvg-name="PDC: Players Championship 24 - Board 1 (25 August 2025 at 12:00)" tvg-epgid="10662" tvg-logo="https://ppvs.su/assets/thumb/9e2936d7e85db9609273963ac3cc1643-thumbnail.jpg",PDC: Players Championship 24 - Board 1 (25 August 2025 at 12:00)
@@ -22,10 +14,10 @@
 #EXTINF:-1 tvg-id="ppv-10459" tvg-name="Newcastle United vs. Liverpool (25 August 2025 at 19:00)" tvg-epgid="10459" tvg-logo="https://ppvs.su/assets/thumb/38265c76fd4126cac14e903357af2db1-thumbnail.jpg",Newcastle United vs. Liverpool (25 August 2025 at 19:00)
 
 #EXTINF:-1 tvg-id="ppv-5191" tvg-name="24/7 The Simpsons" tvg-epgid="5191" tvg-logo="https://thumbs.poocloud.in/thesimpsons/preview.jpg",24/7 The Simpsons
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MGQzNzI5MTE0YjQwLTVmYmEtYmE3NC1kOThlLWY2MmU4NGI4/master.m3u8?md5=A97ei4aUwEjxDmao5AQo8g&expires=1756119899&net=NTcuMTU0LjI0My4xNzg%3D
-#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family​​‌‌‌​​‌‌​​‌‌​‌​‌‌‌‌​​‌‌‌​‌‌​​‌​ Guy" tvg-epgid="8008" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg",24/7 Family​​‌‌‌​​‌‌​​‌‌​‌​‌‌‌‌​​‌‌‌​‌‌​​‌​ Guy
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YTA5ZTU3MjFhNTI0LWRkZTktZTRlNC1mMzU4LTQwMWI0YjJk/master.m3u8?md5=RroSOtm6HgOJERmtsALDDw&expires=1756119900&net=NTcuMTU0LjI0My4xNzg%3D
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MGQzNzI5MTE0YjQwLTVmYmEtYmE3NC1kOThlLWY2MmU4NGI4/master.m3u8?md5=bb-86vosP9W1w1EgyFFWIg&expires=1756121645&net=MjAuNTUuODcuNTA%3D
+#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family​​​‌​‌​​​​‌‌​‌‌‌​‌​‌​‌‌‌​​‌‌​​‌​ Guy" tvg-epgid="8008" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg",24/7 Family​​​‌​‌​​​​‌‌​‌‌‌​‌​‌​‌‌‌​​‌‌​​‌​ Guy
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YTA5ZTU3MjFhNTI0LWRkZTktZTRlNC1mMzU4LTQwMWI0YjJk/master.m3u8?md5=iRb2Mu7gIdA3Cjc5UEInJQ&expires=1756121646&net=MjAuNTUuODcuNTA%3D
 #EXTINF:-1 tvg-id="ppv-3663" tvg-name="24/7 COWS" tvg-epgid="3663" tvg-logo="https://ppvs.su/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg",24/7 COWS
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8?md5=RroSOtm6HgOJERmtsALDDw&expires=1756119900&net=NTcuMTU0LjI0My4xNzg%3D
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8?md5=iRb2Mu7gIdA3Cjc5UEInJQ&expires=1756121646&net=MjAuNTUuODcuNTA%3D
 #EXTINF:-1 tvg-id="ppv-5112" tvg-name="24/7 South Park" tvg-epgid="5112" tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg",24/7 South Park
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZGEyNDNkZWMyNzFjLWU2OWItNzFlNC00NWU5LTUyODY0MWIz/master.m3u8?md5=RroSOtm6HgOJERmtsALDDw&expires=1756119900&net=NTcuMTU0LjI0My4xNzg%3D
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZGEyNDNkZWMyNzFjLWU2OWItNzFlNC00NWU5LTUyODY0MWIz/master.m3u8?md5=iRb2Mu7gIdA3Cjc5UEInJQ&expires=1756121646&net=MjAuNTUuODcuNTA%3D

@@ -21,94 +21,6 @@ channel="ppv-10680"
 <icon src="https://ppvs.su/assets/thumb/df99eea86ea73aaadec6332a334a63fc-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-10677">
-<display-name>Cincinnati Reds vs. Arizona Diamondbacks</display-name>
-</channel>
-<programme
-start="20250824201000 +0000"
-stop="20250824231000 +0000"
-channel="ppv-10677"
->
-<title lang="en">Cincinnati Reds vs. Arizona Diamondbacks</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/1d8a6afb0b0375493e70b684e7f821fd-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10678">
-<display-name>Los Angeles Dodgers vs. San Diego Padres</display-name>
-</channel>
-<programme
-start="20250824201000 +0000"
-stop="20250824231000 +0000"
-channel="ppv-10678"
->
-<title lang="en">Los Angeles Dodgers vs. San Diego Padres</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/cff4766d1a39f14543aee57f25703fba-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10679">
-<display-name>Athletics vs. Seattle Mariners</display-name>
-</channel>
-<programme
-start="20250824201000 +0000"
-stop="20250824231000 +0000"
-channel="ppv-10679"
->
-<title lang="en">Athletics vs. Seattle Mariners</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/9aa48a16e4b4f063747e5e2468193f9a-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10676">
-<display-name>Chicago Cubs vs. Los Angeles Angels</display-name>
-</channel>
-<programme
-start="20250824200700 +0000"
-stop="20250824230700 +0000"
-channel="ppv-10676"
->
-<title lang="en">Chicago Cubs vs. Los Angeles Angels</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/638cf32d7580534218766ae34b612af4-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-10686">
 <display-name>Fever at Lynx</display-name>
 </channel>
@@ -264,14 +176,14 @@ channel="ppv-5191"
 </programme>
 
 <channel id="ppv-8008">
-<display-name>24/7 Family​​‌‌‌​​‌‌​​‌‌​‌​‌‌‌‌​​‌‌‌​‌‌​​‌​ Guy</display-name>
+<display-name>24/7 Family​​​‌​‌​​​​‌‌​‌‌‌​‌​‌​‌‌‌​​‌‌​​‌​ Guy</display-name>
 </channel>
 <programme
 start="20250118080000 +0000"
 stop="20250118090000 +0000"
 channel="ppv-8008"
 >
-<title lang="en">24/7 Family​​‌‌‌​​‌‌​​‌‌​‌​‌‌‌‌​​‌‌‌​‌‌​​‌​ Guy</title>
+<title lang="en">24/7 Family​​​‌​‌​​​​‌‌​‌‌‌​‌​‌​‌‌‌​​‌‌​​‌​ Guy</title>
 <sub-title>24/7 Streams</sub-title>
 <video>
 <present>yes</present>
