@@ -175,50 +175,6 @@ channel="ppv-10674"
 <icon src="https://ppvs.su/assets/thumb/8e697635251f5392d0d2d07800a4de8e-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-10671">
-<display-name>Kansas City Royals vs. Detroit Tigers</display-name>
-</channel>
-<programme
-start="20250824174000 +0000"
-stop="20250824204000 +0000"
-channel="ppv-10671"
->
-<title lang="en">Kansas City Royals vs. Detroit Tigers</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/8bac4ce1077cc9c5575d47dd47e06326-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10672">
-<display-name>Toronto Blue Jays vs. Miami Marlins</display-name>
-</channel>
-<programme
-start="20250824174000 +0000"
-stop="20250824204000 +0000"
-channel="ppv-10672"
->
-<title lang="en">Toronto Blue Jays vs. Miami Marlins</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/3149f5afa058c47d59c582f3a5d64908-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-10686">
 <display-name>Fever at Lynx</display-name>
 </channel>
@@ -594,14 +550,14 @@ channel="ppv-5191"
 </programme>
 
 <channel id="ppv-8008">
-<display-name>24/7 Family​‌​​​‌​​‌​​‌‌​‌​​‌‌‌​‌‌‌‌‌​‌​‌​​ Guy</display-name>
+<display-name>24/7 Family‌​‌​‌‌​​‌​‌‌‌​​​‌‌​‌‌​‌‌​‌​‌​‌​​ Guy</display-name>
 </channel>
 <programme
 start="20250118080000 +0000"
 stop="20250118090000 +0000"
 channel="ppv-8008"
 >
-<title lang="en">24/7 Family​‌​​​‌​​‌​​‌‌​‌​​‌‌‌​‌‌‌‌‌​‌​‌​​ Guy</title>
+<title lang="en">24/7 Family‌​‌​‌‌​​‌​‌‌‌​​​‌‌​‌‌​‌‌​‌​‌​‌​​ Guy</title>
 <sub-title>24/7 Streams</sub-title>
 <video>
 <present>yes</present>
