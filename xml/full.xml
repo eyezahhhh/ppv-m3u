@@ -593,6 +593,28 @@ channel="ppv-10459"
 <icon src="https://ppvs.su/assets/thumb/38265c76fd4126cac14e903357af2db1-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-10683">
+<display-name>Real Oviedo vs Real Madrid</display-name>
+</channel>
+<programme
+start="20250824193000 +0000"
+stop="20250824223000 +0000"
+channel="ppv-10683"
+>
+<title lang="en">Real Oviedo vs Real Madrid</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/c3d8ca9c583890f1415c7f5ee50e53c5-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-10457">
 <display-name>Fulham vs. Manchester United</display-name>
 </channel>
@@ -682,14 +704,14 @@ channel="ppv-5191"
 </programme>
 
 <channel id="ppv-8008">
-<display-name>24/7 Family‌​‌​‌‌​​‌‌​​‌​‌‌​​​‌‌‌‌​‌‌​‌​​​​ Guy</display-name>
+<display-name>24/7 Family​‌‌​‌​​​‌‌​‌​​​‌​​​​​‌​‌‌​​‌​​​‌ Guy</display-name>
 </channel>
 <programme
 start="20250118080000 +0000"
 stop="20250118090000 +0000"
 channel="ppv-8008"
 >
-<title lang="en">24/7 Family‌​‌​‌‌​​‌‌​​‌​‌‌​​​‌‌‌‌​‌‌​‌​​​​ Guy</title>
+<title lang="en">24/7 Family​‌‌​‌​​​‌‌​‌​​​‌​​​​​‌​‌‌​​‌​​​‌ Guy</title>
 <sub-title>24/7 Streams</sub-title>
 <video>
 <present>yes</present>
