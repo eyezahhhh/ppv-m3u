@@ -307,50 +307,6 @@ channel="ppv-10602"
 <icon src="https://ppvs.su/assets/thumb/b1de59b2bfb7b0382b3b9f2ca4821978-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-10601">
-<display-name>Kansas City Royals vs. Detroit Tigers</display-name>
-</channel>
-<programme
-start="20250823221000 +0000"
-stop="20250824011000 +0000"
-channel="ppv-10601"
->
-<title lang="en">Kansas City Royals vs. Detroit Tigers</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/8bac4ce1077cc9c5575d47dd47e06326-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10600">
-<display-name>Washington Nationals vs. Philadelphia Phillies</display-name>
-</channel>
-<programme
-start="20250823220500 +0000"
-stop="20250824010500 +0000"
-channel="ppv-10600"
->
-<title lang="en">Washington Nationals vs. Philadelphia Phillies</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/2b42c5a7bef57648e8a8459ea61c9a36-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-10657">
 <display-name>PDC: Boomerang Tours Fiesta 2025</display-name>
 </channel>
@@ -748,14 +704,14 @@ channel="ppv-5191"
 </programme>
 
 <channel id="ppv-8008">
-<display-name>24/7 Family​​‌​‌​​​​‌​​‌‌​​​‌‌‌​‌​‌‌‌‌‌​‌​​ Guy</display-name>
+<display-name>24/7 Family‌​‌​‌‌​​‌​‌‌‌​​​‌​‌​‌‌‌​​‌‌‌​​​‌ Guy</display-name>
 </channel>
 <programme
 start="20250118080000 +0000"
 stop="20250118090000 +0000"
 channel="ppv-8008"
 >
-<title lang="en">24/7 Family​​‌​‌​​​​‌​​‌‌​​​‌‌‌​‌​‌‌‌‌‌​‌​​ Guy</title>
+<title lang="en">24/7 Family‌​‌​‌‌​​‌​‌‌‌​​​‌​‌​‌‌‌​​‌‌‌​​​‌ Guy</title>
 <sub-title>24/7 Streams</sub-title>
 <video>
 <present>yes</present>
