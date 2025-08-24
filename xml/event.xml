@@ -681,50 +681,6 @@ channel="ppv-10457"
 <icon src="https://ppvs.su/assets/thumb/f26e85ddb6050f437647a4261639cfba-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-10455">
-<display-name>Crystal Palace vs. Nottingham Forest</display-name>
-</channel>
-<programme
-start="20250824130000 +0000"
-stop="20250824160000 +0000"
-channel="ppv-10455"
->
-<title lang="en">Crystal Palace vs. Nottingham Forest</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/7cd9c5e70f5927123536086873e87ad2-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10456">
-<display-name>Everton vs. Brighton and Hove Albion</display-name>
-</channel>
-<programme
-start="20250824130000 +0000"
-stop="20250824160000 +0000"
-channel="ppv-10456"
->
-<title lang="en">Everton vs. Brighton and Hove Albion</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/0a39ece0e7156dd7b10c86a9ed3e2fc9-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-10687">
 <display-name>AEW x NJPW: Forbidden Door 2025 - London</display-name>
 </channel>
