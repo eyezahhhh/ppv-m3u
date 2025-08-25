@@ -285,6 +285,50 @@ channel="ppv-10693"
 <icon src="https://ppvs.su/assets/thumb/011ba19ec85a38ebee5ec8a9c044c3c5-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-10713">
+<display-name>Aces at Sky</display-name>
+</channel>
+<programme
+start="20250826000000 +0000"
+stop="20250826024500 +0000"
+channel="ppv-10713"
+>
+<title lang="en">Aces at Sky</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://ppvs.su/assets/thumb/dc50180c06f4f58228e1add525cda5ad-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10712">
+<display-name>Sun at Liberty</display-name>
+</channel>
+<programme
+start="20250825230000 +0000"
+stop="20250826014500 +0000"
+channel="ppv-10712"
+>
+<title lang="en">Sun at Liberty</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://ppvs.su/assets/thumb/e4a18192ad8d1202d69b1e579b764cbf-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-10459">
 <display-name>Newcastle United vs. Liverpool</display-name>
 </channel>
