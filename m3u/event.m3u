@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ppv-10681" tvg-name="Master stream test (25 August 2025 at 02:00)" tvg-epgid="10681" tvg-logo="https://ppvs.su/assets/thumb/375b0928e95d80f97f761eeb3fd005c9-thumbnail.jpg",Master stream test (25 August 2025 at 02:00)
+
 #EXTINF:-1 tvg-id="ppv-10662" tvg-name="PDC: Players Championship 24 - Board 1 (25 August 2025 at 12:00)" tvg-epgid="10662" tvg-logo="https://ppvs.su/assets/thumb/9e2936d7e85db9609273963ac3cc1643-thumbnail.jpg",PDC: Players Championship 24 - Board 1 (25 August 2025 at 12:00)
 
 #EXTINF:-1 tvg-id="ppv-10663" tvg-name="PDC: Players Championship 24 - Board 4 (25 August 2025 at 12:00)" tvg-epgid="10663" tvg-logo="https://ppvs.su/assets/thumb/9e2936d7e85db9609273963ac3cc1643-thumbnail.jpg",PDC: Players Championship 24 - Board 4 (25 August 2025 at 12:00)
