@@ -285,50 +285,6 @@ channel="ppv-10815"
 <icon src="https://ppvs.su/assets/thumb/93636e90e729ed7cb7a0e09aa5362c8b-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-10813">
-<display-name>Atlanta Braves vs. Miami Marlins</display-name>
-</channel>
-<programme
-start="20250827171000 +0000"
-stop="20250827201000 +0000"
-channel="ppv-10813"
->
-<title lang="en">Atlanta Braves vs. Miami Marlins</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/bad26ab82fcf2b486de49c05c07d243e-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10814">
-<display-name>Tampa Bay Rays vs. Cleveland Guardians</display-name>
-</channel>
-<programme
-start="20250827171000 +0000"
-stop="20250827201000 +0000"
-channel="ppv-10814"
->
-<title lang="en">Tampa Bay Rays vs. Cleveland Guardians</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/b43d0a51c456d3309ac45e5e496d0418-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-10830">
 <display-name>Sun at Wings</display-name>
 </channel>
