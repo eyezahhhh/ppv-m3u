@@ -351,28 +351,6 @@ channel="ppv-10812"
 <icon src="https://ppvs.su/assets/thumb/307ead1d95cf360a6d0aced4915c169d-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-10804">
-<display-name>Cincinnati Reds vs. Los Angeles Dodgers</display-name>
-</channel>
-<programme
-start="20250827021000 +0000"
-stop="20250827051000 +0000"
-channel="ppv-10804"
->
-<title lang="en">Cincinnati Reds vs. Los Angeles Dodgers</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/bb44e2f573822802effd5ed38dc99f9e-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-10811">
 <display-name>Seattle Sounders FC vs. LA Galaxy</display-name>
 </channel>
@@ -506,14 +484,14 @@ channel="ppv-5191"
 </programme>
 
 <channel id="ppv-8008">
-<display-name>24/7 Family‌​​‌​​​‌‌​​​​‌​​​‌‌​​‌‌‌‌​‌‌​​​‌ Guy</display-name>
+<display-name>24/7 Family​‌​​​​​​‌‌‌​‌‌​​‌‌​​‌​​‌​​‌​​‌​​ Guy</display-name>
 </channel>
 <programme
 start="20250118080000 +0000"
 stop="20250118090000 +0000"
 channel="ppv-8008"
 >
-<title lang="en">24/7 Family‌​​‌​​​‌‌​​​​‌​​​‌‌​​‌‌‌‌​‌‌​​​‌ Guy</title>
+<title lang="en">24/7 Family​‌​​​​​​‌‌‌​‌‌​​‌‌​​‌​​‌​​‌​​‌​​ Guy</title>
 <sub-title>24/7 Streams</sub-title>
 <video>
 <present>yes</present>
