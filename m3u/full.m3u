@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ppv-10766" tvg-name="LSU Tigers vs. Clemson Tigers (30 August 2025 at 23:30)" tvg-epgid="10766" tvg-logo="https://ppvs.su/assets/thumb/379becfc2f7ae64e45dbac43ed11356b-thumbnail.jpg",LSU Tigers vs. Clemson Tigers (30 August 2025 at 23:30)
+
+#EXTINF:-1 tvg-id="ppv-10767" tvg-name="New Mexico Lobos vs. Michigan Wolverines (30 August 2025 at 23:30)" tvg-epgid="10767" tvg-logo="https://ppvs.su/assets/thumb/b50c50229d1de24954ad3628e5304a3f-thumbnail.jpg",New Mexico Lobos vs. Michigan Wolverines (30 August 2025 at 23:30)
+
+#EXTINF:-1 tvg-id="ppv-10768" tvg-name="Arkansas-Pine Bluff Golden Lions vs. Texas Tech Red Raiders (30 August 2025 at 23:30)" tvg-epgid="10768" tvg-logo="https://ppvs.su/assets/thumb/890dabd972c7a23a15f09bef7fa1f4e4-thumbnail.jpg",Arkansas-Pine Bluff Golden Lions vs. Texas Tech Red Raiders (30 August 2025 at 23:30)
+
 #EXTINF:-1 tvg-id="ppv-10763" tvg-name="Long Island University Sharks vs. Florida Gators (30 August 2025 at 23:00)" tvg-epgid="10763" tvg-logo="https://ppvs.su/assets/thumb/464beec78d267651eb5eb8cf25713ea0-thumbnail.jpg",Long Island University Sharks vs. Florida Gators (30 August 2025 at 23:00)
 
 #EXTINF:-1 tvg-id="ppv-10764" tvg-name="North Dakota Fighting Hawks vs. Kansas State Wildcats (30 August 2025 at 23:00)" tvg-epgid="10764" tvg-logo="https://ppvs.su/assets/thumb/bd4d0884a61c1f71c69c90cf1626290d-thumbnail.jpg",North Dakota Fighting Hawks vs. Kansas State Wildcats (30 August 2025 at 23:00)
@@ -56,10 +62,10 @@
 #EXTINF:-1 tvg-id="ppv-10709" tvg-name="TNA: Impact (29 August 2025 at 00:00)" tvg-epgid="10709" tvg-logo="https://ppvs.su/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg",TNA: Impact (29 August 2025 at 00:00)
 
 #EXTINF:-1 tvg-id="ppv-5191" tvg-name="24/7 The Simpsons" tvg-epgid="5191" tvg-logo="https://thumbs.poocloud.in/thesimpsons/preview.jpg",24/7 The Simpsons
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MGQzNzI5MTE0YjQwLTVmYmEtYmE3NC1kOThlLWY2MmU4NGI4/master.m3u8?md5=UfQA94q3LvCFZs3MJE24IA&expires=1756465525&net=NTIuMTU5LjI0NS4xNDg%3D
-#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family​​‌‌​‌​​‌​​‌‌‌‌‌‌‌‌‌​‌​‌‌​​‌​‌​​ Guy" tvg-epgid="8008" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg",24/7 Family​​‌‌​‌​​‌​​‌‌‌‌‌‌‌‌‌​‌​‌‌​​‌​‌​​ Guy
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YTA5ZTU3MjFhNTI0LWRkZTktZTRlNC1mMzU4LTQwMWI0YjJk/master.m3u8?md5=DyVcBaLu0BkaLkion1c0Gg&expires=1756465526&net=NTIuMTU5LjI0NS4xNDg%3D
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MGQzNzI5MTE0YjQwLTVmYmEtYmE3NC1kOThlLWY2MmU4NGI4/master.m3u8?md5=dqB6STh6-YpYccVaL0gbRw&expires=1756467231&net=NjQuMjM2LjEzMy4xNzg%3D
+#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family​‌​​​​​​‌‌‌​‌‌​​‌​​​​‌​‌‌​‌‌​​‌​ Guy" tvg-epgid="8008" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg",24/7 Family​‌​​​​​​‌‌‌​‌‌​​‌​​​​‌​‌‌​‌‌​​‌​ Guy
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YTA5ZTU3MjFhNTI0LWRkZTktZTRlNC1mMzU4LTQwMWI0YjJk/master.m3u8?md5=dqB6STh6-YpYccVaL0gbRw&expires=1756467231&net=NjQuMjM2LjEzMy4xNzg%3D
 #EXTINF:-1 tvg-id="ppv-3663" tvg-name="24/7 COWS" tvg-epgid="3663" tvg-logo="https://ppvs.su/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg",24/7 COWS
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8?md5=DyVcBaLu0BkaLkion1c0Gg&expires=1756465526&net=NTIuMTU5LjI0NS4xNDg%3D
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8?md5=qKwBpZ0tXnm0mkc0t4QDpg&expires=1756467232&net=NjQuMjM2LjEzMy4xNzg%3D
 #EXTINF:-1 tvg-id="ppv-5112" tvg-name="24/7 South Park" tvg-epgid="5112" tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg",24/7 South Park
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZGEyNDNkZWMyNzFjLWU2OWItNzFlNC00NWU5LTUyODY0MWIz/master.m3u8?md5=yXLnRY6AisTW6M5kwxNK5g&expires=1756465527&net=NTIuMTU5LjI0NS4xNDg%3D
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZGEyNDNkZWMyNzFjLWU2OWItNzFlNC00NWU5LTUyODY0MWIz/master.m3u8?md5=qKwBpZ0tXnm0mkc0t4QDpg&expires=1756467232&net=NjQuMjM2LjEzMy4xNzg%3D
