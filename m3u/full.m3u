@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ppv-10761" tvg-name="Montana State Bobcats vs. Oregon Ducks (30 August 2025 at 20:00)" tvg-epgid="10761" tvg-logo="https://ppvs.su/assets/thumb/d9be680b6de4d0a408c7474aa21b983d-thumbnail.jpg",Montana State Bobcats vs. Oregon Ducks (30 August 2025 at 20:00)
+
 #EXTINF:-1 tvg-id="ppv-10757" tvg-name="Nevada Wolf Pack vs. Penn State Nittany Lions (30 August 2025 at 19:30)" tvg-epgid="10757" tvg-logo="https://ppvs.su/assets/thumb/1e455d685d203d202a214f62ddfeae1a-thumbnail.jpg",Nevada Wolf Pack vs. Penn State Nittany Lions (30 August 2025 at 19:30)
 
 #EXTINF:-1 tvg-id="ppv-10758" tvg-name="Marshall Thundering Herd vs. Georgia Bulldogs (30 August 2025 at 19:30)" tvg-epgid="10758" tvg-logo="https://ppvs.su/assets/thumb/6b236091729df1ec9c8ddf06866310ca-thumbnail.jpg",Marshall Thundering Herd vs. Georgia Bulldogs (30 August 2025 at 19:30)
@@ -31,8 +33,6 @@
 
 #EXTINF:-1 tvg-id="ppv-10834" tvg-name="Colorado Rockies vs. Houston Astros (28 August 2025 at 18:10)" tvg-epgid="10834" tvg-logo="https://ppvs.su/assets/thumb/4eae314ac1d049ac20650d61a579d7f8-thumbnail.jpg",Colorado Rockies vs. Houston Astros (28 August 2025 at 18:10)
 
-#EXTINF:-1 tvg-id="ppv-10832" tvg-name="Boston Red Sox vs. Baltimore Orioles (28 August 2025 at 17:05)" tvg-epgid="10832" tvg-logo="https://ppvs.su/assets/thumb/011ba19ec85a38ebee5ec8a9c044c3c5-thumbnail.jpg",Boston Red Sox vs. Baltimore Orioles (28 August 2025 at 17:05)
-
 #EXTINF:-1 tvg-id="ppv-10842" tvg-name="Sky at Mercury (29 August 2025 at 02:00)" tvg-epgid="10842" tvg-logo="https://ppvs.su/assets/thumb/76ab9346fe5db23e0c1803225c18fa12-thumbnail.jpg",Sky at Mercury (29 August 2025 at 02:00)
 
 #EXTINF:-1 tvg-id="ppv-10841" tvg-name="Storm at Lynx (29 August 2025 at 00:00)" tvg-epgid="10841" tvg-logo="https://ppvs.su/assets/thumb/1155c7c64dc9f2b94c5d8367f6b01da5-thumbnail.jpg",Storm at Lynx (29 August 2025 at 00:00)
@@ -56,10 +56,10 @@
 #EXTINF:-1 tvg-id="ppv-10709" tvg-name="TNA: Impact (29 August 2025 at 00:00)" tvg-epgid="10709" tvg-logo="https://ppvs.su/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg",TNA: Impact (29 August 2025 at 00:00)
 
 #EXTINF:-1 tvg-id="ppv-5191" tvg-name="24/7 The Simpsons" tvg-epgid="5191" tvg-logo="https://thumbs.poocloud.in/thesimpsons/preview.jpg",24/7 The Simpsons
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MGQzNzI5MTE0YjQwLTVmYmEtYmE3NC1kOThlLWY2MmU4NGI4/master.m3u8?md5=HutcTkv8eoRI0l-eaYOF1w&expires=1756452830&net=MTcyLjIxMi4xNjUuNjQ%3D
-#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family‌​‌​‌‌​​‌‌​‌​‌​​‌​‌​​‌​‌​‌​​​​​​ Guy" tvg-epgid="8008" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg",24/7 Family‌​‌​‌‌​​‌‌​‌​‌​​‌​‌​​‌​‌​‌​​​​​​ Guy
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YTA5ZTU3MjFhNTI0LWRkZTktZTRlNC1mMzU4LTQwMWI0YjJk/master.m3u8?md5=_39OPKJCfizbPZ-IzDHEbA&expires=1756452831&net=MTcyLjIxMi4xNjUuNjQ%3D
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MGQzNzI5MTE0YjQwLTVmYmEtYmE3NC1kOThlLWY2MmU4NGI4/master.m3u8?md5=67LNZBoOvBcZF87D_z810g&expires=1756454764&net=NjQuMjM2LjEzNy4xMzA%3D
+#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family​‌​​​​​​‌‌‌​‌‌​​‌​​​‌​​‌‌​​​​​‌​ Guy" tvg-epgid="8008" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg",24/7 Family​‌​​​​​​‌‌‌​‌‌​​‌​​​‌​​‌‌​​​​​‌​ Guy
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YTA5ZTU3MjFhNTI0LWRkZTktZTRlNC1mMzU4LTQwMWI0YjJk/master.m3u8?md5=DOQT7_pGsjhn6CWcr6D_aQ&expires=1756454765&net=NjQuMjM2LjEzNy4xMzA%3D
 #EXTINF:-1 tvg-id="ppv-3663" tvg-name="24/7 COWS" tvg-epgid="3663" tvg-logo="https://ppvs.su/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg",24/7 COWS
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8?md5=_39OPKJCfizbPZ-IzDHEbA&expires=1756452831&net=MTcyLjIxMi4xNjUuNjQ%3D
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8?md5=DOQT7_pGsjhn6CWcr6D_aQ&expires=1756454765&net=NjQuMjM2LjEzNy4xMzA%3D
 #EXTINF:-1 tvg-id="ppv-5112" tvg-name="24/7 South Park" tvg-epgid="5112" tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg",24/7 South Park
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZGEyNDNkZWMyNzFjLWU2OWItNzFlNC00NWU5LTUyODY0MWIz/master.m3u8?md5=B7VQ0-7h9f1o7ilkiugfQQ&expires=1756452832&net=MTcyLjIxMi4xNjUuNjQ%3D
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZGEyNDNkZWMyNzFjLWU2OWItNzFlNC00NWU5LTUyODY0MWIz/master.m3u8?md5=DOQT7_pGsjhn6CWcr6D_aQ&expires=1756454765&net=NjQuMjM2LjEzNy4xMzA%3D

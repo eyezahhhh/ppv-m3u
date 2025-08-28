@@ -1,4 +1,26 @@
 <tv>
+<channel id="ppv-10761">
+<display-name>Montana State Bobcats vs. Oregon Ducks</display-name>
+</channel>
+<programme
+start="20250830200000 +0000"
+stop="20250830230000 +0000"
+channel="ppv-10761"
+>
+<title lang="en">Montana State Bobcats vs. Oregon Ducks</title>
+<sub-title>American Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>American Football</category>
+<icon src="https://ppvs.su/assets/thumb/d9be680b6de4d0a408c7474aa21b983d-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-10757">
 <display-name>Nevada Wolf Pack vs. Penn State Nittany Lions</display-name>
 </channel>
@@ -349,28 +371,6 @@ channel="ppv-10834"
 </audio>
 <category>Baseball</category>
 <icon src="https://ppvs.su/assets/thumb/4eae314ac1d049ac20650d61a579d7f8-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10832">
-<display-name>Boston Red Sox vs. Baltimore Orioles</display-name>
-</channel>
-<programme
-start="20250828170500 +0000"
-stop="20250828200500 +0000"
-channel="ppv-10832"
->
-<title lang="en">Boston Red Sox vs. Baltimore Orioles</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/011ba19ec85a38ebee5ec8a9c044c3c5-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-10842">
