@@ -1,4 +1,26 @@
 <tv>
+<channel id="ppv-10770">
+<display-name>East Texas A&amp;M Lions vs. SMU Mustangs</display-name>
+</channel>
+<programme
+start="20250831010000 +0000"
+stop="20250831040000 +0000"
+channel="ppv-10770"
+>
+<title lang="en">East Texas A&amp;M Lions vs. SMU Mustangs</title>
+<sub-title>American Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>American Football</category>
+<icon src="https://ppvs.su/assets/thumb/3eb2eb216f962aed7efc588a16e0c6db-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-10769">
 <display-name>Georgia State Panthers vs. Ole Miss Rebels</display-name>
 </channel>
@@ -726,14 +748,14 @@ channel="ppv-5191"
 </programme>
 
 <channel id="ppv-8008">
-<display-name>24/7 Family​​​‌​‌​​​‌‌​‌‌​‌​​‌​​‌‌​‌‌‌‌​​‌​ Guy</display-name>
+<display-name>24/7 Family​​​​​‌​​‌‌‌‌​‌‌​‌​​​​‌‌‌​‌​​​​​​ Guy</display-name>
 </channel>
 <programme
 start="20250118080000 +0000"
 stop="20250118090000 +0000"
 channel="ppv-8008"
 >
-<title lang="en">24/7 Family​​​‌​‌​​​‌‌​‌‌​‌​​‌​​‌‌​‌‌‌‌​​‌​ Guy</title>
+<title lang="en">24/7 Family​​​​​‌​​‌‌‌‌​‌‌​‌​​​​‌‌‌​‌​​​​​​ Guy</title>
 <sub-title>24/7 Streams</sub-title>
 <video>
 <present>yes</present>
