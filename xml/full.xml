@@ -747,6 +747,50 @@ channel="ppv-10843"
 <icon src="https://ppvs.su/assets/thumb/4d3012bf89e48cef5b4718d88ced31cd-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-10863">
+<display-name>Fever at Sparks</display-name>
+</channel>
+<programme
+start="20250830020000 +0000"
+stop="20250830044500 +0000"
+channel="ppv-10863"
+>
+<title lang="en">Fever at Sparks</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://ppvs.su/assets/thumb/caf044a84f4a142f8d53674d890c078a-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10862">
+<display-name>Wings at Dream</display-name>
+</channel>
+<programme
+start="20250829233000 +0000"
+stop="20250830021500 +0000"
+channel="ppv-10862"
+>
+<title lang="en">Wings at Dream</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://ppvs.su/assets/thumb/580d6999aadaf56fdb06d76199ed93ac-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-10719">
 <display-name>Brighton and Hove Albion vs. Manchester City</display-name>
 </channel>
@@ -990,14 +1034,14 @@ channel="ppv-5191"
 </programme>
 
 <channel id="ppv-8008">
-<display-name>24/7 Family‌​‌​‌‌​​‌​‌‌‌​​​‌‌​‌​‌​‌‌‌‌​​‌​‌ Guy</display-name>
+<display-name>24/7 Family‌​‌​‌‌​​‌​‌‌‌​​​‌‌​‌​​‌‌​​‌​​‌‌‌ Guy</display-name>
 </channel>
 <programme
 start="20250118080000 +0000"
 stop="20250118090000 +0000"
 channel="ppv-8008"
 >
-<title lang="en">24/7 Family‌​‌​‌‌​​‌​‌‌‌​​​‌‌​‌​‌​‌‌‌‌​​‌​‌ Guy</title>
+<title lang="en">24/7 Family‌​‌​‌‌​​‌​‌‌‌​​​‌‌​‌​​‌‌​​‌​​‌‌‌ Guy</title>
 <sub-title>24/7 Streams</sub-title>
 <video>
 <present>yes</present>

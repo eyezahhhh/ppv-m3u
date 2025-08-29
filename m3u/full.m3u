@@ -67,6 +67,10 @@
 
 #EXTINF:-1 tvg-id="ppv-10843" tvg-name="St. Louis Cardinals vs. Cincinnati Reds (29 August 2025 at 22:40)" tvg-epgid="10843" tvg-logo="https://ppvs.su/assets/thumb/4d3012bf89e48cef5b4718d88ced31cd-thumbnail.jpg",St. Louis Cardinals vs. Cincinnati Reds (29 August 2025 at 22:40)
 
+#EXTINF:-1 tvg-id="ppv-10863" tvg-name="Fever at Sparks (30 August 2025 at 02:00)" tvg-epgid="10863" tvg-logo="https://ppvs.su/assets/thumb/caf044a84f4a142f8d53674d890c078a-thumbnail.jpg",Fever at Sparks (30 August 2025 at 02:00)
+
+#EXTINF:-1 tvg-id="ppv-10862" tvg-name="Wings at Dream (29 August 2025 at 23:30)" tvg-epgid="10862" tvg-logo="https://ppvs.su/assets/thumb/580d6999aadaf56fdb06d76199ed93ac-thumbnail.jpg",Wings at Dream (29 August 2025 at 23:30)
+
 #EXTINF:-1 tvg-id="ppv-10719" tvg-name="Brighton and Hove Albion vs. Manchester City (31 August 2025 at 13:00)" tvg-epgid="10719" tvg-logo="https://ppvs.su/assets/thumb/426be4254945d8d065327b25da0fcc70-thumbnail.jpg",Brighton and Hove Albion vs. Manchester City (31 August 2025 at 13:00)
 
 #EXTINF:-1 tvg-id="ppv-10724" tvg-name="Nottingham Forest vs. West Ham United (31 August 2025 at 13:00)" tvg-epgid="10724" tvg-logo="https://ppvs.su/assets/thumb/44b462dc80269aaf4a34ae4e2154c9f4-thumbnail.jpg",Nottingham Forest vs. West Ham United (31 August 2025 at 13:00)
@@ -88,10 +92,10 @@
 #EXTINF:-1 tvg-id="ppv-10710" tvg-name="WWE: Friday Night Smackdown (29 August 2025 at 18:00)" tvg-epgid="10710" tvg-logo="https://ppvs.su/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg",WWE: Friday Night Smackdown (29 August 2025 at 18:00)
 
 #EXTINF:-1 tvg-id="ppv-5191" tvg-name="24/7 The Simpsons" tvg-epgid="5191" tvg-logo="https://thumbs.poocloud.in/thesimpsons/preview.jpg",24/7 The Simpsons
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MGQzNzI5MTE0YjQwLTVmYmEtYmE3NC1kOThlLWY2MmU4NGI4/master.m3u8?md5=TRYCArkw_9PllcRECpZT_A&expires=1756517907&net=MTcyLjE4NC4yMTMuMjI5
-#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family‌​‌​‌‌​​‌​‌‌‌​​​‌‌​‌​‌​‌‌‌‌​​‌​‌ Guy" tvg-epgid="8008" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg",24/7 Family‌​‌​‌‌​​‌​‌‌‌​​​‌‌​‌​‌​‌‌‌‌​​‌​‌ Guy
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YTA5ZTU3MjFhNTI0LWRkZTktZTRlNC1mMzU4LTQwMWI0YjJk/master.m3u8?md5=jTTuNCexDmcUeGxVU_sl3A&expires=1756517908&net=MTcyLjE4NC4yMTMuMjI5
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MGQzNzI5MTE0YjQwLTVmYmEtYmE3NC1kOThlLWY2MmU4NGI4/master.m3u8?md5=H3AMNhQ_Hwpz2rc4oVp0QA&expires=1756519534&net=MTcyLjE4NC4yMTEuMzk%3D
+#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family‌​‌​‌‌​​‌​‌‌‌​​​‌‌​‌​​‌‌​​‌​​‌‌‌ Guy" tvg-epgid="8008" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg",24/7 Family‌​‌​‌‌​​‌​‌‌‌​​​‌‌​‌​​‌‌​​‌​​‌‌‌ Guy
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YTA5ZTU3MjFhNTI0LWRkZTktZTRlNC1mMzU4LTQwMWI0YjJk/master.m3u8?md5=-4Y9ebTm9XFqggpwg36-Vw&expires=1756519535&net=MTcyLjE4NC4yMTEuMzk%3D
 #EXTINF:-1 tvg-id="ppv-3663" tvg-name="24/7 COWS" tvg-epgid="3663" tvg-logo="https://ppvs.su/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg",24/7 COWS
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8?md5=jTTuNCexDmcUeGxVU_sl3A&expires=1756517908&net=MTcyLjE4NC4yMTMuMjI5
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8?md5=-4Y9ebTm9XFqggpwg36-Vw&expires=1756519535&net=MTcyLjE4NC4yMTEuMzk%3D
 #EXTINF:-1 tvg-id="ppv-5112" tvg-name="24/7 South Park" tvg-epgid="5112" tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg",24/7 South Park
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZGEyNDNkZWMyNzFjLWU2OWItNzFlNC00NWU5LTUyODY0MWIz/master.m3u8?md5=8RE0zgXnGpk_YRinBi7j2g&expires=1756517909&net=MTcyLjE4NC4yMTMuMjI5
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZGEyNDNkZWMyNzFjLWU2OWItNzFlNC00NWU5LTUyODY0MWIz/master.m3u8?md5=JT_Jzm6aOxqHTwppcL82qw&expires=1756519536&net=MTcyLjE4NC4yMTEuMzk%3D
