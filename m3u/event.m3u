@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ppv-10769" tvg-name="Georgia State Panthers vs. Ole Miss Rebels (30 August 2025 at 23:45)" tvg-epgid="10769" tvg-logo="https://ppvs.su/assets/thumb/8a125040b37e47117e793bd10f123726-thumbnail.jpg",Georgia State Panthers vs. Ole Miss Rebels (30 August 2025 at 23:45)
+
 #EXTINF:-1 tvg-id="ppv-10766" tvg-name="LSU Tigers vs. Clemson Tigers (30 August 2025 at 23:30)" tvg-epgid="10766" tvg-logo="https://ppvs.su/assets/thumb/379becfc2f7ae64e45dbac43ed11356b-thumbnail.jpg",LSU Tigers vs. Clemson Tigers (30 August 2025 at 23:30)
 
 #EXTINF:-1 tvg-id="ppv-10767" tvg-name="New Mexico Lobos vs. Michigan Wolverines (30 August 2025 at 23:30)" tvg-epgid="10767" tvg-logo="https://ppvs.su/assets/thumb/b50c50229d1de24954ad3628e5304a3f-thumbnail.jpg",New Mexico Lobos vs. Michigan Wolverines (30 August 2025 at 23:30)
@@ -56,6 +58,8 @@
 #EXTINF:-1 tvg-id="ppv-10727" tvg-name="Wolverhampton Wanderers vs. Everton (30 August 2025 at 14:00)" tvg-epgid="10727" tvg-logo="https://ppvs.su/assets/thumb/7a2473d483d6320866b9a37a7bbd7f91-thumbnail.jpg",Wolverhampton Wanderers vs. Everton (30 August 2025 at 14:00)
 
 #EXTINF:-1 tvg-id="ppv-10720" tvg-name="Chelsea vs. Fulham (30 August 2025 at 11:30)" tvg-epgid="10720" tvg-logo="https://ppvs.su/assets/thumb/dc6bd54334ff1559a25ed48321d92918-thumbnail.jpg",Chelsea vs. Fulham (30 August 2025 at 11:30)
+
+#EXTINF:-1 tvg-id="ppv-10711" tvg-name="AEW: Saturday Night Collision (31 August 2025 at 00:00)" tvg-epgid="10711" tvg-logo="https://ppvs.su/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg",AEW: Saturday Night Collision (31 August 2025 at 00:00)
 
 #EXTINF:-1 tvg-id="ppv-10710" tvg-name="WWE: Friday Night Smackdown (29 August 2025 at 18:00)" tvg-epgid="10710" tvg-logo="https://ppvs.su/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg",WWE: Friday Night Smackdown (29 August 2025 at 18:00)
 
