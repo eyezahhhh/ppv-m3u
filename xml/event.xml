@@ -417,28 +417,6 @@ channel="ppv-10753"
 <icon src="https://ppvs.su/assets/thumb/eef9787ef579de0cf3863b858d95a07f-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-10839">
-<display-name>New York Yankees vs. Chicago White Sox</display-name>
-</channel>
-<programme
-start="20250828234000 +0000"
-stop="20250829024000 +0000"
-channel="ppv-10839"
->
-<title lang="en">New York Yankees vs. Chicago White Sox</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/6951c22ed98414aba5f3391ded67b8d7-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-10842">
 <display-name>Sky at Mercury</display-name>
 </channel>
@@ -459,28 +437,6 @@ channel="ppv-10842"
 </audio>
 <category>Basketball</category>
 <icon src="https://ppvs.su/assets/thumb/76ab9346fe5db23e0c1803225c18fa12-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10841">
-<display-name>Storm at Lynx</display-name>
-</channel>
-<programme
-start="20250829000000 +0000"
-stop="20250829024500 +0000"
-channel="ppv-10841"
->
-<title lang="en">Storm at Lynx</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://ppvs.su/assets/thumb/1155c7c64dc9f2b94c5d8367f6b01da5-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-10721">
@@ -657,27 +613,5 @@ channel="ppv-10710"
 </audio>
 <category>Wrestling</category>
 <icon src="https://ppvs.su/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10709">
-<display-name>TNA: Impact</display-name>
-</channel>
-<programme
-start="20250829000000 +0000"
-stop="20250829030000 +0000"
-channel="ppv-10709"
->
-<title lang="en">TNA: Impact</title>
-<sub-title>Wrestling</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Wrestling</category>
-<icon src="https://ppvs.su/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg" />
 </programme>
 </tv>
