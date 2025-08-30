@@ -769,6 +769,94 @@ channel="ppv-10866"
 <icon src="https://ppvs.su/assets/thumb/c1f3a67dd7e3aa2bd54f900448071112-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-10885">
+<display-name>Liberty at Mercury</display-name>
+</channel>
+<programme
+start="20250831020000 +0000"
+stop="20250831044500 +0000"
+channel="ppv-10885"
+>
+<title lang="en">Liberty at Mercury</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://ppvs.su/assets/thumb/0719f4b4cbcccc317be6c9a4a571cd4c-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10884">
+<display-name>Sky at Storm</display-name>
+</channel>
+<programme
+start="20250831010000 +0000"
+stop="20250831034500 +0000"
+channel="ppv-10884"
+>
+<title lang="en">Sky at Storm</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://ppvs.su/assets/thumb/302345a646b440d574795b32b50b89cf-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10883">
+<display-name>Mystics at Valkyries</display-name>
+</channel>
+<programme
+start="20250831003000 +0000"
+stop="20250831031500 +0000"
+channel="ppv-10883"
+>
+<title lang="en">Mystics at Valkyries</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://ppvs.su/assets/thumb/c379d7ab26721d78b6d71f7e8120bbd2-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10882">
+<display-name>Lynx at Sun</display-name>
+</channel>
+<programme
+start="20250830230000 +0000"
+stop="20250831014500 +0000"
+channel="ppv-10882"
+>
+<title lang="en">Lynx at Sun</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://ppvs.su/assets/thumb/37d493a6a301e7a5df1989d7edcc1434-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-10718">
 <display-name>Aston Villa vs. Crystal Palace</display-name>
 </channel>
