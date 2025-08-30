@@ -373,28 +373,6 @@ channel="ppv-10760"
 <icon src="https://ppvs.su/assets/thumb/c1f1db8a9c5ad0e9464575105eaffc1f-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-10756">
-<display-name>Old Dominion Monarchs vs. Indiana Hoosiers</display-name>
-</channel>
-<programme
-start="20250830183000 +0000"
-stop="20250830213000 +0000"
-channel="ppv-10756"
->
-<title lang="en">Old Dominion Monarchs vs. Indiana Hoosiers</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://ppvs.su/assets/thumb/6688caf164049df961822990fc73ac9f-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-10880">
 <display-name>Texas Rangers vs. Athletics</display-name>
 </channel>
@@ -725,6 +703,138 @@ channel="ppv-10866"
 <icon src="https://ppvs.su/assets/thumb/c1f3a67dd7e3aa2bd54f900448071112-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-10894">
+<display-name>Bosnia and Herzegovina vs Italy (Limmasol Cyprus)</display-name>
+</channel>
+<programme
+start="20250831183000 +0000"
+stop="20250831213000 +0000"
+channel="ppv-10894"
+>
+<title lang="en">Bosnia and Herzegovina vs Italy (Limmasol Cyprus)</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://ppvs.su/assets/thumb/d3f53f1a88c7566933b841324d5e8f83-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10895">
+<display-name>Poland vs Iceland (Katowice Poland)</display-name>
+</channel>
+<programme
+start="20250831183000 +0000"
+stop="20250831213000 +0000"
+channel="ppv-10895"
+>
+<title lang="en">Poland vs Iceland (Katowice Poland)</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://ppvs.su/assets/thumb/9a312c0e8f90c98d61bba60381a84f35-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10893">
+<display-name>Spain vs Cyprus (Limassol Cyprus)</display-name>
+</channel>
+<programme
+start="20250831151500 +0000"
+stop="20250831181500 +0000"
+channel="ppv-10893"
+>
+<title lang="en">Spain vs Cyprus (Limassol Cyprus)</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://ppvs.su/assets/thumb/cb55861cccfc7a8cdb2677f91394a68c-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10892">
+<display-name>Israel vs France (Katowice Poland)</display-name>
+</channel>
+<programme
+start="20250831150000 +0000"
+stop="20250831180000 +0000"
+channel="ppv-10892"
+>
+<title lang="en">Israel vs France (Katowice Poland)</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://ppvs.su/assets/thumb/52bdbf09969176cd520792a704674cd6-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10890">
+<display-name>Georgia vs Greece (Limassol Cyprus)</display-name>
+</channel>
+<programme
+start="20250831120000 +0000"
+stop="20250831150000 +0000"
+channel="ppv-10890"
+>
+<title lang="en">Georgia vs Greece (Limassol Cyprus)</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://ppvs.su/assets/thumb/dcbfd1ac7d12ce738cdef586f4bb55e5-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10891">
+<display-name>Slovenia vs Belgium (Katowice Poland)</display-name>
+</channel>
+<programme
+start="20250831120000 +0000"
+stop="20250831150000 +0000"
+channel="ppv-10891"
+>
+<title lang="en">Slovenia vs Belgium (Katowice Poland)</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://ppvs.su/assets/thumb/5ac7a9aa785edc956a1f939748deb5c7-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-10885">
 <display-name>Liberty at Mercury</display-name>
 </channel>
@@ -791,6 +901,28 @@ channel="ppv-10883"
 <icon src="https://ppvs.su/assets/thumb/c379d7ab26721d78b6d71f7e8120bbd2-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-10889">
+<display-name>Canada v Argentina</display-name>
+</channel>
+<programme
+start="20250831001000 +0000"
+stop="20250831031000 +0000"
+channel="ppv-10889"
+>
+<title lang="en">Canada v Argentina</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://ppvs.su/assets/thumb/46ed69f35db4b5043cc8a0e9ec6f820a-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-10882">
 <display-name>Lynx at Sun</display-name>
 </channel>
@@ -811,6 +943,28 @@ channel="ppv-10882"
 </audio>
 <category>Basketball</category>
 <icon src="https://ppvs.su/assets/thumb/37d493a6a301e7a5df1989d7edcc1434-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10888">
+<display-name>Brazil v USA</display-name>
+</channel>
+<programme
+start="20250830204000 +0000"
+stop="20250830234000 +0000"
+channel="ppv-10888"
+>
+<title lang="en">Brazil v USA</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://ppvs.su/assets/thumb/56d5edb40ed2ee4cc735eaad0b3ec39d-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-10886">
