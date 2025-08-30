@@ -505,50 +505,6 @@ channel="ppv-10870"
 <icon src="https://ppvs.su/assets/thumb/47433242e580ad6b218c8270b9721e01-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-10868">
-<display-name>Miami Marlins vs. New York Mets</display-name>
-</channel>
-<programme
-start="20250830201000 +0000"
-stop="20250830231000 +0000"
-channel="ppv-10868"
->
-<title lang="en">Miami Marlins vs. New York Mets</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/33420290cc71ef6b37ff47f83554e48d-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10869">
-<display-name>Pittsburgh Pirates vs. Boston Red Sox</display-name>
-</channel>
-<programme
-start="20250830201000 +0000"
-stop="20250830231000 +0000"
-channel="ppv-10869"
->
-<title lang="en">Pittsburgh Pirates vs. Boston Red Sox</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/0a31c05d7ac5c650603665fe1434bac8-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-10894">
 <display-name>Bosnia and Herzegovina vs Italy (Limmasol Cyprus)</display-name>
 </channel>
