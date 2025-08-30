@@ -813,6 +813,28 @@ channel="ppv-10882"
 <icon src="https://ppvs.su/assets/thumb/37d493a6a301e7a5df1989d7edcc1434-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-10886">
+<display-name>MF &amp; DAZN: X Series 22: Till vs. Rockhold</display-name>
+</channel>
+<programme
+start="20250830180000 +0000"
+stop="20250831020000 +0000"
+channel="ppv-10886"
+>
+<title lang="en">MF &amp; DAZN: X Series 22: Till vs. Rockhold</title>
+<sub-title>Combat Sports</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Combat Sports</category>
+<icon src="https://ppvs.su/assets/thumb/2a6e5ca7db31f6b0ffce0200ee3e0e9c-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-10718">
 <display-name>Aston Villa vs. Crystal Palace</display-name>
 </channel>
