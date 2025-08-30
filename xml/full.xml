@@ -285,94 +285,6 @@ channel="ppv-10761"
 <icon src="https://ppvs.su/assets/thumb/d9be680b6de4d0a408c7474aa21b983d-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-10757">
-<display-name>Nevada Wolf Pack vs. Penn State Nittany Lions</display-name>
-</channel>
-<programme
-start="20250830193000 +0000"
-stop="20250830223000 +0000"
-channel="ppv-10757"
->
-<title lang="en">Nevada Wolf Pack vs. Penn State Nittany Lions</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://ppvs.su/assets/thumb/1e455d685d203d202a214f62ddfeae1a-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10758">
-<display-name>Marshall Thundering Herd vs. Georgia Bulldogs</display-name>
-</channel>
-<programme
-start="20250830193000 +0000"
-stop="20250830223000 +0000"
-channel="ppv-10758"
->
-<title lang="en">Marshall Thundering Herd vs. Georgia Bulldogs</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://ppvs.su/assets/thumb/6b236091729df1ec9c8ddf06866310ca-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10759">
-<display-name>Alabama Crimson Tide vs. Florida State Seminoles</display-name>
-</channel>
-<programme
-start="20250830193000 +0000"
-stop="20250830223000 +0000"
-channel="ppv-10759"
->
-<title lang="en">Alabama Crimson Tide vs. Florida State Seminoles</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://ppvs.su/assets/thumb/30abf516df35f5697eec8ab98a8272d2-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10760">
-<display-name>South Dakota Coyotes vs. Iowa State Cyclones</display-name>
-</channel>
-<programme
-start="20250830193000 +0000"
-stop="20250830223000 +0000"
-channel="ppv-10760"
->
-<title lang="en">South Dakota Coyotes vs. Iowa State Cyclones</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://ppvs.su/assets/thumb/c1f1db8a9c5ad0e9464575105eaffc1f-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-10880">
 <display-name>Texas Rangers vs. Athletics</display-name>
 </channel>
@@ -679,28 +591,6 @@ channel="ppv-10867"
 </audio>
 <category>Baseball</category>
 <icon src="https://ppvs.su/assets/thumb/755325f5f5fb3785c8d46d04f1513b1c-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10866">
-<display-name>Milwaukee Brewers vs. Toronto Blue Jays</display-name>
-</channel>
-<programme
-start="20250830190700 +0000"
-stop="20250830220700 +0000"
-channel="ppv-10866"
->
-<title lang="en">Milwaukee Brewers vs. Toronto Blue Jays</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/c1f3a67dd7e3aa2bd54f900448071112-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-10894">
