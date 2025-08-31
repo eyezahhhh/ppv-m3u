@@ -43,50 +43,6 @@ channel="ppv-10772"
 <icon src="https://ppvs.su/assets/thumb/7d2f80810d376c7f77cac05f986f3184-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-10771">
-<display-name>Northern Arizona Lumberjacks vs. Arizona State Sun Devils</display-name>
-</channel>
-<programme
-start="20250831020000 +0000"
-stop="20250831050000 +0000"
-channel="ppv-10771"
->
-<title lang="en">Northern Arizona Lumberjacks vs. Arizona State Sun Devils</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://ppvs.su/assets/thumb/57c53ca9da045056916d90081ae62d7e-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10880">
-<display-name>Texas Rangers vs. Athletics</display-name>
-</channel>
-<programme
-start="20250831020500 +0000"
-stop="20250831050500 +0000"
-channel="ppv-10880"
->
-<title lang="en">Texas Rangers vs. Athletics</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/f297014e47358f485e724763abee336e-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-10894">
 <display-name>Bosnia and Herzegovina vs Italy (Limmasol Cyprus)</display-name>
 </channel>
@@ -217,28 +173,6 @@ channel="ppv-10891"
 </audio>
 <category>Basketball</category>
 <icon src="https://ppvs.su/assets/thumb/5ac7a9aa785edc956a1f939748deb5c7-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10885">
-<display-name>Liberty at Mercury</display-name>
-</channel>
-<programme
-start="20250831020000 +0000"
-stop="20250831044500 +0000"
-channel="ppv-10885"
->
-<title lang="en">Liberty at Mercury</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://ppvs.su/assets/thumb/0719f4b4cbcccc317be6c9a4a571cd4c-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-10718">
