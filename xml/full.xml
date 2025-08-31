@@ -175,28 +175,6 @@ channel="ppv-10895"
 <icon src="https://ppvs.su/assets/thumb/9a312c0e8f90c98d61bba60381a84f35-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-10893">
-<display-name>Spain vs Cyprus (Limassol Cyprus)</display-name>
-</channel>
-<programme
-start="20250831151500 +0000"
-stop="20250831181500 +0000"
-channel="ppv-10893"
->
-<title lang="en">Spain vs Cyprus (Limassol Cyprus)</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://ppvs.su/assets/thumb/cb55861cccfc7a8cdb2677f91394a68c-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-10897">
 <display-name>Rayo Vallecano vs Barcelona</display-name>
 </channel>
@@ -239,28 +217,6 @@ channel="ppv-10718"
 </audio>
 <category>Football</category>
 <icon src="https://ppvs.su/assets/thumb/b7382f04ccd531d432704fb6d3c69122-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10722">
-<display-name>Liverpool vs. Arsenal</display-name>
-</channel>
-<programme
-start="20250831153000 +0000"
-stop="20250831183000 +0000"
-channel="ppv-10722"
->
-<title lang="en">Liverpool vs. Arsenal</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/d3cd2d4e9b39d69d3f6081ad91302045-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-10560">
