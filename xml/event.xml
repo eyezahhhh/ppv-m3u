@@ -197,28 +197,6 @@ channel="ppv-10893"
 <icon src="https://ppvs.su/assets/thumb/cb55861cccfc7a8cdb2677f91394a68c-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-10892">
-<display-name>Israel vs France (Katowice Poland)</display-name>
-</channel>
-<programme
-start="20250831150000 +0000"
-stop="20250831180000 +0000"
-channel="ppv-10892"
->
-<title lang="en">Israel vs France (Katowice Poland)</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://ppvs.su/assets/thumb/52bdbf09969176cd520792a704674cd6-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-10897">
 <display-name>Rayo Vallecano vs Barcelona</display-name>
 </channel>
