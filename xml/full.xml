@@ -241,28 +241,6 @@ channel="ppv-10765"
 <icon src="https://ppvs.su/assets/thumb/59dc3d59050924f50014f9921c2feabb-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-10762">
-<display-name>Illinois State Redbirds vs. Oklahoma Sooners</display-name>
-</channel>
-<programme
-start="20250830220000 +0000"
-stop="20250831010000 +0000"
-channel="ppv-10762"
->
-<title lang="en">Illinois State Redbirds vs. Oklahoma Sooners</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://ppvs.su/assets/thumb/1ebb3dde54614f03de86082054b45936-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-10880">
 <display-name>Texas Rangers vs. Athletics</display-name>
 </channel>
@@ -481,28 +459,6 @@ channel="ppv-10871"
 </audio>
 <category>Baseball</category>
 <icon src="https://ppvs.su/assets/thumb/4d3012bf89e48cef5b4718d88ced31cd-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10870">
-<display-name>Atlanta Braves vs. Philadelphia Phillies</display-name>
-</channel>
-<programme
-start="20250830220500 +0000"
-stop="20250831010500 +0000"
-channel="ppv-10870"
->
-<title lang="en">Atlanta Braves vs. Philadelphia Phillies</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/47433242e580ad6b218c8270b9721e01-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-10894">
