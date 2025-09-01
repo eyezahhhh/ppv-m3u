@@ -65,50 +65,6 @@ channel="ppv-10933"
 <icon src="https://ppvs.su/assets/thumb/1ce7998750548d170cfe693ffeff1263-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-10931">
-<display-name>Philadelphia Phillies vs. Milwaukee Brewers</display-name>
-</channel>
-<programme
-start="20250901201000 +0000"
-stop="20250901231000 +0000"
-channel="ppv-10931"
->
-<title lang="en">Philadelphia Phillies vs. Milwaukee Brewers</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/f410f2d19445875ef7335802de5eeb37-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10932">
-<display-name>San Francisco Giants vs. Colorado Rockies</display-name>
-</channel>
-<programme
-start="20250901201000 +0000"
-stop="20250901231000 +0000"
-channel="ppv-10932"
->
-<title lang="en">San Francisco Giants vs. Colorado Rockies</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/e1b4087c2881713c00659ba7ad38c10b-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-10953">
 <display-name>France vs Poland (Katowice Poland)</display-name>
 </channel>
