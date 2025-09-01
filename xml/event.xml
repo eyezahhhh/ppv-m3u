@@ -219,50 +219,6 @@ channel="ppv-10926"
 <icon src="https://ppvs.su/assets/thumb/c04cd589e9174feb8a8632c4e4df423b-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-10924">
-<display-name>New York Mets vs. Detroit Tigers</display-name>
-</channel>
-<programme
-start="20250901171000 +0000"
-stop="20250901201000 +0000"
-channel="ppv-10924"
->
-<title lang="en">New York Mets vs. Detroit Tigers</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/a5f2e902529c2d54e844d2bb9812a6ea-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10925">
-<display-name>Toronto Blue Jays vs. Cincinnati Reds</display-name>
-</channel>
-<programme
-start="20250901171000 +0000"
-stop="20250901201000 +0000"
-channel="ppv-10925"
->
-<title lang="en">Toronto Blue Jays vs. Cincinnati Reds</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/6597602cd74fb616f48cb109765bc511-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-10953">
 <display-name>France vs Poland (Katowice Poland)</display-name>
 </channel>
@@ -459,28 +415,6 @@ channel="ppv-10922"
 </audio>
 <category>Basketball</category>
 <icon src="https://ppvs.su/assets/thumb/4dc379541585cfdd0b78314fccbdc570-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10921">
-<display-name>Finland vs Lithuania (Tampere Finland)</display-name>
-</channel>
-<programme
-start="20250901173000 +0000"
-stop="20250901203000 +0000"
-channel="ppv-10921"
->
-<title lang="en">Finland vs Lithuania (Tampere Finland)</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://ppvs.su/assets/thumb/b8506a6b639e5dea1b12c3a1f925efb0-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-10941">
