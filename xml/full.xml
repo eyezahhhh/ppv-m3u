@@ -285,6 +285,50 @@ channel="ppv-10923"
 <icon src="https://ppvs.su/assets/thumb/bad1eb8c65c4a28ddc70454d76d70568-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-10948">
+<display-name>Sparks at Storm</display-name>
+</channel>
+<programme
+start="20250902020000 +0000"
+stop="20250902044500 +0000"
+channel="ppv-10948"
+>
+<title lang="en">Sparks at Storm</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://ppvs.su/assets/thumb/f8386da1d964d241fb825784e8d499dc-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10947">
+<display-name>Wings at Lynx</display-name>
+</channel>
+<programme
+start="20250902000000 +0000"
+stop="20250902024500 +0000"
+channel="ppv-10947"
+>
+<title lang="en">Wings at Lynx</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://ppvs.su/assets/thumb/982724f286d476807e175090aaa3f6ea-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-10922">
 <display-name>Serbia vs Czechia (Riga Latvia)</display-name>
 </channel>
@@ -327,6 +371,28 @@ channel="ppv-10921"
 </audio>
 <category>Basketball</category>
 <icon src="https://ppvs.su/assets/thumb/b8506a6b639e5dea1b12c3a1f925efb0-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10946">
+<display-name>Dream at Sun</display-name>
+</channel>
+<programme
+start="20250901170000 +0000"
+stop="20250901194500 +0000"
+channel="ppv-10946"
+>
+<title lang="en">Dream at Sun</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://ppvs.su/assets/thumb/6f458fed4824b574d5a5e553f33e9555-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-10920">
