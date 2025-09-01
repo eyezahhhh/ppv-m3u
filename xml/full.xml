@@ -197,28 +197,6 @@ channel="ppv-10928"
 <icon src="https://ppvs.su/assets/thumb/a09419908f02ee2fa0166f363201929e-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-10926">
-<display-name>Cleveland Guardians vs. Boston Red Sox</display-name>
-</channel>
-<programme
-start="20250901173500 +0000"
-stop="20250901203500 +0000"
-channel="ppv-10926"
->
-<title lang="en">Cleveland Guardians vs. Boston Red Sox</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/c04cd589e9174feb8a8632c4e4df423b-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-10953">
 <display-name>France vs Poland (Katowice Poland)</display-name>
 </channel>
@@ -437,27 +415,5 @@ channel="ppv-10941"
 </audio>
 <category>Wrestling</category>
 <icon src="https://ppvs.su/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10940">
-<display-name>WWE: Monday Night RAW</display-name>
-</channel>
-<programme
-start="20250901180000 +0000"
-stop="20250901210000 +0000"
-channel="ppv-10940"
->
-<title lang="en">WWE: Monday Night RAW</title>
-<sub-title>Wrestling</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Wrestling</category>
-<icon src="https://ppvs.su/assets/thumb/56336f9d22c51c416e1a56afbd18f314-thumbnail.jpg" />
 </programme>
 </tv>
