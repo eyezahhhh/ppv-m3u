@@ -285,6 +285,138 @@ channel="ppv-10923"
 <icon src="https://ppvs.su/assets/thumb/bad1eb8c65c4a28ddc70454d76d70568-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-10953">
+<display-name>France vs Poland (Katowice Poland)</display-name>
+</channel>
+<programme
+start="20250902183000 +0000"
+stop="20250902213000 +0000"
+channel="ppv-10953"
+>
+<title lang="en">France vs Poland (Katowice Poland)</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://ppvs.su/assets/thumb/48b82dcf868e263c99051d9fade0f1a2-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10954">
+<display-name>Italy vs Spain (Limassol Cyprus)</display-name>
+</channel>
+<programme
+start="20250902183000 +0000"
+stop="20250902213000 +0000"
+channel="ppv-10954"
+>
+<title lang="en">Italy vs Spain (Limassol Cyprus)</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://ppvs.su/assets/thumb/6893e6e16929d15bbd0f34e400bf2379-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10952">
+<display-name>Cyprus vs Georgia (Limassol Cyprus)</display-name>
+</channel>
+<programme
+start="20250902151500 +0000"
+stop="20250902181500 +0000"
+channel="ppv-10952"
+>
+<title lang="en">Cyprus vs Georgia (Limassol Cyprus)</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://ppvs.su/assets/thumb/364149eb3cae749e87cd819cc815b17d-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10951">
+<display-name>Iceland vs Slovenia (Katowice Poland)</display-name>
+</channel>
+<programme
+start="20250902150000 +0000"
+stop="20250902180000 +0000"
+channel="ppv-10951"
+>
+<title lang="en">Iceland vs Slovenia (Katowice Poland)</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://ppvs.su/assets/thumb/c49e3be17ed7213eb5c5577565dc1750-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10949">
+<display-name>Belgium vs Israel (Katowice Poland)</display-name>
+</channel>
+<programme
+start="20250902120000 +0000"
+stop="20250902150000 +0000"
+channel="ppv-10949"
+>
+<title lang="en">Belgium vs Israel (Katowice Poland)</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://ppvs.su/assets/thumb/cbbc32d9080a30fe51f96a29919e43cf-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10950">
+<display-name>Greece vs Bosnia and Herzegovina (Liamssol Cyprus)</display-name>
+</channel>
+<programme
+start="20250902120000 +0000"
+stop="20250902150000 +0000"
+channel="ppv-10950"
+>
+<title lang="en">Greece vs Bosnia and Herzegovina (Liamssol Cyprus)</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://ppvs.su/assets/thumb/056364e55ed7f076e66ffce8beddcba0-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-10948">
 <display-name>Sparks at Storm</display-name>
 </channel>
@@ -437,28 +569,6 @@ channel="ppv-10919"
 </audio>
 <category>Basketball</category>
 <icon src="https://ppvs.su/assets/thumb/006f936b1369f0e62bb1636096b6035e-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10918">
-<display-name>Estonia vs Türkiye (Riga Latvia)</display-name>
-</channel>
-<programme
-start="20250901114500 +0000"
-stop="20250901144500 +0000"
-channel="ppv-10918"
->
-<title lang="en">Estonia vs Türkiye (Riga Latvia)</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://ppvs.su/assets/thumb/f5c5635dd4cae336012803c4698c9dbc-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-10941">
