@@ -131,72 +131,6 @@ channel="ppv-10930"
 <icon src="https://ppvs.su/assets/thumb/8897bef5a46a227f02e80a5a558058e6-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-10929">
-<display-name>Athletics vs. St. Louis Cardinals</display-name>
-</channel>
-<programme
-start="20250901181500 +0000"
-stop="20250901211500 +0000"
-channel="ppv-10929"
->
-<title lang="en">Athletics vs. St. Louis Cardinals</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/dd39ca2c3dcc09ff4b9b41c55e429c31-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10927">
-<display-name>Los Angeles Angels vs. Houston Astros</display-name>
-</channel>
-<programme
-start="20250901181000 +0000"
-stop="20250901211000 +0000"
-channel="ppv-10927"
->
-<title lang="en">Los Angeles Angels vs. Houston Astros</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/a5d4ca455a93d01bae1dde91698decdd-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10928">
-<display-name>Chicago White Sox vs. Minnesota Twins</display-name>
-</channel>
-<programme
-start="20250901181000 +0000"
-stop="20250901211000 +0000"
-channel="ppv-10928"
->
-<title lang="en">Chicago White Sox vs. Minnesota Twins</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/a09419908f02ee2fa0166f363201929e-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-10953">
 <display-name>France vs Poland (Katowice Poland)</display-name>
 </channel>
@@ -371,28 +305,6 @@ channel="ppv-10947"
 </audio>
 <category>Basketball</category>
 <icon src="https://ppvs.su/assets/thumb/982724f286d476807e175090aaa3f6ea-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10922">
-<display-name>Serbia vs Czechia (Riga Latvia)</display-name>
-</channel>
-<programme
-start="20250901181500 +0000"
-stop="20250901211500 +0000"
-channel="ppv-10922"
->
-<title lang="en">Serbia vs Czechia (Riga Latvia)</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://ppvs.su/assets/thumb/4dc379541585cfdd0b78314fccbdc570-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-10941">
