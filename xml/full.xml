@@ -131,28 +131,6 @@ channel="ppv-10966"
 <icon src="https://ppvs.su/assets/thumb/e1b4087c2881713c00659ba7ad38c10b-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-10965">
-<display-name>New York Yankees vs. Houston Astros</display-name>
-</channel>
-<programme
-start="20250903001000 +0000"
-stop="20250903031000 +0000"
-channel="ppv-10965"
->
-<title lang="en">New York Yankees vs. Houston Astros</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/db883b45136a4e293e3283960a616bfe-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-10976">
 <display-name>Türkiye vs Serbia (Riga Latvia)</display-name>
 </channel>
@@ -329,28 +307,6 @@ channel="ppv-10970"
 <icon src="https://ppvs.su/assets/thumb/91372ae6b4f96dd81d5f910e873fe602-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-10977">
-<display-name>Dana White&apos;s Contender Series</display-name>
-</channel>
-<programme
-start="20250903000000 +0000"
-stop="20250903030000 +0000"
-channel="ppv-10977"
->
-<title lang="en">Dana White&apos;s Contender Series</title>
-<sub-title>Combat Sports</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Combat Sports</category>
-<icon src="https://ppvs.su/assets/thumb/dc2eda8c0eee22ea76c13a99f9edbf06-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-10943">
 <display-name>TNA: Impact</display-name>
 </channel>
@@ -393,27 +349,5 @@ channel="ppv-10942"
 </audio>
 <category>Wrestling</category>
 <icon src="https://ppvs.su/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10941">
-<display-name>WWE: NXT</display-name>
-</channel>
-<programme
-start="20250903000000 +0000"
-stop="20250903030000 +0000"
-channel="ppv-10941"
->
-<title lang="en">WWE: NXT</title>
-<sub-title>Wrestling</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Wrestling</category>
-<icon src="https://ppvs.su/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg" />
 </programme>
 </tv>
