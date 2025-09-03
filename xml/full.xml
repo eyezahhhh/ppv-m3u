@@ -351,28 +351,6 @@ channel="ppv-11003"
 <icon src="https://ppvs.su/assets/thumb/57c860da65b28a12c3a4ef5905a7dadc-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-11002">
-<display-name>New York Mets vs. Detroit Tigers</display-name>
-</channel>
-<programme
-start="20250903171000 +0000"
-stop="20250903201000 +0000"
-channel="ppv-11002"
->
-<title lang="en">New York Mets vs. Detroit Tigers</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/a5f2e902529c2d54e844d2bb9812a6ea-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-11022">
 <display-name>Poland vs Belgium (Katowice Poland)</display-name>
 </channel>
@@ -569,28 +547,6 @@ channel="ppv-10976"
 </audio>
 <category>Basketball</category>
 <icon src="https://ppvs.su/assets/thumb/ed52e46b484e2a7d939aca2be2e6af23-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10975">
-<display-name>Finland vs Germany (Tampere Finland)</display-name>
-</channel>
-<programme
-start="20250903173000 +0000"
-stop="20250903203000 +0000"
-channel="ppv-10975"
->
-<title lang="en">Finland vs Germany (Tampere Finland)</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://ppvs.su/assets/thumb/bfdced3b90f5a92b880285b406504422-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-10943">
