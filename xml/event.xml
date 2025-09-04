@@ -109,28 +109,6 @@ channel="ppv-11015"
 <icon src="https://ppvs.su/assets/thumb/e1b4087c2881713c00659ba7ad38c10b-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-11014">
-<display-name>New York Yankees vs. Houston Astros</display-name>
-</channel>
-<programme
-start="20250904001000 +0000"
-stop="20250904031000 +0000"
-channel="ppv-11014"
->
-<title lang="en">New York Yankees vs. Houston Astros</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/db883b45136a4e293e3283960a616bfe-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-11022">
 <display-name>Poland vs Belgium (Katowice Poland)</display-name>
 </channel>
@@ -305,27 +283,5 @@ channel="ppv-10943"
 </audio>
 <category>Wrestling</category>
 <icon src="https://ppvs.su/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10942">
-<display-name>AEW: Wednesday Night Dynamite</display-name>
-</channel>
-<programme
-start="20250904000000 +0000"
-stop="20250904030000 +0000"
-channel="ppv-10942"
->
-<title lang="en">AEW: Wednesday Night Dynamite</title>
-<sub-title>Wrestling</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Wrestling</category>
-<icon src="https://ppvs.su/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg" />
 </programme>
 </tv>
