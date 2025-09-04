@@ -373,50 +373,6 @@ channel="ppv-11020"
 <icon src="https://ppvs.su/assets/thumb/ba7531fe145543895da56a8994448430-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-11018">
-<display-name>France vs Iceland (Katowice Poland)</display-name>
-</channel>
-<programme
-start="20250904120000 +0000"
-stop="20250904150000 +0000"
-channel="ppv-11018"
->
-<title lang="en">France vs Iceland (Katowice Poland)</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://ppvs.su/assets/thumb/afc05e295330bac974269a7768d36ff2-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-11019">
-<display-name>Bosnia and Herzegovina vs Georgia (Limassol Cyprus)</display-name>
-</channel>
-<programme
-start="20250904120000 +0000"
-stop="20250904150000 +0000"
-channel="ppv-11019"
->
-<title lang="en">Bosnia and Herzegovina vs Georgia (Limassol Cyprus)</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://ppvs.su/assets/thumb/03d7113377e88d2a83f8aa580c9fd9fc-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-10944">
 <display-name>WWE: Friday Night Smackdown</display-name>
 </channel>
