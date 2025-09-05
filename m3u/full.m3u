@@ -4,7 +4,7 @@
 #EXTINF:-1 tvg-id="ppv-10997" tvg-name="Louisiana Tech Bulldogs vs. LSU Tigers (6 September 2025 at 23:30)" tvg-epgid="10997" tvg-logo="https://ppvs.su/assets/thumb/b01285c3842647e05751123f60b94701-thumbnail.jpg",Louisiana Tech Bulldogs vs. LSU Tigers (6 September 2025 at 23:30)
 
 #EXTINF:-1 tvg-id="ppv-10998" tvg-name="Arizona State Sun Devils vs. Mississippi State Bulldogs (6 September 2025 at 23:30)" tvg-epgid="10998" tvg-logo="https://ppvs.su/assets/thumb/618f932418d13d6cd342d4f19a9ff25c-thumbnail.jpg",Arizona State Sun Devils vs. Mississippi State Bulldogs (6 September 2025 at 23:30)
-https://gg.poocloud.in/ESPN2/index.m3u8?md5=5Wge3yqOYprRNrURNVyNXw&expires=1757214000&net=NjQuMjM2LjEzNS4xMjk%3D
+https://gg.poocloud.in/ESPN2/index.m3u8?md5=5Wge3yqOYprRNrURNVyNXw&expires=1757214000&net=MTQ1LjEzMi4xMDMuNjc%3D
 #EXTINF:-1 tvg-id="ppv-10999" tvg-name="Michigan Wolverines vs. Oklahoma Sooners (6 September 2025 at 23:30)" tvg-epgid="10999" tvg-logo="https://ppvs.su/assets/thumb/0b547b1d1ac52b2efca2f00ab00bf2f9-thumbnail.jpg",Michigan Wolverines vs. Oklahoma Sooners (6 September 2025 at 23:30)
 
 #EXTINF:-1 tvg-id="ppv-10995" tvg-name="Bethune-Cookman Wildcats vs. Miami Hurricanes (6 September 2025 at 23:00)" tvg-epgid="10995" tvg-logo="https://ppvs.su/assets/thumb/9768d21799456b7b77bac5a4f9768844-thumbnail.jpg",Bethune-Cookman Wildcats vs. Miami Hurricanes (6 September 2025 at 23:00)
@@ -40,7 +40,7 @@ https://gg.poocloud.in/ESPN2/index.m3u8?md5=5Wge3yqOYprRNrURNVyNXw&expires=17572
 #EXTINF:-1 tvg-id="ppv-10982" tvg-name="Iowa Hawkeyes vs. Iowa State Cyclones (6 September 2025 at 16:00)" tvg-epgid="10982" tvg-logo="https://ppvs.su/assets/thumb/c5d98e554d019d8218397c8cde2b46c0-thumbnail.jpg",Iowa Hawkeyes vs. Iowa State Cyclones (6 September 2025 at 16:00)
 
 #EXTINF:-1 tvg-id="ppv-10983" tvg-name="Baylor Bears vs. SMU Mustangs (6 September 2025 at 16:00)" tvg-epgid="10983" tvg-logo="https://ppvs.su/assets/thumb/8a34d91bced1f1c98b8fe5c1fe11a38e-thumbnail.jpg",Baylor Bears vs. SMU Mustangs (6 September 2025 at 16:00)
-https://gg.poocloud.in/CW/index.m3u8?md5=jSEzICTyKprXoQqECGk8mg&expires=1757187000&net=NjQuMjM2LjEzNS4xMjk%3D
+https://gg.poocloud.in/CW/index.m3u8?md5=jSEzICTyKprXoQqECGk8mg&expires=1757187000&net=MTQ1LjEzMi4xMDMuNjc%3D
 #EXTINF:-1 tvg-id="ppv-10984" tvg-name="Kennesaw State Owls vs. Indiana Hoosiers (6 September 2025 at 16:00)" tvg-epgid="10984" tvg-logo="https://ppvs.su/assets/thumb/243fde973a8c44a9fec9667c5f8d2a30-thumbnail.jpg",Kennesaw State Owls vs. Indiana Hoosiers (6 September 2025 at 16:00)
 
 #EXTINF:-1 tvg-id="ppv-10985" tvg-name="Kent State Golden Flashes vs. Texas Tech Red Raiders (6 September 2025 at 16:00)" tvg-epgid="10985" tvg-logo="https://ppvs.su/assets/thumb/3582883aab904767687dbdd3950b97b3-thumbnail.jpg",Kent State Golden Flashes vs. Texas Tech Red Raiders (6 September 2025 at 16:00)
@@ -77,6 +77,14 @@ https://gg.poocloud.in/CW/index.m3u8?md5=jSEzICTyKprXoQqECGk8mg&expires=17571870
 
 #EXTINF:-1 tvg-id="ppv-11033" tvg-name="Washington Nationals vs. Chicago Cubs (5 September 2025 at 18:20)" tvg-epgid="11033" tvg-logo="https://ppvs.su/assets/thumb/08304a52b29f4756b2704c2829908cc5-thumbnail.jpg",Washington Nationals vs. Chicago Cubs (5 September 2025 at 18:20)
 
+#EXTINF:-1 tvg-id="ppv-11051" tvg-name="Serbia v Finland (6 September 2025 at 18:45)" tvg-epgid="11051" tvg-logo="https://ppvs.su/assets/thumb/4c18652dd617647a51ed18b40582f0df-thumbnail.jpg",Serbia v Finland (6 September 2025 at 18:45)
+https://gg.poocloud.in/courtside-1891-210744/index.m3u8?md5=oFmsqGeq5eh9aIC0oXTM3g&expires=1757196900&net=MTQ1LjEzMi4xMDMuNjc%3D
+#EXTINF:-1 tvg-id="ppv-11050" tvg-name="Lithuania v Latvia (6 September 2025 at 15:30)" tvg-epgid="11050" tvg-logo="https://ppvs.su/assets/thumb/3c3a51b8a70b5d5d3c6a0e7991cac30b-thumbnail.jpg",Lithuania v Latvia (6 September 2025 at 15:30)
+https://gg.poocloud.in/courtside-1891-210742/index.m3u8?md5=mxkUCYXm40x-OOTp8-Ze2w&expires=1757185200&net=MTQ1LjEzMi4xMDMuNjc%3D
+#EXTINF:-1 tvg-id="ppv-11049" tvg-name="Germany v Portugal (6 September 2025 at 12:15)" tvg-epgid="11049" tvg-logo="https://ppvs.su/assets/thumb/4e370455fb58060049e6cda9404e1531-thumbnail.jpg",Germany v Portugal (6 September 2025 at 12:15)
+https://gg.poocloud.in/courtside-1891-210741/index.m3u8?md5=rRK4zlL_hhZr9b5mNh0rQg&expires=1757173500&net=MTQ1LjEzMi4xMDMuNjc%3D
+#EXTINF:-1 tvg-id="ppv-11048" tvg-name="Türkiye v Sweden (6 September 2025 at 09:00)" tvg-epgid="11048" tvg-logo="https://ppvs.su/assets/thumb/99bc9fd4f2d253e31ed79cfc0d5868c8-thumbnail.jpg",Türkiye v Sweden (6 September 2025 at 09:00)
+https://gg.poocloud.in/courtside-1891-210743/index.m3u8?md5=2UFBDdJQf2qf1NnMgmwHsA&expires=1757161800&net=MTQ1LjEzMi4xMDMuNjc%3D
 #EXTINF:-1 tvg-id="ppv-10945" tvg-name="AEW: Saturday Night Collision (7 September 2025 at 00:00)" tvg-epgid="10945" tvg-logo="https://ppvs.su/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg",AEW: Saturday Night Collision (7 September 2025 at 00:00)
 
 #EXTINF:-1 tvg-id="ppv-10944" tvg-name="WWE: Friday Night Smackdown (6 September 2025 at 00:00)" tvg-epgid="10944" tvg-logo="https://ppvs.su/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg",WWE: Friday Night Smackdown (6 September 2025 at 00:00)
