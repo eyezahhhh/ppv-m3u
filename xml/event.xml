@@ -549,94 +549,6 @@ channel="ppv-10774"
 <icon src="https://ppvs.su/assets/thumb/3aa4039619f530cd4310d59ac59f2cfb-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-11027">
-<display-name>Los Angeles Angels vs. Kansas City Royals</display-name>
-</channel>
-<programme
-start="20250904234000 +0000"
-stop="20250905024000 +0000"
-channel="ppv-11027"
->
-<title lang="en">Los Angeles Angels vs. Kansas City Royals</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/b64f7e79cdc72110fa3d6ed5b64ef925-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-11028">
-<display-name>Chicago White Sox vs. Minnesota Twins</display-name>
-</channel>
-<programme
-start="20250904234000 +0000"
-stop="20250905024000 +0000"
-channel="ppv-11028"
->
-<title lang="en">Chicago White Sox vs. Minnesota Twins</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/a09419908f02ee2fa0166f363201929e-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-11029">
-<display-name>New York Yankees vs. Houston Astros</display-name>
-</channel>
-<programme
-start="20250904234000 +0000"
-stop="20250905024000 +0000"
-channel="ppv-11029"
->
-<title lang="en">New York Yankees vs. Houston Astros</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/db883b45136a4e293e3283960a616bfe-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-11026">
-<display-name>Cleveland Guardians vs. Tampa Bay Rays</display-name>
-</channel>
-<programme
-start="20250904233500 +0000"
-stop="20250905023500 +0000"
-channel="ppv-11026"
->
-<title lang="en">Cleveland Guardians vs. Tampa Bay Rays</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/73c159ab03441dc2cb31f5be86d01d38-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-11031">
 <display-name>Wings at Valkyries</display-name>
 </channel>
@@ -723,27 +635,5 @@ channel="ppv-10944"
 </audio>
 <category>Wrestling</category>
 <icon src="https://ppvs.su/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-10943">
-<display-name>TNA: Impact</display-name>
-</channel>
-<programme
-start="20250905000000 +0000"
-stop="20250905030000 +0000"
-channel="ppv-10943"
->
-<title lang="en">TNA: Impact</title>
-<sub-title>Wrestling</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Wrestling</category>
-<icon src="https://ppvs.su/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg" />
 </programme>
 </tv>
