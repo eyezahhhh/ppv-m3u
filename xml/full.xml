@@ -1,4 +1,26 @@
 <tv>
+<channel id="ppv-11000">
+<display-name>UL Monroe Warhawks vs. Alabama Crimson Tide</display-name>
+</channel>
+<programme
+start="20250906234500 +0000"
+stop="20250907024500 +0000"
+channel="ppv-11000"
+>
+<title lang="en">UL Monroe Warhawks vs. Alabama Crimson Tide</title>
+<sub-title>American Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>American Football</category>
+<icon src="https://ppvs.su/assets/thumb/128669aa4640c293666076b3de8ac82e-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-10997">
 <display-name>Louisiana Tech Bulldogs vs. LSU Tigers</display-name>
 </channel>
@@ -701,6 +723,28 @@ channel="ppv-11030"
 </audio>
 <category>Basketball</category>
 <icon src="https://ppvs.su/assets/thumb/a4190ee62fea620a02c30d0dbb48c0ef-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-10945">
+<display-name>AEW: Saturday Night Collision</display-name>
+</channel>
+<programme
+start="20250907000000 +0000"
+stop="20250907030000 +0000"
+channel="ppv-10945"
+>
+<title lang="en">AEW: Saturday Night Collision</title>
+<sub-title>Wrestling</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Wrestling</category>
+<icon src="https://ppvs.su/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-10944">
