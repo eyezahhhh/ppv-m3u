@@ -1385,28 +1385,6 @@ channel="ppv-11081"
 <icon src="https://ppvs.su/assets/thumb/03dac74d741bb23975678157955cf8e1-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-11055">
-<display-name>F1: Italian GP (Quali)</display-name>
-</channel>
-<programme
-start="20250906140000 +0000"
-stop="20250906160000 +0000"
-channel="ppv-11055"
->
-<title lang="en">F1: Italian GP (Quali)</title>
-<sub-title>Motorsports</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Motorsports</category>
-<icon src="https://ppvs.su/assets/thumb/8256579b5d7d70928781ef86672d5c9a-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-11080">
 <display-name>SuperMotocross: Charlotte (Qualifying)</display-name>
 </channel>
