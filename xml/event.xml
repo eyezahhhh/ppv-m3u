@@ -1275,28 +1275,6 @@ channel="ppv-11049"
 <icon src="https://ppvs.su/assets/thumb/4e370455fb58060049e6cda9404e1531-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-11048">
-<display-name>Türkiye v Sweden</display-name>
-</channel>
-<programme
-start="20250906090000 +0000"
-stop="20250906120000 +0000"
-channel="ppv-11048"
->
-<title lang="en">Türkiye v Sweden</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://ppvs.su/assets/thumb/99bc9fd4f2d253e31ed79cfc0d5868c8-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-11079">
 <display-name>UFC Fight Night: Imavov vs. Borralho</display-name>
 </channel>
