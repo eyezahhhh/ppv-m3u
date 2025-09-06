@@ -615,28 +615,6 @@ channel="ppv-10992"
 <icon src="https://ppvs.su/assets/thumb/0fa6befeef245084ed8fd88e17e3f00d-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-10986">
-<display-name>Utah State Aggies vs. Texas A&amp;M Aggies</display-name>
-</channel>
-<programme
-start="20250906164500 +0000"
-stop="20250906194500 +0000"
-channel="ppv-10986"
->
-<title lang="en">Utah State Aggies vs. Texas A&amp;M Aggies</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://ppvs.su/assets/thumb/696665cecf570fa0813d89f4965cc65b-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-11078">
 <display-name>Athletics vs. Los Angeles Angels</display-name>
 </channel>
@@ -945,28 +923,6 @@ channel="ppv-11065"
 <icon src="https://ppvs.su/assets/thumb/08304a52b29f4756b2704c2829908cc5-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-11064">
-<display-name>Toronto Blue Jays vs. New York Yankees</display-name>
-</channel>
-<programme
-start="20250906170500 +0000"
-stop="20250906200500 +0000"
-channel="ppv-11064"
->
-<title lang="en">Toronto Blue Jays vs. New York Yankees</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/1f6719a9b572e19799375d8eb57b293d-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-11063">
 <display-name>Greece v Israel</display-name>
 </channel>
@@ -1097,28 +1053,6 @@ channel="ppv-11051"
 </audio>
 <category>Basketball</category>
 <icon src="https://ppvs.su/assets/thumb/4c18652dd617647a51ed18b40582f0df-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-11082">
-<display-name>Mercury at Sun</display-name>
-</channel>
-<programme
-start="20250906170000 +0000"
-stop="20250906194500 +0000"
-channel="ppv-11082"
->
-<title lang="en">Mercury at Sun</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://ppvs.su/assets/thumb/d2826a3de19784748f408a5dcb722579-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-11079">
