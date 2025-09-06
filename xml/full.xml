@@ -1385,28 +1385,6 @@ channel="ppv-11080"
 <icon src="https://ppvs.su/assets/thumb/03dac74d741bb23975678157955cf8e1-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-11054">
-<display-name>F1: Italian GP (FP3)</display-name>
-</channel>
-<programme
-start="20250906103000 +0000"
-stop="20250906123000 +0000"
-channel="ppv-11054"
->
-<title lang="en">F1: Italian GP (FP3)</title>
-<sub-title>Motorsports</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Motorsports</category>
-<icon src="https://ppvs.su/assets/thumb/8256579b5d7d70928781ef86672d5c9a-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-10945">
 <display-name>AEW: Saturday Night Collision</display-name>
 </channel>
