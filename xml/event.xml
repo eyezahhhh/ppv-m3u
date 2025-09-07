@@ -461,28 +461,6 @@ channel="ppv-10996"
 <icon src="https://ppvs.su/assets/thumb/2e9e4ebf60f3b113a1d17bf6b7156fe1-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-10994">
-<display-name>Cal Poly Mustangs vs. Utah Utes</display-name>
-</channel>
-<programme
-start="20250906220000 +0000"
-stop="20250907010000 +0000"
-channel="ppv-10994"
->
-<title lang="en">Cal Poly Mustangs vs. Utah Utes</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://ppvs.su/assets/thumb/554e3c0dc169e85f32170ccd61563c68-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-11078">
 <display-name>Athletics vs. Los Angeles Angels</display-name>
 </channel>
@@ -723,28 +701,6 @@ channel="ppv-11069"
 </audio>
 <category>Baseball</category>
 <icon src="https://ppvs.su/assets/thumb/80ee8a04abcf0b401f37803a28dcf3e4-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-11067">
-<display-name>Chicago White Sox vs. Detroit Tigers</display-name>
-</channel>
-<programme
-start="20250906221000 +0000"
-stop="20250907011000 +0000"
-channel="ppv-11067"
->
-<title lang="en">Chicago White Sox vs. Detroit Tigers</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/9f85f23dfb471aefe675aa391bbfdbe2-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-11063">
