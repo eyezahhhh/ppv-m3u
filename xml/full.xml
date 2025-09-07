@@ -790,4 +790,26 @@ channel="ppv-11056"
 <category>Motorsports</category>
 <icon src="https://ppvs.su/assets/thumb/8256579b5d7d70928781ef86672d5c9a-thumbnail.jpg" />
 </programme>
+
+<channel id="ppv-5112">
+<display-name>24/7 South Park</display-name>
+</channel>
+<programme
+start="19700101000000 +0000"
+stop="19700101000000 +0000"
+channel="ppv-5112"
+>
+<title lang="en">24/7 South Park</title>
+<sub-title>24/7 Streams</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>24/7 Streams</category>
+<icon src="https://thumbs.poocloud.in/southpark/preview.jpg" />
+</programme>
 </tv>
