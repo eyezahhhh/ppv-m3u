@@ -659,6 +659,72 @@ channel="ppv-11091"
 <icon src="https://ppvs.su/assets/thumb/7f1442634426204368a6ca6b10b405a4-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-11108">
+<display-name>Sky at Aces</display-name>
+</channel>
+<programme
+start="20250908010000 +0000"
+stop="20250908034500 +0000"
+channel="ppv-11108"
+>
+<title lang="en">Sky at Aces</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://ppvs.su/assets/thumb/247850e72e43fa7d1e07dd39b9b191c4-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-11107">
+<display-name>Wings at Sparks</display-name>
+</channel>
+<programme
+start="20250907220000 +0000"
+stop="20250908004500 +0000"
+channel="ppv-11107"
+>
+<title lang="en">Wings at Sparks</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://ppvs.su/assets/thumb/164f821c24537281854ccd69094ec6d7-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-11106">
+<display-name>Fever at Mystics</display-name>
+</channel>
+<programme
+start="20250907190000 +0000"
+stop="20250907214500 +0000"
+channel="ppv-11106"
+>
+<title lang="en">Fever at Mystics</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://ppvs.su/assets/thumb/c85de54c4628b528937f01f675616f74-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-11063">
 <display-name>Greece v Israel</display-name>
 </channel>
