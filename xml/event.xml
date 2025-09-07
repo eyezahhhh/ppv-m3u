@@ -615,50 +615,6 @@ channel="ppv-11095"
 <icon src="https://ppvs.su/assets/thumb/1f6719a9b572e19799375d8eb57b293d-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-11092">
-<display-name>Cleveland Guardians vs. Tampa Bay Rays</display-name>
-</channel>
-<programme
-start="20250907161000 +0000"
-stop="20250907191000 +0000"
-channel="ppv-11092"
->
-<title lang="en">Cleveland Guardians vs. Tampa Bay Rays</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/73c159ab03441dc2cb31f5be86d01d38-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-11091">
-<display-name>Seattle Mariners vs. Atlanta Braves</display-name>
-</channel>
-<programme
-start="20250907160500 +0000"
-stop="20250907190500 +0000"
-channel="ppv-11091"
->
-<title lang="en">Seattle Mariners vs. Atlanta Braves</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/7f1442634426204368a6ca6b10b405a4-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-11108">
 <display-name>Sky at Aces</display-name>
 </channel>
