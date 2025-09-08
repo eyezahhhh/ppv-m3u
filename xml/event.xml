@@ -307,6 +307,28 @@ channel="ppv-11120"
 <icon src="https://ppvs.su/assets/thumb/be1e8ee15529a2f6bc0773148d5fcf0e-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-11138">
+<display-name>Sun at Dream</display-name>
+</channel>
+<programme
+start="20250908233000 +0000"
+stop="20250909021500 +0000"
+channel="ppv-11138"
+>
+<title lang="en">Sun at Dream</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://ppvs.su/assets/thumb/2c9226472edf66747d34bfb5dffa5fd3-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-11123">
 <display-name>WWE: NXT</display-name>
 </channel>
