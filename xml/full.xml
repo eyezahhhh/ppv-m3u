@@ -351,28 +351,6 @@ channel="ppv-11201"
 <icon src="https://ppvs.su/assets/thumb/8574b7590643a223fa51ac581f52f3c5-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-11164">
-<display-name>Colorado Rockies vs. Los Angeles Dodgers</display-name>
-</channel>
-<programme
-start="20250910021000 +0000"
-stop="20250910051000 +0000"
-channel="ppv-11164"
->
-<title lang="en">Colorado Rockies vs. Los Angeles Dodgers</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/65abaee6a0db4eabba15e87b64ac5825-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-11149">
 <display-name>Germany vs Slovenia</display-name>
 </channel>
