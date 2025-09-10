@@ -329,28 +329,6 @@ channel="ppv-11202"
 <icon src="https://ppvs.su/assets/thumb/81f65cd86dcdbbc9ba5e1fd59ca7599e-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-11201">
-<display-name>Milwaukee Brewers vs. Texas Rangers</display-name>
-</channel>
-<programme
-start="20250910183500 +0000"
-stop="20250910213500 +0000"
-channel="ppv-11201"
->
-<title lang="en">Milwaukee Brewers vs. Texas Rangers</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/8574b7590643a223fa51ac581f52f3c5-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-11216">
 <display-name>Dream at Sun</display-name>
 </channel>
