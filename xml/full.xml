@@ -153,28 +153,6 @@ channel="ppv-11238"
 <icon src="https://ppvs.su/assets/thumb/46f53805e96421394ff5371a2b5b5b50-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-11237">
-<display-name>Houston Astros vs. Toronto Blue Jays</display-name>
-</channel>
-<programme
-start="20250911190700 +0000"
-stop="20250911220700 +0000"
-channel="ppv-11237"
->
-<title lang="en">Houston Astros vs. Toronto Blue Jays</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/31425e68c7e1b51822cfdb395c2793e2-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-11275">
 <display-name>Aces at Sparks</display-name>
 </channel>
@@ -329,6 +307,28 @@ channel="ppv-11166"
 <icon src="https://ppvs.su/assets/thumb/0f8bfff71234c48f3abb49aa85ac3cf5-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-11276">
+<display-name>AJ Auxerre vs. AS Monaco</display-name>
+</channel>
+<programme
+start="20250913190500 +0000"
+stop="20250913220500 +0000"
+channel="ppv-11276"
+>
+<title lang="en">AJ Auxerre vs. AS Monaco</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/c3652187d891f5946381d25dc9d84757-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-11130">
 <display-name>Brentford vs. Chelsea</display-name>
 </channel>
@@ -415,6 +415,28 @@ channel="ppv-11265"
 </audio>
 <category>Football</category>
 <icon src="https://ppvs.su/assets/thumb/257c429cf907ebb930bf1af607fc7cb5-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-11277">
+<display-name>OGC Nice vs. FC Nantes</display-name>
+</channel>
+<programme
+start="20250913150000 +0000"
+stop="20250913180000 +0000"
+channel="ppv-11277"
+>
+<title lang="en">OGC Nice vs. FC Nantes</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/ab716c331e1e21d165d241ef7f745771-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-11264">
@@ -613,6 +635,28 @@ channel="ppv-11262"
 </audio>
 <category>Football</category>
 <icon src="https://ppvs.su/assets/thumb/91234d96cbb0bc95d706c6de32606549-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-11284">
+<display-name>OM vs. FC Lorient</display-name>
+</channel>
+<programme
+start="20250912184500 +0000"
+stop="20250912214500 +0000"
+channel="ppv-11284"
+>
+<title lang="en">OM vs. FC Lorient</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/d626432d14f420c8d5add59275de7670-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-11126">
