@@ -219,6 +219,204 @@ channel="ppv-11235"
 <icon src="https://ppvs.su/assets/thumb/79cd7ed933c93a3b36e95acef2c06b49-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-11275">
+<display-name>Aces at Sparks</display-name>
+</channel>
+<programme
+start="20250912020000 +0000"
+stop="20250912044500 +0000"
+channel="ppv-11275"
+>
+<title lang="en">Aces at Sparks</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://ppvs.su/assets/thumb/a1c666c4107afe0b00951339bc379b00-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-11272">
+<display-name>Liberty at Sky</display-name>
+</channel>
+<programme
+start="20250912000000 +0000"
+stop="20250912024500 +0000"
+channel="ppv-11272"
+>
+<title lang="en">Liberty at Sky</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://ppvs.su/assets/thumb/a30ab9d76e98d820cf94fd68052a8d4f-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-11273">
+<display-name>Mercury at Wings</display-name>
+</channel>
+<programme
+start="20250912000000 +0000"
+stop="20250912024500 +0000"
+channel="ppv-11273"
+>
+<title lang="en">Mercury at Wings</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://ppvs.su/assets/thumb/43dd87293c6083a8e4ca7c1a19f19826-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-11274">
+<display-name>Valkyries at Lynx</display-name>
+</channel>
+<programme
+start="20250912000000 +0000"
+stop="20250912024500 +0000"
+channel="ppv-11274"
+>
+<title lang="en">Valkyries at Lynx</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://ppvs.su/assets/thumb/5973f8010a1cf07b226d719e55f6c994-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-11128">
+<display-name>Bournemouth vs. Brighton and Hove Albion</display-name>
+</channel>
+<programme
+start="20250913140000 +0000"
+stop="20250913170000 +0000"
+channel="ppv-11128"
+>
+<title lang="en">Bournemouth vs. Brighton and Hove Albion</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/94d8c0cc3ca7bf1dd2b64f5456ad91a0-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-11132">
+<display-name>Crystal Palace vs. Sunderland</display-name>
+</channel>
+<programme
+start="20250913140000 +0000"
+stop="20250913170000 +0000"
+channel="ppv-11132"
+>
+<title lang="en">Crystal Palace vs. Sunderland</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/51393ea9fac9c55cdb37497963e895c0-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-11133">
+<display-name>Everton vs. Aston Villa</display-name>
+</channel>
+<programme
+start="20250913140000 +0000"
+stop="20250913170000 +0000"
+channel="ppv-11133"
+>
+<title lang="en">Everton vs. Aston Villa</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/b9bc1028faf13a810c417e35a3389d2d-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-11134">
+<display-name>Fulham vs. Leeds United</display-name>
+</channel>
+<programme
+start="20250913140000 +0000"
+stop="20250913170000 +0000"
+channel="ppv-11134"
+>
+<title lang="en">Fulham vs. Leeds United</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/0b514f7e7d264dd9ca7c0386591380e5-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-11136">
+<display-name>Newcastle United vs. Wolverhampton Wanderers</display-name>
+</channel>
+<programme
+start="20250913140000 +0000"
+stop="20250913170000 +0000"
+channel="ppv-11136"
+>
+<title lang="en">Newcastle United vs. Wolverhampton Wanderers</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/e07a59aa2a9caad5294ae0658325b7eb-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-11263">
 <display-name>Getafe CF vs. Real Oviedo</display-name>
 </channel>
