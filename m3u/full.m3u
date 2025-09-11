@@ -31,6 +31,10 @@
 
 #EXTINF:-1 tvg-id="ppv-11166" tvg-name="Oktagon 75 (German) (13 September 2025 at 16:00)" tvg-epgid="11166" tvg-logo="https://ppvs.su/assets/thumb/0f8bfff71234c48f3abb49aa85ac3cf5-thumbnail.jpg",Oktagon 75 (German) (13 September 2025 at 16:00)
 
+#EXTINF:-1 tvg-id="ppv-11137" tvg-name="West Ham United vs. Tottenham Hotspur (13 September 2025 at 16:30)" tvg-epgid="11137" tvg-logo="https://ppvs.su/assets/thumb/9380c014fe74ec40a84574602b316605-thumbnail.jpg",West Ham United vs. Tottenham Hotspur (13 September 2025 at 16:30)
+
+#EXTINF:-1 tvg-id="ppv-11265" tvg-name="Athletic Club vs. Deportivo Alavés (13 September 2025 at 16:30)" tvg-epgid="11265" tvg-logo="https://ppvs.su/assets/thumb/257c429cf907ebb930bf1af607fc7cb5-thumbnail.jpg",Athletic Club vs. Deportivo Alavés (13 September 2025 at 16:30)
+
 #EXTINF:-1 tvg-id="ppv-11264" tvg-name="Real Sociedad vs. Real Madrid (13 September 2025 at 14:15)" tvg-epgid="11264" tvg-logo="https://ppvs.su/assets/thumb/e07f56eeacc4598422e4c8acaeca5148-thumbnail.jpg",Real Sociedad vs. Real Madrid (13 September 2025 at 14:15)
 
 #EXTINF:-1 tvg-id="ppv-11128" tvg-name="Bournemouth vs. Brighton and Hove Albion (13 September 2025 at 14:00)" tvg-epgid="11128" tvg-logo="https://ppvs.su/assets/thumb/94d8c0cc3ca7bf1dd2b64f5456ad91a0-thumbnail.jpg",Bournemouth vs. Brighton and Hove Albion (13 September 2025 at 14:00)
@@ -54,4 +58,4 @@
 #EXTINF:-1 tvg-id="ppv-11125" tvg-name="TNA: Impact (12 September 2025 at 00:00)" tvg-epgid="11125" tvg-logo="https://ppvs.su/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg",TNA: Impact (12 September 2025 at 00:00)
 
 #EXTINF:-1 tvg-id="ppv-5112" tvg-name="24/7 South Park" tvg-epgid="5112" tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg",24/7 South Park
-https://gg.poocloud.in/southpark/index.m3u8?md5=XFiktSQGsiFxsdkKBvdExA&expires=1757649998&net=NjQuMjM2LjEzMS4yNDE%3D
+https://gg.poocloud.in/southpark/index.m3u8?md5=EJ6CgKhWSF2U8IO37LKD8g&expires=1757651837&net=NTIuMTU0LjIxLjQ4
