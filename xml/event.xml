@@ -439,6 +439,116 @@ channel="ppv-11166"
 <icon src="https://ppvs.su/assets/thumb/0f8bfff71234c48f3abb49aa85ac3cf5-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-11135">
+<display-name>Manchester City vs. Manchester United</display-name>
+</channel>
+<programme
+start="20250914153000 +0000"
+stop="20250914183000 +0000"
+channel="ppv-11135"
+>
+<title lang="en">Manchester City vs. Manchester United</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/9603ff2c942127b4f57cc89e3d2e7f22-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-11278">
+<display-name>Brest vs. Paris FC</display-name>
+</channel>
+<programme
+start="20250914151500 +0000"
+stop="20250914181500 +0000"
+channel="ppv-11278"
+>
+<title lang="en">Brest vs. Paris FC</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/d329dbaaac7f473f55a4b5227f020c21-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-11280">
+<display-name>FC Metz vs. Angers SCO</display-name>
+</channel>
+<programme
+start="20250914151500 +0000"
+stop="20250914181500 +0000"
+channel="ppv-11280"
+>
+<title lang="en">FC Metz vs. Angers SCO</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/b3477c00c44b410ce58f9c2bcbae3807-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-11281">
+<display-name>PSG vs. RC Lens</display-name>
+</channel>
+<programme
+start="20250914151500 +0000"
+stop="20250914181500 +0000"
+channel="ppv-11281"
+>
+<title lang="en">PSG vs. RC Lens</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/6044a1dc923f6d2df98f45e36880de40-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-11283">
+<display-name>Strasbourg vs. Havre AC</display-name>
+</channel>
+<programme
+start="20250914151500 +0000"
+stop="20250914181500 +0000"
+channel="ppv-11283"
+>
+<title lang="en">Strasbourg vs. Havre AC</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/a51cd2afef9330d8754534e2afad562c-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-11268">
 <display-name>Levante UD vs. Real Betis</display-name>
 </channel>
