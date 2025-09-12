@@ -571,16 +571,16 @@ channel="ppv-11287"
 <icon src="https://ppvs.su/assets/thumb/f93c69dbda8f9e2fef78d3d479541242-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-11285">
-<display-name>Tampa Bay Rays vs. Chicago Cubs</display-name>
+<channel id="ppv-11314">
+<display-name>Canelo vs Crawford</display-name>
 </channel>
 <programme
-start="20250912182000 +0000"
-stop="20250912212000 +0000"
-channel="ppv-11285"
+start="20250914010000 +0000"
+stop="20250914090000 +0000"
+channel="ppv-11314"
 >
-<title lang="en">Tampa Bay Rays vs. Chicago Cubs</title>
-<sub-title>Baseball</sub-title>
+<title lang="en">Canelo vs Crawford</title>
+<sub-title>Combat Sports</sub-title>
 <video>
 <present>yes</present>
 <colour>yes</colour>
@@ -589,8 +589,8 @@ channel="ppv-11285"
 <present>yes</present>
 <stereo>stereo</stereo>
 </audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/972ebfc50ffdc6b881044877850942f2-thumbnail.jpg" />
+<category>Combat Sports</category>
+<icon src="https://ppvs.su/assets/thumb/1e757f328bbe3ec56b66ee0eff26a9fb-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-11181">
@@ -1471,28 +1471,6 @@ channel="ppv-11284"
 </audio>
 <category>Football</category>
 <icon src="https://ppvs.su/assets/thumb/d626432d14f420c8d5add59275de7670-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-11303">
-<display-name>Bayer Leverkusen vs Eintracht Frankfurt</display-name>
-</channel>
-<programme
-start="20250912183000 +0000"
-stop="20250912213000 +0000"
-channel="ppv-11303"
->
-<title lang="en">Bayer Leverkusen vs Eintracht Frankfurt</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/0aba969c348a7a1ed1345884da6b7483-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-11127">
