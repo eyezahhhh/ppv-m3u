@@ -1957,28 +1957,6 @@ channel="ppv-11263"
 <icon src="https://ppvs.su/assets/thumb/5f8a819bdb7875b6c823eec12ce97257-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-11129">
-<display-name>Arsenal vs. Nottingham Forest</display-name>
-</channel>
-<programme
-start="20250913113000 +0000"
-stop="20250913143000 +0000"
-channel="ppv-11129"
->
-<title lang="en">Arsenal vs. Nottingham Forest</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/68ddaa2a466f29b939fb87bb71cb0e0b-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-11366">
 <display-name>SuperMotoCross: St. Louis</display-name>
 </channel>
