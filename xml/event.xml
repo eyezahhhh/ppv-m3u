@@ -549,28 +549,6 @@ channel="ppv-11334"
 <icon src="https://ppvs.su/assets/thumb/87d186734e7fc8d7263d55199d900e2e-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-11330">
-<display-name>South Alabama Jaguars vs. Auburn Tigers</display-name>
-</channel>
-<programme
-start="20250913164500 +0000"
-stop="20250913194500 +0000"
-channel="ppv-11330"
->
-<title lang="en">South Alabama Jaguars vs. Auburn Tigers</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://ppvs.su/assets/thumb/5a465f3e76cba3205f180cb87ccab41a-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-11359">
 <display-name>Cincinnati Reds vs. Athletics</display-name>
 </channel>
