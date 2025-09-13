@@ -769,50 +769,6 @@ channel="ppv-11296"
 <icon src="https://ppvs.su/assets/thumb/ae2b1d17c96d982c0a6e920e0ff5579f-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-11294">
-<display-name>Arizona Diamondbacks vs. Minnesota Twins</display-name>
-</channel>
-<programme
-start="20250913001000 +0000"
-stop="20250913031000 +0000"
-channel="ppv-11294"
->
-<title lang="en">Arizona Diamondbacks vs. Minnesota Twins</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/f3a9af92177c789c2803e8404325120d-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-11295">
-<display-name>St. Louis Cardinals vs. Milwaukee Brewers</display-name>
-</channel>
-<programme
-start="20250913001000 +0000"
-stop="20250913031000 +0000"
-channel="ppv-11295"
->
-<title lang="en">St. Louis Cardinals vs. Milwaukee Brewers</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/c28dd89542bcd64d85b25b86807529a4-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-11314">
 <display-name>Canelo vs Crawford</display-name>
 </channel>
