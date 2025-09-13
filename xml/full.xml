@@ -571,116 +571,6 @@ channel="ppv-11330"
 <icon src="https://ppvs.su/assets/thumb/5a465f3e76cba3205f180cb87ccab41a-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-11325">
-<display-name>Oregon Ducks vs. Northwestern Wildcats</display-name>
-</channel>
-<programme
-start="20250913160000 +0000"
-stop="20250913190000 +0000"
-channel="ppv-11325"
->
-<title lang="en">Oregon Ducks vs. Northwestern Wildcats</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://ppvs.su/assets/thumb/ae19bf1afb62fb94ad8c37044b388e2e-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-11326">
-<display-name>Clemson Tigers vs. Georgia Tech Yellow Jackets</display-name>
-</channel>
-<programme
-start="20250913160000 +0000"
-stop="20250913190000 +0000"
-channel="ppv-11326"
->
-<title lang="en">Clemson Tigers vs. Georgia Tech Yellow Jackets</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://ppvs.su/assets/thumb/e9c5d00b845cbb66ed8d30353d893595-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-11327">
-<display-name>Oklahoma Sooners vs. Temple Owls</display-name>
-</channel>
-<programme
-start="20250913160000 +0000"
-stop="20250913190000 +0000"
-channel="ppv-11327"
->
-<title lang="en">Oklahoma Sooners vs. Temple Owls</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://ppvs.su/assets/thumb/5dc730a8d7825df795106bfdda688782-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-11328">
-<display-name>Wisconsin Badgers vs. Alabama Crimson Tide</display-name>
-</channel>
-<programme
-start="20250913160000 +0000"
-stop="20250913190000 +0000"
-channel="ppv-11328"
->
-<title lang="en">Wisconsin Badgers vs. Alabama Crimson Tide</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://ppvs.su/assets/thumb/f911561ac80572e01c9a01ee11eb172b-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-11329">
-<display-name>Central Michigan Chippewas vs. Michigan Wolverines</display-name>
-</channel>
-<programme
-start="20250913160000 +0000"
-stop="20250913190000 +0000"
-channel="ppv-11329"
->
-<title lang="en">Central Michigan Chippewas vs. Michigan Wolverines</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://ppvs.su/assets/thumb/85ed65c8f32bea15fd85390ac113db79-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-11359">
 <display-name>Cincinnati Reds vs. Athletics</display-name>
 </channel>
@@ -1185,6 +1075,50 @@ channel="ppv-11364"
 </audio>
 <category>Darts</category>
 <icon src="https://ppvs.su/assets/thumb/1e47d53696339db8cbab1aea4648156d-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-11271">
+<display-name>RCD Espanyol de Barcelona vs. RCD Mallorca</display-name>
+</channel>
+<programme
+start="20250915190000 +0000"
+stop="20250915220000 +0000"
+channel="ppv-11271"
+>
+<title lang="en">RCD Espanyol de Barcelona vs. RCD Mallorca</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/5e9531ee465c22960bf69c26653f61e9-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-11376">
+<display-name>Como vs. Genoa</display-name>
+</channel>
+<programme
+start="20250915184500 +0000"
+stop="20250915214500 +0000"
+channel="ppv-11376"
+>
+<title lang="en">Como vs. Genoa</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/49ac5c34bff93304c89d8338cd74cf6d-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-11375">
@@ -1781,28 +1715,6 @@ channel="ppv-11320"
 <icon src="https://ppvs.su/assets/thumb/b0e1256272765a5c41d502f4df8829fd-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-11368">
-<display-name>Juventus vs. Inter</display-name>
-</channel>
-<programme
-start="20250913160000 +0000"
-stop="20250913190000 +0000"
-channel="ppv-11368"
->
-<title lang="en">Juventus vs. Inter</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/df22b559e412b2f777d788b3e44a8e51-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-11366">
 <display-name>SuperMotoCross: St. Louis</display-name>
 </channel>
@@ -1936,14 +1848,14 @@ channel="ppv-5191"
 </programme>
 
 <channel id="ppv-8008">
-<display-name>24/7 Family​​​‌​‌​​​​‌‌​‌‌‌​‌​‌​‌‌‌‌​‌‌​‌​​ Guy</display-name>
+<display-name>24/7 Family‌​‌​‌‌​​‌​‌‌​‌‌​‌‌​​​​​​‌​​‌​​‌​ Guy</display-name>
 </channel>
 <programme
 start="20250118080000 +0000"
 stop="20250118090000 +0000"
 channel="ppv-8008"
 >
-<title lang="en">24/7 Family​​​‌​‌​​​​‌‌​‌‌‌​‌​‌​‌‌‌‌​‌‌​‌​​ Guy</title>
+<title lang="en">24/7 Family‌​‌​‌‌​​‌​‌‌​‌‌​‌‌​​​​​​‌​​‌​​‌​ Guy</title>
 <sub-title>24/7 Streams</sub-title>
 <video>
 <present>yes</present>
