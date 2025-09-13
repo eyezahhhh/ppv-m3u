@@ -1803,116 +1803,6 @@ channel="ppv-11136"
 <icon src="https://ppvs.su/assets/thumb/e07a59aa2a9caad5294ae0658325b7eb-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-11315">
-<display-name>Heidenheim vs. Dortmund</display-name>
-</channel>
-<programme
-start="20250913133000 +0000"
-stop="20250913163000 +0000"
-channel="ppv-11315"
->
-<title lang="en">Heidenheim vs. Dortmund</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/f96abbe7cfd1fcfbab8cc1f89f7dab55-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-11316">
-<display-name>Union Berlin vs. Hoffenheim</display-name>
-</channel>
-<programme
-start="20250913133000 +0000"
-stop="20250913163000 +0000"
-channel="ppv-11316"
->
-<title lang="en">Union Berlin vs. Hoffenheim</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/20688efa04b372a02513cec25414bce9-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-11317">
-<display-name>Mainz vs. RB Leipzig</display-name>
-</channel>
-<programme
-start="20250913133000 +0000"
-stop="20250913163000 +0000"
-channel="ppv-11317"
->
-<title lang="en">Mainz vs. RB Leipzig</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/1f57165af3f69a380a29eeacbd88f221-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-11318">
-<display-name>Freiburg vs. Stuttgart</display-name>
-</channel>
-<programme
-start="20250913133000 +0000"
-stop="20250913163000 +0000"
-channel="ppv-11318"
->
-<title lang="en">Freiburg vs. Stuttgart</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/433976c29cc95f70a4cf2c3705c1861d-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-11319">
-<display-name>Wolfsburg vs. Cologne</display-name>
-</channel>
-<programme
-start="20250913133000 +0000"
-stop="20250913163000 +0000"
-channel="ppv-11319"
->
-<title lang="en">Wolfsburg vs. Cologne</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/d8a03aa5bdb0f5857c9dcd08ac74ab8d-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-11366">
 <display-name>SuperMotoCross: St. Louis</display-name>
 </channel>
@@ -2046,14 +1936,14 @@ channel="ppv-5191"
 </programme>
 
 <channel id="ppv-8008">
-<display-name>24/7 Family​‌​​​​​​‌‌‌​‌‌​​‌​‌‌​​​​‌​​‌​​‌​ Guy</display-name>
+<display-name>24/7 Family‌​​​​‌‌‌‌‌‌​‌​​​‌‌‌​‌​​​​‌​​​​‌‌ Guy</display-name>
 </channel>
 <programme
 start="20250118080000 +0000"
 stop="20250118090000 +0000"
 channel="ppv-8008"
 >
-<title lang="en">24/7 Family​‌​​​​​​‌‌‌​‌‌​​‌​‌‌​​​​‌​​‌​​‌​ Guy</title>
+<title lang="en">24/7 Family‌​​​​‌‌‌‌‌‌​‌​​​‌‌‌​‌​​​​‌​​​​‌‌ Guy</title>
 <sub-title>24/7 Streams</sub-title>
 <video>
 <present>yes</present>
