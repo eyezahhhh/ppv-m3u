@@ -1011,50 +1011,6 @@ channel="ppv-11345"
 <icon src="https://ppvs.su/assets/thumb/972ebfc50ffdc6b881044877850942f2-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-11299">
-<display-name>Los Angeles Dodgers vs. San Francisco Giants</display-name>
-</channel>
-<programme
-start="20250913021500 +0000"
-stop="20250913051500 +0000"
-channel="ppv-11299"
->
-<title lang="en">Los Angeles Dodgers vs. San Francisco Giants</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/25adb7fd6882369cd4c08e9b0757623b-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-11298">
-<display-name>Los Angeles Angels vs. Seattle Mariners</display-name>
-</channel>
-<programme
-start="20250913021000 +0000"
-stop="20250913051000 +0000"
-channel="ppv-11298"
->
-<title lang="en">Los Angeles Angels vs. Seattle Mariners</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/8971b329d6f619350f3b42915d3d548c-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-11314">
 <display-name>Canelo vs Crawford</display-name>
 </channel>
