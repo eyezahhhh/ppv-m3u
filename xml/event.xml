@@ -791,6 +791,94 @@ channel="ppv-11393"
 <icon src="https://ppvs.su/assets/thumb/e43dadf4f56718f8f28c504635c8b8c0-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-11246">
+<display-name>Real Madrid vs. Marseille</display-name>
+</channel>
+<programme
+start="20250916190000 +0000"
+stop="20250916220000 +0000"
+channel="ppv-11246"
+>
+<title lang="en">Real Madrid vs. Marseille</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/7643b7d0bbd5b7ec1459212458a99074-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-11247">
+<display-name>Benfica vs. Qarabağ</display-name>
+</channel>
+<programme
+start="20250916190000 +0000"
+stop="20250916220000 +0000"
+channel="ppv-11247"
+>
+<title lang="en">Benfica vs. Qarabağ</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/1a4c3d87888ceb7a5c7a9d390d1930ef-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-11248">
+<display-name>Juventus vs. B. Dortmund</display-name>
+</channel>
+<programme
+start="20250916190000 +0000"
+stop="20250916220000 +0000"
+channel="ppv-11248"
+>
+<title lang="en">Juventus vs. B. Dortmund</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/dc0b15f069401144079cc0217776da43-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-11249">
+<display-name>Tottenham vs. Villarreal</display-name>
+</channel>
+<programme
+start="20250916190000 +0000"
+stop="20250916220000 +0000"
+channel="ppv-11249"
+>
+<title lang="en">Tottenham vs. Villarreal</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/123c6b1077d70dff38a1efb1b7217fdc-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-11244">
 <display-name>PSV vs. Union SG</display-name>
 </channel>
@@ -987,28 +1075,6 @@ channel="ppv-11269"
 </audio>
 <category>Football</category>
 <icon src="https://ppvs.su/assets/thumb/a2aa75df8986a0484456fdd9193ce87f-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-11373">
-<display-name>Sassuolo vs. Lazio</display-name>
-</channel>
-<programme
-start="20250914160000 +0000"
-stop="20250914190000 +0000"
-channel="ppv-11373"
->
-<title lang="en">Sassuolo vs. Lazio</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/d4ee502f3c122c87785badff955c2bee-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-11362">
