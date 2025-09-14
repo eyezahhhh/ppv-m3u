@@ -1,4 +1,26 @@
 <tv>
+<channel id="ppv-11200">
+<display-name>Los Angeles Chargers vs. Las Vegas Raiders</display-name>
+</channel>
+<programme
+start="20250916020000 +0000"
+stop="20250916050000 +0000"
+channel="ppv-11200"
+>
+<title lang="en">Los Angeles Chargers vs. Las Vegas Raiders</title>
+<sub-title>American Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>American Football</category>
+<icon src="https://ppvs.su/assets/thumb/607d501e58d006320766fac5f2826087-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-11199">
 <display-name>Tampa Bay Buccaneers vs. Houston Texans</display-name>
 </channel>
@@ -329,116 +351,6 @@ channel="ppv-11343"
 <icon src="https://ppvs.su/assets/thumb/9e11c454b825016119be8149ff49408b-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-11341">
-<display-name>Florida Gators vs. LSU Tigers</display-name>
-</channel>
-<programme
-start="20250913233000 +0000"
-stop="20250914023000 +0000"
-channel="ppv-11341"
->
-<title lang="en">Florida Gators vs. LSU Tigers</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://ppvs.su/assets/thumb/c8092b77cb66445b8a0315d2aeed43eb-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-11342">
-<display-name>Texas A&amp;M Aggies vs. Notre Dame Fighting Irish</display-name>
-</channel>
-<programme
-start="20250913233000 +0000"
-stop="20250914023000 +0000"
-channel="ppv-11342"
->
-<title lang="en">Texas A&amp;M Aggies vs. Notre Dame Fighting Irish</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://ppvs.su/assets/thumb/7975fd4eb8f02f746961bff1fc2d8726-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-11338">
-<display-name>Ohio Bobcats vs. Ohio State Buckeyes</display-name>
-</channel>
-<programme
-start="20250913230000 +0000"
-stop="20250914020000 +0000"
-channel="ppv-11338"
->
-<title lang="en">Ohio Bobcats vs. Ohio State Buckeyes</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://ppvs.su/assets/thumb/6cb5a77a8237c920caa958a538e37449-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-11339">
-<display-name>Western Michigan Broncos vs. Illinois Fighting Illini</display-name>
-</channel>
-<programme
-start="20250913230000 +0000"
-stop="20250914020000 +0000"
-channel="ppv-11339"
->
-<title lang="en">Western Michigan Broncos vs. Illinois Fighting Illini</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://ppvs.su/assets/thumb/3ab666227079287e531774bc6b944f54-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-11340">
-<display-name>Arkansas Razorbacks vs. Ole Miss Rebels</display-name>
-</channel>
-<programme
-start="20250913230000 +0000"
-stop="20250914020000 +0000"
-channel="ppv-11340"
->
-<title lang="en">Arkansas Razorbacks vs. Ole Miss Rebels</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://ppvs.su/assets/thumb/66c2fe1b90624ab1ec307bf9172204cd-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-11359">
 <display-name>Cincinnati Reds vs. Athletics</display-name>
 </channel>
@@ -549,50 +461,6 @@ channel="ppv-11355"
 <icon src="https://ppvs.su/assets/thumb/c28dd89542bcd64d85b25b86807529a4-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-11354">
-<display-name>Houston Astros vs. Atlanta Braves</display-name>
-</channel>
-<programme
-start="20250913231500 +0000"
-stop="20250914021500 +0000"
-channel="ppv-11354"
->
-<title lang="en">Houston Astros vs. Atlanta Braves</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/ee0ec30e83f42dea48e771007654f6e4-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-11353">
-<display-name>Arizona Diamondbacks vs. Minnesota Twins</display-name>
-</channel>
-<programme
-start="20250913231000 +0000"
-stop="20250914021000 +0000"
-channel="ppv-11353"
->
-<title lang="en">Arizona Diamondbacks vs. Minnesota Twins</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/f3a9af92177c789c2803e8404325120d-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-11361">
 <display-name>Türkiye vs Germany</display-name>
 </channel>
@@ -679,28 +547,6 @@ channel="ppv-11323"
 </audio>
 <category>Combat Sports</category>
 <icon src="https://ppvs.su/assets/thumb/6d83d8d8a1aeb6ccba36c4e1a049015f-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-11181">
-<display-name>Crocker vs. Donovan 2</display-name>
-</channel>
-<programme
-start="20250913180000 +0000"
-stop="20250914020000 +0000"
-channel="ppv-11181"
->
-<title lang="en">Crocker vs. Donovan 2</title>
-<sub-title>Combat Sports</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Combat Sports</category>
-<icon src="https://ppvs.su/assets/thumb/01b6edf26aade273253ee2d9197d9c84-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-11271">
@@ -1298,14 +1144,14 @@ channel="ppv-5191"
 </programme>
 
 <channel id="ppv-8008">
-<display-name>24/7 Family​​‌‌​‌​​‌​‌​‌‌​‌‌​‌​​​‌​​‌‌​​​‌‌ Guy</display-name>
+<display-name>24/7 Family‌​‌​‌‌​​‌‌​‌​‌​​‌​‌​​‌‌‌​‌​‌​​‌​ Guy</display-name>
 </channel>
 <programme
 start="20250118080000 +0000"
 stop="20250118090000 +0000"
 channel="ppv-8008"
 >
-<title lang="en">24/7 Family​​‌‌​‌​​‌​‌​‌‌​‌‌​‌​​​‌​​‌‌​​​‌‌ Guy</title>
+<title lang="en">24/7 Family‌​‌​‌‌​​‌‌​‌​‌​​‌​‌​​‌‌‌​‌​‌​​‌​ Guy</title>
 <sub-title>24/7 Streams</sub-title>
 <video>
 <present>yes</present>
