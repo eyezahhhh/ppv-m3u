@@ -329,6 +329,28 @@ channel="ppv-11194"
 <icon src="https://ppvs.su/assets/thumb/c792e4f69b60c496abb5268c4cde38b3-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-11090">
+<display-name>NFL RedZone</display-name>
+</channel>
+<programme
+start="20250914165900 +0000"
+stop="20250914235900 +0000"
+channel="ppv-11090"
+>
+<title lang="en">NFL RedZone</title>
+<sub-title>American Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>American Football</category>
+<icon src="https://ppvs.su/assets/thumb/9b88a03d3fe959c1b09d52194d20eaa5-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-11359">
 <display-name>Cincinnati Reds vs. Athletics</display-name>
 </channel>
@@ -393,28 +415,6 @@ channel="ppv-11357"
 </audio>
 <category>Baseball</category>
 <icon src="https://ppvs.su/assets/thumb/25adb7fd6882369cd4c08e9b0757623b-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-11356">
-<display-name>Colorado Rockies vs. San Diego Padres</display-name>
-</channel>
-<programme
-start="20250914004000 +0000"
-stop="20250914034000 +0000"
-channel="ppv-11356"
->
-<title lang="en">Colorado Rockies vs. San Diego Padres</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/ae2b1d17c96d982c0a6e920e0ff5579f-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-11361">
