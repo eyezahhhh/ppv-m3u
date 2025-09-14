@@ -681,6 +681,72 @@ channel="ppv-11377"
 <icon src="https://ppvs.su/assets/thumb/f93c69dbda8f9e2fef78d3d479541242-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-11395">
+<display-name>Storm at Aces (Game 1)</display-name>
+</channel>
+<programme
+start="20250915020000 +0000"
+stop="20250915044500 +0000"
+channel="ppv-11395"
+>
+<title lang="en">Storm at Aces (Game 1)</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://ppvs.su/assets/thumb/fb15b180ffaa0a5342f4a02715e9ec02-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-11397">
+<display-name>Liberty at Mercury (Game 1)</display-name>
+</channel>
+<programme
+start="20250914210000 +0000"
+stop="20250914234500 +0000"
+channel="ppv-11397"
+>
+<title lang="en">Liberty at Mercury (Game 1)</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://ppvs.su/assets/thumb/0719f4b4cbcccc317be6c9a4a571cd4c-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-11396">
+<display-name>Fever at Dream (Game 1)</display-name>
+</channel>
+<programme
+start="20250914190000 +0000"
+stop="20250914214500 +0000"
+channel="ppv-11396"
+>
+<title lang="en">Fever at Dream (Game 1)</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://ppvs.su/assets/thumb/5f768b09c85c427dd0cbd868205e7948-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-11361">
 <display-name>Türkiye vs Germany</display-name>
 </channel>
@@ -701,6 +767,28 @@ channel="ppv-11361"
 </audio>
 <category>Basketball</category>
 <icon src="https://ppvs.su/assets/thumb/addf0af8b6171c934bfb400a9e9ff582-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-11394">
+<display-name>Valkyries at Lynx (Game 1)</display-name>
+</channel>
+<programme
+start="20250914170000 +0000"
+stop="20250914194500 +0000"
+channel="ppv-11394"
+>
+<title lang="en">Valkyries at Lynx (Game 1)</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://ppvs.su/assets/thumb/5973f8010a1cf07b226d719e55f6c994-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-11360">
@@ -726,14 +814,14 @@ channel="ppv-11360"
 </programme>
 
 <channel id="ppv-11393">
-<display-name>World Series Darts: Finals (Day 3, Session 1)</display-name>
+<display-name>World Series Darts: Finals (Day 3, Session 2)</display-name>
 </channel>
 <programme
 start="20250914150000 +0000"
 stop="20250914200600 +0000"
 channel="ppv-11393"
 >
-<title lang="en">World Series Darts: Finals (Day 3, Session 1)</title>
+<title lang="en">World Series Darts: Finals (Day 3, Session 2)</title>
 <sub-title>Darts</sub-title>
 <video>
 <present>yes</present>
@@ -1298,14 +1386,14 @@ channel="ppv-5191"
 </programme>
 
 <channel id="ppv-8008">
-<display-name>24/7 Family‌​‌​‌‌​​‌​‌​‌‌‌​‌​‌​​‌​‌‌‌‌​​‌‌​ Guy</display-name>
+<display-name>24/7 Family​​​‌​‌​​‌​‌​​​​‌​​‌‌‌‌​​​‌‌​‌​​​ Guy</display-name>
 </channel>
 <programme
 start="20250118080000 +0000"
 stop="20250118090000 +0000"
 channel="ppv-8008"
 >
-<title lang="en">24/7 Family‌​‌​‌‌​​‌​‌​‌‌‌​‌​‌​​‌​‌‌‌‌​​‌‌​ Guy</title>
+<title lang="en">24/7 Family​​​‌​‌​​‌​‌​​​​‌​​‌‌‌‌​​​‌‌​‌​​​ Guy</title>
 <sub-title>24/7 Streams</sub-title>
 <video>
 <present>yes</present>
