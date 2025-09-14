@@ -1055,28 +1055,6 @@ channel="ppv-11374"
 <icon src="https://ppvs.su/assets/thumb/1b42eac0f3813820da906bbde63c115f-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-11269">
-<display-name>CA Osasuna vs. Rayo Vallecano</display-name>
-</channel>
-<programme
-start="20250914163000 +0000"
-stop="20250914193000 +0000"
-channel="ppv-11269"
->
-<title lang="en">CA Osasuna vs. Rayo Vallecano</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/a2aa75df8986a0484456fdd9193ce87f-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-11362">
 <display-name>WWE: Wrestlepalooza</display-name>
 </channel>
@@ -1144,14 +1122,14 @@ channel="ppv-5191"
 </programme>
 
 <channel id="ppv-8008">
-<display-name>24/7 Family​​‌‌​‌​​‌​‌​​​​‌​​‌​‌‌​‌‌‌‌​​​‌‌ Guy</display-name>
+<display-name>24/7 Family​​‌‌​‌​​‌​‌‌​​​​‌​​​‌​‌​‌​‌‌​‌​‌ Guy</display-name>
 </channel>
 <programme
 start="20250118080000 +0000"
 stop="20250118090000 +0000"
 channel="ppv-8008"
 >
-<title lang="en">24/7 Family​​‌‌​‌​​‌​‌​​​​‌​​‌​‌‌​‌‌‌‌​​​‌‌ Guy</title>
+<title lang="en">24/7 Family​​‌‌​‌​​‌​‌‌​​​​‌​​​‌​‌​‌​‌‌​‌​‌ Guy</title>
 <sub-title>24/7 Streams</sub-title>
 <video>
 <present>yes</present>
