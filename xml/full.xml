@@ -659,28 +659,6 @@ channel="ppv-11379"
 <icon src="https://ppvs.su/assets/thumb/51a06c427025f3654e5190fd0b5ad767-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-11377">
-<display-name>Pittsburgh Pirates vs. Washington Nationals</display-name>
-</channel>
-<programme
-start="20250914153500 +0000"
-stop="20250914183500 +0000"
-channel="ppv-11377"
->
-<title lang="en">Pittsburgh Pirates vs. Washington Nationals</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/f93c69dbda8f9e2fef78d3d479541242-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-11395">
 <display-name>Storm at Aces (Game 1)</display-name>
 </channel>
@@ -1033,138 +1011,6 @@ channel="ppv-11373"
 <icon src="https://ppvs.su/assets/thumb/d4ee502f3c122c87785badff955c2bee-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-11135">
-<display-name>Manchester City vs. Manchester United</display-name>
-</channel>
-<programme
-start="20250914153000 +0000"
-stop="20250914183000 +0000"
-channel="ppv-11135"
->
-<title lang="en">Manchester City vs. Manchester United</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/9603ff2c942127b4f57cc89e3d2e7f22-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-11322">
-<display-name>Gladbach vs. Bremen</display-name>
-</channel>
-<programme
-start="20250914153000 +0000"
-stop="20250914183000 +0000"
-channel="ppv-11322"
->
-<title lang="en">Gladbach vs. Bremen</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/0568c276e5768cedd188b16d4abf7afb-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-11278">
-<display-name>Brest vs. Paris FC</display-name>
-</channel>
-<programme
-start="20250914151500 +0000"
-stop="20250914181500 +0000"
-channel="ppv-11278"
->
-<title lang="en">Brest vs. Paris FC</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/d329dbaaac7f473f55a4b5227f020c21-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-11280">
-<display-name>FC Metz vs. Angers SCO</display-name>
-</channel>
-<programme
-start="20250914151500 +0000"
-stop="20250914181500 +0000"
-channel="ppv-11280"
->
-<title lang="en">FC Metz vs. Angers SCO</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/b3477c00c44b410ce58f9c2bcbae3807-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-11281">
-<display-name>PSG vs. RC Lens</display-name>
-</channel>
-<programme
-start="20250914151500 +0000"
-stop="20250914181500 +0000"
-channel="ppv-11281"
->
-<title lang="en">PSG vs. RC Lens</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/6044a1dc923f6d2df98f45e36880de40-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-11283">
-<display-name>Strasbourg vs. Havre AC</display-name>
-</channel>
-<programme
-start="20250914151500 +0000"
-stop="20250914181500 +0000"
-channel="ppv-11283"
->
-<title lang="en">Strasbourg vs. Havre AC</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/a51cd2afef9330d8754534e2afad562c-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-11362">
 <display-name>WWE: Wrestlepalooza</display-name>
 </channel>
@@ -1232,14 +1078,14 @@ channel="ppv-5191"
 </programme>
 
 <channel id="ppv-8008">
-<display-name>24/7 Family​​‌‌​‌​​‌​‌​‌‌​‌​‌‌​‌‌​​​​​‌​‌‌​ Guy</display-name>
+<display-name>24/7 Family​‌​​​​​​‌‌‌​‌‌​​‌​​​‌‌​​‌​‌‌​​​‌ Guy</display-name>
 </channel>
 <programme
 start="20250118080000 +0000"
 stop="20250118090000 +0000"
 channel="ppv-8008"
 >
-<title lang="en">24/7 Family​​‌‌​‌​​‌​‌​‌‌​‌​‌‌​‌‌​​​​​‌​‌‌​ Guy</title>
+<title lang="en">24/7 Family​‌​​​​​​‌‌‌​‌‌​​‌​​​‌‌​​‌​‌‌​​​‌ Guy</title>
 <sub-title>24/7 Streams</sub-title>
 <video>
 <present>yes</present>
