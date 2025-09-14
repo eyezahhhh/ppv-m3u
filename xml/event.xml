@@ -725,28 +725,6 @@ channel="ppv-11360"
 <icon src="https://ppvs.su/assets/thumb/4179b77a70473089b5ecaf39afb3c785-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-11314">
-<display-name>Canelo vs Crawford</display-name>
-</channel>
-<programme
-start="20250914010000 +0000"
-stop="20250914090000 +0000"
-channel="ppv-11314"
->
-<title lang="en">Canelo vs Crawford</title>
-<sub-title>Combat Sports</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Combat Sports</category>
-<icon src="https://ppvs.su/assets/thumb/1e757f328bbe3ec56b66ee0eff26a9fb-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-11271">
 <display-name>RCD Espanyol de Barcelona vs. RCD Mallorca</display-name>
 </channel>
