@@ -43,23 +43,21 @@
 
 #EXTINF:-1 tvg-id="ppv-11245" tvg-name="Athletic Club vs. Arsenal (16 September 2025 at 16:45)" tvg-epgid="11245" tvg-logo="https://ppvs.su/assets/thumb/6cc0798d1cd168a100489bcdee272e92-thumbnail.jpg",Athletic Club vs. Arsenal (16 September 2025 at 16:45)
 
-#EXTINF:-1 tvg-id="ppv-11271" tvg-name="RCD Espanyol de Barcelona vs. RCD Mallorca (15 September 2025 at 19:00)" tvg-epgid="11271" tvg-logo="https://ppvs.su/assets/thumb/5e9531ee465c22960bf69c26653f61e9-thumbnail.jpg",RCD Espanyol de Barcelona vs. RCD Mallorca (15 September 2025 at 19:00)
-
 #EXTINF:-1 tvg-id="ppv-11376" tvg-name="Como vs. Genoa (15 September 2025 at 18:45)" tvg-epgid="11376" tvg-logo="https://ppvs.su/assets/thumb/49ac5c34bff93304c89d8338cd74cf6d-thumbnail.jpg",Como vs. Genoa (15 September 2025 at 18:45)
 
 #EXTINF:-1 tvg-id="ppv-11362" tvg-name="WWE: Wrestlepalooza (20 September 2025 at 23:00)" tvg-epgid="11362" tvg-logo="https://ppvs.su/assets/thumb/20deb017e70b341d95f43ada087b71d4-thumbnail.jpg",WWE: Wrestlepalooza (20 September 2025 at 23:00)
-https://gg.poocloud.in/wrestlepalooza/index.m3u8?md5=2Ior4fCAWgNILXIRHxsasA&expires=1758429000&net=MjAuNTcuNzcuMjAx
+https://gg.poocloud.in/wrestlepalooza/index.m3u8?md5=2Ior4fCAWgNILXIRHxsasA&expires=1758429000&net=MTM1LjExOS4yMzYuNTE%3D
 #EXTINF:-1 tvg-id="ppv-11399" tvg-name="WWE: NXT (17 September 2025 at 00:00)" tvg-epgid="11399" tvg-logo="https://ppvs.su/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg",WWE: NXT (17 September 2025 at 00:00)
 
 #EXTINF:-1 tvg-id="ppv-11398" tvg-name="WWE: Monday Night RAW (15 September 2025 at 23:00)" tvg-epgid="11398" tvg-logo="https://ppvs.su/assets/thumb/56336f9d22c51c416e1a56afbd18f314-thumbnail.jpg",WWE: Monday Night RAW (15 September 2025 at 23:00)
 
 #EXTINF:-1 tvg-id="ppv-3716" tvg-name="(North) Korean Central Television" tvg-epgid="3716" tvg-logo="https://ppvs.su/assets/thumb/7b1146f3a2bd19175749404e676d5127-thumbnail.jpg",(North) Korean Central Television
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MTM1MGFmMDIzODI3LTk3Y2EtMDZhNC0yNTA3LWY0M2Q4NmE0/master.m3u8?md5=WL4X8jYdFikNBIPVeS8FbQ&expires=1758008048&net=MjAuNTcuNzcuMjAx
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MTM1MGFmMDIzODI3LTk3Y2EtMDZhNC0yNTA3LWY0M2Q4NmE0/master.m3u8?md5=7lqhCei7BdtTCYh61NkVSg&expires=1758009942&net=MTM1LjExOS4yMzYuNTE%3D
 #EXTINF:-1 tvg-id="ppv-5191" tvg-name="24/7 The Simpsons" tvg-epgid="5191" tvg-logo="https://thumbs.poocloud.in/thesimpsons/preview.jpg",24/7 The Simpsons
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MGQzNzI5MTE0YjQwLTVmYmEtYmE3NC1kOThlLWY2MmU4NGI4/master.m3u8?md5=WL4X8jYdFikNBIPVeS8FbQ&expires=1758008048&net=MjAuNTcuNzcuMjAx
-#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family​​​‌​‌​​​​‌‌‌​​‌​‌​​‌‌​‌‌‌​​‌​​‌ Guy" tvg-epgid="8008" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg",24/7 Family​​​‌​‌​​​​‌‌‌​​‌​‌​​‌‌​‌‌‌​​‌​​‌ Guy
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YTA5ZTU3MjFhNTI0LWRkZTktZTRlNC1mMzU4LTQwMWI0YjJk/master.m3u8?md5=WL4X8jYdFikNBIPVeS8FbQ&expires=1758008048&net=MjAuNTcuNzcuMjAx
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MGQzNzI5MTE0YjQwLTVmYmEtYmE3NC1kOThlLWY2MmU4NGI4/master.m3u8?md5=7lqhCei7BdtTCYh61NkVSg&expires=1758009942&net=MTM1LjExOS4yMzYuNTE%3D
+#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family‌​​​​‌‌‌​‌‌‌​‌‌‌‌‌‌​‌‌​​​​‌‌​​‌‌ Guy" tvg-epgid="8008" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg",24/7 Family‌​​​​‌‌‌​‌‌‌​‌‌‌‌‌‌​‌‌​​​​‌‌​​‌‌ Guy
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YTA5ZTU3MjFhNTI0LWRkZTktZTRlNC1mMzU4LTQwMWI0YjJk/master.m3u8?md5=7lqhCei7BdtTCYh61NkVSg&expires=1758009942&net=MTM1LjExOS4yMzYuNTE%3D
 #EXTINF:-1 tvg-id="ppv-3663" tvg-name="24/7 COWS" tvg-epgid="3663" tvg-logo="https://ppvs.su/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg",24/7 COWS
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8?md5=WL4X8jYdFikNBIPVeS8FbQ&expires=1758008048&net=MjAuNTcuNzcuMjAx
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8?md5=7lqhCei7BdtTCYh61NkVSg&expires=1758009942&net=MTM1LjExOS4yMzYuNTE%3D
 #EXTINF:-1 tvg-id="ppv-5112" tvg-name="24/7 South Park" tvg-epgid="5112" tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg",24/7 South Park
-https://gg.poocloud.in/southpark/index.m3u8?md5=mrLBn2JDXptaX72YXCoZ7w&expires=1758008049&net=MjAuNTcuNzcuMjAx
+https://gg.poocloud.in/southpark/index.m3u8?md5=BVl1jL5MH6zkWD3yXhioBg&expires=1758009943&net=MTM1LjExOS4yMzYuNTE%3D

@@ -483,28 +483,6 @@ channel="ppv-11245"
 <icon src="https://ppvs.su/assets/thumb/6cc0798d1cd168a100489bcdee272e92-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-11271">
-<display-name>RCD Espanyol de Barcelona vs. RCD Mallorca</display-name>
-</channel>
-<programme
-start="20250915190000 +0000"
-stop="20250915220000 +0000"
-channel="ppv-11271"
->
-<title lang="en">RCD Espanyol de Barcelona vs. RCD Mallorca</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/5e9531ee465c22960bf69c26653f61e9-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-11376">
 <display-name>Como vs. Genoa</display-name>
 </channel>
