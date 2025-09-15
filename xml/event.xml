@@ -219,28 +219,6 @@ channel="ppv-11424"
 <icon src="https://ppvs.su/assets/thumb/e216669a1ca4aeaaa36df595d5b7f8ff-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-11395">
-<display-name>Storm at Aces (Game 1)</display-name>
-</channel>
-<programme
-start="20250915020000 +0000"
-stop="20250915044500 +0000"
-channel="ppv-11395"
->
-<title lang="en">Storm at Aces (Game 1)</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://ppvs.su/assets/thumb/fb15b180ffaa0a5342f4a02715e9ec02-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-11246">
 <display-name>Real Madrid vs. Marseille</display-name>
 </channel>
