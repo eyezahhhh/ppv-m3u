@@ -65,28 +65,6 @@ channel="ppv-11198"
 <icon src="https://ppvs.su/assets/thumb/1dfac139e4eddee355b7f9e99a92c043-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-11391">
-<display-name>New York Yankees vs. Boston Red Sox</display-name>
-</channel>
-<programme
-start="20250914230000 +0000"
-stop="20250915020000 +0000"
-channel="ppv-11391"
->
-<title lang="en">New York Yankees vs. Boston Red Sox</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/73c97bf81e8ee14b84f64803ce02d3a6-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-11395">
 <display-name>Storm at Aces (Game 1)</display-name>
 </channel>
