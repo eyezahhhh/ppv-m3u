@@ -43,28 +43,6 @@ channel="ppv-11199"
 <icon src="https://ppvs.su/assets/thumb/f8b2dd164f22f32b03397082b6920b9e-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-11198">
-<display-name>Atlanta Falcons vs. Minnesota Vikings</display-name>
-</channel>
-<programme
-start="20250915002000 +0000"
-stop="20250915032000 +0000"
-channel="ppv-11198"
->
-<title lang="en">Atlanta Falcons vs. Minnesota Vikings</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://ppvs.su/assets/thumb/1dfac139e4eddee355b7f9e99a92c043-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-11395">
 <display-name>Storm at Aces (Game 1)</display-name>
 </channel>
