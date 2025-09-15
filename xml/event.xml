@@ -219,6 +219,94 @@ channel="ppv-11424"
 <icon src="https://ppvs.su/assets/thumb/e216669a1ca4aeaaa36df595d5b7f8ff-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-11252">
+<display-name>Paris vs. Atalanta</display-name>
+</channel>
+<programme
+start="20250917190000 +0000"
+stop="20250917220000 +0000"
+channel="ppv-11252"
+>
+<title lang="en">Paris vs. Atalanta</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/c4fdfcb930c275d43a7941dea371ab5c-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-11253">
+<display-name>Bayern München vs. Chelsea</display-name>
+</channel>
+<programme
+start="20250917190000 +0000"
+stop="20250917220000 +0000"
+channel="ppv-11253"
+>
+<title lang="en">Bayern München vs. Chelsea</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/86bd9a7659647e7e23837992c02db4fd-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-11254">
+<display-name>Liverpool vs. Atleti</display-name>
+</channel>
+<programme
+start="20250917190000 +0000"
+stop="20250917220000 +0000"
+channel="ppv-11254"
+>
+<title lang="en">Liverpool vs. Atleti</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/055a470b8c5797706cab75c25a849d10-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-11255">
+<display-name>Ajax vs. Inter</display-name>
+</channel>
+<programme
+start="20250917190000 +0000"
+stop="20250917220000 +0000"
+channel="ppv-11255"
+>
+<title lang="en">Ajax vs. Inter</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/9cd8cb871842d1e43779d5863abd94db-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-11250">
 <display-name>Olympiacos vs. Pafos</display-name>
 </channel>
