@@ -285,28 +285,6 @@ channel="ppv-11473"
 <icon src="https://ppvs.su/assets/thumb/efcccfa2b9ed5d7ac1cd4bcbc0ca5521-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-11472">
-<display-name>Chicago Cubs vs. Pittsburgh Pirates</display-name>
-</channel>
-<programme
-start="20250917163500 +0000"
-stop="20250917193500 +0000"
-channel="ppv-11472"
->
-<title lang="en">Chicago Cubs vs. Pittsburgh Pirates</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/e216669a1ca4aeaaa36df595d5b7f8ff-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-11487">
 <display-name>Alahli SC vs Unicaja</display-name>
 </channel>
@@ -701,50 +679,6 @@ channel="ppv-11449"
 </audio>
 <category>Football</category>
 <icon src="https://ppvs.su/assets/thumb/3bac1a9cd01590ac3bac714bd0663c20-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-11250">
-<display-name>Olympiacos vs. Pafos</display-name>
-</channel>
-<programme
-start="20250917164500 +0000"
-stop="20250917194500 +0000"
-channel="ppv-11250"
->
-<title lang="en">Olympiacos vs. Pafos</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/104c7aaad8c428f39dabb9674d6720b8-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-11251">
-<display-name>Slavia Praha vs. Bodø/Glimt</display-name>
-</channel>
-<programme
-start="20250917164500 +0000"
-stop="20250917194500 +0000"
-channel="ppv-11251"
->
-<title lang="en">Slavia Praha vs. Bodø/Glimt</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/e1013659b9ad285a268fbbb75b00ba8d-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-11362">
