@@ -22,11 +22,11 @@
 #EXTINF:-1 tvg-id="ppv-11530" tvg-name="Toronto Blue Jays vs. Tampa Bay Rays (18 September 2025 at 17:10)" tvg-epgid="11530" tvg-logo="https://ppvs.su/assets/thumb/9c4f4b8b710aca0dae6a9dfab93dcfad-thumbnail.jpg",Toronto Blue Jays vs. Tampa Bay Rays (18 September 2025 at 17:10)
 
 #EXTINF:-1 tvg-id="ppv-11527" tvg-name="Utsunomiya Brex vs Unicaja (19 September 2025 at 12:00)" tvg-epgid="11527" tvg-logo="https://ppvs.su/assets/thumb/0236bcf2d3283d6f9a10aedb9fb00d5d-thumbnail.jpg",Utsunomiya Brex vs Unicaja (19 September 2025 at 12:00)
-https://gg.poocloud.in/courtside-1891-208019/index.m3u8?md5=goYyq08Uczoz_wcbymx6Vg&expires=1758295800&net=NjQuMjM2LjE0Mi4yMjk%3D
+https://gg.poocloud.in/courtside-1891-208019/index.m3u8?md5=goYyq08Uczoz_wcbymx6Vg&expires=1758295800&net=MTcyLjE4NC4yMjAuMjEy
 #EXTINF:-1 tvg-id="ppv-11526" tvg-name="Illawarra Hawks vs Flamengo (19 September 2025 at 09:00)" tvg-epgid="11526" tvg-logo="https://ppvs.su/assets/thumb/79250a8014b9c06f73fa5327cc90f939-thumbnail.jpg",Illawarra Hawks vs Flamengo (19 September 2025 at 09:00)
-https://gg.poocloud.in/courtside-1891-213295/index.m3u8?md5=H_vLlkJ2wGIPtPpm6JJ-mA&expires=1758285000&net=NjQuMjM2LjE0Mi4yMjk%3D
-#EXTINF:-1 tvg-id="ppv-11487" tvg-name="Alahli SC vs Unicaja (18 September 2025 at 12:00)" tvg-epgid="11487" tvg-logo="https://ppvs.su/assets/thumb/f70da09d492ffdbd742aa69c65a5997e-thumbnail.jpg",Alahli SC vs Unicaja (18 September 2025 at 12:00)
-https://gg.poocloud.in/courtside-1891-207852/index.m3u8?md5=nbdSl9FwK_DK0XmbJYUyNw&expires=1758209400&net=NjQuMjM2LjE0Mi4yMjk%3D
+https://gg.poocloud.in/courtside-1891-213295/index.m3u8?md5=H_vLlkJ2wGIPtPpm6JJ-mA&expires=1758285000&net=MTcyLjE4NC4yMjAuMjEy
+#EXTINF:-1 tvg-id="ppv-11460" tvg-name="FC Nantes vs. Rennes (20 September 2025 at 15:00)" tvg-epgid="11460" tvg-logo="https://ppvs.su/assets/thumb/0ab1e4ba09b2f0bd76bc0f40594c0371-thumbnail.jpg",FC Nantes vs. Rennes (20 September 2025 at 15:00)
+
 #EXTINF:-1 tvg-id="ppv-11490" tvg-name="Real Madrid vs. RCD Espanyol de Barcelona (20 September 2025 at 14:15)" tvg-epgid="11490" tvg-logo="https://ppvs.su/assets/thumb/af456f3ccf95b8a8d897a0a22596deef-thumbnail.jpg",Real Madrid vs. RCD Espanyol de Barcelona (20 September 2025 at 14:15)
 
 #EXTINF:-1 tvg-id="ppv-11406" tvg-name="Brighton and Hove Albion vs. Tottenham Hotspur (20 September 2025 at 14:00)" tvg-epgid="11406" tvg-logo="https://ppvs.su/assets/thumb/c58b66ea28b8334ef3c597425b11fb2f-thumbnail.jpg",Brighton and Hove Albion vs. Tottenham Hotspur (20 September 2025 at 14:00)
@@ -73,17 +73,27 @@ https://gg.poocloud.in/courtside-1891-207852/index.m3u8?md5=nbdSl9FwK_DK0XmbJYUy
 
 #EXTINF:-1 tvg-id="ppv-11257" tvg-name="Copenhagen vs. Leverkusen (18 September 2025 at 16:45)" tvg-epgid="11257" tvg-logo="https://ppvs.su/assets/thumb/9554aec2891b78380bc0ebc1dad80435-thumbnail.jpg",Copenhagen vs. Leverkusen (18 September 2025 at 16:45)
 
+#EXTINF:-1 tvg-id="ppv-11542" tvg-name="F1: Azerbaijan Grand Prix (Race) (21 September 2025 at 11:00)" tvg-epgid="11542" tvg-logo="https://ppvs.su/assets/thumb/e10875960bc12d9c502d3d16eb8157cc-thumbnail.jpg",F1: Azerbaijan Grand Prix (Race) (21 September 2025 at 11:00)
+https://gg.poocloud.in/skyf1/index.m3u8?md5=vN3oaQAxU4ytSSOp2YyWxg&expires=1758468600&net=MTcyLjE4NC4yMjAuMjEy
+#EXTINF:-1 tvg-id="ppv-11541" tvg-name="F1: Azerbaijan Grand Prix (Qualifying) (20 September 2025 at 12:00)" tvg-epgid="11541" tvg-logo="https://ppvs.su/assets/thumb/e10875960bc12d9c502d3d16eb8157cc-thumbnail.jpg",F1: Azerbaijan Grand Prix (Qualifying) (20 September 2025 at 12:00)
+https://gg.poocloud.in/skyf1/index.m3u8?md5=JPzsWgh4nfvYTxwhkvC5vA&expires=1758382200&net=MTcyLjE4NC4yMjAuMjEy
+#EXTINF:-1 tvg-id="ppv-11540" tvg-name="F1: Azerbaijan Grand Prix (FP3) (20 September 2025 at 08:30)" tvg-epgid="11540" tvg-logo="https://ppvs.su/assets/thumb/e10875960bc12d9c502d3d16eb8157cc-thumbnail.jpg",F1: Azerbaijan Grand Prix (FP3) (20 September 2025 at 08:30)
+https://gg.poocloud.in/skyf1/index.m3u8?md5=r7Mt4iM31k_I_UYo79WlpA&expires=1758366000&net=MTcyLjE4NC4yMjAuMjEy
+#EXTINF:-1 tvg-id="ppv-11539" tvg-name="F1: Azerbaijan Grand Prix (FP2) (19 September 2025 at 12:00)" tvg-epgid="11539" tvg-logo="https://ppvs.su/assets/thumb/e10875960bc12d9c502d3d16eb8157cc-thumbnail.jpg",F1: Azerbaijan Grand Prix (FP2) (19 September 2025 at 12:00)
+https://gg.poocloud.in/skyf1/index.m3u8?md5=ZrwK_dDSjYCSwt6yXJGb7Q&expires=1758292200&net=MTcyLjE4NC4yMjAuMjEy
+#EXTINF:-1 tvg-id="ppv-11538" tvg-name="F1: Azerbaijan Grand Prix (FP1) (19 September 2025 at 08:30)" tvg-epgid="11538" tvg-logo="https://ppvs.su/assets/thumb/e10875960bc12d9c502d3d16eb8157cc-thumbnail.jpg",F1: Azerbaijan Grand Prix (FP1) (19 September 2025 at 08:30)
+https://gg.poocloud.in/skyf1/index.m3u8?md5=-nvddUb2f5YwoO6tmoJgUQ&expires=1758279600&net=MTcyLjE4NC4yMjAuMjEy
 #EXTINF:-1 tvg-id="ppv-11362" tvg-name="WWE: Wrestlepalooza (20 September 2025 at 23:00)" tvg-epgid="11362" tvg-logo="https://ppvs.su/assets/thumb/20deb017e70b341d95f43ada087b71d4-thumbnail.jpg",WWE: Wrestlepalooza (20 September 2025 at 23:00)
-https://gg.poocloud.in/wrestlepalooza/index.m3u8?md5=2Ior4fCAWgNILXIRHxsasA&expires=1758429000&net=NjQuMjM2LjE0Mi4yMjk%3D
+https://gg.poocloud.in/wrestlepalooza/index.m3u8?md5=2Ior4fCAWgNILXIRHxsasA&expires=1758429000&net=MTcyLjE4NC4yMjAuMjEy
 #EXTINF:-1 tvg-id="ppv-11402" tvg-name="WWE: Friday Night Smackdown (20 September 2025 at 00:00)" tvg-epgid="11402" tvg-logo="https://ppvs.su/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg",WWE: Friday Night Smackdown (20 September 2025 at 00:00)
 
 #EXTINF:-1 tvg-id="ppv-11401" tvg-name="TNA: Impact (19 September 2025 at 00:00)" tvg-epgid="11401" tvg-logo="https://ppvs.su/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg",TNA: Impact (19 September 2025 at 00:00)
 
 #EXTINF:-1 tvg-id="ppv-3716" tvg-name="(North) Korean Central Television" tvg-epgid="3716" tvg-logo="https://ppvs.su/assets/thumb/7b1146f3a2bd19175749404e676d5127-thumbnail.jpg",(North) Korean Central Television
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MTM1MGFmMDIzODI3LTk3Y2EtMDZhNC0yNTA3LWY0M2Q4NmE0/master.m3u8?md5=Uy_NSu17IerQ0sPV75Zd8A&expires=1758249411&net=NjQuMjM2LjE0Mi4yMjk%3D
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MTM1MGFmMDIzODI3LTk3Y2EtMDZhNC0yNTA3LWY0M2Q4NmE0/master.m3u8?md5=ww1RwH10I_EXsGq--McSiQ&expires=1758251150&net=MTcyLjE4NC4yMjAuMjEy
 #EXTINF:-1 tvg-id="ppv-5191" tvg-name="24/7 The Simpsons" tvg-epgid="5191" tvg-logo="https://thumbs.poocloud.in/thesimpsons/preview.jpg",24/7 The Simpsons
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MGQzNzI5MTE0YjQwLTVmYmEtYmE3NC1kOThlLWY2MmU4NGI4/master.m3u8?md5=Uy_NSu17IerQ0sPV75Zd8A&expires=1758249411&net=NjQuMjM2LjE0Mi4yMjk%3D
-#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family​‌​​​​​​‌‌‌​‌‌​​‌​​​‌‌‌​‌‌‌​​‌​‌ Guy" tvg-epgid="8008" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg",24/7 Family​‌​​​​​​‌‌‌​‌‌​​‌​​​‌‌‌​‌‌‌​​‌​‌ Guy
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YTA5ZTU3MjFhNTI0LWRkZTktZTRlNC1mMzU4LTQwMWI0YjJk/master.m3u8?md5=Uy_NSu17IerQ0sPV75Zd8A&expires=1758249411&net=NjQuMjM2LjE0Mi4yMjk%3D
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MGQzNzI5MTE0YjQwLTVmYmEtYmE3NC1kOThlLWY2MmU4NGI4/master.m3u8?md5=ww1RwH10I_EXsGq--McSiQ&expires=1758251150&net=MTcyLjE4NC4yMjAuMjEy
+#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family‌​‌​‌‌​​‌​‌‌‌​​​‌‌​‌‌‌​​‌‌​‌​‌​​ Guy" tvg-epgid="8008" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg",24/7 Family‌​‌​‌‌​​‌​‌‌‌​​​‌‌​‌‌‌​​‌‌​‌​‌​​ Guy
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YTA5ZTU3MjFhNTI0LWRkZTktZTRlNC1mMzU4LTQwMWI0YjJk/master.m3u8?md5=Fo4U8LOd_cMTW03RM1GbCA&expires=1758251151&net=MTcyLjE4NC4yMjAuMjEy
 #EXTINF:-1 tvg-id="ppv-3663" tvg-name="24/7 COWS" tvg-epgid="3663" tvg-logo="https://ppvs.su/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg",24/7 COWS
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8?md5=AK12Q3ospW_SaHWfrhY8Aw&expires=1758249412&net=NjQuMjM2LjE0Mi4yMjk%3D
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8?md5=Fo4U8LOd_cMTW03RM1GbCA&expires=1758251151&net=MTcyLjE4NC4yMjAuMjEy
