@@ -1649,28 +1649,6 @@ channel="ppv-11462"
 <icon src="https://ppvs.su/assets/thumb/f10d3de7f0bb43696408d4be44000ad0-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-11499">
-<display-name>Stuttgart vs. St. Pauli</display-name>
-</channel>
-<programme
-start="20250919183000 +0000"
-stop="20250919213000 +0000"
-channel="ppv-11499"
->
-<title lang="en">Stuttgart vs. St. Pauli</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/daed2dcd52e1f60e37d50b36c0cb660a-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-11542">
 <display-name>F1: Azerbaijan Grand Prix (Race)</display-name>
 </channel>
