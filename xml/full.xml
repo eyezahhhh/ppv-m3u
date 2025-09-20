@@ -1847,94 +1847,6 @@ channel="ppv-11413"
 <icon src="https://ppvs.su/assets/thumb/9344104caca3da200a49ee914dcd1284-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-11500">
-<display-name>Augsburg vs. Mainz</display-name>
-</channel>
-<programme
-start="20250920133000 +0000"
-stop="20250920163000 +0000"
-channel="ppv-11500"
->
-<title lang="en">Augsburg vs. Mainz</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/b0941ff441106875b8d684c691f71806-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-11501">
-<display-name>Hamburg vs. Heidenheim</display-name>
-</channel>
-<programme
-start="20250920133000 +0000"
-stop="20250920163000 +0000"
-channel="ppv-11501"
->
-<title lang="en">Hamburg vs. Heidenheim</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/c9be24c7a03e5e131d16ba4836ee2d8b-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-11502">
-<display-name>Hoffenheim vs. Bayern</display-name>
-</channel>
-<programme
-start="20250920133000 +0000"
-stop="20250920163000 +0000"
-channel="ppv-11502"
->
-<title lang="en">Hoffenheim vs. Bayern</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/2b3268c31a4719567a44758f91dcf1ff-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-11503">
-<display-name>Bremen vs. Freiburg</display-name>
-</channel>
-<programme
-start="20250920133000 +0000"
-stop="20250920163000 +0000"
-channel="ppv-11503"
->
-<title lang="en">Bremen vs. Freiburg</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/68ddb3310fa579e70b697b7526728bbe-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-11542">
 <display-name>F1: Azerbaijan Grand Prix (Race)</display-name>
 </channel>
@@ -1955,6 +1867,50 @@ channel="ppv-11542"
 </audio>
 <category>Motorsports</category>
 <icon src="https://ppvs.su/assets/thumb/e10875960bc12d9c502d3d16eb8157cc-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-11593">
+<display-name>SMX Finals: Las Vegas</display-name>
+</channel>
+<programme
+start="20250921013000 +0000"
+stop="20250921053000 +0000"
+channel="ppv-11593"
+>
+<title lang="en">SMX Finals: Las Vegas</title>
+<sub-title>Motorsports</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Motorsports</category>
+<icon src="https://ppvs.su/assets/thumb/aa0f3578d5f577b6af2857ac548c27af-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-11592">
+<display-name>SMX Finals: Las Vegas (Qualifying)</display-name>
+</channel>
+<programme
+start="20250920203000 +0000"
+stop="20250921003000 +0000"
+channel="ppv-11592"
+>
+<title lang="en">SMX Finals: Las Vegas (Qualifying)</title>
+<sub-title>Motorsports</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Motorsports</category>
+<icon src="https://ppvs.su/assets/thumb/aa0f3578d5f577b6af2857ac548c27af-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-11403">
@@ -2046,14 +2002,14 @@ channel="ppv-5191"
 </programme>
 
 <channel id="ppv-8008">
-<display-name>24/7 Family‌​​‌​​​‌‌​​​​‌​​​‌‌​​‌‌‌​‌​​​​​‌ Guy</display-name>
+<display-name>24/7 Family‌​​‌​​​‌‌​​​​‌​​​‌‌​​‌​​​‌​​​​​‌ Guy</display-name>
 </channel>
 <programme
 start="20250118080000 +0000"
 stop="20250118090000 +0000"
 channel="ppv-8008"
 >
-<title lang="en">24/7 Family‌​​‌​​​‌‌​​​​‌​​​‌‌​​‌‌‌​‌​​​​​‌ Guy</title>
+<title lang="en">24/7 Family‌​​‌​​​‌‌​​​​‌​​​‌‌​​‌​​​‌​​​​​‌ Guy</title>
 <sub-title>24/7 Streams</sub-title>
 <video>
 <present>yes</present>
