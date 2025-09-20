@@ -373,94 +373,6 @@ channel="ppv-11557"
 <icon src="https://ppvs.su/assets/thumb/1ec6fdcdc40926c1ae8de07ddf5d6239-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-11554">
-<display-name>Cleveland Guardians vs. Minnesota Twins</display-name>
-</channel>
-<programme
-start="20250920001000 +0000"
-stop="20250920031000 +0000"
-channel="ppv-11554"
->
-<title lang="en">Cleveland Guardians vs. Minnesota Twins</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/5eea39b2bd5877d4bdb698b606914656-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-11555">
-<display-name>Seattle Mariners vs. Houston Astros</display-name>
-</channel>
-<programme
-start="20250920001000 +0000"
-stop="20250920031000 +0000"
-channel="ppv-11555"
->
-<title lang="en">Seattle Mariners vs. Houston Astros</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/c510313f19f540f73030f5d14c56221b-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-11556">
-<display-name>Los Angeles Angels vs. Colorado Rockies</display-name>
-</channel>
-<programme
-start="20250920001000 +0000"
-stop="20250920031000 +0000"
-channel="ppv-11556"
->
-<title lang="en">Los Angeles Angels vs. Colorado Rockies</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/0708f91150e0c9ff97db48b76b97882b-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-11553">
-<display-name>Miami Marlins vs. Texas Rangers</display-name>
-</channel>
-<programme
-start="20250920000500 +0000"
-stop="20250920030500 +0000"
-channel="ppv-11553"
->
-<title lang="en">Miami Marlins vs. Texas Rangers</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/8797dfbcac5ab53eac3dab63f0003352-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-11545">
 <display-name>Alahli SC vs Utsunomiya Brex</display-name>
 </channel>
@@ -1561,28 +1473,6 @@ channel="ppv-11362"
 <icon src="https://ppvs.su/assets/thumb/20deb017e70b341d95f43ada087b71d4-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-11402">
-<display-name>WWE: Friday Night Smackdown</display-name>
-</channel>
-<programme
-start="20250920000000 +0000"
-stop="20250920030000 +0000"
-channel="ppv-11402"
->
-<title lang="en">WWE: Friday Night Smackdown</title>
-<sub-title>Wrestling</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Wrestling</category>
-<icon src="https://ppvs.su/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-3716">
 <display-name>(North) Korean Central Television</display-name>
 </channel>
@@ -1628,14 +1518,14 @@ channel="ppv-5191"
 </programme>
 
 <channel id="ppv-8008">
-<display-name>24/7 Family‌​​​​​​​​​​‌‌​​​‌​‌​​​​​‌‌‌‌​‌​‌ Guy</display-name>
+<display-name>24/7 Family​​‌‌​‌​​‌​​‌‌‌‌‌‌‌‌‌​‌​​​‌​‌​​​​ Guy</display-name>
 </channel>
 <programme
 start="20250118080000 +0000"
 stop="20250118090000 +0000"
 channel="ppv-8008"
 >
-<title lang="en">24/7 Family‌​​​​​​​​​​‌‌​​​‌​‌​​​​​‌‌‌‌​‌​‌ Guy</title>
+<title lang="en">24/7 Family​​‌‌​‌​​‌​​‌‌‌‌‌‌‌‌‌​‌​​​‌​‌​​​​ Guy</title>
 <sub-title>24/7 Streams</sub-title>
 <video>
 <present>yes</present>
