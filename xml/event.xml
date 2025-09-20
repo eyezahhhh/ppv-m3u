@@ -1671,28 +1671,6 @@ channel="ppv-11541"
 <icon src="https://ppvs.su/assets/thumb/e10875960bc12d9c502d3d16eb8157cc-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-11540">
-<display-name>F1: Azerbaijan Grand Prix (FP3)</display-name>
-</channel>
-<programme
-start="20250920083000 +0000"
-stop="20250920103000 +0000"
-channel="ppv-11540"
->
-<title lang="en">F1: Azerbaijan Grand Prix (FP3)</title>
-<sub-title>Motorsports</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Motorsports</category>
-<icon src="https://ppvs.su/assets/thumb/e10875960bc12d9c502d3d16eb8157cc-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-11403">
 <display-name>AEW: Saturday Night Collision</display-name>
 </channel>
