@@ -989,28 +989,6 @@ channel="ppv-11559"
 <icon src="https://ppvs.su/assets/thumb/5d34626407c1eb07daaa103187625c64-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-11545">
-<display-name>Alahli SC vs Utsunomiya Brex</display-name>
-</channel>
-<programme
-start="20250920120000 +0000"
-stop="20250920150000 +0000"
-channel="ppv-11545"
->
-<title lang="en">Alahli SC vs Utsunomiya Brex</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://ppvs.su/assets/thumb/2de0eb1f14809d624c3f4e6a80791ba1-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-11497">
 <display-name>FC Barcelona vs. Getafe CF</display-name>
 </channel>
@@ -1935,28 +1913,6 @@ channel="ppv-11463"
 <icon src="https://ppvs.su/assets/thumb/73719db7450d8623026ed5d5c38553ec-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-11489">
-<display-name>Girona FC vs. Levante UD</display-name>
-</channel>
-<programme
-start="20250920120000 +0000"
-stop="20250920150000 +0000"
-channel="ppv-11489"
->
-<title lang="en">Girona FC vs. Levante UD</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/491a36a6e52789ebd9d5c9a095762c4a-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-11542">
 <display-name>F1: Azerbaijan Grand Prix (Race)</display-name>
 </channel>
@@ -1966,28 +1922,6 @@ stop="20250921150000 +0000"
 channel="ppv-11542"
 >
 <title lang="en">F1: Azerbaijan Grand Prix (Race)</title>
-<sub-title>Motorsports</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Motorsports</category>
-<icon src="https://ppvs.su/assets/thumb/e10875960bc12d9c502d3d16eb8157cc-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-11541">
-<display-name>F1: Azerbaijan Grand Prix (Qualifying)</display-name>
-</channel>
-<programme
-start="20250920120000 +0000"
-stop="20250920150000 +0000"
-channel="ppv-11541"
->
-<title lang="en">F1: Azerbaijan Grand Prix (Qualifying)</title>
 <sub-title>Motorsports</sub-title>
 <video>
 <present>yes</present>
