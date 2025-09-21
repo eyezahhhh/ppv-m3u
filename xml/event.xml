@@ -637,6 +637,28 @@ channel="ppv-11596"
 <icon src="https://ppvs.su/assets/thumb/9229ef765f31f9da60a2f7dae749f70c-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-11613">
+<display-name>Bursaspor Basketbol v PAOK mateco</display-name>
+</channel>
+<programme
+start="20250921133000 +0000"
+stop="20250921163000 +0000"
+channel="ppv-11613"
+>
+<title lang="en">Bursaspor Basketbol v PAOK mateco</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://ppvs.su/assets/thumb/9dc066f434622cb3263cb168cdc0a66d-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-11612">
 <display-name>Windrose Giants Antwerp v Pallacanestro Reggiana</display-name>
 </channel>
