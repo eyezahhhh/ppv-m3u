@@ -59,10 +59,18 @@
 
 #EXTINF:-1 tvg-id="ppv-11596" tvg-name="New York Yankees vs. Baltimore Orioles (21 September 2025 at 17:35)" tvg-epgid="11596" tvg-logo="https://ppvs.su/assets/thumb/9229ef765f31f9da60a2f7dae749f70c-thumbnail.jpg",New York Yankees vs. Baltimore Orioles (21 September 2025 at 17:35)
 
+#EXTINF:-1 tvg-id="ppv-11612" tvg-name="Windrose Giants Antwerp v Pallacanestro Reggiana (21 September 2025 at 11:15)" tvg-epgid="11612" tvg-logo="https://ppvs.su/assets/thumb/de824cded0cc3261a8a6d2ea75080aad-thumbnail.jpg",Windrose Giants Antwerp v Pallacanestro Reggiana (21 September 2025 at 11:15)
+https://gg.poocloud.in/courtside-1891-214429/index.m3u8?md5=_7JNzs0e1ZLu3ukPgTZ1NQ&expires=1758465900&net=MTcyLjE3Mi44Ny44NA%3D%3D
+#EXTINF:-1 tvg-id="ppv-11611" tvg-name="Unicaja vs NBA G League United (21 September 2025 at 11:00)" tvg-epgid="11611" tvg-logo="https://ppvs.su/assets/thumb/5f2857c996237d5cf171ef72f3a3c332-thumbnail.jpg",Unicaja vs NBA G League United (21 September 2025 at 11:00)
+https://gg.poocloud.in/courtside-1891-214536/index.m3u8?md5=7ejMd9vdAfM9-Ii-np25oQ&expires=1758465000&net=MTcyLjE3Mi44Ny44NA%3D%3D
+#EXTINF:-1 tvg-id="ppv-11610" tvg-name="Alahli SC vs Flamengo (21 September 2025 at 08:00)" tvg-epgid="11610" tvg-logo="https://ppvs.su/assets/thumb/a986bd5212d5cc88dac37ccb0c6f9178-thumbnail.jpg",Alahli SC vs Flamengo (21 September 2025 at 08:00)
+https://gg.poocloud.in/courtside-1891-214537/index.m3u8?md5=SqfY-ivnAzRYLq-qWhwGQA&expires=1758454200&net=MTcyLjE3Mi44Ny44NA%3D%3D
+#EXTINF:-1 tvg-id="ppv-11609" tvg-name="Utsunomiya Brex vs Illawarra Hawks (21 September 2025 at 05:00)" tvg-epgid="11609" tvg-logo="https://ppvs.su/assets/thumb/2619d5a9314fc12c50ee38a32b518bdb-thumbnail.jpg",Utsunomiya Brex vs Illawarra Hawks (21 September 2025 at 05:00)
+https://gg.poocloud.in/courtside-1891-214538/index.m3u8?md5=-jENryYLH7X5z_RLGjxoZQ&expires=1758443400&net=MTcyLjE3Mi44Ny44NA%3D%3D
 #EXTINF:-1 tvg-id="ppv-11471" tvg-name="Napoli vs. Pisa (22 September 2025 at 18:45)" tvg-epgid="11471" tvg-logo="https://ppvs.su/assets/thumb/d65d076b02db76be7786f45e55f8cd44-thumbnail.jpg",Napoli vs. Pisa (22 September 2025 at 18:45)
 
 #EXTINF:-1 tvg-id="ppv-11595" tvg-name="Ballon d'Or 2025 (22 September 2025 at 18:00)" tvg-epgid="11595" tvg-logo="https://ppvs.su/assets/thumb/72ed8ccd4c4271b0333de3586b27a9d6-thumbnail.jpg",Ballon d'Or 2025 (22 September 2025 at 18:00)
-https://gg.poocloud.in/cbs_golazo/index.m3u8?md5=1C3EgLh5aehrbQX0pydkzQ&expires=1758580200&net=MTcyLjE3OC4xMTkuMTEz
+https://gg.poocloud.in/cbs_golazo/index.m3u8?md5=1C3EgLh5aehrbQX0pydkzQ&expires=1758580200&net=MTcyLjE3Mi44Ny44NA%3D%3D
 #EXTINF:-1 tvg-id="ppv-11497" tvg-name="FC Barcelona vs. Getafe CF (21 September 2025 at 19:00)" tvg-epgid="11497" tvg-logo="https://ppvs.su/assets/thumb/2b7f63460558d4425bbc143161aa193b-thumbnail.jpg",FC Barcelona vs. Getafe CF (21 September 2025 at 19:00)
 
 #EXTINF:-1 tvg-id="ppv-11455" tvg-name="OM vs. PSG (21 September 2025 at 18:45)" tvg-epgid="11455" tvg-logo="https://ppvs.su/assets/thumb/0bce53559ae1cd4e6c796cd542c6b8ca-thumbnail.jpg",OM vs. PSG (21 September 2025 at 18:45)
@@ -104,16 +112,16 @@ https://gg.poocloud.in/cbs_golazo/index.m3u8?md5=1C3EgLh5aehrbQX0pydkzQ&expires=
 #EXTINF:-1 tvg-id="ppv-11466" tvg-name="Lazio vs. Roma (21 September 2025 at 10:30)" tvg-epgid="11466" tvg-logo="https://ppvs.su/assets/thumb/f74d1744149840b8fc6d4b8b2c355988-thumbnail.jpg",Lazio vs. Roma (21 September 2025 at 10:30)
 
 #EXTINF:-1 tvg-id="ppv-11542" tvg-name="F1: Azerbaijan Grand Prix (Race) (21 September 2025 at 11:00)" tvg-epgid="11542" tvg-logo="https://ppvs.su/assets/thumb/e10875960bc12d9c502d3d16eb8157cc-thumbnail.jpg",F1: Azerbaijan Grand Prix (Race) (21 September 2025 at 11:00)
-https://gg.poocloud.in/skyf1/index.m3u8?md5=vN3oaQAxU4ytSSOp2YyWxg&expires=1758468600&net=MTcyLjE3OC4xMTkuMTEz
+https://gg.poocloud.in/skyf1/index.m3u8?md5=vN3oaQAxU4ytSSOp2YyWxg&expires=1758468600&net=MTcyLjE3Mi44Ny44NA%3D%3D
 #EXTINF:-1 tvg-id="ppv-11593" tvg-name="SMX Finals: Las Vegas (21 September 2025 at 01:30)" tvg-epgid="11593" tvg-logo="https://ppvs.su/assets/thumb/aa0f3578d5f577b6af2857ac548c27af-thumbnail.jpg",SMX Finals: Las Vegas (21 September 2025 at 01:30)
-https://gg.poocloud.in/supercross/index.m3u8?md5=3Ve_3H2CebcO7uatB_8cSQ&expires=1758434400&net=MTcyLjE3OC4xMTkuMTEz
+https://gg.poocloud.in/supercross/index.m3u8?md5=3Ve_3H2CebcO7uatB_8cSQ&expires=1758434400&net=MTcyLjE3Mi44Ny44NA%3D%3D
 #EXTINF:-1 tvg-id="ppv-3716" tvg-name="(North) Korean Central Television" tvg-epgid="3716" tvg-logo="https://ppvs.su/assets/thumb/7b1146f3a2bd19175749404e676d5127-thumbnail.jpg",(North) Korean Central Television
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MTM1MGFmMDIzODI3LTk3Y2EtMDZhNC0yNTA3LWY0M2Q4NmE0/master.m3u8?md5=WQusFvIPcHUWQs517zggmA&expires=1758472614&net=MTcyLjE3OC4xMTkuMTEz
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MTM1MGFmMDIzODI3LTk3Y2EtMDZhNC0yNTA3LWY0M2Q4NmE0/master.m3u8?md5=JG2oRtR7JDiB14lerag5eg&expires=1758474323&net=MTcyLjE3Mi44Ny44NA%3D%3D
 #EXTINF:-1 tvg-id="ppv-5191" tvg-name="24/7 The Simpsons" tvg-epgid="5191" tvg-logo="https://thumbs.poocloud.in/thesimpsons/preview.jpg",24/7 The Simpsons
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MGQzNzI5MTE0YjQwLTVmYmEtYmE3NC1kOThlLWY2MmU4NGI4/master.m3u8?md5=WQusFvIPcHUWQs517zggmA&expires=1758472614&net=MTcyLjE3OC4xMTkuMTEz
-#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family‌​‌​‌‌​​‌​‌‌​​‌​​‌‌‌​‌‌‌​‌‌‌​​​‌ Guy" tvg-epgid="8008" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg",24/7 Family‌​‌​‌‌​​‌​‌‌​​‌​​‌‌‌​‌‌‌​‌‌‌​​​‌ Guy
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YTA5ZTU3MjFhNTI0LWRkZTktZTRlNC1mMzU4LTQwMWI0YjJk/master.m3u8?md5=Px7S9o6UTvXVQLdT1NiejA&expires=1758472615&net=MTcyLjE3OC4xMTkuMTEz
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MGQzNzI5MTE0YjQwLTVmYmEtYmE3NC1kOThlLWY2MmU4NGI4/master.m3u8?md5=JG2oRtR7JDiB14lerag5eg&expires=1758474323&net=MTcyLjE3Mi44Ny44NA%3D%3D
+#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family‌​‌​‌‌​​‌​‌​‌‌​​​‌​‌​‌‌‌​‌​‌​‌​​ Guy" tvg-epgid="8008" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg",24/7 Family‌​‌​‌‌​​‌​‌​‌‌​​​‌​‌​‌‌‌​‌​‌​‌​​ Guy
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YTA5ZTU3MjFhNTI0LWRkZTktZTRlNC1mMzU4LTQwMWI0YjJk/master.m3u8?md5=JG2oRtR7JDiB14lerag5eg&expires=1758474323&net=MTcyLjE3Mi44Ny44NA%3D%3D
 #EXTINF:-1 tvg-id="ppv-3663" tvg-name="24/7 COWS" tvg-epgid="3663" tvg-logo="https://ppvs.su/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg",24/7 COWS
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8?md5=Px7S9o6UTvXVQLdT1NiejA&expires=1758472615&net=MTcyLjE3OC4xMTkuMTEz
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8?md5=JG2oRtR7JDiB14lerag5eg&expires=1758474323&net=MTcyLjE3Mi44Ny44NA%3D%3D
 #EXTINF:-1 tvg-id="ppv-5112" tvg-name="24/7 South Park" tvg-epgid="5112" tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg",24/7 South Park
-https://gg.poocloud.in/southpark/index.m3u8?md5=Px7S9o6UTvXVQLdT1NiejA&expires=1758472615&net=MTcyLjE3OC4xMTkuMTEz
+https://gg.poocloud.in/southpark/index.m3u8?md5=JG2oRtR7JDiB14lerag5eg&expires=1758474323&net=MTcyLjE3Mi44Ny44NA%3D%3D

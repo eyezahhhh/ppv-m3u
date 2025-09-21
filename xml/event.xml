@@ -659,6 +659,94 @@ channel="ppv-11596"
 <icon src="https://ppvs.su/assets/thumb/9229ef765f31f9da60a2f7dae749f70c-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-11612">
+<display-name>Windrose Giants Antwerp v Pallacanestro Reggiana</display-name>
+</channel>
+<programme
+start="20250921111500 +0000"
+stop="20250921141500 +0000"
+channel="ppv-11612"
+>
+<title lang="en">Windrose Giants Antwerp v Pallacanestro Reggiana</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://ppvs.su/assets/thumb/de824cded0cc3261a8a6d2ea75080aad-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-11611">
+<display-name>Unicaja vs NBA G League United</display-name>
+</channel>
+<programme
+start="20250921110000 +0000"
+stop="20250921140000 +0000"
+channel="ppv-11611"
+>
+<title lang="en">Unicaja vs NBA G League United</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://ppvs.su/assets/thumb/5f2857c996237d5cf171ef72f3a3c332-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-11610">
+<display-name>Alahli SC vs Flamengo</display-name>
+</channel>
+<programme
+start="20250921080000 +0000"
+stop="20250921110000 +0000"
+channel="ppv-11610"
+>
+<title lang="en">Alahli SC vs Flamengo</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://ppvs.su/assets/thumb/a986bd5212d5cc88dac37ccb0c6f9178-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-11609">
+<display-name>Utsunomiya Brex vs Illawarra Hawks</display-name>
+</channel>
+<programme
+start="20250921050000 +0000"
+stop="20250921080000 +0000"
+channel="ppv-11609"
+>
+<title lang="en">Utsunomiya Brex vs Illawarra Hawks</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://ppvs.su/assets/thumb/2619d5a9314fc12c50ee38a32b518bdb-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-11471">
 <display-name>Napoli vs. Pisa</display-name>
 </channel>
