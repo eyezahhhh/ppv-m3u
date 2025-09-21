@@ -681,28 +681,6 @@ channel="ppv-11611"
 <icon src="https://ppvs.su/assets/thumb/5f2857c996237d5cf171ef72f3a3c332-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-11610">
-<display-name>Alahli SC vs Flamengo</display-name>
-</channel>
-<programme
-start="20250921080000 +0000"
-stop="20250921110000 +0000"
-channel="ppv-11610"
->
-<title lang="en">Alahli SC vs Flamengo</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://ppvs.su/assets/thumb/a986bd5212d5cc88dac37ccb0c6f9178-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-11471">
 <display-name>Napoli vs. Pisa</display-name>
 </channel>
