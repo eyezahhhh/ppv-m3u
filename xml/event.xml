@@ -659,28 +659,6 @@ channel="ppv-11613"
 <icon src="https://ppvs.su/assets/thumb/9dc066f434622cb3263cb168cdc0a66d-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-11612">
-<display-name>Windrose Giants Antwerp v Pallacanestro Reggiana</display-name>
-</channel>
-<programme
-start="20250921111500 +0000"
-stop="20250921141500 +0000"
-channel="ppv-11612"
->
-<title lang="en">Windrose Giants Antwerp v Pallacanestro Reggiana</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://ppvs.su/assets/thumb/de824cded0cc3261a8a6d2ea75080aad-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-11471">
 <display-name>Napoli vs. Pisa</display-name>
 </channel>
