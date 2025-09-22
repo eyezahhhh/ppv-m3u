@@ -267,8 +267,8 @@ channel="ppv-11674"
 <display-name>WWE: Monday Night RAW</display-name>
 </channel>
 <programme
-start="20250923000000 +0000"
-stop="20250923030000 +0000"
+start="20250922230000 +0000"
+stop="20250923020000 +0000"
 channel="ppv-11673"
 >
 <title lang="en">WWE: Monday Night RAW</title>
