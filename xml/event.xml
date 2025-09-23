@@ -681,6 +681,28 @@ channel="ppv-11708"
 <icon src="https://ppvs.su/assets/thumb/c24536cc90e03432f0f7422eb32f6848-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-11735">
+<display-name>Wolverhampton Wanderers vs Everton</display-name>
+</channel>
+<programme
+start="20250923184500 +0000"
+stop="20250923214500 +0000"
+channel="ppv-11735"
+>
+<title lang="en">Wolverhampton Wanderers vs Everton</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/f27c0a553ba14bbf97bcf119b57e723b-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-11646">
 <display-name>Athletic Club vs. Girona FC</display-name>
 </channel>
