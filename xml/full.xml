@@ -373,6 +373,160 @@ channel="ppv-11736"
 <icon src="https://ppvs.su/assets/thumb/488db93a8400668f04898a1418f67920-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-11690">
+<display-name>Rangers vs. Genk</display-name>
+</channel>
+<programme
+start="20250925190000 +0000"
+stop="20250925220000 +0000"
+channel="ppv-11690"
+>
+<title lang="en">Rangers vs. Genk</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/6759d9f5d031ee5548f1d101fe0661cb-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-11691">
+<display-name>Salzburg vs. Porto</display-name>
+</channel>
+<programme
+start="20250925190000 +0000"
+stop="20250925220000 +0000"
+channel="ppv-11691"
+>
+<title lang="en">Salzburg vs. Porto</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/5707ddc724639d43256263f767f5f336-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-11692">
+<display-name>Aston Villa vs. Bologna</display-name>
+</channel>
+<programme
+start="20250925190000 +0000"
+stop="20250925220000 +0000"
+channel="ppv-11692"
+>
+<title lang="en">Aston Villa vs. Bologna</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/c2bdfcb1b69e346ea27f992cd6432d98-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-11693">
+<display-name>Ferencváros vs. Viktoria Plzeň</display-name>
+</channel>
+<programme
+start="20250925190000 +0000"
+stop="20250925220000 +0000"
+channel="ppv-11693"
+>
+<title lang="en">Ferencváros vs. Viktoria Plzeň</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/5e84815c9d1761af86c8f494543a203e-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-11694">
+<display-name>Young Boys vs. Panathinaikos</display-name>
+</channel>
+<programme
+start="20250925190000 +0000"
+stop="20250925220000 +0000"
+channel="ppv-11694"
+>
+<title lang="en">Young Boys vs. Panathinaikos</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/c6e065d1a7ee2edd6c3577f76efbf9b4-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-11695">
+<display-name>Stuttgart vs. Celta</display-name>
+</channel>
+<programme
+start="20250925190000 +0000"
+stop="20250925220000 +0000"
+channel="ppv-11695"
+>
+<title lang="en">Stuttgart vs. Celta</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/026f391833121ff49ed533ea4b6dc58a-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-11696">
+<display-name>Utrecht vs. Lyon</display-name>
+</channel>
+<programme
+start="20250925190000 +0000"
+stop="20250925220000 +0000"
+channel="ppv-11696"
+>
+<title lang="en">Utrecht vs. Lyon</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/baf715f552be5c23c201b7a0774418a5-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-11653">
 <display-name>CA Osasuna vs. Elche CF</display-name>
 </channel>
@@ -924,14 +1078,14 @@ channel="ppv-5191"
 </programme>
 
 <channel id="ppv-8008">
-<display-name>24/7 Family​​‌‌​​​​‌‌​‌​​‌‌‌‌​‌​​‌‌​​‌​‌​​‌ Guy</display-name>
+<display-name>24/7 Family​‌​​‌​‌​‌‌‌‌‌​​‌​‌​​‌‌‌‌​​‌‌‌​‌​ Guy</display-name>
 </channel>
 <programme
 start="20250118080000 +0000"
 stop="20250118090000 +0000"
 channel="ppv-8008"
 >
-<title lang="en">24/7 Family​​‌‌​​​​‌‌​‌​​‌‌‌‌​‌​​‌‌​​‌​‌​​‌ Guy</title>
+<title lang="en">24/7 Family​‌​​‌​‌​‌‌‌‌‌​​‌​‌​​‌‌‌‌​​‌‌‌​‌​ Guy</title>
 <sub-title>24/7 Streams</sub-title>
 <video>
 <present>yes</present>
