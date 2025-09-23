@@ -373,6 +373,28 @@ channel="ppv-11736"
 <icon src="https://ppvs.su/assets/thumb/488db93a8400668f04898a1418f67920-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-11749">
+<display-name>Dana White&apos;s Contender Series</display-name>
+</channel>
+<programme
+start="20250924000000 +0000"
+stop="20250924040000 +0000"
+channel="ppv-11749"
+>
+<title lang="en">Dana White&apos;s Contender Series</title>
+<sub-title>Combat Sports</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Combat Sports</category>
+<icon src="https://ppvs.su/assets/thumb/a5f35940ef6309a61060dede0638e1d3-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-11654">
 <display-name>Real Oviedo vs. FC Barcelona</display-name>
 </channel>
@@ -877,50 +899,6 @@ channel="ppv-11680"
 </audio>
 <category>Football</category>
 <icon src="https://ppvs.su/assets/thumb/1c8ef848e8d72d77fbaf4327db07e730-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-11648">
-<display-name>Levante UD vs. Real Madrid</display-name>
-</channel>
-<programme
-start="20250923193000 +0000"
-stop="20250923223000 +0000"
-channel="ppv-11648"
->
-<title lang="en">Levante UD vs. Real Madrid</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/1aa65aee917e279207afd850fade27bf-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-11649">
-<display-name>Sevilla FC vs. Villarreal CF</display-name>
-</channel>
-<programme
-start="20250923193000 +0000"
-stop="20250923223000 +0000"
-channel="ppv-11649"
->
-<title lang="en">Sevilla FC vs. Villarreal CF</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/42f0013549a867d8ba2f5e1d818ac380-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-11748">
