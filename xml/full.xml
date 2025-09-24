@@ -1143,6 +1143,28 @@ channel="ppv-11743"
 <icon src="https://ppvs.su/assets/thumb/3704e3c0bfa3aec2569038577b1928e5-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-11676">
+<display-name>TNA: Impact</display-name>
+</channel>
+<programme
+start="20250926000000 +0000"
+stop="20250926030000 +0000"
+channel="ppv-11676"
+>
+<title lang="en">TNA: Impact</title>
+<sub-title>Wrestling</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Wrestling</category>
+<icon src="https://ppvs.su/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-11675">
 <display-name>AEW: Wednesday Night Dynamite</display-name>
 </channel>
@@ -1210,14 +1232,14 @@ channel="ppv-5191"
 </programme>
 
 <channel id="ppv-8008">
-<display-name>24/7 Family​​​‌​‌​​​​‌‌​‌‌‌​‌‌‌‌‌‌‌‌‌‌​​​​‌ Guy</display-name>
+<display-name>24/7 Family​‌​​​​​​‌‌‌​‌‌​​‌‌​​​​​​‌​​‌​‌‌​ Guy</display-name>
 </channel>
 <programme
 start="20250118080000 +0000"
 stop="20250118090000 +0000"
 channel="ppv-8008"
 >
-<title lang="en">24/7 Family​​​‌​‌​​​​‌‌​‌‌‌​‌‌‌‌‌‌‌‌‌‌​​​​‌ Guy</title>
+<title lang="en">24/7 Family​‌​​​​​​‌‌‌​‌‌​​‌‌​​​​​​‌​​‌​‌‌​ Guy</title>
 <sub-title>24/7 Streams</sub-title>
 <video>
 <present>yes</present>
