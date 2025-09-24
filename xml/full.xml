@@ -461,28 +461,6 @@ channel="ppv-11719"
 <icon src="https://ppvs.su/assets/thumb/f001f07282e31c75ceddc565cbbbc6d4-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-11737">
-<display-name>Fever at Aces (Game 2)</display-name>
-</channel>
-<programme
-start="20250924013000 +0000"
-stop="20250924041500 +0000"
-channel="ppv-11737"
->
-<title lang="en">Fever at Aces (Game 2)</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://ppvs.su/assets/thumb/52032ad7dd97a7fe51281da4bae7f7a5-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-11654">
 <display-name>Real Oviedo vs. FC Barcelona</display-name>
 </channel>
@@ -1078,14 +1056,14 @@ channel="ppv-5191"
 </programme>
 
 <channel id="ppv-8008">
-<display-name>24/7 Family​‌​​​​​​‌‌‌​‌‌​​‌​​​​‌‌​​​‌​​​‌​ Guy</display-name>
+<display-name>24/7 Family‌​‌​‌‌​​‌​‌​‌‌‌​‌‌​‌‌‌​‌‌‌‌​​‌​‌ Guy</display-name>
 </channel>
 <programme
 start="20250118080000 +0000"
 stop="20250118090000 +0000"
 channel="ppv-8008"
 >
-<title lang="en">24/7 Family​‌​​​​​​‌‌‌​‌‌​​‌​​​​‌‌​​​‌​​​‌​ Guy</title>
+<title lang="en">24/7 Family‌​‌​‌‌​​‌​‌​‌‌‌​‌‌​‌‌‌​‌‌‌‌​​‌​‌ Guy</title>
 <sub-title>24/7 Streams</sub-title>
 <video>
 <present>yes</present>
