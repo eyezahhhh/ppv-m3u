@@ -241,50 +241,6 @@ channel="ppv-11792"
 <icon src="https://ppvs.su/assets/thumb/aebb7bcf00863c9194b523941e5f10bc-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-11791">
-<display-name>Tampa Bay Rays vs. Baltimore Orioles</display-name>
-</channel>
-<programme
-start="20250925170500 +0000"
-stop="20250925200500 +0000"
-channel="ppv-11791"
->
-<title lang="en">Tampa Bay Rays vs. Baltimore Orioles</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/ba9664c539a05d545b9ea1f57c572e74-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-11790">
-<display-name>Pittsburgh Pirates vs. Cincinnati Reds</display-name>
-</channel>
-<programme
-start="20250925164000 +0000"
-stop="20250925194000 +0000"
-channel="ppv-11790"
->
-<title lang="en">Pittsburgh Pirates vs. Cincinnati Reds</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/3b8e8842ecac2b0afa7b1ad876ea3486-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-11661">
 <display-name>PSG vs. AJ Auxerre</display-name>
 </channel>
@@ -945,50 +901,6 @@ channel="ppv-11653"
 <icon src="https://ppvs.su/assets/thumb/50327721b22354fa49ca3e57ea68f0cd-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-11688">
-<display-name>Lille vs. Brann</display-name>
-</channel>
-<programme
-start="20250925164500 +0000"
-stop="20250925194500 +0000"
-channel="ppv-11688"
->
-<title lang="en">Lille vs. Brann</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/980401132992aed6bb02d1ee3ef1ecb7-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-11689">
-<display-name>Go Ahead Eagles vs. FCSB</display-name>
-</channel>
-<programme
-start="20250925164500 +0000"
-stop="20250925194500 +0000"
-channel="ppv-11689"
->
-<title lang="en">Go Ahead Eagles vs. FCSB</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/8e8bafa137a73905487f380f7420e9a0-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-11677">
 <display-name>WWE: Friday Night Smackdown</display-name>
 </channel>
@@ -1056,14 +968,14 @@ channel="ppv-5191"
 </programme>
 
 <channel id="ppv-8008">
-<display-name>24/7 Family​‌‌​‌​​​‌‌​‌​​​‌​​​​‌​‌​‌‌‌​​‌​‌ Guy</display-name>
+<display-name>24/7 Family​‌​​​​​​‌‌‌​‌‌​​‌​​‌‌​​‌‌​​‌‌​​‌ Guy</display-name>
 </channel>
 <programme
 start="20250118080000 +0000"
 stop="20250118090000 +0000"
 channel="ppv-8008"
 >
-<title lang="en">24/7 Family​‌‌​‌​​​‌‌​‌​​​‌​​​​‌​‌​‌‌‌​​‌​‌ Guy</title>
+<title lang="en">24/7 Family​‌​​​​​​‌‌‌​‌‌​​‌​​‌‌​​‌‌​​‌‌​​‌ Guy</title>
 <sub-title>24/7 Streams</sub-title>
 <video>
 <present>yes</present>
