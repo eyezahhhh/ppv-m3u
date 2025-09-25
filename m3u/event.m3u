@@ -25,6 +25,12 @@
 
 #EXTINF:-1 tvg-id="ppv-11790" tvg-name="Pittsburgh Pirates vs. Cincinnati Reds (25 September 2025 at 16:40)" tvg-epgid="11790" tvg-logo="https://ppvs.su/assets/thumb/3b8e8842ecac2b0afa7b1ad876ea3486-thumbnail.jpg",Pittsburgh Pirates vs. Cincinnati Reds (25 September 2025 at 16:40)
 
+#EXTINF:-1 tvg-id="ppv-11661" tvg-name="PSG vs. AJ Auxerre (27 September 2025 at 19:05)" tvg-epgid="11661" tvg-logo="https://ppvs.su/assets/thumb/cd381e042243b9342374bbc0941205e7-thumbnail.jpg",PSG vs. AJ Auxerre (27 September 2025 at 19:05)
+
+#EXTINF:-1 tvg-id="ppv-11625" tvg-name="Tottenham Hotspur vs. Wolverhampton Wanderers (27 September 2025 at 19:00)" tvg-epgid="11625" tvg-logo="https://ppvs.su/assets/thumb/e13c77c251cac90bf25f6578dccda2d3-thumbnail.jpg",Tottenham Hotspur vs. Wolverhampton Wanderers (27 September 2025 at 19:00)
+
+#EXTINF:-1 tvg-id="ppv-11727" tvg-name="Cagliari vs. Inter (27 September 2025 at 18:45)" tvg-epgid="11727" tvg-logo="https://ppvs.su/assets/thumb/68a5575774b142ec61894b2f67a72ccc-thumbnail.jpg",Cagliari vs. Inter (27 September 2025 at 18:45)
+
 #EXTINF:-1 tvg-id="ppv-11662" tvg-name="Toulouse FC vs. FC Nantes (27 September 2025 at 17:00)" tvg-epgid="11662" tvg-logo="https://ppvs.su/assets/thumb/b75438fa12802772634d4c4699c85e90-thumbnail.jpg",Toulouse FC vs. FC Nantes (27 September 2025 at 17:00)
 
 #EXTINF:-1 tvg-id="ppv-11624" tvg-name="Nottingham Forest vs. Sunderland (27 September 2025 at 16:30)" tvg-epgid="11624" tvg-logo="https://ppvs.su/assets/thumb/55b886a906b128147ee9bc3089a9c69f-thumbnail.jpg",Nottingham Forest vs. Sunderland (27 September 2025 at 16:30)
