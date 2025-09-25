@@ -25,6 +25,10 @@
 
 #EXTINF:-1 tvg-id="ppv-11790" tvg-name="Pittsburgh Pirates vs. Cincinnati Reds (25 September 2025 at 16:40)" tvg-epgid="11790" tvg-logo="https://ppvs.su/assets/thumb/3b8e8842ecac2b0afa7b1ad876ea3486-thumbnail.jpg",Pittsburgh Pirates vs. Cincinnati Reds (25 September 2025 at 16:40)
 
+#EXTINF:-1 tvg-id="ppv-11624" tvg-name="Nottingham Forest vs. Sunderland (27 September 2025 at 16:30)" tvg-epgid="11624" tvg-logo="https://ppvs.su/assets/thumb/55b886a906b128147ee9bc3089a9c69f-thumbnail.jpg",Nottingham Forest vs. Sunderland (27 September 2025 at 16:30)
+
+#EXTINF:-1 tvg-id="ppv-11669" tvg-name="Gladbach vs. Frankfurt (27 September 2025 at 16:30)" tvg-epgid="11669" tvg-logo="https://ppvs.su/assets/thumb/d860a87db6c4c615d1c5edc403da7c04-thumbnail.jpg",Gladbach vs. Frankfurt (27 September 2025 at 16:30)
+
 #EXTINF:-1 tvg-id="ppv-11726" tvg-name="Juventus vs. Atalanta (27 September 2025 at 16:00)" tvg-epgid="11726" tvg-logo="https://ppvs.su/assets/thumb/2aa5ba894322c9b55bd21e6cd0ee5361-thumbnail.jpg",Juventus vs. Atalanta (27 September 2025 at 16:00)
 
 #EXTINF:-1 tvg-id="ppv-11660" tvg-name="FC Lorient vs. AS Monaco (27 September 2025 at 15:00)" tvg-epgid="11660" tvg-logo="https://ppvs.su/assets/thumb/c64eb01d3a9b9927800439e4ce2cc2c7-thumbnail.jpg",FC Lorient vs. AS Monaco (27 September 2025 at 15:00)
