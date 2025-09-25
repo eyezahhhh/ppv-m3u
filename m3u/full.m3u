@@ -25,6 +25,8 @@
 
 #EXTINF:-1 tvg-id="ppv-11790" tvg-name="Pittsburgh Pirates vs. Cincinnati Reds (25 September 2025 at 16:40)" tvg-epgid="11790" tvg-logo="https://ppvs.su/assets/thumb/3b8e8842ecac2b0afa7b1ad876ea3486-thumbnail.jpg",Pittsburgh Pirates vs. Cincinnati Reds (25 September 2025 at 16:40)
 
+#EXTINF:-1 tvg-id="ppv-11660" tvg-name="FC Lorient vs. AS Monaco (27 September 2025 at 15:00)" tvg-epgid="11660" tvg-logo="https://ppvs.su/assets/thumb/c64eb01d3a9b9927800439e4ce2cc2c7-thumbnail.jpg",FC Lorient vs. AS Monaco (27 September 2025 at 15:00)
+
 #EXTINF:-1 tvg-id="ppv-11618" tvg-name="Chelsea vs. Brighton and Hove Albion (27 September 2025 at 14:00)" tvg-epgid="11618" tvg-logo="https://ppvs.su/assets/thumb/b57c1133562ae78a6ff498c7bed33b4d-thumbnail.jpg",Chelsea vs. Brighton and Hove Albion (27 September 2025 at 14:00)
 
 #EXTINF:-1 tvg-id="ppv-11619" tvg-name="Crystal Palace vs. Liverpool (27 September 2025 at 14:00)" tvg-epgid="11619" tvg-logo="https://ppvs.su/assets/thumb/1b3d15e0652dee6732a23e49836b8aba-thumbnail.jpg",Crystal Palace vs. Liverpool (27 September 2025 at 14:00)
@@ -78,10 +80,10 @@
 #EXTINF:-1 tvg-id="ppv-11676" tvg-name="TNA: Impact (26 September 2025 at 00:00)" tvg-epgid="11676" tvg-logo="https://ppvs.su/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg",TNA: Impact (26 September 2025 at 00:00)
 
 #EXTINF:-1 tvg-id="ppv-5191" tvg-name="24/7 The Simpsons" tvg-epgid="5191" tvg-logo="https://thumbs.poocloud.in/thesimpsons/preview.jpg",24/7 The Simpsons
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MGQzNzI5MTE0YjQwLTVmYmEtYmE3NC1kOThlLWY2MmU4NGI4/master.m3u8?md5=x4QPSVSVJACgiE8Gh3CYmQ&expires=1758854280&net=MTM1LjIzMi4yMDguMTQ4
-#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family‌​​​​‌‌‌‌‌‌​‌​​​‌‌​‌​​​​‌​​‌​‌​​ Guy" tvg-epgid="8008" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg",24/7 Family‌​​​​‌‌‌‌‌‌​‌​​​‌‌​‌​​​​‌​​‌​‌​​ Guy
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YTA5ZTU3MjFhNTI0LWRkZTktZTRlNC1mMzU4LTQwMWI0YjJk/master.m3u8?md5=ywYhXl6etaa9AebGbS-6nA&expires=1758854285&net=MTM1LjIzMi4yMDguMTQ4
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MGQzNzI5MTE0YjQwLTVmYmEtYmE3NC1kOThlLWY2MmU4NGI4/master.m3u8?md5=j-gtucIulY6bNiBqqbQF-g&expires=1758855961&net=MTQ1LjEzMi45OS4xMzc%3D
+#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family‌​​‌​​​‌‌​​​​‌​​​‌‌​​​‌‌‌​​​‌​​‌ Guy" tvg-epgid="8008" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg",24/7 Family‌​​‌​​​‌‌​​​​‌​​​‌‌​​​‌‌‌​​​‌​​‌ Guy
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YTA5ZTU3MjFhNTI0LWRkZTktZTRlNC1mMzU4LTQwMWI0YjJk/master.m3u8?md5=DA_fF18kKRtRSRp7MsI-og&expires=1758855962&net=MTQ1LjEzMi45OS4xMzc%3D
 #EXTINF:-1 tvg-id="ppv-3663" tvg-name="24/7 COWS" tvg-epgid="3663" tvg-logo="https://ppvs.su/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg",24/7 COWS
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8?md5=ywYhXl6etaa9AebGbS-6nA&expires=1758854285&net=MTM1LjIzMi4yMDguMTQ4
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8?md5=DA_fF18kKRtRSRp7MsI-og&expires=1758855962&net=MTQ1LjEzMi45OS4xMzc%3D
 #EXTINF:-1 tvg-id="ppv-5112" tvg-name="24/7 South Park" tvg-epgid="5112" tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg",24/7 South Park
-https://gg.poocloud.in/southpark/index.m3u8?md5=ywYhXl6etaa9AebGbS-6nA&expires=1758854285&net=MTM1LjIzMi4yMDguMTQ4
+https://gg.poocloud.in/southpark/index.m3u8?md5=DA_fF18kKRtRSRp7MsI-og&expires=1758855962&net=MTQ1LjEzMi45OS4xMzc%3D
