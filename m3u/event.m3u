@@ -19,8 +19,6 @@
 
 #EXTINF:-1 tvg-id="ppv-11793" tvg-name="Houston Astros vs. Athletics (25 September 2025 at 19:35)" tvg-epgid="11793" tvg-logo="https://ppvs.su/assets/thumb/5d5d574191efdc07471f1120671a8a8d-thumbnail.jpg",Houston Astros vs. Athletics (25 September 2025 at 19:35)
 
-#EXTINF:-1 tvg-id="ppv-11792" tvg-name="Minnesota Twins vs. Texas Rangers (25 September 2025 at 18:35)" tvg-epgid="11792" tvg-logo="https://ppvs.su/assets/thumb/aebb7bcf00863c9194b523941e5f10bc-thumbnail.jpg",Minnesota Twins vs. Texas Rangers (25 September 2025 at 18:35)
-
 #EXTINF:-1 tvg-id="ppv-11661" tvg-name="PSG vs. AJ Auxerre (27 September 2025 at 19:05)" tvg-epgid="11661" tvg-logo="https://ppvs.su/assets/thumb/cd381e042243b9342374bbc0941205e7-thumbnail.jpg",PSG vs. AJ Auxerre (27 September 2025 at 19:05)
 
 #EXTINF:-1 tvg-id="ppv-11625" tvg-name="Tottenham Hotspur vs. Wolverhampton Wanderers (27 September 2025 at 19:00)" tvg-epgid="11625" tvg-logo="https://ppvs.su/assets/thumb/e13c77c251cac90bf25f6578dccda2d3-thumbnail.jpg",Tottenham Hotspur vs. Wolverhampton Wanderers (27 September 2025 at 19:00)
@@ -63,34 +61,18 @@
 
 #EXTINF:-1 tvg-id="ppv-11654" tvg-name="Real Oviedo vs. FC Barcelona (25 September 2025 at 19:30)" tvg-epgid="11654" tvg-logo="https://ppvs.su/assets/thumb/d83bb56841a2fb14e242fcce9cc7a0c1-thumbnail.jpg",Real Oviedo vs. FC Barcelona (25 September 2025 at 19:30)
 
-#EXTINF:-1 tvg-id="ppv-11449" tvg-name="The Golazo Show (25 September 2025 at 19:00)" tvg-epgid="11449" tvg-logo="https://ppvs.su/assets/thumb/3bac1a9cd01590ac3bac714bd0663c20-thumbnail.jpg",The Golazo Show (25 September 2025 at 19:00)
-
-#EXTINF:-1 tvg-id="ppv-11690" tvg-name="Rangers vs. Genk (25 September 2025 at 19:00)" tvg-epgid="11690" tvg-logo="https://ppvs.su/assets/thumb/6759d9f5d031ee5548f1d101fe0661cb-thumbnail.jpg",Rangers vs. Genk (25 September 2025 at 19:00)
-
-#EXTINF:-1 tvg-id="ppv-11691" tvg-name="Salzburg vs. Porto (25 September 2025 at 19:00)" tvg-epgid="11691" tvg-logo="https://ppvs.su/assets/thumb/5707ddc724639d43256263f767f5f336-thumbnail.jpg",Salzburg vs. Porto (25 September 2025 at 19:00)
-
-#EXTINF:-1 tvg-id="ppv-11692" tvg-name="Aston Villa vs. Bologna (25 September 2025 at 19:00)" tvg-epgid="11692" tvg-logo="https://ppvs.su/assets/thumb/c2bdfcb1b69e346ea27f992cd6432d98-thumbnail.jpg",Aston Villa vs. Bologna (25 September 2025 at 19:00)
-
-#EXTINF:-1 tvg-id="ppv-11693" tvg-name="Ferencváros vs. Viktoria Plzeň (25 September 2025 at 19:00)" tvg-epgid="11693" tvg-logo="https://ppvs.su/assets/thumb/5e84815c9d1761af86c8f494543a203e-thumbnail.jpg",Ferencváros vs. Viktoria Plzeň (25 September 2025 at 19:00)
-
-#EXTINF:-1 tvg-id="ppv-11694" tvg-name="Young Boys vs. Panathinaikos (25 September 2025 at 19:00)" tvg-epgid="11694" tvg-logo="https://ppvs.su/assets/thumb/c6e065d1a7ee2edd6c3577f76efbf9b4-thumbnail.jpg",Young Boys vs. Panathinaikos (25 September 2025 at 19:00)
-
-#EXTINF:-1 tvg-id="ppv-11695" tvg-name="Stuttgart vs. Celta (25 September 2025 at 19:00)" tvg-epgid="11695" tvg-logo="https://ppvs.su/assets/thumb/026f391833121ff49ed533ea4b6dc58a-thumbnail.jpg",Stuttgart vs. Celta (25 September 2025 at 19:00)
-
-#EXTINF:-1 tvg-id="ppv-11696" tvg-name="Utrecht vs. Lyon (25 September 2025 at 19:00)" tvg-epgid="11696" tvg-logo="https://ppvs.su/assets/thumb/baf715f552be5c23c201b7a0774418a5-thumbnail.jpg",Utrecht vs. Lyon (25 September 2025 at 19:00)
-
 #EXTINF:-1 tvg-id="ppv-11807" tvg-name="Utah Mammoth vs. Vegas Golden Knights (26 September 2025 at 02:00)" tvg-epgid="11807" tvg-logo="https://ppvs.su/assets/thumb/bbbddea0b4ef2b6cc467bd6b878e455f-thumbnail.jpg",Utah Mammoth vs. Vegas Golden Knights (26 September 2025 at 02:00)
-https://gg.poocloud.in/vegasgoldenknights/index.m3u8?md5=xY2VsCOAZs0H6W08bAnPPA&expires=1758864600&net=MTcyLjIxNC40Ny4zOA%3D%3D
+https://gg.poocloud.in/vegasgoldenknights/index.m3u8?md5=xY2VsCOAZs0H6W08bAnPPA&expires=1758864600&net=MTcyLjIxMi4xNjkuMTQ5
 #EXTINF:-1 tvg-id="ppv-11806" tvg-name="Dallas Stars vs. Minnesota Wild (26 September 2025 at 00:00)" tvg-epgid="11806" tvg-logo="https://ppvs.su/assets/thumb/8faa45e8421f66e39cc37c1dbf81bb79-thumbnail.jpg",Dallas Stars vs. Minnesota Wild (26 September 2025 at 00:00)
-https://gg.poocloud.in/minnesotawild/index.m3u8?md5=hJT0utCJnOxkqNBQ4PjygA&expires=1758857400&net=MTcyLjIxNC40Ny4zOA%3D%3D
+https://gg.poocloud.in/minnesotawild/index.m3u8?md5=hJT0utCJnOxkqNBQ4PjygA&expires=1758857400&net=MTcyLjIxMi4xNjkuMTQ5
 #EXTINF:-1 tvg-id="ppv-11802" tvg-name="Buffalo Sabres vs. Detroit Red Wings (25 September 2025 at 23:00)" tvg-epgid="11802" tvg-logo="https://ppvs.su/assets/thumb/15d08f616944113c0f23e08b3e860f4c-thumbnail.jpg",Buffalo Sabres vs. Detroit Red Wings (25 September 2025 at 23:00)
-https://gg.poocloud.in/detroitredwings/index.m3u8?md5=QVcKIEwJQrPty49Avbym4g&expires=1758853800&net=MTcyLjIxNC40Ny4zOA%3D%3D
+https://gg.poocloud.in/detroitredwings/index.m3u8?md5=QVcKIEwJQrPty49Avbym4g&expires=1758853800&net=MTcyLjIxMi4xNjkuMTQ5
 #EXTINF:-1 tvg-id="ppv-11803" tvg-name="New York Islanders vs. New York Rangers (25 September 2025 at 23:00)" tvg-epgid="11803" tvg-logo="https://ppvs.su/assets/thumb/e54f89c5ac101ebb51bc10445e01c234-thumbnail.jpg",New York Islanders vs. New York Rangers (25 September 2025 at 23:00)
-https://gg.poocloud.in/newyorkrangers/index.m3u8?md5=QVcKIEwJQrPty49Avbym4g&expires=1758853800&net=MTcyLjIxNC40Ny4zOA%3D%3D
+https://gg.poocloud.in/newyorkrangers/index.m3u8?md5=QVcKIEwJQrPty49Avbym4g&expires=1758853800&net=MTcyLjIxMi4xNjkuMTQ5
 #EXTINF:-1 tvg-id="ppv-11804" tvg-name="Philadelphia Flyers vs. Washington Capitals (25 September 2025 at 23:00)" tvg-epgid="11804" tvg-logo="https://ppvs.su/assets/thumb/9b012c64004fa1a593c416d4511c3112-thumbnail.jpg",Philadelphia Flyers vs. Washington Capitals (25 September 2025 at 23:00)
-https://gg.poocloud.in/washingtoncapitals/index.m3u8?md5=QVcKIEwJQrPty49Avbym4g&expires=1758853800&net=MTcyLjIxNC40Ny4zOA%3D%3D
+https://gg.poocloud.in/washingtoncapitals/index.m3u8?md5=QVcKIEwJQrPty49Avbym4g&expires=1758853800&net=MTcyLjIxMi4xNjkuMTQ5
 #EXTINF:-1 tvg-id="ppv-11805" tvg-name="Toronto Maple Leafs vs. Montreal Canadiens (25 September 2025 at 23:00)" tvg-epgid="11805" tvg-logo="https://ppvs.su/assets/thumb/8e696f02e3a1560f60c5d6784e00a1ad-thumbnail.jpg",Toronto Maple Leafs vs. Montreal Canadiens (25 September 2025 at 23:00)
-https://gg.poocloud.in/montrealcanadiens/index.m3u8?md5=QVcKIEwJQrPty49Avbym4g&expires=1758853800&net=MTcyLjIxNC40Ny4zOA%3D%3D
+https://gg.poocloud.in/montrealcanadiens/index.m3u8?md5=QVcKIEwJQrPty49Avbym4g&expires=1758853800&net=MTcyLjIxMi4xNjkuMTQ5
 #EXTINF:-1 tvg-id="ppv-11677" tvg-name="WWE: Friday Night Smackdown (27 September 2025 at 00:00)" tvg-epgid="11677" tvg-logo="https://ppvs.su/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg",WWE: Friday Night Smackdown (27 September 2025 at 00:00)
 
 #EXTINF:-1 tvg-id="ppv-11676" tvg-name="TNA: Impact (26 September 2025 at 00:00)" tvg-epgid="11676" tvg-logo="https://ppvs.su/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg",TNA: Impact (26 September 2025 at 00:00)
