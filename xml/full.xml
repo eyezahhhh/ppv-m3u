@@ -285,116 +285,6 @@ channel="ppv-11790"
 <icon src="https://ppvs.su/assets/thumb/3b8e8842ecac2b0afa7b1ad876ea3486-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-11764">
-<display-name>Houston Astros vs. Athletics</display-name>
-</channel>
-<programme
-start="20250925020500 +0000"
-stop="20250925050500 +0000"
-channel="ppv-11764"
->
-<title lang="en">Houston Astros vs. Athletics</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/5d5d574191efdc07471f1120671a8a8d-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-11763">
-<display-name>St. Louis Cardinals vs. San Francisco Giants</display-name>
-</channel>
-<programme
-start="20250925014500 +0000"
-stop="20250925044500 +0000"
-channel="ppv-11763"
->
-<title lang="en">St. Louis Cardinals vs. San Francisco Giants</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/3ba1571d932c3b67d8c47d678966f4b9-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-11761">
-<display-name>Colorado Rockies vs. Seattle Mariners</display-name>
-</channel>
-<programme
-start="20250925014000 +0000"
-stop="20250925044000 +0000"
-channel="ppv-11761"
->
-<title lang="en">Colorado Rockies vs. Seattle Mariners</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/1f488eca938ef4ebab21117e0f87905d-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-11762">
-<display-name>Los Angeles Dodgers vs. Arizona Diamondbacks</display-name>
-</channel>
-<programme
-start="20250925014000 +0000"
-stop="20250925044000 +0000"
-channel="ppv-11762"
->
-<title lang="en">Los Angeles Dodgers vs. Arizona Diamondbacks</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/b426b2bf1c9f8514996d6c2a69460128-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-11760">
-<display-name>Kansas City Royals vs. Los Angeles Angels</display-name>
-</channel>
-<programme
-start="20250925013800 +0000"
-stop="20250925043800 +0000"
-channel="ppv-11760"
->
-<title lang="en">Kansas City Royals vs. Los Angeles Angels</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/f001f07282e31c75ceddc565cbbbc6d4-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-11663">
 <display-name>Strasbourg vs. OM</display-name>
 </channel>
@@ -681,50 +571,6 @@ channel="ppv-11689"
 <icon src="https://ppvs.su/assets/thumb/8e8bafa137a73905487f380f7420e9a0-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-11772">
-<display-name>Los Angeles Kings vs. Anaheim Ducks</display-name>
-</channel>
-<programme
-start="20250925020000 +0000"
-stop="20250925050000 +0000"
-channel="ppv-11772"
->
-<title lang="en">Los Angeles Kings vs. Anaheim Ducks</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://ppvs.su/assets/thumb/a6216bf14db1ae840d0f78a04b0690db-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-11773">
-<display-name>Calgary Flames vs. Vancouver Canucks</display-name>
-</channel>
-<programme
-start="20250925020000 +0000"
-stop="20250925050000 +0000"
-channel="ppv-11773"
->
-<title lang="en">Calgary Flames vs. Vancouver Canucks</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://ppvs.su/assets/thumb/d0254389167401a507840310f91f872f-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-11677">
 <display-name>WWE: Friday Night Smackdown</display-name>
 </channel>
@@ -792,14 +638,14 @@ channel="ppv-5191"
 </programme>
 
 <channel id="ppv-8008">
-<display-name>24/7 Family​​‌‌​‌​​‌​‌​​​​‌​‌​​​‌​‌‌​‌​​​‌‌ Guy</display-name>
+<display-name>24/7 Family‌​‌​‌‌​​‌​‌‌‌​​​‌‌​‌​​‌‌​‌​​​‌‌​ Guy</display-name>
 </channel>
 <programme
 start="20250118080000 +0000"
 stop="20250118090000 +0000"
 channel="ppv-8008"
 >
-<title lang="en">24/7 Family​​‌‌​‌​​‌​‌​​​​‌​‌​​​‌​‌‌​‌​​​‌‌ Guy</title>
+<title lang="en">24/7 Family‌​‌​‌‌​​‌​‌‌‌​​​‌‌​‌​​‌‌​‌​​​‌‌​ Guy</title>
 <sub-title>24/7 Streams</sub-title>
 <video>
 <present>yes</present>
