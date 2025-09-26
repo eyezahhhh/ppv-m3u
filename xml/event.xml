@@ -329,6 +329,94 @@ channel="ppv-11808"
 <icon src="https://ppvs.su/assets/thumb/a8edc19541a99a98ef90142671f7a0ae-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-11616">
+<display-name>Aston Villa vs. Fulham</display-name>
+</channel>
+<programme
+start="20250928130000 +0000"
+stop="20250928160000 +0000"
+channel="ppv-11616"
+>
+<title lang="en">Aston Villa vs. Fulham</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/9140546e3e216c644c8dd19cec61212d-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-11658">
+<display-name>OGC Nice vs. Paris FC</display-name>
+</channel>
+<programme
+start="20250928130000 +0000"
+stop="20250928160000 +0000"
+channel="ppv-11658"
+>
+<title lang="en">OGC Nice vs. Paris FC</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/06e4118c50077d2638eee230dcafc0e1-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-11729">
+<display-name>Pisa vs. Fiorentina</display-name>
+</channel>
+<programme
+start="20250928130000 +0000"
+stop="20250928160000 +0000"
+channel="ppv-11729"
+>
+<title lang="en">Pisa vs. Fiorentina</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/1e7ddd32fd739a7ffa50c087c0c1ac4a-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-11730">
+<display-name>Roma vs. Hellas Verona</display-name>
+</channel>
+<programme
+start="20250928130000 +0000"
+stop="20250928160000 +0000"
+channel="ppv-11730"
+>
+<title lang="en">Roma vs. Hellas Verona</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/34db26c52e36a41500d25f45ca86dfea-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-11828">
 <display-name>Rayo Vallecano vs. Sevilla FC</display-name>
 </channel>
