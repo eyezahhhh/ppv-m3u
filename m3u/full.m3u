@@ -49,6 +49,8 @@
 
 #EXTINF:-1 tvg-id="ppv-11835" tvg-name="Aces at Fever (Game 3) (26 September 2025 at 23:30)" tvg-epgid="11835" tvg-logo="https://ppvs.su/assets/thumb/20c7d4c880b56278ac660d25bc206a0f-thumbnail.jpg",Aces at Fever (Game 3) (26 September 2025 at 23:30)
 
+#EXTINF:-1 tvg-id="ppv-11672" tvg-name="Union Berlin vs. Hamburg (28 September 2025 at 17:30)" tvg-epgid="11672" tvg-logo="https://ppvs.su/assets/thumb/446d88dae88236cda059a7d5c7648647-thumbnail.jpg",Union Berlin vs. Hamburg (28 September 2025 at 17:30)
+
 #EXTINF:-1 tvg-id="ppv-11830" tvg-name="FC Barcelona vs. Real Sociedad (28 September 2025 at 16:30)" tvg-epgid="11830" tvg-logo="https://ppvs.su/assets/thumb/e95d3ac92c6ba219d58f413d6d480f5a-thumbnail.jpg",FC Barcelona vs. Real Sociedad (28 September 2025 at 16:30)
 
 #EXTINF:-1 tvg-id="ppv-11731" tvg-name="Lecce vs. Bologna (28 September 2025 at 16:00)" tvg-epgid="11731" tvg-logo="https://ppvs.su/assets/thumb/4d7fe600f5da01422557c8f3acccd969-thumbnail.jpg",Lecce vs. Bologna (28 September 2025 at 16:00)
@@ -134,10 +136,10 @@
 #EXTINF:-1 tvg-id="ppv-11677" tvg-name="WWE: Friday Night Smackdown (27 September 2025 at 00:00)" tvg-epgid="11677" tvg-logo="https://ppvs.su/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg",WWE: Friday Night Smackdown (27 September 2025 at 00:00)
 
 #EXTINF:-1 tvg-id="ppv-5191" tvg-name="24/7 The Simpsons" tvg-epgid="5191" tvg-logo="https://thumbs.poocloud.in/thesimpsons/preview.jpg",24/7 The Simpsons
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MGQzNzI5MTE0YjQwLTVmYmEtYmE3NC1kOThlLWY2MmU4NGI4/master.m3u8?md5=NtxV7H-3iuYRVTCxVqDU3w&expires=1758949521&net=NjQuMjM2LjEzNC4xNjc%3D
-#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family​‌​​​​​​‌‌‌​‌‌​​‌​​​​‌‌​‌​‌​​‌‌‌ Guy" tvg-epgid="8008" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg",24/7 Family​‌​​​​​​‌‌‌​‌‌​​‌​​​​‌‌​‌​‌​​‌‌‌ Guy
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YTA5ZTU3MjFhNTI0LWRkZTktZTRlNC1mMzU4LTQwMWI0YjJk/master.m3u8?md5=5KpSh1BiMHYMWPl362cxfw&expires=1758949522&net=NjQuMjM2LjEzNC4xNjc%3D
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MGQzNzI5MTE0YjQwLTVmYmEtYmE3NC1kOThlLWY2MmU4NGI4/master.m3u8?md5=raDoR1m6XHmKfWwskxdFEQ&expires=1758951277&net=NTIuMTU5LjI0NC4xODM%3D
+#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family​​‌‌​‌​​‌​​‌‌‌‌‌‌‌‌‌​‌​​‌​‌‌​‌‌‌ Guy" tvg-epgid="8008" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg",24/7 Family​​‌‌​‌​​‌​​‌‌‌‌‌‌‌‌‌​‌​​‌​‌‌​‌‌‌ Guy
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YTA5ZTU3MjFhNTI0LWRkZTktZTRlNC1mMzU4LTQwMWI0YjJk/master.m3u8?md5=TGbELdPHhaeEkUXCB4wbQg&expires=1758951278&net=NTIuMTU5LjI0NC4xODM%3D
 #EXTINF:-1 tvg-id="ppv-3663" tvg-name="24/7 COWS" tvg-epgid="3663" tvg-logo="https://ppvs.su/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg",24/7 COWS
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8?md5=5KpSh1BiMHYMWPl362cxfw&expires=1758949522&net=NjQuMjM2LjEzNC4xNjc%3D
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8?md5=2CHwDrIlCwzDzKAZ46dVEQ&expires=1758951279&net=NTIuMTU5LjI0NC4xODM%3D
 #EXTINF:-1 tvg-id="ppv-5112" tvg-name="24/7 South Park" tvg-epgid="5112" tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg",24/7 South Park
-https://gg.poocloud.in/southpark/index.m3u8?md5=5KpSh1BiMHYMWPl362cxfw&expires=1758949522&net=NjQuMjM2LjEzNC4xNjc%3D
+https://gg.poocloud.in/southpark/index.m3u8?md5=2CHwDrIlCwzDzKAZ46dVEQ&expires=1758951279&net=NTIuMTU5LjI0NC4xODM%3D
