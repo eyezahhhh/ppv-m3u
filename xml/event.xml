@@ -1,4 +1,48 @@
 <tv>
+<channel id="ppv-11785">
+<display-name>Baltimore Ravens vs. Kansas City Chiefs</display-name>
+</channel>
+<programme
+start="20250928202500 +0000"
+stop="20250928232500 +0000"
+channel="ppv-11785"
+>
+<title lang="en">Baltimore Ravens vs. Kansas City Chiefs</title>
+<sub-title>American Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>American Football</category>
+<icon src="https://ppvs.su/assets/thumb/6a04ece09dcd7e6f67ed1ed9cca39101-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-11786">
+<display-name>Chicago Bears vs. Las Vegas Raiders</display-name>
+</channel>
+<programme
+start="20250928202500 +0000"
+stop="20250928232500 +0000"
+channel="ppv-11786"
+>
+<title lang="en">Chicago Bears vs. Las Vegas Raiders</title>
+<sub-title>American Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>American Football</category>
+<icon src="https://ppvs.su/assets/thumb/49e72355a587607bf41f54b5ced3a44b-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-11783">
 <display-name>Indianapolis Colts vs. Los Angeles Rams</display-name>
 </channel>
@@ -217,6 +261,358 @@ channel="ppv-11775"
 </audio>
 <category>American Football</category>
 <icon src="https://ppvs.su/assets/thumb/33184396a2951a3762b12b3a95a4c9ea-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-11852">
+<display-name>BYU Cougars vs. Colorado Buffaloes</display-name>
+</channel>
+<programme
+start="20250928021500 +0000"
+stop="20250928051500 +0000"
+channel="ppv-11852"
+>
+<title lang="en">BYU Cougars vs. Colorado Buffaloes</title>
+<sub-title>American Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>American Football</category>
+<icon src="https://ppvs.su/assets/thumb/95ce22a90b360141c2617e8e505fb904-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-11849">
+<display-name>Oregon Ducks vs. Penn State Nittany Lions</display-name>
+</channel>
+<programme
+start="20250927233000 +0000"
+stop="20250928023000 +0000"
+channel="ppv-11849"
+>
+<title lang="en">Oregon Ducks vs. Penn State Nittany Lions</title>
+<sub-title>American Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>American Football</category>
+<icon src="https://ppvs.su/assets/thumb/b87d428628a8d1022ee6a065d360bebe-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-11850">
+<display-name>Alabama Crimson Tide vs. Georgia Bulldogs</display-name>
+</channel>
+<programme
+start="20250927233000 +0000"
+stop="20250928023000 +0000"
+channel="ppv-11850"
+>
+<title lang="en">Alabama Crimson Tide vs. Georgia Bulldogs</title>
+<sub-title>American Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>American Football</category>
+<icon src="https://ppvs.su/assets/thumb/701b15d45c046330b295d70f2c2f89f3-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-11851">
+<display-name>Massachusetts Minutemen vs. Missouri Tigers</display-name>
+</channel>
+<programme
+start="20250927233000 +0000"
+stop="20250928023000 +0000"
+channel="ppv-11851"
+>
+<title lang="en">Massachusetts Minutemen vs. Missouri Tigers</title>
+<sub-title>American Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>American Football</category>
+<icon src="https://ppvs.su/assets/thumb/5b977717d7e0d09fb14516b005e4b60c-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-11848">
+<display-name>Arizona Wildcats vs. Iowa State Cyclones</display-name>
+</channel>
+<programme
+start="20250927230000 +0000"
+stop="20250928020000 +0000"
+channel="ppv-11848"
+>
+<title lang="en">Arizona Wildcats vs. Iowa State Cyclones</title>
+<sub-title>American Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>American Football</category>
+<icon src="https://ppvs.su/assets/thumb/ece5a53e87d3360d5f92540742d05352-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-11847">
+<display-name>Tennessee Volunteers vs. Mississippi State Bulldogs</display-name>
+</channel>
+<programme
+start="20250927201500 +0000"
+stop="20250927231500 +0000"
+channel="ppv-11847"
+>
+<title lang="en">Tennessee Volunteers vs. Mississippi State Bulldogs</title>
+<sub-title>American Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>American Football</category>
+<icon src="https://ppvs.su/assets/thumb/17ebe3eb234cf9670564c4228c7857e3-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-11843">
+<display-name>Ohio State Buckeyes vs. Washington Huskies</display-name>
+</channel>
+<programme
+start="20250927193000 +0000"
+stop="20250927223000 +0000"
+channel="ppv-11843"
+>
+<title lang="en">Ohio State Buckeyes vs. Washington Huskies</title>
+<sub-title>American Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>American Football</category>
+<icon src="https://ppvs.su/assets/thumb/b4b7ec1def2ab81cfe436dac4009e460-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-11844">
+<display-name>LSU Tigers vs. Ole Miss Rebels</display-name>
+</channel>
+<programme
+start="20250927193000 +0000"
+stop="20250927223000 +0000"
+channel="ppv-11844"
+>
+<title lang="en">LSU Tigers vs. Ole Miss Rebels</title>
+<sub-title>American Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>American Football</category>
+<icon src="https://ppvs.su/assets/thumb/29f7f3933b3b6b300cf8e69f31d65e38-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-11845">
+<display-name>Auburn Tigers vs. Texas A&amp;M Aggies</display-name>
+</channel>
+<programme
+start="20250927193000 +0000"
+stop="20250927223000 +0000"
+channel="ppv-11845"
+>
+<title lang="en">Auburn Tigers vs. Texas A&amp;M Aggies</title>
+<sub-title>American Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>American Football</category>
+<icon src="https://ppvs.su/assets/thumb/45e1800490616dc2594355eff856f930-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-11846">
+<display-name>Indiana Hoosiers vs. Iowa Hawkeyes</display-name>
+</channel>
+<programme
+start="20250927193000 +0000"
+stop="20250927223000 +0000"
+channel="ppv-11846"
+>
+<title lang="en">Indiana Hoosiers vs. Iowa Hawkeyes</title>
+<sub-title>American Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>American Football</category>
+<icon src="https://ppvs.su/assets/thumb/f1405b0bb4603d07dfe6409ce606191c-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-11842">
+<display-name>Utah State Aggies vs. Vanderbilt Commodores</display-name>
+</channel>
+<programme
+start="20250927164500 +0000"
+stop="20250927194500 +0000"
+channel="ppv-11842"
+>
+<title lang="en">Utah State Aggies vs. Vanderbilt Commodores</title>
+<sub-title>American Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>American Football</category>
+<icon src="https://ppvs.su/assets/thumb/7e54ea78adf5c4980ed6053602ed3865-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-11839">
+<display-name>Georgia Tech Yellow Jackets vs. Wake Forest Demon Deacons</display-name>
+</channel>
+<programme
+start="20250927160000 +0000"
+stop="20250927190000 +0000"
+channel="ppv-11839"
+>
+<title lang="en">Georgia Tech Yellow Jackets vs. Wake Forest Demon Deacons</title>
+<sub-title>American Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>American Football</category>
+<icon src="https://ppvs.su/assets/thumb/c45b88492e8eddd33feed6f828622104-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-11840">
+<display-name>USC Trojans vs. Illinois Fighting Illini</display-name>
+</channel>
+<programme
+start="20250927160000 +0000"
+stop="20250927190000 +0000"
+channel="ppv-11840"
+>
+<title lang="en">USC Trojans vs. Illinois Fighting Illini</title>
+<sub-title>American Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>American Football</category>
+<icon src="https://ppvs.su/assets/thumb/1b1728626aa6e8aba4ee87010dd00376-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-11841">
+<display-name>Notre Dame Fighting Irish vs. Arkansas Razorbacks</display-name>
+</channel>
+<programme
+start="20250927160000 +0000"
+stop="20250927190000 +0000"
+channel="ppv-11841"
+>
+<title lang="en">Notre Dame Fighting Irish vs. Arkansas Razorbacks</title>
+<sub-title>American Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>American Football</category>
+<icon src="https://ppvs.su/assets/thumb/6649c7abdfeb75990fd938aaf12187b3-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-11838">
+<display-name>TCU Horned Frogs vs. Arizona State Sun Devils</display-name>
+</channel>
+<programme
+start="20250927010000 +0000"
+stop="20250927040000 +0000"
+channel="ppv-11838"
+>
+<title lang="en">TCU Horned Frogs vs. Arizona State Sun Devils</title>
+<sub-title>American Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>American Football</category>
+<icon src="https://ppvs.su/assets/thumb/05da9d22113a45511a8a3b9e5d982cd0-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-11837">
+<display-name>Florida State Seminoles vs. Virginia Cavaliers</display-name>
+</channel>
+<programme
+start="20250926230000 +0000"
+stop="20250927020000 +0000"
+channel="ppv-11837"
+>
+<title lang="en">Florida State Seminoles vs. Virginia Cavaliers</title>
+<sub-title>American Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>American Football</category>
+<icon src="https://ppvs.su/assets/thumb/65090f33e62aa7f353e4be8b647d2968-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-11822">
@@ -1559,6 +1955,138 @@ channel="ppv-11664"
 </audio>
 <category>Football</category>
 <icon src="https://ppvs.su/assets/thumb/7d8375d7de8c4163ce1b68087d8d6403-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-11857">
+<display-name>Vegas Golden Knights vs. San Jose Sharks</display-name>
+</channel>
+<programme
+start="20250927020000 +0000"
+stop="20250927050000 +0000"
+channel="ppv-11857"
+>
+<title lang="en">Vegas Golden Knights vs. San Jose Sharks</title>
+<sub-title>Ice Hockey</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Ice Hockey</category>
+<icon src="https://ppvs.su/assets/thumb/0dda327db9d18898710cfdc4b83a7f97-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-11858">
+<display-name>Seattle Kraken vs. Vancouver Canucks</display-name>
+</channel>
+<programme
+start="20250927020000 +0000"
+stop="20250927050000 +0000"
+channel="ppv-11858"
+>
+<title lang="en">Seattle Kraken vs. Vancouver Canucks</title>
+<sub-title>Ice Hockey</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Ice Hockey</category>
+<icon src="https://ppvs.su/assets/thumb/398bc66937d15ad8981775359102a254-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-11856">
+<display-name>Winnipeg Jets vs. Edmonton Oilers</display-name>
+</channel>
+<programme
+start="20250927010000 +0000"
+stop="20250927040000 +0000"
+channel="ppv-11856"
+>
+<title lang="en">Winnipeg Jets vs. Edmonton Oilers</title>
+<sub-title>Ice Hockey</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Ice Hockey</category>
+<icon src="https://ppvs.su/assets/thumb/5f96067dde300e232690e0f725a88442-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-11853">
+<display-name>Carolina Hurricanes vs. Tampa Bay Lightning</display-name>
+</channel>
+<programme
+start="20250926230000 +0000"
+stop="20250927020000 +0000"
+channel="ppv-11853"
+>
+<title lang="en">Carolina Hurricanes vs. Tampa Bay Lightning</title>
+<sub-title>Ice Hockey</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Ice Hockey</category>
+<icon src="https://ppvs.su/assets/thumb/38b74f3e98c416884d529f2b2e59b6e4-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-11854">
+<display-name>Detroit Red Wings vs. Pittsburgh Penguins</display-name>
+</channel>
+<programme
+start="20250926230000 +0000"
+stop="20250927020000 +0000"
+channel="ppv-11854"
+>
+<title lang="en">Detroit Red Wings vs. Pittsburgh Penguins</title>
+<sub-title>Ice Hockey</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Ice Hockey</category>
+<icon src="https://ppvs.su/assets/thumb/aa8be93ef318f775e0ba67e7ea4b8b74-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-11855">
+<display-name>New Jersey Devils vs. New York Islanders</display-name>
+</channel>
+<programme
+start="20250926230000 +0000"
+stop="20250927020000 +0000"
+channel="ppv-11855"
+>
+<title lang="en">New Jersey Devils vs. New York Islanders</title>
+<sub-title>Ice Hockey</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Ice Hockey</category>
+<icon src="https://ppvs.su/assets/thumb/bc42be7030f19a0428d27ffac49d673a-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-11678">
