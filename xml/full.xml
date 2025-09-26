@@ -351,6 +351,50 @@ channel="ppv-11808"
 <icon src="https://ppvs.su/assets/thumb/a8edc19541a99a98ef90142671f7a0ae-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-11834">
+<display-name>Lynx at Mercury (Game 3)</display-name>
+</channel>
+<programme
+start="20250927013000 +0000"
+stop="20250927041500 +0000"
+channel="ppv-11834"
+>
+<title lang="en">Lynx at Mercury (Game 3)</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://ppvs.su/assets/thumb/3cde5481552b2a027bf2a6657cbcddc3-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-11835">
+<display-name>Aces at Fever (Game 3)</display-name>
+</channel>
+<programme
+start="20250926233000 +0000"
+stop="20250927021500 +0000"
+channel="ppv-11835"
+>
+<title lang="en">Aces at Fever (Game 3)</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://ppvs.su/assets/thumb/20c7d4c880b56278ac660d25bc206a0f-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-11670">
 <display-name>Freiburg vs. Hoffenheim</display-name>
 </channel>
@@ -1122,14 +1166,14 @@ channel="ppv-5191"
 </programme>
 
 <channel id="ppv-8008">
-<display-name>24/7 Family​​‌​‌​​​​‌​​‌‌​​‌‌‌​‌‌‌​‌​‌‌​‌​‌ Guy</display-name>
+<display-name>24/7 Family​‌​​​​​​‌‌‌​‌‌​​‌​​​​‌‌‌‌​​​​​​‌ Guy</display-name>
 </channel>
 <programme
 start="20250118080000 +0000"
 stop="20250118090000 +0000"
 channel="ppv-8008"
 >
-<title lang="en">24/7 Family​​‌​‌​​​​‌​​‌‌​​‌‌‌​‌‌‌​‌​‌‌​‌​‌ Guy</title>
+<title lang="en">24/7 Family​‌​​​​​​‌‌‌​‌‌​​‌​​​​‌‌‌‌​​​​​​‌ Guy</title>
 <sub-title>24/7 Streams</sub-title>
 <video>
 <present>yes</present>
