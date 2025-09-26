@@ -1,4 +1,48 @@
 <tv>
+<channel id="ppv-11783">
+<display-name>Indianapolis Colts vs. Los Angeles Rams</display-name>
+</channel>
+<programme
+start="20250928200500 +0000"
+stop="20250928230500 +0000"
+channel="ppv-11783"
+>
+<title lang="en">Indianapolis Colts vs. Los Angeles Rams</title>
+<sub-title>American Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>American Football</category>
+<icon src="https://ppvs.su/assets/thumb/faf833324d4bc3f8ba7305af787e4931-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-11784">
+<display-name>Jacksonville Jaguars vs. San Francisco 49ers</display-name>
+</channel>
+<programme
+start="20250928200500 +0000"
+stop="20250928230500 +0000"
+channel="ppv-11784"
+>
+<title lang="en">Jacksonville Jaguars vs. San Francisco 49ers</title>
+<sub-title>American Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>American Football</category>
+<icon src="https://ppvs.su/assets/thumb/ecbb4ae604c429149806d1be7a477724-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-11776">
 <display-name>Washington Commanders vs. Atlanta Falcons</display-name>
 </channel>
