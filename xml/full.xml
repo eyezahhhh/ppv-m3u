@@ -329,6 +329,28 @@ channel="ppv-11808"
 <icon src="https://ppvs.su/assets/thumb/a8edc19541a99a98ef90142671f7a0ae-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-11728">
+<display-name>Sassuolo vs. Udinese</display-name>
+</channel>
+<programme
+start="20250928103000 +0000"
+stop="20250928133000 +0000"
+channel="ppv-11728"
+>
+<title lang="en">Sassuolo vs. Udinese</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/aaff77ac51e6d343e43f28f97341670b-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-11661">
 <display-name>PSG vs. AJ Auxerre</display-name>
 </channel>
@@ -371,6 +393,28 @@ channel="ppv-11625"
 </audio>
 <category>Football</category>
 <icon src="https://ppvs.su/assets/thumb/e13c77c251cac90bf25f6578dccda2d3-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-11827">
+<display-name>Villarreal CF vs. Athletic Club</display-name>
+</channel>
+<programme
+start="20250927190000 +0000"
+stop="20250927220000 +0000"
+channel="ppv-11827"
+>
+<title lang="en">Villarreal CF vs. Athletic Club</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/0b1bc8d337602687409a3c1e1d54b8e9-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-11727">
@@ -461,6 +505,28 @@ channel="ppv-11669"
 <icon src="https://ppvs.su/assets/thumb/d860a87db6c4c615d1c5edc403da7c04-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-11826">
+<display-name>RCD Mallorca vs. Deportivo Alavés</display-name>
+</channel>
+<programme
+start="20250927163000 +0000"
+stop="20250927193000 +0000"
+channel="ppv-11826"
+>
+<title lang="en">RCD Mallorca vs. Deportivo Alavés</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/7f50eced822bb7e0c57e661e4c1dfaa4-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-11726">
 <display-name>Juventus vs. Atalanta</display-name>
 </channel>
@@ -503,6 +569,28 @@ channel="ppv-11660"
 </audio>
 <category>Football</category>
 <icon src="https://ppvs.su/assets/thumb/c64eb01d3a9b9927800439e4ce2cc2c7-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-11825">
+<display-name>Atlético de Madrid vs. Real Madrid</display-name>
+</channel>
+<programme
+start="20250927141500 +0000"
+stop="20250927171500 +0000"
+channel="ppv-11825"
+>
+<title lang="en">Atlético de Madrid vs. Real Madrid</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/85414c0d02c2728f9236db73843a1070-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-11618">
@@ -703,6 +791,28 @@ channel="ppv-11725"
 <icon src="https://ppvs.su/assets/thumb/8b3b9d55eab5f812ee88febb4f86271a-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-11824">
+<display-name>Getafe CF vs. Levante UD</display-name>
+</channel>
+<programme
+start="20250927120000 +0000"
+stop="20250927150000 +0000"
+channel="ppv-11824"
+>
+<title lang="en">Getafe CF vs. Levante UD</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/629c7412b65fcb2e27dccfeda81fa795-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-11617">
 <display-name>Brentford vs. Manchester United</display-name>
 </channel>
@@ -723,6 +833,28 @@ channel="ppv-11617"
 </audio>
 <category>Football</category>
 <icon src="https://ppvs.su/assets/thumb/5d19674240f420a5328785caae9523ec-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-11823">
+<display-name>Girona FC vs. RCD Espanyol de Barcelona</display-name>
+</channel>
+<programme
+start="20250926190000 +0000"
+stop="20250926220000 +0000"
+channel="ppv-11823"
+>
+<title lang="en">Girona FC vs. RCD Espanyol de Barcelona</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/b2f73625726b82e58035aa96e3d3eb76-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-11663">
@@ -836,14 +968,14 @@ channel="ppv-5191"
 </programme>
 
 <channel id="ppv-8008">
-<display-name>24/7 Family‌​‌​‌‌​​‌​‌​‌‌‌​‌​‌​​‌‌​‌‌​​​‌​​ Guy</display-name>
+<display-name>24/7 Family​​‌‌​‌​​‌​​‌‌‌‌‌‌‌‌‌​‌​‌‌​‌‌​​​‌ Guy</display-name>
 </channel>
 <programme
 start="20250118080000 +0000"
 stop="20250118090000 +0000"
 channel="ppv-8008"
 >
-<title lang="en">24/7 Family‌​‌​‌‌​​‌​‌​‌‌‌​‌​‌​​‌‌​‌‌​​​‌​​ Guy</title>
+<title lang="en">24/7 Family​​‌‌​‌​​‌​​‌‌‌‌‌‌‌‌‌​‌​‌‌​‌‌​​​‌ Guy</title>
 <sub-title>24/7 Streams</sub-title>
 <video>
 <present>yes</present>
