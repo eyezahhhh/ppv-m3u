@@ -1451,6 +1451,28 @@ channel="ppv-11678"
 <icon src="https://ppvs.su/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-11877">
+<display-name>WWE: NXT No Mercy</display-name>
+</channel>
+<programme
+start="20250927230000 +0000"
+stop="20250928030000 +0000"
+channel="ppv-11877"
+>
+<title lang="en">WWE: NXT No Mercy</title>
+<sub-title>Wrestling</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Wrestling</category>
+<icon src="https://ppvs.su/assets/thumb/cabd29430e978f8ab6a15902a008a1b5-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-5191">
 <display-name>24/7 The Simpsons</display-name>
 </channel>
@@ -1474,14 +1496,14 @@ channel="ppv-5191"
 </programme>
 
 <channel id="ppv-8008">
-<display-name>24/7 Family​​​‌​‌​​​​​‌‌​​‌‌​​‌‌​​‌​​‌‌​‌​​ Guy</display-name>
+<display-name>24/7 Family​​​​​‌​​‌‌‌​‌‌​​‌​​‌‌‌‌​​‌​‌​‌​​ Guy</display-name>
 </channel>
 <programme
 start="20250118080000 +0000"
 stop="20250118090000 +0000"
 channel="ppv-8008"
 >
-<title lang="en">24/7 Family​​​‌​‌​​​​​‌‌​​‌‌​​‌‌​​‌​​‌‌​‌​​ Guy</title>
+<title lang="en">24/7 Family​​​​​‌​​‌‌‌​‌‌​​‌​​‌‌‌‌​​‌​‌​‌​​ Guy</title>
 <sub-title>24/7 Streams</sub-title>
 <video>
 <present>yes</present>
