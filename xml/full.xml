@@ -791,28 +791,6 @@ channel="ppv-11861"
 <icon src="https://ppvs.su/assets/thumb/889747dc6ce91ad7549fd7cce26d6a8a-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-11860">
-<display-name>St. Louis Cardinals vs. Chicago Cubs</display-name>
-</channel>
-<programme
-start="20250927182000 +0000"
-stop="20250927212000 +0000"
-channel="ppv-11860"
->
-<title lang="en">St. Louis Cardinals vs. Chicago Cubs</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/a8edc19541a99a98ef90142671f7a0ae-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-11875">
 <display-name>UFC Fight Night: Ulberg vs. Reyes</display-name>
 </channel>
@@ -1496,14 +1474,14 @@ channel="ppv-5191"
 </programme>
 
 <channel id="ppv-8008">
-<display-name>24/7 Family​​​​​‌​​‌‌‌​‌‌​​‌​​‌‌‌‌​​‌​‌​‌​​ Guy</display-name>
+<display-name>24/7 Family​‌‌​‌​​​‌‌​‌​​​‌​​​​‌‌​​​‌​​​‌​‌ Guy</display-name>
 </channel>
 <programme
 start="20250118080000 +0000"
 stop="20250118090000 +0000"
 channel="ppv-8008"
 >
-<title lang="en">24/7 Family​​​​​‌​​‌‌‌​‌‌​​‌​​‌‌‌‌​​‌​‌​‌​​ Guy</title>
+<title lang="en">24/7 Family​‌‌​‌​​​‌‌​‌​​​‌​​​​‌‌​​​‌​​​‌​‌ Guy</title>
 <sub-title>24/7 Streams</sub-title>
 <video>
 <present>yes</present>
