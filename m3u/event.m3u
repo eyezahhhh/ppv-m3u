@@ -32,7 +32,7 @@
 #EXTINF:-1 tvg-id="ppv-11850" tvg-name="Alabama Crimson Tide vs. Georgia Bulldogs (27 September 2025 at 23:30)" tvg-epgid="11850" tvg-logo="https://ppvs.su/assets/thumb/701b15d45c046330b295d70f2c2f89f3-thumbnail.jpg",Alabama Crimson Tide vs. Georgia Bulldogs (27 September 2025 at 23:30)
 
 #EXTINF:-1 tvg-id="ppv-11851" tvg-name="Massachusetts Minutemen vs. Missouri Tigers (27 September 2025 at 23:30)" tvg-epgid="11851" tvg-logo="https://ppvs.su/assets/thumb/5b977717d7e0d09fb14516b005e4b60c-thumbnail.jpg",Massachusetts Minutemen vs. Missouri Tigers (27 September 2025 at 23:30)
-https://gg.poocloud.in/ESPNU/index.m3u8?md5=TSkgrbKxej5ns-9-192gXA&expires=1759028400&net=MTMyLjE5Ni44My4zNA%3D%3D
+https://gg.poocloud.in/ESPNU/index.m3u8?md5=TSkgrbKxej5ns-9-192gXA&expires=1759028400&net=MTM1LjIzMi4yMzIuNjU%3D
 #EXTINF:-1 tvg-id="ppv-11848" tvg-name="Arizona Wildcats vs. Iowa State Cyclones (27 September 2025 at 23:00)" tvg-epgid="11848" tvg-logo="https://ppvs.su/assets/thumb/ece5a53e87d3360d5f92540742d05352-thumbnail.jpg",Arizona Wildcats vs. Iowa State Cyclones (27 September 2025 at 23:00)
 
 #EXTINF:-1 tvg-id="ppv-11847" tvg-name="Tennessee Volunteers vs. Mississippi State Bulldogs (27 September 2025 at 20:15)" tvg-epgid="11847" tvg-logo="https://ppvs.su/assets/thumb/17ebe3eb234cf9670564c4228c7857e3-thumbnail.jpg",Tennessee Volunteers vs. Mississippi State Bulldogs (27 September 2025 at 20:15)
@@ -55,8 +55,6 @@ https://gg.poocloud.in/ESPNU/index.m3u8?md5=TSkgrbKxej5ns-9-192gXA&expires=17590
 
 #EXTINF:-1 tvg-id="ppv-11838" tvg-name="TCU Horned Frogs vs. Arizona State Sun Devils (27 September 2025 at 01:00)" tvg-epgid="11838" tvg-logo="https://ppvs.su/assets/thumb/05da9d22113a45511a8a3b9e5d982cd0-thumbnail.jpg",TCU Horned Frogs vs. Arizona State Sun Devils (27 September 2025 at 01:00)
 
-#EXTINF:-1 tvg-id="ppv-11837" tvg-name="Florida State Seminoles vs. Virginia Cavaliers (26 September 2025 at 23:00)" tvg-epgid="11837" tvg-logo="https://ppvs.su/assets/thumb/65090f33e62aa7f353e4be8b647d2968-thumbnail.jpg",Florida State Seminoles vs. Virginia Cavaliers (26 September 2025 at 23:00)
-
 #EXTINF:-1 tvg-id="ppv-11822" tvg-name="Colorado Rockies vs. San Francisco Giants (27 September 2025 at 02:15)" tvg-epgid="11822" tvg-logo="https://ppvs.su/assets/thumb/8cacf742323f09a4cf9be2d6ebd7acc5-thumbnail.jpg",Colorado Rockies vs. San Francisco Giants (27 September 2025 at 02:15)
 
 #EXTINF:-1 tvg-id="ppv-11821" tvg-name="Kansas City Royals vs. Athletics (27 September 2025 at 02:05)" tvg-epgid="11821" tvg-logo="https://ppvs.su/assets/thumb/300fa5a2f4b5d4bf6167f5530f79e9e9-thumbnail.jpg",Kansas City Royals vs. Athletics (27 September 2025 at 02:05)
@@ -69,25 +67,7 @@ https://gg.poocloud.in/ESPNU/index.m3u8?md5=TSkgrbKxej5ns-9-192gXA&expires=17590
 
 #EXTINF:-1 tvg-id="ppv-11817" tvg-name="Cincinnati Reds vs. Milwaukee Brewers (27 September 2025 at 00:10)" tvg-epgid="11817" tvg-logo="https://ppvs.su/assets/thumb/b020697aa5af612b87d4081ce991fd62-thumbnail.jpg",Cincinnati Reds vs. Milwaukee Brewers (27 September 2025 at 00:10)
 
-#EXTINF:-1 tvg-id="ppv-11816" tvg-name="Pittsburgh Pirates vs. Atlanta Braves (26 September 2025 at 23:15)" tvg-epgid="11816" tvg-logo="https://ppvs.su/assets/thumb/b4c6e8efe65fa3cf4449e75194e56293-thumbnail.jpg",Pittsburgh Pirates vs. Atlanta Braves (26 September 2025 at 23:15)
-
-#EXTINF:-1 tvg-id="ppv-11813" tvg-name="Detroit Tigers vs. Boston Red Sox (26 September 2025 at 23:10)" tvg-epgid="11813" tvg-logo="https://ppvs.su/assets/thumb/beebd5aa6bb5af736a7df750f0415244-thumbnail.jpg",Detroit Tigers vs. Boston Red Sox (26 September 2025 at 23:10)
-
-#EXTINF:-1 tvg-id="ppv-11814" tvg-name="New York Mets vs. Miami Marlins (26 September 2025 at 23:10)" tvg-epgid="11814" tvg-logo="https://ppvs.su/assets/thumb/6af791f34a3bfcac86294c51c374ac9b-thumbnail.jpg",New York Mets vs. Miami Marlins (26 September 2025 at 23:10)
-
-#EXTINF:-1 tvg-id="ppv-11815" tvg-name="Texas Rangers vs. Cleveland Guardians (26 September 2025 at 23:10)" tvg-epgid="11815" tvg-logo="https://ppvs.su/assets/thumb/efe54bc9c021199f50e8ead0f554fcad-thumbnail.jpg",Texas Rangers vs. Cleveland Guardians (26 September 2025 at 23:10)
-
-#EXTINF:-1 tvg-id="ppv-11812" tvg-name="Tampa Bay Rays vs. Toronto Blue Jays (26 September 2025 at 23:07)" tvg-epgid="11812" tvg-logo="https://ppvs.su/assets/thumb/889747dc6ce91ad7549fd7cce26d6a8a-thumbnail.jpg",Tampa Bay Rays vs. Toronto Blue Jays (26 September 2025 at 23:07)
-
-#EXTINF:-1 tvg-id="ppv-11811" tvg-name="Baltimore Orioles vs. New York Yankees (26 September 2025 at 23:05)" tvg-epgid="11811" tvg-logo="https://ppvs.su/assets/thumb/e939afa0adb5b9ba2efd45b91ef879f8-thumbnail.jpg",Baltimore Orioles vs. New York Yankees (26 September 2025 at 23:05)
-
-#EXTINF:-1 tvg-id="ppv-11809" tvg-name="Chicago White Sox vs. Washington Nationals (26 September 2025 at 22:45)" tvg-epgid="11809" tvg-logo="https://ppvs.su/assets/thumb/e7d4a5483b76767e2691497167a4d6c8-thumbnail.jpg",Chicago White Sox vs. Washington Nationals (26 September 2025 at 22:45)
-
-#EXTINF:-1 tvg-id="ppv-11810" tvg-name="Minnesota Twins vs. Philadelphia Phillies (26 September 2025 at 22:45)" tvg-epgid="11810" tvg-logo="https://ppvs.su/assets/thumb/4cfc191ae205a2ed9d2245c7a0e12e35-thumbnail.jpg",Minnesota Twins vs. Philadelphia Phillies (26 September 2025 at 22:45)
-
 #EXTINF:-1 tvg-id="ppv-11834" tvg-name="Lynx at Mercury (Game 3) (27 September 2025 at 01:30)" tvg-epgid="11834" tvg-logo="https://ppvs.su/assets/thumb/3cde5481552b2a027bf2a6657cbcddc3-thumbnail.jpg",Lynx at Mercury (Game 3) (27 September 2025 at 01:30)
-
-#EXTINF:-1 tvg-id="ppv-11835" tvg-name="Aces at Fever (Game 3) (26 September 2025 at 23:30)" tvg-epgid="11835" tvg-logo="https://ppvs.su/assets/thumb/20c7d4c880b56278ac660d25bc206a0f-thumbnail.jpg",Aces at Fever (Game 3) (26 September 2025 at 23:30)
 
 #EXTINF:-1 tvg-id="ppv-11831" tvg-name="Real Betis vs. CA Osasuna (28 September 2025 at 19:00)" tvg-epgid="11831" tvg-logo="https://ppvs.su/assets/thumb/0c414e1996f329a29b818499c8c19596-thumbnail.jpg",Real Betis vs. CA Osasuna (28 September 2025 at 19:00)
 
@@ -172,17 +152,11 @@ https://gg.poocloud.in/ESPNU/index.m3u8?md5=TSkgrbKxej5ns-9-192gXA&expires=17590
 #EXTINF:-1 tvg-id="ppv-11617" tvg-name="Brentford vs. Manchester United (27 September 2025 at 11:30)" tvg-epgid="11617" tvg-logo="https://ppvs.su/assets/thumb/5d19674240f420a5328785caae9523ec-thumbnail.jpg",Brentford vs. Manchester United (27 September 2025 at 11:30)
 
 #EXTINF:-1 tvg-id="ppv-11857" tvg-name="Vegas Golden Knights vs. San Jose Sharks (27 September 2025 at 02:00)" tvg-epgid="11857" tvg-logo="https://ppvs.su/assets/thumb/0dda327db9d18898710cfdc4b83a7f97-thumbnail.jpg",Vegas Golden Knights vs. San Jose Sharks (27 September 2025 at 02:00)
-https://gg.poocloud.in/sanjosesharks/index.m3u8?md5=gCWLg5pzasgPqUXTW149DQ&expires=1758951000&net=MTMyLjE5Ni44My4zNA%3D%3D
+https://gg.poocloud.in/sanjosesharks/index.m3u8?md5=gCWLg5pzasgPqUXTW149DQ&expires=1758951000&net=MTM1LjIzMi4yMzIuNjU%3D
 #EXTINF:-1 tvg-id="ppv-11858" tvg-name="Seattle Kraken vs. Vancouver Canucks (27 September 2025 at 02:00)" tvg-epgid="11858" tvg-logo="https://ppvs.su/assets/thumb/398bc66937d15ad8981775359102a254-thumbnail.jpg",Seattle Kraken vs. Vancouver Canucks (27 September 2025 at 02:00)
-https://gg.poocloud.in/vancouvercanucks/index.m3u8?md5=gCWLg5pzasgPqUXTW149DQ&expires=1758951000&net=MTMyLjE5Ni44My4zNA%3D%3D
+https://gg.poocloud.in/vancouvercanucks/index.m3u8?md5=gCWLg5pzasgPqUXTW149DQ&expires=1758951000&net=MTM1LjIzMi4yMzIuNjU%3D
 #EXTINF:-1 tvg-id="ppv-11856" tvg-name="Winnipeg Jets vs. Edmonton Oilers (27 September 2025 at 01:00)" tvg-epgid="11856" tvg-logo="https://ppvs.su/assets/thumb/5f96067dde300e232690e0f725a88442-thumbnail.jpg",Winnipeg Jets vs. Edmonton Oilers (27 September 2025 at 01:00)
-https://gg.poocloud.in/edmontonoilers/index.m3u8?md5=HtjOTUgNT5I8aUxgjy_OTw&expires=1758947400&net=MTMyLjE5Ni44My4zNA%3D%3D
-#EXTINF:-1 tvg-id="ppv-11853" tvg-name="Carolina Hurricanes vs. Tampa Bay Lightning (26 September 2025 at 23:00)" tvg-epgid="11853" tvg-logo="https://ppvs.su/assets/thumb/38b74f3e98c416884d529f2b2e59b6e4-thumbnail.jpg",Carolina Hurricanes vs. Tampa Bay Lightning (26 September 2025 at 23:00)
-https://gg.poocloud.in/tampabaylightning/index.m3u8?md5=vtCq8Jq9HQA6kFpA8S5PAw&expires=1758940200&net=MTMyLjE5Ni44My4zNA%3D%3D
-#EXTINF:-1 tvg-id="ppv-11854" tvg-name="Detroit Red Wings vs. Pittsburgh Penguins (26 September 2025 at 23:00)" tvg-epgid="11854" tvg-logo="https://ppvs.su/assets/thumb/aa8be93ef318f775e0ba67e7ea4b8b74-thumbnail.jpg",Detroit Red Wings vs. Pittsburgh Penguins (26 September 2025 at 23:00)
-https://gg.poocloud.in/pittsburghpenguins/index.m3u8?md5=vtCq8Jq9HQA6kFpA8S5PAw&expires=1758940200&net=MTMyLjE5Ni44My4zNA%3D%3D
-#EXTINF:-1 tvg-id="ppv-11855" tvg-name="New Jersey Devils vs. New York Islanders (26 September 2025 at 23:00)" tvg-epgid="11855" tvg-logo="https://ppvs.su/assets/thumb/bc42be7030f19a0428d27ffac49d673a-thumbnail.jpg",New Jersey Devils vs. New York Islanders (26 September 2025 at 23:00)
-https://gg.poocloud.in/newyorkislanders/index.m3u8?md5=vtCq8Jq9HQA6kFpA8S5PAw&expires=1758940200&net=MTMyLjE5Ni44My4zNA%3D%3D
+https://gg.poocloud.in/edmontonoilers/index.m3u8?md5=HtjOTUgNT5I8aUxgjy_OTw&expires=1758947400&net=MTM1LjIzMi4yMzIuNjU%3D
 #EXTINF:-1 tvg-id="ppv-11678" tvg-name="AEW: Saturday Night Collision (28 September 2025 at 00:00)" tvg-epgid="11678" tvg-logo="https://ppvs.su/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg",AEW: Saturday Night Collision (28 September 2025 at 00:00)
 
 #EXTINF:-1 tvg-id="ppv-11677" tvg-name="WWE: Friday Night Smackdown (27 September 2025 at 00:00)" tvg-epgid="11677" tvg-logo="https://ppvs.su/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg",WWE: Friday Night Smackdown (27 September 2025 at 00:00)
