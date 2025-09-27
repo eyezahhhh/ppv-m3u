@@ -32,7 +32,7 @@
 #EXTINF:-1 tvg-id="ppv-11850" tvg-name="Alabama Crimson Tide vs. Georgia Bulldogs (27 September 2025 at 23:30)" tvg-epgid="11850" tvg-logo="https://ppvs.su/assets/thumb/701b15d45c046330b295d70f2c2f89f3-thumbnail.jpg",Alabama Crimson Tide vs. Georgia Bulldogs (27 September 2025 at 23:30)
 
 #EXTINF:-1 tvg-id="ppv-11851" tvg-name="Massachusetts Minutemen vs. Missouri Tigers (27 September 2025 at 23:30)" tvg-epgid="11851" tvg-logo="https://ppvs.su/assets/thumb/5b977717d7e0d09fb14516b005e4b60c-thumbnail.jpg",Massachusetts Minutemen vs. Missouri Tigers (27 September 2025 at 23:30)
-https://gg.poocloud.in/ESPNU/index.m3u8?md5=TSkgrbKxej5ns-9-192gXA&expires=1759028400&net=MTcyLjIxNS4yMDkuMTgx
+https://gg.poocloud.in/ESPNU/index.m3u8?md5=TSkgrbKxej5ns-9-192gXA&expires=1759028400&net=NTIuMTU0LjEzMC4yMTA%3D
 #EXTINF:-1 tvg-id="ppv-11848" tvg-name="Arizona Wildcats vs. Iowa State Cyclones (27 September 2025 at 23:00)" tvg-epgid="11848" tvg-logo="https://ppvs.su/assets/thumb/ece5a53e87d3360d5f92540742d05352-thumbnail.jpg",Arizona Wildcats vs. Iowa State Cyclones (27 September 2025 at 23:00)
 
 #EXTINF:-1 tvg-id="ppv-11847" tvg-name="Tennessee Volunteers vs. Mississippi State Bulldogs (27 September 2025 at 20:15)" tvg-epgid="11847" tvg-logo="https://ppvs.su/assets/thumb/17ebe3eb234cf9670564c4228c7857e3-thumbnail.jpg",Tennessee Volunteers vs. Mississippi State Bulldogs (27 September 2025 at 20:15)
@@ -46,12 +46,6 @@ https://gg.poocloud.in/ESPNU/index.m3u8?md5=TSkgrbKxej5ns-9-192gXA&expires=17590
 #EXTINF:-1 tvg-id="ppv-11846" tvg-name="Indiana Hoosiers vs. Iowa Hawkeyes (27 September 2025 at 19:30)" tvg-epgid="11846" tvg-logo="https://ppvs.su/assets/thumb/f1405b0bb4603d07dfe6409ce606191c-thumbnail.jpg",Indiana Hoosiers vs. Iowa Hawkeyes (27 September 2025 at 19:30)
 
 #EXTINF:-1 tvg-id="ppv-11842" tvg-name="Utah State Aggies vs. Vanderbilt Commodores (27 September 2025 at 16:45)" tvg-epgid="11842" tvg-logo="https://ppvs.su/assets/thumb/7e54ea78adf5c4980ed6053602ed3865-thumbnail.jpg",Utah State Aggies vs. Vanderbilt Commodores (27 September 2025 at 16:45)
-
-#EXTINF:-1 tvg-id="ppv-11839" tvg-name="Georgia Tech Yellow Jackets vs. Wake Forest Demon Deacons (27 September 2025 at 16:00)" tvg-epgid="11839" tvg-logo="https://ppvs.su/assets/thumb/c45b88492e8eddd33feed6f828622104-thumbnail.jpg",Georgia Tech Yellow Jackets vs. Wake Forest Demon Deacons (27 September 2025 at 16:00)
-
-#EXTINF:-1 tvg-id="ppv-11840" tvg-name="USC Trojans vs. Illinois Fighting Illini (27 September 2025 at 16:00)" tvg-epgid="11840" tvg-logo="https://ppvs.su/assets/thumb/1b1728626aa6e8aba4ee87010dd00376-thumbnail.jpg",USC Trojans vs. Illinois Fighting Illini (27 September 2025 at 16:00)
-
-#EXTINF:-1 tvg-id="ppv-11841" tvg-name="Notre Dame Fighting Irish vs. Arkansas Razorbacks (27 September 2025 at 16:00)" tvg-epgid="11841" tvg-logo="https://ppvs.su/assets/thumb/6649c7abdfeb75990fd938aaf12187b3-thumbnail.jpg",Notre Dame Fighting Irish vs. Arkansas Razorbacks (27 September 2025 at 16:00)
 
 #EXTINF:-1 tvg-id="ppv-11873" tvg-name="Kansas City Royals vs. Athletics (28 September 2025 at 02:05)" tvg-epgid="11873" tvg-logo="https://ppvs.su/assets/thumb/300fa5a2f4b5d4bf6167f5530f79e9e9-thumbnail.jpg",Kansas City Royals vs. Athletics (28 September 2025 at 02:05)
 
@@ -84,7 +78,13 @@ https://gg.poocloud.in/ESPNU/index.m3u8?md5=TSkgrbKxej5ns-9-192gXA&expires=17590
 #EXTINF:-1 tvg-id="ppv-11859" tvg-name="Baltimore Orioles vs. New York Yankees (27 September 2025 at 17:05)" tvg-epgid="11859" tvg-logo="https://ppvs.su/assets/thumb/e939afa0adb5b9ba2efd45b91ef879f8-thumbnail.jpg",Baltimore Orioles vs. New York Yankees (27 September 2025 at 17:05)
 
 #EXTINF:-1 tvg-id="ppv-11875" tvg-name="UFC Fight Night: Ulberg vs. Reyes (27 September 2025 at 23:00)" tvg-epgid="11875" tvg-logo="https://ppvs.su/assets/thumb/68187bda2650d8f0df6897e4212a97e5-thumbnail.jpg",UFC Fight Night: Ulberg vs. Reyes (27 September 2025 at 23:00)
-https://gg.poocloud.in/ufc/index.m3u8?md5=9201yvTB91EvoIRlJ8FasQ&expires=1759044600&net=MTcyLjIxNS4yMDkuMTgx
+https://gg.poocloud.in/ufc/index.m3u8?md5=9201yvTB91EvoIRlJ8FasQ&expires=1759044600&net=NTIuMTU0LjEzMC4yMTA%3D
+#EXTINF:-1 tvg-id="ppv-11620" tvg-name="Everton vs. West Ham United (29 September 2025 at 19:00)" tvg-epgid="11620" tvg-logo="https://ppvs.su/assets/thumb/a76a46437f25200011512183c9a71b66-thumbnail.jpg",Everton vs. West Ham United (29 September 2025 at 19:00)
+
+#EXTINF:-1 tvg-id="ppv-11832" tvg-name="Valencia CF vs. Real Oviedo (29 September 2025 at 19:00)" tvg-epgid="11832" tvg-logo="https://ppvs.su/assets/thumb/a20422b76a2ecf67c2f421167859268e-thumbnail.jpg",Valencia CF vs. Real Oviedo (29 September 2025 at 19:00)
+
+#EXTINF:-1 tvg-id="ppv-11734" tvg-name="Genoa vs. Lazio (29 September 2025 at 18:45)" tvg-epgid="11734" tvg-logo="https://ppvs.su/assets/thumb/6d06e7ab7451242c289e10ac4fbed23e-thumbnail.jpg",Genoa vs. Lazio (29 September 2025 at 18:45)
+
 #EXTINF:-1 tvg-id="ppv-11733" tvg-name="Parma vs. Torino (29 September 2025 at 16:30)" tvg-epgid="11733" tvg-logo="https://ppvs.su/assets/thumb/1bba1382e33a2a34470926a95e5d2203-thumbnail.jpg",Parma vs. Torino (29 September 2025 at 16:30)
 
 #EXTINF:-1 tvg-id="ppv-11831" tvg-name="Real Betis vs. CA Osasuna (28 September 2025 at 19:00)" tvg-epgid="11831" tvg-logo="https://ppvs.su/assets/thumb/0c414e1996f329a29b818499c8c19596-thumbnail.jpg",Real Betis vs. CA Osasuna (28 September 2025 at 19:00)
@@ -141,15 +141,13 @@ https://gg.poocloud.in/ufc/index.m3u8?md5=9201yvTB91EvoIRlJ8FasQ&expires=1759044
 
 #EXTINF:-1 tvg-id="ppv-11826" tvg-name="RCD Mallorca vs. Deportivo Alavés (27 September 2025 at 16:30)" tvg-epgid="11826" tvg-logo="https://ppvs.su/assets/thumb/7f50eced822bb7e0c57e661e4c1dfaa4-thumbnail.jpg",RCD Mallorca vs. Deportivo Alavés (27 September 2025 at 16:30)
 
-#EXTINF:-1 tvg-id="ppv-11726" tvg-name="Juventus vs. Atalanta (27 September 2025 at 16:00)" tvg-epgid="11726" tvg-logo="https://ppvs.su/assets/thumb/2aa5ba894322c9b55bd21e6cd0ee5361-thumbnail.jpg",Juventus vs. Atalanta (27 September 2025 at 16:00)
-
 #EXTINF:-1 tvg-id="ppv-11678" tvg-name="AEW: Saturday Night Collision (28 September 2025 at 00:00)" tvg-epgid="11678" tvg-logo="https://ppvs.su/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg",AEW: Saturday Night Collision (28 September 2025 at 00:00)
 
 #EXTINF:-1 tvg-id="ppv-5191" tvg-name="24/7 The Simpsons" tvg-epgid="5191" tvg-logo="https://thumbs.poocloud.in/thesimpsons/preview.jpg",24/7 The Simpsons
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MGQzNzI5MTE0YjQwLTVmYmEtYmE3NC1kOThlLWY2MmU4NGI4/master.m3u8?md5=6gxeCPJJVOH2-9GETA1K5Q&expires=1759041482&net=MTcyLjIxNS4yMDkuMTgx
-#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family‌​‌​‌‌​​‌‌​‌​‌‌‌‌‌​‌​​​‌‌​‌‌​‌​‌ Guy" tvg-epgid="8008" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg",24/7 Family‌​‌​‌‌​​‌‌​‌​‌‌‌‌‌​‌​​​‌‌​‌‌​‌​‌ Guy
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YTA5ZTU3MjFhNTI0LWRkZTktZTRlNC1mMzU4LTQwMWI0YjJk/master.m3u8?md5=7PM9CK5BQtNIOQWMr4Ai_Q&expires=1759041483&net=MTcyLjIxNS4yMDkuMTgx
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MGQzNzI5MTE0YjQwLTVmYmEtYmE3NC1kOThlLWY2MmU4NGI4/master.m3u8?md5=DoL5AY8klXJWAeaLOKAPtw&expires=1759043090&net=NTIuMTU0LjEzMC4yMTA%3D
+#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family​​‌‌​‌​​‌​​‌‌​‌​‌​​​​​‌​‌‌​‌​​‌​ Guy" tvg-epgid="8008" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg",24/7 Family​​‌‌​‌​​‌​​‌‌​‌​‌​​​​​‌​‌‌​‌​​‌​ Guy
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YTA5ZTU3MjFhNTI0LWRkZTktZTRlNC1mMzU4LTQwMWI0YjJk/master.m3u8?md5=DoL5AY8klXJWAeaLOKAPtw&expires=1759043090&net=NTIuMTU0LjEzMC4yMTA%3D
 #EXTINF:-1 tvg-id="ppv-3663" tvg-name="24/7 COWS" tvg-epgid="3663" tvg-logo="https://ppvs.su/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg",24/7 COWS
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8?md5=7PM9CK5BQtNIOQWMr4Ai_Q&expires=1759041483&net=MTcyLjIxNS4yMDkuMTgx
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8?md5=DoL5AY8klXJWAeaLOKAPtw&expires=1759043090&net=NTIuMTU0LjEzMC4yMTA%3D
 #EXTINF:-1 tvg-id="ppv-5112" tvg-name="24/7 South Park" tvg-epgid="5112" tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg",24/7 South Park
-https://gg.poocloud.in/southpark/index.m3u8?md5=9L00J10mfRZ4iawwnwT-9Q&expires=1759041484&net=MTcyLjIxNS4yMDkuMTgx
+https://gg.poocloud.in/southpark/index.m3u8?md5=vqoVfiLZ2FjVfzzINzATlg&expires=1759043091&net=NTIuMTU0LjEzMC4yMTA%3D
