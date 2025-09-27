@@ -1627,116 +1627,6 @@ channel="ppv-11825"
 <icon src="https://ppvs.su/assets/thumb/85414c0d02c2728f9236db73843a1070-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-5193">
-<display-name>Goal Rush</display-name>
-</channel>
-<programme
-start="20250927140000 +0000"
-stop="20250927170000 +0000"
-channel="ppv-5193"
->
-<title lang="en">Goal Rush</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/7e5a5d5d101ec513c9f8e00aea73e1ed-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-11618">
-<display-name>Chelsea vs. Brighton and Hove Albion</display-name>
-</channel>
-<programme
-start="20250927140000 +0000"
-stop="20250927170000 +0000"
-channel="ppv-11618"
->
-<title lang="en">Chelsea vs. Brighton and Hove Albion</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/b57c1133562ae78a6ff498c7bed33b4d-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-11619">
-<display-name>Crystal Palace vs. Liverpool</display-name>
-</channel>
-<programme
-start="20250927140000 +0000"
-stop="20250927170000 +0000"
-channel="ppv-11619"
->
-<title lang="en">Crystal Palace vs. Liverpool</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/1b3d15e0652dee6732a23e49836b8aba-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-11621">
-<display-name>Leeds United vs. Bournemouth</display-name>
-</channel>
-<programme
-start="20250927140000 +0000"
-stop="20250927170000 +0000"
-channel="ppv-11621"
->
-<title lang="en">Leeds United vs. Bournemouth</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/40c0ec219b19552a87f3db5b3d3fa4b4-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-11622">
-<display-name>Manchester City vs. Burnley</display-name>
-</channel>
-<programme
-start="20250927140000 +0000"
-stop="20250927170000 +0000"
-channel="ppv-11622"
->
-<title lang="en">Manchester City vs. Burnley</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/04bd9706139b65b35a7de9db5f774d7b-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-11678">
 <display-name>AEW: Saturday Night Collision</display-name>
 </channel>
@@ -1782,14 +1672,14 @@ channel="ppv-5191"
 </programme>
 
 <channel id="ppv-8008">
-<display-name>24/7 Family‌​‌​‌‌​​‌​‌​‌‌‌​‌​‌​​‌‌​‌‌​​​​‌​ Guy</display-name>
+<display-name>24/7 Family​​‌‌​‌​​‌​​‌‌‌‌‌‌‌‌​​‌​‌‌​​‌​​‌​ Guy</display-name>
 </channel>
 <programme
 start="20250118080000 +0000"
 stop="20250118090000 +0000"
 channel="ppv-8008"
 >
-<title lang="en">24/7 Family‌​‌​‌‌​​‌​‌​‌‌‌​‌​‌​​‌‌​‌‌​​​​‌​ Guy</title>
+<title lang="en">24/7 Family​​‌‌​‌​​‌​​‌‌‌‌‌‌‌‌​​‌​‌‌​​‌​​‌​ Guy</title>
 <sub-title>24/7 Streams</sub-title>
 <video>
 <present>yes</present>

@@ -32,7 +32,7 @@
 #EXTINF:-1 tvg-id="ppv-11850" tvg-name="Alabama Crimson Tide vs. Georgia Bulldogs (27 September 2025 at 23:30)" tvg-epgid="11850" tvg-logo="https://ppvs.su/assets/thumb/701b15d45c046330b295d70f2c2f89f3-thumbnail.jpg",Alabama Crimson Tide vs. Georgia Bulldogs (27 September 2025 at 23:30)
 
 #EXTINF:-1 tvg-id="ppv-11851" tvg-name="Massachusetts Minutemen vs. Missouri Tigers (27 September 2025 at 23:30)" tvg-epgid="11851" tvg-logo="https://ppvs.su/assets/thumb/5b977717d7e0d09fb14516b005e4b60c-thumbnail.jpg",Massachusetts Minutemen vs. Missouri Tigers (27 September 2025 at 23:30)
-https://gg.poocloud.in/ESPNU/index.m3u8?md5=TSkgrbKxej5ns-9-192gXA&expires=1759028400&net=MTcyLjE3NC4xNjYuMTk0
+https://gg.poocloud.in/ESPNU/index.m3u8?md5=TSkgrbKxej5ns-9-192gXA&expires=1759028400&net=NTIuMTU5LjIyOS4xNDY%3D
 #EXTINF:-1 tvg-id="ppv-11848" tvg-name="Arizona Wildcats vs. Iowa State Cyclones (27 September 2025 at 23:00)" tvg-epgid="11848" tvg-logo="https://ppvs.su/assets/thumb/ece5a53e87d3360d5f92540742d05352-thumbnail.jpg",Arizona Wildcats vs. Iowa State Cyclones (27 September 2025 at 23:00)
 
 #EXTINF:-1 tvg-id="ppv-11847" tvg-name="Tennessee Volunteers vs. Mississippi State Bulldogs (27 September 2025 at 20:15)" tvg-epgid="11847" tvg-logo="https://ppvs.su/assets/thumb/17ebe3eb234cf9670564c4228c7857e3-thumbnail.jpg",Tennessee Volunteers vs. Mississippi State Bulldogs (27 September 2025 at 20:15)
@@ -84,7 +84,7 @@ https://gg.poocloud.in/ESPNU/index.m3u8?md5=TSkgrbKxej5ns-9-192gXA&expires=17590
 #EXTINF:-1 tvg-id="ppv-11859" tvg-name="Baltimore Orioles vs. New York Yankees (27 September 2025 at 17:05)" tvg-epgid="11859" tvg-logo="https://ppvs.su/assets/thumb/e939afa0adb5b9ba2efd45b91ef879f8-thumbnail.jpg",Baltimore Orioles vs. New York Yankees (27 September 2025 at 17:05)
 
 #EXTINF:-1 tvg-id="ppv-11875" tvg-name="UFC Fight Night: Ulberg vs. Reyes (27 September 2025 at 23:00)" tvg-epgid="11875" tvg-logo="https://ppvs.su/assets/thumb/68187bda2650d8f0df6897e4212a97e5-thumbnail.jpg",UFC Fight Night: Ulberg vs. Reyes (27 September 2025 at 23:00)
-https://gg.poocloud.in/ufc/index.m3u8?md5=9201yvTB91EvoIRlJ8FasQ&expires=1759044600&net=MTcyLjE3NC4xNjYuMTk0
+https://gg.poocloud.in/ufc/index.m3u8?md5=9201yvTB91EvoIRlJ8FasQ&expires=1759044600&net=NTIuMTU5LjIyOS4xNDY%3D
 #EXTINF:-1 tvg-id="ppv-11733" tvg-name="Parma vs. Torino (29 September 2025 at 16:30)" tvg-epgid="11733" tvg-logo="https://ppvs.su/assets/thumb/1bba1382e33a2a34470926a95e5d2203-thumbnail.jpg",Parma vs. Torino (29 September 2025 at 16:30)
 
 #EXTINF:-1 tvg-id="ppv-11831" tvg-name="Real Betis vs. CA Osasuna (28 September 2025 at 19:00)" tvg-epgid="11831" tvg-logo="https://ppvs.su/assets/thumb/0c414e1996f329a29b818499c8c19596-thumbnail.jpg",Real Betis vs. CA Osasuna (28 September 2025 at 19:00)
@@ -147,23 +147,13 @@ https://gg.poocloud.in/ufc/index.m3u8?md5=9201yvTB91EvoIRlJ8FasQ&expires=1759044
 
 #EXTINF:-1 tvg-id="ppv-11825" tvg-name="Atlético de Madrid vs. Real Madrid (27 September 2025 at 14:15)" tvg-epgid="11825" tvg-logo="https://ppvs.su/assets/thumb/85414c0d02c2728f9236db73843a1070-thumbnail.jpg",Atlético de Madrid vs. Real Madrid (27 September 2025 at 14:15)
 
-#EXTINF:-1 tvg-id="ppv-5193" tvg-name="Goal Rush (27 September 2025 at 14:00)" tvg-epgid="5193" tvg-logo="https://ppvs.su/assets/thumb/7e5a5d5d101ec513c9f8e00aea73e1ed-thumbnail.jpg",Goal Rush (27 September 2025 at 14:00)
-
-#EXTINF:-1 tvg-id="ppv-11618" tvg-name="Chelsea vs. Brighton and Hove Albion (27 September 2025 at 14:00)" tvg-epgid="11618" tvg-logo="https://ppvs.su/assets/thumb/b57c1133562ae78a6ff498c7bed33b4d-thumbnail.jpg",Chelsea vs. Brighton and Hove Albion (27 September 2025 at 14:00)
-
-#EXTINF:-1 tvg-id="ppv-11619" tvg-name="Crystal Palace vs. Liverpool (27 September 2025 at 14:00)" tvg-epgid="11619" tvg-logo="https://ppvs.su/assets/thumb/1b3d15e0652dee6732a23e49836b8aba-thumbnail.jpg",Crystal Palace vs. Liverpool (27 September 2025 at 14:00)
-
-#EXTINF:-1 tvg-id="ppv-11621" tvg-name="Leeds United vs. Bournemouth (27 September 2025 at 14:00)" tvg-epgid="11621" tvg-logo="https://ppvs.su/assets/thumb/40c0ec219b19552a87f3db5b3d3fa4b4-thumbnail.jpg",Leeds United vs. Bournemouth (27 September 2025 at 14:00)
-
-#EXTINF:-1 tvg-id="ppv-11622" tvg-name="Manchester City vs. Burnley (27 September 2025 at 14:00)" tvg-epgid="11622" tvg-logo="https://ppvs.su/assets/thumb/04bd9706139b65b35a7de9db5f774d7b-thumbnail.jpg",Manchester City vs. Burnley (27 September 2025 at 14:00)
-
 #EXTINF:-1 tvg-id="ppv-11678" tvg-name="AEW: Saturday Night Collision (28 September 2025 at 00:00)" tvg-epgid="11678" tvg-logo="https://ppvs.su/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg",AEW: Saturday Night Collision (28 September 2025 at 00:00)
 
 #EXTINF:-1 tvg-id="ppv-5191" tvg-name="24/7 The Simpsons" tvg-epgid="5191" tvg-logo="https://thumbs.poocloud.in/thesimpsons/preview.jpg",24/7 The Simpsons
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MGQzNzI5MTE0YjQwLTVmYmEtYmE3NC1kOThlLWY2MmU4NGI4/master.m3u8?md5=qUndtlHsHPy0ogTMtQgrGw&expires=1759034187&net=MTcyLjE3NC4xNjYuMTk0
-#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family‌​‌​‌‌​​‌​‌​‌‌‌​‌​‌​​‌‌​‌‌​​​​‌​ Guy" tvg-epgid="8008" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg",24/7 Family‌​‌​‌‌​​‌​‌​‌‌‌​‌​‌​​‌‌​‌‌​​​​‌​ Guy
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YTA5ZTU3MjFhNTI0LWRkZTktZTRlNC1mMzU4LTQwMWI0YjJk/master.m3u8?md5=qUndtlHsHPy0ogTMtQgrGw&expires=1759034187&net=MTcyLjE3NC4xNjYuMTk0
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MGQzNzI5MTE0YjQwLTVmYmEtYmE3NC1kOThlLWY2MmU4NGI4/master.m3u8?md5=ufH8xoHUFKbsdfvNqjwWTA&expires=1759035909&net=NTIuMTU5LjIyOS4xNDY%3D
+#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family​​‌‌​‌​​‌​​‌‌‌‌‌‌‌‌​​‌​‌‌​​‌​​‌​ Guy" tvg-epgid="8008" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg",24/7 Family​​‌‌​‌​​‌​​‌‌‌‌‌‌‌‌​​‌​‌‌​​‌​​‌​ Guy
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YTA5ZTU3MjFhNTI0LWRkZTktZTRlNC1mMzU4LTQwMWI0YjJk/master.m3u8?md5=g5TNqUgSg7jSJT8gTpJTlw&expires=1759035910&net=NTIuMTU5LjIyOS4xNDY%3D
 #EXTINF:-1 tvg-id="ppv-3663" tvg-name="24/7 COWS" tvg-epgid="3663" tvg-logo="https://ppvs.su/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg",24/7 COWS
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8?md5=qUndtlHsHPy0ogTMtQgrGw&expires=1759034187&net=MTcyLjE3NC4xNjYuMTk0
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8?md5=g5TNqUgSg7jSJT8gTpJTlw&expires=1759035910&net=NTIuMTU5LjIyOS4xNDY%3D
 #EXTINF:-1 tvg-id="ppv-5112" tvg-name="24/7 South Park" tvg-epgid="5112" tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg",24/7 South Park
-https://gg.poocloud.in/southpark/index.m3u8?md5=qUndtlHsHPy0ogTMtQgrGw&expires=1759034187&net=MTcyLjE3NC4xNjYuMTk0
+https://gg.poocloud.in/southpark/index.m3u8?md5=qHZqb2_vxuF7RMTWwUtkCw&expires=1759035911&net=NTIuMTU5LjIyOS4xNDY%3D
