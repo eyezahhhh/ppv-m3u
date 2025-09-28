@@ -1033,28 +1033,6 @@ channel="ppv-11657"
 <icon src="https://ppvs.su/assets/thumb/9c540ec90c4fb6bc6047a9a3d0898be3-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-11829">
-<display-name>Elche CF vs. Celta</display-name>
-</channel>
-<programme
-start="20250928141500 +0000"
-stop="20250928171500 +0000"
-channel="ppv-11829"
->
-<title lang="en">Elche CF vs. Celta</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/3b7d40685fea78089d775b49f87cbbc4-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-11907">
 <display-name>Vancouver Canucks vs. Edmonton Oilers</display-name>
 </channel>
