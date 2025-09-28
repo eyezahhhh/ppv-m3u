@@ -65,50 +65,6 @@ channel="ppv-11787"
 <icon src="https://ppvs.su/assets/thumb/676832ba069764a9248a982bd499fe3d-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-11785">
-<display-name>Baltimore Ravens vs. Kansas City Chiefs</display-name>
-</channel>
-<programme
-start="20250928202500 +0000"
-stop="20250928232500 +0000"
-channel="ppv-11785"
->
-<title lang="en">Baltimore Ravens vs. Kansas City Chiefs</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://ppvs.su/assets/thumb/6a04ece09dcd7e6f67ed1ed9cca39101-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-11786">
-<display-name>Chicago Bears vs. Las Vegas Raiders</display-name>
-</channel>
-<programme
-start="20250928202500 +0000"
-stop="20250928232500 +0000"
-channel="ppv-11786"
->
-<title lang="en">Chicago Bears vs. Las Vegas Raiders</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://ppvs.su/assets/thumb/49e72355a587607bf41f54b5ced3a44b-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-11090">
 <display-name>NFL RedZone</display-name>
 </channel>

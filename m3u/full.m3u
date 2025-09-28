@@ -5,10 +5,6 @@
 
 #EXTINF:-1 tvg-id="ppv-11787" tvg-name="Green Bay Packers vs. Dallas Cowboys (29 September 2025 at 00:20)" tvg-epgid="11787" tvg-logo="https://ppvs.su/assets/thumb/676832ba069764a9248a982bd499fe3d-thumbnail.jpg",Green Bay Packers vs. Dallas Cowboys (29 September 2025 at 00:20)
 
-#EXTINF:-1 tvg-id="ppv-11785" tvg-name="Baltimore Ravens vs. Kansas City Chiefs (28 September 2025 at 20:25)" tvg-epgid="11785" tvg-logo="https://ppvs.su/assets/thumb/6a04ece09dcd7e6f67ed1ed9cca39101-thumbnail.jpg",Baltimore Ravens vs. Kansas City Chiefs (28 September 2025 at 20:25)
-
-#EXTINF:-1 tvg-id="ppv-11786" tvg-name="Chicago Bears vs. Las Vegas Raiders (28 September 2025 at 20:25)" tvg-epgid="11786" tvg-logo="https://ppvs.su/assets/thumb/49e72355a587607bf41f54b5ced3a44b-thumbnail.jpg",Chicago Bears vs. Las Vegas Raiders (28 September 2025 at 20:25)
-
 #EXTINF:-1 tvg-id="ppv-11090" tvg-name="NFL RedZone (28 September 2025 at 16:59)" tvg-epgid="11090" tvg-logo="https://ppvs.su/assets/thumb/9b88a03d3fe959c1b09d52194d20eaa5-thumbnail.jpg",NFL RedZone (28 September 2025 at 16:59)
 
 #EXTINF:-1 tvg-id="ppv-11901" tvg-name="Lynx at Mercury (Game 4) (29 September 2025 at 00:00)" tvg-epgid="11901" tvg-logo="https://ppvs.su/assets/thumb/3cde5481552b2a027bf2a6657cbcddc3-thumbnail.jpg",Lynx at Mercury (Game 4) (29 September 2025 at 00:00)
@@ -22,14 +18,14 @@
 #EXTINF:-1 tvg-id="ppv-11733" tvg-name="Parma vs. Torino (29 September 2025 at 16:30)" tvg-epgid="11733" tvg-logo="https://ppvs.su/assets/thumb/1bba1382e33a2a34470926a95e5d2203-thumbnail.jpg",Parma vs. Torino (29 September 2025 at 16:30)
 
 #EXTINF:-1 tvg-id="ppv-11907" tvg-name="Vancouver Canucks vs. Edmonton Oilers (29 September 2025 at 00:00)" tvg-epgid="11907" tvg-logo="https://ppvs.su/assets/thumb/32f3a188e1691e6f12e60e654fab06e0-thumbnail.jpg",Vancouver Canucks vs. Edmonton Oilers (29 September 2025 at 00:00)
-https://gg.poocloud.in/edmontonoilers/index.m3u8?md5=wXySffyAaQ6rgzKey8JVsA&expires=1759117500&net=NDguMjE0LjUzLjY4
+https://gg.poocloud.in/edmontonoilers/index.m3u8?md5=wXySffyAaQ6rgzKey8JVsA&expires=1759117500&net=MTcyLjE4Mi4yMjUuMTY1
 #EXTINF:-1 tvg-id="ppv-11905" tvg-name="Chicago Blackhawks vs. Minnesota Wild (28 September 2025 at 22:00)" tvg-epgid="11905" tvg-logo="https://ppvs.su/assets/thumb/a0d51e82a8b09f872ba7d736ea1b7b25-thumbnail.jpg",Chicago Blackhawks vs. Minnesota Wild (28 September 2025 at 22:00)
-https://gg.poocloud.in/minnesotawild/index.m3u8?md5=jIzRptvL5rnQJMnZNLsjpw&expires=1759110300&net=NDguMjE0LjUzLjY4
+https://gg.poocloud.in/minnesotawild/index.m3u8?md5=jIzRptvL5rnQJMnZNLsjpw&expires=1759110300&net=MTcyLjE4Mi4yMjUuMTY1
 #EXTINF:-1 tvg-id="ppv-5191" tvg-name="24/7 The Simpsons" tvg-epgid="5191" tvg-logo="https://thumbs.poocloud.in/thesimpsons/preview.jpg",24/7 The Simpsons
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MGQzNzI5MTE0YjQwLTVmYmEtYmE3NC1kOThlLWY2MmU4NGI4/master.m3u8?md5=2zWdOIJFGBxsL0YoqOcfuQ&expires=1759144803&net=NDguMjE0LjUzLjY4
-#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family​​‌‌​​​​‌‌​‌​‌‌​​​‌‌​‌​‌​‌​​​‌​​ Guy" tvg-epgid="8008" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg",24/7 Family​​‌‌​​​​‌‌​‌​‌‌​​​‌‌​‌​‌​‌​​​‌​​ Guy
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YTA5ZTU3MjFhNTI0LWRkZTktZTRlNC1mMzU4LTQwMWI0YjJk/master.m3u8?md5=2zWdOIJFGBxsL0YoqOcfuQ&expires=1759144803&net=NDguMjE0LjUzLjY4
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MGQzNzI5MTE0YjQwLTVmYmEtYmE3NC1kOThlLWY2MmU4NGI4/master.m3u8?md5=IggSTDALlQMt5gP5x-ULww&expires=1759146539&net=MTcyLjE4Mi4yMjUuMTY1
+#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family‌​‌​‌‌​​‌​‌‌​‌‌​‌‌‌​​​​‌‌​‌​​‌​‌ Guy" tvg-epgid="8008" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg",24/7 Family‌​‌​‌‌​​‌​‌‌​‌‌​‌‌‌​​​​‌‌​‌​​‌​‌ Guy
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YTA5ZTU3MjFhNTI0LWRkZTktZTRlNC1mMzU4LTQwMWI0YjJk/master.m3u8?md5=zzQ8ba4sEAA19vfeRwWKrg&expires=1759146540&net=MTcyLjE4Mi4yMjUuMTY1
 #EXTINF:-1 tvg-id="ppv-3663" tvg-name="24/7 COWS" tvg-epgid="3663" tvg-logo="https://ppvs.su/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg",24/7 COWS
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8?md5=2zWdOIJFGBxsL0YoqOcfuQ&expires=1759144803&net=NDguMjE0LjUzLjY4
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8?md5=zzQ8ba4sEAA19vfeRwWKrg&expires=1759146540&net=MTcyLjE4Mi4yMjUuMTY1
 #EXTINF:-1 tvg-id="ppv-5112" tvg-name="24/7 South Park" tvg-epgid="5112" tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg",24/7 South Park
-https://gg.poocloud.in/southpark/index.m3u8?md5=7u-U-3kf7p4U0jyPTGi7MA&expires=1759144804&net=NDguMjE0LjUzLjY4
+https://gg.poocloud.in/southpark/index.m3u8?md5=RyT_DkNOfeQVAYhXGzNvRQ&expires=1759146541&net=MTcyLjE4Mi4yMjUuMTY1
