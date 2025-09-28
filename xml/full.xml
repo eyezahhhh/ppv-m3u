@@ -307,6 +307,28 @@ channel="ppv-11782"
 <icon src="https://ppvs.su/assets/thumb/416b870130b24a031e0336c344884b9a-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-11090">
+<display-name>NFL RedZone</display-name>
+</channel>
+<programme
+start="20250928165900 +0000"
+stop="20250928235900 +0000"
+channel="ppv-11090"
+>
+<title lang="en">NFL RedZone</title>
+<sub-title>American Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>American Football</category>
+<icon src="https://ppvs.su/assets/thumb/9b88a03d3fe959c1b09d52194d20eaa5-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-11775">
 <display-name>Minnesota Vikings vs. Pittsburgh Steelers</display-name>
 </channel>
@@ -349,94 +371,6 @@ channel="ppv-11852"
 </audio>
 <category>American Football</category>
 <icon src="https://ppvs.su/assets/thumb/95ce22a90b360141c2617e8e505fb904-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-11849">
-<display-name>Oregon Ducks vs. Penn State Nittany Lions</display-name>
-</channel>
-<programme
-start="20250927233000 +0000"
-stop="20250928023000 +0000"
-channel="ppv-11849"
->
-<title lang="en">Oregon Ducks vs. Penn State Nittany Lions</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://ppvs.su/assets/thumb/b87d428628a8d1022ee6a065d360bebe-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-11850">
-<display-name>Alabama Crimson Tide vs. Georgia Bulldogs</display-name>
-</channel>
-<programme
-start="20250927233000 +0000"
-stop="20250928023000 +0000"
-channel="ppv-11850"
->
-<title lang="en">Alabama Crimson Tide vs. Georgia Bulldogs</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://ppvs.su/assets/thumb/701b15d45c046330b295d70f2c2f89f3-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-11851">
-<display-name>Massachusetts Minutemen vs. Missouri Tigers</display-name>
-</channel>
-<programme
-start="20250927233000 +0000"
-stop="20250928023000 +0000"
-channel="ppv-11851"
->
-<title lang="en">Massachusetts Minutemen vs. Missouri Tigers</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://ppvs.su/assets/thumb/5b977717d7e0d09fb14516b005e4b60c-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-11848">
-<display-name>Arizona Wildcats vs. Iowa State Cyclones</display-name>
-</channel>
-<programme
-start="20250927230000 +0000"
-stop="20250928020000 +0000"
-channel="ppv-11848"
->
-<title lang="en">Arizona Wildcats vs. Iowa State Cyclones</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://ppvs.su/assets/thumb/ece5a53e87d3360d5f92540742d05352-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-11873">
@@ -525,72 +459,6 @@ channel="ppv-11870"
 </audio>
 <category>Baseball</category>
 <icon src="https://ppvs.su/assets/thumb/7d35f0f8cbcaad724b6287e5df5dfdb1-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-11867">
-<display-name>Pittsburgh Pirates vs. Atlanta Braves</display-name>
-</channel>
-<programme
-start="20250927231500 +0000"
-stop="20250928021500 +0000"
-channel="ppv-11867"
->
-<title lang="en">Pittsburgh Pirates vs. Atlanta Braves</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/b4c6e8efe65fa3cf4449e75194e56293-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-11868">
-<display-name>Texas Rangers vs. Cleveland Guardians</display-name>
-</channel>
-<programme
-start="20250927231500 +0000"
-stop="20250928021500 +0000"
-channel="ppv-11868"
->
-<title lang="en">Texas Rangers vs. Cleveland Guardians</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/efe54bc9c021199f50e8ead0f554fcad-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-11869">
-<display-name>Cincinnati Reds vs. Milwaukee Brewers</display-name>
-</channel>
-<programme
-start="20250927231500 +0000"
-stop="20250928021500 +0000"
-channel="ppv-11869"
->
-<title lang="en">Cincinnati Reds vs. Milwaukee Brewers</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/b020697aa5af612b87d4081ce991fd62-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-11875">
@@ -1121,94 +989,6 @@ channel="ppv-11728"
 <icon src="https://ppvs.su/assets/thumb/aaff77ac51e6d343e43f28f97341670b-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-11881">
-<display-name>Columbus Blue Jackets vs. Pittsburgh Penguins</display-name>
-</channel>
-<programme
-start="20250927230000 +0000"
-stop="20250928020000 +0000"
-channel="ppv-11881"
->
-<title lang="en">Columbus Blue Jackets vs. Pittsburgh Penguins</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://ppvs.su/assets/thumb/b381c19a6303e652e954aefe1885717d-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-11882">
-<display-name>Dallas Stars vs. Colorado Avalanche</display-name>
-</channel>
-<programme
-start="20250927230000 +0000"
-stop="20250928020000 +0000"
-channel="ppv-11882"
->
-<title lang="en">Dallas Stars vs. Colorado Avalanche</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://ppvs.su/assets/thumb/39f92e3aed1370a8231a894f765c1d1e-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-11883">
-<display-name>Nashville Predators vs. Tampa Bay Lightning</display-name>
-</channel>
-<programme
-start="20250927230000 +0000"
-stop="20250928020000 +0000"
-channel="ppv-11883"
->
-<title lang="en">Nashville Predators vs. Tampa Bay Lightning</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://ppvs.su/assets/thumb/553f91d5ecb3707a70504c3513db7326-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-11884">
-<display-name>Montreal Canadiens vs. Toronto Maple Leafs</display-name>
-</channel>
-<programme
-start="20250927230000 +0000"
-stop="20250928020000 +0000"
-channel="ppv-11884"
->
-<title lang="en">Montreal Canadiens vs. Toronto Maple Leafs</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://ppvs.su/assets/thumb/570c9f259a9592e0a0e1f7acb735711d-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-11678">
 <display-name>AEW: Saturday Night Collision</display-name>
 </channel>
@@ -1276,14 +1056,14 @@ channel="ppv-5191"
 </programme>
 
 <channel id="ppv-8008">
-<display-name>24/7 Family‌​‌​‌‌​​‌​‌‌​‌‌​‌‌​‌​‌​​​​​​​​​‌ Guy</display-name>
+<display-name>24/7 Family​‌​​​‌​​‌‌​‌‌‌​​​​‌‌‌‌​‌‌​‌​​​​‌ Guy</display-name>
 </channel>
 <programme
 start="20250118080000 +0000"
 stop="20250118090000 +0000"
 channel="ppv-8008"
 >
-<title lang="en">24/7 Family‌​‌​‌‌​​‌​‌‌​‌‌​‌‌​‌​‌​​​​​​​​​‌ Guy</title>
+<title lang="en">24/7 Family​‌​​​‌​​‌‌​‌‌‌​​​​‌‌‌‌​‌‌​‌​​​​‌ Guy</title>
 <sub-title>24/7 Streams</sub-title>
 <video>
 <present>yes</present>
