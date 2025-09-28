@@ -61,6 +61,10 @@
 
 #EXTINF:-1 tvg-id="ppv-11891" tvg-name="Kansas City Royals vs. Athletics (28 September 2025 at 19:05)" tvg-epgid="11891" tvg-logo="https://ppvs.su/assets/thumb/300fa5a2f4b5d4bf6167f5530f79e9e9-thumbnail.jpg",Kansas City Royals vs. Athletics (28 September 2025 at 19:05)
 
+#EXTINF:-1 tvg-id="ppv-11901" tvg-name="Lynx at Mercury (Game 4) (29 September 2025 at 00:00)" tvg-epgid="11901" tvg-logo="https://ppvs.su/assets/thumb/3cde5481552b2a027bf2a6657cbcddc3-thumbnail.jpg",Lynx at Mercury (Game 4) (29 September 2025 at 00:00)
+
+#EXTINF:-1 tvg-id="ppv-11902" tvg-name="Aces at Fever (Game 4) (28 September 2025 at 19:00)" tvg-epgid="11902" tvg-logo="https://ppvs.su/assets/thumb/20c7d4c880b56278ac660d25bc206a0f-thumbnail.jpg",Aces at Fever (Game 4) (28 September 2025 at 19:00)
+
 #EXTINF:-1 tvg-id="ppv-11620" tvg-name="Everton vs. West Ham United (29 September 2025 at 19:00)" tvg-epgid="11620" tvg-logo="https://ppvs.su/assets/thumb/a76a46437f25200011512183c9a71b66-thumbnail.jpg",Everton vs. West Ham United (29 September 2025 at 19:00)
 
 #EXTINF:-1 tvg-id="ppv-11832" tvg-name="Valencia CF vs. Real Oviedo (29 September 2025 at 19:00)" tvg-epgid="11832" tvg-logo="https://ppvs.su/assets/thumb/a20422b76a2ecf67c2f421167859268e-thumbnail.jpg",Valencia CF vs. Real Oviedo (29 September 2025 at 19:00)
@@ -106,10 +110,10 @@
 #EXTINF:-1 tvg-id="ppv-11828" tvg-name="Rayo Vallecano vs. Sevilla FC (28 September 2025 at 12:00)" tvg-epgid="11828" tvg-logo="https://ppvs.su/assets/thumb/59e0eba73a870ece0a1aadba9e08f1b6-thumbnail.jpg",Rayo Vallecano vs. Sevilla FC (28 September 2025 at 12:00)
 
 #EXTINF:-1 tvg-id="ppv-5191" tvg-name="24/7 The Simpsons" tvg-epgid="5191" tvg-logo="https://thumbs.poocloud.in/thesimpsons/preview.jpg",24/7 The Simpsons
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MGQzNzI5MTE0YjQwLTVmYmEtYmE3NC1kOThlLWY2MmU4NGI4/master.m3u8?md5=x_mccyPkZsk18v0BbylT4Q&expires=1759110548&net=MTcyLjE3Mi4xMTkuOTg%3D
-#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family‌​‌​‌‌​​‌​‌​‌‌​​​‌‌‌​‌‌‌​‌‌​​​‌​ Guy" tvg-epgid="8008" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg",24/7 Family‌​‌​‌‌​​‌​‌​‌‌​​​‌‌‌​‌‌‌​‌‌​​​‌​ Guy
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YTA5ZTU3MjFhNTI0LWRkZTktZTRlNC1mMzU4LTQwMWI0YjJk/master.m3u8?md5=2WglRFZBxYLQ-2gARX0S7A&expires=1759110549&net=MTcyLjE3Mi4xMTkuOTg%3D
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MGQzNzI5MTE0YjQwLTVmYmEtYmE3NC1kOThlLWY2MmU4NGI4/master.m3u8?md5=m611lrliRM5cMheC5qhjxA&expires=1759112376&net=NjguMTU0LjU0LjEwMA%3D%3D
+#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family​‌​​​‌​​‌​​‌‌​‌​​​‌‌​‌‌​​‌‌​​‌​​ Guy" tvg-epgid="8008" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg",24/7 Family​‌​​​‌​​‌​​‌‌​‌​​​‌‌​‌‌​​‌‌​​‌​​ Guy
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YTA5ZTU3MjFhNTI0LWRkZTktZTRlNC1mMzU4LTQwMWI0YjJk/master.m3u8?md5=m611lrliRM5cMheC5qhjxA&expires=1759112376&net=NjguMTU0LjU0LjEwMA%3D%3D
 #EXTINF:-1 tvg-id="ppv-3663" tvg-name="24/7 COWS" tvg-epgid="3663" tvg-logo="https://ppvs.su/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg",24/7 COWS
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8?md5=2WglRFZBxYLQ-2gARX0S7A&expires=1759110549&net=MTcyLjE3Mi4xMTkuOTg%3D
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8?md5=m611lrliRM5cMheC5qhjxA&expires=1759112376&net=NjguMTU0LjU0LjEwMA%3D%3D
 #EXTINF:-1 tvg-id="ppv-5112" tvg-name="24/7 South Park" tvg-epgid="5112" tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg",24/7 South Park
-https://gg.poocloud.in/southpark/index.m3u8?md5=2WglRFZBxYLQ-2gARX0S7A&expires=1759110549&net=MTcyLjE3Mi4xMTkuOTg%3D
+https://gg.poocloud.in/southpark/index.m3u8?md5=yS6mllhVqocpAxe13klhLg&expires=1759112377&net=NjguMTU0LjU0LjEwMA%3D%3D
