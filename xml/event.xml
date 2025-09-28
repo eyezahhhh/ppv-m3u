@@ -1164,26 +1164,4 @@ channel="ppv-11828"
 <category>Football</category>
 <icon src="https://ppvs.su/assets/thumb/59e0eba73a870ece0a1aadba9e08f1b6-thumbnail.jpg" />
 </programme>
-
-<channel id="ppv-11728">
-<display-name>Sassuolo vs. Udinese</display-name>
-</channel>
-<programme
-start="20250928103000 +0000"
-stop="20250928133000 +0000"
-channel="ppv-11728"
->
-<title lang="en">Sassuolo vs. Udinese</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/aaff77ac51e6d343e43f28f97341670b-thumbnail.jpg" />
-</programme>
 </tv>
