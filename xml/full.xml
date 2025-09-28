@@ -153,160 +153,6 @@ channel="ppv-11784"
 <icon src="https://ppvs.su/assets/thumb/ecbb4ae604c429149806d1be7a477724-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-11776">
-<display-name>Washington Commanders vs. Atlanta Falcons</display-name>
-</channel>
-<programme
-start="20250928170000 +0000"
-stop="20250928200000 +0000"
-channel="ppv-11776"
->
-<title lang="en">Washington Commanders vs. Atlanta Falcons</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://ppvs.su/assets/thumb/63d3499fc7b8912db0e42b581b8c8edd-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-11777">
-<display-name>New Orleans Saints vs. Buffalo Bills</display-name>
-</channel>
-<programme
-start="20250928170000 +0000"
-stop="20250928200000 +0000"
-channel="ppv-11777"
->
-<title lang="en">New Orleans Saints vs. Buffalo Bills</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://ppvs.su/assets/thumb/f2f818000af76d5ea51105eafbef6ca2-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-11778">
-<display-name>Cleveland Browns vs. Detroit Lions</display-name>
-</channel>
-<programme
-start="20250928170000 +0000"
-stop="20250928200000 +0000"
-channel="ppv-11778"
->
-<title lang="en">Cleveland Browns vs. Detroit Lions</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://ppvs.su/assets/thumb/c699fb03dc627df9cefc8b6fd5df98bb-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-11779">
-<display-name>Carolina Panthers vs. New England Patriots</display-name>
-</channel>
-<programme
-start="20250928170000 +0000"
-stop="20250928200000 +0000"
-channel="ppv-11779"
->
-<title lang="en">Carolina Panthers vs. New England Patriots</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://ppvs.su/assets/thumb/59734a676ca6e313f8514fe1fb81d261-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-11780">
-<display-name>Los Angeles Chargers vs. New York Giants</display-name>
-</channel>
-<programme
-start="20250928170000 +0000"
-stop="20250928200000 +0000"
-channel="ppv-11780"
->
-<title lang="en">Los Angeles Chargers vs. New York Giants</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://ppvs.su/assets/thumb/f9cd99c9b0f1201135ba03b42700dbd9-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-11781">
-<display-name>Philadelphia Eagles vs. Tampa Bay Buccaneers</display-name>
-</channel>
-<programme
-start="20250928170000 +0000"
-stop="20250928200000 +0000"
-channel="ppv-11781"
->
-<title lang="en">Philadelphia Eagles vs. Tampa Bay Buccaneers</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://ppvs.su/assets/thumb/360d8e19d036b3e792ef304a8f9abbda-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-11782">
-<display-name>Tennessee Titans vs. Houston Texans</display-name>
-</channel>
-<programme
-start="20250928170000 +0000"
-stop="20250928200000 +0000"
-channel="ppv-11782"
->
-<title lang="en">Tennessee Titans vs. Houston Texans</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://ppvs.su/assets/thumb/416b870130b24a031e0336c344884b9a-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-11090">
 <display-name>NFL RedZone</display-name>
 </channel>
@@ -968,14 +814,14 @@ channel="ppv-5191"
 </programme>
 
 <channel id="ppv-8008">
-<display-name>24/7 Family​​‌‌​​​​‌‌​‌​​‌‌‌‌​‌​‌​‌​​‌​​‌​​ Guy</display-name>
+<display-name>24/7 Family​‌​​​​​​‌‌‌​‌‌​​‌​​​‌​​‌‌​​​​​‌‌ Guy</display-name>
 </channel>
 <programme
 start="20250118080000 +0000"
 stop="20250118090000 +0000"
 channel="ppv-8008"
 >
-<title lang="en">24/7 Family​​‌‌​​​​‌‌​‌​​‌‌‌‌​‌​‌​‌​​‌​​‌​​ Guy</title>
+<title lang="en">24/7 Family​‌​​​​​​‌‌‌​‌‌​​‌​​​‌​​‌‌​​​​​‌‌ Guy</title>
 <sub-title>24/7 Streams</sub-title>
 <video>
 <present>yes</present>
