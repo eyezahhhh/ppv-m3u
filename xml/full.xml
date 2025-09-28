@@ -923,116 +923,6 @@ channel="ppv-11731"
 <icon src="https://ppvs.su/assets/thumb/4d7fe600f5da01422557c8f3acccd969-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-11623">
-<display-name>Newcastle United vs. Arsenal</display-name>
-</channel>
-<programme
-start="20250928153000 +0000"
-stop="20250928183000 +0000"
-channel="ppv-11623"
->
-<title lang="en">Newcastle United vs. Arsenal</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/956f9864e7241c66166c6b35e253aa6d-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-11671">
-<display-name>Cologne vs. Stuttgart</display-name>
-</channel>
-<programme
-start="20250928153000 +0000"
-stop="20250928183000 +0000"
-channel="ppv-11671"
->
-<title lang="en">Cologne vs. Stuttgart</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/334010ec227e94d67d10d728029aba0c-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-11655">
-<display-name>Angers SCO vs. Brest</display-name>
-</channel>
-<programme
-start="20250928151500 +0000"
-stop="20250928181500 +0000"
-channel="ppv-11655"
->
-<title lang="en">Angers SCO vs. Brest</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/d6d9503ab8d99b34578c59f59d9ee825-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-11656">
-<display-name>LOSC vs. OL</display-name>
-</channel>
-<programme
-start="20250928151500 +0000"
-stop="20250928181500 +0000"
-channel="ppv-11656"
->
-<title lang="en">LOSC vs. OL</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/71b6d5e421ef8f537a6a193977ce12b4-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-11657">
-<display-name>FC Metz vs. Havre AC</display-name>
-</channel>
-<programme
-start="20250928151500 +0000"
-stop="20250928181500 +0000"
-channel="ppv-11657"
->
-<title lang="en">FC Metz vs. Havre AC</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/9c540ec90c4fb6bc6047a9a3d0898be3-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-11907">
 <display-name>Vancouver Canucks vs. Edmonton Oilers</display-name>
 </channel>
@@ -1122,14 +1012,14 @@ channel="ppv-5191"
 </programme>
 
 <channel id="ppv-8008">
-<display-name>24/7 Family​​​‌​‌​​​‌‌​‌‌​‌​‌​‌‌‌‌‌‌​‌​​​‌‌ Guy</display-name>
+<display-name>24/7 Family​‌​​​‌​​‌‌​‌‌‌​​​​‌‌‌​​‌​‌‌​​‌​​ Guy</display-name>
 </channel>
 <programme
 start="20250118080000 +0000"
 stop="20250118090000 +0000"
 channel="ppv-8008"
 >
-<title lang="en">24/7 Family​​​‌​‌​​​‌‌​‌‌​‌​‌​‌‌‌‌‌‌​‌​​​‌‌ Guy</title>
+<title lang="en">24/7 Family​‌​​​‌​​‌‌​‌‌‌​​​​‌‌‌​​‌​‌‌​​‌​​ Guy</title>
 <sub-title>24/7 Streams</sub-title>
 <video>
 <present>yes</present>
