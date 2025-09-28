@@ -1,4 +1,26 @@
 <tv>
+<channel id="ppv-11789">
+<display-name>Cincinnati Bengals vs. Denver Broncos</display-name>
+</channel>
+<programme
+start="20250930001500 +0000"
+stop="20250930031500 +0000"
+channel="ppv-11789"
+>
+<title lang="en">Cincinnati Bengals vs. Denver Broncos</title>
+<sub-title>American Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>American Football</category>
+<icon src="https://ppvs.su/assets/thumb/3132d0962ffeef228b1ca9af4dad0aad-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-11788">
 <display-name>New York Jets vs. Miami Dolphins</display-name>
 </channel>
@@ -1209,28 +1231,6 @@ channel="ppv-11884"
 <icon src="https://ppvs.su/assets/thumb/570c9f259a9592e0a0e1f7acb735711d-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-11879">
-<display-name>Boston Bruins vs. Philadelphia Flyers</display-name>
-</channel>
-<programme
-start="20250927210000 +0000"
-stop="20250928000000 +0000"
-channel="ppv-11879"
->
-<title lang="en">Boston Bruins vs. Philadelphia Flyers</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://ppvs.su/assets/thumb/b0b5ef050df1360a82590ee824c46b0c-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-11678">
 <display-name>AEW: Saturday Night Collision</display-name>
 </channel>
@@ -1298,14 +1298,14 @@ channel="ppv-5191"
 </programme>
 
 <channel id="ppv-8008">
-<display-name>24/7 Family​​‌‌​‌​​‌​‌‌‌‌‌​‌​‌‌​‌‌​​‌‌‌​​​‌ Guy</display-name>
+<display-name>24/7 Family‌​​​​‌‌‌‌‌‌​‌​​​‌‌​​‌​​‌​‌​​​​‌‌ Guy</display-name>
 </channel>
 <programme
 start="20250118080000 +0000"
 stop="20250118090000 +0000"
 channel="ppv-8008"
 >
-<title lang="en">24/7 Family​​‌‌​‌​​‌​‌‌‌‌‌​‌​‌‌​‌‌​​‌‌‌​​​‌ Guy</title>
+<title lang="en">24/7 Family‌​​​​‌‌‌‌‌‌​‌​​​‌‌​​‌​​‌​‌​​​​‌‌ Guy</title>
 <sub-title>24/7 Streams</sub-title>
 <video>
 <present>yes</present>
