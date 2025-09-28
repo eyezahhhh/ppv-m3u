@@ -329,28 +329,6 @@ channel="ppv-11090"
 <icon src="https://ppvs.su/assets/thumb/9b88a03d3fe959c1b09d52194d20eaa5-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-11775">
-<display-name>Minnesota Vikings vs. Pittsburgh Steelers</display-name>
-</channel>
-<programme
-start="20250928133000 +0000"
-stop="20250928163000 +0000"
-channel="ppv-11775"
->
-<title lang="en">Minnesota Vikings vs. Pittsburgh Steelers</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://ppvs.su/assets/thumb/33184396a2951a3762b12b3a95a4c9ea-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-11900">
 <display-name>St. Louis Cardinals vs. Chicago Cubs</display-name>
 </channel>
@@ -1077,28 +1055,6 @@ channel="ppv-11829"
 <icon src="https://ppvs.su/assets/thumb/3b7d40685fea78089d775b49f87cbbc4-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-11670">
-<display-name>Freiburg vs. Hoffenheim</display-name>
-</channel>
-<programme
-start="20250928133000 +0000"
-stop="20250928163000 +0000"
-channel="ppv-11670"
->
-<title lang="en">Freiburg vs. Hoffenheim</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/3ad0645a02b21be6c832a4705b01129b-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-11907">
 <display-name>Vancouver Canucks vs. Edmonton Oilers</display-name>
 </channel>
@@ -1121,28 +1077,6 @@ channel="ppv-11907"
 <icon src="https://ppvs.su/assets/thumb/32f3a188e1691e6f12e60e654fab06e0-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-11906">
-<display-name>Nashville Predators vs. Carolina Hurricanes</display-name>
-</channel>
-<programme
-start="20250928230000 +0000"
-stop="20250929020000 +0000"
-channel="ppv-11906"
->
-<title lang="en">Nashville Predators vs. Carolina Hurricanes</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://ppvs.su/assets/thumb/6f881eb39589149e3b718cfef3a43cfd-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-11905">
 <display-name>Chicago Blackhawks vs. Minnesota Wild</display-name>
 </channel>
@@ -1163,28 +1097,6 @@ channel="ppv-11905"
 </audio>
 <category>Ice Hockey</category>
 <icon src="https://ppvs.su/assets/thumb/a0d51e82a8b09f872ba7d736ea1b7b25-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-11903">
-<display-name>New Jersey Devils vs. Ottawa Senators</display-name>
-</channel>
-<programme
-start="20250928190000 +0000"
-stop="20250928220000 +0000"
-channel="ppv-11903"
->
-<title lang="en">New Jersey Devils vs. Ottawa Senators</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://ppvs.su/assets/thumb/c3d2c953d150335f6eda273d88615a3f-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-11904">
@@ -1232,14 +1144,14 @@ channel="ppv-5191"
 </programme>
 
 <channel id="ppv-8008">
-<display-name>24/7 Family​‌​​​‌​​‌‌​‌‌‌​​​​‌‌‌‌‌​‌​‌‌​‌​​ Guy</display-name>
+<display-name>24/7 Family​​‌‌‌​​‌‌​​‌​‌‌‌‌​​​​​​​‌‌​‌​​‌‌ Guy</display-name>
 </channel>
 <programme
 start="20250118080000 +0000"
 stop="20250118090000 +0000"
 channel="ppv-8008"
 >
-<title lang="en">24/7 Family​‌​​​‌​​‌‌​‌‌‌​​​​‌‌‌‌‌​‌​‌‌​‌​​ Guy</title>
+<title lang="en">24/7 Family​​‌‌‌​​‌‌​​‌​‌‌‌‌​​​​​​​‌‌​‌​​‌‌ Guy</title>
 <sub-title>24/7 Streams</sub-title>
 <video>
 <present>yes</present>

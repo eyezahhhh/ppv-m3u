@@ -29,8 +29,6 @@
 
 #EXTINF:-1 tvg-id="ppv-11090" tvg-name="NFL RedZone (28 September 2025 at 16:59)" tvg-epgid="11090" tvg-logo="https://ppvs.su/assets/thumb/9b88a03d3fe959c1b09d52194d20eaa5-thumbnail.jpg",NFL RedZone (28 September 2025 at 16:59)
 
-#EXTINF:-1 tvg-id="ppv-11775" tvg-name="Minnesota Vikings vs. Pittsburgh Steelers (28 September 2025 at 13:30)" tvg-epgid="11775" tvg-logo="https://ppvs.su/assets/thumb/33184396a2951a3762b12b3a95a4c9ea-thumbnail.jpg",Minnesota Vikings vs. Pittsburgh Steelers (28 September 2025 at 13:30)
-
 #EXTINF:-1 tvg-id="ppv-11900" tvg-name="St. Louis Cardinals vs. Chicago Cubs (28 September 2025 at 19:20)" tvg-epgid="11900" tvg-logo="https://ppvs.su/assets/thumb/a8edc19541a99a98ef90142671f7a0ae-thumbnail.jpg",St. Louis Cardinals vs. Chicago Cubs (28 September 2025 at 19:20)
 
 #EXTINF:-1 tvg-id="ppv-11899" tvg-name="Pittsburgh Pirates vs. Atlanta Braves (28 September 2025 at 19:15)" tvg-epgid="11899" tvg-logo="https://ppvs.su/assets/thumb/b4c6e8efe65fa3cf4449e75194e56293-thumbnail.jpg",Pittsburgh Pirates vs. Atlanta Braves (28 September 2025 at 19:15)
@@ -97,23 +95,17 @@
 
 #EXTINF:-1 tvg-id="ppv-11829" tvg-name="Elche CF vs. Celta (28 September 2025 at 14:15)" tvg-epgid="11829" tvg-logo="https://ppvs.su/assets/thumb/3b7d40685fea78089d775b49f87cbbc4-thumbnail.jpg",Elche CF vs. Celta (28 September 2025 at 14:15)
 
-#EXTINF:-1 tvg-id="ppv-11670" tvg-name="Freiburg vs. Hoffenheim (28 September 2025 at 13:30)" tvg-epgid="11670" tvg-logo="https://ppvs.su/assets/thumb/3ad0645a02b21be6c832a4705b01129b-thumbnail.jpg",Freiburg vs. Hoffenheim (28 September 2025 at 13:30)
-
 #EXTINF:-1 tvg-id="ppv-11907" tvg-name="Vancouver Canucks vs. Edmonton Oilers (29 September 2025 at 00:00)" tvg-epgid="11907" tvg-logo="https://ppvs.su/assets/thumb/32f3a188e1691e6f12e60e654fab06e0-thumbnail.jpg",Vancouver Canucks vs. Edmonton Oilers (29 September 2025 at 00:00)
-https://gg.poocloud.in/edmontonoilers/index.m3u8?md5=wXySffyAaQ6rgzKey8JVsA&expires=1759117500&net=NjguMjIwLjYyLjE4MA%3D%3D
-#EXTINF:-1 tvg-id="ppv-11906" tvg-name="Nashville Predators vs. Carolina Hurricanes (28 September 2025 at 23:00)" tvg-epgid="11906" tvg-logo="https://ppvs.su/assets/thumb/6f881eb39589149e3b718cfef3a43cfd-thumbnail.jpg",Nashville Predators vs. Carolina Hurricanes (28 September 2025 at 23:00)
-https://gg.poocloud.in/carolinahurricanes/index.m3u8?md5=o5-gVHJTnbBzNQrCFw413g&expires=1759113900&net=NjguMjIwLjYyLjE4MA%3D%3D
+https://gg.poocloud.in/edmontonoilers/index.m3u8?md5=wXySffyAaQ6rgzKey8JVsA&expires=1759117500&net=NTcuMTUxLjEyOC4yMTE%3D
 #EXTINF:-1 tvg-id="ppv-11905" tvg-name="Chicago Blackhawks vs. Minnesota Wild (28 September 2025 at 22:00)" tvg-epgid="11905" tvg-logo="https://ppvs.su/assets/thumb/a0d51e82a8b09f872ba7d736ea1b7b25-thumbnail.jpg",Chicago Blackhawks vs. Minnesota Wild (28 September 2025 at 22:00)
-https://gg.poocloud.in/minnesotawild/index.m3u8?md5=jIzRptvL5rnQJMnZNLsjpw&expires=1759110300&net=NjguMjIwLjYyLjE4MA%3D%3D
-#EXTINF:-1 tvg-id="ppv-11903" tvg-name="New Jersey Devils vs. Ottawa Senators (28 September 2025 at 19:00)" tvg-epgid="11903" tvg-logo="https://ppvs.su/assets/thumb/c3d2c953d150335f6eda273d88615a3f-thumbnail.jpg",New Jersey Devils vs. Ottawa Senators (28 September 2025 at 19:00)
-https://gg.poocloud.in/ottawasenators/index.m3u8?md5=WAxeYWm2HwlVNlwq2QeQUw&expires=1759099500&net=NjguMjIwLjYyLjE4MA%3D%3D
+https://gg.poocloud.in/minnesotawild/index.m3u8?md5=jIzRptvL5rnQJMnZNLsjpw&expires=1759110300&net=NTcuMTUxLjEyOC4yMTE%3D
 #EXTINF:-1 tvg-id="ppv-11904" tvg-name="Washington Capitals vs. New Jersey Devils (28 September 2025 at 19:00)" tvg-epgid="11904" tvg-logo="https://ppvs.su/assets/thumb/5c301cfe8403489cf0fbde63bc061c04-thumbnail.jpg",Washington Capitals vs. New Jersey Devils (28 September 2025 at 19:00)
-https://gg.poocloud.in/newjerseydevils/index.m3u8?md5=WAxeYWm2HwlVNlwq2QeQUw&expires=1759099500&net=NjguMjIwLjYyLjE4MA%3D%3D
+https://gg.poocloud.in/newjerseydevils/index.m3u8?md5=WAxeYWm2HwlVNlwq2QeQUw&expires=1759099500&net=NTcuMTUxLjEyOC4yMTE%3D
 #EXTINF:-1 tvg-id="ppv-5191" tvg-name="24/7 The Simpsons" tvg-epgid="5191" tvg-logo="https://thumbs.poocloud.in/thesimpsons/preview.jpg",24/7 The Simpsons
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MGQzNzI5MTE0YjQwLTVmYmEtYmE3NC1kOThlLWY2MmU4NGI4/master.m3u8?md5=Ik-3aUv3uCWl2PTcwu-9Zg&expires=1759119616&net=NjguMjIwLjYyLjE4MA%3D%3D
-#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family​‌​​​‌​​‌‌​‌‌‌​​​​‌‌‌‌‌​‌​‌‌​‌​​ Guy" tvg-epgid="8008" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg",24/7 Family​‌​​​‌​​‌‌​‌‌‌​​​​‌‌‌‌‌​‌​‌‌​‌​​ Guy
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YTA5ZTU3MjFhNTI0LWRkZTktZTRlNC1mMzU4LTQwMWI0YjJk/master.m3u8?md5=Ik-3aUv3uCWl2PTcwu-9Zg&expires=1759119616&net=NjguMjIwLjYyLjE4MA%3D%3D
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MGQzNzI5MTE0YjQwLTVmYmEtYmE3NC1kOThlLWY2MmU4NGI4/master.m3u8?md5=HWMQF6omDeA69FcCX6-jQA&expires=1759121474&net=NTcuMTUxLjEyOC4yMTE%3D
+#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family​​‌‌‌​​‌‌​​‌​‌‌‌‌​​​​​​​‌‌​‌​​‌‌ Guy" tvg-epgid="8008" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg",24/7 Family​​‌‌‌​​‌‌​​‌​‌‌‌‌​​​​​​​‌‌​‌​​‌‌ Guy
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YTA5ZTU3MjFhNTI0LWRkZTktZTRlNC1mMzU4LTQwMWI0YjJk/master.m3u8?md5=NkZxm7FdWgY-4OasSO4YvQ&expires=1759121475&net=NTcuMTUxLjEyOC4yMTE%3D
 #EXTINF:-1 tvg-id="ppv-3663" tvg-name="24/7 COWS" tvg-epgid="3663" tvg-logo="https://ppvs.su/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg",24/7 COWS
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8?md5=5TbwPbWNpE7SnnZKXuhUtg&expires=1759119617&net=NjguMjIwLjYyLjE4MA%3D%3D
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8?md5=NkZxm7FdWgY-4OasSO4YvQ&expires=1759121475&net=NTcuMTUxLjEyOC4yMTE%3D
 #EXTINF:-1 tvg-id="ppv-5112" tvg-name="24/7 South Park" tvg-epgid="5112" tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg",24/7 South Park
-https://gg.poocloud.in/southpark/index.m3u8?md5=5TbwPbWNpE7SnnZKXuhUtg&expires=1759119617&net=NjguMjIwLjYyLjE4MA%3D%3D
+https://gg.poocloud.in/southpark/index.m3u8?md5=CzVozIf-bxvACn0ZOp2fQg&expires=1759121476&net=NTcuMTUxLjEyOC4yMTE%3D
