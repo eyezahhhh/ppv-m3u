@@ -107,3 +107,13 @@
 
 #EXTINF:-1 tvg-id="ppv-11730" tvg-name="Roma vs. Hellas Verona (28 September 2025 at 13:00)" tvg-epgid="11730" tvg-logo="https://ppvs.su/assets/thumb/34db26c52e36a41500d25f45ca86dfea-thumbnail.jpg",Roma vs. Hellas Verona (28 September 2025 at 13:00)
 
+#EXTINF:-1 tvg-id="ppv-11907" tvg-name="Vancouver Canucks vs. Edmonton Oilers (29 September 2025 at 00:00)" tvg-epgid="11907" tvg-logo="https://ppvs.su/assets/thumb/32f3a188e1691e6f12e60e654fab06e0-thumbnail.jpg",Vancouver Canucks vs. Edmonton Oilers (29 September 2025 at 00:00)
+https://gg.poocloud.in/edmontonoilers/index.m3u8?md5=wXySffyAaQ6rgzKey8JVsA&expires=1759117500&net=MTMuODMuMTYxLjgz
+#EXTINF:-1 tvg-id="ppv-11906" tvg-name="Nashville Predators vs. Carolina Hurricanes (28 September 2025 at 23:00)" tvg-epgid="11906" tvg-logo="https://ppvs.su/assets/thumb/6f881eb39589149e3b718cfef3a43cfd-thumbnail.jpg",Nashville Predators vs. Carolina Hurricanes (28 September 2025 at 23:00)
+https://gg.poocloud.in/carolinahurricanes/index.m3u8?md5=o5-gVHJTnbBzNQrCFw413g&expires=1759113900&net=MTMuODMuMTYxLjgz
+#EXTINF:-1 tvg-id="ppv-11905" tvg-name="Chicago Blackhawks vs. Minnesota Wild (28 September 2025 at 22:00)" tvg-epgid="11905" tvg-logo="https://ppvs.su/assets/thumb/a0d51e82a8b09f872ba7d736ea1b7b25-thumbnail.jpg",Chicago Blackhawks vs. Minnesota Wild (28 September 2025 at 22:00)
+https://gg.poocloud.in/minnesotawild/index.m3u8?md5=jIzRptvL5rnQJMnZNLsjpw&expires=1759110300&net=MTMuODMuMTYxLjgz
+#EXTINF:-1 tvg-id="ppv-11903" tvg-name="New Jersey Devils vs. Ottawa Senators (28 September 2025 at 19:00)" tvg-epgid="11903" tvg-logo="https://ppvs.su/assets/thumb/c3d2c953d150335f6eda273d88615a3f-thumbnail.jpg",New Jersey Devils vs. Ottawa Senators (28 September 2025 at 19:00)
+https://gg.poocloud.in/ottawasenators/index.m3u8?md5=WAxeYWm2HwlVNlwq2QeQUw&expires=1759099500&net=MTMuODMuMTYxLjgz
+#EXTINF:-1 tvg-id="ppv-11904" tvg-name="Washington Capitals vs. New Jersey Devils (28 September 2025 at 19:00)" tvg-epgid="11904" tvg-logo="https://ppvs.su/assets/thumb/5c301cfe8403489cf0fbde63bc061c04-thumbnail.jpg",Washington Capitals vs. New Jersey Devils (28 September 2025 at 19:00)
+https://gg.poocloud.in/newjerseydevils/index.m3u8?md5=WAxeYWm2HwlVNlwq2QeQUw&expires=1759099500&net=MTMuODMuMTYxLjgz
