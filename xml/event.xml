@@ -351,28 +351,6 @@ channel="ppv-11775"
 <icon src="https://ppvs.su/assets/thumb/33184396a2951a3762b12b3a95a4c9ea-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-11852">
-<display-name>BYU Cougars vs. Colorado Buffaloes</display-name>
-</channel>
-<programme
-start="20250928021500 +0000"
-stop="20250928051500 +0000"
-channel="ppv-11852"
->
-<title lang="en">BYU Cougars vs. Colorado Buffaloes</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://ppvs.su/assets/thumb/95ce22a90b360141c2617e8e505fb904-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-11900">
 <display-name>St. Louis Cardinals vs. Chicago Cubs</display-name>
 </channel>
