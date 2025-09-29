@@ -130,4 +130,48 @@ channel="ppv-11733"
 <category>Football</category>
 <icon src="https://ppvs.su/assets/thumb/1bba1382e33a2a34470926a95e5d2203-thumbnail.jpg" />
 </programme>
+
+<channel id="ppv-11909">
+<display-name>WWE: NXT</display-name>
+</channel>
+<programme
+start="20251001000000 +0000"
+stop="20251001030000 +0000"
+channel="ppv-11909"
+>
+<title lang="en">WWE: NXT</title>
+<sub-title>Wrestling</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Wrestling</category>
+<icon src="https://ppvs.su/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-11908">
+<display-name>WWE: Monday Night RAW</display-name>
+</channel>
+<programme
+start="20250929230000 +0000"
+stop="20250930020000 +0000"
+channel="ppv-11908"
+>
+<title lang="en">WWE: Monday Night RAW</title>
+<sub-title>Wrestling</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Wrestling</category>
+<icon src="https://ppvs.su/assets/thumb/56336f9d22c51c416e1a56afbd18f314-thumbnail.jpg" />
+</programme>
 </tv>
