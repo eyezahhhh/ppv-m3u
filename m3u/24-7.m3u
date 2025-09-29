@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ppv-5191" tvg-name="24/7 The Simpsons" tvg-epgid="5191" tvg-logo="https://thumbs.poocloud.in/thesimpsons/preview.jpg",24/7 The Simpsons
-https://gg.poocloud.in/thesimpsons/index.m3u8?md5=uxUVQUPOXFLCPoHfx6Jzqg&expires=1759166488&net=MTM1LjIzMi4yMDguMTgx
-#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family‌​​​​‌‌‌‌‌‌​‌​​​‌‌​‌​​​​‌​‌‌​‌​‌ Guy" tvg-epgid="8008" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg",24/7 Family‌​​​​‌‌‌‌‌‌​‌​​​‌‌​‌​​​​‌​‌‌​‌​‌ Guy
-https://gg.poocloud.in/familyguy/index.m3u8?md5=72pkwPMqzUY1g9kAi6XzrQ&expires=1759166490&net=MTM1LjIzMi4yMDguMTgx
+https://gg.poocloud.in/thesimpsons/index.m3u8?md5=C9MORFCUL64-Hh4QgnLbDw&expires=1759168281&net=MTM1LjIzMi4yMDguMTM0
+#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family‌​​​​‌‌‌‌‌‌​‌​​​‌‌​‌​​​​‌​​​​‌‌​ Guy" tvg-epgid="8008" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg",24/7 Family‌​​​​‌‌‌‌‌‌​‌​​​‌‌​‌​​​​‌​​​​‌‌​ Guy
+https://gg.poocloud.in/familyguy/index.m3u8?md5=_2rhGpZi6FVgvtC5xsdUEw&expires=1759168283&net=MTM1LjIzMi4yMDguMTM0
 #EXTINF:-1 tvg-id="ppv-3663" tvg-name="24/7 COWS" tvg-epgid="3663" tvg-logo="https://ppvs.su/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg",24/7 COWS
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8?md5=TijfZnHC54Kg1xbQQ63ebQ&expires=1759166491&net=MTM1LjIzMi4yMDguMTgx
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8?md5=Da2tdbaaHE_kdw3X36vYsg&expires=1759168284&net=MTM1LjIzMi4yMDguMTM0
 #EXTINF:-1 tvg-id="ppv-5112" tvg-name="24/7 South Park" tvg-epgid="5112" tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg",24/7 South Park
-https://gg.poocloud.in/southpark/index.m3u8?md5=TijfZnHC54Kg1xbQQ63ebQ&expires=1759166491&net=MTM1LjIzMi4yMDguMTgx
+https://gg.poocloud.in/southpark/index.m3u8?md5=Da2tdbaaHE_kdw3X36vYsg&expires=1759168284&net=MTM1LjIzMi4yMDguMTM0
