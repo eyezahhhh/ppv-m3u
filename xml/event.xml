@@ -43,50 +43,6 @@ channel="ppv-11788"
 <icon src="https://ppvs.su/assets/thumb/e08952e9348ac9f8d96836b0ed5cd2ac-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-11620">
-<display-name>Everton vs. West Ham United</display-name>
-</channel>
-<programme
-start="20250929190000 +0000"
-stop="20250929220000 +0000"
-channel="ppv-11620"
->
-<title lang="en">Everton vs. West Ham United</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/a76a46437f25200011512183c9a71b66-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-11734">
-<display-name>Genoa vs. Lazio</display-name>
-</channel>
-<programme
-start="20250929184500 +0000"
-stop="20250929214500 +0000"
-channel="ppv-11734"
->
-<title lang="en">Genoa vs. Lazio</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/6d06e7ab7451242c289e10ac4fbed23e-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-11909">
 <display-name>WWE: NXT</display-name>
 </channel>
