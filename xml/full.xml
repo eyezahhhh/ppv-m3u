@@ -109,6 +109,798 @@ channel="ppv-12010"
 <icon src="https://ppvs.su/assets/thumb/52032ad7dd97a7fe51281da4bae7f7a5-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-12020">
+<display-name>Porto vs. Crvena Zvezda</display-name>
+</channel>
+<programme
+start="20251002190000 +0000"
+stop="20251002220000 +0000"
+channel="ppv-12020"
+>
+<title lang="en">Porto vs. Crvena Zvezda</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/af5dd9e61fbc9f3470bf079391267b0e-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12021">
+<display-name>Feyenoord vs. Aston Villa</display-name>
+</channel>
+<programme
+start="20251002190000 +0000"
+stop="20251002220000 +0000"
+channel="ppv-12021"
+>
+<title lang="en">Feyenoord vs. Aston Villa</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/84c3ff1707f29d4afba0fa23eeab4936-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12022">
+<display-name>Lyon vs. Salzburg</display-name>
+</channel>
+<programme
+start="20251002190000 +0000"
+stop="20251002220000 +0000"
+channel="ppv-12022"
+>
+<title lang="en">Lyon vs. Salzburg</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/5e11e52acb793e00aed66f74d6bd4414-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12023">
+<display-name>M. Tel-Aviv vs. GNK Dinamo</display-name>
+</channel>
+<programme
+start="20251002190000 +0000"
+stop="20251002220000 +0000"
+channel="ppv-12023"
+>
+<title lang="en">M. Tel-Aviv vs. GNK Dinamo</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/ec54e249541ef59d521ab5643182b226-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12024">
+<display-name>Basel vs. Stuttgart</display-name>
+</channel>
+<programme
+start="20251002190000 +0000"
+stop="20251002220000 +0000"
+channel="ppv-12024"
+>
+<title lang="en">Basel vs. Stuttgart</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/ccd8df61345c21bb7bb7c4249ee98420-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12025">
+<display-name>Nott&apos;m Forest vs. Midtjylland</display-name>
+</channel>
+<programme
+start="20251002190000 +0000"
+stop="20251002220000 +0000"
+channel="ppv-12025"
+>
+<title lang="en">Nott&apos;m Forest vs. Midtjylland</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/98c80c32f5362a200aae26a878f14f29-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12026">
+<display-name>Sturm Graz vs. Rangers</display-name>
+</channel>
+<programme
+start="20251002190000 +0000"
+stop="20251002220000 +0000"
+channel="ppv-12026"
+>
+<title lang="en">Sturm Graz vs. Rangers</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/906524656f960d3c5787ec5ee7207099-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12027">
+<display-name>Celta vs. PAOK</display-name>
+</channel>
+<programme
+start="20251002190000 +0000"
+stop="20251002220000 +0000"
+channel="ppv-12027"
+>
+<title lang="en">Celta vs. PAOK</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/a0b6a27f37f1efcdbb20ab1cec9fdd80-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12028">
+<display-name>Genk vs. Ferencváros</display-name>
+</channel>
+<programme
+start="20251002190000 +0000"
+stop="20251002220000 +0000"
+channel="ppv-12028"
+>
+<title lang="en">Genk vs. Ferencváros</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/438ea2232abd004b292bf4b001a5ca92-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12038">
+<display-name>Fiorentina vs. Sigma Olomouc</display-name>
+</channel>
+<programme
+start="20251002190000 +0000"
+stop="20251002220000 +0000"
+channel="ppv-12038"
+>
+<title lang="en">Fiorentina vs. Sigma Olomouc</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/1b7f09b4dcdc4ce265a5e78a222c5193-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12039">
+<display-name>S. Bratislava vs. Strasbourg</display-name>
+</channel>
+<programme
+start="20251002190000 +0000"
+stop="20251002220000 +0000"
+channel="ppv-12039"
+>
+<title lang="en">S. Bratislava vs. Strasbourg</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/c620dc12e5c6160486c61ab2ca5100ae-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12040">
+<display-name>Legia Warszawa vs. Samsunspor</display-name>
+</channel>
+<programme
+start="20251002190000 +0000"
+stop="20251002220000 +0000"
+channel="ppv-12040"
+>
+<title lang="en">Legia Warszawa vs. Samsunspor</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/d191ab303475b183e9894d33d9b926da-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12041">
+<display-name>Sparta Praha vs. Shamrock Rovers</display-name>
+</channel>
+<programme
+start="20251002190000 +0000"
+stop="20251002220000 +0000"
+channel="ppv-12041"
+>
+<title lang="en">Sparta Praha vs. Shamrock Rovers</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/1dfbd95da645d7e749f4e56ea1580690-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12042">
+<display-name>Celje vs. AEK Athens</display-name>
+</channel>
+<programme
+start="20251002190000 +0000"
+stop="20251002220000 +0000"
+channel="ppv-12042"
+>
+<title lang="en">Celje vs. AEK Athens</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/acad5c26c5e15a9b1426c86fe40154a0-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12043">
+<display-name>Aberdeen vs. Shakhtar</display-name>
+</channel>
+<programme
+start="20251002190000 +0000"
+stop="20251002220000 +0000"
+channel="ppv-12043"
+>
+<title lang="en">Aberdeen vs. Shakhtar</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/147c10f60881b0d62a8d74125d35f591-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12044">
+<display-name>Raków vs. U. Craiova</display-name>
+</channel>
+<programme
+start="20251002190000 +0000"
+stop="20251002220000 +0000"
+channel="ppv-12044"
+>
+<title lang="en">Raków vs. U. Craiova</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/34a70852a3454d5512fbe7ea235fcde6-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12045">
+<display-name>AEK Larnaca vs. AZ Alkmaar</display-name>
+</channel>
+<programme
+start="20251002190000 +0000"
+stop="20251002220000 +0000"
+channel="ppv-12045"
+>
+<title lang="en">AEK Larnaca vs. AZ Alkmaar</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/8127ac750187e8375bce7a9ee61c97d6-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12046">
+<display-name>Shelbourne vs. Häcken</display-name>
+</channel>
+<programme
+start="20251002190000 +0000"
+stop="20251002220000 +0000"
+channel="ppv-12046"
+>
+<title lang="en">Shelbourne vs. Häcken</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/cfb7358ffa372c697a0096a014fcb1ba-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12011">
+<display-name>Roma vs. Lille</display-name>
+</channel>
+<programme
+start="20251002164500 +0000"
+stop="20251002194500 +0000"
+channel="ppv-12011"
+>
+<title lang="en">Roma vs. Lille</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/833223fdad39bc6f26b85cf1bb2e1288-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12012">
+<display-name>Fenerbahçe vs. Nice</display-name>
+</channel>
+<programme
+start="20251002164500 +0000"
+stop="20251002194500 +0000"
+channel="ppv-12012"
+>
+<title lang="en">Fenerbahçe vs. Nice</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/19ba8285cde6fbfece59c8b3ef5fc6c3-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12013">
+<display-name>Viktoria Plzeň vs. Malmö</display-name>
+</channel>
+<programme
+start="20251002164500 +0000"
+stop="20251002194500 +0000"
+channel="ppv-12013"
+>
+<title lang="en">Viktoria Plzeň vs. Malmö</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/99865ad15035a85f40650cf64767a385-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12014">
+<display-name>Celtic vs. Braga</display-name>
+</channel>
+<programme
+start="20251002164500 +0000"
+stop="20251002194500 +0000"
+channel="ppv-12014"
+>
+<title lang="en">Celtic vs. Braga</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/c63ce161832f9df976cefbe305bc23df-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12015">
+<display-name>Ludogorets vs. Real Betis</display-name>
+</channel>
+<programme
+start="20251002164500 +0000"
+stop="20251002194500 +0000"
+channel="ppv-12015"
+>
+<title lang="en">Ludogorets vs. Real Betis</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/05a609e419c4a4539914267d9f8a5ac4-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12016">
+<display-name>FCSB vs. Young Boys</display-name>
+</channel>
+<programme
+start="20251002164500 +0000"
+stop="20251002194500 +0000"
+channel="ppv-12016"
+>
+<title lang="en">FCSB vs. Young Boys</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/1fa82892159658bf4f631d2b4ecd9eb8-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12017">
+<display-name>Bologna vs. Freiburg</display-name>
+</channel>
+<programme
+start="20251002164500 +0000"
+stop="20251002194500 +0000"
+channel="ppv-12017"
+>
+<title lang="en">Bologna vs. Freiburg</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/f53b87db1df93383c8616a1ad0fe3fcf-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12018">
+<display-name>Panathinaikos vs. Go Ahead Eagles</display-name>
+</channel>
+<programme
+start="20251002164500 +0000"
+stop="20251002194500 +0000"
+channel="ppv-12018"
+>
+<title lang="en">Panathinaikos vs. Go Ahead Eagles</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/06efcfb4d2bed98bb35acbc51bf2e310-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12019">
+<display-name>Brann vs. Utrecht</display-name>
+</channel>
+<programme
+start="20251002164500 +0000"
+stop="20251002194500 +0000"
+channel="ppv-12019"
+>
+<title lang="en">Brann vs. Utrecht</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/f8610258584fa82d31383cf6ce2b665c-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12029">
+<display-name>Dynamo Kyiv vs. Crystal Palace</display-name>
+</channel>
+<programme
+start="20251002164500 +0000"
+stop="20251002194500 +0000"
+channel="ppv-12029"
+>
+<title lang="en">Dynamo Kyiv vs. Crystal Palace</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/97f141605a2519f04a9994fd7e32f149-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12030">
+<display-name>Lech Poznań vs. SK Rapid</display-name>
+</channel>
+<programme
+start="20251002164500 +0000"
+stop="20251002194500 +0000"
+channel="ppv-12030"
+>
+<title lang="en">Lech Poznań vs. SK Rapid</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/547d2404136493e5abcec9e1b25180f2-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12031">
+<display-name>Rayo Vallecano vs. Shkëndija</display-name>
+</channel>
+<programme
+start="20251002164500 +0000"
+stop="20251002194500 +0000"
+channel="ppv-12031"
+>
+<title lang="en">Rayo Vallecano vs. Shkëndija</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/da4c0ffebcffd00b3f3d80e8dc12737c-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12032">
+<display-name>Omonoia vs. Mainz</display-name>
+</channel>
+<programme
+start="20251002164500 +0000"
+stop="20251002194500 +0000"
+channel="ppv-12032"
+>
+<title lang="en">Omonoia vs. Mainz</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/0856a3084c0c89f0421d763bfb4c0dc9-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12033">
+<display-name>Jagiellonia vs. Hamrun Spartans </display-name>
+</channel>
+<programme
+start="20251002164500 +0000"
+stop="20251002194500 +0000"
+channel="ppv-12033"
+>
+<title lang="en">Jagiellonia vs. Hamrun Spartans </title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/d4ae28d50010aeffc71c8ddf50d17395-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12034">
+<display-name>Zrinjski vs. L. Red Imps</display-name>
+</channel>
+<programme
+start="20251002164500 +0000"
+stop="20251002194500 +0000"
+channel="ppv-12034"
+>
+<title lang="en">Zrinjski vs. L. Red Imps</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/b7581d057061d516036a1c633de28098-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12035">
+<display-name>KuPS Kuopio vs. Drita</display-name>
+</channel>
+<programme
+start="20251002164500 +0000"
+stop="20251002194500 +0000"
+channel="ppv-12035"
+>
+<title lang="en">KuPS Kuopio vs. Drita</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/98ce12302ad8b51b6a3fdf5e416913a7-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12036">
+<display-name>Lausanne-Sport vs. Breiðablik</display-name>
+</channel>
+<programme
+start="20251002164500 +0000"
+stop="20251002194500 +0000"
+channel="ppv-12036"
+>
+<title lang="en">Lausanne-Sport vs. Breiðablik</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/300d2a14b080d995178723332b4f9a2a-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12037">
+<display-name>Noah vs. Rijeka</display-name>
+</channel>
+<programme
+start="20251002164500 +0000"
+stop="20251002194500 +0000"
+channel="ppv-12037"
+>
+<title lang="en">Noah vs. Rijeka</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/5ac8f09b70c05f8b08c97fbcd3cadf59-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-11954">
 <display-name>Arsenal vs. Olympiacos</display-name>
 </channel>
@@ -726,14 +1518,14 @@ channel="ppv-5191"
 </programme>
 
 <channel id="ppv-8008">
-<display-name>24/7 Family​‌​​​‌​​‌‌​‌‌‌​​​​‌‌‌​​‌​‌‌​​​‌‌ Guy</display-name>
+<display-name>24/7 Family‌​‌​‌‌​​‌​‌‌​‌‌​‌‌​‌​‌​‌​​​​​​‌‌ Guy</display-name>
 </channel>
 <programme
 start="20250118080000 +0000"
 stop="20250118090000 +0000"
 channel="ppv-8008"
 >
-<title lang="en">24/7 Family​‌​​​‌​​‌‌​‌‌‌​​​​‌‌‌​​‌​‌‌​​​‌‌ Guy</title>
+<title lang="en">24/7 Family‌​‌​‌‌​​‌​‌‌​‌‌​‌‌​‌​‌​‌​​​​​​‌‌ Guy</title>
 <sub-title>24/7 Streams</sub-title>
 <video>
 <present>yes</present>
