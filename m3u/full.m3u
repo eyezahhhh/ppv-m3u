@@ -1,19 +1,33 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ppv-11789" tvg-name="Cincinnati Bengals vs. Denver Broncos (30 September 2025 at 00:15)" tvg-epgid="11789" tvg-logo="https://ppvs.su/assets/thumb/3132d0962ffeef228b1ca9af4dad0aad-thumbnail.jpg",Cincinnati Bengals vs. Denver Broncos (30 September 2025 at 00:15)
 
-#EXTINF:-1 tvg-id="ppv-11788" tvg-name="New York Jets vs. Miami Dolphins (29 September 2025 at 23:15)" tvg-epgid="11788" tvg-logo="https://ppvs.su/assets/thumb/e08952e9348ac9f8d96836b0ed5cd2ac-thumbnail.jpg",New York Jets vs. Miami Dolphins (29 September 2025 at 23:15)
-
+#EXTINF:-1 tvg-id="ppv-11938" tvg-name="Los Angeles Kings vs. Utah Mammoth (1 October 2025 at 01:00)" tvg-epgid="11938" tvg-logo="https://ppvs.su/assets/thumb/aca36b0e9a02334f5e1fb445de05a98f-thumbnail.jpg",Los Angeles Kings vs. Utah Mammoth (1 October 2025 at 01:00)
+https://gg.poocloud.in/utahmammoth/index.m3u8?md5=3ivj1ym9kKMN6wSJlKlLlA&expires=1759293900&net=MjAuMTYxLjQ3LjExNw%3D%3D
+#EXTINF:-1 tvg-id="ppv-11935" tvg-name="Detroit Red Wings vs. Chicago Blackhawks (1 October 2025 at 00:00)" tvg-epgid="11935" tvg-logo="https://ppvs.su/assets/thumb/fffc256590344c70201e638a86fec3f5-thumbnail.jpg",Detroit Red Wings vs. Chicago Blackhawks (1 October 2025 at 00:00)
+https://gg.poocloud.in/chicagoblackhawks/index.m3u8?md5=Xc-m5dEa4cJC1cZdz_qm8Q&expires=1759290300&net=MjAuMTYxLjQ3LjExNw%3D%3D
+#EXTINF:-1 tvg-id="ppv-11936" tvg-name="Vegas Golden Knights vs. Colorado Avalanche (1 October 2025 at 00:00)" tvg-epgid="11936" tvg-logo="https://ppvs.su/assets/thumb/c98e75d5bd1d2cbc760391e1f55526de-thumbnail.jpg",Vegas Golden Knights vs. Colorado Avalanche (1 October 2025 at 00:00)
+https://gg.poocloud.in/coloradoavalanche/index.m3u8?md5=Xc-m5dEa4cJC1cZdz_qm8Q&expires=1759290300&net=MjAuMTYxLjQ3LjExNw%3D%3D
+#EXTINF:-1 tvg-id="ppv-11937" tvg-name="Winnipeg Jets vs. Minnesota Wild (1 October 2025 at 00:00)" tvg-epgid="11937" tvg-logo="https://ppvs.su/assets/thumb/4ba94cca6fbbe3ae19ff2bad9b1f5744-thumbnail.jpg",Winnipeg Jets vs. Minnesota Wild (1 October 2025 at 00:00)
+https://gg.poocloud.in/minnesotawild/index.m3u8?md5=Xc-m5dEa4cJC1cZdz_qm8Q&expires=1759290300&net=MjAuMTYxLjQ3LjExNw%3D%3D
+#EXTINF:-1 tvg-id="ppv-11932" tvg-name="Florida Panthers vs. Tampa Bay Lightning (30 September 2025 at 23:00)" tvg-epgid="11932" tvg-logo="https://ppvs.su/assets/thumb/a6b01a2f457085166b9da096ce199722-thumbnail.jpg",Florida Panthers vs. Tampa Bay Lightning (30 September 2025 at 23:00)
+https://gg.poocloud.in/tampabaylightning/index.m3u8?md5=cAqdiDWds7d2fhQd4eASvg&expires=1759286700&net=MjAuMTYxLjQ3LjExNw%3D%3D
+#EXTINF:-1 tvg-id="ppv-11933" tvg-name="Washington Capitals vs. Columbus Blue Jackets (30 September 2025 at 23:00)" tvg-epgid="11933" tvg-logo="https://ppvs.su/assets/thumb/3394588a7076a3e7303279c084053c90-thumbnail.jpg",Washington Capitals vs. Columbus Blue Jackets (30 September 2025 at 23:00)
+https://gg.poocloud.in/columbusbluejackets/index.m3u8?md5=cAqdiDWds7d2fhQd4eASvg&expires=1759286700&net=MjAuMTYxLjQ3LjExNw%3D%3D
+#EXTINF:-1 tvg-id="ppv-11934" tvg-name="Montreal Canadiens vs. Ottawa Senators (30 September 2025 at 23:00)" tvg-epgid="11934" tvg-logo="https://ppvs.su/assets/thumb/0ac2728e8908be5e63640da3ca498f78-thumbnail.jpg",Montreal Canadiens vs. Ottawa Senators (30 September 2025 at 23:00)
+https://gg.poocloud.in/ottawasenators/index.m3u8?md5=cAqdiDWds7d2fhQd4eASvg&expires=1759286700&net=MjAuMTYxLjQ3LjExNw%3D%3D
+#EXTINF:-1 tvg-id="ppv-11918" tvg-name="San Jose Sharks vs. Anaheim Ducks (30 September 2025 at 02:00)" tvg-epgid="11918" tvg-logo="https://ppvs.su/assets/thumb/2655763672b822359147f59809c30b58-thumbnail.jpg",San Jose Sharks vs. Anaheim Ducks (30 September 2025 at 02:00)
+https://gg.poocloud.in/anaheimducks/index.m3u8?md5=FHBJEqnhUwN0YTIyNVwAvQ&expires=1759211100&net=MjAuMTYxLjQ3LjExNw%3D%3D
+#EXTINF:-1 tvg-id="ppv-11925" tvg-name="Calgary Flames vs. Seattle Kraken (30 September 2025 at 02:00)" tvg-epgid="11925" tvg-logo="https://ppvs.su/assets/thumb/e8c94b94a3f6e0179c45beaf2b306e29-thumbnail.jpg",Calgary Flames vs. Seattle Kraken (30 September 2025 at 02:00)
+https://gg.poocloud.in/seattlekraken/index.m3u8?md5=FHBJEqnhUwN0YTIyNVwAvQ&expires=1759211100&net=MjAuMTYxLjQ3LjExNw%3D%3D
 #EXTINF:-1 tvg-id="ppv-11910" tvg-name="AEW: Wednesday Night Dynamite (2 October 2025 at 00:00)" tvg-epgid="11910" tvg-logo="https://ppvs.su/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg",AEW: Wednesday Night Dynamite (2 October 2025 at 00:00)
 
 #EXTINF:-1 tvg-id="ppv-11909" tvg-name="WWE: NXT (1 October 2025 at 00:00)" tvg-epgid="11909" tvg-logo="https://ppvs.su/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg",WWE: NXT (1 October 2025 at 00:00)
 
-#EXTINF:-1 tvg-id="ppv-11908" tvg-name="WWE: Monday Night RAW (29 September 2025 at 23:00)" tvg-epgid="11908" tvg-logo="https://ppvs.su/assets/thumb/56336f9d22c51c416e1a56afbd18f314-thumbnail.jpg",WWE: Monday Night RAW (29 September 2025 at 23:00)
-
 #EXTINF:-1 tvg-id="ppv-5191" tvg-name="24/7 The Simpsons" tvg-epgid="5191" tvg-logo="https://thumbs.poocloud.in/thesimpsons/preview.jpg",24/7 The Simpsons
-https://gg.poocloud.in/thesimpsons/index.m3u8?md5=idebyztpLBi2WvOQgQTsPA&expires=1759240043&net=NTcuMTUxLjEzMC4x
-#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family​​‌‌‌​​‌‌​​‌​‌‌‌‌​​​​​‌​​​​​​​​‌ Guy" tvg-epgid="8008" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg",24/7 Family​​‌‌‌​​‌‌​​‌​‌‌‌‌​​​​​‌​​​​​​​​‌ Guy
-https://gg.poocloud.in/familyguy/index.m3u8?md5=QqLQZVmW-FwI3SZ3cisEpg&expires=1759240044&net=NTcuMTUxLjEzMC4x
+https://gg.poocloud.in/thesimpsons/index.m3u8?md5=a3MFvKkKSJiH5pm9hcMv-A&expires=1759243540&net=MjAuMTYxLjQ3LjExNw%3D%3D
+#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family​​​‌​‌​​‌​‌​​​​‌​​‌​‌‌‌‌​‌‌‌​‌​‌ Guy" tvg-epgid="8008" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg",24/7 Family​​​‌​‌​​‌​‌​​​​‌​​‌​‌‌‌‌​‌‌‌​‌​‌ Guy
+https://gg.poocloud.in/familyguy/index.m3u8?md5=ygkD5_t7QiD4rYQCkCBhOg&expires=1759243541&net=MjAuMTYxLjQ3LjExNw%3D%3D
 #EXTINF:-1 tvg-id="ppv-3663" tvg-name="24/7 COWS" tvg-epgid="3663" tvg-logo="https://ppvs.su/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg",24/7 COWS
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8?md5=QqLQZVmW-FwI3SZ3cisEpg&expires=1759240044&net=NTcuMTUxLjEzMC4x
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8?md5=ygkD5_t7QiD4rYQCkCBhOg&expires=1759243541&net=MjAuMTYxLjQ3LjExNw%3D%3D
 #EXTINF:-1 tvg-id="ppv-5112" tvg-name="24/7 South Park" tvg-epgid="5112" tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg",24/7 South Park
-https://gg.poocloud.in/southpark/index.m3u8?md5=YiKc8zaIYfKWLL8o_vSExg&expires=1759240045&net=NTcuMTUxLjEzMC4x
+https://gg.poocloud.in/southpark/index.m3u8?md5=ygkD5_t7QiD4rYQCkCBhOg&expires=1759243541&net=MjAuMTYxLjQ3LjExNw%3D%3D
