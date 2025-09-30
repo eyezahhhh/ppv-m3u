@@ -65,28 +65,6 @@ channel="ppv-11940"
 <icon src="https://ppvs.su/assets/thumb/17e87d53a1be1cda03bd6041e1e5c6ab-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-11939">
-<display-name>Detroit Tigers vs. Cleveland Guardians</display-name>
-</channel>
-<programme
-start="20250930170000 +0000"
-stop="20250930200000 +0000"
-channel="ppv-11939"
->
-<title lang="en">Detroit Tigers vs. Cleveland Guardians</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/5410fd40fb6c2fb8af8d7d903dea60cc-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-11836">
 <display-name>76ers at Knicks (NBA Abu Dhabi Game)</display-name>
 </channel>
@@ -525,50 +503,6 @@ channel="ppv-11990"
 </audio>
 <category>Football</category>
 <icon src="https://ppvs.su/assets/thumb/a20422b76a2ecf67c2f421167859268e-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-11943">
-<display-name>Atalanta vs. Club Brugge</display-name>
-</channel>
-<programme
-start="20250930164500 +0000"
-stop="20250930194500 +0000"
-channel="ppv-11943"
->
-<title lang="en">Atalanta vs. Club Brugge</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/3572de457f8b4585dbe4cd8566d8ef53-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-11944">
-<display-name>Kairat Almaty vs. Real Madrid</display-name>
-</channel>
-<programme
-start="20250930164500 +0000"
-stop="20250930194500 +0000"
-channel="ppv-11944"
->
-<title lang="en">Kairat Almaty vs. Real Madrid</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/150c602f71645132a717765b3989ce0c-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-11938">
