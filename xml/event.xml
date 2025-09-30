@@ -43,6 +43,28 @@ channel="ppv-11788"
 <icon src="https://ppvs.su/assets/thumb/e08952e9348ac9f8d96836b0ed5cd2ac-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-11910">
+<display-name>AEW: Wednesday Night Dynamite</display-name>
+</channel>
+<programme
+start="20251002000000 +0000"
+stop="20251002030000 +0000"
+channel="ppv-11910"
+>
+<title lang="en">AEW: Wednesday Night Dynamite</title>
+<sub-title>Wrestling</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Wrestling</category>
+<icon src="https://ppvs.su/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-11909">
 <display-name>WWE: NXT</display-name>
 </channel>
