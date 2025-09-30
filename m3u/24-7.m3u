@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ppv-5191" tvg-name="24/7 The Simpsons" tvg-epgid="5191" tvg-logo="https://thumbs.poocloud.in/thesimpsons/preview.jpg",24/7 The Simpsons
-https://gg.poocloud.in/thesimpsons/index.m3u8?md5=7lFVQSGOBFIYWyi4r4z_lg&expires=1759280518&net=MTQ1LjEzMi4xMDEuMjAw
-#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family‌​​‌​​​‌‌​​​​‌​​​‌‌​​‌​‌‌‌​​‌​​​ Guy" tvg-epgid="8008" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg",24/7 Family‌​​‌​​​‌‌​​​​‌​​​‌‌​​‌​‌‌‌​​‌​​​ Guy
-https://gg.poocloud.in/familyguy/index.m3u8?md5=mDiP3vI5-DM6GFgEe5iGFQ&expires=1759280519&net=MTQ1LjEzMi4xMDEuMjAw
+https://gg.poocloud.in/thesimpsons/index.m3u8?md5=R0oHP_sC3qi4PG38dwoYpg&expires=1759282102&net=NTIuMTUwLjI5LjEwMw%3D%3D
+#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family​​‌‌​‌​​‌​​‌​‌‌​​​​‌‌‌​‌​‌‌​​‌‌‌ Guy" tvg-epgid="8008" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg",24/7 Family​​‌‌​‌​​‌​​‌​‌‌​​​​‌‌‌​‌​‌‌​​‌‌‌ Guy
+https://gg.poocloud.in/familyguy/index.m3u8?md5=R0oHP_sC3qi4PG38dwoYpg&expires=1759282102&net=NTIuMTUwLjI5LjEwMw%3D%3D
 #EXTINF:-1 tvg-id="ppv-5112" tvg-name="24/7 South Park" tvg-epgid="5112" tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg",24/7 South Park
-https://gg.poocloud.in/southpark/index.m3u8?md5=mDiP3vI5-DM6GFgEe5iGFQ&expires=1759280519&net=MTQ1LjEzMi4xMDEuMjAw
+https://gg.poocloud.in/southpark/index.m3u8?md5=9BF_ouZb3NdxKbEF49xeTQ&expires=1759282103&net=NTIuMTUwLjI5LjEwMw%3D%3D
