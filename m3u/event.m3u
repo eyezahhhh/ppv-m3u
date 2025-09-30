@@ -1,22 +1,30 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ppv-11942" tvg-name="Cincinnati Reds vs. Los Angeles Dodgers (1 October 2025 at 01:00)" tvg-epgid="11942" tvg-logo="https://ppvs.su/assets/thumb/b7e87621b164190127998d6e715f3353-thumbnail.jpg",Cincinnati Reds vs. Los Angeles Dodgers (1 October 2025 at 01:00)
+
+#EXTINF:-1 tvg-id="ppv-11941" tvg-name="Boston Red Sox vs. New York Yankees (30 September 2025 at 22:00)" tvg-epgid="11941" tvg-logo="https://ppvs.su/assets/thumb/3acb4dea98820f352717e6c965d12c4e-thumbnail.jpg",Boston Red Sox vs. New York Yankees (30 September 2025 at 22:00)
+
+#EXTINF:-1 tvg-id="ppv-11940" tvg-name="San Diego Padres vs. Chicago Cubs (30 September 2025 at 19:00)" tvg-epgid="11940" tvg-logo="https://ppvs.su/assets/thumb/17e87d53a1be1cda03bd6041e1e5c6ab-thumbnail.jpg",San Diego Padres vs. Chicago Cubs (30 September 2025 at 19:00)
+
+#EXTINF:-1 tvg-id="ppv-11939" tvg-name="Detroit Tigers vs. Cleveland Guardians (30 September 2025 at 17:00)" tvg-epgid="11939" tvg-logo="https://ppvs.su/assets/thumb/5410fd40fb6c2fb8af8d7d903dea60cc-thumbnail.jpg",Detroit Tigers vs. Cleveland Guardians (30 September 2025 at 17:00)
+
 #EXTINF:-1 tvg-id="ppv-11938" tvg-name="Los Angeles Kings vs. Utah Mammoth (1 October 2025 at 01:00)" tvg-epgid="11938" tvg-logo="https://ppvs.su/assets/thumb/aca36b0e9a02334f5e1fb445de05a98f-thumbnail.jpg",Los Angeles Kings vs. Utah Mammoth (1 October 2025 at 01:00)
-https://gg.poocloud.in/utahmammoth/index.m3u8?md5=3ivj1ym9kKMN6wSJlKlLlA&expires=1759293900&net=MjAuMTcxLjEyNS4xMzI%3D
+https://gg.poocloud.in/utahmammoth/index.m3u8?md5=3ivj1ym9kKMN6wSJlKlLlA&expires=1759293900&net=MTcyLjE3NC4xNjUuMjI2
 #EXTINF:-1 tvg-id="ppv-11935" tvg-name="Detroit Red Wings vs. Chicago Blackhawks (1 October 2025 at 00:00)" tvg-epgid="11935" tvg-logo="https://ppvs.su/assets/thumb/fffc256590344c70201e638a86fec3f5-thumbnail.jpg",Detroit Red Wings vs. Chicago Blackhawks (1 October 2025 at 00:00)
-https://gg.poocloud.in/chicagoblackhawks/index.m3u8?md5=Xc-m5dEa4cJC1cZdz_qm8Q&expires=1759290300&net=MjAuMTcxLjEyNS4xMzI%3D
+https://gg.poocloud.in/chicagoblackhawks/index.m3u8?md5=Xc-m5dEa4cJC1cZdz_qm8Q&expires=1759290300&net=MTcyLjE3NC4xNjUuMjI2
 #EXTINF:-1 tvg-id="ppv-11936" tvg-name="Vegas Golden Knights vs. Colorado Avalanche (1 October 2025 at 00:00)" tvg-epgid="11936" tvg-logo="https://ppvs.su/assets/thumb/c98e75d5bd1d2cbc760391e1f55526de-thumbnail.jpg",Vegas Golden Knights vs. Colorado Avalanche (1 October 2025 at 00:00)
-https://gg.poocloud.in/coloradoavalanche/index.m3u8?md5=Xc-m5dEa4cJC1cZdz_qm8Q&expires=1759290300&net=MjAuMTcxLjEyNS4xMzI%3D
+https://gg.poocloud.in/coloradoavalanche/index.m3u8?md5=Xc-m5dEa4cJC1cZdz_qm8Q&expires=1759290300&net=MTcyLjE3NC4xNjUuMjI2
 #EXTINF:-1 tvg-id="ppv-11937" tvg-name="Winnipeg Jets vs. Minnesota Wild (1 October 2025 at 00:00)" tvg-epgid="11937" tvg-logo="https://ppvs.su/assets/thumb/4ba94cca6fbbe3ae19ff2bad9b1f5744-thumbnail.jpg",Winnipeg Jets vs. Minnesota Wild (1 October 2025 at 00:00)
-https://gg.poocloud.in/minnesotawild/index.m3u8?md5=Xc-m5dEa4cJC1cZdz_qm8Q&expires=1759290300&net=MjAuMTcxLjEyNS4xMzI%3D
+https://gg.poocloud.in/minnesotawild/index.m3u8?md5=Xc-m5dEa4cJC1cZdz_qm8Q&expires=1759290300&net=MTcyLjE3NC4xNjUuMjI2
 #EXTINF:-1 tvg-id="ppv-11932" tvg-name="Florida Panthers vs. Tampa Bay Lightning (30 September 2025 at 23:00)" tvg-epgid="11932" tvg-logo="https://ppvs.su/assets/thumb/a6b01a2f457085166b9da096ce199722-thumbnail.jpg",Florida Panthers vs. Tampa Bay Lightning (30 September 2025 at 23:00)
-https://gg.poocloud.in/tampabaylightning/index.m3u8?md5=cAqdiDWds7d2fhQd4eASvg&expires=1759286700&net=MjAuMTcxLjEyNS4xMzI%3D
+https://gg.poocloud.in/tampabaylightning/index.m3u8?md5=cAqdiDWds7d2fhQd4eASvg&expires=1759286700&net=MTcyLjE3NC4xNjUuMjI2
 #EXTINF:-1 tvg-id="ppv-11933" tvg-name="Washington Capitals vs. Columbus Blue Jackets (30 September 2025 at 23:00)" tvg-epgid="11933" tvg-logo="https://ppvs.su/assets/thumb/3394588a7076a3e7303279c084053c90-thumbnail.jpg",Washington Capitals vs. Columbus Blue Jackets (30 September 2025 at 23:00)
-https://gg.poocloud.in/columbusbluejackets/index.m3u8?md5=cAqdiDWds7d2fhQd4eASvg&expires=1759286700&net=MjAuMTcxLjEyNS4xMzI%3D
+https://gg.poocloud.in/columbusbluejackets/index.m3u8?md5=cAqdiDWds7d2fhQd4eASvg&expires=1759286700&net=MTcyLjE3NC4xNjUuMjI2
 #EXTINF:-1 tvg-id="ppv-11934" tvg-name="Montreal Canadiens vs. Ottawa Senators (30 September 2025 at 23:00)" tvg-epgid="11934" tvg-logo="https://ppvs.su/assets/thumb/0ac2728e8908be5e63640da3ca498f78-thumbnail.jpg",Montreal Canadiens vs. Ottawa Senators (30 September 2025 at 23:00)
-https://gg.poocloud.in/ottawasenators/index.m3u8?md5=cAqdiDWds7d2fhQd4eASvg&expires=1759286700&net=MjAuMTcxLjEyNS4xMzI%3D
+https://gg.poocloud.in/ottawasenators/index.m3u8?md5=cAqdiDWds7d2fhQd4eASvg&expires=1759286700&net=MTcyLjE3NC4xNjUuMjI2
 #EXTINF:-1 tvg-id="ppv-11918" tvg-name="San Jose Sharks vs. Anaheim Ducks (30 September 2025 at 02:00)" tvg-epgid="11918" tvg-logo="https://ppvs.su/assets/thumb/2655763672b822359147f59809c30b58-thumbnail.jpg",San Jose Sharks vs. Anaheim Ducks (30 September 2025 at 02:00)
-https://gg.poocloud.in/anaheimducks/index.m3u8?md5=FHBJEqnhUwN0YTIyNVwAvQ&expires=1759211100&net=MjAuMTcxLjEyNS4xMzI%3D
+https://gg.poocloud.in/anaheimducks/index.m3u8?md5=FHBJEqnhUwN0YTIyNVwAvQ&expires=1759211100&net=MTcyLjE3NC4xNjUuMjI2
 #EXTINF:-1 tvg-id="ppv-11925" tvg-name="Calgary Flames vs. Seattle Kraken (30 September 2025 at 02:00)" tvg-epgid="11925" tvg-logo="https://ppvs.su/assets/thumb/e8c94b94a3f6e0179c45beaf2b306e29-thumbnail.jpg",Calgary Flames vs. Seattle Kraken (30 September 2025 at 02:00)
-https://gg.poocloud.in/seattlekraken/index.m3u8?md5=FHBJEqnhUwN0YTIyNVwAvQ&expires=1759211100&net=MjAuMTcxLjEyNS4xMzI%3D
+https://gg.poocloud.in/seattlekraken/index.m3u8?md5=FHBJEqnhUwN0YTIyNVwAvQ&expires=1759211100&net=MTcyLjE3NC4xNjUuMjI2
 #EXTINF:-1 tvg-id="ppv-11910" tvg-name="AEW: Wednesday Night Dynamite (2 October 2025 at 00:00)" tvg-epgid="11910" tvg-logo="https://ppvs.su/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg",AEW: Wednesday Night Dynamite (2 October 2025 at 00:00)
 
 #EXTINF:-1 tvg-id="ppv-11909" tvg-name="WWE: NXT (1 October 2025 at 00:00)" tvg-epgid="11909" tvg-logo="https://ppvs.su/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg",WWE: NXT (1 October 2025 at 00:00)
