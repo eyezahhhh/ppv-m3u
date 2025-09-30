@@ -43,28 +43,6 @@ channel="ppv-11941"
 <icon src="https://ppvs.su/assets/thumb/3acb4dea98820f352717e6c965d12c4e-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-11940">
-<display-name>San Diego Padres vs. Chicago Cubs</display-name>
-</channel>
-<programme
-start="20250930190000 +0000"
-stop="20250930220000 +0000"
-channel="ppv-11940"
->
-<title lang="en">San Diego Padres vs. Chicago Cubs</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/17e87d53a1be1cda03bd6041e1e5c6ab-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-11836">
 <display-name>76ers at Knicks (NBA Abu Dhabi Game)</display-name>
 </channel>
@@ -1099,182 +1077,6 @@ channel="ppv-11953"
 <icon src="https://ppvs.su/assets/thumb/edf1035a7f2628f784712122d0be7db5-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-11449">
-<display-name>The Golazo Show</display-name>
-</channel>
-<programme
-start="20250930190000 +0000"
-stop="20250930220000 +0000"
-channel="ppv-11449"
->
-<title lang="en">The Golazo Show</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/3bac1a9cd01590ac3bac714bd0663c20-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-11945">
-<display-name>Inter vs. Slavia Praha</display-name>
-</channel>
-<programme
-start="20250930190000 +0000"
-stop="20250930220000 +0000"
-channel="ppv-11945"
->
-<title lang="en">Inter vs. Slavia Praha</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/96b897799625cb40b67d165d73070339-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-11946">
-<display-name>Chelsea vs. Benfica</display-name>
-</channel>
-<programme
-start="20250930190000 +0000"
-stop="20250930220000 +0000"
-channel="ppv-11946"
->
-<title lang="en">Chelsea vs. Benfica</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/9f0156f0306f59703e6276ba33a7295a-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-11947">
-<display-name>Atleti vs. Frankfurt</display-name>
-</channel>
-<programme
-start="20250930190000 +0000"
-stop="20250930220000 +0000"
-channel="ppv-11947"
->
-<title lang="en">Atleti vs. Frankfurt</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/34c319af803d4a450d94983c71b0b454-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-11948">
-<display-name>Bodø/Glimt vs. Tottenham</display-name>
-</channel>
-<programme
-start="20250930190000 +0000"
-stop="20250930220000 +0000"
-channel="ppv-11948"
->
-<title lang="en">Bodø/Glimt vs. Tottenham</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/7c801009a07092aa3111668694152748-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-11949">
-<display-name>Marseille vs. Ajax</display-name>
-</channel>
-<programme
-start="20250930190000 +0000"
-stop="20250930220000 +0000"
-channel="ppv-11949"
->
-<title lang="en">Marseille vs. Ajax</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/647da8bd3d9d09bbccd5beb59c79b043-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-11950">
-<display-name>Galatasaray vs. Liverpool</display-name>
-</channel>
-<programme
-start="20250930190000 +0000"
-stop="20250930220000 +0000"
-channel="ppv-11950"
->
-<title lang="en">Galatasaray vs. Liverpool</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/fa1655d74aae98f97a66ce93275b1e18-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-11951">
-<display-name>Pafos vs. Bayern München</display-name>
-</channel>
-<programme
-start="20250930190000 +0000"
-stop="20250930220000 +0000"
-channel="ppv-11951"
->
-<title lang="en">Pafos vs. Bayern München</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/b92fc0aec2df1ea1fef92561fb2aaf9b-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-11938">
 <display-name>Los Angeles Kings vs. Utah Mammoth</display-name>
 </channel>
@@ -1496,14 +1298,14 @@ channel="ppv-5191"
 </programme>
 
 <channel id="ppv-8008">
-<display-name>24/7 Family‌​‌​‌‌​​‌​‌‌​‌‌​‌‌‌​​​​‌‌​​​​‌‌​ Guy</display-name>
+<display-name>24/7 Family‌​‌​‌‌​​‌​‌‌‌​​​‌‌​‌​​‌‌‌​‌​​​​‌ Guy</display-name>
 </channel>
 <programme
 start="20250118080000 +0000"
 stop="20250118090000 +0000"
 channel="ppv-8008"
 >
-<title lang="en">24/7 Family‌​‌​‌‌​​‌​‌‌​‌‌​‌‌‌​​​​‌‌​​​​‌‌​ Guy</title>
+<title lang="en">24/7 Family‌​‌​‌‌​​‌​‌‌‌​​​‌‌​‌​​‌‌‌​‌​​​​‌ Guy</title>
 <sub-title>24/7 Streams</sub-title>
 <video>
 <present>yes</present>
