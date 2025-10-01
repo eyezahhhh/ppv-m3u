@@ -9,6 +9,14 @@
 
 #EXTINF:-1 tvg-id="ppv-11836" tvg-name="76ers at Knicks (NBA Abu Dhabi Game) (2 October 2025 at 16:00)" tvg-epgid="11836" tvg-logo="https://ppvs.su/assets/thumb/efbf187d1ed03db53b511bd561eeffeb-thumbnail.jpg",76ers at Knicks (NBA Abu Dhabi Game) (2 October 2025 at 16:00)
 
+#EXTINF:-1 tvg-id="ppv-11961" tvg-name="Bournemouth vs. Fulham (3 October 2025 at 19:00)" tvg-epgid="11961" tvg-logo="https://ppvs.su/assets/thumb/06ae378b4b8a7b216582af8e4a48ea84-thumbnail.jpg",Bournemouth vs. Fulham (3 October 2025 at 19:00)
+
+#EXTINF:-1 tvg-id="ppv-12051" tvg-name="CA Osasuna vs. Getafe CF (3 October 2025 at 19:00)" tvg-epgid="12051" tvg-logo="https://ppvs.su/assets/thumb/e7f275be6e4eaf72febf1fab162b414f-thumbnail.jpg",CA Osasuna vs. Getafe CF (3 October 2025 at 19:00)
+
+#EXTINF:-1 tvg-id="ppv-11979" tvg-name="Paris FC vs. FC Lorient (3 October 2025 at 18:45)" tvg-epgid="11979" tvg-logo="https://ppvs.su/assets/thumb/468e985d33967604f094e4a2950c63c7-thumbnail.jpg",Paris FC vs. FC Lorient (3 October 2025 at 18:45)
+
+#EXTINF:-1 tvg-id="ppv-11991" tvg-name="Hellas Verona vs. Sassuolo (3 October 2025 at 18:45)" tvg-epgid="11991" tvg-logo="https://ppvs.su/assets/thumb/c5af3063e3d6da5791b15045057ca2e4-thumbnail.jpg",Hellas Verona vs. Sassuolo (3 October 2025 at 18:45)
+
 #EXTINF:-1 tvg-id="ppv-12001" tvg-name="Hoffenheim vs. Cologne (3 October 2025 at 18:30)" tvg-epgid="12001" tvg-logo="https://ppvs.su/assets/thumb/0f0643aa8b8bc702dda00a72090bc0f6-thumbnail.jpg",Hoffenheim vs. Cologne (3 October 2025 at 18:30)
 
 #EXTINF:-1 tvg-id="ppv-12020" tvg-name="Porto vs. Crvena Zvezda (2 October 2025 at 19:00)" tvg-epgid="12020" tvg-logo="https://ppvs.su/assets/thumb/af5dd9e61fbc9f3470bf079391267b0e-thumbnail.jpg",Porto vs. Crvena Zvezda (2 October 2025 at 19:00)
@@ -108,8 +116,8 @@
 #EXTINF:-1 tvg-id="ppv-11910" tvg-name="AEW: Wednesday Night Dynamite (2 October 2025 at 00:00)" tvg-epgid="11910" tvg-logo="https://ppvs.su/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg",AEW: Wednesday Night Dynamite (2 October 2025 at 00:00)
 
 #EXTINF:-1 tvg-id="ppv-5191" tvg-name="24/7 The Simpsons" tvg-epgid="5191" tvg-logo="https://thumbs.poocloud.in/thesimpsons/preview.jpg",24/7 The Simpsons
-https://gg.poocloud.in/thesimpsons/index.m3u8?md5=r9QRFA6Vc9NY-QRTMl42eg&expires=1759388154&net=MTM1LjIzMi4yMzIuMzg%3D
-#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family‌​​​​‌‌‌‌‌‌​‌​​​‌‌‌​‌​​​​​‌​​‌‌​ Guy" tvg-epgid="8008" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg",24/7 Family‌​​​​‌‌‌‌‌‌​‌​​​‌‌‌​‌​​​​​‌​​‌‌​ Guy
-https://gg.poocloud.in/familyguy/index.m3u8?md5=hrRYBGuOaJoJrH2f52U8Pw&expires=1759388155&net=MTM1LjIzMi4yMzIuMzg%3D
+https://gg.poocloud.in/thesimpsons/index.m3u8?md5=dmWRcABdYH2EOLDu6_onjw&expires=1759389619&net=MTI4LjI0LjE2My44MA%3D%3D
+#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family‌​​​​​​​​​​‌‌​​​‌​‌​​​‌‌​‌​‌​​​​ Guy" tvg-epgid="8008" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg",24/7 Family‌​​​​​​​​​​‌‌​​​‌​‌​​​‌‌​‌​‌​​​​ Guy
+https://gg.poocloud.in/familyguy/index.m3u8?md5=dmWRcABdYH2EOLDu6_onjw&expires=1759389619&net=MTI4LjI0LjE2My44MA%3D%3D
 #EXTINF:-1 tvg-id="ppv-5112" tvg-name="24/7 South Park" tvg-epgid="5112" tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg",24/7 South Park
-https://gg.poocloud.in/southpark/index.m3u8?md5=MAWWHoIpzvB_mbDzJusC5Q&expires=1759388156&net=MTM1LjIzMi4yMzIuMzg%3D
+https://gg.poocloud.in/southpark/index.m3u8?md5=uCeVb9SIThmQzWL-cMkHFA&expires=1759389622&net=MTI4LjI0LjE2My44MA%3D%3D
