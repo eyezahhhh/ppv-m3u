@@ -65,28 +65,6 @@ channel="ppv-12048"
 <icon src="https://ppvs.su/assets/thumb/17e87d53a1be1cda03bd6041e1e5c6ab-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-12047">
-<display-name>Detroit Tigers vs. Cleveland Guardians</display-name>
-</channel>
-<programme
-start="20251001170000 +0000"
-stop="20251001200000 +0000"
-channel="ppv-12047"
->
-<title lang="en">Detroit Tigers vs. Cleveland Guardians</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/5410fd40fb6c2fb8af8d7d903dea60cc-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-11836">
 <display-name>76ers at Knicks (NBA Abu Dhabi Game)</display-name>
 </channel>
@@ -1187,50 +1165,6 @@ channel="ppv-11960"
 <icon src="https://ppvs.su/assets/thumb/338407d132a6b6650659fffc5a013492-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-11952">
-<display-name>Union SG vs. Newcastle</display-name>
-</channel>
-<programme
-start="20251001164500 +0000"
-stop="20251001194500 +0000"
-channel="ppv-11952"
->
-<title lang="en">Union SG vs. Newcastle</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/1f21da884afd40e0398ffac8f1e507e8-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-11953">
-<display-name>Qarabağ vs. Copenhagen</display-name>
-</channel>
-<programme
-start="20251001164500 +0000"
-stop="20251001194500 +0000"
-channel="ppv-11953"
->
-<title lang="en">Qarabağ vs. Copenhagen</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/edf1035a7f2628f784712122d0be7db5-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-11911">
 <display-name>TNA: Impact</display-name>
 </channel>
@@ -1298,14 +1232,14 @@ channel="ppv-5191"
 </programme>
 
 <channel id="ppv-8008">
-<display-name>24/7 Family​​​‌​‌​​‌​‌​​​​‌​‌​​​‌‌​‌​‌​​​‌‌ Guy</display-name>
+<display-name>24/7 Family​​‌‌​‌​​‌​​‌‌​‌​​​​‌​‌​‌​​‌‌​​‌‌ Guy</display-name>
 </channel>
 <programme
 start="20250118080000 +0000"
 stop="20250118090000 +0000"
 channel="ppv-8008"
 >
-<title lang="en">24/7 Family​​​‌​‌​​‌​‌​​​​‌​‌​​​‌‌​‌​‌​​​‌‌ Guy</title>
+<title lang="en">24/7 Family​​‌‌​‌​​‌​​‌‌​‌​​​​‌​‌​‌​​‌‌​​‌‌ Guy</title>
 <sub-title>24/7 Streams</sub-title>
 <video>
 <present>yes</present>
