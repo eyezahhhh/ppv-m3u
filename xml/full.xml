@@ -1,11 +1,11 @@
 <tv>
-<channel id="ppv-11942">
+<channel id="ppv-12050">
 <display-name>Cincinnati Reds vs. Los Angeles Dodgers</display-name>
 </channel>
 <programme
-start="20251001010000 +0000"
-stop="20251001040000 +0000"
-channel="ppv-11942"
+start="20251002010000 +0000"
+stop="20251002040000 +0000"
+channel="ppv-12050"
 >
 <title lang="en">Cincinnati Reds vs. Los Angeles Dodgers</title>
 <sub-title>Baseball</sub-title>
@@ -19,6 +19,72 @@ channel="ppv-11942"
 </audio>
 <category>Baseball</category>
 <icon src="https://ppvs.su/assets/thumb/b7e87621b164190127998d6e715f3353-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12049">
+<display-name>Boston Red Sox vs. New York Yankees</display-name>
+</channel>
+<programme
+start="20251001220000 +0000"
+stop="20251002010000 +0000"
+channel="ppv-12049"
+>
+<title lang="en">Boston Red Sox vs. New York Yankees</title>
+<sub-title>Baseball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Baseball</category>
+<icon src="https://ppvs.su/assets/thumb/3acb4dea98820f352717e6c965d12c4e-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12048">
+<display-name>San Diego Padres vs. Chicago Cubs</display-name>
+</channel>
+<programme
+start="20251001190000 +0000"
+stop="20251001220000 +0000"
+channel="ppv-12048"
+>
+<title lang="en">San Diego Padres vs. Chicago Cubs</title>
+<sub-title>Baseball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Baseball</category>
+<icon src="https://ppvs.su/assets/thumb/17e87d53a1be1cda03bd6041e1e5c6ab-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12047">
+<display-name>Detroit Tigers vs. Cleveland Guardians</display-name>
+</channel>
+<programme
+start="20251001170000 +0000"
+stop="20251001200000 +0000"
+channel="ppv-12047"
+>
+<title lang="en">Detroit Tigers vs. Cleveland Guardians</title>
+<sub-title>Baseball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Baseball</category>
+<icon src="https://ppvs.su/assets/thumb/5410fd40fb6c2fb8af8d7d903dea60cc-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-11836">
@@ -63,28 +129,6 @@ channel="ppv-12010"
 </audio>
 <category>Basketball</category>
 <icon src="https://ppvs.su/assets/thumb/52032ad7dd97a7fe51281da4bae7f7a5-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-11749">
-<display-name>Dana White&apos;s Contender Series</display-name>
-</channel>
-<programme
-start="20251001000000 +0000"
-stop="20251001040000 +0000"
-channel="ppv-11749"
->
-<title lang="en">Dana White&apos;s Contender Series</title>
-<sub-title>Combat Sports</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Combat Sports</category>
-<icon src="https://ppvs.su/assets/thumb/a5f35940ef6309a61060dede0638e1d3-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-12020">
@@ -1077,28 +1121,6 @@ channel="ppv-11953"
 <icon src="https://ppvs.su/assets/thumb/edf1035a7f2628f784712122d0be7db5-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-11938">
-<display-name>Los Angeles Kings vs. Utah Mammoth</display-name>
-</channel>
-<programme
-start="20251001010000 +0000"
-stop="20251001040000 +0000"
-channel="ppv-11938"
->
-<title lang="en">Los Angeles Kings vs. Utah Mammoth</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://ppvs.su/assets/thumb/aca36b0e9a02334f5e1fb445de05a98f-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-11911">
 <display-name>TNA: Impact</display-name>
 </channel>
@@ -1166,14 +1188,14 @@ channel="ppv-5191"
 </programme>
 
 <channel id="ppv-8008">
-<display-name>24/7 Family‌​​​​‌‌‌‌‌‌​‌​​​‌‌​​‌​​‌​​‌​​​‌​ Guy</display-name>
+<display-name>24/7 Family​​‌‌​‌​​‌​‌​​​​‌​‌​‌​​‌​​‌​‌​​​​ Guy</display-name>
 </channel>
 <programme
 start="20250118080000 +0000"
 stop="20250118090000 +0000"
 channel="ppv-8008"
 >
-<title lang="en">24/7 Family‌​​​​‌‌‌‌‌‌​‌​​​‌‌​​‌​​‌​​‌​​​‌​ Guy</title>
+<title lang="en">24/7 Family​​‌‌​‌​​‌​‌​​​​‌​‌​‌​​‌​​‌​‌​​​​ Guy</title>
 <sub-title>24/7 Streams</sub-title>
 <video>
 <present>yes</present>
