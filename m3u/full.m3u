@@ -6,9 +6,9 @@
 #EXTINF:-1 tvg-id="ppv-11836" tvg-name="76ers at Knicks (NBA Abu Dhabi Game) (2 October 2025 at 16:00)" tvg-epgid="11836" tvg-logo="https://ppvs.su/assets/thumb/efbf187d1ed03db53b511bd561eeffeb-thumbnail.jpg",76ers at Knicks (NBA Abu Dhabi Game) (2 October 2025 at 16:00)
 
 #EXTINF:-1 tvg-id="ppv-12062" tvg-name="UFC 320: Ankalaev vs. Pereira 2 (4 October 2025 at 22:00)" tvg-epgid="12062" tvg-logo="https://ppvs.su/assets/thumb/e45a8ecebbd3a51eda5c68c6695561b0-thumbnail.jpg",UFC 320: Ankalaev vs. Pereira 2 (4 October 2025 at 22:00)
-https://gg.poocloud.in/ufc/index.m3u8?md5=M7Dt1FTqwZQhbLKgW6jVDg&expires=1759646700&net=NTcuMTUxLjEzNy4xODM%3D
+https://gg.poocloud.in/ufc/index.m3u8?md5=M7Dt1FTqwZQhbLKgW6jVDg&expires=1759646700&net=NDguMjE0LjU0LjExNg%3D%3D
 #EXTINF:-1 tvg-id="ppv-12061" tvg-name="PFL Champions Series: Dubai (3 October 2025 at 15:30)" tvg-epgid="12061" tvg-logo="https://ppvs.su/assets/thumb/3318d214b8e93968170bdf6166113a1d-thumbnail.jpg",PFL Champions Series: Dubai (3 October 2025 at 15:30)
-https://gg.poocloud.in/pfl/index.m3u8?md5=lw496CyZwPhNaBjJqQhSsQ&expires=1759529700&net=NTcuMTUxLjEzNy4xODM%3D
+https://gg.poocloud.in/pfl/index.m3u8?md5=lw496CyZwPhNaBjJqQhSsQ&expires=1759529700&net=NDguMjE0LjU0LjExNg%3D%3D
 #EXTINF:-1 tvg-id="ppv-11961" tvg-name="Bournemouth vs. Fulham (3 October 2025 at 19:00)" tvg-epgid="11961" tvg-logo="https://ppvs.su/assets/thumb/06ae378b4b8a7b216582af8e4a48ea84-thumbnail.jpg",Bournemouth vs. Fulham (3 October 2025 at 19:00)
 
 #EXTINF:-1 tvg-id="ppv-12051" tvg-name="CA Osasuna vs. Getafe CF (3 October 2025 at 19:00)" tvg-epgid="12051" tvg-logo="https://ppvs.su/assets/thumb/e7f275be6e4eaf72febf1fab162b414f-thumbnail.jpg",CA Osasuna vs. Getafe CF (3 October 2025 at 19:00)
@@ -91,13 +91,15 @@ https://gg.poocloud.in/pfl/index.m3u8?md5=lw496CyZwPhNaBjJqQhSsQ&expires=1759529
 
 #EXTINF:-1 tvg-id="ppv-12037" tvg-name="Noah vs. Rijeka (2 October 2025 at 16:45)" tvg-epgid="12037" tvg-logo="https://ppvs.su/assets/thumb/5ac8f09b70c05f8b08c97fbcd3cadf59-thumbnail.jpg",Noah vs. Rijeka (2 October 2025 at 16:45)
 
+#EXTINF:-1 tvg-id="ppv-11912" tvg-name="WWE: Friday Night Smackdown (4 October 2025 at 00:00)" tvg-epgid="11912" tvg-logo="https://ppvs.su/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg",WWE: Friday Night Smackdown (4 October 2025 at 00:00)
+
 #EXTINF:-1 tvg-id="ppv-11911" tvg-name="TNA: Impact (3 October 2025 at 00:00)" tvg-epgid="11911" tvg-logo="https://ppvs.su/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg",TNA: Impact (3 October 2025 at 00:00)
 
 #EXTINF:-1 tvg-id="ppv-11910" tvg-name="AEW: Wednesday Night Dynamite (2 October 2025 at 00:00)" tvg-epgid="11910" tvg-logo="https://ppvs.su/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg",AEW: Wednesday Night Dynamite (2 October 2025 at 00:00)
 
 #EXTINF:-1 tvg-id="ppv-5191" tvg-name="24/7 The Simpsons" tvg-epgid="5191" tvg-logo="https://thumbs.poocloud.in/thesimpsons/preview.jpg",24/7 The Simpsons
-https://gg.poocloud.in/thesimpsons/index.m3u8?md5=QvcmtiyrGNPUmfPM17uRxw&expires=1759405749&net=NTcuMTUxLjEzNy4xODM%3D
-#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family​​‌‌‌​​‌‌​​‌​‌‌‌‌​​​‌​​‌‌​‌‌​‌‌‌ Guy" tvg-epgid="8008" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg",24/7 Family​​‌‌‌​​‌‌​​‌​‌‌‌‌​​​‌​​‌‌​‌‌​‌‌‌ Guy
-https://gg.poocloud.in/familyguy/index.m3u8?md5=oe-mBxcN_EI-2ufbpJDTDQ&expires=1759405750&net=NTcuMTUxLjEzNy4xODM%3D
+https://gg.poocloud.in/thesimpsons/index.m3u8?md5=pRNHjInwWgK4T_SnaurLnA&expires=1759408592&net=NDguMjE0LjU0LjExNg%3D%3D
+#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family​​‌‌​​​​‌‌​‌​‌‌​​​‌‌​‌‌​​‌‌‌​‌​​ Guy" tvg-epgid="8008" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg",24/7 Family​​‌‌​​​​‌‌​‌​‌‌​​​‌‌​‌‌​​‌‌‌​‌​​ Guy
+https://gg.poocloud.in/familyguy/index.m3u8?md5=pRNHjInwWgK4T_SnaurLnA&expires=1759408592&net=NDguMjE0LjU0LjExNg%3D%3D
 #EXTINF:-1 tvg-id="ppv-5112" tvg-name="24/7 South Park" tvg-epgid="5112" tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg",24/7 South Park
-https://gg.poocloud.in/southpark/index.m3u8?md5=oe-mBxcN_EI-2ufbpJDTDQ&expires=1759405750&net=NTcuMTUxLjEzNy4xODM%3D
+https://gg.poocloud.in/southpark/index.m3u8?md5=pRNHjInwWgK4T_SnaurLnA&expires=1759408592&net=NDguMjE0LjU0LjExNg%3D%3D
