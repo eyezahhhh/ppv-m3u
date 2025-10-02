@@ -1,12 +1,16 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ppv-12063" tvg-name="San Francisco 49ers vs. Los Angeles Rams (3 October 2025 at 00:15)" tvg-epgid="12063" tvg-logo="https://ppvs.su/assets/thumb/fa90f913e4dd9b5a113b6913cdd24a88-thumbnail.jpg",San Francisco 49ers vs. Los Angeles Rams (3 October 2025 at 00:15)
 
-#EXTINF:-1 tvg-id="ppv-11836" tvg-name="76ers at Knicks (NBA Abu Dhabi Game) (2 October 2025 at 16:00)" tvg-epgid="11836" tvg-logo="https://ppvs.su/assets/thumb/efbf187d1ed03db53b511bd561eeffeb-thumbnail.jpg",76ers at Knicks (NBA Abu Dhabi Game) (2 October 2025 at 16:00)
-
 #EXTINF:-1 tvg-id="ppv-12062" tvg-name="UFC 320: Ankalaev vs. Pereira 2 (4 October 2025 at 22:00)" tvg-epgid="12062" tvg-logo="https://ppvs.su/assets/thumb/e45a8ecebbd3a51eda5c68c6695561b0-thumbnail.jpg",UFC 320: Ankalaev vs. Pereira 2 (4 October 2025 at 22:00)
-https://gg.poocloud.in/ufc/index.m3u8?md5=M7Dt1FTqwZQhbLKgW6jVDg&expires=1759646700&net=NDguMjE0LjU0LjU1
+https://gg.poocloud.in/ufc/index.m3u8?md5=M7Dt1FTqwZQhbLKgW6jVDg&expires=1759646700&net=NjQuMjM2LjE0NS44Nw%3D%3D
 #EXTINF:-1 tvg-id="ppv-12061" tvg-name="PFL Champions Series: Dubai (3 October 2025 at 15:30)" tvg-epgid="12061" tvg-logo="https://ppvs.su/assets/thumb/3318d214b8e93968170bdf6166113a1d-thumbnail.jpg",PFL Champions Series: Dubai (3 October 2025 at 15:30)
-https://gg.poocloud.in/pfl/index.m3u8?md5=lw496CyZwPhNaBjJqQhSsQ&expires=1759529700&net=NDguMjE0LjU0LjU1
+https://gg.poocloud.in/pfl/index.m3u8?md5=lw496CyZwPhNaBjJqQhSsQ&expires=1759529700&net=NjQuMjM2LjE0NS44Nw%3D%3D
+#EXTINF:-1 tvg-id="ppv-11971" tvg-name="AJ Auxerre vs. RC Lens (4 October 2025 at 19:05)" tvg-epgid="11971" tvg-logo="https://ppvs.su/assets/thumb/8c4402c770762b8756930c45f9a72b89-thumbnail.jpg",AJ Auxerre vs. RC Lens (4 October 2025 at 19:05)
+
+#EXTINF:-1 tvg-id="ppv-12055" tvg-name="Real Madrid vs. Villarreal CF (4 October 2025 at 19:00)" tvg-epgid="12055" tvg-logo="https://ppvs.su/assets/thumb/2e1591a3775ac05207428852dde10048-thumbnail.jpg",Real Madrid vs. Villarreal CF (4 October 2025 at 19:00)
+
+#EXTINF:-1 tvg-id="ppv-11995" tvg-name="Atalanta vs. Como (4 October 2025 at 18:45)" tvg-epgid="11995" tvg-logo="https://ppvs.su/assets/thumb/a0eae4a50715695714c6e572a01d22e8-thumbnail.jpg",Atalanta vs. Como (4 October 2025 at 18:45)
+
 #EXTINF:-1 tvg-id="ppv-11972" tvg-name="Brest vs. FC Nantes (4 October 2025 at 17:00)" tvg-epgid="11972" tvg-logo="https://ppvs.su/assets/thumb/bc660c0c1d4187c1c90a07ca634d6537-thumbnail.jpg",Brest vs. FC Nantes (4 October 2025 at 17:00)
 
 #EXTINF:-1 tvg-id="ppv-11965" tvg-name="Chelsea vs. Liverpool (4 October 2025 at 16:30)" tvg-epgid="11965" tvg-logo="https://ppvs.su/assets/thumb/e19e06cff480cc222ca20fbc16b972e4-thumbnail.jpg",Chelsea vs. Liverpool (4 October 2025 at 16:30)
@@ -130,8 +134,8 @@ https://gg.poocloud.in/pfl/index.m3u8?md5=lw496CyZwPhNaBjJqQhSsQ&expires=1759529
 #EXTINF:-1 tvg-id="ppv-11911" tvg-name="TNA: Impact (3 October 2025 at 00:00)" tvg-epgid="11911" tvg-logo="https://ppvs.su/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg",TNA: Impact (3 October 2025 at 00:00)
 
 #EXTINF:-1 tvg-id="ppv-5191" tvg-name="24/7 The Simpsons" tvg-epgid="5191" tvg-logo="https://thumbs.poocloud.in/thesimpsons/preview.jpg",24/7 The Simpsons
-https://gg.poocloud.in/thesimpsons/index.m3u8?md5=UpEIN_oMu_wllHftIDjyWQ&expires=1759474482&net=NDguMjE0LjU0LjU1
-#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family​​‌‌​​​​‌‌​‌​‌‌​​​‌‌​‌‌​​​‌‌​‌‌‌ Guy" tvg-epgid="8008" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg",24/7 Family​​‌‌​​​​‌‌​‌​‌‌​​​‌‌​‌‌​​​‌‌​‌‌‌ Guy
-https://gg.poocloud.in/familyguy/index.m3u8?md5=UpEIN_oMu_wllHftIDjyWQ&expires=1759474482&net=NDguMjE0LjU0LjU1
+https://gg.poocloud.in/thesimpsons/index.m3u8?md5=aiDipouKbQ0Sz9aJ-d0Mnw&expires=1759476026&net=NjQuMjM2LjE0NS44Nw%3D%3D
+#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family​‌​​​​​​‌‌‌​‌‌​​‌​​‌​​​‌​‌​‌​‌‌‌ Guy" tvg-epgid="8008" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg",24/7 Family​‌​​​​​​‌‌‌​‌‌​​‌​​‌​​​‌​‌​‌​‌‌‌ Guy
+https://gg.poocloud.in/familyguy/index.m3u8?md5=3YwsfwJDIdPhhMyYZVVNmw&expires=1759476027&net=NjQuMjM2LjE0NS44Nw%3D%3D
 #EXTINF:-1 tvg-id="ppv-5112" tvg-name="24/7 South Park" tvg-epgid="5112" tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg",24/7 South Park
-https://gg.poocloud.in/southpark/index.m3u8?md5=BBXV33PnLdmudlgbZc1tdA&expires=1759474483&net=NDguMjE0LjU0LjU1
+https://gg.poocloud.in/southpark/index.m3u8?md5=-3ePN9nvdVMNxSCKgFy5bQ&expires=1759476028&net=NjQuMjM2LjE0NS44Nw%3D%3D

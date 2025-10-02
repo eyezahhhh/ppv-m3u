@@ -21,28 +21,6 @@ channel="ppv-12063"
 <icon src="https://ppvs.su/assets/thumb/fa90f913e4dd9b5a113b6913cdd24a88-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-11836">
-<display-name>76ers at Knicks (NBA Abu Dhabi Game)</display-name>
-</channel>
-<programme
-start="20251002160000 +0000"
-stop="20251002184500 +0000"
-channel="ppv-11836"
->
-<title lang="en">76ers at Knicks (NBA Abu Dhabi Game)</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://ppvs.su/assets/thumb/efbf187d1ed03db53b511bd561eeffeb-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-12062">
 <display-name>UFC 320: Ankalaev vs. Pereira 2</display-name>
 </channel>
@@ -85,6 +63,72 @@ channel="ppv-12061"
 </audio>
 <category>Combat Sports</category>
 <icon src="https://ppvs.su/assets/thumb/3318d214b8e93968170bdf6166113a1d-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-11971">
+<display-name>AJ Auxerre vs. RC Lens</display-name>
+</channel>
+<programme
+start="20251004190500 +0000"
+stop="20251004220500 +0000"
+channel="ppv-11971"
+>
+<title lang="en">AJ Auxerre vs. RC Lens</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/8c4402c770762b8756930c45f9a72b89-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12055">
+<display-name>Real Madrid vs. Villarreal CF</display-name>
+</channel>
+<programme
+start="20251004190000 +0000"
+stop="20251004220000 +0000"
+channel="ppv-12055"
+>
+<title lang="en">Real Madrid vs. Villarreal CF</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/2e1591a3775ac05207428852dde10048-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-11995">
+<display-name>Atalanta vs. Como</display-name>
+</channel>
+<programme
+start="20251004184500 +0000"
+stop="20251004214500 +0000"
+channel="ppv-11995"
+>
+<title lang="en">Atalanta vs. Como</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/a0eae4a50715695714c6e572a01d22e8-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-11972">
