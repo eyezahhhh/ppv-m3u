@@ -87,6 +87,94 @@ channel="ppv-12061"
 <icon src="https://ppvs.su/assets/thumb/3318d214b8e93968170bdf6166113a1d-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-12002">
+<display-name>Leverkusen vs. Union Berlin</display-name>
+</channel>
+<programme
+start="20251004133000 +0000"
+stop="20251004163000 +0000"
+channel="ppv-12002"
+>
+<title lang="en">Leverkusen vs. Union Berlin</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/4d8bd2767961f5dc01b52df37e113d99-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12003">
+<display-name>Dortmund vs. RB Leipzig</display-name>
+</channel>
+<programme
+start="20251004133000 +0000"
+stop="20251004163000 +0000"
+channel="ppv-12003"
+>
+<title lang="en">Dortmund vs. RB Leipzig</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/638f31943c62a0494fe96868d4798392-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12004">
+<display-name>Augsburg vs. Wolfsburg</display-name>
+</channel>
+<programme
+start="20251004133000 +0000"
+stop="20251004163000 +0000"
+channel="ppv-12004"
+>
+<title lang="en">Augsburg vs. Wolfsburg</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/eb2b18edefc61899fff0893f7322d9e4-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12005">
+<display-name>Bremen vs. St. Pauli</display-name>
+</channel>
+<programme
+start="20251004133000 +0000"
+stop="20251004163000 +0000"
+channel="ppv-12005"
+>
+<title lang="en">Bremen vs. St. Pauli</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/7a05a626366606f2c113a8528f3af1ba-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-11992">
 <display-name>Lazio vs. Torino</display-name>
 </channel>
