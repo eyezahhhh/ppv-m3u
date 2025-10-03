@@ -43,6 +43,28 @@ channel="ppv-12099"
 <icon src="https://ppvs.su/assets/thumb/d26d067feb29c2df0111833a15fe9be6-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-12109">
+<display-name>Mercury at Aces (Game 1)</display-name>
+</channel>
+<programme
+start="20251004000000 +0000"
+stop="20251004024500 +0000"
+channel="ppv-12109"
+>
+<title lang="en">Mercury at Aces (Game 1)</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://ppvs.su/assets/thumb/8cd1835fdfb1a2f98855867f38aaa11a-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-12062">
 <display-name>UFC 320: Ankalaev vs. Pereira 2</display-name>
 </channel>
