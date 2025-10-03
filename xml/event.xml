@@ -109,6 +109,116 @@ channel="ppv-12061"
 <icon src="https://ppvs.su/assets/thumb/3318d214b8e93968170bdf6166113a1d-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-11964">
+<display-name>Brentford vs. Manchester City</display-name>
+</channel>
+<programme
+start="20251005153000 +0000"
+stop="20251005183000 +0000"
+channel="ppv-11964"
+>
+<title lang="en">Brentford vs. Manchester City</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/77ac4a1b6eea544138e7f8a500d36d93-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12008">
+<display-name>Hamburg vs. Mainz</display-name>
+</channel>
+<programme
+start="20251005153000 +0000"
+stop="20251005183000 +0000"
+channel="ppv-12008"
+>
+<title lang="en">Hamburg vs. Mainz</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/d0763db723ba183aee5ea936bd82be7e-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-11974">
+<display-name>Havre AC vs. Rennes</display-name>
+</channel>
+<programme
+start="20251005151500 +0000"
+stop="20251005181500 +0000"
+channel="ppv-11974"
+>
+<title lang="en">Havre AC vs. Rennes</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/534b37fa5170fc425d6cd1fdf1372247-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-11977">
+<display-name>AS Monaco vs. OGC Nice</display-name>
+</channel>
+<programme
+start="20251005151500 +0000"
+stop="20251005181500 +0000"
+channel="ppv-11977"
+>
+<title lang="en">AS Monaco vs. OGC Nice</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/777132321605cbb84936933c599558c4-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-11978">
+<display-name>Strasbourg vs. Angers SCO</display-name>
+</channel>
+<programme
+start="20251005151500 +0000"
+stop="20251005181500 +0000"
+channel="ppv-11978"
+>
+<title lang="en">Strasbourg vs. Angers SCO</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/5b8e40ee22de58c37a037c1032c96709-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-12057">
 <display-name>Sevilla FC vs. FC Barcelona</display-name>
 </channel>
