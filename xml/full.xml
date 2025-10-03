@@ -43,28 +43,6 @@ channel="ppv-12079"
 <icon src="https://ppvs.su/assets/thumb/3acb4dea98820f352717e6c965d12c4e-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-12078">
-<display-name>San Diego Padres vs. Chicago Cubs</display-name>
-</channel>
-<programme
-start="20251002210000 +0000"
-stop="20251003000000 +0000"
-channel="ppv-12078"
->
-<title lang="en">San Diego Padres vs. Chicago Cubs</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/17e87d53a1be1cda03bd6041e1e5c6ab-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-12062">
 <display-name>UFC 320: Ankalaev vs. Pereira 2</display-name>
 </channel>
@@ -813,6 +791,28 @@ channel="ppv-12095"
 <icon src="https://ppvs.su/assets/thumb/baa5d43ee7dff0fb24d94776d2fef9d7-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-11913">
+<display-name>AEW: Saturday Night Collision</display-name>
+</channel>
+<programme
+start="20251005000000 +0000"
+stop="20251005030000 +0000"
+channel="ppv-11913"
+>
+<title lang="en">AEW: Saturday Night Collision</title>
+<sub-title>Wrestling</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Wrestling</category>
+<icon src="https://ppvs.su/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-11912">
 <display-name>WWE: Friday Night Smackdown</display-name>
 </channel>
@@ -880,14 +880,14 @@ channel="ppv-5191"
 </programme>
 
 <channel id="ppv-8008">
-<display-name>24/7 Family​​​‌​‌​​‌​‌​‌​‌‌​​‌‌​​‌‌‌‌​‌​​​‌ Guy</display-name>
+<display-name>24/7 Family‌​​​​‌‌‌​‌‌‌​‌‌‌​​‌​​‌‌​​​‌​​‌‌​ Guy</display-name>
 </channel>
 <programme
 start="20250118080000 +0000"
 stop="20250118090000 +0000"
 channel="ppv-8008"
 >
-<title lang="en">24/7 Family​​​‌​‌​​‌​‌​‌​‌‌​​‌‌​​‌‌‌‌​‌​​​‌ Guy</title>
+<title lang="en">24/7 Family‌​​​​‌‌‌​‌‌‌​‌‌‌​​‌​​‌‌​​​‌​​‌‌​ Guy</title>
 <sub-title>24/7 Streams</sub-title>
 <video>
 <present>yes</present>
