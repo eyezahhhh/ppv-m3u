@@ -26,7 +26,7 @@
 #EXTINF:-1 tvg-id="ppv-12109" tvg-name="Mercury at Aces (Game 1) (4 October 2025 at 00:00)" tvg-epgid="12109" tvg-logo="https://ppvs.su/assets/thumb/8cd1835fdfb1a2f98855867f38aaa11a-thumbnail.jpg",Mercury at Aces (Game 1) (4 October 2025 at 00:00)
 
 #EXTINF:-1 tvg-id="ppv-12062" tvg-name="UFC 320: Ankalaev vs. Pereira 2 (4 October 2025 at 22:00)" tvg-epgid="12062" tvg-logo="https://ppvs.su/assets/thumb/e45a8ecebbd3a51eda5c68c6695561b0-thumbnail.jpg",UFC 320: Ankalaev vs. Pereira 2 (4 October 2025 at 22:00)
-https://gg.poocloud.in/ufc/index.m3u8?md5=M7Dt1FTqwZQhbLKgW6jVDg&expires=1759646700&net=MTcyLjE3NC4xNjYuMTkz
+https://gg.poocloud.in/ufc/index.m3u8?md5=M7Dt1FTqwZQhbLKgW6jVDg&expires=1759646700&net=MTcyLjE3MS4yNTQuMTQ5
 #EXTINF:-1 tvg-id="ppv-12060" tvg-name="Celta vs. Atlético de Madrid (5 October 2025 at 19:00)" tvg-epgid="12060" tvg-logo="https://ppvs.su/assets/thumb/b640c0314393bfffa66752d3672e0dd5-thumbnail.jpg",Celta vs. Atlético de Madrid (5 October 2025 at 19:00)
 
 #EXTINF:-1 tvg-id="ppv-11975" tvg-name="LOSC vs. PSG (5 October 2025 at 18:45)" tvg-epgid="11975" tvg-logo="https://ppvs.su/assets/thumb/6200da1fa4f60cbad3ce3b75f1ae9f66-thumbnail.jpg",LOSC vs. PSG (5 October 2025 at 18:45)
@@ -113,26 +113,18 @@ https://gg.poocloud.in/ufc/index.m3u8?md5=M7Dt1FTqwZQhbLKgW6jVDg&expires=1759646
 
 #EXTINF:-1 tvg-id="ppv-11967" tvg-name="Leeds United vs. Tottenham Hotspur (4 October 2025 at 11:30)" tvg-epgid="11967" tvg-logo="https://ppvs.su/assets/thumb/e9bdd5d7cd1e8c0dc6cdc41de8c2ea8d-thumbnail.jpg",Leeds United vs. Tottenham Hotspur (4 October 2025 at 11:30)
 
-#EXTINF:-1 tvg-id="ppv-11961" tvg-name="Bournemouth vs. Fulham (3 October 2025 at 19:00)" tvg-epgid="11961" tvg-logo="https://ppvs.su/assets/thumb/06ae378b4b8a7b216582af8e4a48ea84-thumbnail.jpg",Bournemouth vs. Fulham (3 October 2025 at 19:00)
-
-#EXTINF:-1 tvg-id="ppv-12051" tvg-name="CA Osasuna vs. Getafe CF (3 October 2025 at 19:00)" tvg-epgid="12051" tvg-logo="https://ppvs.su/assets/thumb/e7f275be6e4eaf72febf1fab162b414f-thumbnail.jpg",CA Osasuna vs. Getafe CF (3 October 2025 at 19:00)
-
-#EXTINF:-1 tvg-id="ppv-11979" tvg-name="Paris FC vs. FC Lorient (3 October 2025 at 18:45)" tvg-epgid="11979" tvg-logo="https://ppvs.su/assets/thumb/468e985d33967604f094e4a2950c63c7-thumbnail.jpg",Paris FC vs. FC Lorient (3 October 2025 at 18:45)
-
-#EXTINF:-1 tvg-id="ppv-11991" tvg-name="Hellas Verona vs. Sassuolo (3 October 2025 at 18:45)" tvg-epgid="11991" tvg-logo="https://ppvs.su/assets/thumb/c5af3063e3d6da5791b15045057ca2e4-thumbnail.jpg",Hellas Verona vs. Sassuolo (3 October 2025 at 18:45)
-
 #EXTINF:-1 tvg-id="ppv-12108" tvg-name="Monster Energy FIM Motocross of Nations (Day 3) (5 October 2025 at 13:15)" tvg-epgid="12108" tvg-logo="https://ppvs.su/assets/thumb/45f3cdcbdda51990b7f450f1175f8f38-thumbnail.jpg",Monster Energy FIM Motocross of Nations (Day 3) (5 October 2025 at 13:15)
-https://gg.poocloud.in/mxgp/index.m3u8?md5=II9fCi472LLymoFQq5BhGw&expires=1759705200&net=MTcyLjE3NC4xNjYuMTkz
+https://gg.poocloud.in/mxgp/index.m3u8?md5=II9fCi472LLymoFQq5BhGw&expires=1759705200&net=MTcyLjE3MS4yNTQuMTQ5
 #EXTINF:-1 tvg-id="ppv-12105" tvg-name="F1: Singapore Grand Prix (Race) (5 October 2025 at 12:00)" tvg-epgid="12105" tvg-logo="https://ppvs.su/assets/thumb/aa66ff992e1d38156e91d35790644fe6-thumbnail.jpg",F1: Singapore Grand Prix (Race) (5 October 2025 at 12:00)
-https://gg.poocloud.in/skyf1/index.m3u8?md5=J3yfBoIrLT6_LM4etgNpSg&expires=1759679100&net=MTcyLjE3NC4xNjYuMTkz
+https://gg.poocloud.in/skyf1/index.m3u8?md5=J3yfBoIrLT6_LM4etgNpSg&expires=1759679100&net=MTcyLjE3MS4yNTQuMTQ5
 #EXTINF:-1 tvg-id="ppv-12107" tvg-name="Monster Energy FIM Motocross of Nations (Day 2) (4 October 2025 at 17:05)" tvg-epgid="12107" tvg-logo="https://ppvs.su/assets/thumb/45f3cdcbdda51990b7f450f1175f8f38-thumbnail.jpg",Monster Energy FIM Motocross of Nations (Day 2) (4 October 2025 at 17:05)
-https://gg.poocloud.in/mxgp/index.m3u8?md5=uw86mIms6FFPU5l-fJ45Bw&expires=1759621800&net=MTcyLjE3NC4xNjYuMTkz
+https://gg.poocloud.in/mxgp/index.m3u8?md5=uw86mIms6FFPU5l-fJ45Bw&expires=1759621800&net=MTcyLjE3MS4yNTQuMTQ5
 #EXTINF:-1 tvg-id="ppv-12104" tvg-name="F1: Singapore Grand Prix (Qualifying) (4 October 2025 at 13:00)" tvg-epgid="12104" tvg-logo="https://ppvs.su/assets/thumb/aa66ff992e1d38156e91d35790644fe6-thumbnail.jpg",F1: Singapore Grand Prix (Qualifying) (4 October 2025 at 13:00)
-https://gg.poocloud.in/skyf1/index.m3u8?md5=1Nbia0kLbf3dgsLWUoi7Pw&expires=1759592700&net=MTcyLjE3NC4xNjYuMTkz
+https://gg.poocloud.in/skyf1/index.m3u8?md5=1Nbia0kLbf3dgsLWUoi7Pw&expires=1759592700&net=MTcyLjE3MS4yNTQuMTQ5
 #EXTINF:-1 tvg-id="ppv-12103" tvg-name="F1: Singapore Grand Prix (FP3) (4 October 2025 at 09:30)" tvg-epgid="12103" tvg-logo="https://ppvs.su/assets/thumb/aa66ff992e1d38156e91d35790644fe6-thumbnail.jpg",F1: Singapore Grand Prix (FP3) (4 October 2025 at 09:30)
-https://gg.poocloud.in/skyf1/index.m3u8?md5=FBGmLaq47e1vV60fEItgfg&expires=1759578300&net=MTcyLjE3NC4xNjYuMTkz
+https://gg.poocloud.in/skyf1/index.m3u8?md5=FBGmLaq47e1vV60fEItgfg&expires=1759578300&net=MTcyLjE3MS4yNTQuMTQ5
 #EXTINF:-1 tvg-id="ppv-12106" tvg-name="Monster Energy FIM Motocross of Nations (Day 1) (3 October 2025 at 14:30)" tvg-epgid="12106" tvg-logo="https://ppvs.su/assets/thumb/45f3cdcbdda51990b7f450f1175f8f38-thumbnail.jpg",Monster Energy FIM Motocross of Nations (Day 1) (3 October 2025 at 14:30)
-https://gg.poocloud.in/mxgp/index.m3u8?md5=O2J67gWAvZPJkkmKG3JmDw&expires=1759536900&net=MTcyLjE3NC4xNjYuMTkz
+https://gg.poocloud.in/mxgp/index.m3u8?md5=O2J67gWAvZPJkkmKG3JmDw&expires=1759536900&net=MTcyLjE3MS4yNTQuMTQ5
 #EXTINF:-1 tvg-id="ppv-11913" tvg-name="AEW: Saturday Night Collision (5 October 2025 at 00:00)" tvg-epgid="11913" tvg-logo="https://ppvs.su/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg",AEW: Saturday Night Collision (5 October 2025 at 00:00)
 
 #EXTINF:-1 tvg-id="ppv-11912" tvg-name="WWE: Friday Night Smackdown (4 October 2025 at 00:00)" tvg-epgid="11912" tvg-logo="https://ppvs.su/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg",WWE: Friday Night Smackdown (4 October 2025 at 00:00)
