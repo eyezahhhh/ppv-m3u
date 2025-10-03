@@ -1,4 +1,26 @@
 <tv>
+<channel id="ppv-12064">
+<display-name>Minnesota Vikings vs. Cleveland Browns</display-name>
+</channel>
+<programme
+start="20251005133000 +0000"
+stop="20251005163000 +0000"
+channel="ppv-12064"
+>
+<title lang="en">Minnesota Vikings vs. Cleveland Browns</title>
+<sub-title>American Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>American Football</category>
+<icon src="https://ppvs.su/assets/thumb/1a770730ba63f3f6573622790c842419-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-12099">
 <display-name>Suns at Lakers</display-name>
 </channel>
@@ -63,6 +85,28 @@ channel="ppv-12061"
 </audio>
 <category>Combat Sports</category>
 <icon src="https://ppvs.su/assets/thumb/3318d214b8e93968170bdf6166113a1d-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12007">
+<display-name>Stuttgart vs. Heidenheim</display-name>
+</channel>
+<programme
+start="20251005133000 +0000"
+stop="20251005163000 +0000"
+channel="ppv-12007"
+>
+<title lang="en">Stuttgart vs. Heidenheim</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/e239c1d564da1c90b550d96a84b32a86-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-11963">
@@ -811,6 +855,28 @@ channel="ppv-12001"
 </audio>
 <category>Football</category>
 <icon src="https://ppvs.su/assets/thumb/0f0643aa8b8bc702dda00a72090bc0f6-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12108">
+<display-name>Monster Energy FIM Motocross of Nations (Day 3)</display-name>
+</channel>
+<programme
+start="20251005131500 +0000"
+stop="20251005221500 +0000"
+channel="ppv-12108"
+>
+<title lang="en">Monster Energy FIM Motocross of Nations (Day 3)</title>
+<sub-title>Motorsports</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Motorsports</category>
+<icon src="https://ppvs.su/assets/thumb/45f3cdcbdda51990b7f450f1175f8f38-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-12105">
