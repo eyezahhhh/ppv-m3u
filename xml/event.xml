@@ -1,4 +1,48 @@
 <tv>
+<channel id="ppv-12073">
+<display-name>Detroit Lions vs. Cincinnati Bengals</display-name>
+</channel>
+<programme
+start="20251005202500 +0000"
+stop="20251005232500 +0000"
+channel="ppv-12073"
+>
+<title lang="en">Detroit Lions vs. Cincinnati Bengals</title>
+<sub-title>American Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>American Football</category>
+<icon src="https://ppvs.su/assets/thumb/2e6bdcaee7b68e7b4495d03467e12bef-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12074">
+<display-name>Washington Commanders vs. Los Angeles Chargers</display-name>
+</channel>
+<programme
+start="20251005202500 +0000"
+stop="20251005232500 +0000"
+channel="ppv-12074"
+>
+<title lang="en">Washington Commanders vs. Los Angeles Chargers</title>
+<sub-title>American Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>American Football</category>
+<icon src="https://ppvs.su/assets/thumb/5602a2509127081202a03f44e1c84b5c-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-12071">
 <display-name>Tennessee Titans vs. Arizona Cardinals</display-name>
 </channel>
