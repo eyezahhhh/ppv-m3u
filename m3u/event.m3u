@@ -1,12 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ppv-12099" tvg-name="Suns at Lakers (4 October 2025 at 02:00)" tvg-epgid="12099" tvg-logo="https://ppvs.su/assets/thumb/d26d067feb29c2df0111833a15fe9be6-thumbnail.jpg",Suns at Lakers (4 October 2025 at 02:00)
 
-#EXTINF:-1 tvg-id="ppv-12100" tvg-name="United at Pelicans (NBA Melbourne Game) (3 October 2025 at 09:30)" tvg-epgid="12100" tvg-logo="https://ppvs.su/assets/thumb/5abe76bcfe22b95e0917cda65eb3d21f-thumbnail.jpg",United at Pelicans (NBA Melbourne Game) (3 October 2025 at 09:30)
-
 #EXTINF:-1 tvg-id="ppv-12062" tvg-name="UFC 320: Ankalaev vs. Pereira 2 (4 October 2025 at 22:00)" tvg-epgid="12062" tvg-logo="https://ppvs.su/assets/thumb/e45a8ecebbd3a51eda5c68c6695561b0-thumbnail.jpg",UFC 320: Ankalaev vs. Pereira 2 (4 October 2025 at 22:00)
-https://gg.poocloud.in/ufc/index.m3u8?md5=M7Dt1FTqwZQhbLKgW6jVDg&expires=1759646700&net=MjAuMTYxLjQ3LjExNA%3D%3D
+https://gg.poocloud.in/ufc/index.m3u8?md5=M7Dt1FTqwZQhbLKgW6jVDg&expires=1759646700&net=NzQuMjM1LjEyMy44
 #EXTINF:-1 tvg-id="ppv-12061" tvg-name="PFL Champions Series: Dubai (3 October 2025 at 15:30)" tvg-epgid="12061" tvg-logo="https://ppvs.su/assets/thumb/3318d214b8e93968170bdf6166113a1d-thumbnail.jpg",PFL Champions Series: Dubai (3 October 2025 at 15:30)
-https://gg.poocloud.in/pfl/index.m3u8?md5=lw496CyZwPhNaBjJqQhSsQ&expires=1759529700&net=MjAuMTYxLjQ3LjExNA%3D%3D
+https://gg.poocloud.in/pfl/index.m3u8?md5=lw496CyZwPhNaBjJqQhSsQ&expires=1759529700&net=NzQuMjM1LjEyMy44
 #EXTINF:-1 tvg-id="ppv-12056" tvg-name="Deportivo Alavés vs. Elche CF (5 October 2025 at 12:00)" tvg-epgid="12056" tvg-logo="https://ppvs.su/assets/thumb/16a97f9865f177d02296a219adb8095a-thumbnail.jpg",Deportivo Alavés vs. Elche CF (5 October 2025 at 12:00)
 
 #EXTINF:-1 tvg-id="ppv-11996" tvg-name="Udinese vs. Cagliari (5 October 2025 at 10:30)" tvg-epgid="11996" tvg-logo="https://ppvs.su/assets/thumb/aac3c4a7cc5d752a9d106a6713a79818-thumbnail.jpg",Udinese vs. Cagliari (5 October 2025 at 10:30)
@@ -62,17 +60,17 @@ https://gg.poocloud.in/pfl/index.m3u8?md5=lw496CyZwPhNaBjJqQhSsQ&expires=1759529
 #EXTINF:-1 tvg-id="ppv-12001" tvg-name="Hoffenheim vs. Cologne (3 October 2025 at 18:30)" tvg-epgid="12001" tvg-logo="https://ppvs.su/assets/thumb/0f0643aa8b8bc702dda00a72090bc0f6-thumbnail.jpg",Hoffenheim vs. Cologne (3 October 2025 at 18:30)
 
 #EXTINF:-1 tvg-id="ppv-12105" tvg-name="F1: Singapore Grand Prix (Race) (5 October 2025 at 12:00)" tvg-epgid="12105" tvg-logo="https://ppvs.su/assets/thumb/aa66ff992e1d38156e91d35790644fe6-thumbnail.jpg",F1: Singapore Grand Prix (Race) (5 October 2025 at 12:00)
-https://gg.poocloud.in/skyf1/index.m3u8?md5=J3yfBoIrLT6_LM4etgNpSg&expires=1759679100&net=MjAuMTYxLjQ3LjExNA%3D%3D
+https://gg.poocloud.in/skyf1/index.m3u8?md5=J3yfBoIrLT6_LM4etgNpSg&expires=1759679100&net=NzQuMjM1LjEyMy44
 #EXTINF:-1 tvg-id="ppv-12107" tvg-name="Monster Energy FIM Motocross of Nations (Day 2) (4 October 2025 at 17:05)" tvg-epgid="12107" tvg-logo="https://ppvs.su/assets/thumb/45f3cdcbdda51990b7f450f1175f8f38-thumbnail.jpg",Monster Energy FIM Motocross of Nations (Day 2) (4 October 2025 at 17:05)
-https://gg.poocloud.in/mxgp/index.m3u8?md5=uw86mIms6FFPU5l-fJ45Bw&expires=1759621800&net=MjAuMTYxLjQ3LjExNA%3D%3D
+https://gg.poocloud.in/mxgp/index.m3u8?md5=uw86mIms6FFPU5l-fJ45Bw&expires=1759621800&net=NzQuMjM1LjEyMy44
 #EXTINF:-1 tvg-id="ppv-12104" tvg-name="F1: Singapore Grand Prix (Qualifying) (4 October 2025 at 13:00)" tvg-epgid="12104" tvg-logo="https://ppvs.su/assets/thumb/aa66ff992e1d38156e91d35790644fe6-thumbnail.jpg",F1: Singapore Grand Prix (Qualifying) (4 October 2025 at 13:00)
-https://gg.poocloud.in/skyf1/index.m3u8?md5=1Nbia0kLbf3dgsLWUoi7Pw&expires=1759592700&net=MjAuMTYxLjQ3LjExNA%3D%3D
+https://gg.poocloud.in/skyf1/index.m3u8?md5=1Nbia0kLbf3dgsLWUoi7Pw&expires=1759592700&net=NzQuMjM1LjEyMy44
 #EXTINF:-1 tvg-id="ppv-12103" tvg-name="F1: Singapore Grand Prix (FP3) (4 October 2025 at 09:30)" tvg-epgid="12103" tvg-logo="https://ppvs.su/assets/thumb/aa66ff992e1d38156e91d35790644fe6-thumbnail.jpg",F1: Singapore Grand Prix (FP3) (4 October 2025 at 09:30)
-https://gg.poocloud.in/skyf1/index.m3u8?md5=FBGmLaq47e1vV60fEItgfg&expires=1759578300&net=MjAuMTYxLjQ3LjExNA%3D%3D
+https://gg.poocloud.in/skyf1/index.m3u8?md5=FBGmLaq47e1vV60fEItgfg&expires=1759578300&net=NzQuMjM1LjEyMy44
 #EXTINF:-1 tvg-id="ppv-12106" tvg-name="Monster Energy FIM Motocross of Nations (Day 1) (3 October 2025 at 14:30)" tvg-epgid="12106" tvg-logo="https://ppvs.su/assets/thumb/45f3cdcbdda51990b7f450f1175f8f38-thumbnail.jpg",Monster Energy FIM Motocross of Nations (Day 1) (3 October 2025 at 14:30)
-https://gg.poocloud.in/mxgp/index.m3u8?md5=O2J67gWAvZPJkkmKG3JmDw&expires=1759536900&net=MjAuMTYxLjQ3LjExNA%3D%3D
+https://gg.poocloud.in/mxgp/index.m3u8?md5=O2J67gWAvZPJkkmKG3JmDw&expires=1759536900&net=NzQuMjM1LjEyMy44
 #EXTINF:-1 tvg-id="ppv-12102" tvg-name="F1: Singapore Grand Prix (FP2) (3 October 2025 at 13:00)" tvg-epgid="12102" tvg-logo="https://ppvs.su/assets/thumb/aa66ff992e1d38156e91d35790644fe6-thumbnail.jpg",F1: Singapore Grand Prix (FP2) (3 October 2025 at 13:00)
-https://gg.poocloud.in/skyf1/index.m3u8?md5=ziDHjI3q9rjGt9PgtTuXtw&expires=1759504500&net=MjAuMTYxLjQ3LjExNA%3D%3D
+https://gg.poocloud.in/skyf1/index.m3u8?md5=ziDHjI3q9rjGt9PgtTuXtw&expires=1759504500&net=NzQuMjM1LjEyMy44
 #EXTINF:-1 tvg-id="ppv-11913" tvg-name="AEW: Saturday Night Collision (5 October 2025 at 00:00)" tvg-epgid="11913" tvg-logo="https://ppvs.su/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg",AEW: Saturday Night Collision (5 October 2025 at 00:00)
 
 #EXTINF:-1 tvg-id="ppv-11912" tvg-name="WWE: Friday Night Smackdown (4 October 2025 at 00:00)" tvg-epgid="11912" tvg-logo="https://ppvs.su/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg",WWE: Friday Night Smackdown (4 October 2025 at 00:00)
