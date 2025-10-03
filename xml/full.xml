@@ -681,116 +681,6 @@ channel="ppv-12097"
 <icon src="https://ppvs.su/assets/thumb/e4658700a0bcfdeaac9e1aa1ee0d6f3a-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-12090">
-<display-name>New York Islanders vs. Philadelphia Flyers</display-name>
-</channel>
-<programme
-start="20251002230000 +0000"
-stop="20251003020000 +0000"
-channel="ppv-12090"
->
-<title lang="en">New York Islanders vs. Philadelphia Flyers</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://ppvs.su/assets/thumb/8c1f6c32ee7c4269a41b388bb3d1cbf5-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12092">
-<display-name>Boston Bruins vs. Washington Capitals</display-name>
-</channel>
-<programme
-start="20251002230000 +0000"
-stop="20251003020000 +0000"
-channel="ppv-12092"
->
-<title lang="en">Boston Bruins vs. Washington Capitals</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://ppvs.su/assets/thumb/1ccccbf1bda06bdb051b95df9eac992a-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12093">
-<display-name>Detroit Red Wings vs. Toronto Maple Leafs</display-name>
-</channel>
-<programme
-start="20251002230000 +0000"
-stop="20251003020000 +0000"
-channel="ppv-12093"
->
-<title lang="en">Detroit Red Wings vs. Toronto Maple Leafs</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://ppvs.su/assets/thumb/4a807059d6fdbb941c969827ff82ae51-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12094">
-<display-name>Florida Panthers vs. Tampa Bay Lightning</display-name>
-</channel>
-<programme
-start="20251002230000 +0000"
-stop="20251003020000 +0000"
-channel="ppv-12094"
->
-<title lang="en">Florida Panthers vs. Tampa Bay Lightning</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://ppvs.su/assets/thumb/a6b01a2f457085166b9da096ce199722-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12095">
-<display-name>New Jersey Devils vs. New York Rangers</display-name>
-</channel>
-<programme
-start="20251002230000 +0000"
-stop="20251003020000 +0000"
-channel="ppv-12095"
->
-<title lang="en">New Jersey Devils vs. New York Rangers</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://ppvs.su/assets/thumb/baa5d43ee7dff0fb24d94776d2fef9d7-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-11913">
 <display-name>AEW: Saturday Night Collision</display-name>
 </channel>
@@ -880,14 +770,14 @@ channel="ppv-5191"
 </programme>
 
 <channel id="ppv-8008">
-<display-name>24/7 Family​​‌‌​‌​​‌​‌‌‌‌‌​‌​‌‌​‌‌​​‌‌‌​‌​​ Guy</display-name>
+<display-name>24/7 Family​​​‌​‌​​​‌‌​​​‌​​​​‌​​‌​​‌​​​‌‌​ Guy</display-name>
 </channel>
 <programme
 start="20250118080000 +0000"
 stop="20250118090000 +0000"
 channel="ppv-8008"
 >
-<title lang="en">24/7 Family​​‌‌​‌​​‌​‌‌‌‌‌​‌​‌‌​‌‌​​‌‌‌​‌​​ Guy</title>
+<title lang="en">24/7 Family​​​‌​‌​​​‌‌​​​‌​​​​‌​​‌​​‌​​​‌‌​ Guy</title>
 <sub-title>24/7 Streams</sub-title>
 <video>
 <present>yes</present>
