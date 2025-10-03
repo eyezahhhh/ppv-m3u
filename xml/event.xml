@@ -65,6 +65,160 @@ channel="ppv-12061"
 <icon src="https://ppvs.su/assets/thumb/3318d214b8e93968170bdf6166113a1d-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-11963">
+<display-name>Aston Villa vs. Burnley</display-name>
+</channel>
+<programme
+start="20251005130000 +0000"
+stop="20251005160000 +0000"
+channel="ppv-11963"
+>
+<title lang="en">Aston Villa vs. Burnley</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/7f1dc30bc8960ea21193cdd8acba5884-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-11966">
+<display-name>Everton vs. Crystal Palace</display-name>
+</channel>
+<programme
+start="20251005130000 +0000"
+stop="20251005160000 +0000"
+channel="ppv-11966"
+>
+<title lang="en">Everton vs. Crystal Palace</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/627db1c9f2e03faafe8182f2cd23242a-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-11969">
+<display-name>Newcastle United vs. Nottingham Forest</display-name>
+</channel>
+<programme
+start="20251005130000 +0000"
+stop="20251005160000 +0000"
+channel="ppv-11969"
+>
+<title lang="en">Newcastle United vs. Nottingham Forest</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/8d231783de0756ed536612c5ba43c01f-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-11970">
+<display-name>Wolverhampton Wanderers vs. Brighton and Hove Albion</display-name>
+</channel>
+<programme
+start="20251005130000 +0000"
+stop="20251005160000 +0000"
+channel="ppv-11970"
+>
+<title lang="en">Wolverhampton Wanderers vs. Brighton and Hove Albion</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/4014fcccceecbe8309ded235c2b8e863-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-11976">
+<display-name>OL vs. Toulouse FC</display-name>
+</channel>
+<programme
+start="20251005130000 +0000"
+stop="20251005160000 +0000"
+channel="ppv-11976"
+>
+<title lang="en">OL vs. Toulouse FC</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/1c5f0c85daf3c8e40216628d8f572d3c-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-11997">
+<display-name>Bologna vs. Pisa</display-name>
+</channel>
+<programme
+start="20251005130000 +0000"
+stop="20251005160000 +0000"
+channel="ppv-11997"
+>
+<title lang="en">Bologna vs. Pisa</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/dbedb7bf48ca872f7a0784d60167f42e-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-11998">
+<display-name>Fiorentina vs. Roma</display-name>
+</channel>
+<programme
+start="20251005130000 +0000"
+stop="20251005160000 +0000"
+channel="ppv-11998"
+>
+<title lang="en">Fiorentina vs. Roma</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/386d493074469c6fb6be4a0a4eadd8fa-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-12056">
 <display-name>Deportivo Alavés vs. Elche CF</display-name>
 </channel>

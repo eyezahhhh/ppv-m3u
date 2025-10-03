@@ -2,9 +2,23 @@
 #EXTINF:-1 tvg-id="ppv-12099" tvg-name="Suns at Lakers (4 October 2025 at 02:00)" tvg-epgid="12099" tvg-logo="https://ppvs.su/assets/thumb/d26d067feb29c2df0111833a15fe9be6-thumbnail.jpg",Suns at Lakers (4 October 2025 at 02:00)
 
 #EXTINF:-1 tvg-id="ppv-12062" tvg-name="UFC 320: Ankalaev vs. Pereira 2 (4 October 2025 at 22:00)" tvg-epgid="12062" tvg-logo="https://ppvs.su/assets/thumb/e45a8ecebbd3a51eda5c68c6695561b0-thumbnail.jpg",UFC 320: Ankalaev vs. Pereira 2 (4 October 2025 at 22:00)
-https://gg.poocloud.in/ufc/index.m3u8?md5=M7Dt1FTqwZQhbLKgW6jVDg&expires=1759646700&net=NzQuMjM1LjEyMy44
+https://gg.poocloud.in/ufc/index.m3u8?md5=M7Dt1FTqwZQhbLKgW6jVDg&expires=1759646700&net=MTcyLjIxNC40NC41Mg%3D%3D
 #EXTINF:-1 tvg-id="ppv-12061" tvg-name="PFL Champions Series: Dubai (3 October 2025 at 15:30)" tvg-epgid="12061" tvg-logo="https://ppvs.su/assets/thumb/3318d214b8e93968170bdf6166113a1d-thumbnail.jpg",PFL Champions Series: Dubai (3 October 2025 at 15:30)
-https://gg.poocloud.in/pfl/index.m3u8?md5=lw496CyZwPhNaBjJqQhSsQ&expires=1759529700&net=NzQuMjM1LjEyMy44
+https://gg.poocloud.in/pfl/index.m3u8?md5=lw496CyZwPhNaBjJqQhSsQ&expires=1759529700&net=MTcyLjIxNC40NC41Mg%3D%3D
+#EXTINF:-1 tvg-id="ppv-11963" tvg-name="Aston Villa vs. Burnley (5 October 2025 at 13:00)" tvg-epgid="11963" tvg-logo="https://ppvs.su/assets/thumb/7f1dc30bc8960ea21193cdd8acba5884-thumbnail.jpg",Aston Villa vs. Burnley (5 October 2025 at 13:00)
+
+#EXTINF:-1 tvg-id="ppv-11966" tvg-name="Everton vs. Crystal Palace (5 October 2025 at 13:00)" tvg-epgid="11966" tvg-logo="https://ppvs.su/assets/thumb/627db1c9f2e03faafe8182f2cd23242a-thumbnail.jpg",Everton vs. Crystal Palace (5 October 2025 at 13:00)
+
+#EXTINF:-1 tvg-id="ppv-11969" tvg-name="Newcastle United vs. Nottingham Forest (5 October 2025 at 13:00)" tvg-epgid="11969" tvg-logo="https://ppvs.su/assets/thumb/8d231783de0756ed536612c5ba43c01f-thumbnail.jpg",Newcastle United vs. Nottingham Forest (5 October 2025 at 13:00)
+
+#EXTINF:-1 tvg-id="ppv-11970" tvg-name="Wolverhampton Wanderers vs. Brighton and Hove Albion (5 October 2025 at 13:00)" tvg-epgid="11970" tvg-logo="https://ppvs.su/assets/thumb/4014fcccceecbe8309ded235c2b8e863-thumbnail.jpg",Wolverhampton Wanderers vs. Brighton and Hove Albion (5 October 2025 at 13:00)
+
+#EXTINF:-1 tvg-id="ppv-11976" tvg-name="OL vs. Toulouse FC (5 October 2025 at 13:00)" tvg-epgid="11976" tvg-logo="https://ppvs.su/assets/thumb/1c5f0c85daf3c8e40216628d8f572d3c-thumbnail.jpg",OL vs. Toulouse FC (5 October 2025 at 13:00)
+
+#EXTINF:-1 tvg-id="ppv-11997" tvg-name="Bologna vs. Pisa (5 October 2025 at 13:00)" tvg-epgid="11997" tvg-logo="https://ppvs.su/assets/thumb/dbedb7bf48ca872f7a0784d60167f42e-thumbnail.jpg",Bologna vs. Pisa (5 October 2025 at 13:00)
+
+#EXTINF:-1 tvg-id="ppv-11998" tvg-name="Fiorentina vs. Roma (5 October 2025 at 13:00)" tvg-epgid="11998" tvg-logo="https://ppvs.su/assets/thumb/386d493074469c6fb6be4a0a4eadd8fa-thumbnail.jpg",Fiorentina vs. Roma (5 October 2025 at 13:00)
+
 #EXTINF:-1 tvg-id="ppv-12056" tvg-name="Deportivo Alavés vs. Elche CF (5 October 2025 at 12:00)" tvg-epgid="12056" tvg-logo="https://ppvs.su/assets/thumb/16a97f9865f177d02296a219adb8095a-thumbnail.jpg",Deportivo Alavés vs. Elche CF (5 October 2025 at 12:00)
 
 #EXTINF:-1 tvg-id="ppv-11996" tvg-name="Udinese vs. Cagliari (5 October 2025 at 10:30)" tvg-epgid="11996" tvg-logo="https://ppvs.su/assets/thumb/aac3c4a7cc5d752a9d106a6713a79818-thumbnail.jpg",Udinese vs. Cagliari (5 October 2025 at 10:30)
@@ -60,24 +74,24 @@ https://gg.poocloud.in/pfl/index.m3u8?md5=lw496CyZwPhNaBjJqQhSsQ&expires=1759529
 #EXTINF:-1 tvg-id="ppv-12001" tvg-name="Hoffenheim vs. Cologne (3 October 2025 at 18:30)" tvg-epgid="12001" tvg-logo="https://ppvs.su/assets/thumb/0f0643aa8b8bc702dda00a72090bc0f6-thumbnail.jpg",Hoffenheim vs. Cologne (3 October 2025 at 18:30)
 
 #EXTINF:-1 tvg-id="ppv-12105" tvg-name="F1: Singapore Grand Prix (Race) (5 October 2025 at 12:00)" tvg-epgid="12105" tvg-logo="https://ppvs.su/assets/thumb/aa66ff992e1d38156e91d35790644fe6-thumbnail.jpg",F1: Singapore Grand Prix (Race) (5 October 2025 at 12:00)
-https://gg.poocloud.in/skyf1/index.m3u8?md5=J3yfBoIrLT6_LM4etgNpSg&expires=1759679100&net=NzQuMjM1LjEyMy44
+https://gg.poocloud.in/skyf1/index.m3u8?md5=J3yfBoIrLT6_LM4etgNpSg&expires=1759679100&net=MTcyLjIxNC40NC41Mg%3D%3D
 #EXTINF:-1 tvg-id="ppv-12107" tvg-name="Monster Energy FIM Motocross of Nations (Day 2) (4 October 2025 at 17:05)" tvg-epgid="12107" tvg-logo="https://ppvs.su/assets/thumb/45f3cdcbdda51990b7f450f1175f8f38-thumbnail.jpg",Monster Energy FIM Motocross of Nations (Day 2) (4 October 2025 at 17:05)
-https://gg.poocloud.in/mxgp/index.m3u8?md5=uw86mIms6FFPU5l-fJ45Bw&expires=1759621800&net=NzQuMjM1LjEyMy44
+https://gg.poocloud.in/mxgp/index.m3u8?md5=uw86mIms6FFPU5l-fJ45Bw&expires=1759621800&net=MTcyLjIxNC40NC41Mg%3D%3D
 #EXTINF:-1 tvg-id="ppv-12104" tvg-name="F1: Singapore Grand Prix (Qualifying) (4 October 2025 at 13:00)" tvg-epgid="12104" tvg-logo="https://ppvs.su/assets/thumb/aa66ff992e1d38156e91d35790644fe6-thumbnail.jpg",F1: Singapore Grand Prix (Qualifying) (4 October 2025 at 13:00)
-https://gg.poocloud.in/skyf1/index.m3u8?md5=1Nbia0kLbf3dgsLWUoi7Pw&expires=1759592700&net=NzQuMjM1LjEyMy44
+https://gg.poocloud.in/skyf1/index.m3u8?md5=1Nbia0kLbf3dgsLWUoi7Pw&expires=1759592700&net=MTcyLjIxNC40NC41Mg%3D%3D
 #EXTINF:-1 tvg-id="ppv-12103" tvg-name="F1: Singapore Grand Prix (FP3) (4 October 2025 at 09:30)" tvg-epgid="12103" tvg-logo="https://ppvs.su/assets/thumb/aa66ff992e1d38156e91d35790644fe6-thumbnail.jpg",F1: Singapore Grand Prix (FP3) (4 October 2025 at 09:30)
-https://gg.poocloud.in/skyf1/index.m3u8?md5=FBGmLaq47e1vV60fEItgfg&expires=1759578300&net=NzQuMjM1LjEyMy44
+https://gg.poocloud.in/skyf1/index.m3u8?md5=FBGmLaq47e1vV60fEItgfg&expires=1759578300&net=MTcyLjIxNC40NC41Mg%3D%3D
 #EXTINF:-1 tvg-id="ppv-12106" tvg-name="Monster Energy FIM Motocross of Nations (Day 1) (3 October 2025 at 14:30)" tvg-epgid="12106" tvg-logo="https://ppvs.su/assets/thumb/45f3cdcbdda51990b7f450f1175f8f38-thumbnail.jpg",Monster Energy FIM Motocross of Nations (Day 1) (3 October 2025 at 14:30)
-https://gg.poocloud.in/mxgp/index.m3u8?md5=O2J67gWAvZPJkkmKG3JmDw&expires=1759536900&net=NzQuMjM1LjEyMy44
+https://gg.poocloud.in/mxgp/index.m3u8?md5=O2J67gWAvZPJkkmKG3JmDw&expires=1759536900&net=MTcyLjIxNC40NC41Mg%3D%3D
 #EXTINF:-1 tvg-id="ppv-12102" tvg-name="F1: Singapore Grand Prix (FP2) (3 October 2025 at 13:00)" tvg-epgid="12102" tvg-logo="https://ppvs.su/assets/thumb/aa66ff992e1d38156e91d35790644fe6-thumbnail.jpg",F1: Singapore Grand Prix (FP2) (3 October 2025 at 13:00)
-https://gg.poocloud.in/skyf1/index.m3u8?md5=ziDHjI3q9rjGt9PgtTuXtw&expires=1759504500&net=NzQuMjM1LjEyMy44
+https://gg.poocloud.in/skyf1/index.m3u8?md5=ziDHjI3q9rjGt9PgtTuXtw&expires=1759504500&net=MTcyLjIxNC40NC41Mg%3D%3D
 #EXTINF:-1 tvg-id="ppv-11913" tvg-name="AEW: Saturday Night Collision (5 October 2025 at 00:00)" tvg-epgid="11913" tvg-logo="https://ppvs.su/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg",AEW: Saturday Night Collision (5 October 2025 at 00:00)
 
 #EXTINF:-1 tvg-id="ppv-11912" tvg-name="WWE: Friday Night Smackdown (4 October 2025 at 00:00)" tvg-epgid="11912" tvg-logo="https://ppvs.su/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg",WWE: Friday Night Smackdown (4 October 2025 at 00:00)
 
 #EXTINF:-1 tvg-id="ppv-5191" tvg-name="24/7 The Simpsons" tvg-epgid="5191" tvg-logo="https://thumbs.poocloud.in/thesimpsons/preview.jpg",24/7 The Simpsons
-https://gg.poocloud.in/thesimpsons/index.m3u8?md5=XLN5YjXZROidpfu0YKHchg&expires=1759539683&net=NzQuMjM1LjEyMy44
-#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family​‌​​‌​‌​‌‌‌​‌​‌‌​‌‌‌‌​‌‌​​​​‌​​​ Guy" tvg-epgid="8008" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg",24/7 Family​‌​​‌​‌​‌‌‌​‌​‌‌​‌‌‌‌​‌‌​​​​‌​​​ Guy
-https://gg.poocloud.in/familyguy/index.m3u8?md5=XLN5YjXZROidpfu0YKHchg&expires=1759539683&net=NzQuMjM1LjEyMy44
+https://gg.poocloud.in/thesimpsons/index.m3u8?md5=QILD-FHgiTripO6HN5U2ng&expires=1759541143&net=MTcyLjIxNC40NC41Mg%3D%3D
+#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family‌​‌​‌‌​​‌‌​‌​‌‌​​​‌​‌‌​​​​‌‌​‌​​ Guy" tvg-epgid="8008" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg",24/7 Family‌​‌​‌‌​​‌‌​‌​‌‌​​​‌​‌‌​​​​‌‌​‌​​ Guy
+https://gg.poocloud.in/familyguy/index.m3u8?md5=QILD-FHgiTripO6HN5U2ng&expires=1759541143&net=MTcyLjIxNC40NC41Mg%3D%3D
 #EXTINF:-1 tvg-id="ppv-5112" tvg-name="24/7 South Park" tvg-epgid="5112" tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg",24/7 South Park
-https://gg.poocloud.in/southpark/index.m3u8?md5=XLN5YjXZROidpfu0YKHchg&expires=1759539683&net=NzQuMjM1LjEyMy44
+https://gg.poocloud.in/southpark/index.m3u8?md5=b1fe93_y2A-8FOX8niRuGA&expires=1759541144&net=MTcyLjIxNC40NC41Mg%3D%3D
