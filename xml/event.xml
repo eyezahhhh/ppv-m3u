@@ -87,6 +87,28 @@ channel="ppv-12061"
 <icon src="https://ppvs.su/assets/thumb/3318d214b8e93968170bdf6166113a1d-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-12056">
+<display-name>Deportivo Alavés vs. Elche CF</display-name>
+</channel>
+<programme
+start="20251005120000 +0000"
+stop="20251005150000 +0000"
+channel="ppv-12056"
+>
+<title lang="en">Deportivo Alavés vs. Elche CF</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/16a97f9865f177d02296a219adb8095a-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-11996">
 <display-name>Udinese vs. Cagliari</display-name>
 </channel>
@@ -681,6 +703,28 @@ channel="ppv-12105"
 <icon src="https://ppvs.su/assets/thumb/aa66ff992e1d38156e91d35790644fe6-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-12107">
+<display-name>Monster Energy FIM Motocross of Nations (Day 2)</display-name>
+</channel>
+<programme
+start="20251004170500 +0000"
+stop="20251004230500 +0000"
+channel="ppv-12107"
+>
+<title lang="en">Monster Energy FIM Motocross of Nations (Day 2)</title>
+<sub-title>Motorsports</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Motorsports</category>
+<icon src="https://ppvs.su/assets/thumb/45f3cdcbdda51990b7f450f1175f8f38-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-12104">
 <display-name>F1: Singapore Grand Prix (Qualifying)</display-name>
 </channel>
@@ -723,6 +767,28 @@ channel="ppv-12103"
 </audio>
 <category>Motorsports</category>
 <icon src="https://ppvs.su/assets/thumb/aa66ff992e1d38156e91d35790644fe6-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12106">
+<display-name>Monster Energy FIM Motocross of Nations (Day 1)</display-name>
+</channel>
+<programme
+start="20251003143000 +0000"
+stop="20251003233000 +0000"
+channel="ppv-12106"
+>
+<title lang="en">Monster Energy FIM Motocross of Nations (Day 1)</title>
+<sub-title>Motorsports</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Motorsports</category>
+<icon src="https://ppvs.su/assets/thumb/45f3cdcbdda51990b7f450f1175f8f38-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-12102">
