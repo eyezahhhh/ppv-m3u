@@ -351,28 +351,6 @@ channel="ppv-12130"
 <icon src="https://ppvs.su/assets/thumb/39002fb7600f9b2af9df6ffa9810fd94-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-12129">
-<display-name>Kent State Golden Flashes vs. Oklahoma Sooners</display-name>
-</channel>
-<programme
-start="20251004200000 +0000"
-stop="20251004230000 +0000"
-channel="ppv-12129"
->
-<title lang="en">Kent State Golden Flashes vs. Oklahoma Sooners</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://ppvs.su/assets/thumb/c00ceadc862fc90a407a0ac72a5ce263-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-12114">
 <display-name>Detroit Tigers vs. Seattle Mariners</display-name>
 </channel>
@@ -547,72 +525,6 @@ channel="ppv-12062"
 </audio>
 <category>Combat Sports</category>
 <icon src="https://ppvs.su/assets/thumb/e45a8ecebbd3a51eda5c68c6695561b0-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12135">
-<display-name>OKTAGON 77 (English)</display-name>
-</channel>
-<programme
-start="20251004160000 +0000"
-stop="20251004230000 +0000"
-channel="ppv-12135"
->
-<title lang="en">OKTAGON 77 (English)</title>
-<sub-title>Combat Sports</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Combat Sports</category>
-<icon src="https://ppvs.su/assets/thumb/0cdb10f502bbdc6ae9b4f63334b8a85e-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12136">
-<display-name>OKTAGON 77 (German)</display-name>
-</channel>
-<programme
-start="20251004160000 +0000"
-stop="20251004230000 +0000"
-channel="ppv-12136"
->
-<title lang="en">OKTAGON 77 (German)</title>
-<sub-title>Combat Sports</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Combat Sports</category>
-<icon src="https://ppvs.su/assets/thumb/0cdb10f502bbdc6ae9b4f63334b8a85e-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12137">
-<display-name>OKTAGON 77 (Czech)</display-name>
-</channel>
-<programme
-start="20251004160000 +0000"
-stop="20251004230000 +0000"
-channel="ppv-12137"
->
-<title lang="en">OKTAGON 77 (Czech)</title>
-<sub-title>Combat Sports</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Combat Sports</category>
-<icon src="https://ppvs.su/assets/thumb/0cdb10f502bbdc6ae9b4f63334b8a85e-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-12060">
@@ -1163,28 +1075,6 @@ channel="ppv-12105"
 </audio>
 <category>Motorsports</category>
 <icon src="https://ppvs.su/assets/thumb/aa66ff992e1d38156e91d35790644fe6-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12107">
-<display-name>Monster Energy FIM Motocross of Nations (Day 2)</display-name>
-</channel>
-<programme
-start="20251004170500 +0000"
-stop="20251004230500 +0000"
-channel="ppv-12107"
->
-<title lang="en">Monster Energy FIM Motocross of Nations (Day 2)</title>
-<sub-title>Motorsports</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Motorsports</category>
-<icon src="https://ppvs.su/assets/thumb/45f3cdcbdda51990b7f450f1175f8f38-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-11913">
