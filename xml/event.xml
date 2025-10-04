@@ -263,6 +263,94 @@ channel="ppv-12064"
 <icon src="https://ppvs.su/assets/thumb/1a770730ba63f3f6573622790c842419-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-12114">
+<display-name>Detroit Tigers vs. Seattle Mariners</display-name>
+</channel>
+<programme
+start="20251005003800 +0000"
+stop="20251005033800 +0000"
+channel="ppv-12114"
+>
+<title lang="en">Detroit Tigers vs. Seattle Mariners</title>
+<sub-title>Baseball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Baseball</category>
+<icon src="https://ppvs.su/assets/thumb/06fc15deefbe9df118c6063c9b9beda5-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12113">
+<display-name>Los Angeles Dodgers vs. Philadelphia Phillies</display-name>
+</channel>
+<programme
+start="20251004223800 +0000"
+stop="20251005013800 +0000"
+channel="ppv-12113"
+>
+<title lang="en">Los Angeles Dodgers vs. Philadelphia Phillies</title>
+<sub-title>Baseball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Baseball</category>
+<icon src="https://ppvs.su/assets/thumb/ee7f91273db2b4b57212e481a1b0cb78-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12112">
+<display-name>New York Yankees vs. Toronto Blue Jays</display-name>
+</channel>
+<programme
+start="20251004200800 +0000"
+stop="20251004230800 +0000"
+channel="ppv-12112"
+>
+<title lang="en">New York Yankees vs. Toronto Blue Jays</title>
+<sub-title>Baseball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Baseball</category>
+<icon src="https://ppvs.su/assets/thumb/ceafca6fac4026d319a27674c1a690e3-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12111">
+<display-name>Chicago Cubs vs. Milwaukee Brewers</display-name>
+</channel>
+<programme
+start="20251004180800 +0000"
+stop="20251004210800 +0000"
+channel="ppv-12111"
+>
+<title lang="en">Chicago Cubs vs. Milwaukee Brewers</title>
+<sub-title>Baseball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Baseball</category>
+<icon src="https://ppvs.su/assets/thumb/b17899f8e4558a7019527dc3e34df197-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-12099">
 <display-name>Suns at Lakers</display-name>
 </channel>
