@@ -351,6 +351,116 @@ channel="ppv-12111"
 <icon src="https://ppvs.su/assets/thumb/b17899f8e4558a7019527dc3e34df197-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-12116">
+<display-name>Phoenix at Pelicans (NBA Melbourne Game)</display-name>
+</channel>
+<programme
+start="20251005030000 +0000"
+stop="20251005054500 +0000"
+channel="ppv-12116"
+>
+<title lang="en">Phoenix at Pelicans (NBA Melbourne Game)</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://ppvs.su/assets/thumb/2920ccee5314993a59e7008f038e01b8-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12119">
+<display-name>Timberwolves at Nuggets</display-name>
+</channel>
+<programme
+start="20251005010000 +0000"
+stop="20251005034500 +0000"
+channel="ppv-12119"
+>
+<title lang="en">Timberwolves at Nuggets</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://ppvs.su/assets/thumb/0b66aba8d0bf33383f6128ea5da4d7e5-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12117">
+<display-name>Jerusalem B.C. at Nets</display-name>
+</channel>
+<programme
+start="20251005000000 +0000"
+stop="20251005024500 +0000"
+channel="ppv-12117"
+>
+<title lang="en">Jerusalem B.C. at Nets</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://ppvs.su/assets/thumb/1f418fc3475ac1fda4a95d9cc91af170-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12118">
+<display-name>Magic at Heat</display-name>
+</channel>
+<programme
+start="20251005000000 +0000"
+stop="20251005024500 +0000"
+channel="ppv-12118"
+>
+<title lang="en">Magic at Heat</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://ppvs.su/assets/thumb/94c849d337fb1016d68027c0545a04d7-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12115">
+<display-name>Knicks at 76ers (NBA Abu Dhabi Game)</display-name>
+</channel>
+<programme
+start="20251004150000 +0000"
+stop="20251004174500 +0000"
+channel="ppv-12115"
+>
+<title lang="en">Knicks at 76ers (NBA Abu Dhabi Game)</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://ppvs.su/assets/thumb/94145661bff3150cfd192b5347f7d507-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-12062">
 <display-name>UFC 320: Ankalaev vs. Pereira 2</display-name>
 </channel>
