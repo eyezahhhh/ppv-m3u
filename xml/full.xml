@@ -483,94 +483,6 @@ channel="ppv-12128"
 <icon src="https://ppvs.su/assets/thumb/28bf99200d859070eddda49595f67bfd-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-12120">
-<display-name>Kentucky Wildcats vs. Georgia Bulldogs</display-name>
-</channel>
-<programme
-start="20251004160000 +0000"
-stop="20251004190000 +0000"
-channel="ppv-12120"
->
-<title lang="en">Kentucky Wildcats vs. Georgia Bulldogs</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://ppvs.su/assets/thumb/159f1c8f0bfbe4cee837394736aaad0c-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12121">
-<display-name>Iowa State Cyclones vs. Cincinnati Bearcats</display-name>
-</channel>
-<programme
-start="20251004160000 +0000"
-stop="20251004190000 +0000"
-channel="ppv-12121"
->
-<title lang="en">Iowa State Cyclones vs. Cincinnati Bearcats</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://ppvs.su/assets/thumb/cb95c119d66d430c8e25623d1c0be41f-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12122">
-<display-name>Wisconsin Badgers vs. Michigan Wolverines</display-name>
-</channel>
-<programme
-start="20251004160000 +0000"
-stop="20251004190000 +0000"
-channel="ppv-12122"
->
-<title lang="en">Wisconsin Badgers vs. Michigan Wolverines</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://ppvs.su/assets/thumb/641052455bfa9974eb7002a88aaefb76-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12123">
-<display-name>Illinois Fighting Illini vs. Purdue Boilermakers</display-name>
-</channel>
-<programme
-start="20251004160000 +0000"
-stop="20251004190000 +0000"
-channel="ppv-12123"
->
-<title lang="en">Illinois Fighting Illini vs. Purdue Boilermakers</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://ppvs.su/assets/thumb/7283c89f203ebf412220805bc248d13e-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-12114">
 <display-name>Detroit Tigers vs. Seattle Mariners</display-name>
 </channel>
@@ -1493,28 +1405,6 @@ channel="ppv-12054"
 </audio>
 <category>Football</category>
 <icon src="https://ppvs.su/assets/thumb/4a7a2aa2245f4305cea070413045011c-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-11994">
-<display-name>Inter vs. Cremonese</display-name>
-</channel>
-<programme
-start="20251004160000 +0000"
-stop="20251004190000 +0000"
-channel="ppv-11994"
->
-<title lang="en">Inter vs. Cremonese</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/29fde65559d423cbc9caaf0c7c37518b-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-12108">
