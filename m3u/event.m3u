@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ppv-12076" tvg-name="Kansas City Chiefs vs. Jacksonville Jaguars (7 October 2025 at 00:15)" tvg-epgid="12076" tvg-logo="https://ppvs.su/assets/thumb/6f3eca85c25a9a1a405ba5fb02bb43af-thumbnail.jpg",Kansas City Chiefs vs. Jacksonville Jaguars (7 October 2025 at 00:15)
+
 #EXTINF:-1 tvg-id="ppv-12075" tvg-name="New England Patriots vs. Buffalo Bills (6 October 2025 at 00:20)" tvg-epgid="12075" tvg-logo="https://ppvs.su/assets/thumb/679ee302a97c98132b0684bfc6ad082e-thumbnail.jpg",New England Patriots vs. Buffalo Bills (6 October 2025 at 00:20)
 
 #EXTINF:-1 tvg-id="ppv-12073" tvg-name="Detroit Lions vs. Cincinnati Bengals (5 October 2025 at 20:25)" tvg-epgid="12073" tvg-logo="https://ppvs.su/assets/thumb/2e6bdcaee7b68e7b4495d03467e12bef-thumbnail.jpg",Detroit Lions vs. Cincinnati Bengals (5 October 2025 at 20:25)
@@ -44,9 +46,9 @@
 #EXTINF:-1 tvg-id="ppv-12118" tvg-name="Magic at Heat (5 October 2025 at 00:00)" tvg-epgid="12118" tvg-logo="https://ppvs.su/assets/thumb/94c849d337fb1016d68027c0545a04d7-thumbnail.jpg",Magic at Heat (5 October 2025 at 00:00)
 
 #EXTINF:-1 tvg-id="ppv-12062" tvg-name="UFC 320: Ankalaev vs. Pereira 2 (4 October 2025 at 22:00)" tvg-epgid="12062" tvg-logo="https://ppvs.su/assets/thumb/e45a8ecebbd3a51eda5c68c6695561b0-thumbnail.jpg",UFC 320: Ankalaev vs. Pereira 2 (4 October 2025 at 22:00)
-https://gg.poocloud.in/ufc/index.m3u8?md5=M7Dt1FTqwZQhbLKgW6jVDg&expires=1759646700&net=MTcyLjE3NC4yMjMuOTg%3D
+https://gg.poocloud.in/ufc/index.m3u8?md5=M7Dt1FTqwZQhbLKgW6jVDg&expires=1759646700&net=MTMyLjE5Ni4xOS4yMg%3D%3D
 #EXTINF:-1 tvg-id="ppv-12138" tvg-name="BKFC 82: Perry vs. Stephens (4 October 2025 at 22:00)" tvg-epgid="12138" tvg-logo="https://ppvs.su/assets/thumb/c8a708c3a92281db113bcc438073f4c1-thumbnail.jpg",BKFC 82: Perry vs. Stephens (4 October 2025 at 22:00)
-https://gg.poocloud.in/bkfc/index.m3u8?md5=M7Dt1FTqwZQhbLKgW6jVDg&expires=1759646700&net=MTcyLjE3NC4yMjMuOTg%3D
+https://gg.poocloud.in/bkfc/index.m3u8?md5=M7Dt1FTqwZQhbLKgW6jVDg&expires=1759646700&net=MTMyLjE5Ni4xOS4yMg%3D%3D
 #EXTINF:-1 tvg-id="ppv-12060" tvg-name="Celta vs. Atlético de Madrid (5 October 2025 at 19:00)" tvg-epgid="12060" tvg-logo="https://ppvs.su/assets/thumb/b640c0314393bfffa66752d3672e0dd5-thumbnail.jpg",Celta vs. Atlético de Madrid (5 October 2025 at 19:00)
 
 #EXTINF:-1 tvg-id="ppv-11975" tvg-name="LOSC vs. PSG (5 October 2025 at 18:45)" tvg-epgid="11975" tvg-logo="https://ppvs.su/assets/thumb/6200da1fa4f60cbad3ce3b75f1ae9f66-thumbnail.jpg",LOSC vs. PSG (5 October 2025 at 18:45)
@@ -94,8 +96,8 @@ https://gg.poocloud.in/bkfc/index.m3u8?md5=M7Dt1FTqwZQhbLKgW6jVDg&expires=175964
 #EXTINF:-1 tvg-id="ppv-11996" tvg-name="Udinese vs. Cagliari (5 October 2025 at 10:30)" tvg-epgid="11996" tvg-logo="https://ppvs.su/assets/thumb/aac3c4a7cc5d752a9d106a6713a79818-thumbnail.jpg",Udinese vs. Cagliari (5 October 2025 at 10:30)
 
 #EXTINF:-1 tvg-id="ppv-12108" tvg-name="Monster Energy FIM Motocross of Nations (Day 3) (5 October 2025 at 13:15)" tvg-epgid="12108" tvg-logo="https://ppvs.su/assets/thumb/45f3cdcbdda51990b7f450f1175f8f38-thumbnail.jpg",Monster Energy FIM Motocross of Nations (Day 3) (5 October 2025 at 13:15)
-https://gg.poocloud.in/mxgp/index.m3u8?md5=II9fCi472LLymoFQq5BhGw&expires=1759705200&net=MTcyLjE3NC4yMjMuOTg%3D
+https://gg.poocloud.in/mxgp/index.m3u8?md5=II9fCi472LLymoFQq5BhGw&expires=1759705200&net=MTMyLjE5Ni4xOS4yMg%3D%3D
 #EXTINF:-1 tvg-id="ppv-12105" tvg-name="F1: Singapore Grand Prix (Race) (5 October 2025 at 12:00)" tvg-epgid="12105" tvg-logo="https://ppvs.su/assets/thumb/aa66ff992e1d38156e91d35790644fe6-thumbnail.jpg",F1: Singapore Grand Prix (Race) (5 October 2025 at 12:00)
-https://gg.poocloud.in/skyf1/index.m3u8?md5=J3yfBoIrLT6_LM4etgNpSg&expires=1759679100&net=MTcyLjE3NC4yMjMuOTg%3D
+https://gg.poocloud.in/skyf1/index.m3u8?md5=J3yfBoIrLT6_LM4etgNpSg&expires=1759679100&net=MTMyLjE5Ni4xOS4yMg%3D%3D
 #EXTINF:-1 tvg-id="ppv-11913" tvg-name="AEW: Saturday Night Collision (5 October 2025 at 00:00)" tvg-epgid="11913" tvg-logo="https://ppvs.su/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg",AEW: Saturday Night Collision (5 October 2025 at 00:00)
 
