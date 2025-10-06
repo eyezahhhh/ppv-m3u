@@ -21,6 +21,50 @@ channel="ppv-12076"
 <icon src="https://ppvs.su/assets/thumb/6f3eca85c25a9a1a405ba5fb02bb43af-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-12152">
+<display-name>Chicago Cubs vs. Milwaukee Brewers</display-name>
+</channel>
+<programme
+start="20251007010800 +0000"
+stop="20251007040800 +0000"
+channel="ppv-12152"
+>
+<title lang="en">Chicago Cubs vs. Milwaukee Brewers</title>
+<sub-title>Baseball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Baseball</category>
+<icon src="https://ppvs.su/assets/thumb/4a25c6b1d65f30f2058e30d9526d86f3-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12151">
+<display-name>Los Angeles Dodgers vs. Philadelphia Phillies</display-name>
+</channel>
+<programme
+start="20251006220800 +0000"
+stop="20251007010800 +0000"
+channel="ppv-12151"
+>
+<title lang="en">Los Angeles Dodgers vs. Philadelphia Phillies</title>
+<sub-title>Baseball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Baseball</category>
+<icon src="https://ppvs.su/assets/thumb/0262dc0f3f914e5293b73f7fd358bf41-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-12146">
 <display-name>WWE: NXT</display-name>
 </channel>
