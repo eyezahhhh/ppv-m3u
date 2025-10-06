@@ -246,7 +246,7 @@ channel="ppv-12200"
 </channel>
 <programme
 start="20251006170000 +0000"
-stop="20251006220000 +0000"
+stop="20251006223000 +0000"
 channel="ppv-12199"
 >
 <title lang="en">World Grand Prix Darts (Day 1)</title>
@@ -261,6 +261,72 @@ channel="ppv-12199"
 </audio>
 <category>Darts</category>
 <icon src="https://ppvs.su/assets/thumb/e3a192be8827596898cb6988397a6b32-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12212">
+<display-name>Colorado Avalanche vs. Los Angeles Kings</display-name>
+</channel>
+<programme
+start="20251008023000 +0000"
+stop="20251008053000 +0000"
+channel="ppv-12212"
+>
+<title lang="en">Colorado Avalanche vs. Los Angeles Kings</title>
+<sub-title>Ice Hockey</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Ice Hockey</category>
+<icon src="https://ppvs.su/assets/thumb/8f6ee5232ed3fd7b153589dbde2ada9b-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12211">
+<display-name>Pittsburgh Penguins vs. New York Rangers</display-name>
+</channel>
+<programme
+start="20251008000000 +0000"
+stop="20251008030000 +0000"
+channel="ppv-12211"
+>
+<title lang="en">Pittsburgh Penguins vs. New York Rangers</title>
+<sub-title>Ice Hockey</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Ice Hockey</category>
+<icon src="https://ppvs.su/assets/thumb/e6bca5b0553b27ff90bafa26fef1f415-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12210">
+<display-name>Chicago Blackhawks vs. Florida Panthers</display-name>
+</channel>
+<programme
+start="20251007210000 +0000"
+stop="20251008000000 +0000"
+channel="ppv-12210"
+>
+<title lang="en">Chicago Blackhawks vs. Florida Panthers</title>
+<sub-title>Ice Hockey</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Ice Hockey</category>
+<icon src="https://ppvs.su/assets/thumb/6f0b03e86554c2b8c13fd997eb2fd327-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-12146">
