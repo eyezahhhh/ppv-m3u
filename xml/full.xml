@@ -197,6 +197,50 @@ channel="ppv-12153"
 <icon src="https://ppvs.su/assets/thumb/0a135d6b3697b5d1cb3ee2e384c5a3b0-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-12200">
+<display-name>World Grand Prix Darts (Day 2)</display-name>
+</channel>
+<programme
+start="20251007170000 +0000"
+stop="20251007220000 +0000"
+channel="ppv-12200"
+>
+<title lang="en">World Grand Prix Darts (Day 2)</title>
+<sub-title>Darts</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Darts</category>
+<icon src="https://ppvs.su/assets/thumb/e3a192be8827596898cb6988397a6b32-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12199">
+<display-name>World Grand Prix Darts (Day 1)</display-name>
+</channel>
+<programme
+start="20251006170000 +0000"
+stop="20251006220000 +0000"
+channel="ppv-12199"
+>
+<title lang="en">World Grand Prix Darts (Day 1)</title>
+<sub-title>Darts</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Darts</category>
+<icon src="https://ppvs.su/assets/thumb/e3a192be8827596898cb6988397a6b32-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-12146">
 <display-name>WWE: NXT</display-name>
 </channel>
