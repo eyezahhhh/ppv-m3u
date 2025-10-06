@@ -43,50 +43,6 @@ channel="ppv-12075"
 <icon src="https://ppvs.su/assets/thumb/679ee302a97c98132b0684bfc6ad082e-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-12141">
-<display-name>Detroit Tigers vs. Seattle Mariners</display-name>
-</channel>
-<programme
-start="20251006000300 +0000"
-stop="20251006030300 +0000"
-channel="ppv-12141"
->
-<title lang="en">Detroit Tigers vs. Seattle Mariners</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/88c7961769a20901250d2a92cb2b7fde-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12143">
-<display-name>Lakers at Warriors</display-name>
-</channel>
-<programme
-start="20251006003000 +0000"
-stop="20251006031500 +0000"
-channel="ppv-12143"
->
-<title lang="en">Lakers at Warriors</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://ppvs.su/assets/thumb/ac4b6295444989d94af61ca910ff4e5f-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-12146">
 <display-name>WWE: NXT</display-name>
 </channel>
