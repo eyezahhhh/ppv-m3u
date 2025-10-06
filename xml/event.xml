@@ -43,28 +43,6 @@ channel="ppv-12075"
 <icon src="https://ppvs.su/assets/thumb/679ee302a97c98132b0684bfc6ad082e-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-11090">
-<display-name>NFL RedZone</display-name>
-</channel>
-<programme
-start="20251005165900 +0000"
-stop="20251005235900 +0000"
-channel="ppv-11090"
->
-<title lang="en">NFL RedZone</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://ppvs.su/assets/thumb/9b88a03d3fe959c1b09d52194d20eaa5-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-12141">
 <display-name>Detroit Tigers vs. Seattle Mariners</display-name>
 </channel>
@@ -109,16 +87,16 @@ channel="ppv-12143"
 <icon src="https://ppvs.su/assets/thumb/ac4b6295444989d94af61ca910ff4e5f-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-12142">
-<display-name>Thunder at Hornets</display-name>
+<channel id="ppv-12146">
+<display-name>WWE: NXT</display-name>
 </channel>
 <programme
-start="20251005210000 +0000"
-stop="20251005234500 +0000"
-channel="ppv-12142"
+start="20251008000000 +0000"
+stop="20251008030000 +0000"
+channel="ppv-12146"
 >
-<title lang="en">Thunder at Hornets</title>
-<sub-title>Basketball</sub-title>
+<title lang="en">WWE: NXT</title>
+<sub-title>Wrestling</sub-title>
 <video>
 <present>yes</present>
 <colour>yes</colour>
@@ -127,8 +105,8 @@ channel="ppv-12142"
 <present>yes</present>
 <stereo>stereo</stereo>
 </audio>
-<category>Basketball</category>
-<icon src="https://ppvs.su/assets/thumb/1046f2694630589ba22c45eef5c68cbe-thumbnail.jpg" />
+<category>Wrestling</category>
+<icon src="https://ppvs.su/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-12145">
