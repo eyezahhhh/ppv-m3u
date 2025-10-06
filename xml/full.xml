@@ -21,28 +21,6 @@ channel="ppv-12076"
 <icon src="https://ppvs.su/assets/thumb/6f3eca85c25a9a1a405ba5fb02bb43af-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-12075">
-<display-name>New England Patriots vs. Buffalo Bills</display-name>
-</channel>
-<programme
-start="20251006002000 +0000"
-stop="20251006032000 +0000"
-channel="ppv-12075"
->
-<title lang="en">New England Patriots vs. Buffalo Bills</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://ppvs.su/assets/thumb/679ee302a97c98132b0684bfc6ad082e-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-12146">
 <display-name>WWE: NXT</display-name>
 </channel>
