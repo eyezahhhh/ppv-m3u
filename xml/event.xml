@@ -421,8 +421,8 @@ channel="ppv-12210"
 <display-name>AEW: Collision</display-name>
 </channel>
 <programme
-start="20251008233000 +0000"
-stop="20251009023000 +0000"
+start="20251009000000 +0000"
+stop="20251009030000 +0000"
 channel="ppv-12150"
 >
 <title lang="en">AEW: Collision</title>
@@ -465,8 +465,8 @@ channel="ppv-12146"
 <display-name>AEW Dynamite: Title Tuesday</display-name>
 </channel>
 <programme
-start="20251007233000 +0000"
-stop="20251008023000 +0000"
+start="20251008000000 +0000"
+stop="20251008030000 +0000"
 channel="ppv-12147"
 >
 <title lang="en">AEW Dynamite: Title Tuesday</title>
