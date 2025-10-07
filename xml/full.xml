@@ -43,6 +43,50 @@ channel="ppv-12246"
 <icon src="https://ppvs.su/assets/thumb/f36171a8b2f6a871948a2f0111c6f8a6-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-12249">
+<display-name>Pacers at Timberwolves</display-name>
+</channel>
+<programme
+start="20251008000000 +0000"
+stop="20251008024500 +0000"
+channel="ppv-12249"
+>
+<title lang="en">Pacers at Timberwolves</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://ppvs.su/assets/thumb/2c994c7f0c4a1dd511b103b8b85b96cc-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12248">
+<display-name>Bulls at Cavaliers</display-name>
+</channel>
+<programme
+start="20251007230000 +0000"
+stop="20251008014500 +0000"
+channel="ppv-12248"
+>
+<title lang="en">Bulls at Cavaliers</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://ppvs.su/assets/thumb/0518735caad7bac28fc5155e1e9a232f-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-12201">
 <display-name>World Grand Prix Darts (Day 3)</display-name>
 </channel>
