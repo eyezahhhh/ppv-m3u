@@ -21,72 +21,6 @@ channel="ppv-12213"
 <icon src="https://ppvs.su/assets/thumb/7f44c8e669d6ebb19f2f5e53167e2f75-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-12247">
-<display-name>Toronto Blue Jays vs. New York Yankees</display-name>
-</channel>
-<programme
-start="20251008000800 +0000"
-stop="20251008030800 +0000"
-channel="ppv-12247"
->
-<title lang="en">Toronto Blue Jays vs. New York Yankees</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/c585ba8337be0007ee5db41c7dd2c116-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12249">
-<display-name>Pacers at Timberwolves</display-name>
-</channel>
-<programme
-start="20251008000000 +0000"
-stop="20251008024500 +0000"
-channel="ppv-12249"
->
-<title lang="en">Pacers at Timberwolves</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://ppvs.su/assets/thumb/2c994c7f0c4a1dd511b103b8b85b96cc-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-11184">
-<display-name>Dana White&apos;s Contender Series</display-name>
-</channel>
-<programme
-start="20251008000000 +0000"
-stop="20251008030000 +0000"
-channel="ppv-11184"
->
-<title lang="en">Dana White&apos;s Contender Series</title>
-<sub-title>Combat Sports</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Combat Sports</category>
-<icon src="https://ppvs.su/assets/thumb/1b2167370dcb5c094492160de90af755-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-12202">
 <display-name>World Grand Prix Darts (Day 4)</display-name>
 </channel>
@@ -329,28 +263,6 @@ channel="ppv-12212"
 <icon src="https://ppvs.su/assets/thumb/8f6ee5232ed3fd7b153589dbde2ada9b-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-12211">
-<display-name>Pittsburgh Penguins vs. New York Rangers</display-name>
-</channel>
-<programme
-start="20251008000000 +0000"
-stop="20251008030000 +0000"
-channel="ppv-12211"
->
-<title lang="en">Pittsburgh Penguins vs. New York Rangers</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://ppvs.su/assets/thumb/e6bca5b0553b27ff90bafa26fef1f415-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-12148">
 <display-name>TNA: Impact</display-name>
 </channel>
@@ -393,49 +305,5 @@ channel="ppv-12150"
 </audio>
 <category>Wrestling</category>
 <icon src="https://ppvs.su/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12146">
-<display-name>WWE: NXT</display-name>
-</channel>
-<programme
-start="20251008000000 +0000"
-stop="20251008030000 +0000"
-channel="ppv-12146"
->
-<title lang="en">WWE: NXT</title>
-<sub-title>Wrestling</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Wrestling</category>
-<icon src="https://ppvs.su/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12147">
-<display-name>AEW Dynamite: Title Tuesday</display-name>
-</channel>
-<programme
-start="20251008000000 +0000"
-stop="20251008030000 +0000"
-channel="ppv-12147"
->
-<title lang="en">AEW Dynamite: Title Tuesday</title>
-<sub-title>Wrestling</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Wrestling</category>
-<icon src="https://ppvs.su/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg" />
 </programme>
 </tv>
