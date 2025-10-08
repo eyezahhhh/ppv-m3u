@@ -307,28 +307,6 @@ channel="ppv-12202"
 <icon src="https://ppvs.su/assets/thumb/e3a192be8827596898cb6988397a6b32-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-12201">
-<display-name>World Grand Prix Darts (Day 3)</display-name>
-</channel>
-<programme
-start="20251008180000 +0000"
-stop="20251008230000 +0000"
-channel="ppv-12201"
->
-<title lang="en">World Grand Prix Darts (Day 3)</title>
-<sub-title>Darts</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Darts</category>
-<icon src="https://ppvs.su/assets/thumb/e3a192be8827596898cb6988397a6b32-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-12168">
 <display-name>France vs. Azerbaijan</display-name>
 </channel>
