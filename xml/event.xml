@@ -1,4 +1,70 @@
 <tv>
+<channel id="ppv-12229">
+<display-name>Ohio State Buckeyes vs. Illinois Fighting Illini</display-name>
+</channel>
+<programme
+start="20251011160000 +0000"
+stop="20251011193000 +0000"
+channel="ppv-12229"
+>
+<title lang="en">Ohio State Buckeyes vs. Illinois Fighting Illini</title>
+<sub-title>American Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>American Football</category>
+<icon src="https://ppvs.su/assets/thumb/9b56486df10c79c070b851dbcb1f8bbc-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12230">
+<display-name>Alabama Crimson Tide vs. Missouri Tigers</display-name>
+</channel>
+<programme
+start="20251011160000 +0000"
+stop="20251011193000 +0000"
+channel="ppv-12230"
+>
+<title lang="en">Alabama Crimson Tide vs. Missouri Tigers</title>
+<sub-title>American Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>American Football</category>
+<icon src="https://ppvs.su/assets/thumb/3746e61c2562b240dd7fe60dace4f7d2-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12231">
+<display-name>Pittsburgh Panthers vs. Florida State Seminoles</display-name>
+</channel>
+<programme
+start="20251011160000 +0000"
+stop="20251011193000 +0000"
+channel="ppv-12231"
+>
+<title lang="en">Pittsburgh Panthers vs. Florida State Seminoles</title>
+<sub-title>American Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>American Football</category>
+<icon src="https://ppvs.su/assets/thumb/440f0e496f9b66401cc83230141ecdfc-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-12228">
 <display-name>South Florida Bulls vs. North Texas Mean Green</display-name>
 </channel>
@@ -283,6 +349,50 @@ channel="ppv-12202"
 </audio>
 <category>Darts</category>
 <icon src="https://ppvs.su/assets/thumb/e3a192be8827596898cb6988397a6b32-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12176">
+<display-name>Hungary vs. Armenia</display-name>
+</channel>
+<programme
+start="20251011160000 +0000"
+stop="20251011190000 +0000"
+channel="ppv-12176"
+>
+<title lang="en">Hungary vs. Armenia</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/d834a1b1693526ae05d53b8c78eb2792-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12177">
+<display-name>Norway vs. Israel</display-name>
+</channel>
+<programme
+start="20251011160000 +0000"
+stop="20251011190000 +0000"
+channel="ppv-12177"
+>
+<title lang="en">Norway vs. Israel</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/3735c9350960f987dd07c8acddf89692-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-12175">
