@@ -329,6 +329,28 @@ channel="ppv-12271"
 <icon src="https://ppvs.su/assets/thumb/225916e94c7512e609a2c36039c47cde-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-12204">
+<display-name>World Grand Prix Darts (Day 6)</display-name>
+</channel>
+<programme
+start="20251011190000 +0000"
+stop="20251012000000 +0000"
+channel="ppv-12204"
+>
+<title lang="en">World Grand Prix Darts (Day 6)</title>
+<sub-title>Darts</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Darts</category>
+<icon src="https://ppvs.su/assets/thumb/e3a192be8827596898cb6988397a6b32-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-12203">
 <display-name>World Grand Prix Darts (Day 5)</display-name>
 </channel>
@@ -371,6 +393,116 @@ channel="ppv-12202"
 </audio>
 <category>Darts</category>
 <icon src="https://ppvs.su/assets/thumb/e3a192be8827596898cb6988397a6b32-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12178">
+<display-name>Portugal vs. Republic of Ireland</display-name>
+</channel>
+<programme
+start="20251011184500 +0000"
+stop="20251011214500 +0000"
+channel="ppv-12178"
+>
+<title lang="en">Portugal vs. Republic of Ireland</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/1a95f17169d6d4f184694faa2d887be7-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12179">
+<display-name>Estonia vs. Italy</display-name>
+</channel>
+<programme
+start="20251011184500 +0000"
+stop="20251011214500 +0000"
+channel="ppv-12179"
+>
+<title lang="en">Estonia vs. Italy</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/3a9c94dd8a3aa5007fb7951715d6aed2-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12180">
+<display-name>Spain vs. Georgia</display-name>
+</channel>
+<programme
+start="20251011184500 +0000"
+stop="20251011214500 +0000"
+channel="ppv-12180"
+>
+<title lang="en">Spain vs. Georgia</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/730d4207922668d9e5c6632a43e28bce-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12181">
+<display-name>Bulgaria vs. Türki̇ye</display-name>
+</channel>
+<programme
+start="20251011184500 +0000"
+stop="20251011214500 +0000"
+channel="ppv-12181"
+>
+<title lang="en">Bulgaria vs. Türki̇ye</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/28b3177aa2d01be5970d330070c1024d-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12182">
+<display-name>Serbia vs. Albania</display-name>
+</channel>
+<programme
+start="20251011184500 +0000"
+stop="20251011214500 +0000"
+channel="ppv-12182"
+>
+<title lang="en">Serbia vs. Albania</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/12377ea23a13e01696d895143dc7c1a6-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-12176">
@@ -789,28 +921,6 @@ channel="ppv-12297"
 </audio>
 <category>Football</category>
 <icon src="https://ppvs.su/assets/thumb/ece535915582123c53c5ddf19f12a669-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12159">
-<display-name>Finland vs. Lithuania</display-name>
-</channel>
-<programme
-start="20251009160000 +0000"
-stop="20251009190000 +0000"
-channel="ppv-12159"
->
-<title lang="en">Finland vs. Lithuania</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/c7f03a767390c5d237b4af80e80c390d-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-12294">
