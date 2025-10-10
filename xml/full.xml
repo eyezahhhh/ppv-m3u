@@ -1,48 +1,4 @@
 <tv>
-<channel id="ppv-12223">
-<display-name>Cincinnati Bengals vs. Green Bay Packers</display-name>
-</channel>
-<programme
-start="20251012202500 +0000"
-stop="20251012235500 +0000"
-channel="ppv-12223"
->
-<title lang="en">Cincinnati Bengals vs. Green Bay Packers</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://ppv.to/assets/thumb/92145d70d43269157ac141d3057cb7e8-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12224">
-<display-name>San Francisco 49ers vs. Tampa Bay Buccaneers</display-name>
-</channel>
-<programme
-start="20251012202500 +0000"
-stop="20251012235500 +0000"
-channel="ppv-12224"
->
-<title lang="en">San Francisco 49ers vs. Tampa Bay Buccaneers</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://ppv.to/assets/thumb/469e672db9aeff86703433fe71662424-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-12222">
 <display-name>Tennessee Titans vs. Las Vegas Raiders</display-name>
 </channel>
