@@ -1,4 +1,26 @@
 <tv>
+<channel id="ppv-12214">
+<display-name>Denver Broncos vs. New York Jets</display-name>
+</channel>
+<programme
+start="20251012133000 +0000"
+stop="20251012170000 +0000"
+channel="ppv-12214"
+>
+<title lang="en">Denver Broncos vs. New York Jets</title>
+<sub-title>American Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>American Football</category>
+<icon src="https://ppv.to/assets/thumb/777a69bbc74a9ca6acc8982bd17fff3a-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-12245">
 <display-name>Arizona State Sun Devils vs. Utah Utes</display-name>
 </channel>
