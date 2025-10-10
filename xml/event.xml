@@ -1,4 +1,26 @@
 <tv>
+<channel id="ppv-12245">
+<display-name>Arizona State Sun Devils vs. Utah Utes</display-name>
+</channel>
+<programme
+start="20251012021500 +0000"
+stop="20251012054500 +0000"
+channel="ppv-12245"
+>
+<title lang="en">Arizona State Sun Devils vs. Utah Utes</title>
+<sub-title>American Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>American Football</category>
+<icon src="https://ppvs.su/assets/thumb/b6acc712a9747ffc430ea38fc9a4169c-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-12244">
 <display-name>BYU Cougars vs. Arizona Wildcats</display-name>
 </channel>
@@ -503,28 +525,6 @@ channel="ppv-12283"
 </audio>
 <category>Basketball</category>
 <icon src="https://ppvs.su/assets/thumb/69aa808b1c3b83a49cacaf884e587c1d-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12279">
-<display-name>Timberwolves at Knicks</display-name>
-</channel>
-<programme
-start="20251009233000 +0000"
-stop="20251010021500 +0000"
-channel="ppv-12279"
->
-<title lang="en">Timberwolves at Knicks</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://ppvs.su/assets/thumb/f69b940e06ad673ee3a28bfd4e59563f-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-12272">
@@ -1097,160 +1097,6 @@ channel="ppv-12292"
 </audio>
 <category>Ice Hockey</category>
 <icon src="https://ppvs.su/assets/thumb/c4ed776816c7a59312984b4cdf794a7f-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12290">
-<display-name>New Jersey Devils vs. Carolina Hurricanes</display-name>
-</channel>
-<programme
-start="20251009233000 +0000"
-stop="20251010023000 +0000"
-channel="ppv-12290"
->
-<title lang="en">New Jersey Devils vs. Carolina Hurricanes</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://ppvs.su/assets/thumb/eb0cfd41f9e206c27137734a693ded90-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12284">
-<display-name>Chicago Blackhawks vs. Boston Bruins</display-name>
-</channel>
-<programme
-start="20251009230000 +0000"
-stop="20251010020000 +0000"
-channel="ppv-12284"
->
-<title lang="en">Chicago Blackhawks vs. Boston Bruins</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://ppvs.su/assets/thumb/a40177d12b0a426f78c9c72186ad3037-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12285">
-<display-name>New York Rangers vs. Buffalo Sabres</display-name>
-</channel>
-<programme
-start="20251009230000 +0000"
-stop="20251010020000 +0000"
-channel="ppv-12285"
->
-<title lang="en">New York Rangers vs. Buffalo Sabres</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://ppvs.su/assets/thumb/79534fa984882b04188cf67a1eede56b-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12286">
-<display-name>Montreal Canadiens vs. Detroit Red Wings</display-name>
-</channel>
-<programme
-start="20251009230000 +0000"
-stop="20251010020000 +0000"
-channel="ppv-12286"
->
-<title lang="en">Montreal Canadiens vs. Detroit Red Wings</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://ppvs.su/assets/thumb/20a3929f9b81cf54efb539f2442deed5-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12287">
-<display-name>Ottawa Senators vs. Tampa Bay Lightning</display-name>
-</channel>
-<programme
-start="20251009230000 +0000"
-stop="20251010020000 +0000"
-channel="ppv-12287"
->
-<title lang="en">Ottawa Senators vs. Tampa Bay Lightning</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://ppvs.su/assets/thumb/3573a12b16c049fca611f8530f184416-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12288">
-<display-name>Philadelphia Flyers vs. Florida Panthers</display-name>
-</channel>
-<programme
-start="20251009230000 +0000"
-stop="20251010020000 +0000"
-channel="ppv-12288"
->
-<title lang="en">Philadelphia Flyers vs. Florida Panthers</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://ppvs.su/assets/thumb/2cf071502225b8992d0747e8c9fff82f-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12289">
-<display-name>New York Islanders vs. Pittsburgh Penguins</display-name>
-</channel>
-<programme
-start="20251009230000 +0000"
-stop="20251010020000 +0000"
-channel="ppv-12289"
->
-<title lang="en">New York Islanders vs. Pittsburgh Penguins</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://ppvs.su/assets/thumb/ee741ac6f9925050375c5e7246b118e7-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-12150">
