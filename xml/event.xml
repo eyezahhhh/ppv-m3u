@@ -395,16 +395,16 @@ channel="ppv-12228"
 <icon src="https://ppvs.su/assets/thumb/cd206e9942b71f5623bf638fad9892a0-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-12213">
-<display-name>Philadelphia Eagles vs. New York Giants</display-name>
+<channel id="ppv-12298">
+<display-name>Detroit Tigers vs. Seattle Mariners</display-name>
 </channel>
 <programme
-start="20251010001500 +0000"
-stop="20251010034500 +0000"
-channel="ppv-12213"
+start="20251011000800 +0000"
+stop="20251011030800 +0000"
+channel="ppv-12298"
 >
-<title lang="en">Philadelphia Eagles vs. New York Giants</title>
-<sub-title>American Football</sub-title>
+<title lang="en">Detroit Tigers vs. Seattle Mariners</title>
+<sub-title>Baseball</sub-title>
 <video>
 <present>yes</present>
 <colour>yes</colour>
@@ -413,8 +413,8 @@ channel="ppv-12213"
 <present>yes</present>
 <stereo>stereo</stereo>
 </audio>
-<category>American Football</category>
-<icon src="https://ppvs.su/assets/thumb/7f44c8e669d6ebb19f2f5e53167e2f75-thumbnail.jpg" />
+<category>Baseball</category>
+<icon src="https://ppvs.su/assets/thumb/88c7961769a20901250d2a92cb2b7fde-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-12278">
@@ -965,28 +965,6 @@ channel="ppv-12296"
 </audio>
 <category>Ice Hockey</category>
 <icon src="https://ppvs.su/assets/thumb/99a791fc2ad0978d621b323d1f8427d0-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12293">
-<display-name>Utah Mammoth vs. Colorado Avalanche</display-name>
-</channel>
-<programme
-start="20251010010000 +0000"
-stop="20251010040000 +0000"
-channel="ppv-12293"
->
-<title lang="en">Utah Mammoth vs. Colorado Avalanche</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://ppvs.su/assets/thumb/5ac52abee24b3060b427b8d1b4a139b3-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-12150">
