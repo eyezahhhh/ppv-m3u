@@ -417,28 +417,6 @@ channel="ppv-12278"
 <icon src="https://ppvs.su/assets/thumb/fa4a4305950306551765c53cc8674bbd-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-12277">
-<display-name>Philadelphia Phillies vs. Los Angeles Dodgers</display-name>
-</channel>
-<programme
-start="20251009220800 +0000"
-stop="20251010010800 +0000"
-channel="ppv-12277"
->
-<title lang="en">Philadelphia Phillies vs. Los Angeles Dodgers</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/25d27bbe19d03265167244086f52b06d-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-12282">
 <display-name>Loong-Lions at Clippers</display-name>
 </channel>
