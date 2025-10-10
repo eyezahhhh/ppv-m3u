@@ -1,114 +1,4 @@
 <tv>
-<channel id="ppv-12240">
-<display-name>Kansas Jayhawks vs. Texas Tech Red Raiders</display-name>
-</channel>
-<programme
-start="20251011233000 +0000"
-stop="20251012030000 +0000"
-channel="ppv-12240"
->
-<title lang="en">Kansas Jayhawks vs. Texas Tech Red Raiders</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://ppv.to/assets/thumb/2848029d625f42374188dad900fa6c72-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12241">
-<display-name>Georgia Bulldogs vs. Auburn Tigers</display-name>
-</channel>
-<programme
-start="20251011233000 +0000"
-stop="20251012030000 +0000"
-channel="ppv-12241"
->
-<title lang="en">Georgia Bulldogs vs. Auburn Tigers</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://ppv.to/assets/thumb/b2a9ca09b44be353dd4d72a9b61029ed-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12242">
-<display-name>Michigan Wolverines vs. USC Trojans</display-name>
-</channel>
-<programme
-start="20251011233000 +0000"
-stop="20251012030000 +0000"
-channel="ppv-12242"
->
-<title lang="en">Michigan Wolverines vs. USC Trojans</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://ppv.to/assets/thumb/7f3f5c0882275d039dd44438f9a6ed8c-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12239">
-<display-name>Florida Gators vs. Texas A&amp;M Aggies</display-name>
-</channel>
-<programme
-start="20251011230000 +0000"
-stop="20251012023000 +0000"
-channel="ppv-12239"
->
-<title lang="en">Florida Gators vs. Texas A&amp;M Aggies</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://ppv.to/assets/thumb/ae927adaf553e0da2e6447a2f092852e-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12238">
-<display-name>Arkansas Razorbacks vs. Tennessee Volunteers</display-name>
-</channel>
-<programme
-start="20251011201500 +0000"
-stop="20251011234500 +0000"
-channel="ppv-12238"
->
-<title lang="en">Arkansas Razorbacks vs. Tennessee Volunteers</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://ppv.to/assets/thumb/63d778989e233c26352e2000967a5149-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-12233">
 <display-name>Indiana Hoosiers vs. Oregon Ducks</display-name>
 </channel>
@@ -1229,6 +1119,28 @@ channel="ppv-12289"
 </audio>
 <category>Ice Hockey</category>
 <icon src="https://ppv.to/assets/thumb/ee741ac6f9925050375c5e7246b118e7-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12150">
+<display-name>AEW: Collision</display-name>
+</channel>
+<programme
+start="20251012000000 +0000"
+stop="20251012030000 +0000"
+channel="ppv-12150"
+>
+<title lang="en">AEW: Collision</title>
+<sub-title>Wrestling</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Wrestling</category>
+<icon src="https://ppv.to/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-12206">
