@@ -1561,15 +1561,15 @@ channel="ppv-12328"
 <icon src="https://ppvs.su/assets/thumb/b08b641b5e93004ccd6064cb69a2214f-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-12327">
-<display-name>2025 Mr. Olympia: Saturday EXPO coverage</display-name>
+<channel id="ppv-12326">
+<display-name>2025 Mr. Olympia: Saturday Prejudging</display-name>
 </channel>
 <programme
-start="20251011173100 +0000"
-stop="20251011213100 +0000"
-channel="ppv-12327"
+start="20251011163100 +0000"
+stop="20251012003100 +0000"
+channel="ppv-12326"
 >
-<title lang="en">2025 Mr. Olympia: Saturday EXPO coverage</title>
+<title lang="en">2025 Mr. Olympia: Saturday Prejudging</title>
 <sub-title>Miscellaneous</sub-title>
 <video>
 <present>yes</present>
