@@ -549,28 +549,6 @@ channel="ppv-12237"
 <icon src="https://ppvs.su/assets/thumb/5249d599c42d3a4c33628f07cbdadc05-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-12232">
-<display-name>Washington State Cougars vs. Ole Miss Rebels</display-name>
-</channel>
-<programme
-start="20251011164500 +0000"
-stop="20251011201500 +0000"
-channel="ppv-12232"
->
-<title lang="en">Washington State Cougars vs. Ole Miss Rebels</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://ppvs.su/assets/thumb/015d4c84af3c860d7b2fc886024c493f-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-12322">
 <display-name>Chicago Cubs vs. Milwaukee Brewers</display-name>
 </channel>
@@ -1561,28 +1539,6 @@ channel="ppv-12330"
 <icon src="https://ppvs.su/assets/thumb/4dc1afface4caaf640aaa5ea99065be3-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-12329">
-<display-name>Los Angeles Kings vs. Winnipeg Jets</display-name>
-</channel>
-<programme
-start="20251011173000 +0000"
-stop="20251011203000 +0000"
-channel="ppv-12329"
->
-<title lang="en">Los Angeles Kings vs. Winnipeg Jets</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://ppvs.su/assets/thumb/a83756383f68c6735030cd499f7e478e-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-12328">
 <display-name>2025 Mr. Olympia: Saturday Finals</display-name>
 </channel>
@@ -1614,28 +1570,6 @@ stop="20251011213100 +0000"
 channel="ppv-12327"
 >
 <title lang="en">2025 Mr. Olympia: Saturday EXPO coverage</title>
-<sub-title>Miscellaneous</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Miscellaneous</category>
-<icon src="https://ppvs.su/assets/thumb/b08b641b5e93004ccd6064cb69a2214f-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12326">
-<display-name>2025 Mr. Olympia: Saturday Prejudging</display-name>
-</channel>
-<programme
-start="20251011163100 +0000"
-stop="20251011203100 +0000"
-channel="ppv-12326"
->
-<title lang="en">2025 Mr. Olympia: Saturday Prejudging</title>
 <sub-title>Miscellaneous</sub-title>
 <video>
 <present>yes</present>
