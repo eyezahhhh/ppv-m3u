@@ -637,50 +637,6 @@ channel="ppv-12231"
 <icon src="https://ppv.to/assets/thumb/440f0e496f9b66401cc83230141ecdfc-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-12228">
-<display-name>South Florida Bulls vs. North Texas Mean Green</display-name>
-</channel>
-<programme
-start="20251010233000 +0000"
-stop="20251011030000 +0000"
-channel="ppv-12228"
->
-<title lang="en">South Florida Bulls vs. North Texas Mean Green</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://ppv.to/assets/thumb/cd206e9942b71f5623bf638fad9892a0-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12298">
-<display-name>Detroit Tigers vs. Seattle Mariners</display-name>
-</channel>
-<programme
-start="20251011000800 +0000"
-stop="20251011030800 +0000"
-channel="ppv-12298"
->
-<title lang="en">Detroit Tigers vs. Seattle Mariners</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppv.to/assets/thumb/88c7961769a20901250d2a92cb2b7fde-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-12300">
 <display-name>Kings at Trail Blazers</display-name>
 </channel>
