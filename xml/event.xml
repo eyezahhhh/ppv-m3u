@@ -285,28 +285,6 @@ channel="ppv-12349"
 <icon src="https://ppvs.su/assets/thumb/f98186aa0e6f30676034e38af43f5056-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-12348">
-<display-name>Raptors at Wizards</display-name>
-</channel>
-<programme
-start="20251012190000 +0000"
-stop="20251012214500 +0000"
-channel="ppv-12348"
->
-<title lang="en">Raptors at Wizards</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://ppvs.su/assets/thumb/e03b08a9cf122d1a6a6dacdef45289ce-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-12205">
 <display-name>World Grand Prix Darts (Day 7)</display-name>
 </channel>
@@ -681,94 +659,6 @@ channel="ppv-12198"
 <icon src="https://ppvs.su/assets/thumb/5ac4576e8ef970cfb53eea457bf2954c-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-12187">
-<display-name>Croatia vs. Gibraltar</display-name>
-</channel>
-<programme
-start="20251012184500 +0000"
-stop="20251012214500 +0000"
-channel="ppv-12187"
->
-<title lang="en">Croatia vs. Gibraltar</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/de795e3d5e969b13af7758abfcaee526-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12188">
-<display-name>Denmark vs. Greece</display-name>
-</channel>
-<programme
-start="20251012184500 +0000"
-stop="20251012214500 +0000"
-channel="ppv-12188"
->
-<title lang="en">Denmark vs. Greece</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/ba0ecb8851280f64924be893ad6be933-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12189">
-<display-name>Lithuania vs. Poland</display-name>
-</channel>
-<programme
-start="20251012184500 +0000"
-stop="20251012214500 +0000"
-channel="ppv-12189"
->
-<title lang="en">Lithuania vs. Poland</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/8fa3b11d5ef891d52e4c48162a038483-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12190">
-<display-name>Romania vs. Austria</display-name>
-</channel>
-<programme
-start="20251012184500 +0000"
-stop="20251012214500 +0000"
-channel="ppv-12190"
->
-<title lang="en">Romania vs. Austria</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/3ba299f75a5b901d5e86eeb108830e42-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-12408">
 <display-name>Washington Capitals vs. New York Rangers</display-name>
 </channel>
@@ -789,5 +679,27 @@ channel="ppv-12408"
 </audio>
 <category>Ice Hockey</category>
 <icon src="https://ppvs.su/assets/thumb/69c3311f439a179f2bc918454f5498d0-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12409">
+<display-name>TNA: Bound For Glory</display-name>
+</channel>
+<programme
+start="20251012230000 +0000"
+stop="20251013030000 +0000"
+channel="ppv-12409"
+>
+<title lang="en">TNA: Bound For Glory</title>
+<sub-title>Wrestling</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Wrestling</category>
+<icon src="https://ppvs.su/assets/thumb/055d67ca71fd9614b364b623e5d697c8-thumbnail.jpg" />
 </programme>
 </tv>
