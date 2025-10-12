@@ -856,4 +856,26 @@ channel="ppv-12186"
 <category>Football</category>
 <icon src="https://ppvs.su/assets/thumb/c7c5d7b98a325f8b3e7a1c0d3a0a74ee-thumbnail.jpg" />
 </programme>
+
+<channel id="ppv-12408">
+<display-name>Washington Capitals vs. New York Rangers</display-name>
+</channel>
+<programme
+start="20251012230000 +0000"
+stop="20251013020000 +0000"
+channel="ppv-12408"
+>
+<title lang="en">Washington Capitals vs. New York Rangers</title>
+<sub-title>Ice Hockey</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Ice Hockey</category>
+<icon src="https://ppvs.su/assets/thumb/69c3311f439a179f2bc918454f5498d0-thumbnail.jpg" />
+</programme>
 </tv>
