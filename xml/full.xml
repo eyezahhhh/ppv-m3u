@@ -175,28 +175,6 @@ channel="ppv-12351"
 <icon src="https://ppvs.su/assets/thumb/be063505d34e265126abb4c98ed0c455-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-12349">
-<display-name>Heat at Magic</display-name>
-</channel>
-<programme
-start="20251012220000 +0000"
-stop="20251013004500 +0000"
-channel="ppv-12349"
->
-<title lang="en">Heat at Magic</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://ppvs.su/assets/thumb/f98186aa0e6f30676034e38af43f5056-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-12401">
 <display-name>Latvia vs. England</display-name>
 </channel>
