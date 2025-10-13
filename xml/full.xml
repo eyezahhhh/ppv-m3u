@@ -131,50 +131,6 @@ channel="ppv-12352"
 <icon src="https://ppvs.su/assets/thumb/54bbb8a37a2f1b5b007326fe72ccf6b5-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-12350">
-<display-name>Cavaliers at Celtics</display-name>
-</channel>
-<programme
-start="20251012230000 +0000"
-stop="20251013014500 +0000"
-channel="ppv-12350"
->
-<title lang="en">Cavaliers at Celtics</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://ppvs.su/assets/thumb/439b9232e7795fd29200f5e6c29dc544-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12351">
-<display-name>Bucks at Bulls</display-name>
-</channel>
-<programme
-start="20251012230000 +0000"
-stop="20251013014500 +0000"
-channel="ppv-12351"
->
-<title lang="en">Bucks at Bulls</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://ppvs.su/assets/thumb/be063505d34e265126abb4c98ed0c455-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-12401">
 <display-name>Latvia vs. England</display-name>
 </channel>
@@ -525,28 +481,6 @@ channel="ppv-12198"
 </audio>
 <category>Football</category>
 <icon src="https://ppvs.su/assets/thumb/5ac4576e8ef970cfb53eea457bf2954c-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12408">
-<display-name>Washington Capitals vs. New York Rangers</display-name>
-</channel>
-<programme
-start="20251012230000 +0000"
-stop="20251013020000 +0000"
-channel="ppv-12408"
->
-<title lang="en">Washington Capitals vs. New York Rangers</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://ppvs.su/assets/thumb/69c3311f439a179f2bc918454f5498d0-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-12411">
