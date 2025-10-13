@@ -747,28 +747,6 @@ channel="ppv-12426"
 <icon src="https://ppvs.su/assets/thumb/34580da0bec8aebad5f01d9c9ebdb451-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-12423">
-<display-name>Colorado Avalanche vs. Buffalo Sabres</display-name>
-</channel>
-<programme
-start="20251013163000 +0000"
-stop="20251013193000 +0000"
-channel="ppv-12423"
->
-<title lang="en">Colorado Avalanche vs. Buffalo Sabres</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://ppvs.su/assets/thumb/589d93372ec937595145349b1d81ec79-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-12411">
 <display-name>WWE: NXT</display-name>
 </channel>
