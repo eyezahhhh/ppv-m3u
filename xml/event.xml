@@ -65,94 +65,6 @@ channel="ppv-12225"
 <icon src="https://ppvs.su/assets/thumb/dc279181a6d2393e8db57e1e5fbb67c8-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-12223">
-<display-name>Cincinnati Bengals vs. Green Bay Packers</display-name>
-</channel>
-<programme
-start="20251012202500 +0000"
-stop="20251012235500 +0000"
-channel="ppv-12223"
->
-<title lang="en">Cincinnati Bengals vs. Green Bay Packers</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://ppvs.su/assets/thumb/92145d70d43269157ac141d3057cb7e8-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12224">
-<display-name>San Francisco 49ers vs. Tampa Bay Buccaneers</display-name>
-</channel>
-<programme
-start="20251012202500 +0000"
-stop="20251012235500 +0000"
-channel="ppv-12224"
->
-<title lang="en">San Francisco 49ers vs. Tampa Bay Buccaneers</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://ppvs.su/assets/thumb/469e672db9aeff86703433fe71662424-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12222">
-<display-name>Tennessee Titans vs. Las Vegas Raiders</display-name>
-</channel>
-<programme
-start="20251012200500 +0000"
-stop="20251012233500 +0000"
-channel="ppv-12222"
->
-<title lang="en">Tennessee Titans vs. Las Vegas Raiders</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://ppvs.su/assets/thumb/bb9f183644ba0fecc75ef94c17d4cd25-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-11090">
-<display-name>NFL RedZone</display-name>
-</channel>
-<programme
-start="20251012170000 +0000"
-stop="20251013000000 +0000"
-channel="ppv-11090"
->
-<title lang="en">NFL RedZone</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://ppvs.su/assets/thumb/9b88a03d3fe959c1b09d52194d20eaa5-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-12345">
 <display-name>Seattle Mariners vs. Toronto Blue Jays</display-name>
 </channel>
@@ -657,6 +569,50 @@ channel="ppv-12408"
 </audio>
 <category>Ice Hockey</category>
 <icon src="https://ppvs.su/assets/thumb/69c3311f439a179f2bc918454f5498d0-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12411">
+<display-name>WWE: NXT</display-name>
+</channel>
+<programme
+start="20251015000000 +0000"
+stop="20251015030000 +0000"
+channel="ppv-12411"
+>
+<title lang="en">WWE: NXT</title>
+<sub-title>Wrestling</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Wrestling</category>
+<icon src="https://ppvs.su/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12410">
+<display-name>WWE: Monday Night RAW</display-name>
+</channel>
+<programme
+start="20251013120000 +0000"
+stop="20251013150000 +0000"
+channel="ppv-12410"
+>
+<title lang="en">WWE: Monday Night RAW</title>
+<sub-title>Wrestling</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Wrestling</category>
+<icon src="https://ppvs.su/assets/thumb/56336f9d22c51c416e1a56afbd18f314-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-12409">
