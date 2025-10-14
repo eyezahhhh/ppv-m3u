@@ -219,28 +219,6 @@ channel="ppv-12400"
 <icon src="https://ppvs.su/assets/thumb/71dffa08ee7579fa10f65cab48fc8e90-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-12432">
-<display-name>Utah Mammoth vs. Chicago Blackhawks</display-name>
-</channel>
-<programme
-start="20251014003000 +0000"
-stop="20251014033000 +0000"
-channel="ppv-12432"
->
-<title lang="en">Utah Mammoth vs. Chicago Blackhawks</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://ppvs.su/assets/thumb/12bda642ccfe85dd991a20e1a6deea16-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-12412">
 <display-name>AEW: Wednesday Night Dynamite</display-name>
 </channel>
