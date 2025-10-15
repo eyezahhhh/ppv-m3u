@@ -1,4 +1,26 @@
 <tv>
+<channel id="ppv-12448">
+<display-name>Pittsburgh Steelers vs. Cincinnati Bengals</display-name>
+</channel>
+<programme
+start="20251017001500 +0000"
+stop="20251017034500 +0000"
+channel="ppv-12448"
+>
+<title lang="en">Pittsburgh Steelers vs. Cincinnati Bengals</title>
+<sub-title>American Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>American Football</category>
+<icon src="https://ppvs.su/assets/thumb/405b9413ae607f8fd2123f9c3a0cbb90-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-12433">
 <display-name>Los Angeles Dodgers vs. Milwaukee Brewers</display-name>
 </channel>
@@ -349,6 +371,28 @@ channel="ppv-12443"
 </audio>
 <category>Ice Hockey</category>
 <icon src="https://ppvs.su/assets/thumb/4bc9a96f741cfb85ae8daf9794d737a2-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12413">
+<display-name>TNA: Impact</display-name>
+</channel>
+<programme
+start="20251017000000 +0000"
+stop="20251017030000 +0000"
+channel="ppv-12413"
+>
+<title lang="en">TNA: Impact</title>
+<sub-title>Wrestling</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Wrestling</category>
+<icon src="https://ppvs.su/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-12412">
