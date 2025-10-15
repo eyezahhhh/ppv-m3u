@@ -1,4 +1,26 @@
 <tv>
+<channel id="ppv-12463">
+<display-name>Louisville Cardinals vs. Miami Hurricanes</display-name>
+</channel>
+<programme
+start="20251017230000 +0000"
+stop="20251018023000 +0000"
+channel="ppv-12463"
+>
+<title lang="en">Louisville Cardinals vs. Miami Hurricanes</title>
+<sub-title>American Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>American Football</category>
+<icon src="https://ppvs.su/assets/thumb/599eeffc5b6f147ad58821354cb16c5b-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-12448">
 <display-name>Pittsburgh Steelers vs. Cincinnati Bengals</display-name>
 </channel>
