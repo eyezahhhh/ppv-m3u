@@ -43,6 +43,94 @@ channel="ppv-12483"
 <icon src="https://ppvs.su/assets/thumb/43ec8e43775a3fa2c999c6d9c78b0a39-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-12484">
+<display-name>Mavericks at Lakers</display-name>
+</channel>
+<programme
+start="20251016023000 +0000"
+stop="20251016051500 +0000"
+channel="ppv-12484"
+>
+<title lang="en">Mavericks at Lakers</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://ppvs.su/assets/thumb/4dc135e1a9eb8e46505e660dd018274f-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12485">
+<display-name>Clippers at Kings</display-name>
+</channel>
+<programme
+start="20251016020000 +0000"
+stop="20251016044500 +0000"
+channel="ppv-12485"
+>
+<title lang="en">Clippers at Kings</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://ppvs.su/assets/thumb/445287106c73a2c8a72585d53f037196-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12487">
+<display-name>Raptors at Celtics</display-name>
+</channel>
+<programme
+start="20251015233000 +0000"
+stop="20251016021500 +0000"
+channel="ppv-12487"
+>
+<title lang="en">Raptors at Celtics</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://ppvs.su/assets/thumb/6a92d2a6a955d1a8d44aa5a40cf93482-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12486">
+<display-name>Grizzlies at Hornets</display-name>
+</channel>
+<programme
+start="20251015230000 +0000"
+stop="20251016014500 +0000"
+channel="ppv-12486"
+>
+<title lang="en">Grizzlies at Hornets</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://ppvs.su/assets/thumb/e44d87b078eaa68e1d9ec7648abf315b-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-12413">
 <display-name>TNA: Impact</display-name>
 </channel>
