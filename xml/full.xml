@@ -219,6 +219,72 @@ channel="ppv-12491"
 <icon src="https://ppvs.su/assets/thumb/3828f76fc36049e86d41e03ae00ce327-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-12494">
+<display-name>Calgary Flames vs. Utah Mammoth</display-name>
+</channel>
+<programme
+start="20251016013000 +0000"
+stop="20251016043000 +0000"
+channel="ppv-12494"
+>
+<title lang="en">Calgary Flames vs. Utah Mammoth</title>
+<sub-title>Ice Hockey</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Ice Hockey</category>
+<icon src="https://ppvs.su/assets/thumb/0ae9be0dca651f9b67f0bf63b29be3a2-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12492">
+<display-name>Ottawa Senators vs. Buffalo Sabres</display-name>
+</channel>
+<programme
+start="20251015230000 +0000"
+stop="20251016020000 +0000"
+channel="ppv-12492"
+>
+<title lang="en">Ottawa Senators vs. Buffalo Sabres</title>
+<sub-title>Ice Hockey</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Ice Hockey</category>
+<icon src="https://ppvs.su/assets/thumb/cbe73c362f1f5e36927b62798214d8e8-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12493">
+<display-name>Florida Panthers vs. Detroit Red Wings</display-name>
+</channel>
+<programme
+start="20251015230000 +0000"
+stop="20251016020000 +0000"
+channel="ppv-12493"
+>
+<title lang="en">Florida Panthers vs. Detroit Red Wings</title>
+<sub-title>Ice Hockey</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Ice Hockey</category>
+<icon src="https://ppvs.su/assets/thumb/81870707ba8430c80110b94e289c0b76-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-12413">
 <display-name>TNA: Impact</display-name>
 </channel>
