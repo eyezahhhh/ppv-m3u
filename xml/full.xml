@@ -109,6 +109,116 @@ channel="ppv-12504"
 <icon src="https://ppvs.su/assets/thumb/2bec165d39929804a6e85582c734e287-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-12508">
+<display-name>Trail Blazers at Jazz</display-name>
+</channel>
+<programme
+start="20251017010000 +0000"
+stop="20251017034500 +0000"
+channel="ppv-12508"
+>
+<title lang="en">Trail Blazers at Jazz</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://ppvs.su/assets/thumb/1b389311fee62d3e4c909822d94fcd50-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12510">
+<display-name>Timberwolves at Bulls</display-name>
+</channel>
+<programme
+start="20251017000000 +0000"
+stop="20251017024500 +0000"
+channel="ppv-12510"
+>
+<title lang="en">Timberwolves at Bulls</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://ppvs.su/assets/thumb/effc4058876ac31508ba884df25fc7f1-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12507">
+<display-name>Rockets at Hawks</display-name>
+</channel>
+<programme
+start="20251016233000 +0000"
+stop="20251017021500 +0000"
+channel="ppv-12507"
+>
+<title lang="en">Rockets at Hawks</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://ppvs.su/assets/thumb/02db120e600c658f23d970cef691b115-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12506">
+<display-name>Pelicans at Magic</display-name>
+</channel>
+<programme
+start="20251016230000 +0000"
+stop="20251017014500 +0000"
+channel="ppv-12506"
+>
+<title lang="en">Pelicans at Magic</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://ppvs.su/assets/thumb/dac01d64134884ed6a6270afb595c917-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12509">
+<display-name>Wizards at Pistons</display-name>
+</channel>
+<programme
+start="20251016230000 +0000"
+stop="20251017014500 +0000"
+channel="ppv-12509"
+>
+<title lang="en">Wizards at Pistons</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://ppvs.su/assets/thumb/eb447dc0e96f0f851c8b4a8755f769ca-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-12381">
 <display-name>Real Oviedo vs. RCD Espanyol de Barcelona</display-name>
 </channel>
