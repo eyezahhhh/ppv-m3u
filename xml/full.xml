@@ -131,50 +131,6 @@ channel="ppv-12485"
 <icon src="https://ppvs.su/assets/thumb/445287106c73a2c8a72585d53f037196-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-12487">
-<display-name>Raptors at Celtics</display-name>
-</channel>
-<programme
-start="20251015233000 +0000"
-stop="20251016021500 +0000"
-channel="ppv-12487"
->
-<title lang="en">Raptors at Celtics</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://ppvs.su/assets/thumb/6a92d2a6a955d1a8d44aa5a40cf93482-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12486">
-<display-name>Grizzlies at Hornets</display-name>
-</channel>
-<programme
-start="20251015230000 +0000"
-stop="20251016014500 +0000"
-channel="ppv-12486"
->
-<title lang="en">Grizzlies at Hornets</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://ppvs.su/assets/thumb/e44d87b078eaa68e1d9ec7648abf315b-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-12381">
 <display-name>Real Oviedo vs. RCD Espanyol de Barcelona</display-name>
 </channel>
@@ -283,50 +239,6 @@ channel="ppv-12503"
 </audio>
 <category>Ice Hockey</category>
 <icon src="https://ppvs.su/assets/thumb/0ae9be0dca651f9b67f0bf63b29be3a2-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12500">
-<display-name>Ottawa Senators vs. Buffalo Sabres</display-name>
-</channel>
-<programme
-start="20251015230000 +0000"
-stop="20251016020000 +0000"
-channel="ppv-12500"
->
-<title lang="en">Ottawa Senators vs. Buffalo Sabres</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://ppvs.su/assets/thumb/cbe73c362f1f5e36927b62798214d8e8-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12501">
-<display-name>Florida Panthers vs. Detroit Red Wings</display-name>
-</channel>
-<programme
-start="20251015230000 +0000"
-stop="20251016020000 +0000"
-channel="ppv-12501"
->
-<title lang="en">Florida Panthers vs. Detroit Red Wings</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://ppvs.su/assets/thumb/81870707ba8430c80110b94e289c0b76-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-12414">
