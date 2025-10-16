@@ -19,6 +19,10 @@
 
 #EXTINF:-1 tvg-id="ppv-12509" tvg-name="Wizards at Pistons (16 October 2025 at 23:00)" tvg-epgid="12509" tvg-logo="https://ppvs.su/assets/thumb/eb447dc0e96f0f851c8b4a8755f769ca-thumbnail.jpg",Wizards at Pistons (16 October 2025 at 23:00)
 
+#EXTINF:-1 tvg-id="ppv-12371" tvg-name="Lecce vs. Sassuolo (18 October 2025 at 13:00)" tvg-epgid="12371" tvg-logo="https://ppvs.su/assets/thumb/07486bea8990b3ed616389d05bcd547c-thumbnail.jpg",Lecce vs. Sassuolo (18 October 2025 at 13:00)
+
+#EXTINF:-1 tvg-id="ppv-12372" tvg-name="Pisa vs. Hellas Verona (18 October 2025 at 13:00)" tvg-epgid="12372" tvg-logo="https://ppvs.su/assets/thumb/04f3e89db4d710ea557548e2ff22fb95-thumbnail.jpg",Pisa vs. Hellas Verona (18 October 2025 at 13:00)
+
 #EXTINF:-1 tvg-id="ppv-12382" tvg-name="Sevilla FC vs. RCD Mallorca (18 October 2025 at 12:00)" tvg-epgid="12382" tvg-logo="https://ppvs.su/assets/thumb/9a4f793e45a9ef0b3c7dac84bbef8b29-thumbnail.jpg",Sevilla FC vs. RCD Mallorca (18 October 2025 at 12:00)
 
 #EXTINF:-1 tvg-id="ppv-12359" tvg-name="Nottingham Forest vs. Chelsea (18 October 2025 at 11:30)" tvg-epgid="12359" tvg-logo="https://ppvs.su/assets/thumb/c3e2036e534cebd600d025afddfeccc0-thumbnail.jpg",Nottingham Forest vs. Chelsea (18 October 2025 at 11:30)
