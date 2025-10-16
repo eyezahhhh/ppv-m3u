@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ppv-12464" tvg-name="Nebraska Cornhuskers vs. Minnesota Golden Gophers (18 October 2025 at 00:00)" tvg-epgid="12464" tvg-logo="https://ppvs.su/assets/thumb/356fe891553390ebee1b34d1527a9ad5-thumbnail.jpg",Nebraska Cornhuskers vs. Minnesota Golden Gophers (18 October 2025 at 00:00)
+
 #EXTINF:-1 tvg-id="ppv-12463" tvg-name="Louisville Cardinals vs. Miami Hurricanes (17 October 2025 at 23:00)" tvg-epgid="12463" tvg-logo="https://ppvs.su/assets/thumb/599eeffc5b6f147ad58821354cb16c5b-thumbnail.jpg",Louisville Cardinals vs. Miami Hurricanes (17 October 2025 at 23:00)
 
 #EXTINF:-1 tvg-id="ppv-12448" tvg-name="Pittsburgh Steelers vs. Cincinnati Bengals (17 October 2025 at 00:15)" tvg-epgid="12448" tvg-logo="https://ppvs.su/assets/thumb/405b9413ae607f8fd2123f9c3a0cbb90-thumbnail.jpg",Pittsburgh Steelers vs. Cincinnati Bengals (17 October 2025 at 00:15)
@@ -20,13 +22,15 @@
 #EXTINF:-1 tvg-id="ppv-12391" tvg-name="Union Berlin vs. Gladbach (17 October 2025 at 18:30)" tvg-epgid="12391" tvg-logo="https://ppvs.su/assets/thumb/0aafb16f4f6aed212c8c105dc254f081-thumbnail.jpg",Union Berlin vs. Gladbach (17 October 2025 at 18:30)
 
 #EXTINF:-1 tvg-id="ppv-12502" tvg-name="Chicago Blackhawks vs. St. Louis Blues (16 October 2025 at 01:30)" tvg-epgid="12502" tvg-logo="https://ppvs.su/assets/thumb/8eed82a8aa4c347b2b34f770c9596bfa-thumbnail.jpg",Chicago Blackhawks vs. St. Louis Blues (16 October 2025 at 01:30)
-https://gg.poocloud.in/stlouisblues/index.m3u8?md5=IUF17Usa98OADLjVI7QNBg&expires=1760591700&net=MTcyLjE4Mi4xOTUuMTI4
+https://gg.poocloud.in/stlouisblues/index.m3u8?md5=IUF17Usa98OADLjVI7QNBg&expires=1760591700&net=NTIuMjI1LjczLjE2MA%3D%3D
 #EXTINF:-1 tvg-id="ppv-12503" tvg-name="Calgary Flames vs. Utah Mammoth (16 October 2025 at 01:30)" tvg-epgid="12503" tvg-logo="https://ppvs.su/assets/thumb/0ae9be0dca651f9b67f0bf63b29be3a2-thumbnail.jpg",Calgary Flames vs. Utah Mammoth (16 October 2025 at 01:30)
-https://gg.poocloud.in/utahmammoth/index.m3u8?md5=IUF17Usa98OADLjVI7QNBg&expires=1760591700&net=MTcyLjE4Mi4xOTUuMTI4
+https://gg.poocloud.in/utahmammoth/index.m3u8?md5=IUF17Usa98OADLjVI7QNBg&expires=1760591700&net=NTIuMjI1LjczLjE2MA%3D%3D
 #EXTINF:-1 tvg-id="ppv-12500" tvg-name="Ottawa Senators vs. Buffalo Sabres (15 October 2025 at 23:00)" tvg-epgid="12500" tvg-logo="https://ppvs.su/assets/thumb/cbe73c362f1f5e36927b62798214d8e8-thumbnail.jpg",Ottawa Senators vs. Buffalo Sabres (15 October 2025 at 23:00)
-https://gg.poocloud.in/buffalosabres/index.m3u8?md5=kIlZXgvkW9V6OxSfGlci9g&expires=1760582700&net=MTcyLjE4Mi4xOTUuMTI4
+https://gg.poocloud.in/buffalosabres/index.m3u8?md5=kIlZXgvkW9V6OxSfGlci9g&expires=1760582700&net=NTIuMjI1LjczLjE2MA%3D%3D
 #EXTINF:-1 tvg-id="ppv-12501" tvg-name="Florida Panthers vs. Detroit Red Wings (15 October 2025 at 23:00)" tvg-epgid="12501" tvg-logo="https://ppvs.su/assets/thumb/81870707ba8430c80110b94e289c0b76-thumbnail.jpg",Florida Panthers vs. Detroit Red Wings (15 October 2025 at 23:00)
-https://gg.poocloud.in/detroitredwings/index.m3u8?md5=kIlZXgvkW9V6OxSfGlci9g&expires=1760582700&net=MTcyLjE4Mi4xOTUuMTI4
+https://gg.poocloud.in/detroitredwings/index.m3u8?md5=kIlZXgvkW9V6OxSfGlci9g&expires=1760582700&net=NTIuMjI1LjczLjE2MA%3D%3D
+#EXTINF:-1 tvg-id="ppv-12414" tvg-name="WWE: Friday Night Smackdown (18 October 2025 at 00:00)" tvg-epgid="12414" tvg-logo="https://ppvs.su/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg",WWE: Friday Night Smackdown (18 October 2025 at 00:00)
+
 #EXTINF:-1 tvg-id="ppv-12413" tvg-name="TNA: Impact (17 October 2025 at 00:00)" tvg-epgid="12413" tvg-logo="https://ppvs.su/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg",TNA: Impact (17 October 2025 at 00:00)
 
 #EXTINF:-1 tvg-id="ppv-12412" tvg-name="AEW: Wednesday Night Dynamite (16 October 2025 at 00:00)" tvg-epgid="12412" tvg-logo="https://ppvs.su/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg",AEW: Wednesday Night Dynamite (16 October 2025 at 00:00)
