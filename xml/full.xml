@@ -109,28 +109,6 @@ channel="ppv-12504"
 <icon src="https://ppvs.su/assets/thumb/2bec165d39929804a6e85582c734e287-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-12484">
-<display-name>Mavericks at Lakers</display-name>
-</channel>
-<programme
-start="20251016023000 +0000"
-stop="20251016051500 +0000"
-channel="ppv-12484"
->
-<title lang="en">Mavericks at Lakers</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://ppvs.su/assets/thumb/4dc135e1a9eb8e46505e660dd018274f-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-12381">
 <display-name>Real Oviedo vs. RCD Espanyol de Barcelona</display-name>
 </channel>
