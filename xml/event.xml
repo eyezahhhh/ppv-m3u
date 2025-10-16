@@ -1,4 +1,48 @@
 <tv>
+<channel id="ppv-12474">
+<display-name>Oregon Ducks vs. Rutgers Scarlet Knights</display-name>
+</channel>
+<programme
+start="20251018223000 +0000"
+stop="20251019020000 +0000"
+channel="ppv-12474"
+>
+<title lang="en">Oregon Ducks vs. Rutgers Scarlet Knights</title>
+<sub-title>American Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>American Football</category>
+<icon src="https://ppvs.su/assets/thumb/ac612105f2d135636ae6af42fb396d12-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12475">
+<display-name>Washington State Cougars vs. Virginia Cavaliers</display-name>
+</channel>
+<programme
+start="20251018223000 +0000"
+stop="20251019020000 +0000"
+channel="ppv-12475"
+>
+<title lang="en">Washington State Cougars vs. Virginia Cavaliers</title>
+<sub-title>American Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>American Football</category>
+<icon src="https://ppvs.su/assets/thumb/d72f0aca94e53dc921a83132059ecd78-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-12472">
 <display-name>Texas Tech Red Raiders vs. Arizona State Sun Devils</display-name>
 </channel>
