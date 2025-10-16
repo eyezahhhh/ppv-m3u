@@ -65,6 +65,50 @@ channel="ppv-12448"
 <icon src="https://ppvs.su/assets/thumb/405b9413ae607f8fd2123f9c3a0cbb90-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-12505">
+<display-name>Toronto Blue Jays vs. Seattle Mariners</display-name>
+</channel>
+<programme
+start="20251017003300 +0000"
+stop="20251017033300 +0000"
+channel="ppv-12505"
+>
+<title lang="en">Toronto Blue Jays vs. Seattle Mariners</title>
+<sub-title>Baseball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Baseball</category>
+<icon src="https://ppvs.su/assets/thumb/43ec8e43775a3fa2c999c6d9c78b0a39-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12504">
+<display-name>Milwaukee Brewers vs. Los Angeles Dodgers</display-name>
+</channel>
+<programme
+start="20251016220800 +0000"
+stop="20251017010800 +0000"
+channel="ppv-12504"
+>
+<title lang="en">Milwaukee Brewers vs. Los Angeles Dodgers</title>
+<sub-title>Baseball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Baseball</category>
+<icon src="https://ppvs.su/assets/thumb/2bec165d39929804a6e85582c734e287-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-12484">
 <display-name>Mavericks at Lakers</display-name>
 </channel>
