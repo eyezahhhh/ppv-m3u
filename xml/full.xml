@@ -1,4 +1,70 @@
 <tv>
+<channel id="ppv-12477">
+<display-name>Tennessee Volunteers vs. Alabama Crimson Tide</display-name>
+</channel>
+<programme
+start="20251018233000 +0000"
+stop="20251019030000 +0000"
+channel="ppv-12477"
+>
+<title lang="en">Tennessee Volunteers vs. Alabama Crimson Tide</title>
+<sub-title>American Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>American Football</category>
+<icon src="https://ppvs.su/assets/thumb/90452ac3da62cfdbb84ef049dd5b99fe-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12478">
+<display-name>USC Trojans vs. Notre Dame Fighting Irish</display-name>
+</channel>
+<programme
+start="20251018233000 +0000"
+stop="20251019030000 +0000"
+channel="ppv-12478"
+>
+<title lang="en">USC Trojans vs. Notre Dame Fighting Irish</title>
+<sub-title>American Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>American Football</category>
+<icon src="https://ppvs.su/assets/thumb/3bdd91e9e9e8e9f24990915ef7b176f4-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12479">
+<display-name>Florida Atlantic Owls vs. South Florida Bulls</display-name>
+</channel>
+<programme
+start="20251018233000 +0000"
+stop="20251019030000 +0000"
+channel="ppv-12479"
+>
+<title lang="en">Florida Atlantic Owls vs. South Florida Bulls</title>
+<sub-title>American Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>American Football</category>
+<icon src="https://ppvs.su/assets/thumb/66cf32c94559a01dab413e190176b9be-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-12476">
 <display-name>Texas Longhorns vs. Kentucky Wildcats</display-name>
 </channel>
