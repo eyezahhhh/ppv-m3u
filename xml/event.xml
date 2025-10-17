@@ -708,7 +708,7 @@ channel="ppv-12495"
 </channel>
 <programme
 start="20251019110000 +0000"
-stop="20251019160000 +0000"
+stop="20251019143000 +0000"
 channel="ppv-12515"
 >
 <title lang="en">PDC: German Darts Championship (Day 3 Afternoon)</title>
@@ -730,7 +730,7 @@ channel="ppv-12515"
 </channel>
 <programme
 start="20251018170000 +0000"
-stop="20251018220000 +0000"
+stop="20251018203000 +0000"
 channel="ppv-12514"
 >
 <title lang="en">PDC: German Darts Championship (Day 2 Evening)</title>
@@ -752,7 +752,7 @@ channel="ppv-12514"
 </channel>
 <programme
 start="20251018110000 +0000"
-stop="20251018160000 +0000"
+stop="20251018143000 +0000"
 channel="ppv-12513"
 >
 <title lang="en">PDC: German Darts Championship (Day 2 Afternoon)</title>
@@ -774,7 +774,7 @@ channel="ppv-12513"
 </channel>
 <programme
 start="20251017170000 +0000"
-stop="20251017220000 +0000"
+stop="20251017203000 +0000"
 channel="ppv-12512"
 >
 <title lang="en">PDC: German Darts Championship (Day 1 Evening)</title>
@@ -791,16 +791,16 @@ channel="ppv-12512"
 <icon src="https://ppvs.su/assets/thumb/dbf53ef10711755e5c50bb8bf056a95e-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-12511">
-<display-name>PDC: German Darts Championship (Day 1 Afternoon)</display-name>
+<channel id="ppv-12357">
+<display-name>Liverpool vs. Manchester United</display-name>
 </channel>
 <programme
-start="20251017110000 +0000"
-stop="20251017160000 +0000"
-channel="ppv-12511"
+start="20251019153000 +0000"
+stop="20251019183000 +0000"
+channel="ppv-12357"
 >
-<title lang="en">PDC: German Darts Championship (Day 1 Afternoon)</title>
-<sub-title>Darts</sub-title>
+<title lang="en">Liverpool vs. Manchester United</title>
+<sub-title>Football</sub-title>
 <video>
 <present>yes</present>
 <colour>yes</colour>
@@ -809,8 +809,96 @@ channel="ppv-12511"
 <present>yes</present>
 <stereo>stereo</stereo>
 </audio>
-<category>Darts</category>
-<icon src="https://ppvs.su/assets/thumb/dbf53ef10711755e5c50bb8bf056a95e-thumbnail.jpg" />
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/ab9d39c5df38a06bd0595bcf01c3cfca-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12399">
+<display-name>St. Pauli vs. Hoffenheim</display-name>
+</channel>
+<programme
+start="20251019153000 +0000"
+stop="20251019183000 +0000"
+channel="ppv-12399"
+>
+<title lang="en">St. Pauli vs. Hoffenheim</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/37121b2a483035f751949bc48d6987b6-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12366">
+<display-name>FC Lorient vs. Brest</display-name>
+</channel>
+<programme
+start="20251019151500 +0000"
+stop="20251019181500 +0000"
+channel="ppv-12366"
+>
+<title lang="en">FC Lorient vs. Brest</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/646489fc64479c977c02955517ce4fb0-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12368">
+<display-name>Rennes vs. AJ Auxerre</display-name>
+</channel>
+<programme
+start="20251019151500 +0000"
+stop="20251019181500 +0000"
+channel="ppv-12368"
+>
+<title lang="en">Rennes vs. AJ Auxerre</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/8710eabaf8b01909df9247c397f1cc51-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12369">
+<display-name>Toulouse FC vs. FC Metz</display-name>
+</channel>
+<programme
+start="20251019151500 +0000"
+stop="20251019181500 +0000"
+channel="ppv-12369"
+>
+<title lang="en">Toulouse FC vs. FC Metz</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/b160610a37287bf8dd15e0c1412c80a5-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-12387">
