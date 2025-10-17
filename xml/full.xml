@@ -945,6 +945,72 @@ channel="ppv-12512"
 <icon src="https://ppvs.su/assets/thumb/dbf53ef10711755e5c50bb8bf056a95e-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-12389">
+<display-name>Getafe CF vs. Real Madrid</display-name>
+</channel>
+<programme
+start="20251019190000 +0000"
+stop="20251019220000 +0000"
+channel="ppv-12389"
+>
+<title lang="en">Getafe CF vs. Real Madrid</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/32bc1f8ee6d16ee7c6ed334a81859278-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12367">
+<display-name>FC Nantes vs. LOSC</display-name>
+</channel>
+<programme
+start="20251019184500 +0000"
+stop="20251019214500 +0000"
+channel="ppv-12367"
+>
+<title lang="en">FC Nantes vs. LOSC</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/c8426e8143fe54205b2e7f388c7074d9-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12379">
+<display-name>Milan vs. Fiorentina</display-name>
+</channel>
+<programme
+start="20251019184500 +0000"
+stop="20251019214500 +0000"
+channel="ppv-12379"
+>
+<title lang="en">Milan vs. Fiorentina</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/50ef7e2198b26f7b1e7b99373c3bd73c-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-12388">
 <display-name>Levante UD vs. Rayo Vallecano</display-name>
 </channel>
@@ -1955,6 +2021,28 @@ channel="ppv-12545"
 </audio>
 <category>Ice Hockey</category>
 <icon src="https://ppvs.su/assets/thumb/6946a036d26ff016c64c1994b788fd92-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12533">
+<display-name>United States Grand Prix (Race)</display-name>
+</channel>
+<programme
+start="20251019190000 +0000"
+stop="20251019230000 +0000"
+channel="ppv-12533"
+>
+<title lang="en">United States Grand Prix (Race)</title>
+<sub-title>Motorsports</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Motorsports</category>
+<icon src="https://ppvs.su/assets/thumb/9ed2047489f94432495c480d9f171f79-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-12532">
