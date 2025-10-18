@@ -571,28 +571,6 @@ channel="ppv-12471"
 <icon src="https://ppvs.su/assets/thumb/9bbc1889d836b57258f9d64d7d254b38-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-12467">
-<display-name>Oklahoma Sooners vs. South Carolina Gamecocks</display-name>
-</channel>
-<programme
-start="20251018164500 +0000"
-stop="20251018201500 +0000"
-channel="ppv-12467"
->
-<title lang="en">Oklahoma Sooners vs. South Carolina Gamecocks</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://ppvs.su/assets/thumb/508b5f9a364c0635db87bb8124b158f6-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-12495">
 <display-name>UFC Fight Night: De Ridder vs. Allen</display-name>
 </channel>
@@ -712,28 +690,6 @@ stop="20251019143000 +0000"
 channel="ppv-12515"
 >
 <title lang="en">PDC: German Darts Championship (Day 3 Afternoon)</title>
-<sub-title>Darts</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Darts</category>
-<icon src="https://ppvs.su/assets/thumb/dbf53ef10711755e5c50bb8bf056a95e-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12514">
-<display-name>PDC: German Darts Championship (Day 2 Evening)</display-name>
-</channel>
-<programme
-start="20251018170000 +0000"
-stop="20251018203000 +0000"
-channel="ppv-12514"
->
-<title lang="en">PDC: German Darts Championship (Day 2 Evening)</title>
 <sub-title>Darts</sub-title>
 <video>
 <present>yes</present>
