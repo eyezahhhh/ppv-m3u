@@ -791,6 +791,50 @@ channel="ppv-12514"
 <icon src="https://ppvs.su/assets/thumb/dbf53ef10711755e5c50bb8bf056a95e-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-12390">
+<display-name>Deportivo Alavés vs. Valencia CF</display-name>
+</channel>
+<programme
+start="20251020190000 +0000"
+stop="20251020220000 +0000"
+channel="ppv-12390"
+>
+<title lang="en">Deportivo Alavés vs. Valencia CF</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/90d75b9ac2637a4496d9878ca1172ac2-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12380">
+<display-name>Cremonese vs. Udinese</display-name>
+</channel>
+<programme
+start="20251020184500 +0000"
+stop="20251020214500 +0000"
+channel="ppv-12380"
+>
+<title lang="en">Cremonese vs. Udinese</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/97d3db09fcd2489c8dc0648b0a0b68fd-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-12389">
 <display-name>Getafe CF vs. Real Madrid</display-name>
 </channel>
@@ -1341,28 +1385,6 @@ channel="ppv-12397"
 <icon src="https://ppvs.su/assets/thumb/2ba224951b4a6918cd6c94738df3c287-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-12373">
-<display-name>Torino vs. Napoli</display-name>
-</channel>
-<programme
-start="20251018160000 +0000"
-stop="20251018190000 +0000"
-channel="ppv-12373"
->
-<title lang="en">Torino vs. Napoli</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/a3113f5f8e70b91e0ea1a8150b48854d-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-12563">
 <display-name>Calgary Flames vs. Vegas Golden Knights</display-name>
 </channel>
@@ -1680,28 +1702,6 @@ stop="20251019000000 +0000"
 channel="ppv-12532"
 >
 <title lang="en">United States Grand Prix (Qualifying)</title>
-<sub-title>Motorsports</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Motorsports</category>
-<icon src="https://ppvs.su/assets/thumb/9ed2047489f94432495c480d9f171f79-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12531">
-<display-name>United States Grand Prix (Sprint)</display-name>
-</channel>
-<programme
-start="20251018170000 +0000"
-stop="20251018190000 +0000"
-channel="ppv-12531"
->
-<title lang="en">United States Grand Prix (Sprint)</title>
 <sub-title>Motorsports</sub-title>
 <video>
 <present>yes</present>
