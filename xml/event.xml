@@ -659,50 +659,6 @@ channel="ppv-12466"
 <icon src="https://ppvs.su/assets/thumb/5a73568212d1596ad5f397d269608410-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-12464">
-<display-name>Nebraska Cornhuskers vs. Minnesota Golden Gophers</display-name>
-</channel>
-<programme
-start="20251018000000 +0000"
-stop="20251018033000 +0000"
-channel="ppv-12464"
->
-<title lang="en">Nebraska Cornhuskers vs. Minnesota Golden Gophers</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://ppvs.su/assets/thumb/356fe891553390ebee1b34d1527a9ad5-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12535">
-<display-name>Milwaukee Brewers vs. Los Angeles Dodgers</display-name>
-</channel>
-<programme
-start="20251018003800 +0000"
-stop="20251018033800 +0000"
-channel="ppv-12535"
->
-<title lang="en">Milwaukee Brewers vs. Los Angeles Dodgers</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/2bec165d39929804a6e85582c734e287-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-12537">
 <display-name>Kings at Lakers</display-name>
 </channel>
@@ -1801,28 +1757,6 @@ channel="ppv-12547"
 </audio>
 <category>Ice Hockey</category>
 <icon src="https://ppvs.su/assets/thumb/d39047c28b3cd74e8607b2bf99896d90-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12546">
-<display-name>Vancouver Canucks vs. Chicago Blackhawks</display-name>
-</channel>
-<programme
-start="20251018003000 +0000"
-stop="20251018033000 +0000"
-channel="ppv-12546"
->
-<title lang="en">Vancouver Canucks vs. Chicago Blackhawks</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://ppvs.su/assets/thumb/8be1530843e88f8e1b55ec70a042e10a-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-12533">
