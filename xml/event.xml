@@ -593,72 +593,6 @@ channel="ppv-12495"
 <icon src="https://ppvs.su/assets/thumb/0f4410b2814a69aee940e182df655dc5-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-12549">
-<display-name>OKTAGON 78 (English)</display-name>
-</channel>
-<programme
-start="20251018160000 +0000"
-stop="20251018220000 +0000"
-channel="ppv-12549"
->
-<title lang="en">OKTAGON 78 (English)</title>
-<sub-title>Combat Sports</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Combat Sports</category>
-<icon src="https://ppvs.su/assets/thumb/4c90ee692f6af12528989b3d6a9b7435-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12550">
-<display-name>OKTAGON 78 (German)</display-name>
-</channel>
-<programme
-start="20251018160000 +0000"
-stop="20251018220000 +0000"
-channel="ppv-12550"
->
-<title lang="en">OKTAGON 78 (German)</title>
-<sub-title>Combat Sports</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Combat Sports</category>
-<icon src="https://ppvs.su/assets/thumb/4c90ee692f6af12528989b3d6a9b7435-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12551">
-<display-name>OKTAGON 78 (Czech)</display-name>
-</channel>
-<programme
-start="20251018160000 +0000"
-stop="20251018220000 +0000"
-channel="ppv-12551"
->
-<title lang="en">OKTAGON 78 (Czech)</title>
-<sub-title>Combat Sports</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Combat Sports</category>
-<icon src="https://ppvs.su/assets/thumb/4c90ee692f6af12528989b3d6a9b7435-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-12516">
 <display-name>PDC: German Darts Championship (Day 3 Evening)</display-name>
 </channel>
@@ -1165,50 +1099,6 @@ channel="ppv-12363"
 <icon src="https://ppvs.su/assets/thumb/3190379ceaed7b3145d894b2076ab832-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-12385">
-<display-name>Atlético de Madrid vs. CA Osasuna</display-name>
-</channel>
-<programme
-start="20251018190000 +0000"
-stop="20251018220000 +0000"
-channel="ppv-12385"
->
-<title lang="en">Atlético de Madrid vs. CA Osasuna</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/5d57f352d862fff210da016b8f54613e-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12374">
-<display-name>Roma vs. Inter</display-name>
-</channel>
-<programme
-start="20251018184500 +0000"
-stop="20251018214500 +0000"
-channel="ppv-12374"
->
-<title lang="en">Roma vs. Inter</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/26876262c6ae0694b7cb69f72362932b-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-12563">
 <display-name>Calgary Flames vs. Vegas Golden Knights</display-name>
 </channel>
@@ -1449,28 +1339,6 @@ channel="ppv-12554"
 </audio>
 <category>Ice Hockey</category>
 <icon src="https://ppvs.su/assets/thumb/e1a5d93e27f5807e8adc27bf9a464e9e-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12553">
-<display-name>New York Islanders vs. Ottawa Senators</display-name>
-</channel>
-<programme
-start="20251018190000 +0000"
-stop="20251018220000 +0000"
-channel="ppv-12553"
->
-<title lang="en">New York Islanders vs. Ottawa Senators</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://ppvs.su/assets/thumb/5e49c1edf96cfd444f73b0f8c495fd9e-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-12533">
