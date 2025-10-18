@@ -1253,28 +1253,6 @@ channel="ppv-12374"
 <icon src="https://ppvs.su/assets/thumb/26876262c6ae0694b7cb69f72362932b-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-12362">
-<display-name>Angers SCO vs. AS Monaco</display-name>
-</channel>
-<programme
-start="20251018170000 +0000"
-stop="20251018200000 +0000"
-channel="ppv-12362"
->
-<title lang="en">Angers SCO vs. AS Monaco</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/58ae17eda54088822eaa9892d8c56135-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-12563">
 <display-name>Calgary Flames vs. Vegas Golden Knights</display-name>
 </channel>
@@ -1539,28 +1517,6 @@ channel="ppv-12553"
 <icon src="https://ppvs.su/assets/thumb/5e49c1edf96cfd444f73b0f8c495fd9e-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-12552">
-<display-name>Florida Panthers vs. Buffalo Sabres</display-name>
-</channel>
-<programme
-start="20251018170000 +0000"
-stop="20251018200000 +0000"
-channel="ppv-12552"
->
-<title lang="en">Florida Panthers vs. Buffalo Sabres</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://ppvs.su/assets/thumb/a520ae7b31342d9bf28da56db8b7934d-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-12533">
 <display-name>United States Grand Prix (Race)</display-name>
 </channel>
@@ -1605,15 +1561,15 @@ channel="ppv-12532"
 <icon src="https://ppvs.su/assets/thumb/9ed2047489f94432495c480d9f171f79-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-12415">
-<display-name>AEW: Saturday Night Collision</display-name>
+<channel id="ppv-12565">
+<display-name>AEW: WrestleDream</display-name>
 </channel>
 <programme
 start="20251019000000 +0000"
-stop="20251019030000 +0000"
-channel="ppv-12415"
+stop="20251019040000 +0000"
+channel="ppv-12565"
 >
-<title lang="en">AEW: Saturday Night Collision</title>
+<title lang="en">AEW: WrestleDream</title>
 <sub-title>Wrestling</sub-title>
 <video>
 <present>yes</present>
@@ -1624,6 +1580,6 @@ channel="ppv-12415"
 <stereo>stereo</stereo>
 </audio>
 <category>Wrestling</category>
-<icon src="https://ppvs.su/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" />
+<icon src="https://ppvs.su/assets/thumb/079e7a79f29011e1f58ca4af8178558c-thumbnail.jpg" />
 </programme>
 </tv>
