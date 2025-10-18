@@ -681,28 +681,6 @@ channel="ppv-12464"
 <icon src="https://ppvs.su/assets/thumb/356fe891553390ebee1b34d1527a9ad5-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-12463">
-<display-name>Louisville Cardinals vs. Miami Hurricanes</display-name>
-</channel>
-<programme
-start="20251017230000 +0000"
-stop="20251018023000 +0000"
-channel="ppv-12463"
->
-<title lang="en">Louisville Cardinals vs. Miami Hurricanes</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://ppvs.su/assets/thumb/599eeffc5b6f147ad58821354cb16c5b-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-12535">
 <display-name>Milwaukee Brewers vs. Los Angeles Dodgers</display-name>
 </channel>
@@ -767,72 +745,6 @@ channel="ppv-12542"
 </audio>
 <category>Basketball</category>
 <icon src="https://ppvs.su/assets/thumb/d9b602782243eca7e2fc7b797c654aed-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12536">
-<display-name>Grizzlies at Heat</display-name>
-</channel>
-<programme
-start="20251018000000 +0000"
-stop="20251018024500 +0000"
-channel="ppv-12536"
->
-<title lang="en">Grizzlies at Heat</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://ppvs.su/assets/thumb/4721dacde0a3583a825d283a7ad35219-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12540">
-<display-name>Nuggets at Thunder</display-name>
-</channel>
-<programme
-start="20251018000000 +0000"
-stop="20251018024500 +0000"
-channel="ppv-12540"
->
-<title lang="en">Nuggets at Thunder</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://ppvs.su/assets/thumb/aafe300595b9394fdcd0c309cdbc2d9d-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12541">
-<display-name>Pacers at Spurs</display-name>
-</channel>
-<programme
-start="20251018000000 +0000"
-stop="20251018024500 +0000"
-channel="ppv-12541"
->
-<title lang="en">Pacers at Spurs</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://ppvs.su/assets/thumb/3cdf50080d543049d05c36794088123e-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-12495">
