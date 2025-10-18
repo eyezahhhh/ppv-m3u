@@ -1,4 +1,26 @@
 <tv>
+<channel id="ppv-12461">
+<display-name>Tampa Bay Buccaneers vs. Detroit Lions</display-name>
+</channel>
+<programme
+start="20251020230000 +0000"
+stop="20251021023000 +0000"
+channel="ppv-12461"
+>
+<title lang="en">Tampa Bay Buccaneers vs. Detroit Lions</title>
+<sub-title>American Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>American Football</category>
+<icon src="https://ppvs.su/assets/thumb/f9d7ef3f23f6d251ad6f208a283932ac-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-12460">
 <display-name>Atlanta Falcons vs. San Francisco 49ers</display-name>
 </channel>
@@ -481,94 +503,6 @@ channel="ppv-12473"
 </audio>
 <category>American Football</category>
 <icon src="https://ppvs.su/assets/thumb/2fc6fdb97cd89e5a6eaafab95aa0d9a2-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12468">
-<display-name>Ohio State Buckeyes vs. Wisconsin Badgers</display-name>
-</channel>
-<programme
-start="20251018193000 +0000"
-stop="20251018230000 +0000"
-channel="ppv-12468"
->
-<title lang="en">Ohio State Buckeyes vs. Wisconsin Badgers</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://ppvs.su/assets/thumb/943ebb6e49a62bb817fa6f507f0ddc29-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12469">
-<display-name>Michigan State Spartans vs. Indiana Hoosiers</display-name>
-</channel>
-<programme
-start="20251018193000 +0000"
-stop="20251018230000 +0000"
-channel="ppv-12469"
->
-<title lang="en">Michigan State Spartans vs. Indiana Hoosiers</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://ppvs.su/assets/thumb/11b2bcb191099b093a5d938740920f60-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12470">
-<display-name>Texas A&amp;M Aggies vs. Arkansas Razorbacks</display-name>
-</channel>
-<programme
-start="20251018193000 +0000"
-stop="20251018230000 +0000"
-channel="ppv-12470"
->
-<title lang="en">Texas A&amp;M Aggies vs. Arkansas Razorbacks</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://ppvs.su/assets/thumb/748f0a31a70558daca1f15acf3024181-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12471">
-<display-name>Ole Miss Rebels vs. Georgia Bulldogs</display-name>
-</channel>
-<programme
-start="20251018193000 +0000"
-stop="20251018230000 +0000"
-channel="ppv-12471"
->
-<title lang="en">Ole Miss Rebels vs. Georgia Bulldogs</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://ppvs.su/assets/thumb/9bbc1889d836b57258f9d64d7d254b38-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-12495">
