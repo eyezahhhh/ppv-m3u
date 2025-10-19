@@ -615,28 +615,6 @@ channel="ppv-12369"
 <icon src="https://ppvs.su/assets/thumb/b160610a37287bf8dd15e0c1412c80a5-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-12387">
-<display-name>Celta vs. Real Sociedad</display-name>
-</channel>
-<programme
-start="20251019141500 +0000"
-stop="20251019171500 +0000"
-channel="ppv-12387"
->
-<title lang="en">Celta vs. Real Sociedad</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/42c71ddde7b0257e89873c5a3d2dc52a-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-12569">
 <display-name>Anaheim Ducks vs. Chicago Blackhawks</display-name>
 </channel>
