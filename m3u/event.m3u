@@ -15,17 +15,29 @@
 
 #EXTINF:-1 tvg-id="ppv-11090" tvg-name="NFL RedZone (19 October 2025 at 17:00)" tvg-epgid="11090" tvg-logo="https://ppvs.su/assets/thumb/9b88a03d3fe959c1b09d52194d20eaa5-thumbnail.jpg",NFL RedZone (19 October 2025 at 17:00)
 
-#EXTINF:-1 tvg-id="ppv-12451" tvg-name="Miami Dolphins vs. Cleveland Browns (19 October 2025 at 17:00)" tvg-epgid="12451" tvg-logo="https://ppvs.su/assets/thumb/6bac44b74eaf31f6fba042ffcc894e70-thumbnail.jpg",Miami Dolphins vs. Cleveland Browns (19 October 2025 at 17:00)
-
-#EXTINF:-1 tvg-id="ppv-12454" tvg-name="Philadelphia Eagles vs. Minnesota Vikings (19 October 2025 at 17:00)" tvg-epgid="12454" tvg-logo="https://ppvs.su/assets/thumb/847b0cd440680a5ae5872382c4b6c013-thumbnail.jpg",Philadelphia Eagles vs. Minnesota Vikings (19 October 2025 at 17:00)
-
-#EXTINF:-1 tvg-id="ppv-12455" tvg-name="Carolina Panthers vs. New York Jets (19 October 2025 at 17:00)" tvg-epgid="12455" tvg-logo="https://ppvs.su/assets/thumb/9526ed15a6be385ba852847d38a5db1a-thumbnail.jpg",Carolina Panthers vs. New York Jets (19 October 2025 at 17:00)
-
 #EXTINF:-1 tvg-id="ppv-12566" tvg-name="Seattle Mariners vs. Toronto Blue Jays (20 October 2025 at 00:03)" tvg-epgid="12566" tvg-logo="https://ppvs.su/assets/thumb/dde154fba2e1dc8869d95d942b84afd3-thumbnail.jpg",Seattle Mariners vs. Toronto Blue Jays (20 October 2025 at 00:03)
 
-#EXTINF:-1 tvg-id="ppv-12516" tvg-name="PDC: German Darts Championship (Day 3 Evening) (19 October 2025 at 17:00)" tvg-epgid="12516" tvg-logo="https://ppvs.su/assets/thumb/dbf53ef10711755e5c50bb8bf056a95e-thumbnail.jpg",PDC: German Darts Championship (Day 3 Evening) (19 October 2025 at 17:00)
-https://gg.poocloud.in/darts/index.m3u8?md5=hdgC_p2ew-LFnqr0znVx1Q&expires=1760908500&net=NTIuMTU5LjI0Ny4yMjg%3D
+#EXTINF:-1 tvg-id="ppv-12587" tvg-name="Arsenal vs. Atleti (21 October 2025 at 19:00)" tvg-epgid="12587" tvg-logo="https://ppvs.su/assets/thumb/31c94002a4bb00343187ffc985b7155a-thumbnail.jpg",Arsenal vs. Atleti (21 October 2025 at 19:00)
+
+#EXTINF:-1 tvg-id="ppv-12588" tvg-name="Leverkusen vs. Paris (21 October 2025 at 19:00)" tvg-epgid="12588" tvg-logo="https://ppvs.su/assets/thumb/a7863fd41e0d0c0ba3c7ddcc2b1f08f4-thumbnail.jpg",Leverkusen vs. Paris (21 October 2025 at 19:00)
+
+#EXTINF:-1 tvg-id="ppv-12589" tvg-name="Villarreal vs. Man City (21 October 2025 at 19:00)" tvg-epgid="12589" tvg-logo="https://ppvs.su/assets/thumb/952234f3ad82e5bfb07ec5b8edd55925-thumbnail.jpg",Villarreal vs. Man City (21 October 2025 at 19:00)
+
+#EXTINF:-1 tvg-id="ppv-12590" tvg-name="PSV vs. Napoli (21 October 2025 at 19:00)" tvg-epgid="12590" tvg-logo="https://ppvs.su/assets/thumb/776705def4f5e1d6fa127b3bcd6463d8-thumbnail.jpg",PSV vs. Napoli (21 October 2025 at 19:00)
+
+#EXTINF:-1 tvg-id="ppv-12591" tvg-name="Copenhagen vs. B. Dortmund (21 October 2025 at 19:00)" tvg-epgid="12591" tvg-logo="https://ppvs.su/assets/thumb/6958cf86d5be5e5fa21dbc12c302b933-thumbnail.jpg",Copenhagen vs. B. Dortmund (21 October 2025 at 19:00)
+
+#EXTINF:-1 tvg-id="ppv-12592" tvg-name="Union SG vs. Inter (21 October 2025 at 19:00)" tvg-epgid="12592" tvg-logo="https://ppvs.su/assets/thumb/a1441bc27e8c28e6eb5255ac91adbf51-thumbnail.jpg",Union SG vs. Inter (21 October 2025 at 19:00)
+
+#EXTINF:-1 tvg-id="ppv-12593" tvg-name="Newcastle vs. Benfica (21 October 2025 at 19:00)" tvg-epgid="12593" tvg-logo="https://ppvs.su/assets/thumb/1064663bcbc06b6c2c57b0721f8876d2-thumbnail.jpg",Newcastle vs. Benfica (21 October 2025 at 19:00)
+
+#EXTINF:-1 tvg-id="ppv-12585" tvg-name="Barcelona vs. Olympiacos (21 October 2025 at 16:45)" tvg-epgid="12585" tvg-logo="https://ppvs.su/assets/thumb/a94438736f863162b819807b25264ebc-thumbnail.jpg",Barcelona vs. Olympiacos (21 October 2025 at 16:45)
+
+#EXTINF:-1 tvg-id="ppv-12586" tvg-name="Kairat Almaty vs. Pafos (21 October 2025 at 16:45)" tvg-epgid="12586" tvg-logo="https://ppvs.su/assets/thumb/d72e50b7a85b8841d40d5a7a52780df6-thumbnail.jpg",Kairat Almaty vs. Pafos (21 October 2025 at 16:45)
+
 #EXTINF:-1 tvg-id="ppv-12390" tvg-name="Deportivo Alavés vs. Valencia CF (20 October 2025 at 19:00)" tvg-epgid="12390" tvg-logo="https://ppvs.su/assets/thumb/90d75b9ac2637a4496d9878ca1172ac2-thumbnail.jpg",Deportivo Alavés vs. Valencia CF (20 October 2025 at 19:00)
+
+#EXTINF:-1 tvg-id="ppv-12574" tvg-name="West Ham United vs. Brentford (20 October 2025 at 19:00)" tvg-epgid="12574" tvg-logo="https://ppvs.su/assets/thumb/cf838fcc32328685568c748b2794474c-thumbnail.jpg",West Ham United vs. Brentford (20 October 2025 at 19:00)
 
 #EXTINF:-1 tvg-id="ppv-12380" tvg-name="Cremonese vs. Udinese (20 October 2025 at 18:45)" tvg-epgid="12380" tvg-logo="https://ppvs.su/assets/thumb/97d3db09fcd2489c8dc0648b0a0b68fd-thumbnail.jpg",Cremonese vs. Udinese (20 October 2025 at 18:45)
 
@@ -36,10 +48,10 @@ https://gg.poocloud.in/darts/index.m3u8?md5=hdgC_p2ew-LFnqr0znVx1Q&expires=17609
 #EXTINF:-1 tvg-id="ppv-12379" tvg-name="Milan vs. Fiorentina (19 October 2025 at 18:45)" tvg-epgid="12379" tvg-logo="https://ppvs.su/assets/thumb/50ef7e2198b26f7b1e7b99373c3bd73c-thumbnail.jpg",Milan vs. Fiorentina (19 October 2025 at 18:45)
 
 #EXTINF:-1 tvg-id="ppv-12569" tvg-name="Anaheim Ducks vs. Chicago Blackhawks (19 October 2025 at 23:00)" tvg-epgid="12569" tvg-logo="https://ppvs.su/assets/thumb/aab8d6bb0a3c967dcc01e2d98b370b4d-thumbnail.jpg",Anaheim Ducks vs. Chicago Blackhawks (19 October 2025 at 23:00)
-https://gg.poocloud.in/chicagoblackhawks/index.m3u8?md5=rVYH0dSUVDXs2JATp4Qs-Q&expires=1760928300&net=NTIuMTU5LjI0Ny4yMjg%3D
+https://gg.poocloud.in/chicagoblackhawks/index.m3u8?md5=rVYH0dSUVDXs2JATp4Qs-Q&expires=1760928300&net=MjAuMTYxLjY5LjM1
 #EXTINF:-1 tvg-id="ppv-12570" tvg-name="Boston Bruins vs. Utah Mammoth (19 October 2025 at 23:00)" tvg-epgid="12570" tvg-logo="https://ppvs.su/assets/thumb/5b87bb3f25775897c80b9c5e1fdffc04-thumbnail.jpg",Boston Bruins vs. Utah Mammoth (19 October 2025 at 23:00)
-https://gg.poocloud.in/utahmammoth/index.m3u8?md5=rVYH0dSUVDXs2JATp4Qs-Q&expires=1760928300&net=NTIuMTU5LjI0Ny4yMjg%3D
+https://gg.poocloud.in/utahmammoth/index.m3u8?md5=rVYH0dSUVDXs2JATp4Qs-Q&expires=1760928300&net=MjAuMTYxLjY5LjM1
 #EXTINF:-1 tvg-id="ppv-12568" tvg-name="Edmonton Oilers vs. Detroit Red Wings (19 October 2025 at 19:00)" tvg-epgid="12568" tvg-logo="https://ppvs.su/assets/thumb/ebda63e43022724f06892e636bb9ac0b-thumbnail.jpg",Edmonton Oilers vs. Detroit Red Wings (19 October 2025 at 19:00)
-https://gg.poocloud.in/detroitredwings/index.m3u8?md5=TOpt0LAIGYpygMjfaJjqcA&expires=1760913900&net=NTIuMTU5LjI0Ny4yMjg%3D
+https://gg.poocloud.in/detroitredwings/index.m3u8?md5=TOpt0LAIGYpygMjfaJjqcA&expires=1760913900&net=MjAuMTYxLjY5LjM1
 #EXTINF:-1 tvg-id="ppv-12533" tvg-name="United States Grand Prix (Race) (19 October 2025 at 19:00)" tvg-epgid="12533" tvg-logo="https://ppvs.su/assets/thumb/9ed2047489f94432495c480d9f171f79-thumbnail.jpg",United States Grand Prix (Race) (19 October 2025 at 19:00)
-https://gg.poocloud.in/f1/index.m3u8?md5=GINbH8WJtIiEFpoAvFLLIw&expires=1760917500&net=NTIuMTU5LjI0Ny4yMjg%3D
+https://gg.poocloud.in/f1/index.m3u8?md5=GINbH8WJtIiEFpoAvFLLIw&expires=1760917500&net=MjAuMTYxLjY5LjM1
