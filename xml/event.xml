@@ -813,50 +813,6 @@ channel="ppv-12375"
 <icon src="https://ppvs.su/assets/thumb/07f1fe3fea09bde4b1214523afe4393e-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-12563">
-<display-name>Calgary Flames vs. Vegas Golden Knights</display-name>
-</channel>
-<programme
-start="20251019020000 +0000"
-stop="20251019050000 +0000"
-channel="ppv-12563"
->
-<title lang="en">Calgary Flames vs. Vegas Golden Knights</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://ppvs.su/assets/thumb/a8fc370443389ec85cf29fff1717cb1f-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12564">
-<display-name>Pittsburgh Penguins vs. San Jose Sharks</display-name>
-</channel>
-<programme
-start="20251019020000 +0000"
-stop="20251019050000 +0000"
-channel="ppv-12564"
->
-<title lang="en">Pittsburgh Penguins vs. San Jose Sharks</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://ppvs.su/assets/thumb/2e18db93db83a2611ed8fd71263c8b3c-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-12533">
 <display-name>United States Grand Prix (Race)</display-name>
 </channel>
