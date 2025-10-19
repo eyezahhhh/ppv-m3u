@@ -461,72 +461,6 @@ channel="ppv-12380"
 <icon src="https://ppvs.su/assets/thumb/97d3db09fcd2489c8dc0648b0a0b68fd-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-12389">
-<display-name>Getafe CF vs. Real Madrid</display-name>
-</channel>
-<programme
-start="20251019190000 +0000"
-stop="20251019220000 +0000"
-channel="ppv-12389"
->
-<title lang="en">Getafe CF vs. Real Madrid</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/32bc1f8ee6d16ee7c6ed334a81859278-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12367">
-<display-name>FC Nantes vs. LOSC</display-name>
-</channel>
-<programme
-start="20251019184500 +0000"
-stop="20251019214500 +0000"
-channel="ppv-12367"
->
-<title lang="en">FC Nantes vs. LOSC</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/c8426e8143fe54205b2e7f388c7074d9-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12379">
-<display-name>Milan vs. Fiorentina</display-name>
-</channel>
-<programme
-start="20251019184500 +0000"
-stop="20251019214500 +0000"
-channel="ppv-12379"
->
-<title lang="en">Milan vs. Fiorentina</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/50ef7e2198b26f7b1e7b99373c3bd73c-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-12569">
 <display-name>Anaheim Ducks vs. Chicago Blackhawks</display-name>
 </channel>
@@ -569,28 +503,6 @@ channel="ppv-12570"
 </audio>
 <category>Ice Hockey</category>
 <icon src="https://ppvs.su/assets/thumb/5b87bb3f25775897c80b9c5e1fdffc04-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12568">
-<display-name>Edmonton Oilers vs. Detroit Red Wings</display-name>
-</channel>
-<programme
-start="20251019190000 +0000"
-stop="20251019220000 +0000"
-channel="ppv-12568"
->
-<title lang="en">Edmonton Oilers vs. Detroit Red Wings</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://ppvs.su/assets/thumb/ebda63e43022724f06892e636bb9ac0b-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-12533">
