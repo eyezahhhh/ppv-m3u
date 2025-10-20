@@ -263,6 +263,28 @@ channel="ppv-12595"
 <icon src="https://ppvs.su/assets/thumb/2b4719c42551cdf520e2656d77bf6e55-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-11449">
+<display-name>The Golazo Show</display-name>
+</channel>
+<programme
+start="20251021190000 +0000"
+stop="20251021223000 +0000"
+channel="ppv-11449"
+>
+<title lang="en">The Golazo Show</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/3bac1a9cd01590ac3bac714bd0663c20-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-12587">
 <display-name>Arsenal vs. Atleti</display-name>
 </channel>
@@ -459,72 +481,6 @@ channel="ppv-12586"
 </audio>
 <category>Football</category>
 <icon src="https://ppvs.su/assets/thumb/d72e50b7a85b8841d40d5a7a52780df6-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12390">
-<display-name>Deportivo Alavés vs. Valencia CF</display-name>
-</channel>
-<programme
-start="20251020190000 +0000"
-stop="20251020220000 +0000"
-channel="ppv-12390"
->
-<title lang="en">Deportivo Alavés vs. Valencia CF</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/90d75b9ac2637a4496d9878ca1172ac2-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12574">
-<display-name>West Ham United vs. Brentford</display-name>
-</channel>
-<programme
-start="20251020190000 +0000"
-stop="20251020220000 +0000"
-channel="ppv-12574"
->
-<title lang="en">West Ham United vs. Brentford</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/cf838fcc32328685568c748b2794474c-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12380">
-<display-name>Cremonese vs. Udinese</display-name>
-</channel>
-<programme
-start="20251020184500 +0000"
-stop="20251020214500 +0000"
-channel="ppv-12380"
->
-<title lang="en">Cremonese vs. Udinese</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/97d3db09fcd2489c8dc0648b0a0b68fd-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-12681">
