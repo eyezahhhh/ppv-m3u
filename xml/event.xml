@@ -1,26 +1,4 @@
 <tv>
-<channel id="ppv-12462">
-<display-name>Houston Texans vs. Seattle Seahawks</display-name>
-</channel>
-<programme
-start="20251021020000 +0000"
-stop="20251021053000 +0000"
-channel="ppv-12462"
->
-<title lang="en">Houston Texans vs. Seattle Seahawks</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://ppvs.su/assets/thumb/ae321c5614161e1634dd4f6f541ca914-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-12596">
 <display-name>Chelsea vs. Ajax</display-name>
 </channel>
