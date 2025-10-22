@@ -1275,6 +1275,72 @@ channel="ppv-12595"
 <icon src="https://ppvs.su/assets/thumb/2b4719c42551cdf520e2656d77bf6e55-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-12721">
+<display-name>Montreal Canadiens vs. Calgary Flames</display-name>
+</channel>
+<programme
+start="20251023003000 +0000"
+stop="20251023033000 +0000"
+channel="ppv-12721"
+>
+<title lang="en">Montreal Canadiens vs. Calgary Flames</title>
+<sub-title>Ice Hockey</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Ice Hockey</category>
+<icon src="https://ppvs.su/assets/thumb/4a14d59df0ef0792640b7b1eac7514fd-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12720">
+<display-name>Detroit Red Wings vs. Buffalo Sabres</display-name>
+</channel>
+<programme
+start="20251022233000 +0000"
+stop="20251023023000 +0000"
+channel="ppv-12720"
+>
+<title lang="en">Detroit Red Wings vs. Buffalo Sabres</title>
+<sub-title>Ice Hockey</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Ice Hockey</category>
+<icon src="https://ppvs.su/assets/thumb/723368bf42fb6f64479f6390f7d3ef27-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12719">
+<display-name>Minnesota Wild vs. New Jersey Devils</display-name>
+</channel>
+<programme
+start="20251022230000 +0000"
+stop="20251023020000 +0000"
+channel="ppv-12719"
+>
+<title lang="en">Minnesota Wild vs. New Jersey Devils</title>
+<sub-title>Ice Hockey</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Ice Hockey</category>
+<icon src="https://ppvs.su/assets/thumb/a186ff6cda907445487b50f6b9945593-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-12674">
 <display-name>TNA: Impact</display-name>
 </channel>
