@@ -748,14 +748,14 @@ channel="ppv-12637"
 </programme>
 
 <channel id="ppv-12638">
-<display-name>Hamrun Spartans  vs. Lausanne-Sport</display-name>
+<display-name>Hamrun Spartans vs. Lausanne-Sport</display-name>
 </channel>
 <programme
 start="20251023190000 +0000"
 stop="20251023220000 +0000"
 channel="ppv-12638"
 >
-<title lang="en">Hamrun Spartans  vs. Lausanne-Sport</title>
+<title lang="en">Hamrun Spartans vs. Lausanne-Sport</title>
 <sub-title>Football</sub-title>
 <video>
 <present>yes</present>
@@ -1163,6 +1163,28 @@ channel="ppv-12629"
 </audio>
 <category>Football</category>
 <icon src="https://ppvs.su/assets/thumb/266f844b2716a8796c43fbafdda2c190-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12737">
+<display-name>The Golazo Show</display-name>
+</channel>
+<programme
+start="20251023164400 +0000"
+stop="20251023211400 +0000"
+channel="ppv-12737"
+>
+<title lang="en">The Golazo Show</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/76d53f867f3da5d6cd6721ad1993af6f-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-12721">
