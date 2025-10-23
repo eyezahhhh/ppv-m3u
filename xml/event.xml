@@ -87,28 +87,6 @@ channel="ppv-12718"
 <icon src="https://ppvs.su/assets/thumb/297cd2c6bc5e55c7f027d4a603a6c447-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-12708">
-<display-name>San Antonio Spurs vs. Dallas Mavericks</display-name>
-</channel>
-<programme
-start="20251023013000 +0000"
-stop="20251023041800 +0000"
-channel="ppv-12708"
->
-<title lang="en">San Antonio Spurs vs. Dallas Mavericks</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://ppvs.su/assets/thumb/f1797ed13aca5c24781b7bd6bc7ca5aa-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-12581">
 <display-name>Leeds United vs. West Ham United</display-name>
 </channel>
