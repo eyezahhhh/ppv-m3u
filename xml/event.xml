@@ -43,6 +43,28 @@ channel="ppv-12738"
 <icon src="https://ppvs.su/assets/thumb/71d452eefe275c10c4bff4b95bdb0e04-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-12682">
+<display-name>UFC 321: Aspinall vs. Gane</display-name>
+</channel>
+<programme
+start="20251025140000 +0000"
+stop="20251025220000 +0000"
+channel="ppv-12682"
+>
+<title lang="en">UFC 321: Aspinall vs. Gane</title>
+<sub-title>Combat Sports</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Combat Sports</category>
+<icon src="https://ppvs.su/assets/thumb/c384809dec186ef5f60de74ca73f8d60-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-12742">
 <display-name>Machineseeker European Championship (Day 3 Afternoon)</display-name>
 </channel>
@@ -107,6 +129,50 @@ channel="ppv-12740"
 </audio>
 <category>Darts</category>
 <icon src="https://ppvs.su/assets/thumb/5bf176471a41b69c1f800304514911e6-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12579">
+<display-name>Chelsea vs. Sunderland</display-name>
+</channel>
+<programme
+start="20251025140000 +0000"
+stop="20251025170000 +0000"
+channel="ppv-12579"
+>
+<title lang="en">Chelsea vs. Sunderland</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/5edb4cfe6d8fd6e86c690207a3043cf7-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12583">
+<display-name>Newcastle United vs. Fulham</display-name>
+</channel>
+<programme
+start="20251025140000 +0000"
+stop="20251025170000 +0000"
+channel="ppv-12583"
+>
+<title lang="en">Newcastle United vs. Fulham</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/4235f1d840877cfba78ac30c5e22614f-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-12640">
