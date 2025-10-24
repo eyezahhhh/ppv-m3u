@@ -1,4 +1,48 @@
 <tv>
+<channel id="ppv-12767">
+<display-name>Dallas Cowboys vs. Denver Broncos</display-name>
+</channel>
+<programme
+start="20251026202500 +0000"
+stop="20251026235500 +0000"
+channel="ppv-12767"
+>
+<title lang="en">Dallas Cowboys vs. Denver Broncos</title>
+<sub-title>American Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>American Football</category>
+<icon src="https://ppvs.su/assets/thumb/b1f1755b7c62193a50976cbcd9dad309-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12768">
+<display-name>Tennessee Titans vs. Indianapolis Colts</display-name>
+</channel>
+<programme
+start="20251026202500 +0000"
+stop="20251026235500 +0000"
+channel="ppv-12768"
+>
+<title lang="en">Tennessee Titans vs. Indianapolis Colts</title>
+<sub-title>American Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>American Football</category>
+<icon src="https://ppvs.su/assets/thumb/7530d4c26ef36c7f841d79e7e62f6d8b-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-12766">
 <display-name>Tampa Bay Buccaneers vs. New Orleans Saints</display-name>
 </channel>
@@ -2120,28 +2164,6 @@ stop="20251025000000 +0000"
 channel="ppv-12785"
 >
 <title lang="en">Mexican Grand Prix - FP2</title>
-<sub-title>Motorsports</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Motorsports</category>
-<icon src="https://ppvs.su/assets/thumb/cf45c8e54cc4a2cdedba5287d558280f-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12784">
-<display-name>Mexican Grand Prix - FP1</display-name>
-</channel>
-<programme
-start="20251024183000 +0000"
-stop="20251024203000 +0000"
-channel="ppv-12784"
->
-<title lang="en">Mexican Grand Prix - FP1</title>
 <sub-title>Motorsports</sub-title>
 <video>
 <present>yes</present>
