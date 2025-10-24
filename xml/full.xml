@@ -1913,28 +1913,6 @@ channel="ppv-12581"
 <icon src="https://ppvs.su/assets/thumb/3a21d78721e7b79971ef9170b3c64a84-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-12697">
-<display-name>Real Sociedad vs. Sevilla FC</display-name>
-</channel>
-<programme
-start="20251024190000 +0000"
-stop="20251024213000 +0000"
-channel="ppv-12697"
->
-<title lang="en">Real Sociedad vs. Sevilla FC</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/bacbcc8abcdebbc6fad7cb7f7aada193-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-12655">
 <display-name>Paris FC vs. FC Nantes</display-name>
 </channel>
@@ -1977,28 +1955,6 @@ channel="ppv-12656"
 </audio>
 <category>Football</category>
 <icon src="https://ppvs.su/assets/thumb/6f1d52640daaa17a019a41768bed5447-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12639">
-<display-name>Bremen vs. Union Berlin</display-name>
-</channel>
-<programme
-start="20251024183000 +0000"
-stop="20251024213000 +0000"
-channel="ppv-12639"
->
-<title lang="en">Bremen vs. Union Berlin</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/4f842e62a1cbc9375a9fa0878f771b78-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-12793">
