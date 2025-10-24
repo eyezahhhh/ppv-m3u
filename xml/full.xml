@@ -285,6 +285,28 @@ channel="ppv-12776"
 <icon src="https://ppvs.su/assets/thumb/9d2b58007b40ff713ca3cd49cfc9e950-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-12789">
+<display-name>Parker vs. Wardley</display-name>
+</channel>
+<programme
+start="20251025173000 +0000"
+stop="20251025233000 +0000"
+channel="ppv-12789"
+>
+<title lang="en">Parker vs. Wardley</title>
+<sub-title>Combat Sports</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Combat Sports</category>
+<icon src="https://ppvs.su/assets/thumb/f4ad89e1a26b544536084d4db41d87c9-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-12682">
 <display-name>UFC 321: Aspinall vs. Gane</display-name>
 </channel>
@@ -921,6 +943,116 @@ channel="ppv-12639"
 </audio>
 <category>Football</category>
 <icon src="https://ppvs.su/assets/thumb/4f842e62a1cbc9375a9fa0878f771b78-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12624">
+<display-name>Rijeka vs. Sparta Praha</display-name>
+</channel>
+<programme
+start="20251024140000 +0000"
+stop="20251024161500 +0000"
+channel="ppv-12624"
+>
+<title lang="en">Rijeka vs. Sparta Praha</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/fbd7071e6c244da80d72de9b7592a42e-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12787">
+<display-name>Mexican Grand Prix - Qualifying</display-name>
+</channel>
+<programme
+start="20251025210000 +0000"
+stop="20251025230000 +0000"
+channel="ppv-12787"
+>
+<title lang="en">Mexican Grand Prix - Qualifying</title>
+<sub-title>Motorsports</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Motorsports</category>
+<icon src="https://ppvs.su/assets/thumb/cf45c8e54cc4a2cdedba5287d558280f-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12786">
+<display-name>Mexican Grand Prix - FP3</display-name>
+</channel>
+<programme
+start="20251025173000 +0000"
+stop="20251025193000 +0000"
+channel="ppv-12786"
+>
+<title lang="en">Mexican Grand Prix - FP3</title>
+<sub-title>Motorsports</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Motorsports</category>
+<icon src="https://ppvs.su/assets/thumb/cf45c8e54cc4a2cdedba5287d558280f-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12785">
+<display-name>Mexican Grand Prix - FP2</display-name>
+</channel>
+<programme
+start="20251024220000 +0000"
+stop="20251025000000 +0000"
+channel="ppv-12785"
+>
+<title lang="en">Mexican Grand Prix - FP2</title>
+<sub-title>Motorsports</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Motorsports</category>
+<icon src="https://ppvs.su/assets/thumb/cf45c8e54cc4a2cdedba5287d558280f-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12784">
+<display-name>Mexican Grand Prix - FP1</display-name>
+</channel>
+<programme
+start="20251024183000 +0000"
+stop="20251024203000 +0000"
+channel="ppv-12784"
+>
+<title lang="en">Mexican Grand Prix - FP1</title>
+<sub-title>Motorsports</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Motorsports</category>
+<icon src="https://ppvs.su/assets/thumb/cf45c8e54cc4a2cdedba5287d558280f-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-12676">
