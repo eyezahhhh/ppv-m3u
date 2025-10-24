@@ -1,4 +1,26 @@
 <tv>
+<channel id="ppv-12766">
+<display-name>Tampa Bay Buccaneers vs. New Orleans Saints</display-name>
+</channel>
+<programme
+start="20251026200500 +0000"
+stop="20251026233500 +0000"
+channel="ppv-12766"
+>
+<title lang="en">Tampa Bay Buccaneers vs. New Orleans Saints</title>
+<sub-title>American Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>American Football</category>
+<icon src="https://ppvs.su/assets/thumb/dc144485cc0cd2ed0929fe017edc5f62-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-12759">
 <display-name>Miami Dolphins vs. Atlanta Falcons</display-name>
 </channel>
@@ -1011,6 +1033,50 @@ channel="ppv-12741"
 <icon src="https://ppvs.su/assets/thumb/5bf176471a41b69c1f800304514911e6-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-12705">
+<display-name>Rayo Vallecano vs. Deportivo Alavés</display-name>
+</channel>
+<programme
+start="20251026200000 +0000"
+stop="20251026223000 +0000"
+channel="ppv-12705"
+>
+<title lang="en">Rayo Vallecano vs. Deportivo Alavés</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/652c4ffbdfc97e7f1d3f9412e548a2b0-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12665">
+<display-name>Lazio vs. Juventus</display-name>
+</channel>
+<programme
+start="20251026194500 +0000"
+stop="20251026224500 +0000"
+channel="ppv-12665"
+>
+<title lang="en">Lazio vs. Juventus</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/da4f7970e7b658c1e6ff3635a760c11e-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-12704">
 <display-name>CA Osasuna vs. Celta</display-name>
 </channel>
@@ -1977,6 +2043,28 @@ channel="ppv-12792"
 </audio>
 <category>Ice Hockey</category>
 <icon src="https://ppvs.su/assets/thumb/3394588a7076a3e7303279c084053c90-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12788">
+<display-name>Mexican Grand Prix - Race</display-name>
+</channel>
+<programme
+start="20251026200000 +0000"
+stop="20251026230000 +0000"
+channel="ppv-12788"
+>
+<title lang="en">Mexican Grand Prix - Race</title>
+<sub-title>Motorsports</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Motorsports</category>
+<icon src="https://ppvs.su/assets/thumb/cf45c8e54cc4a2cdedba5287d558280f-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-12787">
