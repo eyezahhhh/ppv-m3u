@@ -395,6 +395,138 @@ channel="ppv-12741"
 <icon src="https://ppvs.su/assets/thumb/5bf176471a41b69c1f800304514911e6-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-12575">
+<display-name>Bournemouth vs. Nottingham Forest</display-name>
+</channel>
+<programme
+start="20251026140000 +0000"
+stop="20251026170000 +0000"
+channel="ppv-12575"
+>
+<title lang="en">Bournemouth vs. Nottingham Forest</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/d0cb1754fe8f82aa58c449111a8acda6-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12576">
+<display-name>Arsenal vs. Crystal Palace</display-name>
+</channel>
+<programme
+start="20251026140000 +0000"
+stop="20251026170000 +0000"
+channel="ppv-12576"
+>
+<title lang="en">Arsenal vs. Crystal Palace</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/b0bf8233d2d2e4a65e7d3fe9a457376e-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12577">
+<display-name>Aston Villa vs. Manchester City</display-name>
+</channel>
+<programme
+start="20251026140000 +0000"
+stop="20251026170000 +0000"
+channel="ppv-12577"
+>
+<title lang="en">Aston Villa vs. Manchester City</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/0cd714627942eea49e428a0c161a4ad1-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12584">
+<display-name>Wolverhampton Wanderers vs. Burnley</display-name>
+</channel>
+<programme
+start="20251026140000 +0000"
+stop="20251026170000 +0000"
+channel="ppv-12584"
+>
+<title lang="en">Wolverhampton Wanderers vs. Burnley</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/187d77447ead4e144cf655cdd2e68d2c-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12662">
+<display-name>Hellas Verona vs. Cagliari</display-name>
+</channel>
+<programme
+start="20251026140000 +0000"
+stop="20251026170000 +0000"
+channel="ppv-12662"
+>
+<title lang="en">Hellas Verona vs. Cagliari</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/766daac4ad7021b434aea667142b273b-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12663">
+<display-name>Sassuolo vs. Roma</display-name>
+</channel>
+<programme
+start="20251026140000 +0000"
+stop="20251026170000 +0000"
+channel="ppv-12663"
+>
+<title lang="en">Sassuolo vs. Roma</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/d4f8893d877cb4ca5ab9d435973f2552-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-12702">
 <display-name>RCD Mallorca vs. Levante UD</display-name>
 </channel>
