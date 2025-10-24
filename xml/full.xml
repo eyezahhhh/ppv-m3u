@@ -395,6 +395,28 @@ channel="ppv-12741"
 <icon src="https://ppvs.su/assets/thumb/5bf176471a41b69c1f800304514911e6-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-12646">
+<display-name>Leverkusen vs. Freiburg</display-name>
+</channel>
+<programme
+start="20251026143000 +0000"
+stop="20251026173000 +0000"
+channel="ppv-12646"
+>
+<title lang="en">Leverkusen vs. Freiburg</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/73c4ce170cd7f745a2d592e62901fbd6-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-12575">
 <display-name>Bournemouth vs. Nottingham Forest</display-name>
 </channel>
