@@ -554,7 +554,7 @@ channel="ppv-12802"
 </channel>
 <programme
 start="20251025160000 +0000"
-stop="20251025193000 +0000"
+stop="20251025200000 +0000"
 channel="ppv-12794"
 >
 <title lang="en">UCLA Bruins vs. Indiana Hoosiers</title>
@@ -568,7 +568,7 @@ channel="ppv-12794"
 <stereo>stereo</stereo>
 </audio>
 <category>American Football</category>
-<icon src="https://ppvs.su/assets/thumb/1cf1f187221af4f98ddb2756e8adb102-thumbnail.jpg" />
+<icon src="https://ppvs.su/assets/thumb/e730e1818063bb2a9649ee3157e88bc1-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-12795">
