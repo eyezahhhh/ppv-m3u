@@ -71,6 +71,8 @@ https://gg.poocloud.in/darts/index.m3u8
 https://gg.poocloud.in/darts/index.m3u8
 #EXTINF:-1 tvg-id="ppv-12743" tvg-name="Machineseeker European Championship (Day 3 Evening) (25 October 2025 at 17:00)" tvg-epgid="12743" tvg-logo="https://ppvs.su/assets/thumb/5bf176471a41b69c1f800304514911e6-thumbnail.jpg",Machineseeker European Championship (Day 3 Evening) (25 October 2025 at 17:00)
 https://gg.poocloud.in/darts/index.m3u8
+#EXTINF:-1 tvg-id="ppv-12706" tvg-name="Real Betis vs. Atlético de Madrid (27 October 2025 at 20:00)" tvg-epgid="12706" tvg-logo="https://ppvs.su/assets/thumb/166d4655632f8ecc5d835a46f3144337-thumbnail.jpg",Real Betis vs. Atlético de Madrid (27 October 2025 at 20:00)
+
 #EXTINF:-1 tvg-id="ppv-12705" tvg-name="Rayo Vallecano vs. Deportivo Alavés (26 October 2025 at 20:00)" tvg-epgid="12705" tvg-logo="https://ppvs.su/assets/thumb/652c4ffbdfc97e7f1d3f9412e548a2b0-thumbnail.jpg",Rayo Vallecano vs. Deportivo Alavés (26 October 2025 at 20:00)
 
 #EXTINF:-1 tvg-id="ppv-12665" tvg-name="Lazio vs. Juventus (26 October 2025 at 19:45)" tvg-epgid="12665" tvg-logo="https://ppvs.su/assets/thumb/da4f7970e7b658c1e6ff3635a760c11e-thumbnail.jpg",Lazio vs. Juventus (26 October 2025 at 19:45)
@@ -110,8 +112,6 @@ https://gg.poocloud.in/darts/index.m3u8
 #EXTINF:-1 tvg-id="ppv-12701" tvg-name="Valencia CF vs. Villarreal CF (25 October 2025 at 19:00)" tvg-epgid="12701" tvg-logo="https://ppvs.su/assets/thumb/037a41b0b004f02491348cfa1bb0b6d1-thumbnail.jpg",Valencia CF vs. Villarreal CF (25 October 2025 at 19:00)
 
 #EXTINF:-1 tvg-id="ppv-12660" tvg-name="Cremonese vs. Atalanta (25 October 2025 at 18:45)" tvg-epgid="12660" tvg-logo="https://ppvs.su/assets/thumb/f2e6ce708e20b82b2c2f23923c0fd907-thumbnail.jpg",Cremonese vs. Atalanta (25 October 2025 at 18:45)
-
-#EXTINF:-1 tvg-id="ppv-12654" tvg-name="AS Monaco vs. Toulouse FC (25 October 2025 at 17:00)" tvg-epgid="12654" tvg-logo="https://ppvs.su/assets/thumb/1a5a204167dad53eae5187a449da3af5-thumbnail.jpg",AS Monaco vs. Toulouse FC (25 October 2025 at 17:00)
 
 #EXTINF:-1 tvg-id="ppv-12836" tvg-name="Edmonton Oilers vs. Seattle Kraken (26 October 2025 at 02:00)" tvg-epgid="12836" tvg-logo="https://ppvs.su/assets/thumb/69b70cecf1e88b5138dc541e140dcc11-thumbnail.jpg",Edmonton Oilers vs. Seattle Kraken (26 October 2025 at 02:00)
 https://gg.poocloud.in/seattlekraken/index.m3u8

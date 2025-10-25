@@ -791,6 +791,28 @@ channel="ppv-12743"
 <icon src="https://ppvs.su/assets/thumb/5bf176471a41b69c1f800304514911e6-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-12706">
+<display-name>Real Betis vs. Atlético de Madrid</display-name>
+</channel>
+<programme
+start="20251027200000 +0000"
+stop="20251027223000 +0000"
+channel="ppv-12706"
+>
+<title lang="en">Real Betis vs. Atlético de Madrid</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/166d4655632f8ecc5d835a46f3144337-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-12705">
 <display-name>Rayo Vallecano vs. Deportivo Alavés</display-name>
 </channel>
@@ -1229,28 +1251,6 @@ channel="ppv-12660"
 </audio>
 <category>Football</category>
 <icon src="https://ppvs.su/assets/thumb/f2e6ce708e20b82b2c2f23923c0fd907-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12654">
-<display-name>AS Monaco vs. Toulouse FC</display-name>
-</channel>
-<programme
-start="20251025170000 +0000"
-stop="20251025200000 +0000"
-channel="ppv-12654"
->
-<title lang="en">AS Monaco vs. Toulouse FC</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/1a5a204167dad53eae5187a449da3af5-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-12836">
