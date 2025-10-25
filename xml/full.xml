@@ -417,50 +417,6 @@ channel="ppv-12805"
 <icon src="https://ppvs.su/assets/thumb/095d0555d09a7383ae2d970a44b88ea0-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-12803">
-<display-name>Oklahoma State Cowboys vs. Texas Tech Red Raiders</display-name>
-</channel>
-<programme
-start="20251025200000 +0000"
-stop="20251025233000 +0000"
-channel="ppv-12803"
->
-<title lang="en">Oklahoma State Cowboys vs. Texas Tech Red Raiders</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://ppvs.su/assets/thumb/3bcec30ab7d6fbca3eae277744b9fce8-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12804">
-<display-name>Baylor Bears vs. Cincinnati Bearcats</display-name>
-</channel>
-<programme
-start="20251025200000 +0000"
-stop="20251025233000 +0000"
-channel="ppv-12804"
->
-<title lang="en">Baylor Bears vs. Cincinnati Bearcats</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://ppvs.su/assets/thumb/2249d4b338694b6741b2e3fc6f7e1489-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-12815">
 <display-name>Los Angeles Dodgers vs. Toronto Blue Jays</display-name>
 </channel>
@@ -593,28 +549,6 @@ channel="ppv-12816"
 <icon src="https://ppvs.su/assets/thumb/6f5e61a0bae2f6ecebf9152f30618621-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-12789">
-<display-name>Parker vs. Wardley</display-name>
-</channel>
-<programme
-start="20251025173000 +0000"
-stop="20251025233000 +0000"
-channel="ppv-12789"
->
-<title lang="en">Parker vs. Wardley</title>
-<sub-title>Combat Sports</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Combat Sports</category>
-<icon src="https://ppvs.su/assets/thumb/f4ad89e1a26b544536084d4db41d87c9-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-12745">
 <display-name>Machineseeker European Championship (Day 4 Evening)</display-name>
 </channel>
@@ -725,6 +659,28 @@ channel="ppv-12665"
 <icon src="https://ppvs.su/assets/thumb/da4f7970e7b658c1e6ff3635a760c11e-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-12840">
+<display-name>OL vs. Strasbourg</display-name>
+</channel>
+<programme
+start="20251026194500 +0000"
+stop="20251026221500 +0000"
+channel="ppv-12840"
+>
+<title lang="en">OL vs. Strasbourg</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/287df842220e849f46f530034beb1f6b-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-12704">
 <display-name>CA Osasuna vs. Celta</display-name>
 </channel>
@@ -811,6 +767,72 @@ channel="ppv-12647"
 </audio>
 <category>Football</category>
 <icon src="https://ppvs.su/assets/thumb/f9da9754f10a21e0c5e7ed7187c06185-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12837">
+<display-name>Angers SCO vs. FC Lorient</display-name>
+</channel>
+<programme
+start="20251026161500 +0000"
+stop="20251026184500 +0000"
+channel="ppv-12837"
+>
+<title lang="en">Angers SCO vs. FC Lorient</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/26033a311258865e2dc97e3eac46e6f9-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12838">
+<display-name>AJ Auxerre vs. Havre AC</display-name>
+</channel>
+<programme
+start="20251026161500 +0000"
+stop="20251026184500 +0000"
+channel="ppv-12838"
+>
+<title lang="en">AJ Auxerre vs. Havre AC</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/2896a6a0218d54fd3b5c481dabffa2cb-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12841">
+<display-name>Rennes vs. OGC Nice</display-name>
+</channel>
+<programme
+start="20251026161500 +0000"
+stop="20251026184500 +0000"
+channel="ppv-12841"
+>
+<title lang="en">Rennes vs. OGC Nice</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/11c3e43157384e83541b057fd84dd517-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-12703">
@@ -987,6 +1009,28 @@ channel="ppv-12663"
 </audio>
 <category>Football</category>
 <icon src="https://ppvs.su/assets/thumb/d4f8893d877cb4ca5ab9d435973f2552-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12839">
+<display-name>LOSC vs. FC Metz</display-name>
+</channel>
+<programme
+start="20251026140000 +0000"
+stop="20251026163000 +0000"
+channel="ppv-12839"
+>
+<title lang="en">LOSC vs. FC Metz</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/b1a3ce14756a3f29912ed3fcf0a74806-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-12702">

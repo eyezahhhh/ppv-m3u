@@ -37,10 +37,6 @@ https://gg.poocloud.in/ESPN2/index.m3u8
 
 #EXTINF:-1 tvg-id="ppv-12805" tvg-name="Texas Longhorns vs. Mississippi State Bulldogs (25 October 2025 at 20:15)" tvg-epgid="12805" tvg-logo="https://ppvs.su/assets/thumb/095d0555d09a7383ae2d970a44b88ea0-thumbnail.jpg",Texas Longhorns vs. Mississippi State Bulldogs (25 October 2025 at 20:15)
 
-#EXTINF:-1 tvg-id="ppv-12803" tvg-name="Oklahoma State Cowboys vs. Texas Tech Red Raiders (25 October 2025 at 20:00)" tvg-epgid="12803" tvg-logo="https://ppvs.su/assets/thumb/3bcec30ab7d6fbca3eae277744b9fce8-thumbnail.jpg",Oklahoma State Cowboys vs. Texas Tech Red Raiders (25 October 2025 at 20:00)
-https://gg.poocloud.in/ESPNU/index.m3u8
-#EXTINF:-1 tvg-id="ppv-12804" tvg-name="Baylor Bears vs. Cincinnati Bearcats (25 October 2025 at 20:00)" tvg-epgid="12804" tvg-logo="https://ppvs.su/assets/thumb/2249d4b338694b6741b2e3fc6f7e1489-thumbnail.jpg",Baylor Bears vs. Cincinnati Bearcats (25 October 2025 at 20:00)
-https://gg.poocloud.in/ESPN2/index.m3u8
 #EXTINF:-1 tvg-id="ppv-12815" tvg-name="Los Angeles Dodgers vs. Toronto Blue Jays (26 October 2025 at 00:00)" tvg-epgid="12815" tvg-logo="https://ppvs.su/assets/thumb/fa14655fefa2fb97929805b7618da2bd-thumbnail.jpg",Los Angeles Dodgers vs. Toronto Blue Jays (26 October 2025 at 00:00)
 
 #EXTINF:-1 tvg-id="ppv-12820" tvg-name="Phoenix Suns vs. Denver Nuggets (26 October 2025 at 01:00)" tvg-epgid="12820" tvg-logo="https://ppvs.su/assets/thumb/22be24f2a5fd3aae7e9f38b7be5af96c-thumbnail.jpg",Phoenix Suns vs. Denver Nuggets (26 October 2025 at 01:00)
@@ -53,8 +49,6 @@ https://gg.poocloud.in/nba_atlantahawks/index.m3u8
 https://gg.poocloud.in/nba_philadelphia76ers/index.m3u8
 #EXTINF:-1 tvg-id="ppv-12816" tvg-name="Chicago Bulls vs. Orlando Magic (25 October 2025 at 23:00)" tvg-epgid="12816" tvg-logo="https://ppvs.su/assets/thumb/6f5e61a0bae2f6ecebf9152f30618621-thumbnail.jpg",Chicago Bulls vs. Orlando Magic (25 October 2025 at 23:00)
 https://gg.poocloud.in/nba_orlandomagic/index.m3u8
-#EXTINF:-1 tvg-id="ppv-12789" tvg-name="Parker vs. Wardley (25 October 2025 at 17:30)" tvg-epgid="12789" tvg-logo="https://ppvs.su/assets/thumb/f4ad89e1a26b544536084d4db41d87c9-thumbnail.jpg",Parker vs. Wardley (25 October 2025 at 17:30)
-https://gg.poocloud.in/daznboxing/index.m3u8
 #EXTINF:-1 tvg-id="ppv-12745" tvg-name="Machineseeker European Championship (Day 4 Evening) (26 October 2025 at 18:00)" tvg-epgid="12745" tvg-logo="https://ppvs.su/assets/thumb/5bf176471a41b69c1f800304514911e6-thumbnail.jpg",Machineseeker European Championship (Day 4 Evening) (26 October 2025 at 18:00)
 https://gg.poocloud.in/darts/index.m3u8
 #EXTINF:-1 tvg-id="ppv-12744" tvg-name="Machineseeker European Championship (Day 4 Afternoon) (26 October 2025 at 11:45)" tvg-epgid="12744" tvg-logo="https://ppvs.su/assets/thumb/5bf176471a41b69c1f800304514911e6-thumbnail.jpg",Machineseeker European Championship (Day 4 Afternoon) (26 October 2025 at 11:45)
@@ -65,6 +59,8 @@ https://gg.poocloud.in/darts/index.m3u8
 
 #EXTINF:-1 tvg-id="ppv-12665" tvg-name="Lazio vs. Juventus (26 October 2025 at 19:45)" tvg-epgid="12665" tvg-logo="https://ppvs.su/assets/thumb/da4f7970e7b658c1e6ff3635a760c11e-thumbnail.jpg",Lazio vs. Juventus (26 October 2025 at 19:45)
 
+#EXTINF:-1 tvg-id="ppv-12840" tvg-name="OL vs. Strasbourg (26 October 2025 at 19:45)" tvg-epgid="12840" tvg-logo="https://ppvs.su/assets/thumb/287df842220e849f46f530034beb1f6b-thumbnail.jpg",OL vs. Strasbourg (26 October 2025 at 19:45)
+
 #EXTINF:-1 tvg-id="ppv-12704" tvg-name="CA Osasuna vs. Celta (26 October 2025 at 17:30)" tvg-epgid="12704" tvg-logo="https://ppvs.su/assets/thumb/c7d7032eb23c7ee02208e38a2b998f2b-thumbnail.jpg",CA Osasuna vs. Celta (26 October 2025 at 17:30)
 
 #EXTINF:-1 tvg-id="ppv-12664" tvg-name="Fiorentina vs. Bologna (26 October 2025 at 17:00)" tvg-epgid="12664" tvg-logo="https://ppvs.su/assets/thumb/9d7dd8d5314dd63e0124ec88e758083a-thumbnail.jpg",Fiorentina vs. Bologna (26 October 2025 at 17:00)
@@ -72,6 +68,12 @@ https://gg.poocloud.in/darts/index.m3u8
 #EXTINF:-1 tvg-id="ppv-12580" tvg-name="Everton vs. Tottenham Hotspur (26 October 2025 at 16:30)" tvg-epgid="12580" tvg-logo="https://ppvs.su/assets/thumb/c01d1ae46e3b507d8b0552955c1362d8-thumbnail.jpg",Everton vs. Tottenham Hotspur (26 October 2025 at 16:30)
 
 #EXTINF:-1 tvg-id="ppv-12647" tvg-name="Stuttgart vs. Mainz (26 October 2025 at 16:30)" tvg-epgid="12647" tvg-logo="https://ppvs.su/assets/thumb/f9da9754f10a21e0c5e7ed7187c06185-thumbnail.jpg",Stuttgart vs. Mainz (26 October 2025 at 16:30)
+
+#EXTINF:-1 tvg-id="ppv-12837" tvg-name="Angers SCO vs. FC Lorient (26 October 2025 at 16:15)" tvg-epgid="12837" tvg-logo="https://ppvs.su/assets/thumb/26033a311258865e2dc97e3eac46e6f9-thumbnail.jpg",Angers SCO vs. FC Lorient (26 October 2025 at 16:15)
+
+#EXTINF:-1 tvg-id="ppv-12838" tvg-name="AJ Auxerre vs. Havre AC (26 October 2025 at 16:15)" tvg-epgid="12838" tvg-logo="https://ppvs.su/assets/thumb/2896a6a0218d54fd3b5c481dabffa2cb-thumbnail.jpg",AJ Auxerre vs. Havre AC (26 October 2025 at 16:15)
+
+#EXTINF:-1 tvg-id="ppv-12841" tvg-name="Rennes vs. OGC Nice (26 October 2025 at 16:15)" tvg-epgid="12841" tvg-logo="https://ppvs.su/assets/thumb/11c3e43157384e83541b057fd84dd517-thumbnail.jpg",Rennes vs. OGC Nice (26 October 2025 at 16:15)
 
 #EXTINF:-1 tvg-id="ppv-12703" tvg-name="Real Madrid vs. FC Barcelona (26 October 2025 at 15:15)" tvg-epgid="12703" tvg-logo="https://ppvs.su/assets/thumb/0c61365f901178dc171258088e72c290-thumbnail.jpg",Real Madrid vs. FC Barcelona (26 October 2025 at 15:15)
 
@@ -88,6 +90,8 @@ https://gg.poocloud.in/darts/index.m3u8
 #EXTINF:-1 tvg-id="ppv-12662" tvg-name="Hellas Verona vs. Cagliari (26 October 2025 at 14:00)" tvg-epgid="12662" tvg-logo="https://ppvs.su/assets/thumb/766daac4ad7021b434aea667142b273b-thumbnail.jpg",Hellas Verona vs. Cagliari (26 October 2025 at 14:00)
 
 #EXTINF:-1 tvg-id="ppv-12663" tvg-name="Sassuolo vs. Roma (26 October 2025 at 14:00)" tvg-epgid="12663" tvg-logo="https://ppvs.su/assets/thumb/d4f8893d877cb4ca5ab9d435973f2552-thumbnail.jpg",Sassuolo vs. Roma (26 October 2025 at 14:00)
+
+#EXTINF:-1 tvg-id="ppv-12839" tvg-name="LOSC vs. FC Metz (26 October 2025 at 14:00)" tvg-epgid="12839" tvg-logo="https://ppvs.su/assets/thumb/b1a3ce14756a3f29912ed3fcf0a74806-thumbnail.jpg",LOSC vs. FC Metz (26 October 2025 at 14:00)
 
 #EXTINF:-1 tvg-id="ppv-12702" tvg-name="RCD Mallorca vs. Levante UD (26 October 2025 at 13:00)" tvg-epgid="12702" tvg-logo="https://ppvs.su/assets/thumb/2dc03673333ba1c9848965a28d9016db-thumbnail.jpg",RCD Mallorca vs. Levante UD (26 October 2025 at 13:00)
 
