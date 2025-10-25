@@ -139,18 +139,32 @@ https://gg.poocloud.in/darts/index.m3u8
 
 #EXTINF:-1 tvg-id="ppv-12583" tvg-name="Newcastle United vs. Fulham (25 October 2025 at 14:00)" tvg-epgid="12583" tvg-logo="https://ppvs.su/assets/thumb/4235f1d840877cfba78ac30c5e22614f-thumbnail.jpg",Newcastle United vs. Fulham (25 October 2025 at 14:00)
 
-#EXTINF:-1 tvg-id="ppv-12640" tvg-name="Gladbach vs. Bayern (25 October 2025 at 13:30)" tvg-epgid="12640" tvg-logo="https://ppvs.su/assets/thumb/a7d2f7e427542b621365abd4cb93ea46-thumbnail.jpg",Gladbach vs. Bayern (25 October 2025 at 13:30)
-
-#EXTINF:-1 tvg-id="ppv-12641" tvg-name="Frankfurt vs. St. Pauli (25 October 2025 at 13:30)" tvg-epgid="12641" tvg-logo="https://ppvs.su/assets/thumb/ce068d463b0d87c47324d9a8a15b7e74-thumbnail.jpg",Frankfurt vs. St. Pauli (25 October 2025 at 13:30)
-
-#EXTINF:-1 tvg-id="ppv-12642" tvg-name="Augsburg vs. RB Leipzig (25 October 2025 at 13:30)" tvg-epgid="12642" tvg-logo="https://ppvs.su/assets/thumb/c61945ac140ad9045ae0a353252c26b8-thumbnail.jpg",Augsburg vs. RB Leipzig (25 October 2025 at 13:30)
-
-#EXTINF:-1 tvg-id="ppv-12643" tvg-name="Hamburg vs. Wolfsburg (25 October 2025 at 13:30)" tvg-epgid="12643" tvg-logo="https://ppvs.su/assets/thumb/126c34d1139dda3a24b654c4d1377cc8-thumbnail.jpg",Hamburg vs. Wolfsburg (25 October 2025 at 13:30)
-
-#EXTINF:-1 tvg-id="ppv-12644" tvg-name="Hoffenheim vs. Heidenheim (25 October 2025 at 13:30)" tvg-epgid="12644" tvg-logo="https://ppvs.su/assets/thumb/bca80ee1fe90c4447812143ec5c78af5-thumbnail.jpg",Hoffenheim vs. Heidenheim (25 October 2025 at 13:30)
-
-#EXTINF:-1 tvg-id="ppv-12822" tvg-name="Goal Arena (25 October 2025 at 13:30)" tvg-epgid="12822" tvg-logo="https://ppvs.su/assets/thumb/c035a04a4d84afedca7706c23aabf3e2-thumbnail.jpg",Goal Arena (25 October 2025 at 13:30)
-https://gg.poocloud.in/bundesliga_goalarena/index.m3u8
+#EXTINF:-1 tvg-id="ppv-12836" tvg-name="Edmonton Oilers vs. Seattle Kraken (26 October 2025 at 02:00)" tvg-epgid="12836" tvg-logo="https://ppvs.su/assets/thumb/69b70cecf1e88b5138dc541e140dcc11-thumbnail.jpg",Edmonton Oilers vs. Seattle Kraken (26 October 2025 at 02:00)
+https://gg.poocloud.in/seattlekraken/index.m3u8
+#EXTINF:-1 tvg-id="ppv-12834" tvg-name="Los Angeles Kings vs. Nashville Predators (26 October 2025 at 00:00)" tvg-epgid="12834" tvg-logo="https://ppvs.su/assets/thumb/6d1c54d37be73858a07e184c5b30785d-thumbnail.jpg",Los Angeles Kings vs. Nashville Predators (26 October 2025 at 00:00)
+https://gg.poocloud.in/nashvillepredators/index.m3u8
+#EXTINF:-1 tvg-id="ppv-12835" tvg-name="Carolina Hurricanes vs. Dallas Stars (26 October 2025 at 00:00)" tvg-epgid="12835" tvg-logo="https://ppvs.su/assets/thumb/b9a97b1a95d27b8b748500e070988f1c-thumbnail.jpg",Carolina Hurricanes vs. Dallas Stars (26 October 2025 at 00:00)
+https://gg.poocloud.in/dallasstars/index.m3u8
+#EXTINF:-1 tvg-id="ppv-12830" tvg-name="St. Louis Blues vs. Detroit Red Wings (25 October 2025 at 23:00)" tvg-epgid="12830" tvg-logo="https://ppvs.su/assets/thumb/7fb85a03d3aa100862fbbd4fa14272b8-thumbnail.jpg",St. Louis Blues vs. Detroit Red Wings (25 October 2025 at 23:00)
+https://gg.poocloud.in/detroitredwings/index.m3u8
+#EXTINF:-1 tvg-id="ppv-12831" tvg-name="Columbus Blue Jackets vs. Pittsburgh Penguins (25 October 2025 at 23:00)" tvg-epgid="12831" tvg-logo="https://ppvs.su/assets/thumb/b381c19a6303e652e954aefe1885717d-thumbnail.jpg",Columbus Blue Jackets vs. Pittsburgh Penguins (25 October 2025 at 23:00)
+https://gg.poocloud.in/pittsburghpenguins/index.m3u8
+#EXTINF:-1 tvg-id="ppv-12832" tvg-name="Ottawa Senators vs. Washington Capitals (25 October 2025 at 23:00)" tvg-epgid="12832" tvg-logo="https://ppvs.su/assets/thumb/0d81fa7d69cff20a52c2da991924389f-thumbnail.jpg",Ottawa Senators vs. Washington Capitals (25 October 2025 at 23:00)
+https://gg.poocloud.in/washingtoncapitals/index.m3u8
+#EXTINF:-1 tvg-id="ppv-12833" tvg-name="Montreal Canadiens vs. Vancouver Canucks (25 October 2025 at 23:00)" tvg-epgid="12833" tvg-logo="https://ppvs.su/assets/thumb/40af8bb8a9c81a6e5a4418539828de26-thumbnail.jpg",Montreal Canadiens vs. Vancouver Canucks (25 October 2025 at 23:00)
+https://gg.poocloud.in/vancouvercanucks/index.m3u8
+#EXTINF:-1 tvg-id="ppv-12828" tvg-name="Vegas Golden Knights vs. Florida Panthers (25 October 2025 at 22:00)" tvg-epgid="12828" tvg-logo="https://ppvs.su/assets/thumb/8994d4aeab85815c7996d725e0e7a508-thumbnail.jpg",Vegas Golden Knights vs. Florida Panthers (25 October 2025 at 22:00)
+https://gg.poocloud.in/floridapanthers/index.m3u8
+#EXTINF:-1 tvg-id="ppv-12829" tvg-name="Utah Mammoth vs. Minnesota Wild (25 October 2025 at 22:00)" tvg-epgid="12829" tvg-logo="https://ppvs.su/assets/thumb/6099e35a6b9ef0639af5e97c4b5d59aa-thumbnail.jpg",Utah Mammoth vs. Minnesota Wild (25 October 2025 at 22:00)
+https://gg.poocloud.in/minnesotawild/index.m3u8
+#EXTINF:-1 tvg-id="ppv-12826" tvg-name="Anaheim Ducks vs. Tampa Bay Lightning (25 October 2025 at 21:00)" tvg-epgid="12826" tvg-logo="https://ppvs.su/assets/thumb/e4ad50ae94ab37213b39b8b1566308f4-thumbnail.jpg",Anaheim Ducks vs. Tampa Bay Lightning (25 October 2025 at 21:00)
+https://gg.poocloud.in/tampabaylightning/index.m3u8
+#EXTINF:-1 tvg-id="ppv-12827" tvg-name="Buffalo Sabres vs. Toronto Maple Leafs (25 October 2025 at 21:00)" tvg-epgid="12827" tvg-logo="https://ppvs.su/assets/thumb/b8eee2b456f6b6068f6f89199a6e356d-thumbnail.jpg",Buffalo Sabres vs. Toronto Maple Leafs (25 October 2025 at 21:00)
+https://gg.poocloud.in/torontomapleleafs/index.m3u8
+#EXTINF:-1 tvg-id="ppv-12825" tvg-name="Colorado Avalanche vs. Boston Bruins (25 October 2025 at 19:00)" tvg-epgid="12825" tvg-logo="https://ppvs.su/assets/thumb/a742b0d2370e377569560a07239fec4d-thumbnail.jpg",Colorado Avalanche vs. Boston Bruins (25 October 2025 at 19:00)
+https://gg.poocloud.in/bostonbruins/index.m3u8
+#EXTINF:-1 tvg-id="ppv-12824" tvg-name="New York Islanders vs. Philadelphia Flyers (25 October 2025 at 16:30)" tvg-epgid="12824" tvg-logo="https://ppvs.su/assets/thumb/8c1f6c32ee7c4269a41b388bb3d1cbf5-thumbnail.jpg",New York Islanders vs. Philadelphia Flyers (25 October 2025 at 16:30)
+https://gg.poocloud.in/philadelphiaflyers/index.m3u8
 #EXTINF:-1 tvg-id="ppv-12788" tvg-name="Mexican Grand Prix - Race (26 October 2025 at 20:00)" tvg-epgid="12788" tvg-logo="https://ppvs.su/assets/thumb/cf45c8e54cc4a2cdedba5287d558280f-thumbnail.jpg",Mexican Grand Prix - Race (26 October 2025 at 20:00)
 https://gg.poocloud.in/f1/index.m3u8
 #EXTINF:-1 tvg-id="ppv-12787" tvg-name="Mexican Grand Prix - Qualifying (25 October 2025 at 21:00)" tvg-epgid="12787" tvg-logo="https://ppvs.su/assets/thumb/cf45c8e54cc4a2cdedba5287d558280f-thumbnail.jpg",Mexican Grand Prix - Qualifying (25 October 2025 at 21:00)
