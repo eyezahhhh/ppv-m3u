@@ -923,28 +923,6 @@ channel="ppv-12773"
 <icon src="https://ppvs.su/assets/thumb/193ee25a7503c85af7b356f3fcf52d78-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-12776">
-<display-name>Milwaukee Bucks vs. Toronto Raptors</display-name>
-</channel>
-<programme
-start="20251024223000 +0000"
-stop="20251025011800 +0000"
-channel="ppv-12776"
->
-<title lang="en">Milwaukee Bucks vs. Toronto Raptors</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://ppvs.su/assets/thumb/9d2b58007b40ff713ca3cd49cfc9e950-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-12789">
 <display-name>Parker vs. Wardley</display-name>
 </channel>
