@@ -63,8 +63,6 @@ https://gg.poocloud.in/nba_philadelphia76ers/index.m3u8
 https://gg.poocloud.in/nba_orlandomagic/index.m3u8
 #EXTINF:-1 tvg-id="ppv-12789" tvg-name="Parker vs. Wardley (25 October 2025 at 17:30)" tvg-epgid="12789" tvg-logo="https://ppvs.su/assets/thumb/f4ad89e1a26b544536084d4db41d87c9-thumbnail.jpg",Parker vs. Wardley (25 October 2025 at 17:30)
 https://gg.poocloud.in/daznboxing/index.m3u8
-#EXTINF:-1 tvg-id="ppv-12682" tvg-name="UFC 321: Aspinall vs. Gane (25 October 2025 at 14:00)" tvg-epgid="12682" tvg-logo="https://ppvs.su/assets/thumb/c384809dec186ef5f60de74ca73f8d60-thumbnail.jpg",UFC 321: Aspinall vs. Gane (25 October 2025 at 14:00)
-https://gg.poocloud.in/ufc/index.m3u8
 #EXTINF:-1 tvg-id="ppv-12745" tvg-name="Machineseeker European Championship (Day 4 Evening) (26 October 2025 at 18:00)" tvg-epgid="12745" tvg-logo="https://ppvs.su/assets/thumb/5bf176471a41b69c1f800304514911e6-thumbnail.jpg",Machineseeker European Championship (Day 4 Evening) (26 October 2025 at 18:00)
 https://gg.poocloud.in/darts/index.m3u8
 #EXTINF:-1 tvg-id="ppv-12744" tvg-name="Machineseeker European Championship (Day 4 Afternoon) (26 October 2025 at 11:45)" tvg-epgid="12744" tvg-logo="https://ppvs.su/assets/thumb/5bf176471a41b69c1f800304514911e6-thumbnail.jpg",Machineseeker European Championship (Day 4 Afternoon) (26 October 2025 at 11:45)
@@ -103,12 +101,6 @@ https://gg.poocloud.in/darts/index.m3u8
 
 #EXTINF:-1 tvg-id="ppv-12661" tvg-name="Torino vs. Genoa (26 October 2025 at 11:30)" tvg-epgid="12661" tvg-logo="https://ppvs.su/assets/thumb/0f3d5e807fe4819b1457d286dd9a4b3f-thumbnail.jpg",Torino vs. Genoa (26 October 2025 at 11:30)
 
-#EXTINF:-1 tvg-id="ppv-12653" tvg-name="RC Lens vs. OM (25 October 2025 at 19:05)" tvg-epgid="12653" tvg-logo="https://ppvs.su/assets/thumb/e464001738817ed336815c0423ef09d6-thumbnail.jpg",RC Lens vs. OM (25 October 2025 at 19:05)
-
-#EXTINF:-1 tvg-id="ppv-12578" tvg-name="Brentford vs. Liverpool (25 October 2025 at 19:00)" tvg-epgid="12578" tvg-logo="https://ppvs.su/assets/thumb/86c22e6b582110bf5e2bed3ccea20cf5-thumbnail.jpg",Brentford vs. Liverpool (25 October 2025 at 19:00)
-
-#EXTINF:-1 tvg-id="ppv-12660" tvg-name="Cremonese vs. Atalanta (25 October 2025 at 18:45)" tvg-epgid="12660" tvg-logo="https://ppvs.su/assets/thumb/f2e6ce708e20b82b2c2f23923c0fd907-thumbnail.jpg",Cremonese vs. Atalanta (25 October 2025 at 18:45)
-
 #EXTINF:-1 tvg-id="ppv-12836" tvg-name="Edmonton Oilers vs. Seattle Kraken (26 October 2025 at 02:00)" tvg-epgid="12836" tvg-logo="https://ppvs.su/assets/thumb/69b70cecf1e88b5138dc541e140dcc11-thumbnail.jpg",Edmonton Oilers vs. Seattle Kraken (26 October 2025 at 02:00)
 https://gg.poocloud.in/seattlekraken/index.m3u8
 #EXTINF:-1 tvg-id="ppv-12834" tvg-name="Los Angeles Kings vs. Nashville Predators (26 October 2025 at 00:00)" tvg-epgid="12834" tvg-logo="https://ppvs.su/assets/thumb/6d1c54d37be73858a07e184c5b30785d-thumbnail.jpg",Los Angeles Kings vs. Nashville Predators (26 October 2025 at 00:00)
@@ -131,8 +123,6 @@ https://gg.poocloud.in/minnesotawild/index.m3u8
 https://gg.poocloud.in/tampabaylightning/index.m3u8
 #EXTINF:-1 tvg-id="ppv-12827" tvg-name="Buffalo Sabres vs. Toronto Maple Leafs (25 October 2025 at 21:00)" tvg-epgid="12827" tvg-logo="https://ppvs.su/assets/thumb/b8eee2b456f6b6068f6f89199a6e356d-thumbnail.jpg",Buffalo Sabres vs. Toronto Maple Leafs (25 October 2025 at 21:00)
 https://gg.poocloud.in/torontomapleleafs/index.m3u8
-#EXTINF:-1 tvg-id="ppv-12825" tvg-name="Colorado Avalanche vs. Boston Bruins (25 October 2025 at 19:00)" tvg-epgid="12825" tvg-logo="https://ppvs.su/assets/thumb/a742b0d2370e377569560a07239fec4d-thumbnail.jpg",Colorado Avalanche vs. Boston Bruins (25 October 2025 at 19:00)
-https://gg.poocloud.in/bostonbruins/index.m3u8
 #EXTINF:-1 tvg-id="ppv-12788" tvg-name="Mexican Grand Prix - Race (26 October 2025 at 20:00)" tvg-epgid="12788" tvg-logo="https://ppvs.su/assets/thumb/cf45c8e54cc4a2cdedba5287d558280f-thumbnail.jpg",Mexican Grand Prix - Race (26 October 2025 at 20:00)
 https://gg.poocloud.in/f1/index.m3u8
 #EXTINF:-1 tvg-id="ppv-12787" tvg-name="Mexican Grand Prix - Qualifying (25 October 2025 at 21:00)" tvg-epgid="12787" tvg-logo="https://ppvs.su/assets/thumb/cf45c8e54cc4a2cdedba5287d558280f-thumbnail.jpg",Mexican Grand Prix - Qualifying (25 October 2025 at 21:00)
