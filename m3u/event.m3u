@@ -53,10 +53,6 @@ https://gg.poocloud.in/darts/index.m3u8
 
 #EXTINF:-1 tvg-id="ppv-12840" tvg-name="OL vs. Strasbourg (26 October 2025 at 19:45)" tvg-epgid="12840" tvg-logo="https://ppvs.su/assets/thumb/287df842220e849f46f530034beb1f6b-thumbnail.jpg",OL vs. Strasbourg (26 October 2025 at 19:45)
 
-#EXTINF:-1 tvg-id="ppv-12704" tvg-name="CA Osasuna vs. Celta (26 October 2025 at 17:30)" tvg-epgid="12704" tvg-logo="https://ppvs.su/assets/thumb/c7d7032eb23c7ee02208e38a2b998f2b-thumbnail.jpg",CA Osasuna vs. Celta (26 October 2025 at 17:30)
-
-#EXTINF:-1 tvg-id="ppv-12664" tvg-name="Fiorentina vs. Bologna (26 October 2025 at 17:00)" tvg-epgid="12664" tvg-logo="https://ppvs.su/assets/thumb/9d7dd8d5314dd63e0124ec88e758083a-thumbnail.jpg",Fiorentina vs. Bologna (26 October 2025 at 17:00)
-
 #EXTINF:-1 tvg-id="ppv-12880" tvg-name="Edmonton Oilers vs. Vancouver Canucks (27 October 2025 at 02:00)" tvg-epgid="12880" tvg-logo="https://ppvs.su/assets/thumb/91aaa92fe37f5810cfb52beef3a76488-thumbnail.jpg",Edmonton Oilers vs. Vancouver Canucks (27 October 2025 at 02:00)
 https://gg.poocloud.in/vancouvercanucks/index.m3u8
 #EXTINF:-1 tvg-id="ppv-12879" tvg-name="New York Rangers vs. Calgary Flames (27 October 2025 at 00:00)" tvg-epgid="12879" tvg-logo="https://ppvs.su/assets/thumb/32025cca692cfbcb3a578b89ca1ba09a-thumbnail.jpg",New York Rangers vs. Calgary Flames (27 October 2025 at 00:00)
@@ -71,7 +67,5 @@ https://gg.poocloud.in/minnesotawild/index.m3u8
 https://gg.poocloud.in/winnipegjets/index.m3u8
 #EXTINF:-1 tvg-id="ppv-12874" tvg-name="Vegas Golden Knights vs. Tampa Bay Lightning (26 October 2025 at 21:00)" tvg-epgid="12874" tvg-logo="https://ppvs.su/assets/thumb/3f93f3e54ab7ab1816dd7b3aa6e9e659-thumbnail.jpg",Vegas Golden Knights vs. Tampa Bay Lightning (26 October 2025 at 21:00)
 https://gg.poocloud.in/tampabaylightning/index.m3u8
-#EXTINF:-1 tvg-id="ppv-12873" tvg-name="Colorado Avalanche vs. New Jersey Devils (26 October 2025 at 17:00)" tvg-epgid="12873" tvg-logo="https://ppvs.su/assets/thumb/12f39b9a6ccef10be3a3221a47b16d2c-thumbnail.jpg",Colorado Avalanche vs. New Jersey Devils (26 October 2025 at 17:00)
-https://gg.poocloud.in/newjerseydevils/index.m3u8
 #EXTINF:-1 tvg-id="ppv-12788" tvg-name="Mexican Grand Prix - Race (26 October 2025 at 20:00)" tvg-epgid="12788" tvg-logo="https://ppvs.su/assets/thumb/cf45c8e54cc4a2cdedba5287d558280f-thumbnail.jpg",Mexican Grand Prix - Race (26 October 2025 at 20:00)
 https://gg.poocloud.in/f1/index.m3u8

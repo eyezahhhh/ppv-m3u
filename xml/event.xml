@@ -593,50 +593,6 @@ channel="ppv-12840"
 <icon src="https://ppvs.su/assets/thumb/287df842220e849f46f530034beb1f6b-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-12704">
-<display-name>CA Osasuna vs. Celta</display-name>
-</channel>
-<programme
-start="20251026173000 +0000"
-stop="20251026200000 +0000"
-channel="ppv-12704"
->
-<title lang="en">CA Osasuna vs. Celta</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/c7d7032eb23c7ee02208e38a2b998f2b-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12664">
-<display-name>Fiorentina vs. Bologna</display-name>
-</channel>
-<programme
-start="20251026170000 +0000"
-stop="20251026200000 +0000"
-channel="ppv-12664"
->
-<title lang="en">Fiorentina vs. Bologna</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/9d7dd8d5314dd63e0124ec88e758083a-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-12880">
 <display-name>Edmonton Oilers vs. Vancouver Canucks</display-name>
 </channel>
@@ -789,28 +745,6 @@ channel="ppv-12874"
 </audio>
 <category>Ice Hockey</category>
 <icon src="https://ppvs.su/assets/thumb/3f93f3e54ab7ab1816dd7b3aa6e9e659-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12873">
-<display-name>Colorado Avalanche vs. New Jersey Devils</display-name>
-</channel>
-<programme
-start="20251026170000 +0000"
-stop="20251026200000 +0000"
-channel="ppv-12873"
->
-<title lang="en">Colorado Avalanche vs. New Jersey Devils</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://ppvs.su/assets/thumb/12f39b9a6ccef10be3a3221a47b16d2c-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-12788">
