@@ -25,8 +25,24 @@
 
 #EXTINF:-1 tvg-id="ppv-12765" tvg-name="San Francisco 49ers vs. Houston Texans (26 October 2025 at 17:00)" tvg-epgid="12765" tvg-logo="https://ppvs.su/assets/thumb/8df7d3e05ee3c5e03b9ccd173e74dd2b-thumbnail.jpg",San Francisco 49ers vs. Houston Texans (26 October 2025 at 17:00)
 
-#EXTINF:-1 tvg-id="ppv-12820" tvg-name="Phoenix Suns vs. Denver Nuggets (26 October 2025 at 01:00)" tvg-epgid="12820" tvg-logo="https://ppvs.su/assets/thumb/22be24f2a5fd3aae7e9f38b7be5af96c-thumbnail.jpg",Phoenix Suns vs. Denver Nuggets (26 October 2025 at 01:00)
-https://gg.poocloud.in/nba_denvernuggets/index.m3u8
+#EXTINF:-1 tvg-id="ppv-12870" tvg-name="Portland Trail Blazers vs. LA Clippers (27 October 2025 at 01:00)" tvg-epgid="12870" tvg-logo="https://ppvs.su/assets/thumb/d9f5b741563350cb65e4d8c25e6eec2a-thumbnail.jpg",Portland Trail Blazers vs. LA Clippers (27 October 2025 at 01:00)
+https://gg.poocloud.in/nba_laclippers/index.m3u8
+#EXTINF:-1 tvg-id="ppv-12871" tvg-name="Los Angeles Lakers vs. Sacramento Kings (27 October 2025 at 01:00)" tvg-epgid="12871" tvg-logo="https://ppvs.su/assets/thumb/d34127a4df6b38c603ef13c8ba25b6e5-thumbnail.jpg",Los Angeles Lakers vs. Sacramento Kings (27 October 2025 at 01:00)
+https://gg.poocloud.in/nba_sacramentokings/index.m3u8
+#EXTINF:-1 tvg-id="ppv-12869" tvg-name="Toronto Raptors vs. Dallas Mavericks (26 October 2025 at 23:30)" tvg-epgid="12869" tvg-logo="https://ppvs.su/assets/thumb/5878e482f20ee0dba47efe5ddef77a72-thumbnail.jpg",Toronto Raptors vs. Dallas Mavericks (26 October 2025 at 23:30)
+https://gg.poocloud.in/nba_dallasmavericks/index.m3u8
+#EXTINF:-1 tvg-id="ppv-12868" tvg-name="Indiana Pacers vs. Minnesota Timberwolves (26 October 2025 at 23:00)" tvg-epgid="12868" tvg-logo="https://ppvs.su/assets/thumb/01575cc9bedebe8e5dc5729772000934-thumbnail.jpg",Indiana Pacers vs. Minnesota Timberwolves (26 October 2025 at 23:00)
+https://gg.poocloud.in/nba_minnesotatimberwolves/index.m3u8
+#EXTINF:-1 tvg-id="ppv-12865" tvg-name="Milwaukee Bucks vs. Cleveland Cavaliers (26 October 2025 at 22:00)" tvg-epgid="12865" tvg-logo="https://ppvs.su/assets/thumb/aedda10dd77576c5e2d80e1a13554e7e-thumbnail.jpg",Milwaukee Bucks vs. Cleveland Cavaliers (26 October 2025 at 22:00)
+https://gg.poocloud.in/nba_clevelandcavaliers/index.m3u8
+#EXTINF:-1 tvg-id="ppv-12866" tvg-name="New York Knicks vs. Miami Heat (26 October 2025 at 22:00)" tvg-epgid="12866" tvg-logo="https://ppvs.su/assets/thumb/468bfef2338ad7b0b36d7c0458793e92-thumbnail.jpg",New York Knicks vs. Miami Heat (26 October 2025 at 22:00)
+https://gg.poocloud.in/nba_miamiheat/index.m3u8
+#EXTINF:-1 tvg-id="ppv-12867" tvg-name="Charlotte Hornets vs. Washington Wizards (26 October 2025 at 22:00)" tvg-epgid="12867" tvg-logo="https://ppvs.su/assets/thumb/f0bc4bbe18063d84420c35a73da38720-thumbnail.jpg",Charlotte Hornets vs. Washington Wizards (26 October 2025 at 22:00)
+https://gg.poocloud.in/nba_washingtonwizards/index.m3u8
+#EXTINF:-1 tvg-id="ppv-12864" tvg-name="Boston Celtics vs. Detroit Pistons (26 October 2025 at 19:30)" tvg-epgid="12864" tvg-logo="https://ppvs.su/assets/thumb/78776bad41b4c36d7773955d3335018b-thumbnail.jpg",Boston Celtics vs. Detroit Pistons (26 October 2025 at 19:30)
+https://gg.poocloud.in/nba_detroitpistons/index.m3u8
+#EXTINF:-1 tvg-id="ppv-12863" tvg-name="Brooklyn Nets vs. San Antonio Spurs (26 October 2025 at 18:00)" tvg-epgid="12863" tvg-logo="https://ppvs.su/assets/thumb/d95f743be5a26103e5d147be4987b8f5-thumbnail.jpg",Brooklyn Nets vs. San Antonio Spurs (26 October 2025 at 18:00)
+https://gg.poocloud.in/nba_sanantoniospurs/index.m3u8
 #EXTINF:-1 tvg-id="ppv-12745" tvg-name="Machineseeker European Championship (Day 4 Evening) (26 October 2025 at 18:00)" tvg-epgid="12745" tvg-logo="https://ppvs.su/assets/thumb/5bf176471a41b69c1f800304514911e6-thumbnail.jpg",Machineseeker European Championship (Day 4 Evening) (26 October 2025 at 18:00)
 https://gg.poocloud.in/darts/index.m3u8
 #EXTINF:-1 tvg-id="ppv-12744" tvg-name="Machineseeker European Championship (Day 4 Afternoon) (26 October 2025 at 11:45)" tvg-epgid="12744" tvg-logo="https://ppvs.su/assets/thumb/5bf176471a41b69c1f800304514911e6-thumbnail.jpg",Machineseeker European Championship (Day 4 Afternoon) (26 October 2025 at 11:45)
