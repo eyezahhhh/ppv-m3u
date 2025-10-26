@@ -637,50 +637,6 @@ channel="ppv-12664"
 <icon src="https://ppvs.su/assets/thumb/9d7dd8d5314dd63e0124ec88e758083a-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-12580">
-<display-name>Everton vs. Tottenham Hotspur</display-name>
-</channel>
-<programme
-start="20251026163000 +0000"
-stop="20251026193000 +0000"
-channel="ppv-12580"
->
-<title lang="en">Everton vs. Tottenham Hotspur</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/c01d1ae46e3b507d8b0552955c1362d8-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12647">
-<display-name>Stuttgart vs. Mainz</display-name>
-</channel>
-<programme
-start="20251026163000 +0000"
-stop="20251026193000 +0000"
-channel="ppv-12647"
->
-<title lang="en">Stuttgart vs. Mainz</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/f9da9754f10a21e0c5e7ed7187c06185-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-12880">
 <display-name>Edmonton Oilers vs. Vancouver Canucks</display-name>
 </channel>
