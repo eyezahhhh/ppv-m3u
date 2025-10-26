@@ -1011,28 +1011,6 @@ channel="ppv-12702"
 <icon src="https://ppvs.su/assets/thumb/2dc03673333ba1c9848965a28d9016db-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-12661">
-<display-name>Torino vs. Genoa</display-name>
-</channel>
-<programme
-start="20251026113000 +0000"
-stop="20251026143000 +0000"
-channel="ppv-12661"
->
-<title lang="en">Torino vs. Genoa</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/0f3d5e807fe4819b1457d286dd9a4b3f-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-12788">
 <display-name>Mexican Grand Prix - Race</display-name>
 </channel>
