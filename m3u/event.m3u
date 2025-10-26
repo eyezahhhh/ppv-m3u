@@ -9,6 +9,8 @@
 
 #EXTINF:-1 tvg-id="ppv-12766" tvg-name="Tampa Bay Buccaneers vs. New Orleans Saints (26 October 2025 at 20:05)" tvg-epgid="12766" tvg-logo="https://ppvs.su/assets/thumb/dc144485cc0cd2ed0929fe017edc5f62-thumbnail.jpg",Tampa Bay Buccaneers vs. New Orleans Saints (26 October 2025 at 20:05)
 
+#EXTINF:-1 tvg-id="ppv-11090" tvg-name="NFL RedZone (26 October 2025 at 17:00)" tvg-epgid="11090" tvg-logo="https://ppvs.su/assets/thumb/54aa61e14195478973adbd4719599cb5-thumbnail.jpg",NFL RedZone (26 October 2025 at 17:00)
+
 #EXTINF:-1 tvg-id="ppv-12759" tvg-name="Miami Dolphins vs. Atlanta Falcons (26 October 2025 at 17:00)" tvg-epgid="12759" tvg-logo="https://ppvs.su/assets/thumb/bb9720a5d6d1af234af28f74170fbf34-thumbnail.jpg",Miami Dolphins vs. Atlanta Falcons (26 October 2025 at 17:00)
 
 #EXTINF:-1 tvg-id="ppv-12760" tvg-name="New York Jets vs. Cincinnati Bengals (26 October 2025 at 17:00)" tvg-epgid="12760" tvg-logo="https://ppvs.su/assets/thumb/a9e516892c11d7e9896078fc85edebe9-thumbnail.jpg",New York Jets vs. Cincinnati Bengals (26 October 2025 at 17:00)
@@ -25,20 +27,8 @@
 
 #EXTINF:-1 tvg-id="ppv-12812" tvg-name="Houston Cougars vs. Arizona State Sun Devils (26 October 2025 at 00:00)" tvg-epgid="12812" tvg-logo="https://ppvs.su/assets/thumb/5d0fc49c8c05380d8a6ce7a92e667e97-thumbnail.jpg",Houston Cougars vs. Arizona State Sun Devils (26 October 2025 at 00:00)
 https://gg.poocloud.in/ESPN2/index.m3u8
-#EXTINF:-1 tvg-id="ppv-12811" tvg-name="Tennessee Volunteers vs. Kentucky Wildcats (25 October 2025 at 23:45)" tvg-epgid="12811" tvg-logo="https://ppvs.su/assets/thumb/10c4d33593b7c29cd62f28ebba44e3e9-thumbnail.jpg",Tennessee Volunteers vs. Kentucky Wildcats (25 October 2025 at 23:45)
-
-#EXTINF:-1 tvg-id="ppv-12808" tvg-name="Texas A&M Aggies vs. LSU Tigers (25 October 2025 at 23:30)" tvg-epgid="12808" tvg-logo="https://ppvs.su/assets/thumb/7528812d3769d4e382e021db31ea6270-thumbnail.jpg",Texas A&M Aggies vs. LSU Tigers (25 October 2025 at 23:30)
-
-#EXTINF:-1 tvg-id="ppv-12809" tvg-name="Boston College Eagles vs. Louisville Cardinals (25 October 2025 at 23:30)" tvg-epgid="12809" tvg-logo="https://ppvs.su/assets/thumb/21c1be89544d1e0332ffe8638ad6c430-thumbnail.jpg",Boston College Eagles vs. Louisville Cardinals (25 October 2025 at 23:30)
-
-#EXTINF:-1 tvg-id="ppv-12810" tvg-name="Michigan Wolverines vs. Michigan State Spartans (25 October 2025 at 23:30)" tvg-epgid="12810" tvg-logo="https://ppvs.su/assets/thumb/46f55a208c2be15ff198c95c69dfa62a-thumbnail.jpg",Michigan Wolverines vs. Michigan State Spartans (25 October 2025 at 23:30)
-
-#EXTINF:-1 tvg-id="ppv-12815" tvg-name="Los Angeles Dodgers vs. Toronto Blue Jays (26 October 2025 at 00:00)" tvg-epgid="12815" tvg-logo="https://ppvs.su/assets/thumb/fa14655fefa2fb97929805b7618da2bd-thumbnail.jpg",Los Angeles Dodgers vs. Toronto Blue Jays (26 October 2025 at 00:00)
-
 #EXTINF:-1 tvg-id="ppv-12820" tvg-name="Phoenix Suns vs. Denver Nuggets (26 October 2025 at 01:00)" tvg-epgid="12820" tvg-logo="https://ppvs.su/assets/thumb/22be24f2a5fd3aae7e9f38b7be5af96c-thumbnail.jpg",Phoenix Suns vs. Denver Nuggets (26 October 2025 at 01:00)
 https://gg.poocloud.in/nba_denvernuggets/index.m3u8
-#EXTINF:-1 tvg-id="ppv-12819" tvg-name="Indiana Pacers vs. Memphis Grizzlies (26 October 2025 at 00:00)" tvg-epgid="12819" tvg-logo="https://ppvs.su/assets/thumb/047d81861de4e41eff8488b705c47aa9-thumbnail.jpg",Indiana Pacers vs. Memphis Grizzlies (26 October 2025 at 00:00)
-https://gg.poocloud.in/nba_memphisgrizzlies/index.m3u8
 #EXTINF:-1 tvg-id="ppv-12745" tvg-name="Machineseeker European Championship (Day 4 Evening) (26 October 2025 at 18:00)" tvg-epgid="12745" tvg-logo="https://ppvs.su/assets/thumb/5bf176471a41b69c1f800304514911e6-thumbnail.jpg",Machineseeker European Championship (Day 4 Evening) (26 October 2025 at 18:00)
 https://gg.poocloud.in/darts/index.m3u8
 #EXTINF:-1 tvg-id="ppv-12744" tvg-name="Machineseeker European Championship (Day 4 Afternoon) (26 October 2025 at 11:45)" tvg-epgid="12744" tvg-logo="https://ppvs.su/assets/thumb/5bf176471a41b69c1f800304514911e6-thumbnail.jpg",Machineseeker European Championship (Day 4 Afternoon) (26 October 2025 at 11:45)
@@ -89,13 +79,5 @@ https://gg.poocloud.in/darts/index.m3u8
 
 #EXTINF:-1 tvg-id="ppv-12836" tvg-name="Edmonton Oilers vs. Seattle Kraken (26 October 2025 at 02:00)" tvg-epgid="12836" tvg-logo="https://ppvs.su/assets/thumb/69b70cecf1e88b5138dc541e140dcc11-thumbnail.jpg",Edmonton Oilers vs. Seattle Kraken (26 October 2025 at 02:00)
 https://gg.poocloud.in/seattlekraken/index.m3u8
-#EXTINF:-1 tvg-id="ppv-12834" tvg-name="Los Angeles Kings vs. Nashville Predators (26 October 2025 at 00:00)" tvg-epgid="12834" tvg-logo="https://ppvs.su/assets/thumb/6d1c54d37be73858a07e184c5b30785d-thumbnail.jpg",Los Angeles Kings vs. Nashville Predators (26 October 2025 at 00:00)
-https://gg.poocloud.in/nashvillepredators/index.m3u8
-#EXTINF:-1 tvg-id="ppv-12835" tvg-name="Carolina Hurricanes vs. Dallas Stars (26 October 2025 at 00:00)" tvg-epgid="12835" tvg-logo="https://ppvs.su/assets/thumb/b9a97b1a95d27b8b748500e070988f1c-thumbnail.jpg",Carolina Hurricanes vs. Dallas Stars (26 October 2025 at 00:00)
-https://gg.poocloud.in/dallasstars/index.m3u8
 #EXTINF:-1 tvg-id="ppv-12788" tvg-name="Mexican Grand Prix - Race (26 October 2025 at 20:00)" tvg-epgid="12788" tvg-logo="https://ppvs.su/assets/thumb/cf45c8e54cc4a2cdedba5287d558280f-thumbnail.jpg",Mexican Grand Prix - Race (26 October 2025 at 20:00)
 https://gg.poocloud.in/f1/index.m3u8
-#EXTINF:-1 tvg-id="ppv-12676" tvg-name="AEW: Saturday Night Collision (26 October 2025 at 00:00)" tvg-epgid="12676" tvg-logo="https://ppvs.su/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg",AEW: Saturday Night Collision (26 October 2025 at 00:00)
-
-#EXTINF:-1 tvg-id="ppv-12821" tvg-name="WWE: NXT Halloween Havoc (25 October 2025 at 23:00)" tvg-epgid="12821" tvg-logo="https://ppvs.su/assets/thumb/bc29b0ae874f48eaf957599c814cbf90-thumbnail.jpg",WWE: NXT Halloween Havoc (25 October 2025 at 23:00)
-https://gg.poocloud.in/wwe/index.m3u8
