@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ppv-12770" tvg-name="Washington Commanders vs. Kansas City Chiefs (28 October 2025 at 00:15)" tvg-epgid="12770" tvg-logo="https://ppvs.su/assets/thumb/41edb2b2b9117f92cbdef027e516074b-thumbnail.jpg",Washington Commanders vs. Kansas City Chiefs (28 October 2025 at 00:15)
+
 #EXTINF:-1 tvg-id="ppv-12769" tvg-name="Green Bay Packers vs. Pittsburgh Steelers (27 October 2025 at 00:20)" tvg-epgid="12769" tvg-logo="https://ppvs.su/assets/thumb/c80eccf1121f7019033234058785e1cb-thumbnail.jpg",Green Bay Packers vs. Pittsburgh Steelers (27 October 2025 at 00:20)
 
 #EXTINF:-1 tvg-id="ppv-12767" tvg-name="Dallas Cowboys vs. Denver Broncos (26 October 2025 at 20:25)" tvg-epgid="12767" tvg-logo="https://ppvs.su/assets/thumb/b1f1755b7c62193a50976cbcd9dad309-thumbnail.jpg",Dallas Cowboys vs. Denver Broncos (26 October 2025 at 20:25)
@@ -34,8 +36,6 @@ https://gg.poocloud.in/ESPN2/index.m3u8
 #EXTINF:-1 tvg-id="ppv-12806" tvg-name="Wisconsin Badgers vs. Oregon Ducks (25 October 2025 at 23:00)" tvg-epgid="12806" tvg-logo="https://ppvs.su/assets/thumb/679fcc1616f413e62cf6d8db32c3135d-thumbnail.jpg",Wisconsin Badgers vs. Oregon Ducks (25 October 2025 at 23:00)
 
 #EXTINF:-1 tvg-id="ppv-12807" tvg-name="Stanford Cardinal vs. Miami Hurricanes (25 October 2025 at 23:00)" tvg-epgid="12807" tvg-logo="https://ppvs.su/assets/thumb/a14860a3e7c3ac297e524b666a1d817d-thumbnail.jpg",Stanford Cardinal vs. Miami Hurricanes (25 October 2025 at 23:00)
-
-#EXTINF:-1 tvg-id="ppv-12805" tvg-name="Texas Longhorns vs. Mississippi State Bulldogs (25 October 2025 at 20:15)" tvg-epgid="12805" tvg-logo="https://ppvs.su/assets/thumb/095d0555d09a7383ae2d970a44b88ea0-thumbnail.jpg",Texas Longhorns vs. Mississippi State Bulldogs (25 October 2025 at 20:15)
 
 #EXTINF:-1 tvg-id="ppv-12815" tvg-name="Los Angeles Dodgers vs. Toronto Blue Jays (26 October 2025 at 00:00)" tvg-epgid="12815" tvg-logo="https://ppvs.su/assets/thumb/fa14655fefa2fb97929805b7618da2bd-thumbnail.jpg",Los Angeles Dodgers vs. Toronto Blue Jays (26 October 2025 at 00:00)
 
@@ -115,10 +115,6 @@ https://gg.poocloud.in/vancouvercanucks/index.m3u8
 https://gg.poocloud.in/floridapanthers/index.m3u8
 #EXTINF:-1 tvg-id="ppv-12829" tvg-name="Utah Mammoth vs. Minnesota Wild (25 October 2025 at 22:00)" tvg-epgid="12829" tvg-logo="https://ppvs.su/assets/thumb/6099e35a6b9ef0639af5e97c4b5d59aa-thumbnail.jpg",Utah Mammoth vs. Minnesota Wild (25 October 2025 at 22:00)
 https://gg.poocloud.in/minnesotawild/index.m3u8
-#EXTINF:-1 tvg-id="ppv-12826" tvg-name="Anaheim Ducks vs. Tampa Bay Lightning (25 October 2025 at 21:00)" tvg-epgid="12826" tvg-logo="https://ppvs.su/assets/thumb/e4ad50ae94ab37213b39b8b1566308f4-thumbnail.jpg",Anaheim Ducks vs. Tampa Bay Lightning (25 October 2025 at 21:00)
-https://gg.poocloud.in/tampabaylightning/index.m3u8
-#EXTINF:-1 tvg-id="ppv-12827" tvg-name="Buffalo Sabres vs. Toronto Maple Leafs (25 October 2025 at 21:00)" tvg-epgid="12827" tvg-logo="https://ppvs.su/assets/thumb/b8eee2b456f6b6068f6f89199a6e356d-thumbnail.jpg",Buffalo Sabres vs. Toronto Maple Leafs (25 October 2025 at 21:00)
-https://gg.poocloud.in/torontomapleleafs/index.m3u8
 #EXTINF:-1 tvg-id="ppv-12788" tvg-name="Mexican Grand Prix - Race (26 October 2025 at 20:00)" tvg-epgid="12788" tvg-logo="https://ppvs.su/assets/thumb/cf45c8e54cc4a2cdedba5287d558280f-thumbnail.jpg",Mexican Grand Prix - Race (26 October 2025 at 20:00)
 https://gg.poocloud.in/f1/index.m3u8
 #EXTINF:-1 tvg-id="ppv-12676" tvg-name="AEW: Saturday Night Collision (26 October 2025 at 00:00)" tvg-epgid="12676" tvg-logo="https://ppvs.su/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg",AEW: Saturday Night Collision (26 October 2025 at 00:00)
