@@ -307,28 +307,6 @@ channel="ppv-12706"
 <icon src="https://ppvs.su/assets/thumb/166d4655632f8ecc5d835a46f3144337-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-12665">
-<display-name>Lazio vs. Juventus</display-name>
-</channel>
-<programme
-start="20251026194500 +0000"
-stop="20251026224500 +0000"
-channel="ppv-12665"
->
-<title lang="en">Lazio vs. Juventus</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/da4f7970e7b658c1e6ff3635a760c11e-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-12880">
 <display-name>Edmonton Oilers vs. Vancouver Canucks</display-name>
 </channel>
@@ -481,27 +459,5 @@ channel="ppv-12874"
 </audio>
 <category>Ice Hockey</category>
 <icon src="https://ppvs.su/assets/thumb/3f93f3e54ab7ab1816dd7b3aa6e9e659-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12788">
-<display-name>Mexican Grand Prix - Race</display-name>
-</channel>
-<programme
-start="20251026200000 +0000"
-stop="20251026230000 +0000"
-channel="ppv-12788"
->
-<title lang="en">Mexican Grand Prix - Race</title>
-<sub-title>Motorsports</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Motorsports</category>
-<icon src="https://ppvs.su/assets/thumb/cf45c8e54cc4a2cdedba5287d558280f-thumbnail.jpg" />
 </programme>
 </tv>
