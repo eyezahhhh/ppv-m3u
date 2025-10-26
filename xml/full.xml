@@ -285,28 +285,6 @@ channel="ppv-12867"
 <icon src="https://ppvs.su/assets/thumb/f0bc4bbe18063d84420c35a73da38720-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-12864">
-<display-name>Boston Celtics vs. Detroit Pistons</display-name>
-</channel>
-<programme
-start="20251026193000 +0000"
-stop="20251026221800 +0000"
-channel="ppv-12864"
->
-<title lang="en">Boston Celtics vs. Detroit Pistons</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://ppvs.su/assets/thumb/78776bad41b4c36d7773955d3335018b-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-12706">
 <display-name>Real Betis vs. Atlético de Madrid</display-name>
 </channel>
@@ -329,28 +307,6 @@ channel="ppv-12706"
 <icon src="https://ppvs.su/assets/thumb/166d4655632f8ecc5d835a46f3144337-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-12705">
-<display-name>Rayo Vallecano vs. Deportivo Alavés</display-name>
-</channel>
-<programme
-start="20251026200000 +0000"
-stop="20251026223000 +0000"
-channel="ppv-12705"
->
-<title lang="en">Rayo Vallecano vs. Deportivo Alavés</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/652c4ffbdfc97e7f1d3f9412e548a2b0-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-12665">
 <display-name>Lazio vs. Juventus</display-name>
 </channel>
@@ -371,28 +327,6 @@ channel="ppv-12665"
 </audio>
 <category>Football</category>
 <icon src="https://ppvs.su/assets/thumb/da4f7970e7b658c1e6ff3635a760c11e-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12840">
-<display-name>OL vs. Strasbourg</display-name>
-</channel>
-<programme
-start="20251026194500 +0000"
-stop="20251026221500 +0000"
-channel="ppv-12840"
->
-<title lang="en">OL vs. Strasbourg</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/287df842220e849f46f530034beb1f6b-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-12880">
