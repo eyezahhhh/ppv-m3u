@@ -307,28 +307,6 @@ channel="ppv-12864"
 <icon src="https://ppvs.su/assets/thumb/78776bad41b4c36d7773955d3335018b-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-12863">
-<display-name>Brooklyn Nets vs. San Antonio Spurs</display-name>
-</channel>
-<programme
-start="20251026180000 +0000"
-stop="20251026204800 +0000"
-channel="ppv-12863"
->
-<title lang="en">Brooklyn Nets vs. San Antonio Spurs</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://ppvs.su/assets/thumb/d95f743be5a26103e5d147be4987b8f5-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-12745">
 <display-name>Machineseeker European Championship (Day 4 Evening)</display-name>
 </channel>
