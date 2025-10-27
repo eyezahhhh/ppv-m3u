@@ -285,6 +285,28 @@ channel="ppv-12918"
 <icon src="https://ppvs.su/assets/thumb/fa8e5fe647aab279c54dc0a9c1f3fbf0-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-12933">
+<display-name>Wrexham vs. Cardiff</display-name>
+</channel>
+<programme
+start="20251028200000 +0000"
+stop="20251028230000 +0000"
+channel="ppv-12933"
+>
+<title lang="en">Wrexham vs. Cardiff</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/17461247fb66be094251733ad538dfd4-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-12907">
 <display-name>Atalanta vs. Milan</display-name>
 </channel>
@@ -305,6 +327,50 @@ channel="ppv-12907"
 </audio>
 <category>Football</category>
 <icon src="https://ppvs.su/assets/thumb/3a209c825a412d55f0f8080042308c50-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12931">
+<display-name>Grimsby vs. Brentford</display-name>
+</channel>
+<programme
+start="20251028194500 +0000"
+stop="20251028224500 +0000"
+channel="ppv-12931"
+>
+<title lang="en">Grimsby vs. Brentford</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/02da01c2c2d85353a71e822f179d823e-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12932">
+<display-name>Wycombe vs. Fulham</display-name>
+</channel>
+<programme
+start="20251028194500 +0000"
+stop="20251028224500 +0000"
+channel="ppv-12932"
+>
+<title lang="en">Wycombe vs. Fulham</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/f2bf4682a3685025a79796507c87eafc-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-12906">

@@ -25,8 +25,14 @@ https://gg.poocloud.in/nba_sanantoniospurs/index.m3u8
 https://gg.poocloud.in/nba_detroitpistons/index.m3u8
 #EXTINF:-1 tvg-id="ppv-12918" tvg-name="Orlando Magic vs. Philadelphia 76ers (27 October 2025 at 23:00)" tvg-epgid="12918" tvg-logo="https://ppvs.su/assets/thumb/fa8e5fe647aab279c54dc0a9c1f3fbf0-thumbnail.jpg",Orlando Magic vs. Philadelphia 76ers (27 October 2025 at 23:00)
 https://gg.poocloud.in/nba_philadelphia76ers/index.m3u8
+#EXTINF:-1 tvg-id="ppv-12933" tvg-name="Wrexham vs. Cardiff (28 October 2025 at 20:00)" tvg-epgid="12933" tvg-logo="https://ppvs.su/assets/thumb/17461247fb66be094251733ad538dfd4-thumbnail.jpg",Wrexham vs. Cardiff (28 October 2025 at 20:00)
+https://gg.poocloud.in/carabao-cup_wxm/index.m3u8
 #EXTINF:-1 tvg-id="ppv-12907" tvg-name="Atalanta vs. Milan (28 October 2025 at 19:45)" tvg-epgid="12907" tvg-logo="https://ppvs.su/assets/thumb/3a209c825a412d55f0f8080042308c50-thumbnail.jpg",Atalanta vs. Milan (28 October 2025 at 19:45)
 
+#EXTINF:-1 tvg-id="ppv-12931" tvg-name="Grimsby vs. Brentford (28 October 2025 at 19:45)" tvg-epgid="12931" tvg-logo="https://ppvs.su/assets/thumb/02da01c2c2d85353a71e822f179d823e-thumbnail.jpg",Grimsby vs. Brentford (28 October 2025 at 19:45)
+https://gg.poocloud.in/carabao-cup_gri/index.m3u8
+#EXTINF:-1 tvg-id="ppv-12932" tvg-name="Wycombe vs. Fulham (28 October 2025 at 19:45)" tvg-epgid="12932" tvg-logo="https://ppvs.su/assets/thumb/f2bf4682a3685025a79796507c87eafc-thumbnail.jpg",Wycombe vs. Fulham (28 October 2025 at 19:45)
+https://gg.poocloud.in/carabao-cup_wyc/index.m3u8
 #EXTINF:-1 tvg-id="ppv-12906" tvg-name="Lecce vs. Napoli (28 October 2025 at 17:30)" tvg-epgid="12906" tvg-logo="https://ppvs.su/assets/thumb/19a20f8a094323a86f826c28d4d1619f-thumbnail.jpg",Lecce vs. Napoli (28 October 2025 at 17:30)
 
 #EXTINF:-1 tvg-id="ppv-12706" tvg-name="Real Betis vs. Atlético de Madrid (27 October 2025 at 20:00)" tvg-epgid="12706" tvg-logo="https://ppvs.su/assets/thumb/166d4655632f8ecc5d835a46f3144337-thumbnail.jpg",Real Betis vs. Atlético de Madrid (27 October 2025 at 20:00)
