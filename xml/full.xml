@@ -87,50 +87,6 @@ channel="ppv-12871"
 <icon src="https://ppvs.su/assets/thumb/d34127a4df6b38c603ef13c8ba25b6e5-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-12869">
-<display-name>Toronto Raptors vs. Dallas Mavericks</display-name>
-</channel>
-<programme
-start="20251026233000 +0000"
-stop="20251027021800 +0000"
-channel="ppv-12869"
->
-<title lang="en">Toronto Raptors vs. Dallas Mavericks</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://ppvs.su/assets/thumb/5878e482f20ee0dba47efe5ddef77a72-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12868">
-<display-name>Indiana Pacers vs. Minnesota Timberwolves</display-name>
-</channel>
-<programme
-start="20251026230000 +0000"
-stop="20251027014800 +0000"
-channel="ppv-12868"
->
-<title lang="en">Indiana Pacers vs. Minnesota Timberwolves</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://ppvs.su/assets/thumb/01575cc9bedebe8e5dc5729772000934-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-12907">
 <display-name>Atalanta vs. Milan</display-name>
 </channel>
@@ -239,50 +195,6 @@ channel="ppv-12879"
 </audio>
 <category>Ice Hockey</category>
 <icon src="https://ppvs.su/assets/thumb/32025cca692cfbcb3a578b89ca1ba09a-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12877">
-<display-name>Los Angeles Kings vs. Chicago Blackhawks</display-name>
-</channel>
-<programme
-start="20251026230000 +0000"
-stop="20251027020000 +0000"
-channel="ppv-12877"
->
-<title lang="en">Los Angeles Kings vs. Chicago Blackhawks</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://ppvs.su/assets/thumb/148edce0af9f2609b27e69cdc01d79ba-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12878">
-<display-name>Dallas Stars vs. Nashville Predators</display-name>
-</channel>
-<programme
-start="20251026230000 +0000"
-stop="20251027020000 +0000"
-channel="ppv-12878"
->
-<title lang="en">Dallas Stars vs. Nashville Predators</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://ppvs.su/assets/thumb/e7f993addc85625519f625482c394471-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-12882">
