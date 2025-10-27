@@ -3,14 +3,6 @@
 
 #EXTINF:-1 tvg-id="ppv-12769" tvg-name="Green Bay Packers vs. Pittsburgh Steelers (27 October 2025 at 00:20)" tvg-epgid="12769" tvg-logo="https://ppvs.su/assets/thumb/c80eccf1121f7019033234058785e1cb-thumbnail.jpg",Green Bay Packers vs. Pittsburgh Steelers (27 October 2025 at 00:20)
 
-#EXTINF:-1 tvg-id="ppv-12767" tvg-name="Dallas Cowboys vs. Denver Broncos (26 October 2025 at 20:25)" tvg-epgid="12767" tvg-logo="https://ppvs.su/assets/thumb/b1f1755b7c62193a50976cbcd9dad309-thumbnail.jpg",Dallas Cowboys vs. Denver Broncos (26 October 2025 at 20:25)
-
-#EXTINF:-1 tvg-id="ppv-12768" tvg-name="Tennessee Titans vs. Indianapolis Colts (26 October 2025 at 20:25)" tvg-epgid="12768" tvg-logo="https://ppvs.su/assets/thumb/7530d4c26ef36c7f841d79e7e62f6d8b-thumbnail.jpg",Tennessee Titans vs. Indianapolis Colts (26 October 2025 at 20:25)
-
-#EXTINF:-1 tvg-id="ppv-12766" tvg-name="Tampa Bay Buccaneers vs. New Orleans Saints (26 October 2025 at 20:05)" tvg-epgid="12766" tvg-logo="https://ppvs.su/assets/thumb/dc144485cc0cd2ed0929fe017edc5f62-thumbnail.jpg",Tampa Bay Buccaneers vs. New Orleans Saints (26 October 2025 at 20:05)
-
-#EXTINF:-1 tvg-id="ppv-11090" tvg-name="NFL RedZone (26 October 2025 at 17:00)" tvg-epgid="11090" tvg-logo="https://ppvs.su/assets/thumb/54aa61e14195478973adbd4719599cb5-thumbnail.jpg",NFL RedZone (26 October 2025 at 17:00)
-
 #EXTINF:-1 tvg-id="ppv-12870" tvg-name="Portland Trail Blazers vs. LA Clippers (27 October 2025 at 01:00)" tvg-epgid="12870" tvg-logo="https://ppvs.su/assets/thumb/d9f5b741563350cb65e4d8c25e6eec2a-thumbnail.jpg",Portland Trail Blazers vs. LA Clippers (27 October 2025 at 01:00)
 https://gg.poocloud.in/nba_laclippers/index.m3u8
 #EXTINF:-1 tvg-id="ppv-12871" tvg-name="Los Angeles Lakers vs. Sacramento Kings (27 October 2025 at 01:00)" tvg-epgid="12871" tvg-logo="https://ppvs.su/assets/thumb/d34127a4df6b38c603ef13c8ba25b6e5-thumbnail.jpg",Los Angeles Lakers vs. Sacramento Kings (27 October 2025 at 01:00)
@@ -25,6 +17,10 @@ https://gg.poocloud.in/nba_clevelandcavaliers/index.m3u8
 https://gg.poocloud.in/nba_miamiheat/index.m3u8
 #EXTINF:-1 tvg-id="ppv-12867" tvg-name="Charlotte Hornets vs. Washington Wizards (26 October 2025 at 22:00)" tvg-epgid="12867" tvg-logo="https://ppvs.su/assets/thumb/f0bc4bbe18063d84420c35a73da38720-thumbnail.jpg",Charlotte Hornets vs. Washington Wizards (26 October 2025 at 22:00)
 https://gg.poocloud.in/nba_washingtonwizards/index.m3u8
+#EXTINF:-1 tvg-id="ppv-12907" tvg-name="Atalanta vs. Milan (28 October 2025 at 19:45)" tvg-epgid="12907" tvg-logo="https://ppvs.su/assets/thumb/3a209c825a412d55f0f8080042308c50-thumbnail.jpg",Atalanta vs. Milan (28 October 2025 at 19:45)
+
+#EXTINF:-1 tvg-id="ppv-12906" tvg-name="Lecce vs. Napoli (28 October 2025 at 17:30)" tvg-epgid="12906" tvg-logo="https://ppvs.su/assets/thumb/19a20f8a094323a86f826c28d4d1619f-thumbnail.jpg",Lecce vs. Napoli (28 October 2025 at 17:30)
+
 #EXTINF:-1 tvg-id="ppv-12706" tvg-name="Real Betis vs. Atlético de Madrid (27 October 2025 at 20:00)" tvg-epgid="12706" tvg-logo="https://ppvs.su/assets/thumb/166d4655632f8ecc5d835a46f3144337-thumbnail.jpg",Real Betis vs. Atlético de Madrid (27 October 2025 at 20:00)
 
 #EXTINF:-1 tvg-id="ppv-12880" tvg-name="Edmonton Oilers vs. Vancouver Canucks (27 October 2025 at 02:00)" tvg-epgid="12880" tvg-logo="https://ppvs.su/assets/thumb/91aaa92fe37f5810cfb52beef3a76488-thumbnail.jpg",Edmonton Oilers vs. Vancouver Canucks (27 October 2025 at 02:00)
@@ -39,5 +35,7 @@ https://gg.poocloud.in/nashvillepredators/index.m3u8
 https://gg.poocloud.in/minnesotawild/index.m3u8
 #EXTINF:-1 tvg-id="ppv-12876" tvg-name="Utah Mammoth vs. Winnipeg Jets (26 October 2025 at 22:00)" tvg-epgid="12876" tvg-logo="https://ppvs.su/assets/thumb/217f8b5d3f2975547ed30e7bc74daada-thumbnail.jpg",Utah Mammoth vs. Winnipeg Jets (26 October 2025 at 22:00)
 https://gg.poocloud.in/winnipegjets/index.m3u8
-#EXTINF:-1 tvg-id="ppv-12874" tvg-name="Vegas Golden Knights vs. Tampa Bay Lightning (26 October 2025 at 21:00)" tvg-epgid="12874" tvg-logo="https://ppvs.su/assets/thumb/3f93f3e54ab7ab1816dd7b3aa6e9e659-thumbnail.jpg",Vegas Golden Knights vs. Tampa Bay Lightning (26 October 2025 at 21:00)
-https://gg.poocloud.in/tampabaylightning/index.m3u8
+#EXTINF:-1 tvg-id="ppv-12882" tvg-name="WWE: NXT (29 October 2025 at 00:00)" tvg-epgid="12882" tvg-logo="https://ppvs.su/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg",WWE: NXT (29 October 2025 at 00:00)
+
+#EXTINF:-1 tvg-id="ppv-12881" tvg-name="WWE: Monday Night RAW (28 October 2025 at 00:00)" tvg-epgid="12881" tvg-logo="https://ppvs.su/assets/thumb/56336f9d22c51c416e1a56afbd18f314-thumbnail.jpg",WWE: Monday Night RAW (28 October 2025 at 00:00)
+
