@@ -1,12 +1,30 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ppv-12770" tvg-name="Washington Commanders vs. Kansas City Chiefs (28 October 2025 at 00:15)" tvg-epgid="12770" tvg-logo="https://ppvs.su/assets/thumb/41edb2b2b9117f92cbdef027e516074b-thumbnail.jpg",Washington Commanders vs. Kansas City Chiefs (28 October 2025 at 00:15)
 
-#EXTINF:-1 tvg-id="ppv-12769" tvg-name="Green Bay Packers vs. Pittsburgh Steelers (27 October 2025 at 00:20)" tvg-epgid="12769" tvg-logo="https://ppvs.su/assets/thumb/c80eccf1121f7019033234058785e1cb-thumbnail.jpg",Green Bay Packers vs. Pittsburgh Steelers (27 October 2025 at 00:20)
+#EXTINF:-1 tvg-id="ppv-12921" tvg-name="Toronto Blue Jays vs. Los Angeles Dodgers (28 October 2025 at 00:00)" tvg-epgid="12921" tvg-logo="https://ppvs.su/assets/thumb/03e78a6ebc7218c0e054460d58d4533a-thumbnail.jpg",Toronto Blue Jays vs. Los Angeles Dodgers (28 October 2025 at 00:00)
 
-#EXTINF:-1 tvg-id="ppv-12870" tvg-name="Portland Trail Blazers vs. LA Clippers (27 October 2025 at 01:00)" tvg-epgid="12870" tvg-logo="https://ppvs.su/assets/thumb/d9f5b741563350cb65e4d8c25e6eec2a-thumbnail.jpg",Portland Trail Blazers vs. LA Clippers (27 October 2025 at 01:00)
-https://gg.poocloud.in/nba_laclippers/index.m3u8
-#EXTINF:-1 tvg-id="ppv-12871" tvg-name="Los Angeles Lakers vs. Sacramento Kings (27 October 2025 at 01:00)" tvg-epgid="12871" tvg-logo="https://ppvs.su/assets/thumb/d34127a4df6b38c603ef13c8ba25b6e5-thumbnail.jpg",Los Angeles Lakers vs. Sacramento Kings (27 October 2025 at 01:00)
-https://gg.poocloud.in/nba_sacramentokings/index.m3u8
+#EXTINF:-1 tvg-id="ppv-12927" tvg-name="Portland Trail Blazers vs. Los Angeles Lakers (28 October 2025 at 02:30)" tvg-epgid="12927" tvg-logo="https://ppvs.su/assets/thumb/ed3e2d5d93aac3355cd9f4de379522ef-thumbnail.jpg",Portland Trail Blazers vs. Los Angeles Lakers (28 October 2025 at 02:30)
+https://gg.poocloud.in/nba_losangeleslakers/index.m3u8
+#EXTINF:-1 tvg-id="ppv-12926" tvg-name="Memphis Grizzlies vs. Golden State Warriors (28 October 2025 at 02:00)" tvg-epgid="12926" tvg-logo="https://ppvs.su/assets/thumb/1c83bdb6eee01ffbc6987927a0329d02-thumbnail.jpg",Memphis Grizzlies vs. Golden State Warriors (28 October 2025 at 02:00)
+https://gg.poocloud.in/nba_goldenstatewarriors/index.m3u8
+#EXTINF:-1 tvg-id="ppv-12917" tvg-name="Denver Nuggets vs. Minnesota Timberwolves (28 October 2025 at 01:30)" tvg-epgid="12917" tvg-logo="https://ppvs.su/assets/thumb/31a7dd5dd10d39a1fdd1438fd6cc8696-thumbnail.jpg",Denver Nuggets vs. Minnesota Timberwolves (28 October 2025 at 01:30)
+https://gg.poocloud.in/nba_minnesotatimberwolves/index.m3u8
+#EXTINF:-1 tvg-id="ppv-12925" tvg-name="Phoenix Suns vs. Utah Jazz (28 October 2025 at 01:00)" tvg-epgid="12925" tvg-logo="https://ppvs.su/assets/thumb/afc856b225c3a542f556ceb1bb28775a-thumbnail.jpg",Phoenix Suns vs. Utah Jazz (28 October 2025 at 01:00)
+https://gg.poocloud.in/nba_utahjazz/index.m3u8
+#EXTINF:-1 tvg-id="ppv-12924" tvg-name="Oklahoma City Thunder vs. Dallas Mavericks (28 October 2025 at 00:30)" tvg-epgid="12924" tvg-logo="https://ppvs.su/assets/thumb/d2c946acf314f81d2c7d19f09702acbc-thumbnail.jpg",Oklahoma City Thunder vs. Dallas Mavericks (28 October 2025 at 00:30)
+https://gg.poocloud.in/nba_dallasmavericks/index.m3u8
+#EXTINF:-1 tvg-id="ppv-12919" tvg-name="Atlanta Hawks vs. Chicago Bulls (28 October 2025 at 00:00)" tvg-epgid="12919" tvg-logo="https://ppvs.su/assets/thumb/92ccfa59bccad528a044352219a1e53b-thumbnail.jpg",Atlanta Hawks vs. Chicago Bulls (28 October 2025 at 00:00)
+https://gg.poocloud.in/nba_chicagobulls/index.m3u8
+#EXTINF:-1 tvg-id="ppv-12920" tvg-name="Brooklyn Nets vs. Houston Rockets (28 October 2025 at 00:00)" tvg-epgid="12920" tvg-logo="https://ppvs.su/assets/thumb/8af9024a083cd4c2e510b60bdffc3b44-thumbnail.jpg",Brooklyn Nets vs. Houston Rockets (28 October 2025 at 00:00)
+https://gg.poocloud.in/nba_houstonrockets/index.m3u8
+#EXTINF:-1 tvg-id="ppv-12922" tvg-name="Boston Celtics vs. New Orleans Pelicans (28 October 2025 at 00:00)" tvg-epgid="12922" tvg-logo="https://ppvs.su/assets/thumb/ba4f8d5db1fde8e9b2ab867da76fa92d-thumbnail.jpg",Boston Celtics vs. New Orleans Pelicans (28 October 2025 at 00:00)
+https://gg.poocloud.in/nba_neworleanspelicans/index.m3u8
+#EXTINF:-1 tvg-id="ppv-12923" tvg-name="Toronto Raptors vs. San Antonio Spurs (28 October 2025 at 00:00)" tvg-epgid="12923" tvg-logo="https://ppvs.su/assets/thumb/1b4fa3684222bbad7cf1428b60538391-thumbnail.jpg",Toronto Raptors vs. San Antonio Spurs (28 October 2025 at 00:00)
+https://gg.poocloud.in/nba_sanantoniospurs/index.m3u8
+#EXTINF:-1 tvg-id="ppv-12916" tvg-name="Cleveland Cavaliers vs. Detroit Pistons (27 October 2025 at 23:00)" tvg-epgid="12916" tvg-logo="https://ppvs.su/assets/thumb/0ec75830760640820df4f4633a53e94b-thumbnail.jpg",Cleveland Cavaliers vs. Detroit Pistons (27 October 2025 at 23:00)
+https://gg.poocloud.in/nba_detroitpistons/index.m3u8
+#EXTINF:-1 tvg-id="ppv-12918" tvg-name="Orlando Magic vs. Philadelphia 76ers (27 October 2025 at 23:00)" tvg-epgid="12918" tvg-logo="https://ppvs.su/assets/thumb/fa8e5fe647aab279c54dc0a9c1f3fbf0-thumbnail.jpg",Orlando Magic vs. Philadelphia 76ers (27 October 2025 at 23:00)
+https://gg.poocloud.in/nba_philadelphia76ers/index.m3u8
 #EXTINF:-1 tvg-id="ppv-12907" tvg-name="Atalanta vs. Milan (28 October 2025 at 19:45)" tvg-epgid="12907" tvg-logo="https://ppvs.su/assets/thumb/3a209c825a412d55f0f8080042308c50-thumbnail.jpg",Atalanta vs. Milan (28 October 2025 at 19:45)
 
 #EXTINF:-1 tvg-id="ppv-12906" tvg-name="Lecce vs. Napoli (28 October 2025 at 17:30)" tvg-epgid="12906" tvg-logo="https://ppvs.su/assets/thumb/19a20f8a094323a86f826c28d4d1619f-thumbnail.jpg",Lecce vs. Napoli (28 October 2025 at 17:30)
