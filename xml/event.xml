@@ -21,28 +21,6 @@ channel="ppv-12770"
 <icon src="https://ppvs.su/assets/thumb/41edb2b2b9117f92cbdef027e516074b-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-12921">
-<display-name>Toronto Blue Jays vs. Los Angeles Dodgers</display-name>
-</channel>
-<programme
-start="20251028000000 +0000"
-stop="20251028030000 +0000"
-channel="ppv-12921"
->
-<title lang="en">Toronto Blue Jays vs. Los Angeles Dodgers</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/03e78a6ebc7218c0e054460d58d4533a-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-12927">
 <display-name>Portland Trail Blazers vs. Los Angeles Lakers</display-name>
 </channel>
@@ -129,116 +107,6 @@ channel="ppv-12925"
 </audio>
 <category>Basketball</category>
 <icon src="https://ppvs.su/assets/thumb/afc856b225c3a542f556ceb1bb28775a-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12924">
-<display-name>Oklahoma City Thunder vs. Dallas Mavericks</display-name>
-</channel>
-<programme
-start="20251028003000 +0000"
-stop="20251028031800 +0000"
-channel="ppv-12924"
->
-<title lang="en">Oklahoma City Thunder vs. Dallas Mavericks</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://ppvs.su/assets/thumb/d2c946acf314f81d2c7d19f09702acbc-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12919">
-<display-name>Atlanta Hawks vs. Chicago Bulls</display-name>
-</channel>
-<programme
-start="20251028000000 +0000"
-stop="20251028024800 +0000"
-channel="ppv-12919"
->
-<title lang="en">Atlanta Hawks vs. Chicago Bulls</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://ppvs.su/assets/thumb/92ccfa59bccad528a044352219a1e53b-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12920">
-<display-name>Brooklyn Nets vs. Houston Rockets</display-name>
-</channel>
-<programme
-start="20251028000000 +0000"
-stop="20251028024800 +0000"
-channel="ppv-12920"
->
-<title lang="en">Brooklyn Nets vs. Houston Rockets</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://ppvs.su/assets/thumb/8af9024a083cd4c2e510b60bdffc3b44-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12922">
-<display-name>Boston Celtics vs. New Orleans Pelicans</display-name>
-</channel>
-<programme
-start="20251028000000 +0000"
-stop="20251028024800 +0000"
-channel="ppv-12922"
->
-<title lang="en">Boston Celtics vs. New Orleans Pelicans</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://ppvs.su/assets/thumb/ba4f8d5db1fde8e9b2ab867da76fa92d-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12923">
-<display-name>Toronto Raptors vs. San Antonio Spurs</display-name>
-</channel>
-<programme
-start="20251028000000 +0000"
-stop="20251028024800 +0000"
-channel="ppv-12923"
->
-<title lang="en">Toronto Raptors vs. San Antonio Spurs</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://ppvs.su/assets/thumb/1b4fa3684222bbad7cf1428b60538391-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-12847">
@@ -833,27 +701,5 @@ channel="ppv-12882"
 </audio>
 <category>Wrestling</category>
 <icon src="https://ppvs.su/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12881">
-<display-name>WWE: Monday Night RAW</display-name>
-</channel>
-<programme
-start="20251028000000 +0000"
-stop="20251028030000 +0000"
-channel="ppv-12881"
->
-<title lang="en">WWE: Monday Night RAW</title>
-<sub-title>Wrestling</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Wrestling</category>
-<icon src="https://ppvs.su/assets/thumb/56336f9d22c51c416e1a56afbd18f314-thumbnail.jpg" />
 </programme>
 </tv>

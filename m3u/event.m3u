@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ppv-12770" tvg-name="Washington Commanders vs. Kansas City Chiefs (28 October 2025 at 00:15)" tvg-epgid="12770" tvg-logo="https://ppvs.su/assets/thumb/41edb2b2b9117f92cbdef027e516074b-thumbnail.jpg",Washington Commanders vs. Kansas City Chiefs (28 October 2025 at 00:15)
 
-#EXTINF:-1 tvg-id="ppv-12921" tvg-name="Toronto Blue Jays vs. Los Angeles Dodgers (28 October 2025 at 00:00)" tvg-epgid="12921" tvg-logo="https://ppvs.su/assets/thumb/03e78a6ebc7218c0e054460d58d4533a-thumbnail.jpg",Toronto Blue Jays vs. Los Angeles Dodgers (28 October 2025 at 00:00)
-
 #EXTINF:-1 tvg-id="ppv-12927" tvg-name="Portland Trail Blazers vs. Los Angeles Lakers (28 October 2025 at 02:30)" tvg-epgid="12927" tvg-logo="https://ppvs.su/assets/thumb/ed3e2d5d93aac3355cd9f4de379522ef-thumbnail.jpg",Portland Trail Blazers vs. Los Angeles Lakers (28 October 2025 at 02:30)
 https://gg.poocloud.in/nba_losangeleslakers/index.m3u8
 #EXTINF:-1 tvg-id="ppv-12926" tvg-name="Memphis Grizzlies vs. Golden State Warriors (28 October 2025 at 02:00)" tvg-epgid="12926" tvg-logo="https://ppvs.su/assets/thumb/1c83bdb6eee01ffbc6987927a0329d02-thumbnail.jpg",Memphis Grizzlies vs. Golden State Warriors (28 October 2025 at 02:00)
@@ -11,16 +9,6 @@ https://gg.poocloud.in/nba_goldenstatewarriors/index.m3u8
 https://gg.poocloud.in/nba_minnesotatimberwolves/index.m3u8
 #EXTINF:-1 tvg-id="ppv-12925" tvg-name="Phoenix Suns vs. Utah Jazz (28 October 2025 at 01:00)" tvg-epgid="12925" tvg-logo="https://ppvs.su/assets/thumb/afc856b225c3a542f556ceb1bb28775a-thumbnail.jpg",Phoenix Suns vs. Utah Jazz (28 October 2025 at 01:00)
 https://gg.poocloud.in/nba_utahjazz/index.m3u8
-#EXTINF:-1 tvg-id="ppv-12924" tvg-name="Oklahoma City Thunder vs. Dallas Mavericks (28 October 2025 at 00:30)" tvg-epgid="12924" tvg-logo="https://ppvs.su/assets/thumb/d2c946acf314f81d2c7d19f09702acbc-thumbnail.jpg",Oklahoma City Thunder vs. Dallas Mavericks (28 October 2025 at 00:30)
-https://gg.poocloud.in/nba_dallasmavericks/index.m3u8
-#EXTINF:-1 tvg-id="ppv-12919" tvg-name="Atlanta Hawks vs. Chicago Bulls (28 October 2025 at 00:00)" tvg-epgid="12919" tvg-logo="https://ppvs.su/assets/thumb/92ccfa59bccad528a044352219a1e53b-thumbnail.jpg",Atlanta Hawks vs. Chicago Bulls (28 October 2025 at 00:00)
-https://gg.poocloud.in/nba_chicagobulls/index.m3u8
-#EXTINF:-1 tvg-id="ppv-12920" tvg-name="Brooklyn Nets vs. Houston Rockets (28 October 2025 at 00:00)" tvg-epgid="12920" tvg-logo="https://ppvs.su/assets/thumb/8af9024a083cd4c2e510b60bdffc3b44-thumbnail.jpg",Brooklyn Nets vs. Houston Rockets (28 October 2025 at 00:00)
-https://gg.poocloud.in/nba_houstonrockets/index.m3u8
-#EXTINF:-1 tvg-id="ppv-12922" tvg-name="Boston Celtics vs. New Orleans Pelicans (28 October 2025 at 00:00)" tvg-epgid="12922" tvg-logo="https://ppvs.su/assets/thumb/ba4f8d5db1fde8e9b2ab867da76fa92d-thumbnail.jpg",Boston Celtics vs. New Orleans Pelicans (28 October 2025 at 00:00)
-https://gg.poocloud.in/nba_neworleanspelicans/index.m3u8
-#EXTINF:-1 tvg-id="ppv-12923" tvg-name="Toronto Raptors vs. San Antonio Spurs (28 October 2025 at 00:00)" tvg-epgid="12923" tvg-logo="https://ppvs.su/assets/thumb/1b4fa3684222bbad7cf1428b60538391-thumbnail.jpg",Toronto Raptors vs. San Antonio Spurs (28 October 2025 at 00:00)
-https://gg.poocloud.in/nba_sanantoniospurs/index.m3u8
 #EXTINF:-1 tvg-id="ppv-12847" tvg-name="OM vs. Angers SCO (29 October 2025 at 20:05)" tvg-epgid="12847" tvg-logo="https://ppvs.su/assets/thumb/e908946e7cf2633ca2143cbbfa7e3aa8-thumbnail.jpg",OM vs. Angers SCO (29 October 2025 at 20:05)
 
 #EXTINF:-1 tvg-id="ppv-12849" tvg-name="FC Nantes vs. AS Monaco (29 October 2025 at 20:05)" tvg-epgid="12849" tvg-logo="https://ppvs.su/assets/thumb/5cb9e576ec5b269eeb79f8c8fe519412-thumbnail.jpg",FC Nantes vs. AS Monaco (29 October 2025 at 20:05)
@@ -74,6 +62,4 @@ https://gg.poocloud.in/carabao-cup_wyc/index.m3u8
 #EXTINF:-1 tvg-id="ppv-12883" tvg-name="AEW: Wednesday Night Dynamite (30 October 2025 at 00:00)" tvg-epgid="12883" tvg-logo="https://ppvs.su/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg",AEW: Wednesday Night Dynamite (30 October 2025 at 00:00)
 
 #EXTINF:-1 tvg-id="ppv-12882" tvg-name="WWE: NXT (29 October 2025 at 00:00)" tvg-epgid="12882" tvg-logo="https://ppvs.su/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg",WWE: NXT (29 October 2025 at 00:00)
-
-#EXTINF:-1 tvg-id="ppv-12881" tvg-name="WWE: Monday Night RAW (28 October 2025 at 00:00)" tvg-epgid="12881" tvg-logo="https://ppvs.su/assets/thumb/56336f9d22c51c416e1a56afbd18f314-thumbnail.jpg",WWE: Monday Night RAW (28 October 2025 at 00:00)
 
