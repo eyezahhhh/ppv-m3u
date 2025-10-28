@@ -61,6 +61,38 @@ https://gg.poocloud.in/carabao-cup_gri/index.m3u8
 https://gg.poocloud.in/carabao-cup_wyc/index.m3u8
 #EXTINF:-1 tvg-id="ppv-12906" tvg-name="Lecce vs. Napoli (28 October 2025 at 17:30)" tvg-epgid="12906" tvg-logo="https://ppvs.su/assets/thumb/19a20f8a094323a86f826c28d4d1619f-thumbnail.jpg",Lecce vs. Napoli (28 October 2025 at 17:30)
 
+#EXTINF:-1 tvg-id="ppv-12960" tvg-name="Los Angeles Kings vs. San Jose Sharks (29 October 2025 at 03:00)" tvg-epgid="12960" tvg-logo="https://ppvs.su/assets/thumb/d5bcef864ec0ad8d6860d1d0889a8f7a-thumbnail.jpg",Los Angeles Kings vs. San Jose Sharks (29 October 2025 at 03:00)
+https://gg.poocloud.in/sanjosesharks/index.m3u8
+#EXTINF:-1 tvg-id="ppv-12959" tvg-name="Montreal Canadiens vs. Seattle Kraken (29 October 2025 at 02:30)" tvg-epgid="12959" tvg-logo="https://ppvs.su/assets/thumb/3f524d814394312485cd7da5b29031c1-thumbnail.jpg",Montreal Canadiens vs. Seattle Kraken (29 October 2025 at 02:30)
+https://gg.poocloud.in/seattlekraken/index.m3u8
+#EXTINF:-1 tvg-id="ppv-12958" tvg-name="New York Rangers vs. Vancouver Canucks (29 October 2025 at 02:00)" tvg-epgid="12958" tvg-logo="https://ppvs.su/assets/thumb/b44bdc8ad0dc15cefd64d28ab46ecda3-thumbnail.jpg",New York Rangers vs. Vancouver Canucks (29 October 2025 at 02:00)
+https://gg.poocloud.in/vancouvercanucks/index.m3u8
+#EXTINF:-1 tvg-id="ppv-12957" tvg-name="Utah Mammoth vs. Edmonton Oilers (29 October 2025 at 01:30)" tvg-epgid="12957" tvg-logo="https://ppvs.su/assets/thumb/1e6459f9ab3391e0f3768682ada81428-thumbnail.jpg",Utah Mammoth vs. Edmonton Oilers (29 October 2025 at 01:30)
+https://gg.poocloud.in/edmontonoilers/index.m3u8
+#EXTINF:-1 tvg-id="ppv-12956" tvg-name="New Jersey Devils vs. Colorado Avalanche (29 October 2025 at 01:00)" tvg-epgid="12956" tvg-logo="https://ppvs.su/assets/thumb/03bdbeb738ace3dbf82212fffe561787-thumbnail.jpg",New Jersey Devils vs. Colorado Avalanche (29 October 2025 at 01:00)
+https://gg.poocloud.in/coloradoavalanche/index.m3u8
+#EXTINF:-1 tvg-id="ppv-12955" tvg-name="Ottawa Senators vs. Chicago Blackhawks (29 October 2025 at 00:45)" tvg-epgid="12955" tvg-logo="https://ppvs.su/assets/thumb/b0d3a84f6694391079641bc700c611dc-thumbnail.jpg",Ottawa Senators vs. Chicago Blackhawks (29 October 2025 at 00:45)
+https://gg.poocloud.in/chicagoblackhawks/index.m3u8
+#EXTINF:-1 tvg-id="ppv-12954" tvg-name="Washington Capitals vs. Dallas Stars (29 October 2025 at 00:30)" tvg-epgid="12954" tvg-logo="https://ppvs.su/assets/thumb/2c27d2c14fa649a71b7357b434c075ed-thumbnail.jpg",Washington Capitals vs. Dallas Stars (29 October 2025 at 00:30)
+https://gg.poocloud.in/dallasstars/index.m3u8
+#EXTINF:-1 tvg-id="ppv-12953" tvg-name="Detroit Red Wings vs. St. Louis Blues (29 October 2025 at 00:15)" tvg-epgid="12953" tvg-logo="https://ppvs.su/assets/thumb/a76ae4d108ccb44083fa3925a6a19c18-thumbnail.jpg",Detroit Red Wings vs. St. Louis Blues (29 October 2025 at 00:15)
+https://gg.poocloud.in/stlouisblues/index.m3u8
+#EXTINF:-1 tvg-id="ppv-12952" tvg-name="Winnipeg Jets vs. Minnesota Wild (29 October 2025 at 00:00)" tvg-epgid="12952" tvg-logo="https://ppvs.su/assets/thumb/4ba94cca6fbbe3ae19ff2bad9b1f5744-thumbnail.jpg",Winnipeg Jets vs. Minnesota Wild (29 October 2025 at 00:00)
+https://gg.poocloud.in/minnesotawild/index.m3u8
+#EXTINF:-1 tvg-id="ppv-12951" tvg-name="Tampa Bay Lightning vs. Nashville Predators (28 October 2025 at 23:45)" tvg-epgid="12951" tvg-logo="https://ppvs.su/assets/thumb/c04c0e2ec368ded4f7bca0e6dfde26d3-thumbnail.jpg",Tampa Bay Lightning vs. Nashville Predators (28 October 2025 at 23:45)
+https://gg.poocloud.in/nashvillepredators/index.m3u8
+#EXTINF:-1 tvg-id="ppv-12950" tvg-name="New York Islanders vs. Boston Bruins (28 October 2025 at 23:15)" tvg-epgid="12950" tvg-logo="https://ppvs.su/assets/thumb/c2974937a68ad7e4fa25272858aac1e6-thumbnail.jpg",New York Islanders vs. Boston Bruins (28 October 2025 at 23:15)
+https://gg.poocloud.in/bostonbruins/index.m3u8
+#EXTINF:-1 tvg-id="ppv-12949" tvg-name="Anaheim Ducks vs. Florida Panthers (28 October 2025 at 23:00)" tvg-epgid="12949" tvg-logo="https://ppvs.su/assets/thumb/7fb58858ccfc7c99075156b092b407fe-thumbnail.jpg",Anaheim Ducks vs. Florida Panthers (28 October 2025 at 23:00)
+https://gg.poocloud.in/floridapanthers/index.m3u8
+#EXTINF:-1 tvg-id="ppv-12948" tvg-name="Columbus Blue Jackets vs. Buffalo Sabres (28 October 2025 at 22:45)" tvg-epgid="12948" tvg-logo="https://ppvs.su/assets/thumb/9e5ac6fcca36f894dd59321393a36176-thumbnail.jpg",Columbus Blue Jackets vs. Buffalo Sabres (28 October 2025 at 22:45)
+https://gg.poocloud.in/buffalosabres/index.m3u8
+#EXTINF:-1 tvg-id="ppv-12947" tvg-name="Vegas Golden Knights vs. Carolina Hurricanes (28 October 2025 at 22:30)" tvg-epgid="12947" tvg-logo="https://ppvs.su/assets/thumb/8aaf9cc87dd75f7671df7e87b2285eb7-thumbnail.jpg",Vegas Golden Knights vs. Carolina Hurricanes (28 October 2025 at 22:30)
+https://gg.poocloud.in/carolinahurricanes/index.m3u8
+#EXTINF:-1 tvg-id="ppv-12945" tvg-name="Pittsburgh Penguins vs. Philadelphia Flyers (28 October 2025 at 22:00)" tvg-epgid="12945" tvg-logo="https://ppvs.su/assets/thumb/0139ca0cfef580ba62833d2df91b7d50-thumbnail.jpg",Pittsburgh Penguins vs. Philadelphia Flyers (28 October 2025 at 22:00)
+https://gg.poocloud.in/philadelphiaflyers/index.m3u8
+#EXTINF:-1 tvg-id="ppv-12946" tvg-name="Calgary Flames vs. Toronto Maple Leafs (28 October 2025 at 22:00)" tvg-epgid="12946" tvg-logo="https://ppvs.su/assets/thumb/2c5d976273462e6db0273eaae8b79944-thumbnail.jpg",Calgary Flames vs. Toronto Maple Leafs (28 October 2025 at 22:00)
+https://gg.poocloud.in/torontomapleleafs/index.m3u8
 #EXTINF:-1 tvg-id="ppv-12883" tvg-name="AEW: Wednesday Night Dynamite (30 October 2025 at 00:00)" tvg-epgid="12883" tvg-logo="https://ppvs.su/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg",AEW: Wednesday Night Dynamite (30 October 2025 at 00:00)
 
 #EXTINF:-1 tvg-id="ppv-12882" tvg-name="WWE: NXT (29 October 2025 at 00:00)" tvg-epgid="12882" tvg-logo="https://ppvs.su/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg",WWE: NXT (29 October 2025 at 00:00)
