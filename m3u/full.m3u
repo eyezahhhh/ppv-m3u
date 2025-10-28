@@ -1,14 +1,22 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ppv-12770" tvg-name="Washington Commanders vs. Kansas City Chiefs (28 October 2025 at 00:15)" tvg-epgid="12770" tvg-logo="https://ppvs.su/assets/thumb/41edb2b2b9117f92cbdef027e516074b-thumbnail.jpg",Washington Commanders vs. Kansas City Chiefs (28 October 2025 at 00:15)
+#EXTINF:-1 tvg-id="ppv-12940" tvg-name="Toronto Blue Jays vs. Los Angeles Dodgers (29 October 2025 at 00:00)" tvg-epgid="12940" tvg-logo="https://ppvs.su/assets/thumb/03e78a6ebc7218c0e054460d58d4533a-thumbnail.jpg",Toronto Blue Jays vs. Los Angeles Dodgers (29 October 2025 at 00:00)
 
+#EXTINF:-1 tvg-id="ppv-12944" tvg-name="LA Clippers vs. Golden State Warriors (29 October 2025 at 03:00)" tvg-epgid="12944" tvg-logo="https://ppvs.su/assets/thumb/71d8b3955123598a0ecf40a7075e901c-thumbnail.jpg",LA Clippers vs. Golden State Warriors (29 October 2025 at 03:00)
+https://gg.poocloud.in/nba_goldenstatewarriors/index.m3u8
+#EXTINF:-1 tvg-id="ppv-12942" tvg-name="New York Knicks vs. Milwaukee Bucks (29 October 2025 at 00:00)" tvg-epgid="12942" tvg-logo="https://ppvs.su/assets/thumb/f1047a2c72a2aaacc87d890f8a68f934-thumbnail.jpg",New York Knicks vs. Milwaukee Bucks (29 October 2025 at 00:00)
+https://gg.poocloud.in/nba_milwaukeebucks/index.m3u8
+#EXTINF:-1 tvg-id="ppv-12943" tvg-name="Sacramento Kings vs. Oklahoma City Thunder (29 October 2025 at 00:00)" tvg-epgid="12943" tvg-logo="https://ppvs.su/assets/thumb/9e4a94cc8d8970c307dd61c8a45354e1-thumbnail.jpg",Sacramento Kings vs. Oklahoma City Thunder (29 October 2025 at 00:00)
+https://gg.poocloud.in/nba_oklahomacitythunder/index.m3u8
+#EXTINF:-1 tvg-id="ppv-12941" tvg-name="Charlotte Hornets vs. Miami Heat (28 October 2025 at 23:30)" tvg-epgid="12941" tvg-logo="https://ppvs.su/assets/thumb/1dca98f54f51cdd305bd0a0be61f9418-thumbnail.jpg",Charlotte Hornets vs. Miami Heat (28 October 2025 at 23:30)
+https://gg.poocloud.in/nba_miamiheat/index.m3u8
+#EXTINF:-1 tvg-id="ppv-12939" tvg-name="Philadelphia 76ers vs. Washington Wizards (28 October 2025 at 23:00)" tvg-epgid="12939" tvg-logo="https://ppvs.su/assets/thumb/e0cf3434c1d12cdaa04e7228f86a6a95-thumbnail.jpg",Philadelphia 76ers vs. Washington Wizards (28 October 2025 at 23:00)
+https://gg.poocloud.in/nba_washingtonwizards/index.m3u8
 #EXTINF:-1 tvg-id="ppv-12927" tvg-name="Portland Trail Blazers vs. Los Angeles Lakers (28 October 2025 at 02:30)" tvg-epgid="12927" tvg-logo="https://ppvs.su/assets/thumb/ed3e2d5d93aac3355cd9f4de379522ef-thumbnail.jpg",Portland Trail Blazers vs. Los Angeles Lakers (28 October 2025 at 02:30)
 https://gg.poocloud.in/nba_losangeleslakers/index.m3u8
 #EXTINF:-1 tvg-id="ppv-12926" tvg-name="Memphis Grizzlies vs. Golden State Warriors (28 October 2025 at 02:00)" tvg-epgid="12926" tvg-logo="https://ppvs.su/assets/thumb/1c83bdb6eee01ffbc6987927a0329d02-thumbnail.jpg",Memphis Grizzlies vs. Golden State Warriors (28 October 2025 at 02:00)
 https://gg.poocloud.in/nba_goldenstatewarriors/index.m3u8
 #EXTINF:-1 tvg-id="ppv-12917" tvg-name="Denver Nuggets vs. Minnesota Timberwolves (28 October 2025 at 01:30)" tvg-epgid="12917" tvg-logo="https://ppvs.su/assets/thumb/31a7dd5dd10d39a1fdd1438fd6cc8696-thumbnail.jpg",Denver Nuggets vs. Minnesota Timberwolves (28 October 2025 at 01:30)
 https://gg.poocloud.in/nba_minnesotatimberwolves/index.m3u8
-#EXTINF:-1 tvg-id="ppv-12925" tvg-name="Phoenix Suns vs. Utah Jazz (28 October 2025 at 01:00)" tvg-epgid="12925" tvg-logo="https://ppvs.su/assets/thumb/afc856b225c3a542f556ceb1bb28775a-thumbnail.jpg",Phoenix Suns vs. Utah Jazz (28 October 2025 at 01:00)
-https://gg.poocloud.in/nba_utahjazz/index.m3u8
 #EXTINF:-1 tvg-id="ppv-12847" tvg-name="OM vs. Angers SCO (29 October 2025 at 20:05)" tvg-epgid="12847" tvg-logo="https://ppvs.su/assets/thumb/e908946e7cf2633ca2143cbbfa7e3aa8-thumbnail.jpg",OM vs. Angers SCO (29 October 2025 at 20:05)
 
 #EXTINF:-1 tvg-id="ppv-12849" tvg-name="FC Nantes vs. AS Monaco (29 October 2025 at 20:05)" tvg-epgid="12849" tvg-logo="https://ppvs.su/assets/thumb/5cb9e576ec5b269eeb79f8c8fe519412-thumbnail.jpg",FC Nantes vs. AS Monaco (29 October 2025 at 20:05)
