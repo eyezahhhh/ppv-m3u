@@ -1,4 +1,26 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ppv-12965" tvg-name="Toronto Blue Jays vs. Los Angeles Dodgers (30 October 2025 at 00:00)" tvg-epgid="12965" tvg-logo="https://ppvs.su/assets/thumb/03e78a6ebc7218c0e054460d58d4533a-thumbnail.jpg",Toronto Blue Jays vs. Los Angeles Dodgers (30 October 2025 at 00:00)
+
+#EXTINF:-1 tvg-id="ppv-12971" tvg-name="Memphis Grizzlies vs. Phoenix Suns (30 October 2025 at 02:00)" tvg-epgid="12971" tvg-logo="https://ppvs.su/assets/thumb/c056ed9bf9823fe6c5d7baedaccf76ef-thumbnail.jpg",Memphis Grizzlies vs. Phoenix Suns (30 October 2025 at 02:00)
+https://gg.poocloud.in/nba_phoenixsuns/index.m3u8
+#EXTINF:-1 tvg-id="ppv-12970" tvg-name="Los Angeles Lakers vs. Minnesota Timberwolves (30 October 2025 at 01:30)" tvg-epgid="12970" tvg-logo="https://ppvs.su/assets/thumb/ad9c1d027c406c7142dde028cc4a7fd0-thumbnail.jpg",Los Angeles Lakers vs. Minnesota Timberwolves (30 October 2025 at 01:30)
+https://gg.poocloud.in/nba_minnesotatimberwolves/index.m3u8
+#EXTINF:-1 tvg-id="ppv-12968" tvg-name="New Orleans Pelicans vs. Denver Nuggets (30 October 2025 at 01:00)" tvg-epgid="12968" tvg-logo="https://ppvs.su/assets/thumb/f21321c202e36feeaf3751e615d1e559-thumbnail.jpg",New Orleans Pelicans vs. Denver Nuggets (30 October 2025 at 01:00)
+https://gg.poocloud.in/nba_denvernuggets/index.m3u8
+#EXTINF:-1 tvg-id="ppv-12969" tvg-name="Portland Trail Blazers vs. Utah Jazz (30 October 2025 at 01:00)" tvg-epgid="12969" tvg-logo="https://ppvs.su/assets/thumb/7cc2e13b2c25deff50d1b048c6dacfa3-thumbnail.jpg",Portland Trail Blazers vs. Utah Jazz (30 October 2025 at 01:00)
+https://gg.poocloud.in/nba_utahjazz/index.m3u8
+#EXTINF:-1 tvg-id="ppv-12967" tvg-name="Indiana Pacers vs. Dallas Mavericks (30 October 2025 at 00:30)" tvg-epgid="12967" tvg-logo="https://ppvs.su/assets/thumb/c3e45e98c049d49bd9051769761d8819-thumbnail.jpg",Indiana Pacers vs. Dallas Mavericks (30 October 2025 at 00:30)
+https://gg.poocloud.in/nba_dallasmavericks/index.m3u8
+#EXTINF:-1 tvg-id="ppv-12966" tvg-name="Sacramento Kings vs. Chicago Bulls (30 October 2025 at 00:00)" tvg-epgid="12966" tvg-logo="https://ppvs.su/assets/thumb/43e00a70537df89c9a12fb9bfb305da2-thumbnail.jpg",Sacramento Kings vs. Chicago Bulls (30 October 2025 at 00:00)
+https://gg.poocloud.in/nba_chicagobulls/index.m3u8
+#EXTINF:-1 tvg-id="ppv-12963" tvg-name="Atlanta Hawks vs. Brooklyn Nets (29 October 2025 at 23:30)" tvg-epgid="12963" tvg-logo="https://ppvs.su/assets/thumb/b67cda530995c1925c98e1a7ff686fd7-thumbnail.jpg",Atlanta Hawks vs. Brooklyn Nets (29 October 2025 at 23:30)
+https://gg.poocloud.in/nba_brooklynnets/index.m3u8
+#EXTINF:-1 tvg-id="ppv-12961" tvg-name="Cleveland Cavaliers vs. Boston Celtics (29 October 2025 at 23:00)" tvg-epgid="12961" tvg-logo="https://ppvs.su/assets/thumb/46bf466345e807a646c3c78eac3be3cf-thumbnail.jpg",Cleveland Cavaliers vs. Boston Celtics (29 October 2025 at 23:00)
+https://gg.poocloud.in/nba_bostonceltics/index.m3u8
+#EXTINF:-1 tvg-id="ppv-12962" tvg-name="Orlando Magic vs. Detroit Pistons (29 October 2025 at 23:00)" tvg-epgid="12962" tvg-logo="https://ppvs.su/assets/thumb/8baa4af8aa64723f4075f48658212cdf-thumbnail.jpg",Orlando Magic vs. Detroit Pistons (29 October 2025 at 23:00)
+https://gg.poocloud.in/nba_detroitpistons/index.m3u8
+#EXTINF:-1 tvg-id="ppv-12964" tvg-name="Houston Rockets vs. Toronto Raptors (29 October 2025 at 22:30)" tvg-epgid="12964" tvg-logo="https://ppvs.su/assets/thumb/f9465f9cac65b503c62b5643213a336e-thumbnail.jpg",Houston Rockets vs. Toronto Raptors (29 October 2025 at 22:30)
+https://gg.poocloud.in/nba_torontoraptors/index.m3u8
 #EXTINF:-1 tvg-id="ppv-12944" tvg-name="LA Clippers vs. Golden State Warriors (29 October 2025 at 03:00)" tvg-epgid="12944" tvg-logo="https://ppvs.su/assets/thumb/71d8b3955123598a0ecf40a7075e901c-thumbnail.jpg",LA Clippers vs. Golden State Warriors (29 October 2025 at 03:00)
 https://gg.poocloud.in/nba_goldenstatewarriors/index.m3u8
 #EXTINF:-1 tvg-id="ppv-12915" tvg-name="Pisa vs. Lazio (30 October 2025 at 19:45)" tvg-epgid="12915" tvg-logo="https://ppvs.su/assets/thumb/335be3c4ce408fcb45138d4eae416c77-thumbnail.jpg",Pisa vs. Lazio (30 October 2025 at 19:45)
@@ -53,8 +75,6 @@ https://gg.poocloud.in/seattlekraken/index.m3u8
 https://gg.poocloud.in/vancouvercanucks/index.m3u8
 #EXTINF:-1 tvg-id="ppv-12957" tvg-name="Utah Mammoth vs. Edmonton Oilers (29 October 2025 at 01:30)" tvg-epgid="12957" tvg-logo="https://ppvs.su/assets/thumb/1e6459f9ab3391e0f3768682ada81428-thumbnail.jpg",Utah Mammoth vs. Edmonton Oilers (29 October 2025 at 01:30)
 https://gg.poocloud.in/edmontonoilers/index.m3u8
-#EXTINF:-1 tvg-id="ppv-12956" tvg-name="New Jersey Devils vs. Colorado Avalanche (29 October 2025 at 01:00)" tvg-epgid="12956" tvg-logo="https://ppvs.su/assets/thumb/03bdbeb738ace3dbf82212fffe561787-thumbnail.jpg",New Jersey Devils vs. Colorado Avalanche (29 October 2025 at 01:00)
-https://gg.poocloud.in/coloradoavalanche/index.m3u8
 #EXTINF:-1 tvg-id="ppv-12884" tvg-name="TNA: Impact (31 October 2025 at 00:00)" tvg-epgid="12884" tvg-logo="https://ppvs.su/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg",TNA: Impact (31 October 2025 at 00:00)
 
 #EXTINF:-1 tvg-id="ppv-12883" tvg-name="AEW: Wednesday Night Dynamite (30 October 2025 at 00:00)" tvg-epgid="12883" tvg-logo="https://ppvs.su/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg",AEW: Wednesday Night Dynamite (30 October 2025 at 00:00)
