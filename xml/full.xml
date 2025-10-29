@@ -1,26 +1,4 @@
 <tv>
-<channel id="ppv-12940">
-<display-name>Toronto Blue Jays vs. Los Angeles Dodgers</display-name>
-</channel>
-<programme
-start="20251029000000 +0000"
-stop="20251029030000 +0000"
-channel="ppv-12940"
->
-<title lang="en">Toronto Blue Jays vs. Los Angeles Dodgers</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://ppvs.su/assets/thumb/03e78a6ebc7218c0e054460d58d4533a-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-12944">
 <display-name>LA Clippers vs. Golden State Warriors</display-name>
 </channel>
@@ -41,50 +19,6 @@ channel="ppv-12944"
 </audio>
 <category>Basketball</category>
 <icon src="https://ppvs.su/assets/thumb/71d8b3955123598a0ecf40a7075e901c-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12942">
-<display-name>New York Knicks vs. Milwaukee Bucks</display-name>
-</channel>
-<programme
-start="20251029000000 +0000"
-stop="20251029024800 +0000"
-channel="ppv-12942"
->
-<title lang="en">New York Knicks vs. Milwaukee Bucks</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://ppvs.su/assets/thumb/f1047a2c72a2aaacc87d890f8a68f934-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12943">
-<display-name>Sacramento Kings vs. Oklahoma City Thunder</display-name>
-</channel>
-<programme
-start="20251029000000 +0000"
-stop="20251029024800 +0000"
-channel="ppv-12943"
->
-<title lang="en">Sacramento Kings vs. Oklahoma City Thunder</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://ppvs.su/assets/thumb/9e4a94cc8d8970c307dd61c8a45354e1-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-12915">
@@ -725,72 +659,6 @@ channel="ppv-12954"
 <icon src="https://ppvs.su/assets/thumb/2c27d2c14fa649a71b7357b434c075ed-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-12953">
-<display-name>Detroit Red Wings vs. St. Louis Blues</display-name>
-</channel>
-<programme
-start="20251029001500 +0000"
-stop="20251029031500 +0000"
-channel="ppv-12953"
->
-<title lang="en">Detroit Red Wings vs. St. Louis Blues</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://ppvs.su/assets/thumb/a76ae4d108ccb44083fa3925a6a19c18-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12952">
-<display-name>Winnipeg Jets vs. Minnesota Wild</display-name>
-</channel>
-<programme
-start="20251029000000 +0000"
-stop="20251029030000 +0000"
-channel="ppv-12952"
->
-<title lang="en">Winnipeg Jets vs. Minnesota Wild</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://ppvs.su/assets/thumb/4ba94cca6fbbe3ae19ff2bad9b1f5744-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12951">
-<display-name>Tampa Bay Lightning vs. Nashville Predators</display-name>
-</channel>
-<programme
-start="20251028234500 +0000"
-stop="20251029024500 +0000"
-channel="ppv-12951"
->
-<title lang="en">Tampa Bay Lightning vs. Nashville Predators</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://ppvs.su/assets/thumb/c04c0e2ec368ded4f7bca0e6dfde26d3-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-12884">
 <display-name>TNA: Impact</display-name>
 </channel>
@@ -833,27 +701,5 @@ channel="ppv-12883"
 </audio>
 <category>Wrestling</category>
 <icon src="https://ppvs.su/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12882">
-<display-name>WWE: NXT</display-name>
-</channel>
-<programme
-start="20251029000000 +0000"
-stop="20251029030000 +0000"
-channel="ppv-12882"
->
-<title lang="en">WWE: NXT</title>
-<sub-title>Wrestling</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Wrestling</category>
-<icon src="https://ppvs.su/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg" />
 </programme>
 </tv>

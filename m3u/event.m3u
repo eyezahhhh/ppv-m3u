@@ -1,12 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ppv-12940" tvg-name="Toronto Blue Jays vs. Los Angeles Dodgers (29 October 2025 at 00:00)" tvg-epgid="12940" tvg-logo="https://ppvs.su/assets/thumb/03e78a6ebc7218c0e054460d58d4533a-thumbnail.jpg",Toronto Blue Jays vs. Los Angeles Dodgers (29 October 2025 at 00:00)
-
 #EXTINF:-1 tvg-id="ppv-12944" tvg-name="LA Clippers vs. Golden State Warriors (29 October 2025 at 03:00)" tvg-epgid="12944" tvg-logo="https://ppvs.su/assets/thumb/71d8b3955123598a0ecf40a7075e901c-thumbnail.jpg",LA Clippers vs. Golden State Warriors (29 October 2025 at 03:00)
 https://gg.poocloud.in/nba_goldenstatewarriors/index.m3u8
-#EXTINF:-1 tvg-id="ppv-12942" tvg-name="New York Knicks vs. Milwaukee Bucks (29 October 2025 at 00:00)" tvg-epgid="12942" tvg-logo="https://ppvs.su/assets/thumb/f1047a2c72a2aaacc87d890f8a68f934-thumbnail.jpg",New York Knicks vs. Milwaukee Bucks (29 October 2025 at 00:00)
-https://gg.poocloud.in/nba_milwaukeebucks/index.m3u8
-#EXTINF:-1 tvg-id="ppv-12943" tvg-name="Sacramento Kings vs. Oklahoma City Thunder (29 October 2025 at 00:00)" tvg-epgid="12943" tvg-logo="https://ppvs.su/assets/thumb/9e4a94cc8d8970c307dd61c8a45354e1-thumbnail.jpg",Sacramento Kings vs. Oklahoma City Thunder (29 October 2025 at 00:00)
-https://gg.poocloud.in/nba_oklahomacitythunder/index.m3u8
 #EXTINF:-1 tvg-id="ppv-12915" tvg-name="Pisa vs. Lazio (30 October 2025 at 19:45)" tvg-epgid="12915" tvg-logo="https://ppvs.su/assets/thumb/335be3c4ce408fcb45138d4eae416c77-thumbnail.jpg",Pisa vs. Lazio (30 October 2025 at 19:45)
 
 #EXTINF:-1 tvg-id="ppv-12914" tvg-name="Cagliari vs. Sassuolo (30 October 2025 at 17:30)" tvg-epgid="12914" tvg-logo="https://ppvs.su/assets/thumb/81b7504afe264c1c2f21da02571cd2c7-thumbnail.jpg",Cagliari vs. Sassuolo (30 October 2025 at 17:30)
@@ -65,15 +59,7 @@ https://gg.poocloud.in/coloradoavalanche/index.m3u8
 https://gg.poocloud.in/chicagoblackhawks/index.m3u8
 #EXTINF:-1 tvg-id="ppv-12954" tvg-name="Washington Capitals vs. Dallas Stars (29 October 2025 at 00:30)" tvg-epgid="12954" tvg-logo="https://ppvs.su/assets/thumb/2c27d2c14fa649a71b7357b434c075ed-thumbnail.jpg",Washington Capitals vs. Dallas Stars (29 October 2025 at 00:30)
 https://gg.poocloud.in/dallasstars/index.m3u8
-#EXTINF:-1 tvg-id="ppv-12953" tvg-name="Detroit Red Wings vs. St. Louis Blues (29 October 2025 at 00:15)" tvg-epgid="12953" tvg-logo="https://ppvs.su/assets/thumb/a76ae4d108ccb44083fa3925a6a19c18-thumbnail.jpg",Detroit Red Wings vs. St. Louis Blues (29 October 2025 at 00:15)
-https://gg.poocloud.in/stlouisblues/index.m3u8
-#EXTINF:-1 tvg-id="ppv-12952" tvg-name="Winnipeg Jets vs. Minnesota Wild (29 October 2025 at 00:00)" tvg-epgid="12952" tvg-logo="https://ppvs.su/assets/thumb/4ba94cca6fbbe3ae19ff2bad9b1f5744-thumbnail.jpg",Winnipeg Jets vs. Minnesota Wild (29 October 2025 at 00:00)
-https://gg.poocloud.in/minnesotawild/index.m3u8
-#EXTINF:-1 tvg-id="ppv-12951" tvg-name="Tampa Bay Lightning vs. Nashville Predators (28 October 2025 at 23:45)" tvg-epgid="12951" tvg-logo="https://ppvs.su/assets/thumb/c04c0e2ec368ded4f7bca0e6dfde26d3-thumbnail.jpg",Tampa Bay Lightning vs. Nashville Predators (28 October 2025 at 23:45)
-https://gg.poocloud.in/nashvillepredators/index.m3u8
 #EXTINF:-1 tvg-id="ppv-12884" tvg-name="TNA: Impact (31 October 2025 at 00:00)" tvg-epgid="12884" tvg-logo="https://ppvs.su/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg",TNA: Impact (31 October 2025 at 00:00)
 
 #EXTINF:-1 tvg-id="ppv-12883" tvg-name="AEW: Wednesday Night Dynamite (30 October 2025 at 00:00)" tvg-epgid="12883" tvg-logo="https://ppvs.su/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg",AEW: Wednesday Night Dynamite (30 October 2025 at 00:00)
-
-#EXTINF:-1 tvg-id="ppv-12882" tvg-name="WWE: NXT (29 October 2025 at 00:00)" tvg-epgid="12882" tvg-logo="https://ppvs.su/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg",WWE: NXT (29 October 2025 at 00:00)
 
