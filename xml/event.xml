@@ -241,6 +241,28 @@ channel="ppv-12964"
 <icon src="https://ppvs.su/assets/thumb/f9465f9cac65b503c62b5643213a336e-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-12972">
+<display-name>Getafe CF vs. Girona FC</display-name>
+</channel>
+<programme
+start="20251031200000 +0000"
+stop="20251031223000 +0000"
+channel="ppv-12972"
+>
+<title lang="en">Getafe CF vs. Girona FC</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://ppvs.su/assets/thumb/546c12ae47c6054e2004e5982cbcfa32-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-12897">
 <display-name>Augsburg vs. Dortmund</display-name>
 </channel>
@@ -679,72 +701,6 @@ channel="ppv-12850"
 </audio>
 <category>Football</category>
 <icon src="https://ppvs.su/assets/thumb/4017d5643fb2f6b69c7193a85ccfeb8c-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12908">
-<display-name>Como vs. Hellas Verona</display-name>
-</channel>
-<programme
-start="20251029173000 +0000"
-stop="20251029200000 +0000"
-channel="ppv-12908"
->
-<title lang="en">Como vs. Hellas Verona</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/426e7643c57ba39b8ba3b3baf3a5498f-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12909">
-<display-name>Juventus vs. Udinese</display-name>
-</channel>
-<programme
-start="20251029173000 +0000"
-stop="20251029200000 +0000"
-channel="ppv-12909"
->
-<title lang="en">Juventus vs. Udinese</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/d92834336c2d4ec1bdbbcc8ba95655ec-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12910">
-<display-name>Roma vs. Parma</display-name>
-</channel>
-<programme
-start="20251029173000 +0000"
-stop="20251029200000 +0000"
-channel="ppv-12910"
->
-<title lang="en">Roma vs. Parma</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://ppvs.su/assets/thumb/f290fb719b6d7198af0d2f5ab80087d9-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-12982">

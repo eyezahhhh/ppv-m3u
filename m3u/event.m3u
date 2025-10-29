@@ -21,6 +21,8 @@ https://gg.poocloud.in/nba_bostonceltics/index.m3u8
 https://gg.poocloud.in/nba_detroitpistons/index.m3u8
 #EXTINF:-1 tvg-id="ppv-12964" tvg-name="Houston Rockets vs. Toronto Raptors (29 October 2025 at 22:30)" tvg-epgid="12964" tvg-logo="https://ppvs.su/assets/thumb/f9465f9cac65b503c62b5643213a336e-thumbnail.jpg",Houston Rockets vs. Toronto Raptors (29 October 2025 at 22:30)
 https://gg.poocloud.in/nba_torontoraptors/index.m3u8
+#EXTINF:-1 tvg-id="ppv-12972" tvg-name="Getafe CF vs. Girona FC (31 October 2025 at 20:00)" tvg-epgid="12972" tvg-logo="https://ppvs.su/assets/thumb/546c12ae47c6054e2004e5982cbcfa32-thumbnail.jpg",Getafe CF vs. Girona FC (31 October 2025 at 20:00)
+
 #EXTINF:-1 tvg-id="ppv-12897" tvg-name="Augsburg vs. Dortmund (31 October 2025 at 19:30)" tvg-epgid="12897" tvg-logo="https://ppvs.su/assets/thumb/24d7a31ee510df81acf05b3210e082d2-thumbnail.jpg",Augsburg vs. Dortmund (31 October 2025 at 19:30)
 
 #EXTINF:-1 tvg-id="ppv-12915" tvg-name="Pisa vs. Lazio (30 October 2025 at 19:45)" tvg-epgid="12915" tvg-logo="https://ppvs.su/assets/thumb/335be3c4ce408fcb45138d4eae416c77-thumbnail.jpg",Pisa vs. Lazio (30 October 2025 at 19:45)
@@ -60,12 +62,6 @@ https://gg.poocloud.in/carabao-cup_wol/index.m3u8
 #EXTINF:-1 tvg-id="ppv-12848" tvg-name="FC Metz vs. RC Lens (29 October 2025 at 18:00)" tvg-epgid="12848" tvg-logo="https://ppvs.su/assets/thumb/009cc98140019c5233fd26961bae4e2a-thumbnail.jpg",FC Metz vs. RC Lens (29 October 2025 at 18:00)
 
 #EXTINF:-1 tvg-id="ppv-12850" tvg-name="OGC Nice vs. LOSC (29 October 2025 at 18:00)" tvg-epgid="12850" tvg-logo="https://ppvs.su/assets/thumb/4017d5643fb2f6b69c7193a85ccfeb8c-thumbnail.jpg",OGC Nice vs. LOSC (29 October 2025 at 18:00)
-
-#EXTINF:-1 tvg-id="ppv-12908" tvg-name="Como vs. Hellas Verona (29 October 2025 at 17:30)" tvg-epgid="12908" tvg-logo="https://ppvs.su/assets/thumb/426e7643c57ba39b8ba3b3baf3a5498f-thumbnail.jpg",Como vs. Hellas Verona (29 October 2025 at 17:30)
-
-#EXTINF:-1 tvg-id="ppv-12909" tvg-name="Juventus vs. Udinese (29 October 2025 at 17:30)" tvg-epgid="12909" tvg-logo="https://ppvs.su/assets/thumb/d92834336c2d4ec1bdbbcc8ba95655ec-thumbnail.jpg",Juventus vs. Udinese (29 October 2025 at 17:30)
-
-#EXTINF:-1 tvg-id="ppv-12910" tvg-name="Roma vs. Parma (29 October 2025 at 17:30)" tvg-epgid="12910" tvg-logo="https://ppvs.su/assets/thumb/f290fb719b6d7198af0d2f5ab80087d9-thumbnail.jpg",Roma vs. Parma (29 October 2025 at 17:30)
 
 #EXTINF:-1 tvg-id="ppv-12982" tvg-name="Toronto Maple Leafs vs. Columbus Blue Jackets (29 October 2025 at 23:30)" tvg-epgid="12982" tvg-logo="https://ppvs.su/assets/thumb/f4a7314b4b776a1bffad0661f28524d2-thumbnail.jpg",Toronto Maple Leafs vs. Columbus Blue Jackets (29 October 2025 at 23:30)
 https://gg.poocloud.in/columbusbluejackets/index.m3u8
