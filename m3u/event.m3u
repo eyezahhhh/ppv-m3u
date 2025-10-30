@@ -43,6 +43,28 @@ https://gg.poocloud.in/nba_charlottehornets/index.m3u8
 
 #EXTINF:-1 tvg-id="ppv-12914" tvg-name="Cagliari vs. Sassuolo (30 October 2025 at 17:30)" tvg-epgid="12914" tvg-logo="https://ppvs.su/assets/thumb/81b7504afe264c1c2f21da02571cd2c7-thumbnail.jpg",Cagliari vs. Sassuolo (30 October 2025 at 17:30)
 
+#EXTINF:-1 tvg-id="ppv-13011" tvg-name="Detroit Red Wings vs. Los Angeles Kings (31 October 2025 at 02:30)" tvg-epgid="13011" tvg-logo="https://ppvs.su/assets/thumb/0fb62274fa215b45744cb5025a83a591-thumbnail.jpg",Detroit Red Wings vs. Los Angeles Kings (31 October 2025 at 02:30)
+https://gg.poocloud.in/losangeleskings/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13010" tvg-name="New Jersey Devils vs. San Jose Sharks (31 October 2025 at 02:00)" tvg-epgid="13010" tvg-logo="https://ppvs.su/assets/thumb/cbad6af11981755be73baa5cd87a81e7-thumbnail.jpg",New Jersey Devils vs. San Jose Sharks (31 October 2025 at 02:00)
+https://gg.poocloud.in/sanjosesharks/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13009" tvg-name="New York Rangers vs. Edmonton Oilers (31 October 2025 at 01:00)" tvg-epgid="13009" tvg-logo="https://ppvs.su/assets/thumb/207960e300728bb990a1c28c2b521e7c-thumbnail.jpg",New York Rangers vs. Edmonton Oilers (31 October 2025 at 01:00)
+https://gg.poocloud.in/edmontonoilers/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13006" tvg-name="Vancouver Canucks vs. St. Louis Blues (31 October 2025 at 00:00)" tvg-epgid="13006" tvg-logo="https://ppvs.su/assets/thumb/ab320c0d15937861d71913c3f54a916f-thumbnail.jpg",Vancouver Canucks vs. St. Louis Blues (31 October 2025 at 00:00)
+https://gg.poocloud.in/stlouisblues/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13007" tvg-name="Pittsburgh Penguins vs. Minnesota Wild (31 October 2025 at 00:00)" tvg-epgid="13007" tvg-logo="https://ppvs.su/assets/thumb/2011ed49f96e004c23fc3fc6f61b2d73-thumbnail.jpg",Pittsburgh Penguins vs. Minnesota Wild (31 October 2025 at 00:00)
+https://gg.poocloud.in/minnesotawild/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13008" tvg-name="Chicago Blackhawks vs. Winnipeg Jets (31 October 2025 at 00:00)" tvg-epgid="13008" tvg-logo="https://ppvs.su/assets/thumb/02e4de5e8aee0dd7b128eb28a9f1a484-thumbnail.jpg",Chicago Blackhawks vs. Winnipeg Jets (31 October 2025 at 00:00)
+https://gg.poocloud.in/winnipegjets/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13005" tvg-name="New York Islanders vs. Carolina Hurricanes (30 October 2025 at 23:30)" tvg-epgid="13005" tvg-logo="https://ppvs.su/assets/thumb/6aaa5197c2b0337075cdb54b23dcf844-thumbnail.jpg",New York Islanders vs. Carolina Hurricanes (30 October 2025 at 23:30)
+https://gg.poocloud.in/carolinahurricanes/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13001" tvg-name="Buffalo Sabres vs. Boston Bruins (30 October 2025 at 23:00)" tvg-epgid="13001" tvg-logo="https://ppvs.su/assets/thumb/88d519f596068ebf8d6765c282111ab1-thumbnail.jpg",Buffalo Sabres vs. Boston Bruins (30 October 2025 at 23:00)
+https://gg.poocloud.in/bostonbruins/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13002" tvg-name="Calgary Flames vs. Ottawa Senators (30 October 2025 at 23:00)" tvg-epgid="13002" tvg-logo="https://ppvs.su/assets/thumb/267b7691f7325a3cc8a967060b284592-thumbnail.jpg",Calgary Flames vs. Ottawa Senators (30 October 2025 at 23:00)
+https://gg.poocloud.in/ottawasenators/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13003" tvg-name="Dallas Stars vs. Tampa Bay Lightning (30 October 2025 at 23:00)" tvg-epgid="13003" tvg-logo="https://ppvs.su/assets/thumb/9ee6961545d439416a7e598bd529d68e-thumbnail.jpg",Dallas Stars vs. Tampa Bay Lightning (30 October 2025 at 23:00)
+https://gg.poocloud.in/tampabaylightning/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13004" tvg-name="Nashville Predators vs. Philadelphia Flyers (30 October 2025 at 23:00)" tvg-epgid="13004" tvg-logo="https://ppvs.su/assets/thumb/1eecb4168616f14ced067624d80fbf43-thumbnail.jpg",Nashville Predators vs. Philadelphia Flyers (30 October 2025 at 23:00)
+https://gg.poocloud.in/philadelphiaflyers/index.m3u8
 #EXTINF:-1 tvg-id="ppv-12885" tvg-name="WWE: Friday Night Smackdown (1 November 2025 at 00:00)" tvg-epgid="12885" tvg-logo="https://ppvs.su/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg",WWE: Friday Night Smackdown (1 November 2025 at 00:00)
 
 #EXTINF:-1 tvg-id="ppv-12884" tvg-name="TNA: Impact (31 October 2025 at 00:00)" tvg-epgid="12884" tvg-logo="https://ppvs.su/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg",TNA: Impact (31 October 2025 at 00:00)
