@@ -9,6 +9,12 @@ https://gg.poocloud.in/nba_milwaukeebucks/index.m3u8
 https://gg.poocloud.in/nba_oklahomacitythunder/index.m3u8
 #EXTINF:-1 tvg-id="ppv-12997" tvg-name="Orlando Magic vs. Charlotte Hornets (30 October 2025 at 23:00)" tvg-epgid="12997" tvg-logo="https://api.ppvs.su/assets/thumb/e4c89adc36ecb38c3b9213960a337c72-thumbnail.jpg",Orlando Magic vs. Charlotte Hornets (30 October 2025 at 23:00)
 https://gg.poocloud.in/nba_charlottehornets/index.m3u8
+#EXTINF:-1 tvg-id="ppv-12854" tvg-name="AJ Auxerre vs. OM (1 November 2025 at 20:05)" tvg-epgid="12854" tvg-logo="https://api.ppvs.su/assets/thumb/b3066133aedb963aebfb1e59c3d31549-thumbnail.jpg",AJ Auxerre vs. OM (1 November 2025 at 20:05)
+
+#EXTINF:-1 tvg-id="ppv-12891" tvg-name="Liverpool vs. Aston Villa (1 November 2025 at 20:00)" tvg-epgid="12891" tvg-logo="https://api.ppvs.su/assets/thumb/da64b16cd0084624098a70c0070d44d9-thumbnail.jpg",Liverpool vs. Aston Villa (1 November 2025 at 20:00)
+
+#EXTINF:-1 tvg-id="ppv-12976" tvg-name="Real Madrid vs. Valencia CF (1 November 2025 at 20:00)" tvg-epgid="12976" tvg-logo="https://api.ppvs.su/assets/thumb/8905dfd747e99e4852659989e6102698-thumbnail.jpg",Real Madrid vs. Valencia CF (1 November 2025 at 20:00)
+
 #EXTINF:-1 tvg-id="ppv-12855" tvg-name="AS Monaco vs. Paris FC (1 November 2025 at 18:00)" tvg-epgid="12855" tvg-logo="https://api.ppvs.su/assets/thumb/906cd9e528637356dff861596914eabe-thumbnail.jpg",AS Monaco vs. Paris FC (1 November 2025 at 18:00)
 
 #EXTINF:-1 tvg-id="ppv-12895" tvg-name="Tottenham Hotspur vs. Chelsea (1 November 2025 at 17:30)" tvg-epgid="12895" tvg-logo="https://api.ppvs.su/assets/thumb/4c1cf94ad858ae315905259fb3f1881f-thumbnail.jpg",Tottenham Hotspur vs. Chelsea (1 November 2025 at 17:30)
@@ -48,8 +54,6 @@ https://gg.poocloud.in/nba_charlottehornets/index.m3u8
 #EXTINF:-1 tvg-id="ppv-12897" tvg-name="Augsburg vs. Dortmund (31 October 2025 at 19:30)" tvg-epgid="12897" tvg-logo="https://api.ppvs.su/assets/thumb/24d7a31ee510df81acf05b3210e082d2-thumbnail.jpg",Augsburg vs. Dortmund (31 October 2025 at 19:30)
 
 #EXTINF:-1 tvg-id="ppv-12915" tvg-name="Pisa vs. Lazio (30 October 2025 at 19:45)" tvg-epgid="12915" tvg-logo="https://api.ppvs.su/assets/thumb/335be3c4ce408fcb45138d4eae416c77-thumbnail.jpg",Pisa vs. Lazio (30 October 2025 at 19:45)
-
-#EXTINF:-1 tvg-id="ppv-12914" tvg-name="Cagliari vs. Sassuolo (30 October 2025 at 17:30)" tvg-epgid="12914" tvg-logo="https://api.ppvs.su/assets/thumb/81b7504afe264c1c2f21da02571cd2c7-thumbnail.jpg",Cagliari vs. Sassuolo (30 October 2025 at 17:30)
 
 #EXTINF:-1 tvg-id="ppv-13011" tvg-name="Detroit Red Wings vs. Los Angeles Kings (31 October 2025 at 02:30)" tvg-epgid="13011" tvg-logo="https://api.ppvs.su/assets/thumb/0fb62274fa215b45744cb5025a83a591-thumbnail.jpg",Detroit Red Wings vs. Los Angeles Kings (31 October 2025 at 02:30)
 https://gg.poocloud.in/losangeleskings/index.m3u8
