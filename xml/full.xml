@@ -1,4 +1,114 @@
 <tv>
+<channel id="ppv-12983">
+<display-name>Baltimore Ravens vs. Miami Dolphins</display-name>
+</channel>
+<programme
+start="20251031001500 +0000"
+stop="20251031034500 +0000"
+channel="ppv-12983"
+>
+<title lang="en">Baltimore Ravens vs. Miami Dolphins</title>
+<sub-title>American Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>American Football</category>
+<icon src="https://ppvs.su/assets/thumb/31b9816327f568a4c2087432f006d782-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13000">
+<display-name>Miami Heat vs. San Antonio Spurs</display-name>
+</channel>
+<programme
+start="20251031003000 +0000"
+stop="20251031031800 +0000"
+channel="ppv-13000"
+>
+<title lang="en">Miami Heat vs. San Antonio Spurs</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://ppvs.su/assets/thumb/8eea28efc8711743786329a57ab45ead-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12998">
+<display-name>Golden State Warriors vs. Milwaukee Bucks</display-name>
+</channel>
+<programme
+start="20251031000000 +0000"
+stop="20251031024800 +0000"
+channel="ppv-12998"
+>
+<title lang="en">Golden State Warriors vs. Milwaukee Bucks</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://ppvs.su/assets/thumb/b8197ea388fe4e178370868203aefbb0-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12999">
+<display-name>Washington Wizards vs. Oklahoma City Thunder</display-name>
+</channel>
+<programme
+start="20251031000000 +0000"
+stop="20251031024800 +0000"
+channel="ppv-12999"
+>
+<title lang="en">Washington Wizards vs. Oklahoma City Thunder</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://ppvs.su/assets/thumb/986573d491a85d6c7408a60e45220136-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12997">
+<display-name>Orlando Magic vs. Charlotte Hornets</display-name>
+</channel>
+<programme
+start="20251030230000 +0000"
+stop="20251031014800 +0000"
+channel="ppv-12997"
+>
+<title lang="en">Orlando Magic vs. Charlotte Hornets</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://ppvs.su/assets/thumb/e4c89adc36ecb38c3b9213960a337c72-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-12972">
 <display-name>Getafe CF vs. Girona FC</display-name>
 </channel>
@@ -18,7 +128,7 @@ channel="ppv-12972"
 <stereo>stereo</stereo>
 </audio>
 <category>Football</category>
-<icon src="https://ppv.to/assets/thumb/546c12ae47c6054e2004e5982cbcfa32-thumbnail.jpg" />
+<icon src="https://ppvs.su/assets/thumb/546c12ae47c6054e2004e5982cbcfa32-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-12897">
@@ -40,7 +150,7 @@ channel="ppv-12897"
 <stereo>stereo</stereo>
 </audio>
 <category>Football</category>
-<icon src="https://ppv.to/assets/thumb/24d7a31ee510df81acf05b3210e082d2-thumbnail.jpg" />
+<icon src="https://ppvs.su/assets/thumb/24d7a31ee510df81acf05b3210e082d2-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-12915">
@@ -62,7 +172,7 @@ channel="ppv-12915"
 <stereo>stereo</stereo>
 </audio>
 <category>Football</category>
-<icon src="https://ppv.to/assets/thumb/335be3c4ce408fcb45138d4eae416c77-thumbnail.jpg" />
+<icon src="https://ppvs.su/assets/thumb/335be3c4ce408fcb45138d4eae416c77-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-12914">
@@ -84,7 +194,7 @@ channel="ppv-12914"
 <stereo>stereo</stereo>
 </audio>
 <category>Football</category>
-<icon src="https://ppv.to/assets/thumb/81b7504afe264c1c2f21da02571cd2c7-thumbnail.jpg" />
+<icon src="https://ppvs.su/assets/thumb/81b7504afe264c1c2f21da02571cd2c7-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-12885">
@@ -106,7 +216,7 @@ channel="ppv-12885"
 <stereo>stereo</stereo>
 </audio>
 <category>Wrestling</category>
-<icon src="https://ppv.to/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" />
+<icon src="https://ppvs.su/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-12884">
@@ -128,6 +238,6 @@ channel="ppv-12884"
 <stereo>stereo</stereo>
 </audio>
 <category>Wrestling</category>
-<icon src="https://ppv.to/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg" />
+<icon src="https://ppvs.su/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg" />
 </programme>
 </tv>
