@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ppv-12983" tvg-name="Baltimore Ravens vs. Miami Dolphins (31 October 2025 at 00:15)" tvg-epgid="12983" tvg-logo="https://ppvs.su/assets/thumb/31b9816327f568a4c2087432f006d782-thumbnail.jpg",Baltimore Ravens vs. Miami Dolphins (31 October 2025 at 00:15)
+
 #EXTINF:-1 tvg-id="ppv-12965" tvg-name="Toronto Blue Jays vs. Los Angeles Dodgers (30 October 2025 at 00:00)" tvg-epgid="12965" tvg-logo="https://ppvs.su/assets/thumb/03e78a6ebc7218c0e054460d58d4533a-thumbnail.jpg",Toronto Blue Jays vs. Los Angeles Dodgers (30 October 2025 at 00:00)
 
 #EXTINF:-1 tvg-id="ppv-12971" tvg-name="Memphis Grizzlies vs. Phoenix Suns (30 October 2025 at 02:00)" tvg-epgid="12971" tvg-logo="https://ppvs.su/assets/thumb/c056ed9bf9823fe6c5d7baedaccf76ef-thumbnail.jpg",Memphis Grizzlies vs. Phoenix Suns (30 October 2025 at 02:00)
@@ -13,12 +15,6 @@ https://gg.poocloud.in/nba_utahjazz/index.m3u8
 https://gg.poocloud.in/nba_dallasmavericks/index.m3u8
 #EXTINF:-1 tvg-id="ppv-12966" tvg-name="Sacramento Kings vs. Chicago Bulls (30 October 2025 at 00:00)" tvg-epgid="12966" tvg-logo="https://ppvs.su/assets/thumb/43e00a70537df89c9a12fb9bfb305da2-thumbnail.jpg",Sacramento Kings vs. Chicago Bulls (30 October 2025 at 00:00)
 https://gg.poocloud.in/nba_chicagobulls/index.m3u8
-#EXTINF:-1 tvg-id="ppv-12963" tvg-name="Atlanta Hawks vs. Brooklyn Nets (29 October 2025 at 23:30)" tvg-epgid="12963" tvg-logo="https://ppvs.su/assets/thumb/b67cda530995c1925c98e1a7ff686fd7-thumbnail.jpg",Atlanta Hawks vs. Brooklyn Nets (29 October 2025 at 23:30)
-https://gg.poocloud.in/nba_brooklynnets/index.m3u8
-#EXTINF:-1 tvg-id="ppv-12961" tvg-name="Cleveland Cavaliers vs. Boston Celtics (29 October 2025 at 23:00)" tvg-epgid="12961" tvg-logo="https://ppvs.su/assets/thumb/46bf466345e807a646c3c78eac3be3cf-thumbnail.jpg",Cleveland Cavaliers vs. Boston Celtics (29 October 2025 at 23:00)
-https://gg.poocloud.in/nba_bostonceltics/index.m3u8
-#EXTINF:-1 tvg-id="ppv-12962" tvg-name="Orlando Magic vs. Detroit Pistons (29 October 2025 at 23:00)" tvg-epgid="12962" tvg-logo="https://ppvs.su/assets/thumb/8baa4af8aa64723f4075f48658212cdf-thumbnail.jpg",Orlando Magic vs. Detroit Pistons (29 October 2025 at 23:00)
-https://gg.poocloud.in/nba_detroitpistons/index.m3u8
 #EXTINF:-1 tvg-id="ppv-12972" tvg-name="Getafe CF vs. Girona FC (31 October 2025 at 20:00)" tvg-epgid="12972" tvg-logo="https://ppvs.su/assets/thumb/546c12ae47c6054e2004e5982cbcfa32-thumbnail.jpg",Getafe CF vs. Girona FC (31 October 2025 at 20:00)
 
 #EXTINF:-1 tvg-id="ppv-12897" tvg-name="Augsburg vs. Dortmund (31 October 2025 at 19:30)" tvg-epgid="12897" tvg-logo="https://ppvs.su/assets/thumb/24d7a31ee510df81acf05b3210e082d2-thumbnail.jpg",Augsburg vs. Dortmund (31 October 2025 at 19:30)
@@ -27,8 +23,6 @@ https://gg.poocloud.in/nba_detroitpistons/index.m3u8
 
 #EXTINF:-1 tvg-id="ppv-12914" tvg-name="Cagliari vs. Sassuolo (30 October 2025 at 17:30)" tvg-epgid="12914" tvg-logo="https://ppvs.su/assets/thumb/81b7504afe264c1c2f21da02571cd2c7-thumbnail.jpg",Cagliari vs. Sassuolo (30 October 2025 at 17:30)
 
-#EXTINF:-1 tvg-id="ppv-12982" tvg-name="Toronto Maple Leafs vs. Columbus Blue Jackets (29 October 2025 at 23:30)" tvg-epgid="12982" tvg-logo="https://ppvs.su/assets/thumb/f4a7314b4b776a1bffad0661f28524d2-thumbnail.jpg",Toronto Maple Leafs vs. Columbus Blue Jackets (29 October 2025 at 23:30)
-https://gg.poocloud.in/columbusbluejackets/index.m3u8
 #EXTINF:-1 tvg-id="ppv-12885" tvg-name="WWE: Friday Night Smackdown (1 November 2025 at 00:00)" tvg-epgid="12885" tvg-logo="https://ppvs.su/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg",WWE: Friday Night Smackdown (1 November 2025 at 00:00)
 
 #EXTINF:-1 tvg-id="ppv-12884" tvg-name="TNA: Impact (31 October 2025 at 00:00)" tvg-epgid="12884" tvg-logo="https://ppvs.su/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg",TNA: Impact (31 October 2025 at 00:00)

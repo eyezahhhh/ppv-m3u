@@ -1,4 +1,26 @@
 <tv>
+<channel id="ppv-12983">
+<display-name>Baltimore Ravens vs. Miami Dolphins</display-name>
+</channel>
+<programme
+start="20251031001500 +0000"
+stop="20251031034500 +0000"
+channel="ppv-12983"
+>
+<title lang="en">Baltimore Ravens vs. Miami Dolphins</title>
+<sub-title>American Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>American Football</category>
+<icon src="https://ppvs.su/assets/thumb/31b9816327f568a4c2087432f006d782-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-12965">
 <display-name>Toronto Blue Jays vs. Los Angeles Dodgers</display-name>
 </channel>
@@ -153,72 +175,6 @@ channel="ppv-12966"
 <icon src="https://ppvs.su/assets/thumb/43e00a70537df89c9a12fb9bfb305da2-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-12963">
-<display-name>Atlanta Hawks vs. Brooklyn Nets</display-name>
-</channel>
-<programme
-start="20251029233000 +0000"
-stop="20251030021800 +0000"
-channel="ppv-12963"
->
-<title lang="en">Atlanta Hawks vs. Brooklyn Nets</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://ppvs.su/assets/thumb/b67cda530995c1925c98e1a7ff686fd7-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12961">
-<display-name>Cleveland Cavaliers vs. Boston Celtics</display-name>
-</channel>
-<programme
-start="20251029230000 +0000"
-stop="20251030014800 +0000"
-channel="ppv-12961"
->
-<title lang="en">Cleveland Cavaliers vs. Boston Celtics</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://ppvs.su/assets/thumb/46bf466345e807a646c3c78eac3be3cf-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12962">
-<display-name>Orlando Magic vs. Detroit Pistons</display-name>
-</channel>
-<programme
-start="20251029230000 +0000"
-stop="20251030014800 +0000"
-channel="ppv-12962"
->
-<title lang="en">Orlando Magic vs. Detroit Pistons</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://ppvs.su/assets/thumb/8baa4af8aa64723f4075f48658212cdf-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-12972">
 <display-name>Getafe CF vs. Girona FC</display-name>
 </channel>
@@ -305,28 +261,6 @@ channel="ppv-12914"
 </audio>
 <category>Football</category>
 <icon src="https://ppvs.su/assets/thumb/81b7504afe264c1c2f21da02571cd2c7-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12982">
-<display-name>Toronto Maple Leafs vs. Columbus Blue Jackets</display-name>
-</channel>
-<programme
-start="20251029233000 +0000"
-stop="20251030023000 +0000"
-channel="ppv-12982"
->
-<title lang="en">Toronto Maple Leafs vs. Columbus Blue Jackets</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://ppvs.su/assets/thumb/f4a7314b4b776a1bffad0661f28524d2-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-12885">
