@@ -1,77 +1,79 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ppv-12983" tvg-name="Baltimore Ravens vs. Miami Dolphins (31 October 2025 at 00:15)" tvg-epgid="12983" tvg-logo="https://ppvs.su/assets/thumb/31b9816327f568a4c2087432f006d782-thumbnail.jpg",Baltimore Ravens vs. Miami Dolphins (31 October 2025 at 00:15)
+#EXTINF:-1 tvg-id="ppv-12983" tvg-name="Baltimore Ravens vs. Miami Dolphins (31 October 2025 at 00:15)" tvg-epgid="12983" tvg-logo="https://api.ppvs.su/assets/thumb/31b9816327f568a4c2087432f006d782-thumbnail.jpg",Baltimore Ravens vs. Miami Dolphins (31 October 2025 at 00:15)
 
-#EXTINF:-1 tvg-id="ppv-13000" tvg-name="Miami Heat vs. San Antonio Spurs (31 October 2025 at 00:30)" tvg-epgid="13000" tvg-logo="https://ppvs.su/assets/thumb/8eea28efc8711743786329a57ab45ead-thumbnail.jpg",Miami Heat vs. San Antonio Spurs (31 October 2025 at 00:30)
+#EXTINF:-1 tvg-id="ppv-13000" tvg-name="Miami Heat vs. San Antonio Spurs (31 October 2025 at 00:30)" tvg-epgid="13000" tvg-logo="https://api.ppvs.su/assets/thumb/8eea28efc8711743786329a57ab45ead-thumbnail.jpg",Miami Heat vs. San Antonio Spurs (31 October 2025 at 00:30)
 https://gg.poocloud.in/nba_sanantoniospurs/index.m3u8
-#EXTINF:-1 tvg-id="ppv-12998" tvg-name="Golden State Warriors vs. Milwaukee Bucks (31 October 2025 at 00:00)" tvg-epgid="12998" tvg-logo="https://ppvs.su/assets/thumb/b8197ea388fe4e178370868203aefbb0-thumbnail.jpg",Golden State Warriors vs. Milwaukee Bucks (31 October 2025 at 00:00)
+#EXTINF:-1 tvg-id="ppv-12998" tvg-name="Golden State Warriors vs. Milwaukee Bucks (31 October 2025 at 00:00)" tvg-epgid="12998" tvg-logo="https://api.ppvs.su/assets/thumb/b8197ea388fe4e178370868203aefbb0-thumbnail.jpg",Golden State Warriors vs. Milwaukee Bucks (31 October 2025 at 00:00)
 https://gg.poocloud.in/nba_milwaukeebucks/index.m3u8
-#EXTINF:-1 tvg-id="ppv-12999" tvg-name="Washington Wizards vs. Oklahoma City Thunder (31 October 2025 at 00:00)" tvg-epgid="12999" tvg-logo="https://ppvs.su/assets/thumb/986573d491a85d6c7408a60e45220136-thumbnail.jpg",Washington Wizards vs. Oklahoma City Thunder (31 October 2025 at 00:00)
+#EXTINF:-1 tvg-id="ppv-12999" tvg-name="Washington Wizards vs. Oklahoma City Thunder (31 October 2025 at 00:00)" tvg-epgid="12999" tvg-logo="https://api.ppvs.su/assets/thumb/986573d491a85d6c7408a60e45220136-thumbnail.jpg",Washington Wizards vs. Oklahoma City Thunder (31 October 2025 at 00:00)
 https://gg.poocloud.in/nba_oklahomacitythunder/index.m3u8
-#EXTINF:-1 tvg-id="ppv-12997" tvg-name="Orlando Magic vs. Charlotte Hornets (30 October 2025 at 23:00)" tvg-epgid="12997" tvg-logo="https://ppvs.su/assets/thumb/e4c89adc36ecb38c3b9213960a337c72-thumbnail.jpg",Orlando Magic vs. Charlotte Hornets (30 October 2025 at 23:00)
+#EXTINF:-1 tvg-id="ppv-12997" tvg-name="Orlando Magic vs. Charlotte Hornets (30 October 2025 at 23:00)" tvg-epgid="12997" tvg-logo="https://api.ppvs.su/assets/thumb/e4c89adc36ecb38c3b9213960a337c72-thumbnail.jpg",Orlando Magic vs. Charlotte Hornets (30 October 2025 at 23:00)
 https://gg.poocloud.in/nba_charlottehornets/index.m3u8
-#EXTINF:-1 tvg-id="ppv-12895" tvg-name="Tottenham Hotspur vs. Chelsea (1 November 2025 at 17:30)" tvg-epgid="12895" tvg-logo="https://ppvs.su/assets/thumb/4c1cf94ad858ae315905259fb3f1881f-thumbnail.jpg",Tottenham Hotspur vs. Chelsea (1 November 2025 at 17:30)
+#EXTINF:-1 tvg-id="ppv-12855" tvg-name="AS Monaco vs. Paris FC (1 November 2025 at 18:00)" tvg-epgid="12855" tvg-logo="https://api.ppvs.su/assets/thumb/906cd9e528637356dff861596914eabe-thumbnail.jpg",AS Monaco vs. Paris FC (1 November 2025 at 18:00)
 
-#EXTINF:-1 tvg-id="ppv-12903" tvg-name="Bayern vs. Leverkusen (1 November 2025 at 17:30)" tvg-epgid="12903" tvg-logo="https://ppvs.su/assets/thumb/6a16335dab348bfd589dd928ac119a1f-thumbnail.jpg",Bayern vs. Leverkusen (1 November 2025 at 17:30)
+#EXTINF:-1 tvg-id="ppv-12895" tvg-name="Tottenham Hotspur vs. Chelsea (1 November 2025 at 17:30)" tvg-epgid="12895" tvg-logo="https://api.ppvs.su/assets/thumb/4c1cf94ad858ae315905259fb3f1881f-thumbnail.jpg",Tottenham Hotspur vs. Chelsea (1 November 2025 at 17:30)
 
-#EXTINF:-1 tvg-id="ppv-12975" tvg-name="Real Sociedad vs. Athletic Club (1 November 2025 at 17:30)" tvg-epgid="12975" tvg-logo="https://ppvs.su/assets/thumb/db1949a1471ae5bd4cf305a46580cae2-thumbnail.jpg",Real Sociedad vs. Athletic Club (1 November 2025 at 17:30)
+#EXTINF:-1 tvg-id="ppv-12903" tvg-name="Bayern vs. Leverkusen (1 November 2025 at 17:30)" tvg-epgid="12903" tvg-logo="https://api.ppvs.su/assets/thumb/6a16335dab348bfd589dd928ac119a1f-thumbnail.jpg",Bayern vs. Leverkusen (1 November 2025 at 17:30)
 
-#EXTINF:-1 tvg-id="ppv-12856" tvg-name="PSG vs. OGC Nice (1 November 2025 at 16:00)" tvg-epgid="12856" tvg-logo="https://ppvs.su/assets/thumb/db15d9422057b90f436753765c1f2df9-thumbnail.jpg",PSG vs. OGC Nice (1 November 2025 at 16:00)
+#EXTINF:-1 tvg-id="ppv-12975" tvg-name="Real Sociedad vs. Athletic Club (1 November 2025 at 17:30)" tvg-epgid="12975" tvg-logo="https://api.ppvs.su/assets/thumb/db1949a1471ae5bd4cf305a46580cae2-thumbnail.jpg",Real Sociedad vs. Athletic Club (1 November 2025 at 17:30)
 
-#EXTINF:-1 tvg-id="ppv-12974" tvg-name="Atlético de Madrid vs. Sevilla FC (1 November 2025 at 15:15)" tvg-epgid="12974" tvg-logo="https://ppvs.su/assets/thumb/4ffb6428bb0b4009c1bfae7a50029a13-thumbnail.jpg",Atlético de Madrid vs. Sevilla FC (1 November 2025 at 15:15)
+#EXTINF:-1 tvg-id="ppv-12856" tvg-name="PSG vs. OGC Nice (1 November 2025 at 16:00)" tvg-epgid="12856" tvg-logo="https://api.ppvs.su/assets/thumb/db15d9422057b90f436753765c1f2df9-thumbnail.jpg",PSG vs. OGC Nice (1 November 2025 at 16:00)
 
-#EXTINF:-1 tvg-id="ppv-12887" tvg-name="Brighton and Hove Albion vs. Leeds United (1 November 2025 at 15:00)" tvg-epgid="12887" tvg-logo="https://ppvs.su/assets/thumb/53c56b619efe271d63c3522b69d56953-thumbnail.jpg",Brighton and Hove Albion vs. Leeds United (1 November 2025 at 15:00)
+#EXTINF:-1 tvg-id="ppv-12974" tvg-name="Atlético de Madrid vs. Sevilla FC (1 November 2025 at 15:15)" tvg-epgid="12974" tvg-logo="https://api.ppvs.su/assets/thumb/4ffb6428bb0b4009c1bfae7a50029a13-thumbnail.jpg",Atlético de Madrid vs. Sevilla FC (1 November 2025 at 15:15)
 
-#EXTINF:-1 tvg-id="ppv-12888" tvg-name="Burnley vs. Arsenal (1 November 2025 at 15:00)" tvg-epgid="12888" tvg-logo="https://ppvs.su/assets/thumb/bff66acbd09c9dce5e38813e5b624159-thumbnail.jpg",Burnley vs. Arsenal (1 November 2025 at 15:00)
+#EXTINF:-1 tvg-id="ppv-12887" tvg-name="Brighton and Hove Albion vs. Leeds United (1 November 2025 at 15:00)" tvg-epgid="12887" tvg-logo="https://api.ppvs.su/assets/thumb/53c56b619efe271d63c3522b69d56953-thumbnail.jpg",Brighton and Hove Albion vs. Leeds United (1 November 2025 at 15:00)
 
-#EXTINF:-1 tvg-id="ppv-12889" tvg-name="Crystal Palace vs. Brentford (1 November 2025 at 15:00)" tvg-epgid="12889" tvg-logo="https://ppvs.su/assets/thumb/6277a9c2d054bc8b69c5766ba2a3f52a-thumbnail.jpg",Crystal Palace vs. Brentford (1 November 2025 at 15:00)
+#EXTINF:-1 tvg-id="ppv-12888" tvg-name="Burnley vs. Arsenal (1 November 2025 at 15:00)" tvg-epgid="12888" tvg-logo="https://api.ppvs.su/assets/thumb/bff66acbd09c9dce5e38813e5b624159-thumbnail.jpg",Burnley vs. Arsenal (1 November 2025 at 15:00)
 
-#EXTINF:-1 tvg-id="ppv-12890" tvg-name="Fulham vs. Wolverhampton Wanderers (1 November 2025 at 15:00)" tvg-epgid="12890" tvg-logo="https://ppvs.su/assets/thumb/d629fa236bed88d0109d8305824ffe4e-thumbnail.jpg",Fulham vs. Wolverhampton Wanderers (1 November 2025 at 15:00)
+#EXTINF:-1 tvg-id="ppv-12889" tvg-name="Crystal Palace vs. Brentford (1 November 2025 at 15:00)" tvg-epgid="12889" tvg-logo="https://api.ppvs.su/assets/thumb/6277a9c2d054bc8b69c5766ba2a3f52a-thumbnail.jpg",Crystal Palace vs. Brentford (1 November 2025 at 15:00)
 
-#EXTINF:-1 tvg-id="ppv-12893" tvg-name="Nottingham Forest vs. Manchester United (1 November 2025 at 15:00)" tvg-epgid="12893" tvg-logo="https://ppvs.su/assets/thumb/e780acb38a0ea7d5d2165cecef216d93-thumbnail.jpg",Nottingham Forest vs. Manchester United (1 November 2025 at 15:00)
+#EXTINF:-1 tvg-id="ppv-12890" tvg-name="Fulham vs. Wolverhampton Wanderers (1 November 2025 at 15:00)" tvg-epgid="12890" tvg-logo="https://api.ppvs.su/assets/thumb/d629fa236bed88d0109d8305824ffe4e-thumbnail.jpg",Fulham vs. Wolverhampton Wanderers (1 November 2025 at 15:00)
 
-#EXTINF:-1 tvg-id="ppv-12898" tvg-name="Heidenheim vs. Frankfurt (1 November 2025 at 14:30)" tvg-epgid="12898" tvg-logo="https://ppvs.su/assets/thumb/2d56fb576bc801d1983b4e8b2d9b99c5-thumbnail.jpg",Heidenheim vs. Frankfurt (1 November 2025 at 14:30)
+#EXTINF:-1 tvg-id="ppv-12893" tvg-name="Nottingham Forest vs. Manchester United (1 November 2025 at 15:00)" tvg-epgid="12893" tvg-logo="https://api.ppvs.su/assets/thumb/e780acb38a0ea7d5d2165cecef216d93-thumbnail.jpg",Nottingham Forest vs. Manchester United (1 November 2025 at 15:00)
 
-#EXTINF:-1 tvg-id="ppv-12899" tvg-name="Union Berlin vs. Freiburg (1 November 2025 at 14:30)" tvg-epgid="12899" tvg-logo="https://ppvs.su/assets/thumb/a1429de25e6e9ab0bb03364511466b62-thumbnail.jpg",Union Berlin vs. Freiburg (1 November 2025 at 14:30)
+#EXTINF:-1 tvg-id="ppv-12898" tvg-name="Heidenheim vs. Frankfurt (1 November 2025 at 14:30)" tvg-epgid="12898" tvg-logo="https://api.ppvs.su/assets/thumb/2d56fb576bc801d1983b4e8b2d9b99c5-thumbnail.jpg",Heidenheim vs. Frankfurt (1 November 2025 at 14:30)
 
-#EXTINF:-1 tvg-id="ppv-12900" tvg-name="Mainz vs. Bremen (1 November 2025 at 14:30)" tvg-epgid="12900" tvg-logo="https://ppvs.su/assets/thumb/6345ff2bc811e5c52cfa88a21c65f737-thumbnail.jpg",Mainz vs. Bremen (1 November 2025 at 14:30)
+#EXTINF:-1 tvg-id="ppv-12899" tvg-name="Union Berlin vs. Freiburg (1 November 2025 at 14:30)" tvg-epgid="12899" tvg-logo="https://api.ppvs.su/assets/thumb/a1429de25e6e9ab0bb03364511466b62-thumbnail.jpg",Union Berlin vs. Freiburg (1 November 2025 at 14:30)
 
-#EXTINF:-1 tvg-id="ppv-12901" tvg-name="RB Leipzig vs. Stuttgart (1 November 2025 at 14:30)" tvg-epgid="12901" tvg-logo="https://ppvs.su/assets/thumb/6a7c4f35eb520e42309ce4941023cbc8-thumbnail.jpg",RB Leipzig vs. Stuttgart (1 November 2025 at 14:30)
+#EXTINF:-1 tvg-id="ppv-12900" tvg-name="Mainz vs. Bremen (1 November 2025 at 14:30)" tvg-epgid="12900" tvg-logo="https://api.ppvs.su/assets/thumb/6345ff2bc811e5c52cfa88a21c65f737-thumbnail.jpg",Mainz vs. Bremen (1 November 2025 at 14:30)
 
-#EXTINF:-1 tvg-id="ppv-12902" tvg-name="St. Pauli vs. Gladbach (1 November 2025 at 14:30)" tvg-epgid="12902" tvg-logo="https://ppvs.su/assets/thumb/a28a8f61e3f5d5aaaf25d5843f85a02f-thumbnail.jpg",St. Pauli vs. Gladbach (1 November 2025 at 14:30)
+#EXTINF:-1 tvg-id="ppv-12901" tvg-name="RB Leipzig vs. Stuttgart (1 November 2025 at 14:30)" tvg-epgid="12901" tvg-logo="https://api.ppvs.su/assets/thumb/6a7c4f35eb520e42309ce4941023cbc8-thumbnail.jpg",RB Leipzig vs. Stuttgart (1 November 2025 at 14:30)
 
-#EXTINF:-1 tvg-id="ppv-12973" tvg-name="Villarreal CF vs. Rayo Vallecano (1 November 2025 at 13:00)" tvg-epgid="12973" tvg-logo="https://ppvs.su/assets/thumb/2072a1cd813e4bb049b4d282e86c31d4-thumbnail.jpg",Villarreal CF vs. Rayo Vallecano (1 November 2025 at 13:00)
+#EXTINF:-1 tvg-id="ppv-12902" tvg-name="St. Pauli vs. Gladbach (1 November 2025 at 14:30)" tvg-epgid="12902" tvg-logo="https://api.ppvs.su/assets/thumb/a28a8f61e3f5d5aaaf25d5843f85a02f-thumbnail.jpg",St. Pauli vs. Gladbach (1 November 2025 at 14:30)
 
-#EXTINF:-1 tvg-id="ppv-12972" tvg-name="Getafe CF vs. Girona FC (31 October 2025 at 20:00)" tvg-epgid="12972" tvg-logo="https://ppvs.su/assets/thumb/546c12ae47c6054e2004e5982cbcfa32-thumbnail.jpg",Getafe CF vs. Girona FC (31 October 2025 at 20:00)
+#EXTINF:-1 tvg-id="ppv-12973" tvg-name="Villarreal CF vs. Rayo Vallecano (1 November 2025 at 13:00)" tvg-epgid="12973" tvg-logo="https://api.ppvs.su/assets/thumb/2072a1cd813e4bb049b4d282e86c31d4-thumbnail.jpg",Villarreal CF vs. Rayo Vallecano (1 November 2025 at 13:00)
 
-#EXTINF:-1 tvg-id="ppv-12897" tvg-name="Augsburg vs. Dortmund (31 October 2025 at 19:30)" tvg-epgid="12897" tvg-logo="https://ppvs.su/assets/thumb/24d7a31ee510df81acf05b3210e082d2-thumbnail.jpg",Augsburg vs. Dortmund (31 October 2025 at 19:30)
+#EXTINF:-1 tvg-id="ppv-12972" tvg-name="Getafe CF vs. Girona FC (31 October 2025 at 20:00)" tvg-epgid="12972" tvg-logo="https://api.ppvs.su/assets/thumb/546c12ae47c6054e2004e5982cbcfa32-thumbnail.jpg",Getafe CF vs. Girona FC (31 October 2025 at 20:00)
 
-#EXTINF:-1 tvg-id="ppv-12915" tvg-name="Pisa vs. Lazio (30 October 2025 at 19:45)" tvg-epgid="12915" tvg-logo="https://ppvs.su/assets/thumb/335be3c4ce408fcb45138d4eae416c77-thumbnail.jpg",Pisa vs. Lazio (30 October 2025 at 19:45)
+#EXTINF:-1 tvg-id="ppv-12897" tvg-name="Augsburg vs. Dortmund (31 October 2025 at 19:30)" tvg-epgid="12897" tvg-logo="https://api.ppvs.su/assets/thumb/24d7a31ee510df81acf05b3210e082d2-thumbnail.jpg",Augsburg vs. Dortmund (31 October 2025 at 19:30)
 
-#EXTINF:-1 tvg-id="ppv-12914" tvg-name="Cagliari vs. Sassuolo (30 October 2025 at 17:30)" tvg-epgid="12914" tvg-logo="https://ppvs.su/assets/thumb/81b7504afe264c1c2f21da02571cd2c7-thumbnail.jpg",Cagliari vs. Sassuolo (30 October 2025 at 17:30)
+#EXTINF:-1 tvg-id="ppv-12915" tvg-name="Pisa vs. Lazio (30 October 2025 at 19:45)" tvg-epgid="12915" tvg-logo="https://api.ppvs.su/assets/thumb/335be3c4ce408fcb45138d4eae416c77-thumbnail.jpg",Pisa vs. Lazio (30 October 2025 at 19:45)
 
-#EXTINF:-1 tvg-id="ppv-13011" tvg-name="Detroit Red Wings vs. Los Angeles Kings (31 October 2025 at 02:30)" tvg-epgid="13011" tvg-logo="https://ppvs.su/assets/thumb/0fb62274fa215b45744cb5025a83a591-thumbnail.jpg",Detroit Red Wings vs. Los Angeles Kings (31 October 2025 at 02:30)
+#EXTINF:-1 tvg-id="ppv-12914" tvg-name="Cagliari vs. Sassuolo (30 October 2025 at 17:30)" tvg-epgid="12914" tvg-logo="https://api.ppvs.su/assets/thumb/81b7504afe264c1c2f21da02571cd2c7-thumbnail.jpg",Cagliari vs. Sassuolo (30 October 2025 at 17:30)
+
+#EXTINF:-1 tvg-id="ppv-13011" tvg-name="Detroit Red Wings vs. Los Angeles Kings (31 October 2025 at 02:30)" tvg-epgid="13011" tvg-logo="https://api.ppvs.su/assets/thumb/0fb62274fa215b45744cb5025a83a591-thumbnail.jpg",Detroit Red Wings vs. Los Angeles Kings (31 October 2025 at 02:30)
 https://gg.poocloud.in/losangeleskings/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13010" tvg-name="New Jersey Devils vs. San Jose Sharks (31 October 2025 at 02:00)" tvg-epgid="13010" tvg-logo="https://ppvs.su/assets/thumb/cbad6af11981755be73baa5cd87a81e7-thumbnail.jpg",New Jersey Devils vs. San Jose Sharks (31 October 2025 at 02:00)
+#EXTINF:-1 tvg-id="ppv-13010" tvg-name="New Jersey Devils vs. San Jose Sharks (31 October 2025 at 02:00)" tvg-epgid="13010" tvg-logo="https://api.ppvs.su/assets/thumb/cbad6af11981755be73baa5cd87a81e7-thumbnail.jpg",New Jersey Devils vs. San Jose Sharks (31 October 2025 at 02:00)
 https://gg.poocloud.in/sanjosesharks/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13009" tvg-name="New York Rangers vs. Edmonton Oilers (31 October 2025 at 01:00)" tvg-epgid="13009" tvg-logo="https://ppvs.su/assets/thumb/207960e300728bb990a1c28c2b521e7c-thumbnail.jpg",New York Rangers vs. Edmonton Oilers (31 October 2025 at 01:00)
+#EXTINF:-1 tvg-id="ppv-13009" tvg-name="New York Rangers vs. Edmonton Oilers (31 October 2025 at 01:00)" tvg-epgid="13009" tvg-logo="https://api.ppvs.su/assets/thumb/207960e300728bb990a1c28c2b521e7c-thumbnail.jpg",New York Rangers vs. Edmonton Oilers (31 October 2025 at 01:00)
 https://gg.poocloud.in/edmontonoilers/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13006" tvg-name="Vancouver Canucks vs. St. Louis Blues (31 October 2025 at 00:00)" tvg-epgid="13006" tvg-logo="https://ppvs.su/assets/thumb/ab320c0d15937861d71913c3f54a916f-thumbnail.jpg",Vancouver Canucks vs. St. Louis Blues (31 October 2025 at 00:00)
+#EXTINF:-1 tvg-id="ppv-13006" tvg-name="Vancouver Canucks vs. St. Louis Blues (31 October 2025 at 00:00)" tvg-epgid="13006" tvg-logo="https://api.ppvs.su/assets/thumb/ab320c0d15937861d71913c3f54a916f-thumbnail.jpg",Vancouver Canucks vs. St. Louis Blues (31 October 2025 at 00:00)
 https://gg.poocloud.in/stlouisblues/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13007" tvg-name="Pittsburgh Penguins vs. Minnesota Wild (31 October 2025 at 00:00)" tvg-epgid="13007" tvg-logo="https://ppvs.su/assets/thumb/2011ed49f96e004c23fc3fc6f61b2d73-thumbnail.jpg",Pittsburgh Penguins vs. Minnesota Wild (31 October 2025 at 00:00)
+#EXTINF:-1 tvg-id="ppv-13007" tvg-name="Pittsburgh Penguins vs. Minnesota Wild (31 October 2025 at 00:00)" tvg-epgid="13007" tvg-logo="https://api.ppvs.su/assets/thumb/2011ed49f96e004c23fc3fc6f61b2d73-thumbnail.jpg",Pittsburgh Penguins vs. Minnesota Wild (31 October 2025 at 00:00)
 https://gg.poocloud.in/minnesotawild/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13008" tvg-name="Chicago Blackhawks vs. Winnipeg Jets (31 October 2025 at 00:00)" tvg-epgid="13008" tvg-logo="https://ppvs.su/assets/thumb/02e4de5e8aee0dd7b128eb28a9f1a484-thumbnail.jpg",Chicago Blackhawks vs. Winnipeg Jets (31 October 2025 at 00:00)
+#EXTINF:-1 tvg-id="ppv-13008" tvg-name="Chicago Blackhawks vs. Winnipeg Jets (31 October 2025 at 00:00)" tvg-epgid="13008" tvg-logo="https://api.ppvs.su/assets/thumb/02e4de5e8aee0dd7b128eb28a9f1a484-thumbnail.jpg",Chicago Blackhawks vs. Winnipeg Jets (31 October 2025 at 00:00)
 https://gg.poocloud.in/winnipegjets/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13005" tvg-name="New York Islanders vs. Carolina Hurricanes (30 October 2025 at 23:30)" tvg-epgid="13005" tvg-logo="https://ppvs.su/assets/thumb/6aaa5197c2b0337075cdb54b23dcf844-thumbnail.jpg",New York Islanders vs. Carolina Hurricanes (30 October 2025 at 23:30)
+#EXTINF:-1 tvg-id="ppv-13005" tvg-name="New York Islanders vs. Carolina Hurricanes (30 October 2025 at 23:30)" tvg-epgid="13005" tvg-logo="https://api.ppvs.su/assets/thumb/6aaa5197c2b0337075cdb54b23dcf844-thumbnail.jpg",New York Islanders vs. Carolina Hurricanes (30 October 2025 at 23:30)
 https://gg.poocloud.in/carolinahurricanes/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13001" tvg-name="Buffalo Sabres vs. Boston Bruins (30 October 2025 at 23:00)" tvg-epgid="13001" tvg-logo="https://ppvs.su/assets/thumb/88d519f596068ebf8d6765c282111ab1-thumbnail.jpg",Buffalo Sabres vs. Boston Bruins (30 October 2025 at 23:00)
+#EXTINF:-1 tvg-id="ppv-13001" tvg-name="Buffalo Sabres vs. Boston Bruins (30 October 2025 at 23:00)" tvg-epgid="13001" tvg-logo="https://api.ppvs.su/assets/thumb/88d519f596068ebf8d6765c282111ab1-thumbnail.jpg",Buffalo Sabres vs. Boston Bruins (30 October 2025 at 23:00)
 https://gg.poocloud.in/bostonbruins/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13002" tvg-name="Calgary Flames vs. Ottawa Senators (30 October 2025 at 23:00)" tvg-epgid="13002" tvg-logo="https://ppvs.su/assets/thumb/267b7691f7325a3cc8a967060b284592-thumbnail.jpg",Calgary Flames vs. Ottawa Senators (30 October 2025 at 23:00)
+#EXTINF:-1 tvg-id="ppv-13002" tvg-name="Calgary Flames vs. Ottawa Senators (30 October 2025 at 23:00)" tvg-epgid="13002" tvg-logo="https://api.ppvs.su/assets/thumb/267b7691f7325a3cc8a967060b284592-thumbnail.jpg",Calgary Flames vs. Ottawa Senators (30 October 2025 at 23:00)
 https://gg.poocloud.in/ottawasenators/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13003" tvg-name="Dallas Stars vs. Tampa Bay Lightning (30 October 2025 at 23:00)" tvg-epgid="13003" tvg-logo="https://ppvs.su/assets/thumb/9ee6961545d439416a7e598bd529d68e-thumbnail.jpg",Dallas Stars vs. Tampa Bay Lightning (30 October 2025 at 23:00)
+#EXTINF:-1 tvg-id="ppv-13003" tvg-name="Dallas Stars vs. Tampa Bay Lightning (30 October 2025 at 23:00)" tvg-epgid="13003" tvg-logo="https://api.ppvs.su/assets/thumb/9ee6961545d439416a7e598bd529d68e-thumbnail.jpg",Dallas Stars vs. Tampa Bay Lightning (30 October 2025 at 23:00)
 https://gg.poocloud.in/tampabaylightning/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13004" tvg-name="Nashville Predators vs. Philadelphia Flyers (30 October 2025 at 23:00)" tvg-epgid="13004" tvg-logo="https://ppvs.su/assets/thumb/1eecb4168616f14ced067624d80fbf43-thumbnail.jpg",Nashville Predators vs. Philadelphia Flyers (30 October 2025 at 23:00)
+#EXTINF:-1 tvg-id="ppv-13004" tvg-name="Nashville Predators vs. Philadelphia Flyers (30 October 2025 at 23:00)" tvg-epgid="13004" tvg-logo="https://api.ppvs.su/assets/thumb/1eecb4168616f14ced067624d80fbf43-thumbnail.jpg",Nashville Predators vs. Philadelphia Flyers (30 October 2025 at 23:00)
 https://gg.poocloud.in/philadelphiaflyers/index.m3u8
-#EXTINF:-1 tvg-id="ppv-12885" tvg-name="WWE: Friday Night Smackdown (1 November 2025 at 00:00)" tvg-epgid="12885" tvg-logo="https://ppvs.su/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg",WWE: Friday Night Smackdown (1 November 2025 at 00:00)
+#EXTINF:-1 tvg-id="ppv-12885" tvg-name="WWE: Friday Night Smackdown (1 November 2025 at 00:00)" tvg-epgid="12885" tvg-logo="https://api.ppvs.su/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg",WWE: Friday Night Smackdown (1 November 2025 at 00:00)
 
-#EXTINF:-1 tvg-id="ppv-12884" tvg-name="TNA: Impact (31 October 2025 at 00:00)" tvg-epgid="12884" tvg-logo="https://ppvs.su/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg",TNA: Impact (31 October 2025 at 00:00)
+#EXTINF:-1 tvg-id="ppv-12884" tvg-name="TNA: Impact (31 October 2025 at 00:00)" tvg-epgid="12884" tvg-logo="https://api.ppvs.su/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg",TNA: Impact (31 October 2025 at 00:00)
 
