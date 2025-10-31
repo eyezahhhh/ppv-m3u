@@ -43,72 +43,6 @@ channel="ppv-13012"
 <icon src="https://api.ppvs.su/assets/thumb/ce9f5e1e87646ac6a155a815f1955bc9-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-13000">
-<display-name>Miami Heat vs. San Antonio Spurs</display-name>
-</channel>
-<programme
-start="20251031003000 +0000"
-stop="20251031031800 +0000"
-channel="ppv-13000"
->
-<title lang="en">Miami Heat vs. San Antonio Spurs</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://api.ppvs.su/assets/thumb/8eea28efc8711743786329a57ab45ead-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12998">
-<display-name>Golden State Warriors vs. Milwaukee Bucks</display-name>
-</channel>
-<programme
-start="20251031000000 +0000"
-stop="20251031024800 +0000"
-channel="ppv-12998"
->
-<title lang="en">Golden State Warriors vs. Milwaukee Bucks</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://api.ppvs.su/assets/thumb/b8197ea388fe4e178370868203aefbb0-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12999">
-<display-name>Washington Wizards vs. Oklahoma City Thunder</display-name>
-</channel>
-<programme
-start="20251031000000 +0000"
-stop="20251031024800 +0000"
-channel="ppv-12999"
->
-<title lang="en">Washington Wizards vs. Oklahoma City Thunder</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://api.ppvs.su/assets/thumb/986573d491a85d6c7408a60e45220136-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-12854">
 <display-name>AJ Auxerre vs. OM</display-name>
 </channel>
@@ -659,72 +593,6 @@ channel="ppv-13009"
 <icon src="https://api.ppvs.su/assets/thumb/207960e300728bb990a1c28c2b521e7c-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-13006">
-<display-name>Vancouver Canucks vs. St. Louis Blues</display-name>
-</channel>
-<programme
-start="20251031000000 +0000"
-stop="20251031030000 +0000"
-channel="ppv-13006"
->
-<title lang="en">Vancouver Canucks vs. St. Louis Blues</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://api.ppvs.su/assets/thumb/ab320c0d15937861d71913c3f54a916f-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13007">
-<display-name>Pittsburgh Penguins vs. Minnesota Wild</display-name>
-</channel>
-<programme
-start="20251031000000 +0000"
-stop="20251031030000 +0000"
-channel="ppv-13007"
->
-<title lang="en">Pittsburgh Penguins vs. Minnesota Wild</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://api.ppvs.su/assets/thumb/2011ed49f96e004c23fc3fc6f61b2d73-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13008">
-<display-name>Chicago Blackhawks vs. Winnipeg Jets</display-name>
-</channel>
-<programme
-start="20251031000000 +0000"
-stop="20251031030000 +0000"
-channel="ppv-13008"
->
-<title lang="en">Chicago Blackhawks vs. Winnipeg Jets</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://api.ppvs.su/assets/thumb/02e4de5e8aee0dd7b128eb28a9f1a484-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-12886">
 <display-name>AEW: Saturday Night Collision</display-name>
 </channel>
@@ -767,27 +635,5 @@ channel="ppv-12885"
 </audio>
 <category>Wrestling</category>
 <icon src="https://api.ppvs.su/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12884">
-<display-name>TNA: Impact</display-name>
-</channel>
-<programme
-start="20251031000000 +0000"
-stop="20251031030000 +0000"
-channel="ppv-12884"
->
-<title lang="en">TNA: Impact</title>
-<sub-title>Wrestling</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Wrestling</category>
-<icon src="https://api.ppvs.su/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg" />
 </programme>
 </tv>

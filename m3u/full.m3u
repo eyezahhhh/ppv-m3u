@@ -3,12 +3,6 @@
 
 #EXTINF:-1 tvg-id="ppv-13012" tvg-name="Ravens vs. Dolphins (Prime Vision with Next Gen Stats) (31 October 2025 at 00:15)" tvg-epgid="13012" tvg-logo="https://api.ppvs.su/assets/thumb/ce9f5e1e87646ac6a155a815f1955bc9-thumbnail.jpg",Ravens vs. Dolphins (Prime Vision with Next Gen Stats) (31 October 2025 at 00:15)
 
-#EXTINF:-1 tvg-id="ppv-13000" tvg-name="Miami Heat vs. San Antonio Spurs (31 October 2025 at 00:30)" tvg-epgid="13000" tvg-logo="https://api.ppvs.su/assets/thumb/8eea28efc8711743786329a57ab45ead-thumbnail.jpg",Miami Heat vs. San Antonio Spurs (31 October 2025 at 00:30)
-https://gg.poocloud.in/nba_sanantoniospurs/index.m3u8
-#EXTINF:-1 tvg-id="ppv-12998" tvg-name="Golden State Warriors vs. Milwaukee Bucks (31 October 2025 at 00:00)" tvg-epgid="12998" tvg-logo="https://api.ppvs.su/assets/thumb/b8197ea388fe4e178370868203aefbb0-thumbnail.jpg",Golden State Warriors vs. Milwaukee Bucks (31 October 2025 at 00:00)
-https://gg.poocloud.in/nba_milwaukeebucks/index.m3u8
-#EXTINF:-1 tvg-id="ppv-12999" tvg-name="Washington Wizards vs. Oklahoma City Thunder (31 October 2025 at 00:00)" tvg-epgid="12999" tvg-logo="https://api.ppvs.su/assets/thumb/986573d491a85d6c7408a60e45220136-thumbnail.jpg",Washington Wizards vs. Oklahoma City Thunder (31 October 2025 at 00:00)
-https://gg.poocloud.in/nba_oklahomacitythunder/index.m3u8
 #EXTINF:-1 tvg-id="ppv-12854" tvg-name="AJ Auxerre vs. OM (1 November 2025 at 20:05)" tvg-epgid="12854" tvg-logo="https://api.ppvs.su/assets/thumb/b3066133aedb963aebfb1e59c3d31549-thumbnail.jpg",AJ Auxerre vs. OM (1 November 2025 at 20:05)
 
 #EXTINF:-1 tvg-id="ppv-12891" tvg-name="Liverpool vs. Aston Villa (1 November 2025 at 20:00)" tvg-epgid="12891" tvg-logo="https://api.ppvs.su/assets/thumb/da64b16cd0084624098a70c0070d44d9-thumbnail.jpg",Liverpool vs. Aston Villa (1 November 2025 at 20:00)
@@ -59,15 +53,7 @@ https://gg.poocloud.in/losangeleskings/index.m3u8
 https://gg.poocloud.in/sanjosesharks/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13009" tvg-name="New York Rangers vs. Edmonton Oilers (31 October 2025 at 01:00)" tvg-epgid="13009" tvg-logo="https://api.ppvs.su/assets/thumb/207960e300728bb990a1c28c2b521e7c-thumbnail.jpg",New York Rangers vs. Edmonton Oilers (31 October 2025 at 01:00)
 https://gg.poocloud.in/edmontonoilers/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13006" tvg-name="Vancouver Canucks vs. St. Louis Blues (31 October 2025 at 00:00)" tvg-epgid="13006" tvg-logo="https://api.ppvs.su/assets/thumb/ab320c0d15937861d71913c3f54a916f-thumbnail.jpg",Vancouver Canucks vs. St. Louis Blues (31 October 2025 at 00:00)
-https://gg.poocloud.in/stlouisblues/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13007" tvg-name="Pittsburgh Penguins vs. Minnesota Wild (31 October 2025 at 00:00)" tvg-epgid="13007" tvg-logo="https://api.ppvs.su/assets/thumb/2011ed49f96e004c23fc3fc6f61b2d73-thumbnail.jpg",Pittsburgh Penguins vs. Minnesota Wild (31 October 2025 at 00:00)
-https://gg.poocloud.in/minnesotawild/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13008" tvg-name="Chicago Blackhawks vs. Winnipeg Jets (31 October 2025 at 00:00)" tvg-epgid="13008" tvg-logo="https://api.ppvs.su/assets/thumb/02e4de5e8aee0dd7b128eb28a9f1a484-thumbnail.jpg",Chicago Blackhawks vs. Winnipeg Jets (31 October 2025 at 00:00)
-https://gg.poocloud.in/winnipegjets/index.m3u8
 #EXTINF:-1 tvg-id="ppv-12886" tvg-name="AEW: Saturday Night Collision (2 November 2025 at 00:00)" tvg-epgid="12886" tvg-logo="https://api.ppvs.su/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg",AEW: Saturday Night Collision (2 November 2025 at 00:00)
 
 #EXTINF:-1 tvg-id="ppv-12885" tvg-name="WWE: Friday Night Smackdown (1 November 2025 at 00:00)" tvg-epgid="12885" tvg-logo="https://api.ppvs.su/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg",WWE: Friday Night Smackdown (1 November 2025 at 00:00)
-
-#EXTINF:-1 tvg-id="ppv-12884" tvg-name="TNA: Impact (31 October 2025 at 00:00)" tvg-epgid="12884" tvg-logo="https://api.ppvs.su/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg",TNA: Impact (31 October 2025 at 00:00)
 
