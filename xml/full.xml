@@ -373,6 +373,72 @@ channel="ppv-13015"
 <icon src="https://api.ppvs.su/assets/thumb/04314fc90848473f2d3f48a17fe30882-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-13031">
+<display-name>OKTAGON 79 - Deutsch</display-name>
+</channel>
+<programme
+start="20251101170000 +0000"
+stop="20251101230000 +0000"
+channel="ppv-13031"
+>
+<title lang="en">OKTAGON 79 - Deutsch</title>
+<sub-title>Combat Sports</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Combat Sports</category>
+<icon src="https://api.ppvs.su/assets/thumb/2075f89796c876f2c14be1f853c858d3-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13032">
+<display-name>OKTAGON 79 - English</display-name>
+</channel>
+<programme
+start="20251101170000 +0000"
+stop="20251101230000 +0000"
+channel="ppv-13032"
+>
+<title lang="en">OKTAGON 79 - English</title>
+<sub-title>Combat Sports</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Combat Sports</category>
+<icon src="https://api.ppvs.su/assets/thumb/2075f89796c876f2c14be1f853c858d3-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13033">
+<display-name>OKTAGON 79 - Czech</display-name>
+</channel>
+<programme
+start="20251101170000 +0000"
+stop="20251101230000 +0000"
+channel="ppv-13033"
+>
+<title lang="en">OKTAGON 79 - Czech</title>
+<sub-title>Combat Sports</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Combat Sports</category>
+<icon src="https://api.ppvs.su/assets/thumb/2075f89796c876f2c14be1f853c858d3-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-12979">
 <display-name>FC Barcelona vs. Elche CF</display-name>
 </channel>
