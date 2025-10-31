@@ -1,6 +1,22 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ppv-13012" tvg-name="Ravens vs. Dolphins (Prime Vision with Next Gen Stats) (31 October 2025 at 00:15)" tvg-epgid="13012" tvg-logo="https://api.ppvs.su/assets/thumb/ce9f5e1e87646ac6a155a815f1955bc9-thumbnail.jpg",Ravens vs. Dolphins (Prime Vision with Next Gen Stats) (31 October 2025 at 00:15)
 
+#EXTINF:-1 tvg-id="ppv-13021" tvg-name="New Orleans Pelicans vs. LA Clippers (West Group B) (1 November 2025 at 02:30)" tvg-epgid="13021" tvg-logo="https://api.ppvs.su/assets/thumb/058564c27aa4157b7491d526c90fb141-thumbnail.jpg",New Orleans Pelicans vs. LA Clippers (West Group B) (1 November 2025 at 02:30)
+https://gg.poocloud.in/nba_laclippers/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13019" tvg-name="Utah Jazz vs. Phoenix Suns (West Group A) (1 November 2025 at 02:00)" tvg-epgid="13019" tvg-logo="https://api.ppvs.su/assets/thumb/ef574daef941f953e1fb7e9a1d10b7e8-thumbnail.jpg",Utah Jazz vs. Phoenix Suns (West Group A) (1 November 2025 at 02:00)
+https://gg.poocloud.in/nba_phoenixsuns/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13020" tvg-name="Denver Nuggets vs. Portland Trail Blazers (West Group C) (1 November 2025 at 02:00)" tvg-epgid="13020" tvg-logo="https://api.ppvs.su/assets/thumb/a295f609437fd6c6fd822b8b05e9ee9b-thumbnail.jpg",Denver Nuggets vs. Portland Trail Blazers (West Group C) (1 November 2025 at 02:00)
+https://gg.poocloud.in/nba_portlandtrailblazers/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13018" tvg-name="Los Angeles Lakers vs. Memphis Grizzlies (West Group B) (1 November 2025 at 01:30)" tvg-epgid="13018" tvg-logo="https://api.ppvs.su/assets/thumb/7659015e5d5609dee0333625059303f8-thumbnail.jpg",Los Angeles Lakers vs. Memphis Grizzlies (West Group B) (1 November 2025 at 01:30)
+https://gg.poocloud.in/nba_memphisgrizzlies/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13017" tvg-name="New York Knicks vs. Chicago Bulls (East Group C) (1 November 2025 at 00:00)" tvg-epgid="13017" tvg-logo="https://api.ppvs.su/assets/thumb/65c3bddce7bedf0727e5546f4bb7f5d3-thumbnail.jpg",New York Knicks vs. Chicago Bulls (East Group C) (1 November 2025 at 00:00)
+https://gg.poocloud.in/nba_chicagobulls/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13016" tvg-name="Toronto Raptors vs. Cleveland Cavaliers (East Group A) (31 October 2025 at 23:30)" tvg-epgid="13016" tvg-logo="https://api.ppvs.su/assets/thumb/c1edd1823dfb05bab687ca2686fd7ea7-thumbnail.jpg",Toronto Raptors vs. Cleveland Cavaliers (East Group A) (31 October 2025 at 23:30)
+https://gg.poocloud.in/nba_clevelandcavaliers/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13014" tvg-name="Atlanta Hawks vs. Indiana Pacers (East Group A) (31 October 2025 at 23:00)" tvg-epgid="13014" tvg-logo="https://api.ppvs.su/assets/thumb/21d8fe1d035ed4fe89e878cd5ca0fa23-thumbnail.jpg",Atlanta Hawks vs. Indiana Pacers (East Group A) (31 October 2025 at 23:00)
+https://gg.poocloud.in/nba_indianapacers/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13015" tvg-name="Boston Celtics vs. Philadelphia 76ers (East Group B) (31 October 2025 at 23:00)" tvg-epgid="13015" tvg-logo="https://api.ppvs.su/assets/thumb/04314fc90848473f2d3f48a17fe30882-thumbnail.jpg",Boston Celtics vs. Philadelphia 76ers (East Group B) (31 October 2025 at 23:00)
+https://gg.poocloud.in/nba_philadelphia76ers/index.m3u8
 #EXTINF:-1 tvg-id="ppv-12854" tvg-name="AJ Auxerre vs. OM (1 November 2025 at 20:05)" tvg-epgid="12854" tvg-logo="https://api.ppvs.su/assets/thumb/b3066133aedb963aebfb1e59c3d31549-thumbnail.jpg",AJ Auxerre vs. OM (1 November 2025 at 20:05)
 
 #EXTINF:-1 tvg-id="ppv-12891" tvg-name="Liverpool vs. Aston Villa (1 November 2025 at 20:00)" tvg-epgid="12891" tvg-logo="https://api.ppvs.su/assets/thumb/da64b16cd0084624098a70c0070d44d9-thumbnail.jpg",Liverpool vs. Aston Villa (1 November 2025 at 20:00)
@@ -49,8 +65,6 @@
 https://gg.poocloud.in/losangeleskings/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13010" tvg-name="New Jersey Devils vs. San Jose Sharks (31 October 2025 at 02:00)" tvg-epgid="13010" tvg-logo="https://api.ppvs.su/assets/thumb/cbad6af11981755be73baa5cd87a81e7-thumbnail.jpg",New Jersey Devils vs. San Jose Sharks (31 October 2025 at 02:00)
 https://gg.poocloud.in/sanjosesharks/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13009" tvg-name="New York Rangers vs. Edmonton Oilers (31 October 2025 at 01:00)" tvg-epgid="13009" tvg-logo="https://api.ppvs.su/assets/thumb/207960e300728bb990a1c28c2b521e7c-thumbnail.jpg",New York Rangers vs. Edmonton Oilers (31 October 2025 at 01:00)
-https://gg.poocloud.in/edmontonoilers/index.m3u8
 #EXTINF:-1 tvg-id="ppv-12886" tvg-name="AEW: Saturday Night Collision (2 November 2025 at 00:00)" tvg-epgid="12886" tvg-logo="https://api.ppvs.su/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg",AEW: Saturday Night Collision (2 November 2025 at 00:00)
 
 #EXTINF:-1 tvg-id="ppv-12885" tvg-name="WWE: Friday Night Smackdown (1 November 2025 at 00:00)" tvg-epgid="12885" tvg-logo="https://api.ppvs.su/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg",WWE: Friday Night Smackdown (1 November 2025 at 00:00)
