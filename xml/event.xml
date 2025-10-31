@@ -175,6 +175,138 @@ channel="ppv-13015"
 <icon src="https://api.ppvs.su/assets/thumb/04314fc90848473f2d3f48a17fe30882-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-12892">
+<display-name>Manchester City vs. Bournemouth</display-name>
+</channel>
+<programme
+start="20251102163000 +0000"
+stop="20251102190000 +0000"
+channel="ppv-12892"
+>
+<title lang="en">Manchester City vs. Bournemouth</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/070294766760d338467edcfbaf00c443-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12905">
+<display-name>Wolfsburg vs. Hoffenheim</display-name>
+</channel>
+<programme
+start="20251102163000 +0000"
+stop="20251102190000 +0000"
+channel="ppv-12905"
+>
+<title lang="en">Wolfsburg vs. Hoffenheim</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/ea642cfeeca0f127eb21488a8c15b9ce-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12858">
+<display-name>RC Lens vs. FC Lorient</display-name>
+</channel>
+<programme
+start="20251102161500 +0000"
+stop="20251102184500 +0000"
+channel="ppv-12858"
+>
+<title lang="en">RC Lens vs. FC Lorient</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/3fe4399191722b32cca4408380f99d5b-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12859">
+<display-name>LOSC vs. Angers SCO</display-name>
+</channel>
+<programme
+start="20251102161500 +0000"
+stop="20251102184500 +0000"
+channel="ppv-12859"
+>
+<title lang="en">LOSC vs. Angers SCO</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/e545fcca7e87df4a5768c3ee1a4d36ca-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12860">
+<display-name>FC Nantes vs. FC Metz</display-name>
+</channel>
+<programme
+start="20251102161500 +0000"
+stop="20251102184500 +0000"
+channel="ppv-12860"
+>
+<title lang="en">FC Nantes vs. FC Metz</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/ba24a9a558fd0694c621be1ea04cf3d6-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12862">
+<display-name>Toulouse FC vs. Havre AC</display-name>
+</channel>
+<programme
+start="20251102161500 +0000"
+stop="20251102184500 +0000"
+channel="ppv-12862"
+>
+<title lang="en">Toulouse FC vs. Havre AC</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/c076361fbc70da9959eb82b8f9181a97-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-12978">
 <display-name>Deportivo Alavés vs. RCD Espanyol de Barcelona</display-name>
 </channel>
@@ -767,6 +899,72 @@ channel="ppv-12897"
 </audio>
 <category>Football</category>
 <icon src="https://api.ppvs.su/assets/thumb/24d7a31ee510df81acf05b3210e082d2-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13027">
+<display-name>Detroit Red Wings vs. Anaheim Ducks</display-name>
+</channel>
+<programme
+start="20251101020000 +0000"
+stop="20251101050000 +0000"
+channel="ppv-13027"
+>
+<title lang="en">Detroit Red Wings vs. Anaheim Ducks</title>
+<sub-title>Ice Hockey</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Ice Hockey</category>
+<icon src="https://api.ppvs.su/assets/thumb/d4c9f9be6c68d7270ebf037764617077-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13026">
+<display-name>New York Islanders vs. Washington Capitals</display-name>
+</channel>
+<programme
+start="20251031230000 +0000"
+stop="20251101020000 +0000"
+channel="ppv-13026"
+>
+<title lang="en">New York Islanders vs. Washington Capitals</title>
+<sub-title>Ice Hockey</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Ice Hockey</category>
+<icon src="https://api.ppvs.su/assets/thumb/4f5c81701b056975c46bca63380893bb-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13025">
+<display-name>Colorado Avalanche vs. Vegas Golden Knights</display-name>
+</channel>
+<programme
+start="20251031200000 +0000"
+stop="20251031230000 +0000"
+channel="ppv-13025"
+>
+<title lang="en">Colorado Avalanche vs. Vegas Golden Knights</title>
+<sub-title>Ice Hockey</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Ice Hockey</category>
+<icon src="https://api.ppvs.su/assets/thumb/117084732e3a4f4311f5aed0268f4e19-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-12886">

@@ -15,6 +15,18 @@ https://gg.poocloud.in/nba_clevelandcavaliers/index.m3u8
 https://gg.poocloud.in/nba_indianapacers/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13015" tvg-name="Boston Celtics vs. Philadelphia 76ers (East Group B) (31 October 2025 at 23:00)" tvg-epgid="13015" tvg-logo="https://api.ppvs.su/assets/thumb/04314fc90848473f2d3f48a17fe30882-thumbnail.jpg",Boston Celtics vs. Philadelphia 76ers (East Group B) (31 October 2025 at 23:00)
 https://gg.poocloud.in/nba_philadelphia76ers/index.m3u8
+#EXTINF:-1 tvg-id="ppv-12892" tvg-name="Manchester City vs. Bournemouth (2 November 2025 at 16:30)" tvg-epgid="12892" tvg-logo="https://api.ppvs.su/assets/thumb/070294766760d338467edcfbaf00c443-thumbnail.jpg",Manchester City vs. Bournemouth (2 November 2025 at 16:30)
+
+#EXTINF:-1 tvg-id="ppv-12905" tvg-name="Wolfsburg vs. Hoffenheim (2 November 2025 at 16:30)" tvg-epgid="12905" tvg-logo="https://api.ppvs.su/assets/thumb/ea642cfeeca0f127eb21488a8c15b9ce-thumbnail.jpg",Wolfsburg vs. Hoffenheim (2 November 2025 at 16:30)
+
+#EXTINF:-1 tvg-id="ppv-12858" tvg-name="RC Lens vs. FC Lorient (2 November 2025 at 16:15)" tvg-epgid="12858" tvg-logo="https://api.ppvs.su/assets/thumb/3fe4399191722b32cca4408380f99d5b-thumbnail.jpg",RC Lens vs. FC Lorient (2 November 2025 at 16:15)
+
+#EXTINF:-1 tvg-id="ppv-12859" tvg-name="LOSC vs. Angers SCO (2 November 2025 at 16:15)" tvg-epgid="12859" tvg-logo="https://api.ppvs.su/assets/thumb/e545fcca7e87df4a5768c3ee1a4d36ca-thumbnail.jpg",LOSC vs. Angers SCO (2 November 2025 at 16:15)
+
+#EXTINF:-1 tvg-id="ppv-12860" tvg-name="FC Nantes vs. FC Metz (2 November 2025 at 16:15)" tvg-epgid="12860" tvg-logo="https://api.ppvs.su/assets/thumb/ba24a9a558fd0694c621be1ea04cf3d6-thumbnail.jpg",FC Nantes vs. FC Metz (2 November 2025 at 16:15)
+
+#EXTINF:-1 tvg-id="ppv-12862" tvg-name="Toulouse FC vs. Havre AC (2 November 2025 at 16:15)" tvg-epgid="12862" tvg-logo="https://api.ppvs.su/assets/thumb/c076361fbc70da9959eb82b8f9181a97-thumbnail.jpg",Toulouse FC vs. Havre AC (2 November 2025 at 16:15)
+
 #EXTINF:-1 tvg-id="ppv-12978" tvg-name="Deportivo Alavés vs. RCD Espanyol de Barcelona (2 November 2025 at 15:15)" tvg-epgid="12978" tvg-logo="https://api.ppvs.su/assets/thumb/c3d2e3b55816a6664c3924705132a6b3-thumbnail.jpg",Deportivo Alavés vs. RCD Espanyol de Barcelona (2 November 2025 at 15:15)
 
 #EXTINF:-1 tvg-id="ppv-12904" tvg-name="Cologne vs. Hamburg (2 November 2025 at 14:30)" tvg-epgid="12904" tvg-logo="https://api.ppvs.su/assets/thumb/8e79139d844b8d45007de08833617c7b-thumbnail.jpg",Cologne vs. Hamburg (2 November 2025 at 14:30)
@@ -69,6 +81,12 @@ https://gg.poocloud.in/nba_philadelphia76ers/index.m3u8
 
 #EXTINF:-1 tvg-id="ppv-12897" tvg-name="Augsburg vs. Dortmund (31 October 2025 at 19:30)" tvg-epgid="12897" tvg-logo="https://api.ppvs.su/assets/thumb/24d7a31ee510df81acf05b3210e082d2-thumbnail.jpg",Augsburg vs. Dortmund (31 October 2025 at 19:30)
 
+#EXTINF:-1 tvg-id="ppv-13027" tvg-name="Detroit Red Wings vs. Anaheim Ducks (1 November 2025 at 02:00)" tvg-epgid="13027" tvg-logo="https://api.ppvs.su/assets/thumb/d4c9f9be6c68d7270ebf037764617077-thumbnail.jpg",Detroit Red Wings vs. Anaheim Ducks (1 November 2025 at 02:00)
+https://gg.poocloud.in/anaheimducks/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13026" tvg-name="New York Islanders vs. Washington Capitals (31 October 2025 at 23:00)" tvg-epgid="13026" tvg-logo="https://api.ppvs.su/assets/thumb/4f5c81701b056975c46bca63380893bb-thumbnail.jpg",New York Islanders vs. Washington Capitals (31 October 2025 at 23:00)
+https://gg.poocloud.in/washingtoncapitals/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13025" tvg-name="Colorado Avalanche vs. Vegas Golden Knights (31 October 2025 at 20:00)" tvg-epgid="13025" tvg-logo="https://api.ppvs.su/assets/thumb/117084732e3a4f4311f5aed0268f4e19-thumbnail.jpg",Colorado Avalanche vs. Vegas Golden Knights (31 October 2025 at 20:00)
+https://gg.poocloud.in/vegasgoldenknights/index.m3u8
 #EXTINF:-1 tvg-id="ppv-12886" tvg-name="AEW: Saturday Night Collision (2 November 2025 at 00:00)" tvg-epgid="12886" tvg-logo="https://api.ppvs.su/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg",AEW: Saturday Night Collision (2 November 2025 at 00:00)
 
 #EXTINF:-1 tvg-id="ppv-12885" tvg-name="WWE: Friday Night Smackdown (1 November 2025 at 00:00)" tvg-epgid="12885" tvg-logo="https://api.ppvs.su/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg",WWE: Friday Night Smackdown (1 November 2025 at 00:00)
