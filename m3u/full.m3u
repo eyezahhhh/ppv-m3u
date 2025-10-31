@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ppv-12994" tvg-name="Kansas City Chiefs vs. Buffalo Bills (2 November 2025 at 22:25)" tvg-epgid="12994" tvg-logo="https://api.ppvs.su/assets/thumb/ffd2d09e713ca1b1c09e17c13e22d73b-thumbnail.jpg",Kansas City Chiefs vs. Buffalo Bills (2 November 2025 at 22:25)
+
 #EXTINF:-1 tvg-id="ppv-12992" tvg-name="Jacksonville Jaguars vs. Las Vegas Raiders (2 November 2025 at 22:05)" tvg-epgid="12992" tvg-logo="https://api.ppvs.su/assets/thumb/8059360e4572a5bb4933d84ff7a674cf-thumbnail.jpg",Jacksonville Jaguars vs. Las Vegas Raiders (2 November 2025 at 22:05)
 
 #EXTINF:-1 tvg-id="ppv-12993" tvg-name="New Orleans Saints vs. Los Angeles Rams (2 November 2025 at 22:05)" tvg-epgid="12993" tvg-logo="https://api.ppvs.su/assets/thumb/61395b09ec7e128d3cb722b2621f3d93-thumbnail.jpg",New Orleans Saints vs. Los Angeles Rams (2 November 2025 at 22:05)
@@ -130,8 +132,6 @@ https://gg.poocloud.in/bundesliga_goalarena/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13035" tvg-name="Udinese vs. Atalanta (1 November 2025 at 14:00)" tvg-epgid="13035" tvg-logo="https://api.ppvs.su/assets/thumb/92187f1f11c56ec67380b17b1a068564-thumbnail.jpg",Udinese vs. Atalanta (1 November 2025 at 14:00)
 
 #EXTINF:-1 tvg-id="ppv-12973" tvg-name="Villarreal CF vs. Rayo Vallecano (1 November 2025 at 13:00)" tvg-epgid="12973" tvg-logo="https://api.ppvs.su/assets/thumb/2072a1cd813e4bb049b4d282e86c31d4-thumbnail.jpg",Villarreal CF vs. Rayo Vallecano (1 November 2025 at 13:00)
-
-#EXTINF:-1 tvg-id="ppv-12972" tvg-name="Getafe CF vs. Girona FC (31 October 2025 at 20:00)" tvg-epgid="12972" tvg-logo="https://api.ppvs.su/assets/thumb/546c12ae47c6054e2004e5982cbcfa32-thumbnail.jpg",Getafe CF vs. Girona FC (31 October 2025 at 20:00)
 
 #EXTINF:-1 tvg-id="ppv-13027" tvg-name="Detroit Red Wings vs. Anaheim Ducks (1 November 2025 at 02:00)" tvg-epgid="13027" tvg-logo="https://api.ppvs.su/assets/thumb/d4c9f9be6c68d7270ebf037764617077-thumbnail.jpg",Detroit Red Wings vs. Anaheim Ducks (1 November 2025 at 02:00)
 https://gg.poocloud.in/anaheimducks/index.m3u8
