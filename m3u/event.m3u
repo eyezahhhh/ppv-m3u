@@ -39,6 +39,10 @@ https://gg.poocloud.in/oktagon-de/index.m3u8
 https://gg.poocloud.in/oktagon-en/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13033" tvg-name="OKTAGON 79 - Czech (1 November 2025 at 17:00)" tvg-epgid="13033" tvg-logo="https://api.ppvs.su/assets/thumb/2075f89796c876f2c14be1f853c858d3-thumbnail.jpg",OKTAGON 79 - Czech (1 November 2025 at 17:00)
 https://gg.poocloud.in/oktagon-cz/index.m3u8
+#EXTINF:-1 tvg-id="ppv-12980" tvg-name="Real Betis vs. RCD Mallorca (2 November 2025 at 20:00)" tvg-epgid="12980" tvg-logo="https://api.ppvs.su/assets/thumb/056a125115253149a46687986a45f450-thumbnail.jpg",Real Betis vs. RCD Mallorca (2 November 2025 at 20:00)
+
+#EXTINF:-1 tvg-id="ppv-12857" tvg-name="Brest vs. OL (2 November 2025 at 19:45)" tvg-epgid="12857" tvg-logo="https://api.ppvs.su/assets/thumb/820d9b3191bd3e9af11496ed88800d98-thumbnail.jpg",Brest vs. OL (2 November 2025 at 19:45)
+
 #EXTINF:-1 tvg-id="ppv-12979" tvg-name="FC Barcelona vs. Elche CF (2 November 2025 at 17:30)" tvg-epgid="12979" tvg-logo="https://api.ppvs.su/assets/thumb/9146ebfdd0d769244b7ca20c3b97f44f-thumbnail.jpg",FC Barcelona vs. Elche CF (2 November 2025 at 17:30)
 
 #EXTINF:-1 tvg-id="ppv-12892" tvg-name="Manchester City vs. Bournemouth (2 November 2025 at 16:30)" tvg-epgid="12892" tvg-logo="https://api.ppvs.su/assets/thumb/070294766760d338467edcfbaf00c443-thumbnail.jpg",Manchester City vs. Bournemouth (2 November 2025 at 16:30)
