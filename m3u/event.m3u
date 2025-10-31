@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ppv-12992" tvg-name="Jacksonville Jaguars vs. Las Vegas Raiders (2 November 2025 at 22:05)" tvg-epgid="12992" tvg-logo="https://api.ppvs.su/assets/thumb/8059360e4572a5bb4933d84ff7a674cf-thumbnail.jpg",Jacksonville Jaguars vs. Las Vegas Raiders (2 November 2025 at 22:05)
+
+#EXTINF:-1 tvg-id="ppv-12993" tvg-name="New Orleans Saints vs. Los Angeles Rams (2 November 2025 at 22:05)" tvg-epgid="12993" tvg-logo="https://api.ppvs.su/assets/thumb/61395b09ec7e128d3cb722b2621f3d93-thumbnail.jpg",New Orleans Saints vs. Los Angeles Rams (2 November 2025 at 22:05)
+
 #EXTINF:-1 tvg-id="ppv-12984" tvg-name="Chicago Bears vs. Cincinnati Bengals (2 November 2025 at 19:00)" tvg-epgid="12984" tvg-logo="https://api.ppvs.su/assets/thumb/d899fac9d8c6411bfcf573dd3fac27f0-thumbnail.jpg",Chicago Bears vs. Cincinnati Bengals (2 November 2025 at 19:00)
 
 #EXTINF:-1 tvg-id="ppv-12985" tvg-name="Minnesota Vikings vs. Detroit Lions (2 November 2025 at 19:00)" tvg-epgid="12985" tvg-logo="https://api.ppvs.su/assets/thumb/e3491071d59a937b29990e7325ffc4dd-thumbnail.jpg",Minnesota Vikings vs. Detroit Lions (2 November 2025 at 19:00)
@@ -99,6 +103,8 @@ https://gg.poocloud.in/oktagon-cz/index.m3u8
 
 #EXTINF:-1 tvg-id="ppv-12974" tvg-name="Atlético de Madrid vs. Sevilla FC (1 November 2025 at 15:15)" tvg-epgid="12974" tvg-logo="https://api.ppvs.su/assets/thumb/4ffb6428bb0b4009c1bfae7a50029a13-thumbnail.jpg",Atlético de Madrid vs. Sevilla FC (1 November 2025 at 15:15)
 
+#EXTINF:-1 tvg-id="ppv-5193" tvg-name="Goal Rush (1 November 2025 at 15:00)" tvg-epgid="5193" tvg-logo="https://api.ppvs.su/assets/thumb/7e5a5d5d101ec513c9f8e00aea73e1ed-thumbnail.jpg",Goal Rush (1 November 2025 at 15:00)
+
 #EXTINF:-1 tvg-id="ppv-12887" tvg-name="Brighton and Hove Albion vs. Leeds United (1 November 2025 at 15:00)" tvg-epgid="12887" tvg-logo="https://api.ppvs.su/assets/thumb/53c56b619efe271d63c3522b69d56953-thumbnail.jpg",Brighton and Hove Albion vs. Leeds United (1 November 2025 at 15:00)
 
 #EXTINF:-1 tvg-id="ppv-12888" tvg-name="Burnley vs. Arsenal (1 November 2025 at 15:00)" tvg-epgid="12888" tvg-logo="https://api.ppvs.su/assets/thumb/bff66acbd09c9dce5e38813e5b624159-thumbnail.jpg",Burnley vs. Arsenal (1 November 2025 at 15:00)
@@ -109,6 +115,8 @@ https://gg.poocloud.in/oktagon-cz/index.m3u8
 
 #EXTINF:-1 tvg-id="ppv-12893" tvg-name="Nottingham Forest vs. Manchester United (1 November 2025 at 15:00)" tvg-epgid="12893" tvg-logo="https://api.ppvs.su/assets/thumb/e780acb38a0ea7d5d2165cecef216d93-thumbnail.jpg",Nottingham Forest vs. Manchester United (1 November 2025 at 15:00)
 
+#EXTINF:-1 tvg-id="ppv-12822" tvg-name="Goal Arena (1 November 2025 at 14:30)" tvg-epgid="12822" tvg-logo="https://api.ppvs.su/assets/thumb/c035a04a4d84afedca7706c23aabf3e2-thumbnail.jpg",Goal Arena (1 November 2025 at 14:30)
+https://gg.poocloud.in/bundesliga_goalarena/index.m3u8
 #EXTINF:-1 tvg-id="ppv-12898" tvg-name="Heidenheim vs. Frankfurt (1 November 2025 at 14:30)" tvg-epgid="12898" tvg-logo="https://api.ppvs.su/assets/thumb/2d56fb576bc801d1983b4e8b2d9b99c5-thumbnail.jpg",Heidenheim vs. Frankfurt (1 November 2025 at 14:30)
 
 #EXTINF:-1 tvg-id="ppv-12899" tvg-name="Union Berlin vs. Freiburg (1 November 2025 at 14:30)" tvg-epgid="12899" tvg-logo="https://api.ppvs.su/assets/thumb/a1429de25e6e9ab0bb03364511466b62-thumbnail.jpg",Union Berlin vs. Freiburg (1 November 2025 at 14:30)
@@ -124,8 +132,6 @@ https://gg.poocloud.in/oktagon-cz/index.m3u8
 #EXTINF:-1 tvg-id="ppv-12973" tvg-name="Villarreal CF vs. Rayo Vallecano (1 November 2025 at 13:00)" tvg-epgid="12973" tvg-logo="https://api.ppvs.su/assets/thumb/2072a1cd813e4bb049b4d282e86c31d4-thumbnail.jpg",Villarreal CF vs. Rayo Vallecano (1 November 2025 at 13:00)
 
 #EXTINF:-1 tvg-id="ppv-12972" tvg-name="Getafe CF vs. Girona FC (31 October 2025 at 20:00)" tvg-epgid="12972" tvg-logo="https://api.ppvs.su/assets/thumb/546c12ae47c6054e2004e5982cbcfa32-thumbnail.jpg",Getafe CF vs. Girona FC (31 October 2025 at 20:00)
-
-#EXTINF:-1 tvg-id="ppv-12897" tvg-name="Augsburg vs. Dortmund (31 October 2025 at 19:30)" tvg-epgid="12897" tvg-logo="https://api.ppvs.su/assets/thumb/24d7a31ee510df81acf05b3210e082d2-thumbnail.jpg",Augsburg vs. Dortmund (31 October 2025 at 19:30)
 
 #EXTINF:-1 tvg-id="ppv-13027" tvg-name="Detroit Red Wings vs. Anaheim Ducks (1 November 2025 at 02:00)" tvg-epgid="13027" tvg-logo="https://api.ppvs.su/assets/thumb/d4c9f9be6c68d7270ebf037764617077-thumbnail.jpg",Detroit Red Wings vs. Anaheim Ducks (1 November 2025 at 02:00)
 https://gg.poocloud.in/anaheimducks/index.m3u8
