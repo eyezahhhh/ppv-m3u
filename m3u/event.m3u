@@ -9,8 +9,6 @@ https://gg.poocloud.in/nba_sanantoniospurs/index.m3u8
 https://gg.poocloud.in/nba_milwaukeebucks/index.m3u8
 #EXTINF:-1 tvg-id="ppv-12999" tvg-name="Washington Wizards vs. Oklahoma City Thunder (31 October 2025 at 00:00)" tvg-epgid="12999" tvg-logo="https://api.ppvs.su/assets/thumb/986573d491a85d6c7408a60e45220136-thumbnail.jpg",Washington Wizards vs. Oklahoma City Thunder (31 October 2025 at 00:00)
 https://gg.poocloud.in/nba_oklahomacitythunder/index.m3u8
-#EXTINF:-1 tvg-id="ppv-12997" tvg-name="Orlando Magic vs. Charlotte Hornets (30 October 2025 at 23:00)" tvg-epgid="12997" tvg-logo="https://api.ppvs.su/assets/thumb/e4c89adc36ecb38c3b9213960a337c72-thumbnail.jpg",Orlando Magic vs. Charlotte Hornets (30 October 2025 at 23:00)
-https://gg.poocloud.in/nba_charlottehornets/index.m3u8
 #EXTINF:-1 tvg-id="ppv-12854" tvg-name="AJ Auxerre vs. OM (1 November 2025 at 20:05)" tvg-epgid="12854" tvg-logo="https://api.ppvs.su/assets/thumb/b3066133aedb963aebfb1e59c3d31549-thumbnail.jpg",AJ Auxerre vs. OM (1 November 2025 at 20:05)
 
 #EXTINF:-1 tvg-id="ppv-12891" tvg-name="Liverpool vs. Aston Villa (1 November 2025 at 20:00)" tvg-epgid="12891" tvg-logo="https://api.ppvs.su/assets/thumb/da64b16cd0084624098a70c0070d44d9-thumbnail.jpg",Liverpool vs. Aston Villa (1 November 2025 at 20:00)
@@ -67,16 +65,6 @@ https://gg.poocloud.in/stlouisblues/index.m3u8
 https://gg.poocloud.in/minnesotawild/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13008" tvg-name="Chicago Blackhawks vs. Winnipeg Jets (31 October 2025 at 00:00)" tvg-epgid="13008" tvg-logo="https://api.ppvs.su/assets/thumb/02e4de5e8aee0dd7b128eb28a9f1a484-thumbnail.jpg",Chicago Blackhawks vs. Winnipeg Jets (31 October 2025 at 00:00)
 https://gg.poocloud.in/winnipegjets/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13005" tvg-name="New York Islanders vs. Carolina Hurricanes (30 October 2025 at 23:30)" tvg-epgid="13005" tvg-logo="https://api.ppvs.su/assets/thumb/6aaa5197c2b0337075cdb54b23dcf844-thumbnail.jpg",New York Islanders vs. Carolina Hurricanes (30 October 2025 at 23:30)
-https://gg.poocloud.in/carolinahurricanes/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13001" tvg-name="Buffalo Sabres vs. Boston Bruins (30 October 2025 at 23:00)" tvg-epgid="13001" tvg-logo="https://api.ppvs.su/assets/thumb/88d519f596068ebf8d6765c282111ab1-thumbnail.jpg",Buffalo Sabres vs. Boston Bruins (30 October 2025 at 23:00)
-https://gg.poocloud.in/bostonbruins/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13002" tvg-name="Calgary Flames vs. Ottawa Senators (30 October 2025 at 23:00)" tvg-epgid="13002" tvg-logo="https://api.ppvs.su/assets/thumb/267b7691f7325a3cc8a967060b284592-thumbnail.jpg",Calgary Flames vs. Ottawa Senators (30 October 2025 at 23:00)
-https://gg.poocloud.in/ottawasenators/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13003" tvg-name="Dallas Stars vs. Tampa Bay Lightning (30 October 2025 at 23:00)" tvg-epgid="13003" tvg-logo="https://api.ppvs.su/assets/thumb/9ee6961545d439416a7e598bd529d68e-thumbnail.jpg",Dallas Stars vs. Tampa Bay Lightning (30 October 2025 at 23:00)
-https://gg.poocloud.in/tampabaylightning/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13004" tvg-name="Nashville Predators vs. Philadelphia Flyers (30 October 2025 at 23:00)" tvg-epgid="13004" tvg-logo="https://api.ppvs.su/assets/thumb/1eecb4168616f14ced067624d80fbf43-thumbnail.jpg",Nashville Predators vs. Philadelphia Flyers (30 October 2025 at 23:00)
-https://gg.poocloud.in/philadelphiaflyers/index.m3u8
 #EXTINF:-1 tvg-id="ppv-12886" tvg-name="AEW: Saturday Night Collision (2 November 2025 at 00:00)" tvg-epgid="12886" tvg-logo="https://api.ppvs.su/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg",AEW: Saturday Night Collision (2 November 2025 at 00:00)
 
 #EXTINF:-1 tvg-id="ppv-12885" tvg-name="WWE: Friday Night Smackdown (1 November 2025 at 00:00)" tvg-epgid="12885" tvg-logo="https://api.ppvs.su/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg",WWE: Friday Night Smackdown (1 November 2025 at 00:00)
