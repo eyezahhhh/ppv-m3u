@@ -483,6 +483,28 @@ channel="ppv-12857"
 <icon src="https://api.ppvs.su/assets/thumb/820d9b3191bd3e9af11496ed88800d98-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-13042">
+<display-name>Milan vs. Roma</display-name>
+</channel>
+<programme
+start="20251102194500 +0000"
+stop="20251102221500 +0000"
+channel="ppv-13042"
+>
+<title lang="en">Milan vs. Roma</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/7f944524bbfc171e5c09c27b4a2635ca-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-12979">
 <display-name>FC Barcelona vs. Elche CF</display-name>
 </channel>
@@ -503,6 +525,28 @@ channel="ppv-12979"
 </audio>
 <category>Football</category>
 <icon src="https://api.ppvs.su/assets/thumb/9146ebfdd0d769244b7ca20c3b97f44f-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13041">
+<display-name>Parma vs. Bologna</display-name>
+</channel>
+<programme
+start="20251102170000 +0000"
+stop="20251102193000 +0000"
+channel="ppv-13041"
+>
+<title lang="en">Parma vs. Bologna</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/8da5ff3441cb3bb43b6d22aa66fefacd-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-12892">
@@ -725,6 +769,50 @@ channel="ppv-12896"
 <icon src="https://api.ppvs.su/assets/thumb/5831a8b092bcd668f175cf89e8422d54-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-13039">
+<display-name>Fiorentina vs. Lecce</display-name>
+</channel>
+<programme
+start="20251102140000 +0000"
+stop="20251102163000 +0000"
+channel="ppv-13039"
+>
+<title lang="en">Fiorentina vs. Lecce</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/b8af139e912fe513f54cf797c5d5fad3-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13040">
+<display-name>Torino vs. Pisa</display-name>
+</channel>
+<programme
+start="20251102140000 +0000"
+stop="20251102163000 +0000"
+channel="ppv-13040"
+>
+<title lang="en">Torino vs. Pisa</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/e507dcaebb88ea74c612098108a47073-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-12977">
 <display-name>Levante UD vs. Celta</display-name>
 </channel>
@@ -745,6 +833,28 @@ channel="ppv-12977"
 </audio>
 <category>Football</category>
 <icon src="https://api.ppvs.su/assets/thumb/c73eed78ae029a8084603fdb99cefd33-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13038">
+<display-name>Hellas Verona vs. Inter</display-name>
+</channel>
+<programme
+start="20251102113000 +0000"
+stop="20251102140000 +0000"
+channel="ppv-13038"
+>
+<title lang="en">Hellas Verona vs. Inter</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/462c452909510e7122827433726d3a4b-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-12854">
@@ -811,6 +921,28 @@ channel="ppv-12976"
 </audio>
 <category>Football</category>
 <icon src="https://api.ppvs.su/assets/thumb/8905dfd747e99e4852659989e6102698-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13037">
+<display-name>Cremonese vs. Juventus</display-name>
+</channel>
+<programme
+start="20251101194500 +0000"
+stop="20251101221500 +0000"
+channel="ppv-13037"
+>
+<title lang="en">Cremonese vs. Juventus</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/7d27b923ce1048700fd36c69a3ab3212-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-12855">
@@ -899,6 +1031,28 @@ channel="ppv-12975"
 </audio>
 <category>Football</category>
 <icon src="https://api.ppvs.su/assets/thumb/db1949a1471ae5bd4cf305a46580cae2-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13036">
+<display-name>Napoli vs. Como</display-name>
+</channel>
+<programme
+start="20251101170000 +0000"
+stop="20251101193000 +0000"
+channel="ppv-13036"
+>
+<title lang="en">Napoli vs. Como</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/c517db1494f5d3282bd0b147f46a6316-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-12856">
@@ -1163,6 +1317,28 @@ channel="ppv-12902"
 </audio>
 <category>Football</category>
 <icon src="https://api.ppvs.su/assets/thumb/a28a8f61e3f5d5aaaf25d5843f85a02f-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13035">
+<display-name>Udinese vs. Atalanta</display-name>
+</channel>
+<programme
+start="20251101140000 +0000"
+stop="20251101163000 +0000"
+channel="ppv-13035"
+>
+<title lang="en">Udinese vs. Atalanta</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/92187f1f11c56ec67380b17b1a068564-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-12973">

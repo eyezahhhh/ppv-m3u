@@ -43,7 +43,11 @@ https://gg.poocloud.in/oktagon-cz/index.m3u8
 
 #EXTINF:-1 tvg-id="ppv-12857" tvg-name="Brest vs. OL (2 November 2025 at 19:45)" tvg-epgid="12857" tvg-logo="https://api.ppvs.su/assets/thumb/820d9b3191bd3e9af11496ed88800d98-thumbnail.jpg",Brest vs. OL (2 November 2025 at 19:45)
 
+#EXTINF:-1 tvg-id="ppv-13042" tvg-name="Milan vs. Roma (2 November 2025 at 19:45)" tvg-epgid="13042" tvg-logo="https://api.ppvs.su/assets/thumb/7f944524bbfc171e5c09c27b4a2635ca-thumbnail.jpg",Milan vs. Roma (2 November 2025 at 19:45)
+
 #EXTINF:-1 tvg-id="ppv-12979" tvg-name="FC Barcelona vs. Elche CF (2 November 2025 at 17:30)" tvg-epgid="12979" tvg-logo="https://api.ppvs.su/assets/thumb/9146ebfdd0d769244b7ca20c3b97f44f-thumbnail.jpg",FC Barcelona vs. Elche CF (2 November 2025 at 17:30)
+
+#EXTINF:-1 tvg-id="ppv-13041" tvg-name="Parma vs. Bologna (2 November 2025 at 17:00)" tvg-epgid="13041" tvg-logo="https://api.ppvs.su/assets/thumb/8da5ff3441cb3bb43b6d22aa66fefacd-thumbnail.jpg",Parma vs. Bologna (2 November 2025 at 17:00)
 
 #EXTINF:-1 tvg-id="ppv-12892" tvg-name="Manchester City vs. Bournemouth (2 November 2025 at 16:30)" tvg-epgid="12892" tvg-logo="https://api.ppvs.su/assets/thumb/070294766760d338467edcfbaf00c443-thumbnail.jpg",Manchester City vs. Bournemouth (2 November 2025 at 16:30)
 
@@ -65,13 +69,21 @@ https://gg.poocloud.in/oktagon-cz/index.m3u8
 
 #EXTINF:-1 tvg-id="ppv-12896" tvg-name="West Ham United vs. Newcastle United (2 November 2025 at 14:00)" tvg-epgid="12896" tvg-logo="https://api.ppvs.su/assets/thumb/5831a8b092bcd668f175cf89e8422d54-thumbnail.jpg",West Ham United vs. Newcastle United (2 November 2025 at 14:00)
 
+#EXTINF:-1 tvg-id="ppv-13039" tvg-name="Fiorentina vs. Lecce (2 November 2025 at 14:00)" tvg-epgid="13039" tvg-logo="https://api.ppvs.su/assets/thumb/b8af139e912fe513f54cf797c5d5fad3-thumbnail.jpg",Fiorentina vs. Lecce (2 November 2025 at 14:00)
+
+#EXTINF:-1 tvg-id="ppv-13040" tvg-name="Torino vs. Pisa (2 November 2025 at 14:00)" tvg-epgid="13040" tvg-logo="https://api.ppvs.su/assets/thumb/e507dcaebb88ea74c612098108a47073-thumbnail.jpg",Torino vs. Pisa (2 November 2025 at 14:00)
+
 #EXTINF:-1 tvg-id="ppv-12977" tvg-name="Levante UD vs. Celta (2 November 2025 at 13:00)" tvg-epgid="12977" tvg-logo="https://api.ppvs.su/assets/thumb/c73eed78ae029a8084603fdb99cefd33-thumbnail.jpg",Levante UD vs. Celta (2 November 2025 at 13:00)
+
+#EXTINF:-1 tvg-id="ppv-13038" tvg-name="Hellas Verona vs. Inter (2 November 2025 at 11:30)" tvg-epgid="13038" tvg-logo="https://api.ppvs.su/assets/thumb/462c452909510e7122827433726d3a4b-thumbnail.jpg",Hellas Verona vs. Inter (2 November 2025 at 11:30)
 
 #EXTINF:-1 tvg-id="ppv-12854" tvg-name="AJ Auxerre vs. OM (1 November 2025 at 20:05)" tvg-epgid="12854" tvg-logo="https://api.ppvs.su/assets/thumb/b3066133aedb963aebfb1e59c3d31549-thumbnail.jpg",AJ Auxerre vs. OM (1 November 2025 at 20:05)
 
 #EXTINF:-1 tvg-id="ppv-12891" tvg-name="Liverpool vs. Aston Villa (1 November 2025 at 20:00)" tvg-epgid="12891" tvg-logo="https://api.ppvs.su/assets/thumb/da64b16cd0084624098a70c0070d44d9-thumbnail.jpg",Liverpool vs. Aston Villa (1 November 2025 at 20:00)
 
 #EXTINF:-1 tvg-id="ppv-12976" tvg-name="Real Madrid vs. Valencia CF (1 November 2025 at 20:00)" tvg-epgid="12976" tvg-logo="https://api.ppvs.su/assets/thumb/8905dfd747e99e4852659989e6102698-thumbnail.jpg",Real Madrid vs. Valencia CF (1 November 2025 at 20:00)
+
+#EXTINF:-1 tvg-id="ppv-13037" tvg-name="Cremonese vs. Juventus (1 November 2025 at 19:45)" tvg-epgid="13037" tvg-logo="https://api.ppvs.su/assets/thumb/7d27b923ce1048700fd36c69a3ab3212-thumbnail.jpg",Cremonese vs. Juventus (1 November 2025 at 19:45)
 
 #EXTINF:-1 tvg-id="ppv-12855" tvg-name="AS Monaco vs. Paris FC (1 November 2025 at 18:00)" tvg-epgid="12855" tvg-logo="https://api.ppvs.su/assets/thumb/906cd9e528637356dff861596914eabe-thumbnail.jpg",AS Monaco vs. Paris FC (1 November 2025 at 18:00)
 
@@ -80,6 +92,8 @@ https://gg.poocloud.in/oktagon-cz/index.m3u8
 #EXTINF:-1 tvg-id="ppv-12903" tvg-name="Bayern vs. Leverkusen (1 November 2025 at 17:30)" tvg-epgid="12903" tvg-logo="https://api.ppvs.su/assets/thumb/6a16335dab348bfd589dd928ac119a1f-thumbnail.jpg",Bayern vs. Leverkusen (1 November 2025 at 17:30)
 
 #EXTINF:-1 tvg-id="ppv-12975" tvg-name="Real Sociedad vs. Athletic Club (1 November 2025 at 17:30)" tvg-epgid="12975" tvg-logo="https://api.ppvs.su/assets/thumb/db1949a1471ae5bd4cf305a46580cae2-thumbnail.jpg",Real Sociedad vs. Athletic Club (1 November 2025 at 17:30)
+
+#EXTINF:-1 tvg-id="ppv-13036" tvg-name="Napoli vs. Como (1 November 2025 at 17:00)" tvg-epgid="13036" tvg-logo="https://api.ppvs.su/assets/thumb/c517db1494f5d3282bd0b147f46a6316-thumbnail.jpg",Napoli vs. Como (1 November 2025 at 17:00)
 
 #EXTINF:-1 tvg-id="ppv-12856" tvg-name="PSG vs. OGC Nice (1 November 2025 at 16:00)" tvg-epgid="12856" tvg-logo="https://api.ppvs.su/assets/thumb/db15d9422057b90f436753765c1f2df9-thumbnail.jpg",PSG vs. OGC Nice (1 November 2025 at 16:00)
 
@@ -104,6 +118,8 @@ https://gg.poocloud.in/oktagon-cz/index.m3u8
 #EXTINF:-1 tvg-id="ppv-12901" tvg-name="RB Leipzig vs. Stuttgart (1 November 2025 at 14:30)" tvg-epgid="12901" tvg-logo="https://api.ppvs.su/assets/thumb/6a7c4f35eb520e42309ce4941023cbc8-thumbnail.jpg",RB Leipzig vs. Stuttgart (1 November 2025 at 14:30)
 
 #EXTINF:-1 tvg-id="ppv-12902" tvg-name="St. Pauli vs. Gladbach (1 November 2025 at 14:30)" tvg-epgid="12902" tvg-logo="https://api.ppvs.su/assets/thumb/a28a8f61e3f5d5aaaf25d5843f85a02f-thumbnail.jpg",St. Pauli vs. Gladbach (1 November 2025 at 14:30)
+
+#EXTINF:-1 tvg-id="ppv-13035" tvg-name="Udinese vs. Atalanta (1 November 2025 at 14:00)" tvg-epgid="13035" tvg-logo="https://api.ppvs.su/assets/thumb/92187f1f11c56ec67380b17b1a068564-thumbnail.jpg",Udinese vs. Atalanta (1 November 2025 at 14:00)
 
 #EXTINF:-1 tvg-id="ppv-12973" tvg-name="Villarreal CF vs. Rayo Vallecano (1 November 2025 at 13:00)" tvg-epgid="12973" tvg-logo="https://api.ppvs.su/assets/thumb/2072a1cd813e4bb049b4d282e86c31d4-thumbnail.jpg",Villarreal CF vs. Rayo Vallecano (1 November 2025 at 13:00)
 
