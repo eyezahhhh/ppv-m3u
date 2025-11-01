@@ -75,6 +75,8 @@ https://gg.poocloud.in/oktagon-de/index.m3u8
 https://gg.poocloud.in/oktagon-en/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13033" tvg-name="OKTAGON 79 - Czech (1 November 2025 at 17:00)" tvg-epgid="13033" tvg-logo="https://api.ppvs.su/assets/thumb/2075f89796c876f2c14be1f853c858d3-thumbnail.jpg",OKTAGON 79 - Czech (1 November 2025 at 17:00)
 https://gg.poocloud.in/oktagon-cz/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13043" tvg-name="Sassuolo vs. Genoa (3 November 2025 at 17:30)" tvg-epgid="13043" tvg-logo="https://api.ppvs.su/assets/thumb/71ddfde91ecbc9abf80f6db3d5a786a1-thumbnail.jpg",Sassuolo vs. Genoa (3 November 2025 at 17:30)
+
 #EXTINF:-1 tvg-id="ppv-12980" tvg-name="Real Betis vs. RCD Mallorca (2 November 2025 at 20:00)" tvg-epgid="12980" tvg-logo="https://api.ppvs.su/assets/thumb/056a125115253149a46687986a45f450-thumbnail.jpg",Real Betis vs. RCD Mallorca (2 November 2025 at 20:00)
 
 #EXTINF:-1 tvg-id="ppv-12857" tvg-name="Brest vs. OL (2 November 2025 at 19:45)" tvg-epgid="12857" tvg-logo="https://api.ppvs.su/assets/thumb/820d9b3191bd3e9af11496ed88800d98-thumbnail.jpg",Brest vs. OL (2 November 2025 at 19:45)
@@ -137,18 +139,6 @@ https://gg.poocloud.in/oktagon-cz/index.m3u8
 
 #EXTINF:-1 tvg-id="ppv-5193" tvg-name="Goal Rush (1 November 2025 at 15:00)" tvg-epgid="5193" tvg-logo="https://api.ppvs.su/assets/thumb/7e5a5d5d101ec513c9f8e00aea73e1ed-thumbnail.jpg",Goal Rush (1 November 2025 at 15:00)
 
-#EXTINF:-1 tvg-id="ppv-12887" tvg-name="Brighton and Hove Albion vs. Leeds United (1 November 2025 at 15:00)" tvg-epgid="12887" tvg-logo="https://api.ppvs.su/assets/thumb/53c56b619efe271d63c3522b69d56953-thumbnail.jpg",Brighton and Hove Albion vs. Leeds United (1 November 2025 at 15:00)
-
-#EXTINF:-1 tvg-id="ppv-12888" tvg-name="Burnley vs. Arsenal (1 November 2025 at 15:00)" tvg-epgid="12888" tvg-logo="https://api.ppvs.su/assets/thumb/bff66acbd09c9dce5e38813e5b624159-thumbnail.jpg",Burnley vs. Arsenal (1 November 2025 at 15:00)
-
-#EXTINF:-1 tvg-id="ppv-12889" tvg-name="Crystal Palace vs. Brentford (1 November 2025 at 15:00)" tvg-epgid="12889" tvg-logo="https://api.ppvs.su/assets/thumb/6277a9c2d054bc8b69c5766ba2a3f52a-thumbnail.jpg",Crystal Palace vs. Brentford (1 November 2025 at 15:00)
-
-#EXTINF:-1 tvg-id="ppv-12890" tvg-name="Fulham vs. Wolverhampton Wanderers (1 November 2025 at 15:00)" tvg-epgid="12890" tvg-logo="https://api.ppvs.su/assets/thumb/d629fa236bed88d0109d8305824ffe4e-thumbnail.jpg",Fulham vs. Wolverhampton Wanderers (1 November 2025 at 15:00)
-
-#EXTINF:-1 tvg-id="ppv-12893" tvg-name="Nottingham Forest vs. Manchester United (1 November 2025 at 15:00)" tvg-epgid="12893" tvg-logo="https://api.ppvs.su/assets/thumb/e780acb38a0ea7d5d2165cecef216d93-thumbnail.jpg",Nottingham Forest vs. Manchester United (1 November 2025 at 15:00)
-
-#EXTINF:-1 tvg-id="ppv-12822" tvg-name="Goal Arena (1 November 2025 at 14:30)" tvg-epgid="12822" tvg-logo="https://api.ppvs.su/assets/thumb/c035a04a4d84afedca7706c23aabf3e2-thumbnail.jpg",Goal Arena (1 November 2025 at 14:30)
-https://gg.poocloud.in/bundesliga_goalarena/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13080" tvg-name="Chicago Blackhawks vs. Edmonton Oilers (2 November 2025 at 03:00)" tvg-epgid="13080" tvg-logo="https://api.ppvs.su/assets/thumb/2b00c89635e53c117a8c99a02c0ebffb-thumbnail.jpg",Chicago Blackhawks vs. Edmonton Oilers (2 November 2025 at 03:00)
 https://gg.poocloud.in/edmontonoilers/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13081" tvg-name="New York Rangers vs. Seattle Kraken (2 November 2025 at 03:00)" tvg-epgid="13081" tvg-logo="https://api.ppvs.su/assets/thumb/c5049398c514c3107c67fd26ae5447d2-thumbnail.jpg",New York Rangers vs. Seattle Kraken (2 November 2025 at 03:00)

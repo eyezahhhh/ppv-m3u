@@ -835,6 +835,28 @@ channel="ppv-13033"
 <icon src="https://api.ppvs.su/assets/thumb/2075f89796c876f2c14be1f853c858d3-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-13043">
+<display-name>Sassuolo vs. Genoa</display-name>
+</channel>
+<programme
+start="20251103173000 +0000"
+stop="20251103200000 +0000"
+channel="ppv-13043"
+>
+<title lang="en">Sassuolo vs. Genoa</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/71ddfde91ecbc9abf80f6db3d5a786a1-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-12980">
 <display-name>Real Betis vs. RCD Mallorca</display-name>
 </channel>
@@ -1515,138 +1537,6 @@ channel="ppv-5193"
 </audio>
 <category>Football</category>
 <icon src="https://api.ppvs.su/assets/thumb/7e5a5d5d101ec513c9f8e00aea73e1ed-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12887">
-<display-name>Brighton and Hove Albion vs. Leeds United</display-name>
-</channel>
-<programme
-start="20251101150000 +0000"
-stop="20251101173000 +0000"
-channel="ppv-12887"
->
-<title lang="en">Brighton and Hove Albion vs. Leeds United</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/53c56b619efe271d63c3522b69d56953-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12888">
-<display-name>Burnley vs. Arsenal</display-name>
-</channel>
-<programme
-start="20251101150000 +0000"
-stop="20251101173000 +0000"
-channel="ppv-12888"
->
-<title lang="en">Burnley vs. Arsenal</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/bff66acbd09c9dce5e38813e5b624159-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12889">
-<display-name>Crystal Palace vs. Brentford</display-name>
-</channel>
-<programme
-start="20251101150000 +0000"
-stop="20251101173000 +0000"
-channel="ppv-12889"
->
-<title lang="en">Crystal Palace vs. Brentford</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/6277a9c2d054bc8b69c5766ba2a3f52a-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12890">
-<display-name>Fulham vs. Wolverhampton Wanderers</display-name>
-</channel>
-<programme
-start="20251101150000 +0000"
-stop="20251101173000 +0000"
-channel="ppv-12890"
->
-<title lang="en">Fulham vs. Wolverhampton Wanderers</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/d629fa236bed88d0109d8305824ffe4e-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12893">
-<display-name>Nottingham Forest vs. Manchester United</display-name>
-</channel>
-<programme
-start="20251101150000 +0000"
-stop="20251101173000 +0000"
-channel="ppv-12893"
->
-<title lang="en">Nottingham Forest vs. Manchester United</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/e780acb38a0ea7d5d2165cecef216d93-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12822">
-<display-name>Goal Arena</display-name>
-</channel>
-<programme
-start="20251101143000 +0000"
-stop="20251101173000 +0000"
-channel="ppv-12822"
->
-<title lang="en">Goal Arena</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/c035a04a4d84afedca7706c23aabf3e2-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-13080">
