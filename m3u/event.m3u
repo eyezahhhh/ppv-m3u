@@ -67,6 +67,12 @@ https://gg.poocloud.in/oktagon-de/index.m3u8
 https://gg.poocloud.in/oktagon-en/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13033" tvg-name="OKTAGON 79 - Czech (1 November 2025 at 17:00)" tvg-epgid="13033" tvg-logo="https://api.ppvs.su/assets/thumb/2075f89796c876f2c14be1f853c858d3-thumbnail.jpg",OKTAGON 79 - Czech (1 November 2025 at 17:00)
 https://gg.poocloud.in/oktagon-cz/index.m3u8
+#EXTINF:-1 tvg-id="ppv-12894" tvg-name="Sunderland vs. Everton (3 November 2025 at 20:00)" tvg-epgid="12894" tvg-logo="https://api.ppvs.su/assets/thumb/bce788f473abc7c8be239c78647b613f-thumbnail.jpg",Sunderland vs. Everton (3 November 2025 at 20:00)
+
+#EXTINF:-1 tvg-id="ppv-12981" tvg-name="Real Oviedo vs. CA Osasuna (3 November 2025 at 20:00)" tvg-epgid="12981" tvg-logo="https://api.ppvs.su/assets/thumb/189e9b995f759864d3e69988f93e5ce2-thumbnail.jpg",Real Oviedo vs. CA Osasuna (3 November 2025 at 20:00)
+
+#EXTINF:-1 tvg-id="ppv-13044" tvg-name="Lazio vs. Cagliari (3 November 2025 at 19:45)" tvg-epgid="13044" tvg-logo="https://api.ppvs.su/assets/thumb/5c4c389d06896d554e9a13710e5696c2-thumbnail.jpg",Lazio vs. Cagliari (3 November 2025 at 19:45)
+
 #EXTINF:-1 tvg-id="ppv-13043" tvg-name="Sassuolo vs. Genoa (3 November 2025 at 17:30)" tvg-epgid="13043" tvg-logo="https://api.ppvs.su/assets/thumb/71ddfde91ecbc9abf80f6db3d5a786a1-thumbnail.jpg",Sassuolo vs. Genoa (3 November 2025 at 17:30)
 
 #EXTINF:-1 tvg-id="ppv-12980" tvg-name="Real Betis vs. RCD Mallorca (2 November 2025 at 20:00)" tvg-epgid="12980" tvg-logo="https://api.ppvs.su/assets/thumb/056a125115253149a46687986a45f450-thumbnail.jpg",Real Betis vs. RCD Mallorca (2 November 2025 at 20:00)
@@ -117,12 +123,6 @@ https://gg.poocloud.in/oktagon-cz/index.m3u8
 
 #EXTINF:-1 tvg-id="ppv-12855" tvg-name="AS Monaco vs. Paris FC (1 November 2025 at 18:00)" tvg-epgid="12855" tvg-logo="https://api.ppvs.su/assets/thumb/906cd9e528637356dff861596914eabe-thumbnail.jpg",AS Monaco vs. Paris FC (1 November 2025 at 18:00)
 
-#EXTINF:-1 tvg-id="ppv-12895" tvg-name="Tottenham Hotspur vs. Chelsea (1 November 2025 at 17:30)" tvg-epgid="12895" tvg-logo="https://api.ppvs.su/assets/thumb/4c1cf94ad858ae315905259fb3f1881f-thumbnail.jpg",Tottenham Hotspur vs. Chelsea (1 November 2025 at 17:30)
-
-#EXTINF:-1 tvg-id="ppv-12903" tvg-name="Bayern vs. Leverkusen (1 November 2025 at 17:30)" tvg-epgid="12903" tvg-logo="https://api.ppvs.su/assets/thumb/6a16335dab348bfd589dd928ac119a1f-thumbnail.jpg",Bayern vs. Leverkusen (1 November 2025 at 17:30)
-
-#EXTINF:-1 tvg-id="ppv-12975" tvg-name="Real Sociedad vs. Athletic Club (1 November 2025 at 17:30)" tvg-epgid="12975" tvg-logo="https://api.ppvs.su/assets/thumb/db1949a1471ae5bd4cf305a46580cae2-thumbnail.jpg",Real Sociedad vs. Athletic Club (1 November 2025 at 17:30)
-
 #EXTINF:-1 tvg-id="ppv-13080" tvg-name="Chicago Blackhawks vs. Edmonton Oilers (2 November 2025 at 03:00)" tvg-epgid="13080" tvg-logo="https://api.ppvs.su/assets/thumb/2b00c89635e53c117a8c99a02c0ebffb-thumbnail.jpg",Chicago Blackhawks vs. Edmonton Oilers (2 November 2025 at 03:00)
 https://gg.poocloud.in/edmontonoilers/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13081" tvg-name="New York Rangers vs. Seattle Kraken (2 November 2025 at 03:00)" tvg-epgid="13081" tvg-logo="https://api.ppvs.su/assets/thumb/c5049398c514c3107c67fd26ae5447d2-thumbnail.jpg",New York Rangers vs. Seattle Kraken (2 November 2025 at 03:00)
@@ -147,7 +147,5 @@ https://gg.poocloud.in/sanjosesharks/index.m3u8
 https://gg.poocloud.in/nashvillepredators/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13070" tvg-name="Pittsburgh Penguins vs. Winnipeg Jets (1 November 2025 at 19:00)" tvg-epgid="13070" tvg-logo="https://api.ppvs.su/assets/thumb/a5228c43806e55e91d3d22e5935b2eab-thumbnail.jpg",Pittsburgh Penguins vs. Winnipeg Jets (1 November 2025 at 19:00)
 https://gg.poocloud.in/winnipegjets/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13069" tvg-name="Carolina Hurricanes vs. Boston Bruins (1 November 2025 at 17:00)" tvg-epgid="13069" tvg-logo="https://api.ppvs.su/assets/thumb/0fd778b42ddc9911ad971675a2f2247d-thumbnail.jpg",Carolina Hurricanes vs. Boston Bruins (1 November 2025 at 17:00)
-https://gg.poocloud.in/bostonbruins/index.m3u8
 #EXTINF:-1 tvg-id="ppv-12886" tvg-name="AEW: Saturday Night Collision (2 November 2025 at 00:00)" tvg-epgid="12886" tvg-logo="https://api.ppvs.su/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg",AEW: Saturday Night Collision (2 November 2025 at 00:00)
 
