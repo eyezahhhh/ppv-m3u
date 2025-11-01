@@ -1495,50 +1495,6 @@ channel="ppv-12856"
 <icon src="https://api.ppvs.su/assets/thumb/db15d9422057b90f436753765c1f2df9-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-12974">
-<display-name>Atlético de Madrid vs. Sevilla FC</display-name>
-</channel>
-<programme
-start="20251101151500 +0000"
-stop="20251101174500 +0000"
-channel="ppv-12974"
->
-<title lang="en">Atlético de Madrid vs. Sevilla FC</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/4ffb6428bb0b4009c1bfae7a50029a13-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-5193">
-<display-name>Goal Rush</display-name>
-</channel>
-<programme
-start="20251101150000 +0000"
-stop="20251101180000 +0000"
-channel="ppv-5193"
->
-<title lang="en">Goal Rush</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/7e5a5d5d101ec513c9f8e00aea73e1ed-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-13080">
 <display-name>Chicago Blackhawks vs. Edmonton Oilers</display-name>
 </channel>
