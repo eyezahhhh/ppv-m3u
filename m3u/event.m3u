@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ppv-12995" tvg-name="Seattle Seahawks vs. Washington Commanders (3 November 2025 at 02:20)" tvg-epgid="12995" tvg-logo="https://api.ppvs.su/assets/thumb/4968e95559653bf4626b892c1180e0a0-thumbnail.jpg",Seattle Seahawks vs. Washington Commanders (3 November 2025 at 02:20)
+
 #EXTINF:-1 tvg-id="ppv-12994" tvg-name="Kansas City Chiefs vs. Buffalo Bills (2 November 2025 at 22:25)" tvg-epgid="12994" tvg-logo="https://api.ppvs.su/assets/thumb/ffd2d09e713ca1b1c09e17c13e22d73b-thumbnail.jpg",Kansas City Chiefs vs. Buffalo Bills (2 November 2025 at 22:25)
 
 #EXTINF:-1 tvg-id="ppv-12992" tvg-name="Jacksonville Jaguars vs. Las Vegas Raiders (2 November 2025 at 22:05)" tvg-epgid="12992" tvg-logo="https://api.ppvs.su/assets/thumb/8059360e4572a5bb4933d84ff7a674cf-thumbnail.jpg",Jacksonville Jaguars vs. Las Vegas Raiders (2 November 2025 at 22:05)
@@ -33,12 +35,6 @@ https://gg.poocloud.in/nba_portlandtrailblazers/index.m3u8
 https://gg.poocloud.in/nba_memphisgrizzlies/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13017" tvg-name="New York Knicks vs. Chicago Bulls (East Group C) (1 November 2025 at 00:00)" tvg-epgid="13017" tvg-logo="https://api.ppvs.su/assets/thumb/65c3bddce7bedf0727e5546f4bb7f5d3-thumbnail.jpg",New York Knicks vs. Chicago Bulls (East Group C) (1 November 2025 at 00:00)
 https://gg.poocloud.in/nba_chicagobulls/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13016" tvg-name="Toronto Raptors vs. Cleveland Cavaliers (East Group A) (31 October 2025 at 23:30)" tvg-epgid="13016" tvg-logo="https://api.ppvs.su/assets/thumb/c1edd1823dfb05bab687ca2686fd7ea7-thumbnail.jpg",Toronto Raptors vs. Cleveland Cavaliers (East Group A) (31 October 2025 at 23:30)
-https://gg.poocloud.in/nba_clevelandcavaliers/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13014" tvg-name="Atlanta Hawks vs. Indiana Pacers (East Group A) (31 October 2025 at 23:00)" tvg-epgid="13014" tvg-logo="https://api.ppvs.su/assets/thumb/21d8fe1d035ed4fe89e878cd5ca0fa23-thumbnail.jpg",Atlanta Hawks vs. Indiana Pacers (East Group A) (31 October 2025 at 23:00)
-https://gg.poocloud.in/nba_indianapacers/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13015" tvg-name="Boston Celtics vs. Philadelphia 76ers (East Group B) (31 October 2025 at 23:00)" tvg-epgid="13015" tvg-logo="https://api.ppvs.su/assets/thumb/04314fc90848473f2d3f48a17fe30882-thumbnail.jpg",Boston Celtics vs. Philadelphia 76ers (East Group B) (31 October 2025 at 23:00)
-https://gg.poocloud.in/nba_philadelphia76ers/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13031" tvg-name="OKTAGON 79 - Deutsch (1 November 2025 at 17:00)" tvg-epgid="13031" tvg-logo="https://api.ppvs.su/assets/thumb/2075f89796c876f2c14be1f853c858d3-thumbnail.jpg",OKTAGON 79 - Deutsch (1 November 2025 at 17:00)
 https://gg.poocloud.in/oktagon-de/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13032" tvg-name="OKTAGON 79 - English (1 November 2025 at 17:00)" tvg-epgid="13032" tvg-logo="https://api.ppvs.su/assets/thumb/2075f89796c876f2c14be1f853c858d3-thumbnail.jpg",OKTAGON 79 - English (1 November 2025 at 17:00)
@@ -135,8 +131,6 @@ https://gg.poocloud.in/bundesliga_goalarena/index.m3u8
 
 #EXTINF:-1 tvg-id="ppv-13027" tvg-name="Detroit Red Wings vs. Anaheim Ducks (1 November 2025 at 02:00)" tvg-epgid="13027" tvg-logo="https://api.ppvs.su/assets/thumb/d4c9f9be6c68d7270ebf037764617077-thumbnail.jpg",Detroit Red Wings vs. Anaheim Ducks (1 November 2025 at 02:00)
 https://gg.poocloud.in/anaheimducks/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13026" tvg-name="New York Islanders vs. Washington Capitals (31 October 2025 at 23:00)" tvg-epgid="13026" tvg-logo="https://api.ppvs.su/assets/thumb/4f5c81701b056975c46bca63380893bb-thumbnail.jpg",New York Islanders vs. Washington Capitals (31 October 2025 at 23:00)
-https://gg.poocloud.in/washingtoncapitals/index.m3u8
 #EXTINF:-1 tvg-id="ppv-12886" tvg-name="AEW: Saturday Night Collision (2 November 2025 at 00:00)" tvg-epgid="12886" tvg-logo="https://api.ppvs.su/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg",AEW: Saturday Night Collision (2 November 2025 at 00:00)
 
 #EXTINF:-1 tvg-id="ppv-12885" tvg-name="WWE: Friday Night Smackdown (1 November 2025 at 00:00)" tvg-epgid="12885" tvg-logo="https://api.ppvs.su/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg",WWE: Friday Night Smackdown (1 November 2025 at 00:00)

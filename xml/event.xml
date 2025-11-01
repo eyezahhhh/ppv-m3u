@@ -1,4 +1,26 @@
 <tv>
+<channel id="ppv-12995">
+<display-name>Seattle Seahawks vs. Washington Commanders</display-name>
+</channel>
+<programme
+start="20251103022000 +0000"
+stop="20251103055000 +0000"
+channel="ppv-12995"
+>
+<title lang="en">Seattle Seahawks vs. Washington Commanders</title>
+<sub-title>American Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>American Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/4968e95559653bf4626b892c1180e0a0-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-12994">
 <display-name>Kansas City Chiefs vs. Buffalo Bills</display-name>
 </channel>
@@ -371,72 +393,6 @@ channel="ppv-13017"
 </audio>
 <category>Basketball</category>
 <icon src="https://api.ppvs.su/assets/thumb/65c3bddce7bedf0727e5546f4bb7f5d3-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13016">
-<display-name>Toronto Raptors vs. Cleveland Cavaliers (East Group A)</display-name>
-</channel>
-<programme
-start="20251031233000 +0000"
-stop="20251101021800 +0000"
-channel="ppv-13016"
->
-<title lang="en">Toronto Raptors vs. Cleveland Cavaliers (East Group A)</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://api.ppvs.su/assets/thumb/c1edd1823dfb05bab687ca2686fd7ea7-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13014">
-<display-name>Atlanta Hawks vs. Indiana Pacers (East Group A)</display-name>
-</channel>
-<programme
-start="20251031230000 +0000"
-stop="20251101014800 +0000"
-channel="ppv-13014"
->
-<title lang="en">Atlanta Hawks vs. Indiana Pacers (East Group A)</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://api.ppvs.su/assets/thumb/21d8fe1d035ed4fe89e878cd5ca0fa23-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13015">
-<display-name>Boston Celtics vs. Philadelphia 76ers (East Group B)</display-name>
-</channel>
-<programme
-start="20251031230000 +0000"
-stop="20251101014800 +0000"
-channel="ppv-13015"
->
-<title lang="en">Boston Celtics vs. Philadelphia 76ers (East Group B)</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://api.ppvs.su/assets/thumb/04314fc90848473f2d3f48a17fe30882-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-13031">
@@ -1493,28 +1449,6 @@ channel="ppv-13027"
 </audio>
 <category>Ice Hockey</category>
 <icon src="https://api.ppvs.su/assets/thumb/d4c9f9be6c68d7270ebf037764617077-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13026">
-<display-name>New York Islanders vs. Washington Capitals</display-name>
-</channel>
-<programme
-start="20251031230000 +0000"
-stop="20251101020000 +0000"
-channel="ppv-13026"
->
-<title lang="en">New York Islanders vs. Washington Capitals</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://api.ppvs.su/assets/thumb/4f5c81701b056975c46bca63380893bb-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-12886">
