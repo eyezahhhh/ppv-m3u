@@ -769,28 +769,6 @@ channel="ppv-13062"
 <icon src="https://api.ppvs.su/assets/thumb/041680b85c75266d09149d55f61d8217-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-13021">
-<display-name>New Orleans Pelicans vs. LA Clippers (West Group B)</display-name>
-</channel>
-<programme
-start="20251101023000 +0000"
-stop="20251101051800 +0000"
-channel="ppv-13021"
->
-<title lang="en">New Orleans Pelicans vs. LA Clippers (West Group B)</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://api.ppvs.su/assets/thumb/058564c27aa4157b7491d526c90fb141-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-13031">
 <display-name>OKTAGON 79 - Deutsch</display-name>
 </channel>
