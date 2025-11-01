@@ -791,50 +791,6 @@ channel="ppv-13021"
 <icon src="https://api.ppvs.su/assets/thumb/058564c27aa4157b7491d526c90fb141-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-13019">
-<display-name>Utah Jazz vs. Phoenix Suns (West Group A)</display-name>
-</channel>
-<programme
-start="20251101020000 +0000"
-stop="20251101044800 +0000"
-channel="ppv-13019"
->
-<title lang="en">Utah Jazz vs. Phoenix Suns (West Group A)</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://api.ppvs.su/assets/thumb/ef574daef941f953e1fb7e9a1d10b7e8-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13020">
-<display-name>Denver Nuggets vs. Portland Trail Blazers (West Group C)</display-name>
-</channel>
-<programme
-start="20251101020000 +0000"
-stop="20251101044800 +0000"
-channel="ppv-13020"
->
-<title lang="en">Denver Nuggets vs. Portland Trail Blazers (West Group C)</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://api.ppvs.su/assets/thumb/a295f609437fd6c6fd822b8b05e9ee9b-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-13031">
 <display-name>OKTAGON 79 - Deutsch</display-name>
 </channel>
@@ -1867,28 +1823,6 @@ channel="ppv-12973"
 </audio>
 <category>Football</category>
 <icon src="https://api.ppvs.su/assets/thumb/2072a1cd813e4bb049b4d282e86c31d4-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13027">
-<display-name>Detroit Red Wings vs. Anaheim Ducks</display-name>
-</channel>
-<programme
-start="20251101020000 +0000"
-stop="20251101050000 +0000"
-channel="ppv-13027"
->
-<title lang="en">Detroit Red Wings vs. Anaheim Ducks</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://api.ppvs.su/assets/thumb/d4c9f9be6c68d7270ebf037764617077-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-12886">

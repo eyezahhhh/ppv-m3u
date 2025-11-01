@@ -71,10 +71,6 @@ https://gg.poocloud.in/nba_charlottehornets/index.m3u8
 https://gg.poocloud.in/nba_milwaukeebucks/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13021" tvg-name="New Orleans Pelicans vs. LA Clippers (West Group B) (1 November 2025 at 02:30)" tvg-epgid="13021" tvg-logo="https://api.ppvs.su/assets/thumb/058564c27aa4157b7491d526c90fb141-thumbnail.jpg",New Orleans Pelicans vs. LA Clippers (West Group B) (1 November 2025 at 02:30)
 https://gg.poocloud.in/nba_laclippers/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13019" tvg-name="Utah Jazz vs. Phoenix Suns (West Group A) (1 November 2025 at 02:00)" tvg-epgid="13019" tvg-logo="https://api.ppvs.su/assets/thumb/ef574daef941f953e1fb7e9a1d10b7e8-thumbnail.jpg",Utah Jazz vs. Phoenix Suns (West Group A) (1 November 2025 at 02:00)
-https://gg.poocloud.in/nba_phoenixsuns/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13020" tvg-name="Denver Nuggets vs. Portland Trail Blazers (West Group C) (1 November 2025 at 02:00)" tvg-epgid="13020" tvg-logo="https://api.ppvs.su/assets/thumb/a295f609437fd6c6fd822b8b05e9ee9b-thumbnail.jpg",Denver Nuggets vs. Portland Trail Blazers (West Group C) (1 November 2025 at 02:00)
-https://gg.poocloud.in/nba_portlandtrailblazers/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13031" tvg-name="OKTAGON 79 - Deutsch (1 November 2025 at 17:00)" tvg-epgid="13031" tvg-logo="https://api.ppvs.su/assets/thumb/2075f89796c876f2c14be1f853c858d3-thumbnail.jpg",OKTAGON 79 - Deutsch (1 November 2025 at 17:00)
 https://gg.poocloud.in/oktagon-de/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13032" tvg-name="OKTAGON 79 - English (1 November 2025 at 17:00)" tvg-epgid="13032" tvg-logo="https://api.ppvs.su/assets/thumb/2075f89796c876f2c14be1f853c858d3-thumbnail.jpg",OKTAGON 79 - English (1 November 2025 at 17:00)
@@ -169,7 +165,5 @@ https://gg.poocloud.in/bundesliga_goalarena/index.m3u8
 
 #EXTINF:-1 tvg-id="ppv-12973" tvg-name="Villarreal CF vs. Rayo Vallecano (1 November 2025 at 13:00)" tvg-epgid="12973" tvg-logo="https://api.ppvs.su/assets/thumb/2072a1cd813e4bb049b4d282e86c31d4-thumbnail.jpg",Villarreal CF vs. Rayo Vallecano (1 November 2025 at 13:00)
 
-#EXTINF:-1 tvg-id="ppv-13027" tvg-name="Detroit Red Wings vs. Anaheim Ducks (1 November 2025 at 02:00)" tvg-epgid="13027" tvg-logo="https://api.ppvs.su/assets/thumb/d4c9f9be6c68d7270ebf037764617077-thumbnail.jpg",Detroit Red Wings vs. Anaheim Ducks (1 November 2025 at 02:00)
-https://gg.poocloud.in/anaheimducks/index.m3u8
 #EXTINF:-1 tvg-id="ppv-12886" tvg-name="AEW: Saturday Night Collision (2 November 2025 at 00:00)" tvg-epgid="12886" tvg-logo="https://api.ppvs.su/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg",AEW: Saturday Night Collision (2 November 2025 at 00:00)
 
