@@ -45,8 +45,6 @@ https://gg.poocloud.in/ESPN2/index.m3u8
 
 #EXTINF:-1 tvg-id="ppv-13054" tvg-name="Texas Tech Red Raiders vs. Kansas State Wildcats (1 November 2025 at 19:30)" tvg-epgid="13054" tvg-logo="https://api.ppvs.su/assets/thumb/17804e17815994065895955b55bdc0c7-thumbnail.jpg",Texas Tech Red Raiders vs. Kansas State Wildcats (1 November 2025 at 19:30)
 
-#EXTINF:-1 tvg-id="ppv-13050" tvg-name="Louisville Cardinals vs. Virginia Tech Hokies (1 November 2025 at 19:00)" tvg-epgid="13050" tvg-logo="https://api.ppvs.su/assets/thumb/58f583ac1d97d7b128bd858874509324-thumbnail.jpg",Louisville Cardinals vs. Virginia Tech Hokies (1 November 2025 at 19:00)
-https://gg.poocloud.in/The CW Network/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13065" tvg-name="Los Angeles Dodgers vs. Toronto Blue Jays (2 November 2025 at 00:00)" tvg-epgid="13065" tvg-logo="https://api.ppvs.su/assets/thumb/fa14655fefa2fb97929805b7618da2bd-thumbnail.jpg",Los Angeles Dodgers vs. Toronto Blue Jays (2 November 2025 at 00:00)
 
 #EXTINF:-1 tvg-id="ppv-13068" tvg-name="Dallas Mavericks vs. Detroit Pistons (2 November 2025 at 02:00)" tvg-epgid="13068" tvg-logo="https://api.ppvs.su/assets/thumb/4203ea065115fd80f15d7cb4935b41d7-thumbnail.jpg",Dallas Mavericks vs. Detroit Pistons (2 November 2025 at 02:00)
@@ -117,12 +115,6 @@ https://gg.poocloud.in/oktagon-cz/index.m3u8
 
 #EXTINF:-1 tvg-id="ppv-12854" tvg-name="AJ Auxerre vs. OM (1 November 2025 at 20:05)" tvg-epgid="12854" tvg-logo="https://api.ppvs.su/assets/thumb/b3066133aedb963aebfb1e59c3d31549-thumbnail.jpg",AJ Auxerre vs. OM (1 November 2025 at 20:05)
 
-#EXTINF:-1 tvg-id="ppv-12891" tvg-name="Liverpool vs. Aston Villa (1 November 2025 at 20:00)" tvg-epgid="12891" tvg-logo="https://api.ppvs.su/assets/thumb/da64b16cd0084624098a70c0070d44d9-thumbnail.jpg",Liverpool vs. Aston Villa (1 November 2025 at 20:00)
-
-#EXTINF:-1 tvg-id="ppv-12976" tvg-name="Real Madrid vs. Valencia CF (1 November 2025 at 20:00)" tvg-epgid="12976" tvg-logo="https://api.ppvs.su/assets/thumb/8905dfd747e99e4852659989e6102698-thumbnail.jpg",Real Madrid vs. Valencia CF (1 November 2025 at 20:00)
-
-#EXTINF:-1 tvg-id="ppv-13037" tvg-name="Cremonese vs. Juventus (1 November 2025 at 19:45)" tvg-epgid="13037" tvg-logo="https://api.ppvs.su/assets/thumb/7d27b923ce1048700fd36c69a3ab3212-thumbnail.jpg",Cremonese vs. Juventus (1 November 2025 at 19:45)
-
 #EXTINF:-1 tvg-id="ppv-13080" tvg-name="Chicago Blackhawks vs. Edmonton Oilers (2 November 2025 at 03:00)" tvg-epgid="13080" tvg-logo="https://api.ppvs.su/assets/thumb/2b00c89635e53c117a8c99a02c0ebffb-thumbnail.jpg",Chicago Blackhawks vs. Edmonton Oilers (2 November 2025 at 03:00)
 https://gg.poocloud.in/edmontonoilers/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13081" tvg-name="New York Rangers vs. Seattle Kraken (2 November 2025 at 03:00)" tvg-epgid="13081" tvg-logo="https://api.ppvs.su/assets/thumb/c5049398c514c3107c67fd26ae5447d2-thumbnail.jpg",New York Rangers vs. Seattle Kraken (2 November 2025 at 03:00)
@@ -143,7 +135,7 @@ https://gg.poocloud.in/minnesotawild/index.m3u8
 https://gg.poocloud.in/floridapanthers/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13072" tvg-name="Colorado Avalanche vs. San Jose Sharks (1 November 2025 at 20:00)" tvg-epgid="13072" tvg-logo="https://api.ppvs.su/assets/thumb/54e4aa2a96f0c0ec03e0c6107361f499-thumbnail.jpg",Colorado Avalanche vs. San Jose Sharks (1 November 2025 at 20:00)
 https://gg.poocloud.in/sanjosesharks/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13071" tvg-name="Calgary Flames vs. Nashville Predators (1 November 2025 at 19:30)" tvg-epgid="13071" tvg-logo="https://api.ppvs.su/assets/thumb/e84aceadaa09a635e04f97bdd45325b6-thumbnail.jpg",Calgary Flames vs. Nashville Predators (1 November 2025 at 19:30)
-https://gg.poocloud.in/nashvillepredators/index.m3u8
 #EXTINF:-1 tvg-id="ppv-12886" tvg-name="AEW: Saturday Night Collision (2 November 2025 at 00:00)" tvg-epgid="12886" tvg-logo="https://api.ppvs.su/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg",AEW: Saturday Night Collision (2 November 2025 at 00:00)
 
+#EXTINF:-1 tvg-id="ppv-13083" tvg-name="WWE: Saturday Night’s Main Event (1 November 2025 at 23:00)" tvg-epgid="13083" tvg-logo="https://api.ppvs.su/assets/thumb/3332e789e84e525bd215a65fea619be5-thumbnail.jpg",WWE: Saturday Night’s Main Event (1 November 2025 at 23:00)
+https://gg.poocloud.in/wwe/index.m3u8

@@ -505,28 +505,6 @@ channel="ppv-13054"
 <icon src="https://api.ppvs.su/assets/thumb/17804e17815994065895955b55bdc0c7-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-13050">
-<display-name>Louisville Cardinals vs. Virginia Tech Hokies</display-name>
-</channel>
-<programme
-start="20251101190000 +0000"
-stop="20251101223000 +0000"
-channel="ppv-13050"
->
-<title lang="en">Louisville Cardinals vs. Virginia Tech Hokies</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/58f583ac1d97d7b128bd858874509324-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-13065">
 <display-name>Los Angeles Dodgers vs. Toronto Blue Jays</display-name>
 </channel>
@@ -1297,72 +1275,6 @@ channel="ppv-12854"
 <icon src="https://api.ppvs.su/assets/thumb/b3066133aedb963aebfb1e59c3d31549-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-12891">
-<display-name>Liverpool vs. Aston Villa</display-name>
-</channel>
-<programme
-start="20251101200000 +0000"
-stop="20251101223000 +0000"
-channel="ppv-12891"
->
-<title lang="en">Liverpool vs. Aston Villa</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/da64b16cd0084624098a70c0070d44d9-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12976">
-<display-name>Real Madrid vs. Valencia CF</display-name>
-</channel>
-<programme
-start="20251101200000 +0000"
-stop="20251101223000 +0000"
-channel="ppv-12976"
->
-<title lang="en">Real Madrid vs. Valencia CF</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/8905dfd747e99e4852659989e6102698-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13037">
-<display-name>Cremonese vs. Juventus</display-name>
-</channel>
-<programme
-start="20251101194500 +0000"
-stop="20251101221500 +0000"
-channel="ppv-13037"
->
-<title lang="en">Cremonese vs. Juventus</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/7d27b923ce1048700fd36c69a3ab3212-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-13080">
 <display-name>Chicago Blackhawks vs. Edmonton Oilers</display-name>
 </channel>
@@ -1583,28 +1495,6 @@ channel="ppv-13072"
 <icon src="https://api.ppvs.su/assets/thumb/54e4aa2a96f0c0ec03e0c6107361f499-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-13071">
-<display-name>Calgary Flames vs. Nashville Predators</display-name>
-</channel>
-<programme
-start="20251101193000 +0000"
-stop="20251101223000 +0000"
-channel="ppv-13071"
->
-<title lang="en">Calgary Flames vs. Nashville Predators</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://api.ppvs.su/assets/thumb/e84aceadaa09a635e04f97bdd45325b6-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-12886">
 <display-name>AEW: Saturday Night Collision</display-name>
 </channel>
@@ -1625,5 +1515,27 @@ channel="ppv-12886"
 </audio>
 <category>Wrestling</category>
 <icon src="https://api.ppvs.su/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13083">
+<display-name>WWE: Saturday Night’s Main Event</display-name>
+</channel>
+<programme
+start="20251101230000 +0000"
+stop="20251102040000 +0000"
+channel="ppv-13083"
+>
+<title lang="en">WWE: Saturday Night’s Main Event</title>
+<sub-title>Wrestling</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Wrestling</category>
+<icon src="https://api.ppvs.su/assets/thumb/3332e789e84e525bd215a65fea619be5-thumbnail.jpg" />
 </programme>
 </tv>
