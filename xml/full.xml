@@ -395,28 +395,6 @@ channel="ppv-13057"
 <icon src="https://api.ppvs.su/assets/thumb/ebd1643b353e50572da3b95013b8e2d0-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-13055">
-<display-name>Virginia Cavaliers vs. California Golden Bears</display-name>
-</channel>
-<programme
-start="20251101194500 +0000"
-stop="20251101231500 +0000"
-channel="ppv-13055"
->
-<title lang="en">Virginia Cavaliers vs. California Golden Bears</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/791f5f17b826c0e945ca09882cea7058-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-13065">
 <display-name>Los Angeles Dodgers vs. Toronto Blue Jays</display-name>
 </channel>
