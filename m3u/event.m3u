@@ -159,7 +159,31 @@ https://gg.poocloud.in/bundesliga_goalarena/index.m3u8
 
 #EXTINF:-1 tvg-id="ppv-12902" tvg-name="St. Pauli vs. Gladbach (1 November 2025 at 14:30)" tvg-epgid="12902" tvg-logo="https://api.ppvs.su/assets/thumb/a28a8f61e3f5d5aaaf25d5843f85a02f-thumbnail.jpg",St. Pauli vs. Gladbach (1 November 2025 at 14:30)
 
-#EXTINF:-1 tvg-id="ppv-13035" tvg-name="Udinese vs. Atalanta (1 November 2025 at 14:00)" tvg-epgid="13035" tvg-logo="https://api.ppvs.su/assets/thumb/92187f1f11c56ec67380b17b1a068564-thumbnail.jpg",Udinese vs. Atalanta (1 November 2025 at 14:00)
-
+#EXTINF:-1 tvg-id="ppv-13080" tvg-name="Chicago Blackhawks vs. Edmonton Oilers (2 November 2025 at 03:00)" tvg-epgid="13080" tvg-logo="https://api.ppvs.su/assets/thumb/2b00c89635e53c117a8c99a02c0ebffb-thumbnail.jpg",Chicago Blackhawks vs. Edmonton Oilers (2 November 2025 at 03:00)
+https://gg.poocloud.in/edmontonoilers/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13081" tvg-name="New York Rangers vs. Seattle Kraken (2 November 2025 at 03:00)" tvg-epgid="13081" tvg-logo="https://api.ppvs.su/assets/thumb/c5049398c514c3107c67fd26ae5447d2-thumbnail.jpg",New York Rangers vs. Seattle Kraken (2 November 2025 at 03:00)
+https://gg.poocloud.in/seattlekraken/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13079" tvg-name="New Jersey Devils vs. Los Angeles Kings (2 November 2025 at 02:00)" tvg-epgid="13079" tvg-logo="https://api.ppvs.su/assets/thumb/c0d8966e0b50b5dc6170072245d9534e-thumbnail.jpg",New Jersey Devils vs. Los Angeles Kings (2 November 2025 at 02:00)
+https://gg.poocloud.in/losangeleskings/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13074" tvg-name="Washington Capitals vs. Buffalo Sabres (1 November 2025 at 23:00)" tvg-epgid="13074" tvg-logo="https://api.ppvs.su/assets/thumb/e5e59468ff913f7b805e9f8039dce217-thumbnail.jpg",Washington Capitals vs. Buffalo Sabres (1 November 2025 at 23:00)
+https://gg.poocloud.in/buffalosabres/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13075" tvg-name="Ottawa Senators vs. Montreal Canadiens (1 November 2025 at 23:00)" tvg-epgid="13075" tvg-logo="https://api.ppvs.su/assets/thumb/bc5cc968803cb153e6468b7205ce68ce-thumbnail.jpg",Ottawa Senators vs. Montreal Canadiens (1 November 2025 at 23:00)
+https://gg.poocloud.in/montrealcanadiens/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13076" tvg-name="Toronto Maple Leafs vs. Philadelphia Flyers (1 November 2025 at 23:00)" tvg-epgid="13076" tvg-logo="https://api.ppvs.su/assets/thumb/13b189c8cc6c75486e313d997ada80f6-thumbnail.jpg",Toronto Maple Leafs vs. Philadelphia Flyers (1 November 2025 at 23:00)
+https://gg.poocloud.in/philadelphiaflyers/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13077" tvg-name="St. Louis Blues vs. Columbus Blue Jackets (1 November 2025 at 23:00)" tvg-epgid="13077" tvg-logo="https://api.ppvs.su/assets/thumb/fc2edaf53e04877718d1dbb4ef3b13cc-thumbnail.jpg",St. Louis Blues vs. Columbus Blue Jackets (1 November 2025 at 23:00)
+https://gg.poocloud.in/columbusbluejackets/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13078" tvg-name="Vancouver Canucks vs. Minnesota Wild (1 November 2025 at 23:00)" tvg-epgid="13078" tvg-logo="https://api.ppvs.su/assets/thumb/9ba8ac99fdd141f1d803eb78ac2305f7-thumbnail.jpg",Vancouver Canucks vs. Minnesota Wild (1 November 2025 at 23:00)
+https://gg.poocloud.in/minnesotawild/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13073" tvg-name="Dallas Stars vs. Florida Panthers (1 November 2025 at 22:00)" tvg-epgid="13073" tvg-logo="https://api.ppvs.su/assets/thumb/311bab5ac5914961f20d3cce40bb0b0f-thumbnail.jpg",Dallas Stars vs. Florida Panthers (1 November 2025 at 22:00)
+https://gg.poocloud.in/floridapanthers/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13072" tvg-name="Colorado Avalanche vs. San Jose Sharks (1 November 2025 at 20:00)" tvg-epgid="13072" tvg-logo="https://api.ppvs.su/assets/thumb/54e4aa2a96f0c0ec03e0c6107361f499-thumbnail.jpg",Colorado Avalanche vs. San Jose Sharks (1 November 2025 at 20:00)
+https://gg.poocloud.in/sanjosesharks/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13071" tvg-name="Calgary Flames vs. Nashville Predators (1 November 2025 at 19:30)" tvg-epgid="13071" tvg-logo="https://api.ppvs.su/assets/thumb/e84aceadaa09a635e04f97bdd45325b6-thumbnail.jpg",Calgary Flames vs. Nashville Predators (1 November 2025 at 19:30)
+https://gg.poocloud.in/nashvillepredators/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13070" tvg-name="Pittsburgh Penguins vs. Winnipeg Jets (1 November 2025 at 19:00)" tvg-epgid="13070" tvg-logo="https://api.ppvs.su/assets/thumb/a5228c43806e55e91d3d22e5935b2eab-thumbnail.jpg",Pittsburgh Penguins vs. Winnipeg Jets (1 November 2025 at 19:00)
+https://gg.poocloud.in/winnipegjets/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13069" tvg-name="Carolina Hurricanes vs. Boston Bruins (1 November 2025 at 17:00)" tvg-epgid="13069" tvg-logo="https://api.ppvs.su/assets/thumb/0fd778b42ddc9911ad971675a2f2247d-thumbnail.jpg",Carolina Hurricanes vs. Boston Bruins (1 November 2025 at 17:00)
+https://gg.poocloud.in/bostonbruins/index.m3u8
 #EXTINF:-1 tvg-id="ppv-12886" tvg-name="AEW: Saturday Night Collision (2 November 2025 at 00:00)" tvg-epgid="12886" tvg-logo="https://api.ppvs.su/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg",AEW: Saturday Night Collision (2 November 2025 at 00:00)
 
