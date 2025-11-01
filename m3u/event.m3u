@@ -55,6 +55,20 @@ https://gg.poocloud.in/The CW Network/index.m3u8
 
 #EXTINF:-1 tvg-id="ppv-13049" tvg-name="West Virginia Mountaineers vs. Houston Cougars (1 November 2025 at 16:00)" tvg-epgid="13049" tvg-logo="https://api.ppvs.su/assets/thumb/5ccede151c99ff1232f3910580933fb3-thumbnail.jpg",West Virginia Mountaineers vs. Houston Cougars (1 November 2025 at 16:00)
 
+#EXTINF:-1 tvg-id="ppv-13065" tvg-name="Los Angeles Dodgers vs. Toronto Blue Jays (2 November 2025 at 00:00)" tvg-epgid="13065" tvg-logo="https://api.ppvs.su/assets/thumb/fa14655fefa2fb97929805b7618da2bd-thumbnail.jpg",Los Angeles Dodgers vs. Toronto Blue Jays (2 November 2025 at 00:00)
+
+#EXTINF:-1 tvg-id="ppv-13068" tvg-name="Dallas Mavericks vs. Detroit Pistons (2 November 2025 at 02:00)" tvg-epgid="13068" tvg-logo="https://api.ppvs.su/assets/thumb/4203ea065115fd80f15d7cb4935b41d7-thumbnail.jpg",Dallas Mavericks vs. Detroit Pistons (2 November 2025 at 02:00)
+https://gg.poocloud.in/nba_detroitpistons/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13067" tvg-name="Houston Rockets vs. Boston Celtics (2 November 2025 at 00:00)" tvg-epgid="13067" tvg-logo="https://api.ppvs.su/assets/thumb/fcc921cef68a69f25073001b0709460e-thumbnail.jpg",Houston Rockets vs. Boston Celtics (2 November 2025 at 00:00)
+https://gg.poocloud.in/nba_bostonceltics/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13064" tvg-name="Golden State Warriors vs. Indiana Pacers (1 November 2025 at 23:00)" tvg-epgid="13064" tvg-logo="https://api.ppvs.su/assets/thumb/ced09623b9d799722764eef4ac50d935-thumbnail.jpg",Golden State Warriors vs. Indiana Pacers (1 November 2025 at 23:00)
+https://gg.poocloud.in/nba_indianapacers/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13066" tvg-name="Orlando Magic vs. Washington Wizards (1 November 2025 at 23:00)" tvg-epgid="13066" tvg-logo="https://api.ppvs.su/assets/thumb/5fae1c16aae5dd01f7217315ddf307aa-thumbnail.jpg",Orlando Magic vs. Washington Wizards (1 November 2025 at 23:00)
+https://gg.poocloud.in/nba_washingtonwizards/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13063" tvg-name="Minnesota Timberwolves vs. Charlotte Hornets (1 November 2025 at 22:00)" tvg-epgid="13063" tvg-logo="https://api.ppvs.su/assets/thumb/f782b5c9c87a64b6e4fa325086315f4d-thumbnail.jpg",Minnesota Timberwolves vs. Charlotte Hornets (1 November 2025 at 22:00)
+https://gg.poocloud.in/nba_charlottehornets/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13062" tvg-name="Sacramento Kings vs. Milwaukee Bucks (1 November 2025 at 21:00)" tvg-epgid="13062" tvg-logo="https://api.ppvs.su/assets/thumb/041680b85c75266d09149d55f61d8217-thumbnail.jpg",Sacramento Kings vs. Milwaukee Bucks (1 November 2025 at 21:00)
+https://gg.poocloud.in/nba_milwaukeebucks/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13021" tvg-name="New Orleans Pelicans vs. LA Clippers (West Group B) (1 November 2025 at 02:30)" tvg-epgid="13021" tvg-logo="https://api.ppvs.su/assets/thumb/058564c27aa4157b7491d526c90fb141-thumbnail.jpg",New Orleans Pelicans vs. LA Clippers (West Group B) (1 November 2025 at 02:30)
 https://gg.poocloud.in/nba_laclippers/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13019" tvg-name="Utah Jazz vs. Phoenix Suns (West Group A) (1 November 2025 at 02:00)" tvg-epgid="13019" tvg-logo="https://api.ppvs.su/assets/thumb/ef574daef941f953e1fb7e9a1d10b7e8-thumbnail.jpg",Utah Jazz vs. Phoenix Suns (West Group A) (1 November 2025 at 02:00)
