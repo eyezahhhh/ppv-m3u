@@ -1605,28 +1605,6 @@ channel="ppv-13071"
 <icon src="https://api.ppvs.su/assets/thumb/e84aceadaa09a635e04f97bdd45325b6-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-13070">
-<display-name>Pittsburgh Penguins vs. Winnipeg Jets</display-name>
-</channel>
-<programme
-start="20251101190000 +0000"
-stop="20251101220000 +0000"
-channel="ppv-13070"
->
-<title lang="en">Pittsburgh Penguins vs. Winnipeg Jets</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://api.ppvs.su/assets/thumb/a5228c43806e55e91d3d22e5935b2eab-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-12886">
 <display-name>AEW: Saturday Night Collision</display-name>
 </channel>
