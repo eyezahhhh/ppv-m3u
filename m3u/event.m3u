@@ -61,6 +61,8 @@ https://gg.poocloud.in/nba_washingtonwizards/index.m3u8
 https://gg.poocloud.in/nba_charlottehornets/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13062" tvg-name="Sacramento Kings vs. Milwaukee Bucks (1 November 2025 at 21:00)" tvg-epgid="13062" tvg-logo="https://api.ppvs.su/assets/thumb/041680b85c75266d09149d55f61d8217-thumbnail.jpg",Sacramento Kings vs. Milwaukee Bucks (1 November 2025 at 21:00)
 https://gg.poocloud.in/nba_milwaukeebucks/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13082" tvg-name="UFC Fight Night: Garcia vs. Onama (1 November 2025 at 20:00)" tvg-epgid="13082" tvg-logo="https://api.ppvs.su/assets/thumb/31c850d2a0df715f1d69a1ccb280fbdd-thumbnail.jpg",UFC Fight Night: Garcia vs. Onama (1 November 2025 at 20:00)
+https://gg.poocloud.in/ufc/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13031" tvg-name="OKTAGON 79 - Deutsch (1 November 2025 at 17:00)" tvg-epgid="13031" tvg-logo="https://api.ppvs.su/assets/thumb/2075f89796c876f2c14be1f853c858d3-thumbnail.jpg",OKTAGON 79 - Deutsch (1 November 2025 at 17:00)
 https://gg.poocloud.in/oktagon-de/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13032" tvg-name="OKTAGON 79 - English (1 November 2025 at 17:00)" tvg-epgid="13032" tvg-logo="https://api.ppvs.su/assets/thumb/2075f89796c876f2c14be1f853c858d3-thumbnail.jpg",OKTAGON 79 - English (1 November 2025 at 17:00)
@@ -120,8 +122,6 @@ https://gg.poocloud.in/oktagon-cz/index.m3u8
 #EXTINF:-1 tvg-id="ppv-12976" tvg-name="Real Madrid vs. Valencia CF (1 November 2025 at 20:00)" tvg-epgid="12976" tvg-logo="https://api.ppvs.su/assets/thumb/8905dfd747e99e4852659989e6102698-thumbnail.jpg",Real Madrid vs. Valencia CF (1 November 2025 at 20:00)
 
 #EXTINF:-1 tvg-id="ppv-13037" tvg-name="Cremonese vs. Juventus (1 November 2025 at 19:45)" tvg-epgid="13037" tvg-logo="https://api.ppvs.su/assets/thumb/7d27b923ce1048700fd36c69a3ab3212-thumbnail.jpg",Cremonese vs. Juventus (1 November 2025 at 19:45)
-
-#EXTINF:-1 tvg-id="ppv-12855" tvg-name="AS Monaco vs. Paris FC (1 November 2025 at 18:00)" tvg-epgid="12855" tvg-logo="https://api.ppvs.su/assets/thumb/906cd9e528637356dff861596914eabe-thumbnail.jpg",AS Monaco vs. Paris FC (1 November 2025 at 18:00)
 
 #EXTINF:-1 tvg-id="ppv-13080" tvg-name="Chicago Blackhawks vs. Edmonton Oilers (2 November 2025 at 03:00)" tvg-epgid="13080" tvg-logo="https://api.ppvs.su/assets/thumb/2b00c89635e53c117a8c99a02c0ebffb-thumbnail.jpg",Chicago Blackhawks vs. Edmonton Oilers (2 November 2025 at 03:00)
 https://gg.poocloud.in/edmontonoilers/index.m3u8

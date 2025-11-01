@@ -681,6 +681,28 @@ channel="ppv-13062"
 <icon src="https://api.ppvs.su/assets/thumb/041680b85c75266d09149d55f61d8217-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-13082">
+<display-name>UFC Fight Night: Garcia vs. Onama</display-name>
+</channel>
+<programme
+start="20251101200000 +0000"
+stop="20251102040000 +0000"
+channel="ppv-13082"
+>
+<title lang="en">UFC Fight Night: Garcia vs. Onama</title>
+<sub-title>Combat Sports</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Combat Sports</category>
+<icon src="https://api.ppvs.su/assets/thumb/31c850d2a0df715f1d69a1ccb280fbdd-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-13031">
 <display-name>OKTAGON 79 - Deutsch</display-name>
 </channel>
@@ -1339,28 +1361,6 @@ channel="ppv-13037"
 </audio>
 <category>Football</category>
 <icon src="https://api.ppvs.su/assets/thumb/7d27b923ce1048700fd36c69a3ab3212-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-12855">
-<display-name>AS Monaco vs. Paris FC</display-name>
-</channel>
-<programme
-start="20251101180000 +0000"
-stop="20251101203000 +0000"
-channel="ppv-12855"
->
-<title lang="en">AS Monaco vs. Paris FC</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/906cd9e528637356dff861596914eabe-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-13080">
