@@ -47,14 +47,6 @@ https://gg.poocloud.in/ESPN2/index.m3u8
 
 #EXTINF:-1 tvg-id="ppv-13050" tvg-name="Louisville Cardinals vs. Virginia Tech Hokies (1 November 2025 at 19:00)" tvg-epgid="13050" tvg-logo="https://api.ppvs.su/assets/thumb/58f583ac1d97d7b128bd858874509324-thumbnail.jpg",Louisville Cardinals vs. Virginia Tech Hokies (1 November 2025 at 19:00)
 https://gg.poocloud.in/The CW Network/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13046" tvg-name="Penn State Nittany Lions vs. Ohio State Buckeyes (1 November 2025 at 16:00)" tvg-epgid="13046" tvg-logo="https://api.ppvs.su/assets/thumb/904a4c2f11743ce5b131400528fb04f7-thumbnail.jpg",Penn State Nittany Lions vs. Ohio State Buckeyes (1 November 2025 at 16:00)
-
-#EXTINF:-1 tvg-id="ppv-13047" tvg-name="Vanderbilt Commodores vs. Texas Longhorns (1 November 2025 at 16:00)" tvg-epgid="13047" tvg-logo="https://api.ppvs.su/assets/thumb/9f9cca17304f6a6f6454de08570ae23d-thumbnail.jpg",Vanderbilt Commodores vs. Texas Longhorns (1 November 2025 at 16:00)
-
-#EXTINF:-1 tvg-id="ppv-13048" tvg-name="Miami Hurricanes vs. SMU Mustangs (1 November 2025 at 16:00)" tvg-epgid="13048" tvg-logo="https://api.ppvs.su/assets/thumb/bf5fe4d01dd59b314c73b2754d626785-thumbnail.jpg",Miami Hurricanes vs. SMU Mustangs (1 November 2025 at 16:00)
-
-#EXTINF:-1 tvg-id="ppv-13049" tvg-name="West Virginia Mountaineers vs. Houston Cougars (1 November 2025 at 16:00)" tvg-epgid="13049" tvg-logo="https://api.ppvs.su/assets/thumb/5ccede151c99ff1232f3910580933fb3-thumbnail.jpg",West Virginia Mountaineers vs. Houston Cougars (1 November 2025 at 16:00)
-
 #EXTINF:-1 tvg-id="ppv-13065" tvg-name="Los Angeles Dodgers vs. Toronto Blue Jays (2 November 2025 at 00:00)" tvg-epgid="13065" tvg-logo="https://api.ppvs.su/assets/thumb/fa14655fefa2fb97929805b7618da2bd-thumbnail.jpg",Los Angeles Dodgers vs. Toronto Blue Jays (2 November 2025 at 00:00)
 
 #EXTINF:-1 tvg-id="ppv-13068" tvg-name="Dallas Mavericks vs. Detroit Pistons (2 November 2025 at 02:00)" tvg-epgid="13068" tvg-logo="https://api.ppvs.su/assets/thumb/4203ea065115fd80f15d7cb4935b41d7-thumbnail.jpg",Dallas Mavericks vs. Detroit Pistons (2 November 2025 at 02:00)
@@ -130,8 +122,6 @@ https://gg.poocloud.in/oktagon-cz/index.m3u8
 #EXTINF:-1 tvg-id="ppv-12903" tvg-name="Bayern vs. Leverkusen (1 November 2025 at 17:30)" tvg-epgid="12903" tvg-logo="https://api.ppvs.su/assets/thumb/6a16335dab348bfd589dd928ac119a1f-thumbnail.jpg",Bayern vs. Leverkusen (1 November 2025 at 17:30)
 
 #EXTINF:-1 tvg-id="ppv-12975" tvg-name="Real Sociedad vs. Athletic Club (1 November 2025 at 17:30)" tvg-epgid="12975" tvg-logo="https://api.ppvs.su/assets/thumb/db1949a1471ae5bd4cf305a46580cae2-thumbnail.jpg",Real Sociedad vs. Athletic Club (1 November 2025 at 17:30)
-
-#EXTINF:-1 tvg-id="ppv-13036" tvg-name="Napoli vs. Como (1 November 2025 at 17:00)" tvg-epgid="13036" tvg-logo="https://api.ppvs.su/assets/thumb/c517db1494f5d3282bd0b147f46a6316-thumbnail.jpg",Napoli vs. Como (1 November 2025 at 17:00)
 
 #EXTINF:-1 tvg-id="ppv-13080" tvg-name="Chicago Blackhawks vs. Edmonton Oilers (2 November 2025 at 03:00)" tvg-epgid="13080" tvg-logo="https://api.ppvs.su/assets/thumb/2b00c89635e53c117a8c99a02c0ebffb-thumbnail.jpg",Chicago Blackhawks vs. Edmonton Oilers (2 November 2025 at 03:00)
 https://gg.poocloud.in/edmontonoilers/index.m3u8

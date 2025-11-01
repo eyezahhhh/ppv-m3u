@@ -527,94 +527,6 @@ channel="ppv-13050"
 <icon src="https://api.ppvs.su/assets/thumb/58f583ac1d97d7b128bd858874509324-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-13046">
-<display-name>Penn State Nittany Lions vs. Ohio State Buckeyes</display-name>
-</channel>
-<programme
-start="20251101160000 +0000"
-stop="20251101193000 +0000"
-channel="ppv-13046"
->
-<title lang="en">Penn State Nittany Lions vs. Ohio State Buckeyes</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/904a4c2f11743ce5b131400528fb04f7-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13047">
-<display-name>Vanderbilt Commodores vs. Texas Longhorns</display-name>
-</channel>
-<programme
-start="20251101160000 +0000"
-stop="20251101193000 +0000"
-channel="ppv-13047"
->
-<title lang="en">Vanderbilt Commodores vs. Texas Longhorns</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/9f9cca17304f6a6f6454de08570ae23d-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13048">
-<display-name>Miami Hurricanes vs. SMU Mustangs</display-name>
-</channel>
-<programme
-start="20251101160000 +0000"
-stop="20251101193000 +0000"
-channel="ppv-13048"
->
-<title lang="en">Miami Hurricanes vs. SMU Mustangs</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/bf5fe4d01dd59b314c73b2754d626785-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13049">
-<display-name>West Virginia Mountaineers vs. Houston Cougars</display-name>
-</channel>
-<programme
-start="20251101160000 +0000"
-stop="20251101193000 +0000"
-channel="ppv-13049"
->
-<title lang="en">West Virginia Mountaineers vs. Houston Cougars</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/5ccede151c99ff1232f3910580933fb3-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-13065">
 <display-name>Los Angeles Dodgers vs. Toronto Blue Jays</display-name>
 </channel>
@@ -1449,28 +1361,6 @@ channel="ppv-12975"
 </audio>
 <category>Football</category>
 <icon src="https://api.ppvs.su/assets/thumb/db1949a1471ae5bd4cf305a46580cae2-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13036">
-<display-name>Napoli vs. Como</display-name>
-</channel>
-<programme
-start="20251101170000 +0000"
-stop="20251101193000 +0000"
-channel="ppv-13036"
->
-<title lang="en">Napoli vs. Como</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/c517db1494f5d3282bd0b147f46a6316-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-13080">
