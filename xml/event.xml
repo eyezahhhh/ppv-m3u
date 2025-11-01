@@ -417,94 +417,6 @@ channel="ppv-13055"
 <icon src="https://api.ppvs.su/assets/thumb/791f5f17b826c0e945ca09882cea7058-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-13051">
-<display-name>Indiana Hoosiers vs. Maryland Terrapins</display-name>
-</channel>
-<programme
-start="20251101193000 +0000"
-stop="20251101230000 +0000"
-channel="ppv-13051"
->
-<title lang="en">Indiana Hoosiers vs. Maryland Terrapins</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/bfb6d9a9c6ef7a84bfcc3a6f06e43291-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13052">
-<display-name>Georgia Bulldogs vs. Florida Gators</display-name>
-</channel>
-<programme
-start="20251101193000 +0000"
-stop="20251101230000 +0000"
-channel="ppv-13052"
->
-<title lang="en">Georgia Bulldogs vs. Florida Gators</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/232d1f4b48ed9ffa31ce5edf4fb3e578-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13053">
-<display-name>Notre Dame Fighting Irish vs. Boston College Eagles</display-name>
-</channel>
-<programme
-start="20251101193000 +0000"
-stop="20251101230000 +0000"
-channel="ppv-13053"
->
-<title lang="en">Notre Dame Fighting Irish vs. Boston College Eagles</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/df94532d2cb0d3e80f8b9e46fbabe76f-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13054">
-<display-name>Texas Tech Red Raiders vs. Kansas State Wildcats</display-name>
-</channel>
-<programme
-start="20251101193000 +0000"
-stop="20251101230000 +0000"
-channel="ppv-13054"
->
-<title lang="en">Texas Tech Red Raiders vs. Kansas State Wildcats</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/17804e17815994065895955b55bdc0c7-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-13065">
 <display-name>Los Angeles Dodgers vs. Toronto Blue Jays</display-name>
 </channel>
@@ -679,72 +591,6 @@ channel="ppv-13082"
 </audio>
 <category>Combat Sports</category>
 <icon src="https://api.ppvs.su/assets/thumb/31c850d2a0df715f1d69a1ccb280fbdd-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13031">
-<display-name>OKTAGON 79 - Deutsch</display-name>
-</channel>
-<programme
-start="20251101170000 +0000"
-stop="20251101230000 +0000"
-channel="ppv-13031"
->
-<title lang="en">OKTAGON 79 - Deutsch</title>
-<sub-title>Combat Sports</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Combat Sports</category>
-<icon src="https://api.ppvs.su/assets/thumb/2075f89796c876f2c14be1f853c858d3-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13032">
-<display-name>OKTAGON 79 - English</display-name>
-</channel>
-<programme
-start="20251101170000 +0000"
-stop="20251101230000 +0000"
-channel="ppv-13032"
->
-<title lang="en">OKTAGON 79 - English</title>
-<sub-title>Combat Sports</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Combat Sports</category>
-<icon src="https://api.ppvs.su/assets/thumb/2075f89796c876f2c14be1f853c858d3-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13033">
-<display-name>OKTAGON 79 - Czech</display-name>
-</channel>
-<programme
-start="20251101170000 +0000"
-stop="20251101230000 +0000"
-channel="ppv-13033"
->
-<title lang="en">OKTAGON 79 - Czech</title>
-<sub-title>Combat Sports</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Combat Sports</category>
-<icon src="https://api.ppvs.su/assets/thumb/2075f89796c876f2c14be1f853c858d3-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-12894">
@@ -1253,28 +1099,6 @@ channel="ppv-13038"
 <icon src="https://api.ppvs.su/assets/thumb/462c452909510e7122827433726d3a4b-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-12854">
-<display-name>AJ Auxerre vs. OM</display-name>
-</channel>
-<programme
-start="20251101200500 +0000"
-stop="20251101223500 +0000"
-channel="ppv-12854"
->
-<title lang="en">AJ Auxerre vs. OM</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/b3066133aedb963aebfb1e59c3d31549-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-13080">
 <display-name>Chicago Blackhawks vs. Edmonton Oilers</display-name>
 </channel>
@@ -1471,28 +1295,6 @@ channel="ppv-13073"
 </audio>
 <category>Ice Hockey</category>
 <icon src="https://api.ppvs.su/assets/thumb/311bab5ac5914961f20d3cce40bb0b0f-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13072">
-<display-name>Colorado Avalanche vs. San Jose Sharks</display-name>
-</channel>
-<programme
-start="20251101200000 +0000"
-stop="20251101230000 +0000"
-channel="ppv-13072"
->
-<title lang="en">Colorado Avalanche vs. San Jose Sharks</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://api.ppvs.su/assets/thumb/54e4aa2a96f0c0ec03e0c6107361f499-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-12886">
