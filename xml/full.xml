@@ -944,26 +944,4 @@ channel="ppv-12977"
 <category>Football</category>
 <icon src="https://api.ppvs.su/assets/thumb/c73eed78ae029a8084603fdb99cefd33-thumbnail.jpg" />
 </programme>
-
-<channel id="ppv-13038">
-<display-name>Hellas Verona vs. Inter</display-name>
-</channel>
-<programme
-start="20251102113000 +0000"
-stop="20251102140000 +0000"
-channel="ppv-13038"
->
-<title lang="en">Hellas Verona vs. Inter</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/462c452909510e7122827433726d3a4b-thumbnail.jpg" />
-</programme>
 </tv>
