@@ -27,18 +27,8 @@
 
 #EXTINF:-1 tvg-id="ppv-13061" tvg-name="Cincinnati Bearcats vs. Utah Utes (2 November 2025 at 03:15)" tvg-epgid="13061" tvg-logo="https://api.ppvs.su/assets/thumb/dd2a828f06f06e830811785886ea6eb3-thumbnail.jpg",Cincinnati Bearcats vs. Utah Utes (2 November 2025 at 03:15)
 
-#EXTINF:-1 tvg-id="ppv-13058" tvg-name="Georgia Tech Yellow Jackets vs. NC State Wolfpack (1 November 2025 at 23:30)" tvg-epgid="13058" tvg-logo="https://api.ppvs.su/assets/thumb/678b41fc1c9d323a75d980f53a7c15d0-thumbnail.jpg",Georgia Tech Yellow Jackets vs. NC State Wolfpack (1 November 2025 at 23:30)
-https://gg.poocloud.in/ESPN2/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13059" tvg-name="Oklahoma Sooners vs. Tennessee Volunteers (1 November 2025 at 23:30)" tvg-epgid="13059" tvg-logo="https://api.ppvs.su/assets/thumb/0b1c951d8c7d8412393251945e2fddd1-thumbnail.jpg",Oklahoma Sooners vs. Tennessee Volunteers (1 November 2025 at 23:30)
-
-#EXTINF:-1 tvg-id="ppv-13060" tvg-name="USC Trojans vs. Nebraska Cornhuskers (1 November 2025 at 23:30)" tvg-epgid="13060" tvg-logo="https://api.ppvs.su/assets/thumb/8da3e2a7674f9e2239eae845a8ff9c01-thumbnail.jpg",USC Trojans vs. Nebraska Cornhuskers (1 November 2025 at 23:30)
-
-#EXTINF:-1 tvg-id="ppv-13065" tvg-name="Los Angeles Dodgers vs. Toronto Blue Jays (2 November 2025 at 00:00)" tvg-epgid="13065" tvg-logo="https://api.ppvs.su/assets/thumb/fa14655fefa2fb97929805b7618da2bd-thumbnail.jpg",Los Angeles Dodgers vs. Toronto Blue Jays (2 November 2025 at 00:00)
-
 #EXTINF:-1 tvg-id="ppv-13068" tvg-name="Dallas Mavericks vs. Detroit Pistons (2 November 2025 at 02:00)" tvg-epgid="13068" tvg-logo="https://api.ppvs.su/assets/thumb/4203ea065115fd80f15d7cb4935b41d7-thumbnail.jpg",Dallas Mavericks vs. Detroit Pistons (2 November 2025 at 02:00)
 https://gg.poocloud.in/nba_detroitpistons/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13067" tvg-name="Houston Rockets vs. Boston Celtics (2 November 2025 at 00:00)" tvg-epgid="13067" tvg-logo="https://api.ppvs.su/assets/thumb/fcc921cef68a69f25073001b0709460e-thumbnail.jpg",Houston Rockets vs. Boston Celtics (2 November 2025 at 00:00)
-https://gg.poocloud.in/nba_bostonceltics/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13082" tvg-name="UFC Fight Night: Garcia vs. Onama (1 November 2025 at 20:00)" tvg-epgid="13082" tvg-logo="https://api.ppvs.su/assets/thumb/31c850d2a0df715f1d69a1ccb280fbdd-thumbnail.jpg",UFC Fight Night: Garcia vs. Onama (1 November 2025 at 20:00)
 https://gg.poocloud.in/ufc/index.m3u8
 #EXTINF:-1 tvg-id="ppv-12894" tvg-name="Sunderland vs. Everton (3 November 2025 at 20:00)" tvg-epgid="12894" tvg-logo="https://api.ppvs.su/assets/thumb/bce788f473abc7c8be239c78647b613f-thumbnail.jpg",Sunderland vs. Everton (3 November 2025 at 20:00)
@@ -93,7 +83,5 @@ https://gg.poocloud.in/edmontonoilers/index.m3u8
 https://gg.poocloud.in/seattlekraken/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13079" tvg-name="New Jersey Devils vs. Los Angeles Kings (2 November 2025 at 02:00)" tvg-epgid="13079" tvg-logo="https://api.ppvs.su/assets/thumb/c0d8966e0b50b5dc6170072245d9534e-thumbnail.jpg",New Jersey Devils vs. Los Angeles Kings (2 November 2025 at 02:00)
 https://gg.poocloud.in/losangeleskings/index.m3u8
-#EXTINF:-1 tvg-id="ppv-12886" tvg-name="AEW: Saturday Night Collision (2 November 2025 at 00:00)" tvg-epgid="12886" tvg-logo="https://api.ppvs.su/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg",AEW: Saturday Night Collision (2 November 2025 at 00:00)
-
 #EXTINF:-1 tvg-id="ppv-13083" tvg-name="WWE: Saturday Night’s Main Event (1 November 2025 at 23:00)" tvg-epgid="13083" tvg-logo="https://api.ppvs.su/assets/thumb/3332e789e84e525bd215a65fea619be5-thumbnail.jpg",WWE: Saturday Night’s Main Event (1 November 2025 at 23:00)
 https://gg.poocloud.in/wwe/index.m3u8
