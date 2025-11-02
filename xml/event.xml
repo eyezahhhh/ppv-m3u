@@ -988,48 +988,4 @@ channel="ppv-13038"
 <category>Football</category>
 <icon src="https://api.ppvs.su/assets/thumb/462c452909510e7122827433726d3a4b-thumbnail.jpg" />
 </programme>
-
-<channel id="ppv-13080">
-<display-name>Chicago Blackhawks vs. Edmonton Oilers</display-name>
-</channel>
-<programme
-start="20251102030000 +0000"
-stop="20251102060000 +0000"
-channel="ppv-13080"
->
-<title lang="en">Chicago Blackhawks vs. Edmonton Oilers</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://api.ppvs.su/assets/thumb/2b00c89635e53c117a8c99a02c0ebffb-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13081">
-<display-name>New York Rangers vs. Seattle Kraken</display-name>
-</channel>
-<programme
-start="20251102030000 +0000"
-stop="20251102060000 +0000"
-channel="ppv-13081"
->
-<title lang="en">New York Rangers vs. Seattle Kraken</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://api.ppvs.su/assets/thumb/c5049398c514c3107c67fd26ae5447d2-thumbnail.jpg" />
-</programme>
 </tv>
