@@ -835,28 +835,6 @@ channel="ppv-12978"
 <icon src="https://api.ppvs.su/assets/thumb/c3d2e3b55816a6664c3924705132a6b3-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-12904">
-<display-name>Cologne vs. Hamburg</display-name>
-</channel>
-<programme
-start="20251102143000 +0000"
-stop="20251102170000 +0000"
-channel="ppv-12904"
->
-<title lang="en">Cologne vs. Hamburg</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/8e79139d844b8d45007de08833617c7b-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-13095">
 <display-name>New Jersey Devils vs. Anaheim Ducks</display-name>
 </channel>
