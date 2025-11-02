@@ -505,28 +505,6 @@ channel="ppv-13066"
 <icon src="https://api.ppvs.su/assets/thumb/5fae1c16aae5dd01f7217315ddf307aa-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-13063">
-<display-name>Minnesota Timberwolves vs. Charlotte Hornets</display-name>
-</channel>
-<programme
-start="20251101220000 +0000"
-stop="20251102004800 +0000"
-channel="ppv-13063"
->
-<title lang="en">Minnesota Timberwolves vs. Charlotte Hornets</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://api.ppvs.su/assets/thumb/f782b5c9c87a64b6e4fa325086315f4d-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-13082">
 <display-name>UFC Fight Night: Garcia vs. Onama</display-name>
 </channel>
