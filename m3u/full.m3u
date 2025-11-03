@@ -9,14 +9,6 @@ https://gg.poocloud.in/nba_losangeleslakers/index.m3u8
 https://gg.poocloud.in/nba_phoenixsuns/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13089" tvg-name="Chicago Bulls vs. New York Knicks (3 November 2025 at 00:00)" tvg-epgid="13089" tvg-logo="https://api.ppvs.su/assets/thumb/cb2693f624114d96c24a5bd8a72dbf0f-thumbnail.jpg",Chicago Bulls vs. New York Knicks (3 November 2025 at 00:00)
 https://gg.poocloud.in/nba_newyorkknicks/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13085" tvg-name="Philadelphia 76ers vs. Brooklyn Nets (2 November 2025 at 23:00)" tvg-epgid="13085" tvg-logo="https://api.ppvs.su/assets/thumb/9b63906ebfb9ae08b141ccdbdea60038-thumbnail.jpg",Philadelphia 76ers vs. Brooklyn Nets (2 November 2025 at 23:00)
-https://gg.poocloud.in/nba_brooklynnets/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13086" tvg-name="Utah Jazz vs. Charlotte Hornets (2 November 2025 at 23:00)" tvg-epgid="13086" tvg-logo="https://api.ppvs.su/assets/thumb/7fa03ded0c3d08ab07ecbcb4a7316bed-thumbnail.jpg",Utah Jazz vs. Charlotte Hornets (2 November 2025 at 23:00)
-https://gg.poocloud.in/nba_charlottehornets/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13087" tvg-name="Atlanta Hawks vs. Cleveland Cavaliers (2 November 2025 at 23:00)" tvg-epgid="13087" tvg-logo="https://api.ppvs.su/assets/thumb/0a3d19163b82d8c33da024a76ce329d4-thumbnail.jpg",Atlanta Hawks vs. Cleveland Cavaliers (2 November 2025 at 23:00)
-https://gg.poocloud.in/nba_clevelandcavaliers/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13088" tvg-name="Memphis Grizzlies vs. Toronto Raptors (2 November 2025 at 23:00)" tvg-epgid="13088" tvg-logo="https://api.ppvs.su/assets/thumb/9c2d99b9f63c3c0bf3920d259a6dc80a-thumbnail.jpg",Memphis Grizzlies vs. Toronto Raptors (2 November 2025 at 23:00)
-https://gg.poocloud.in/nba_torontoraptors/index.m3u8
 #EXTINF:-1 tvg-id="ppv-12894" tvg-name="Sunderland vs. Everton (3 November 2025 at 20:00)" tvg-epgid="12894" tvg-logo="https://api.ppvs.su/assets/thumb/bce788f473abc7c8be239c78647b613f-thumbnail.jpg",Sunderland vs. Everton (3 November 2025 at 20:00)
 
 #EXTINF:-1 tvg-id="ppv-12981" tvg-name="Real Oviedo vs. CA Osasuna (3 November 2025 at 20:00)" tvg-epgid="12981" tvg-logo="https://api.ppvs.su/assets/thumb/189e9b995f759864d3e69988f93e5ce2-thumbnail.jpg",Real Oviedo vs. CA Osasuna (3 November 2025 at 20:00)
@@ -31,5 +23,3 @@ https://gg.poocloud.in/anaheimducks/index.m3u8
 https://gg.poocloud.in/sanjosesharks/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13094" tvg-name="Calgary Flames vs. Philadelphia Flyers (3 November 2025 at 01:00)" tvg-epgid="13094" tvg-logo="https://api.ppvs.su/assets/thumb/a6259a8fda497a7ac5091665fbd336b5-thumbnail.jpg",Calgary Flames vs. Philadelphia Flyers (3 November 2025 at 01:00)
 https://gg.poocloud.in/philadelphiaflyers/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13093" tvg-name="Columbus Blue Jackets vs. New York Islanders (2 November 2025 at 23:00)" tvg-epgid="13093" tvg-logo="https://api.ppvs.su/assets/thumb/016ed6e7a72484555e544a98e0ede291-thumbnail.jpg",Columbus Blue Jackets vs. New York Islanders (2 November 2025 at 23:00)
-https://gg.poocloud.in/newyorkislanders/index.m3u8
