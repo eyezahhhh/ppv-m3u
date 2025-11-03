@@ -45,6 +45,14 @@ https://gg.poocloud.in/nba_indianapacers/index.m3u8
 
 #EXTINF:-1 tvg-id="ppv-13043" tvg-name="Sassuolo vs. Genoa (3 November 2025 at 17:30)" tvg-epgid="13043" tvg-logo="https://api.ppvs.su/assets/thumb/71ddfde91ecbc9abf80f6db3d5a786a1-thumbnail.jpg",Sassuolo vs. Genoa (3 November 2025 at 17:30)
 
+#EXTINF:-1 tvg-id="ppv-13169" tvg-name="Chicago Blackhawks vs. Seattle Kraken (4 November 2025 at 04:00)" tvg-epgid="13169" tvg-logo="https://api.ppvs.su/assets/thumb/af634c2fdcb898d206a8bba7ea1a6e03-thumbnail.jpg",Chicago Blackhawks vs. Seattle Kraken (4 November 2025 at 04:00)
+https://gg.poocloud.in/seattlekraken/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13167" tvg-name="Edmonton Oilers vs. St. Louis Blues (4 November 2025 at 02:30)" tvg-epgid="13167" tvg-logo="https://api.ppvs.su/assets/thumb/c0777faa6aee9b59f9ce4e8036a29d0b-thumbnail.jpg",Edmonton Oilers vs. St. Louis Blues (4 November 2025 at 02:30)
+https://gg.poocloud.in/stlouisblues/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13168" tvg-name="Vancouver Canucks vs. Nashville Predators (4 November 2025 at 02:30)" tvg-epgid="13168" tvg-logo="https://api.ppvs.su/assets/thumb/9f97d655e3cc2c67f82852457ec3fcbe-thumbnail.jpg",Vancouver Canucks vs. Nashville Predators (4 November 2025 at 02:30)
+https://gg.poocloud.in/nashvillepredators/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13166" tvg-name="Pittsburgh Penguins vs. Toronto Maple Leafs (4 November 2025 at 01:30)" tvg-epgid="13166" tvg-logo="https://api.ppvs.su/assets/thumb/4cbecb32d83e73f3ddcb2339db991fcf-thumbnail.jpg",Pittsburgh Penguins vs. Toronto Maple Leafs (4 November 2025 at 01:30)
+https://gg.poocloud.in/torontomapleleafs/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13161" tvg-name="WWE: NXT (5 November 2025 at 01:00)" tvg-epgid="13161" tvg-logo="https://api.ppvs.su/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg",WWE: NXT (5 November 2025 at 01:00)
 
 #EXTINF:-1 tvg-id="ppv-13160" tvg-name="WWE: Monday Night RAW (4 November 2025 at 01:00)" tvg-epgid="13160" tvg-logo="https://api.ppvs.su/assets/thumb/56336f9d22c51c416e1a56afbd18f314-thumbnail.jpg",WWE: Monday Night RAW (4 November 2025 at 01:00)

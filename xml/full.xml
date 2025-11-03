@@ -505,6 +505,94 @@ channel="ppv-13043"
 <icon src="https://api.ppvs.su/assets/thumb/71ddfde91ecbc9abf80f6db3d5a786a1-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-13169">
+<display-name>Chicago Blackhawks vs. Seattle Kraken</display-name>
+</channel>
+<programme
+start="20251104040000 +0000"
+stop="20251104070000 +0000"
+channel="ppv-13169"
+>
+<title lang="en">Chicago Blackhawks vs. Seattle Kraken</title>
+<sub-title>Ice Hockey</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Ice Hockey</category>
+<icon src="https://api.ppvs.su/assets/thumb/af634c2fdcb898d206a8bba7ea1a6e03-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13167">
+<display-name>Edmonton Oilers vs. St. Louis Blues</display-name>
+</channel>
+<programme
+start="20251104023000 +0000"
+stop="20251104053000 +0000"
+channel="ppv-13167"
+>
+<title lang="en">Edmonton Oilers vs. St. Louis Blues</title>
+<sub-title>Ice Hockey</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Ice Hockey</category>
+<icon src="https://api.ppvs.su/assets/thumb/c0777faa6aee9b59f9ce4e8036a29d0b-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13168">
+<display-name>Vancouver Canucks vs. Nashville Predators</display-name>
+</channel>
+<programme
+start="20251104023000 +0000"
+stop="20251104053000 +0000"
+channel="ppv-13168"
+>
+<title lang="en">Vancouver Canucks vs. Nashville Predators</title>
+<sub-title>Ice Hockey</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Ice Hockey</category>
+<icon src="https://api.ppvs.su/assets/thumb/9f97d655e3cc2c67f82852457ec3fcbe-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13166">
+<display-name>Pittsburgh Penguins vs. Toronto Maple Leafs</display-name>
+</channel>
+<programme
+start="20251104013000 +0000"
+stop="20251104043000 +0000"
+channel="ppv-13166"
+>
+<title lang="en">Pittsburgh Penguins vs. Toronto Maple Leafs</title>
+<sub-title>Ice Hockey</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Ice Hockey</category>
+<icon src="https://api.ppvs.su/assets/thumb/4cbecb32d83e73f3ddcb2339db991fcf-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-13161">
 <display-name>WWE: NXT</display-name>
 </channel>
