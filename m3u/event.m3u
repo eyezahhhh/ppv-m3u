@@ -19,6 +19,20 @@ https://gg.poocloud.in/nba_newyorkknicks/index.m3u8
 https://gg.poocloud.in/nba_brooklynnets/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13098" tvg-name="Milwaukee Bucks vs. Indiana Pacers (4 November 2025 at 00:00)" tvg-epgid="13098" tvg-logo="https://api.ppvs.su/assets/thumb/b0a059b78270b893a4a1894d340b094d-thumbnail.jpg",Milwaukee Bucks vs. Indiana Pacers (4 November 2025 at 00:00)
 https://gg.poocloud.in/nba_indianapacers/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13117" tvg-name="Man City vs. B. Dortmund (5 November 2025 at 20:00)" tvg-epgid="13117" tvg-logo="https://api.ppvs.su/assets/thumb/de63a262852ae09f47ad54559669a538-thumbnail.jpg",Man City vs. B. Dortmund (5 November 2025 at 20:00)
+
+#EXTINF:-1 tvg-id="ppv-13118" tvg-name="Inter vs. Kairat Almaty (5 November 2025 at 20:00)" tvg-epgid="13118" tvg-logo="https://api.ppvs.su/assets/thumb/4bd55f4b84c203035195023087ccbb99-thumbnail.jpg",Inter vs. Kairat Almaty (5 November 2025 at 20:00)
+
+#EXTINF:-1 tvg-id="ppv-13119" tvg-name="Benfica vs. Leverkusen (5 November 2025 at 20:00)" tvg-epgid="13119" tvg-logo="https://api.ppvs.su/assets/thumb/7500130919702a346df264a8b551d3d8-thumbnail.jpg",Benfica vs. Leverkusen (5 November 2025 at 20:00)
+
+#EXTINF:-1 tvg-id="ppv-13120" tvg-name="Club Brugge vs. Barcelona (5 November 2025 at 20:00)" tvg-epgid="13120" tvg-logo="https://api.ppvs.su/assets/thumb/b88b6937de7f6a9465d2522273908d98-thumbnail.jpg",Club Brugge vs. Barcelona (5 November 2025 at 20:00)
+
+#EXTINF:-1 tvg-id="ppv-13121" tvg-name="Ajax vs. Galatasaray (5 November 2025 at 20:00)" tvg-epgid="13121" tvg-logo="https://api.ppvs.su/assets/thumb/342b04e4223154755f5aa2b0485b223f-thumbnail.jpg",Ajax vs. Galatasaray (5 November 2025 at 20:00)
+
+#EXTINF:-1 tvg-id="ppv-13122" tvg-name="Marseille vs. Atalanta (5 November 2025 at 20:00)" tvg-epgid="13122" tvg-logo="https://api.ppvs.su/assets/thumb/9b4be4f35f41c9b9e162d51d7a248988-thumbnail.jpg",Marseille vs. Atalanta (5 November 2025 at 20:00)
+
+#EXTINF:-1 tvg-id="ppv-13123" tvg-name="Newcastle vs. Athletic Club (5 November 2025 at 20:00)" tvg-epgid="13123" tvg-logo="https://api.ppvs.su/assets/thumb/89b5c993faa1c30f9c28da5d93717ace-thumbnail.jpg",Newcastle vs. Athletic Club (5 November 2025 at 20:00)
+
 #EXTINF:-1 tvg-id="ppv-13115" tvg-name="Qarabağ vs. Chelsea (5 November 2025 at 17:45)" tvg-epgid="13115" tvg-logo="https://api.ppvs.su/assets/thumb/7b69b66b188088bf5ffdf254e2411a4e-thumbnail.jpg",Qarabağ vs. Chelsea (5 November 2025 at 17:45)
 
 #EXTINF:-1 tvg-id="ppv-13116" tvg-name="Pafos vs. Villarreal (5 November 2025 at 17:45)" tvg-epgid="13116" tvg-logo="https://api.ppvs.su/assets/thumb/08c1f5171006cb3df5e81dd5bf334151-thumbnail.jpg",Pafos vs. Villarreal (5 November 2025 at 17:45)
@@ -46,8 +60,6 @@ https://gg.poocloud.in/nba_indianapacers/index.m3u8
 #EXTINF:-1 tvg-id="ppv-12981" tvg-name="Real Oviedo vs. CA Osasuna (3 November 2025 at 20:00)" tvg-epgid="12981" tvg-logo="https://api.ppvs.su/assets/thumb/189e9b995f759864d3e69988f93e5ce2-thumbnail.jpg",Real Oviedo vs. CA Osasuna (3 November 2025 at 20:00)
 
 #EXTINF:-1 tvg-id="ppv-13044" tvg-name="Lazio vs. Cagliari (3 November 2025 at 19:45)" tvg-epgid="13044" tvg-logo="https://api.ppvs.su/assets/thumb/5c4c389d06896d554e9a13710e5696c2-thumbnail.jpg",Lazio vs. Cagliari (3 November 2025 at 19:45)
-
-#EXTINF:-1 tvg-id="ppv-13043" tvg-name="Sassuolo vs. Genoa (3 November 2025 at 17:30)" tvg-epgid="13043" tvg-logo="https://api.ppvs.su/assets/thumb/71ddfde91ecbc9abf80f6db3d5a786a1-thumbnail.jpg",Sassuolo vs. Genoa (3 November 2025 at 17:30)
 
 #EXTINF:-1 tvg-id="ppv-13169" tvg-name="Chicago Blackhawks vs. Seattle Kraken (4 November 2025 at 04:00)" tvg-epgid="13169" tvg-logo="https://api.ppvs.su/assets/thumb/af634c2fdcb898d206a8bba7ea1a6e03-thumbnail.jpg",Chicago Blackhawks vs. Seattle Kraken (4 November 2025 at 04:00)
 https://gg.poocloud.in/seattlekraken/index.m3u8
