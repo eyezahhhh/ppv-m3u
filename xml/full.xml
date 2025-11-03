@@ -87,28 +87,6 @@ channel="ppv-13090"
 <icon src="https://api.ppvs.su/assets/thumb/24f8327df6314950536180e444f63c10-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-13089">
-<display-name>Chicago Bulls vs. New York Knicks</display-name>
-</channel>
-<programme
-start="20251103000000 +0000"
-stop="20251103024800 +0000"
-channel="ppv-13089"
->
-<title lang="en">Chicago Bulls vs. New York Knicks</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://api.ppvs.su/assets/thumb/cb2693f624114d96c24a5bd8a72dbf0f-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-12894">
 <display-name>Sunderland vs. Everton</display-name>
 </channel>
