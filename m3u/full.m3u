@@ -19,6 +19,10 @@ https://gg.poocloud.in/nba_newyorkknicks/index.m3u8
 https://gg.poocloud.in/nba_brooklynnets/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13098" tvg-name="Milwaukee Bucks vs. Indiana Pacers (4 November 2025 at 00:00)" tvg-epgid="13098" tvg-logo="https://api.ppvs.su/assets/thumb/b0a059b78270b893a4a1894d340b094d-thumbnail.jpg",Milwaukee Bucks vs. Indiana Pacers (4 November 2025 at 00:00)
 https://gg.poocloud.in/nba_indianapacers/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13115" tvg-name="Qarabağ vs. Chelsea (5 November 2025 at 17:45)" tvg-epgid="13115" tvg-logo="https://api.ppvs.su/assets/thumb/7b69b66b188088bf5ffdf254e2411a4e-thumbnail.jpg",Qarabağ vs. Chelsea (5 November 2025 at 17:45)
+
+#EXTINF:-1 tvg-id="ppv-13116" tvg-name="Pafos vs. Villarreal (5 November 2025 at 17:45)" tvg-epgid="13116" tvg-logo="https://api.ppvs.su/assets/thumb/08c1f5171006cb3df5e81dd5bf334151-thumbnail.jpg",Pafos vs. Villarreal (5 November 2025 at 17:45)
+
 #EXTINF:-1 tvg-id="ppv-13108" tvg-name="Paris vs. Bayern München (4 November 2025 at 20:00)" tvg-epgid="13108" tvg-logo="https://api.ppvs.su/assets/thumb/e8a3a3ba4d308a84a8fa9df295651185-thumbnail.jpg",Paris vs. Bayern München (4 November 2025 at 20:00)
 
 #EXTINF:-1 tvg-id="ppv-13109" tvg-name="Liverpool vs. Real Madrid (4 November 2025 at 20:00)" tvg-epgid="13109" tvg-logo="https://api.ppvs.su/assets/thumb/07767f12320efa67f85591ca185c7304-thumbnail.jpg",Liverpool vs. Real Madrid (4 November 2025 at 20:00)
