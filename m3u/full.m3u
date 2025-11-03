@@ -5,10 +5,6 @@
 
 #EXTINF:-1 tvg-id="ppv-12994" tvg-name="Kansas City Chiefs vs. Buffalo Bills (2 November 2025 at 21:25)" tvg-epgid="12994" tvg-logo="https://api.ppvs.su/assets/thumb/ffd2d09e713ca1b1c09e17c13e22d73b-thumbnail.jpg",Kansas City Chiefs vs. Buffalo Bills (2 November 2025 at 21:25)
 
-#EXTINF:-1 tvg-id="ppv-12992" tvg-name="Jacksonville Jaguars vs. Las Vegas Raiders (2 November 2025 at 21:05)" tvg-epgid="12992" tvg-logo="https://api.ppvs.su/assets/thumb/8059360e4572a5bb4933d84ff7a674cf-thumbnail.jpg",Jacksonville Jaguars vs. Las Vegas Raiders (2 November 2025 at 21:05)
-
-#EXTINF:-1 tvg-id="ppv-12993" tvg-name="New Orleans Saints vs. Los Angeles Rams (2 November 2025 at 21:05)" tvg-epgid="12993" tvg-logo="https://api.ppvs.su/assets/thumb/61395b09ec7e128d3cb722b2621f3d93-thumbnail.jpg",New Orleans Saints vs. Los Angeles Rams (2 November 2025 at 21:05)
-
 #EXTINF:-1 tvg-id="ppv-11090" tvg-name="NFL RedZone (2 November 2025 at 18:00)" tvg-epgid="11090" tvg-logo="https://api.ppvs.su/assets/thumb/54aa61e14195478973adbd4719599cb5-thumbnail.jpg",NFL RedZone (2 November 2025 at 18:00)
 
 #EXTINF:-1 tvg-id="ppv-13091" tvg-name="Miami Heat vs. Los Angeles Lakers (3 November 2025 at 02:30)" tvg-epgid="13091" tvg-logo="https://api.ppvs.su/assets/thumb/eb09e81114e8965e6ebd680c4bd4a485-thumbnail.jpg",Miami Heat vs. Los Angeles Lakers (3 November 2025 at 02:30)
@@ -41,5 +37,3 @@ https://gg.poocloud.in/sanjosesharks/index.m3u8
 https://gg.poocloud.in/philadelphiaflyers/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13093" tvg-name="Columbus Blue Jackets vs. New York Islanders (2 November 2025 at 23:00)" tvg-epgid="13093" tvg-logo="https://api.ppvs.su/assets/thumb/016ed6e7a72484555e544a98e0ede291-thumbnail.jpg",Columbus Blue Jackets vs. New York Islanders (2 November 2025 at 23:00)
 https://gg.poocloud.in/newyorkislanders/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13092" tvg-name="Tampa Bay Lightning vs. Utah Mammoth (2 November 2025 at 21:30)" tvg-epgid="13092" tvg-logo="https://api.ppvs.su/assets/thumb/e918d99f5479f0e6c4fe8bc444bfa70b-thumbnail.jpg",Tampa Bay Lightning vs. Utah Mammoth (2 November 2025 at 21:30)
-https://gg.poocloud.in/utahmammoth/index.m3u8
