@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ppv-13188" tvg-name="Eastern Washington Eagles vs. UCLA Bruins (4 November 2025 at 03:30)" tvg-epgid="13188" tvg-logo="https://api.ppvs.su/assets/thumb/01b190edd7f6cec40263a33f06572ffc-thumbnail.jpg",Eastern Washington Eagles vs. UCLA Bruins (4 November 2025 at 03:30)
 
-#EXTINF:-1 tvg-id="ppv-13187" tvg-name="Villanova Wildcats vs. BYU Cougars (4 November 2025 at 02:30)" tvg-epgid="13187" tvg-logo="https://api.ppvs.su/assets/thumb/527e354714684ab97fb32cbe53fb70c4-thumbnail.jpg",Villanova Wildcats vs. BYU Cougars (4 November 2025 at 02:30)
-
 #EXTINF:-1 tvg-id="ppv-13194" tvg-name="Oklahoma City Thunder vs. LA Clippers (5 November 2025 at 04:00)" tvg-epgid="13194" tvg-logo="https://api.ppvs.su/assets/thumb/a1a74762161ced9562881f9f05713462-thumbnail.jpg",Oklahoma City Thunder vs. LA Clippers (5 November 2025 at 04:00)
 https://gg.poocloud.in/nba_laclippers/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13193" tvg-name="Phoenix Suns vs. Golden State Warriors (5 November 2025 at 03:00)" tvg-epgid="13193" tvg-logo="https://api.ppvs.su/assets/thumb/59dd2844a7644b03837f2000673b9479-thumbnail.jpg",Phoenix Suns vs. Golden State Warriors (5 November 2025 at 03:00)
@@ -17,8 +15,6 @@ https://gg.poocloud.in/nba_neworleanspelicans/index.m3u8
 https://gg.poocloud.in/nba_torontoraptors/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13105" tvg-name="Miami Heat vs. LA Clippers (4 November 2025 at 03:30)" tvg-epgid="13105" tvg-logo="https://api.ppvs.su/assets/thumb/a0de0f9e0925be97b0ab2ef9305aeec0-thumbnail.jpg",Miami Heat vs. LA Clippers (4 November 2025 at 03:30)
 https://gg.poocloud.in/nba_laclippers/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13104" tvg-name="Los Angeles Lakers vs. Portland Trail Blazers (4 November 2025 at 03:00)" tvg-epgid="13104" tvg-logo="https://api.ppvs.su/assets/thumb/63ae182813d2e4024a31638ee8b838c4-thumbnail.jpg",Los Angeles Lakers vs. Portland Trail Blazers (4 November 2025 at 03:00)
-https://gg.poocloud.in/nba_portlandtrailblazers/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13117" tvg-name="Man City vs. B. Dortmund (5 November 2025 at 20:00)" tvg-epgid="13117" tvg-logo="https://api.ppvs.su/assets/thumb/de63a262852ae09f47ad54559669a538-thumbnail.jpg",Man City vs. B. Dortmund (5 November 2025 at 20:00)
 
 #EXTINF:-1 tvg-id="ppv-13118" tvg-name="Inter vs. Kairat Almaty (5 November 2025 at 20:00)" tvg-epgid="13118" tvg-logo="https://api.ppvs.su/assets/thumb/4bd55f4b84c203035195023087ccbb99-thumbnail.jpg",Inter vs. Kairat Almaty (5 November 2025 at 20:00)
@@ -55,8 +51,6 @@ https://gg.poocloud.in/nba_portlandtrailblazers/index.m3u8
 
 #EXTINF:-1 tvg-id="ppv-13107" tvg-name="Slavia Praha vs. Arsenal (4 November 2025 at 17:45)" tvg-epgid="13107" tvg-logo="https://api.ppvs.su/assets/thumb/b38f45c015baf55f8809f6504fe7fc14-thumbnail.jpg",Slavia Praha vs. Arsenal (4 November 2025 at 17:45)
 
-#EXTINF:-1 tvg-id="ppv-13169" tvg-name="Chicago Blackhawks vs. Seattle Kraken (4 November 2025 at 03:00)" tvg-epgid="13169" tvg-logo="https://api.ppvs.su/assets/thumb/46a96b795086571883bda2dd028bb17b-thumbnail.jpg",Chicago Blackhawks vs. Seattle Kraken (4 November 2025 at 03:00)
-https://gg.poocloud.in/seattlekraken/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13162" tvg-name="AEW: Wednesday Night Dynamite (6 November 2025 at 01:00)" tvg-epgid="13162" tvg-logo="https://api.ppvs.su/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg",AEW: Wednesday Night Dynamite (6 November 2025 at 01:00)
 
 #EXTINF:-1 tvg-id="ppv-13161" tvg-name="WWE: NXT (5 November 2025 at 01:00)" tvg-epgid="13161" tvg-logo="https://api.ppvs.su/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg",WWE: NXT (5 November 2025 at 01:00)
