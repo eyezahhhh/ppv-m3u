@@ -31,10 +31,6 @@ https://gg.poocloud.in/nba_laclippers/index.m3u8
 https://gg.poocloud.in/nba_portlandtrailblazers/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13103" tvg-name="Sacramento Kings vs. Denver Nuggets (4 November 2025 at 02:00)" tvg-epgid="13103" tvg-logo="https://api.ppvs.su/assets/thumb/6b543476fa4872380c932f71807a0acb-thumbnail.jpg",Sacramento Kings vs. Denver Nuggets (4 November 2025 at 02:00)
 https://gg.poocloud.in/nba_denvernuggets/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13101" tvg-name="Dallas Mavericks vs. Houston Rockets (4 November 2025 at 01:00)" tvg-epgid="13101" tvg-logo="https://api.ppvs.su/assets/thumb/11b1bfc52b833f4f1d5e3b06aa92b23e-thumbnail.jpg",Dallas Mavericks vs. Houston Rockets (4 November 2025 at 01:00)
-https://gg.poocloud.in/nba_houstonrockets/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13102" tvg-name="Detroit Pistons vs. Memphis Grizzlies (4 November 2025 at 01:00)" tvg-epgid="13102" tvg-logo="https://api.ppvs.su/assets/thumb/34fbb72abfed79b306ce6b7fa457b780-thumbnail.jpg",Detroit Pistons vs. Memphis Grizzlies (4 November 2025 at 01:00)
-https://gg.poocloud.in/nba_memphisgrizzlies/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13117" tvg-name="Man City vs. B. Dortmund (5 November 2025 at 20:00)" tvg-epgid="13117" tvg-logo="https://api.ppvs.su/assets/thumb/de63a262852ae09f47ad54559669a538-thumbnail.jpg",Man City vs. B. Dortmund (5 November 2025 at 20:00)
 
 #EXTINF:-1 tvg-id="ppv-13118" tvg-name="Inter vs. Kairat Almaty (5 November 2025 at 20:00)" tvg-epgid="13118" tvg-logo="https://api.ppvs.su/assets/thumb/4bd55f4b84c203035195023087ccbb99-thumbnail.jpg",Inter vs. Kairat Almaty (5 November 2025 at 20:00)
@@ -80,6 +76,4 @@ https://gg.poocloud.in/nashvillepredators/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13162" tvg-name="AEW: Wednesday Night Dynamite (6 November 2025 at 01:00)" tvg-epgid="13162" tvg-logo="https://api.ppvs.su/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg",AEW: Wednesday Night Dynamite (6 November 2025 at 01:00)
 
 #EXTINF:-1 tvg-id="ppv-13161" tvg-name="WWE: NXT (5 November 2025 at 01:00)" tvg-epgid="13161" tvg-logo="https://api.ppvs.su/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg",WWE: NXT (5 November 2025 at 01:00)
-
-#EXTINF:-1 tvg-id="ppv-13160" tvg-name="WWE: Monday Night RAW (4 November 2025 at 01:00)" tvg-epgid="13160" tvg-logo="https://api.ppvs.su/assets/thumb/56336f9d22c51c416e1a56afbd18f314-thumbnail.jpg",WWE: Monday Night RAW (4 November 2025 at 01:00)
 
