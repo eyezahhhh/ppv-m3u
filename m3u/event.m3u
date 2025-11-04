@@ -43,6 +43,10 @@ https://gg.poocloud.in/nba_torontoraptors/index.m3u8
 
 #EXTINF:-1 tvg-id="ppv-13114" tvg-name="Bodø/Glimt vs. Monaco (4 November 2025 at 20:00)" tvg-epgid="13114" tvg-logo="https://api.ppvs.su/assets/thumb/c6e36acff4378560195eef3a37d4d738-thumbnail.jpg",Bodø/Glimt vs. Monaco (4 November 2025 at 20:00)
 
+#EXTINF:-1 tvg-id="ppv-12737" tvg-name="CBS Sports Golazo Show (4 November 2025 at 19:59)" tvg-epgid="12737" tvg-logo="https://api.ppvs.su/assets/thumb/a80d2f7dcd26186f60217e881895b577-thumbnail.jpg",CBS Sports Golazo Show (4 November 2025 at 19:59)
+
+#EXTINF:-1 tvg-id="ppv-13195" tvg-name="TNT Sports Goals Show (4 November 2025 at 19:59)" tvg-epgid="13195" tvg-logo="https://api.ppvs.su/assets/thumb/525bf8149ad137f6b212b45c56aaa0b5-thumbnail.jpg",TNT Sports Goals Show (4 November 2025 at 19:59)
+https://gg.poocloud.in/ucl_goalsxtra/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13106" tvg-name="Napoli vs. Frankfurt (4 November 2025 at 17:45)" tvg-epgid="13106" tvg-logo="https://api.ppvs.su/assets/thumb/d2f76aee74ba63cc2b5388a8abedc058-thumbnail.jpg",Napoli vs. Frankfurt (4 November 2025 at 17:45)
 
 #EXTINF:-1 tvg-id="ppv-13107" tvg-name="Slavia Praha vs. Arsenal (4 November 2025 at 17:45)" tvg-epgid="13107" tvg-logo="https://api.ppvs.su/assets/thumb/b38f45c015baf55f8809f6504fe7fc14-thumbnail.jpg",Slavia Praha vs. Arsenal (4 November 2025 at 17:45)
