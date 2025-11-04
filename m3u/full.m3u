@@ -35,8 +35,6 @@ https://gg.poocloud.in/cbb-1/index.m3u8
 https://gg.poocloud.in/cbb-2/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13176" tvg-name="Central Arkansas Bears vs. North Carolina Tar Heels (4 November 2025 at 00:00)" tvg-epgid="13176" tvg-logo="https://api.ppvs.su/assets/thumb/6b4755d2a20cc5c802caac393ea1ffd0-thumbnail.jpg",Central Arkansas Bears vs. North Carolina Tar Heels (4 November 2025 at 00:00)
 
-#EXTINF:-1 tvg-id="ppv-13170" tvg-name="Quinnipiac Bobcats vs. St. John's Red Storm (3 November 2025 at 23:30)" tvg-epgid="13170" tvg-logo="https://api.ppvs.su/assets/thumb/0a5040bdba2e2e67112e1ecfea11e3ce-thumbnail.jpg",Quinnipiac Bobcats vs. St. John's Red Storm (3 November 2025 at 23:30)
-
 #EXTINF:-1 tvg-id="ppv-13105" tvg-name="Miami Heat vs. LA Clippers (4 November 2025 at 03:30)" tvg-epgid="13105" tvg-logo="https://api.ppvs.su/assets/thumb/a0de0f9e0925be97b0ab2ef9305aeec0-thumbnail.jpg",Miami Heat vs. LA Clippers (4 November 2025 at 03:30)
 https://gg.poocloud.in/nba_laclippers/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13104" tvg-name="Los Angeles Lakers vs. Portland Trail Blazers (4 November 2025 at 03:00)" tvg-epgid="13104" tvg-logo="https://api.ppvs.su/assets/thumb/63ae182813d2e4024a31638ee8b838c4-thumbnail.jpg",Los Angeles Lakers vs. Portland Trail Blazers (4 November 2025 at 03:00)
@@ -47,14 +45,6 @@ https://gg.poocloud.in/nba_denvernuggets/index.m3u8
 https://gg.poocloud.in/nba_houstonrockets/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13102" tvg-name="Detroit Pistons vs. Memphis Grizzlies (4 November 2025 at 01:00)" tvg-epgid="13102" tvg-logo="https://api.ppvs.su/assets/thumb/34fbb72abfed79b306ce6b7fa457b780-thumbnail.jpg",Detroit Pistons vs. Memphis Grizzlies (4 November 2025 at 01:00)
 https://gg.poocloud.in/nba_memphisgrizzlies/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13099" tvg-name="Utah Jazz vs. Boston Celtics (4 November 2025 at 00:30)" tvg-epgid="13099" tvg-logo="https://api.ppvs.su/assets/thumb/13de36fb6d6e99a2bfc90ba1f5cd4c40-thumbnail.jpg",Utah Jazz vs. Boston Celtics (4 November 2025 at 00:30)
-https://gg.poocloud.in/nba_bostonceltics/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13100" tvg-name="Washington Wizards vs. New York Knicks (4 November 2025 at 00:30)" tvg-epgid="13100" tvg-logo="https://api.ppvs.su/assets/thumb/b948ad2251b2d9377197b6f5930d3f70-thumbnail.jpg",Washington Wizards vs. New York Knicks (4 November 2025 at 00:30)
-https://gg.poocloud.in/nba_newyorkknicks/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13097" tvg-name="Minnesota Timberwolves vs. Brooklyn Nets (4 November 2025 at 00:00)" tvg-epgid="13097" tvg-logo="https://api.ppvs.su/assets/thumb/f0fe4ee85e53b0954a73f1b399a1a54f-thumbnail.jpg",Minnesota Timberwolves vs. Brooklyn Nets (4 November 2025 at 00:00)
-https://gg.poocloud.in/nba_brooklynnets/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13098" tvg-name="Milwaukee Bucks vs. Indiana Pacers (4 November 2025 at 00:00)" tvg-epgid="13098" tvg-logo="https://api.ppvs.su/assets/thumb/b0a059b78270b893a4a1894d340b094d-thumbnail.jpg",Milwaukee Bucks vs. Indiana Pacers (4 November 2025 at 00:00)
-https://gg.poocloud.in/nba_indianapacers/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13117" tvg-name="Man City vs. B. Dortmund (5 November 2025 at 20:00)" tvg-epgid="13117" tvg-logo="https://api.ppvs.su/assets/thumb/de63a262852ae09f47ad54559669a538-thumbnail.jpg",Man City vs. B. Dortmund (5 November 2025 at 20:00)
 
 #EXTINF:-1 tvg-id="ppv-13118" tvg-name="Inter vs. Kairat Almaty (5 November 2025 at 20:00)" tvg-epgid="13118" tvg-logo="https://api.ppvs.su/assets/thumb/4bd55f4b84c203035195023087ccbb99-thumbnail.jpg",Inter vs. Kairat Almaty (5 November 2025 at 20:00)
