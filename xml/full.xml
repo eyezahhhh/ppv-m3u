@@ -84,7 +84,7 @@ channel="ppv-13186"
 <stereo>stereo</stereo>
 </audio>
 <category>American Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/2b2a9d9977ed010dc6a3de1055486c75-thumbnail.jpg" />
+<icon src="https://api.ppvs.su/assets/thumb/ce302f633fb032c865d10bf99a32e1d5-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-13183">
@@ -194,7 +194,7 @@ channel="ppv-13178"
 <stereo>stereo</stereo>
 </audio>
 <category>American Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/088bf4714b7b51714a46f72fdd8f3286-thumbnail.jpg" />
+<icon src="https://api.ppvs.su/assets/thumb/c99616fa81705b5fa06fd5b4bea94a61-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-13179">
@@ -216,7 +216,7 @@ channel="ppv-13179"
 <stereo>stereo</stereo>
 </audio>
 <category>American Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/f8db3ef9210acaad23c8270559d4bedd-thumbnail.jpg" />
+<icon src="https://api.ppvs.su/assets/thumb/31d6931b2c07dcca944f7689e31babf1-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-13180">
@@ -238,7 +238,7 @@ channel="ppv-13180"
 <stereo>stereo</stereo>
 </audio>
 <category>American Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/e2c52898606ab1df59286b7118ff28d3-thumbnail.jpg" />
+<icon src="https://api.ppvs.su/assets/thumb/26c925a629cfebeaf0c7bd0284d870dd-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-13181">
@@ -260,7 +260,7 @@ channel="ppv-13181"
 <stereo>stereo</stereo>
 </audio>
 <category>American Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/38c276c143055e4882dec396304c8421-thumbnail.jpg" />
+<icon src="https://api.ppvs.su/assets/thumb/f1c136ccd323e416fadfd7af0ddd7e58-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-13182">
@@ -282,7 +282,7 @@ channel="ppv-13182"
 <stereo>stereo</stereo>
 </audio>
 <category>American Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/6d463f8479443f33c03447891315a528-thumbnail.jpg" />
+<icon src="https://api.ppvs.su/assets/thumb/12fd6919c8b82f6f94e83394a7f9f3dc-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-13171">
@@ -326,7 +326,7 @@ channel="ppv-13172"
 <stereo>stereo</stereo>
 </audio>
 <category>American Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/3dcfc1175d54e3dfd36176b2a35c6763-thumbnail.jpg" />
+<icon src="https://api.ppvs.su/assets/thumb/08bf9f9552e30f3b35c18c7d4acdc44f-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-13173">
@@ -370,29 +370,7 @@ channel="ppv-13174"
 <stereo>stereo</stereo>
 </audio>
 <category>American Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/61b7197763c87e45634f0763f329a277-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13175">
-<display-name>Colgate Raiders vs. Michigan State Spartans</display-name>
-</channel>
-<programme
-start="20251104000000 +0000"
-stop="20251104033000 +0000"
-channel="ppv-13175"
->
-<title lang="en">Colgate Raiders vs. Michigan State Spartans</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/cc3912dc1d256ebe43e45d70d7b148c1-thumbnail.jpg" />
+<icon src="https://api.ppvs.su/assets/thumb/e37c5ade9870819ab14eabd7eb7c7593-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-13176">

@@ -5,8 +5,8 @@
 
 #EXTINF:-1 tvg-id="ppv-13185" tvg-name="South Carolina State Bulldogs vs. Louisville Cardinals (4 November 2025 at 02:00)" tvg-epgid="13185" tvg-logo="https://api.ppvs.su/assets/thumb/ea887caeb61a67866f3b89e44aa211b1-thumbnail.jpg",South Carolina State Bulldogs vs. Louisville Cardinals (4 November 2025 at 02:00)
 
-#EXTINF:-1 tvg-id="ppv-13186" tvg-name="Texas Southern Tigers vs. Gonzaga Bulldogs (4 November 2025 at 02:00)" tvg-epgid="13186" tvg-logo="https://api.ppvs.su/assets/thumb/2b2a9d9977ed010dc6a3de1055486c75-thumbnail.jpg",Texas Southern Tigers vs. Gonzaga Bulldogs (4 November 2025 at 02:00)
-https://gg.poocloud.in/ESPN+/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13186" tvg-name="Texas Southern Tigers vs. Gonzaga Bulldogs (4 November 2025 at 02:00)" tvg-epgid="13186" tvg-logo="https://api.ppvs.su/assets/thumb/ce302f633fb032c865d10bf99a32e1d5-thumbnail.jpg",Texas Southern Tigers vs. Gonzaga Bulldogs (4 November 2025 at 02:00)
+https://gg.poocloud.in/cbb-7/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13183" tvg-name="Oakland Golden Grizzlies vs. Michigan Wolverines (4 November 2025 at 01:30)" tvg-epgid="13183" tvg-logo="https://api.ppvs.su/assets/thumb/acdfd0a4193fbcc1aecdc81eb0fbd68a-thumbnail.jpg",Oakland Golden Grizzlies vs. Michigan Wolverines (4 November 2025 at 01:30)
 
 #EXTINF:-1 tvg-id="ppv-13184" tvg-name="Jackson State Tigers vs. Illinois Fighting Illini (4 November 2025 at 01:30)" tvg-epgid="13184" tvg-logo="https://api.ppvs.su/assets/thumb/29a2ea07b44477a36f9784f41c0960b7-thumbnail.jpg",Jackson State Tigers vs. Illinois Fighting Illini (4 November 2025 at 01:30)
@@ -15,26 +15,24 @@ https://gg.poocloud.in/ESPN+/index.m3u8
 
 #EXTINF:-1 tvg-id="ppv-13177" tvg-name="Lehigh Mountain Hawks vs. Houston Cougars (4 November 2025 at 01:00)" tvg-epgid="13177" tvg-logo="https://api.ppvs.su/assets/thumb/6a2debf26b3dbf1526c0dcbda2701b27-thumbnail.jpg",Lehigh Mountain Hawks vs. Houston Cougars (4 November 2025 at 01:00)
 https://gg.poocloud.in/CBSSN/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13178" tvg-name="North Dakota Fighting Hawks vs. Alabama Crimson Tide (4 November 2025 at 01:00)" tvg-epgid="13178" tvg-logo="https://api.ppvs.su/assets/thumb/088bf4714b7b51714a46f72fdd8f3286-thumbnail.jpg",North Dakota Fighting Hawks vs. Alabama Crimson Tide (4 November 2025 at 01:00)
-https://gg.poocloud.in/SECN+/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13179" tvg-name="Fairleigh Dickinson Knights vs. Iowa State Cyclones (4 November 2025 at 01:00)" tvg-epgid="13179" tvg-logo="https://api.ppvs.su/assets/thumb/f8db3ef9210acaad23c8270559d4bedd-thumbnail.jpg",Fairleigh Dickinson Knights vs. Iowa State Cyclones (4 November 2025 at 01:00)
-https://gg.poocloud.in/ESPN+/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13180" tvg-name="Green Bay Phoenix vs. Kansas Jayhawks (4 November 2025 at 01:00)" tvg-epgid="13180" tvg-logo="https://api.ppvs.su/assets/thumb/e2c52898606ab1df59286b7118ff28d3-thumbnail.jpg",Green Bay Phoenix vs. Kansas Jayhawks (4 November 2025 at 01:00)
-https://gg.poocloud.in/ESPN+/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13181" tvg-name="Bethune-Cookman Wildcats vs. Auburn Tigers (4 November 2025 at 01:00)" tvg-epgid="13181" tvg-logo="https://api.ppvs.su/assets/thumb/38c276c143055e4882dec396304c8421-thumbnail.jpg",Bethune-Cookman Wildcats vs. Auburn Tigers (4 November 2025 at 01:00)
-https://gg.poocloud.in/SECN+/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13182" tvg-name="Campbell Fighting Camels vs. Wisconsin Badgers (4 November 2025 at 01:00)" tvg-epgid="13182" tvg-logo="https://api.ppvs.su/assets/thumb/6d463f8479443f33c03447891315a528-thumbnail.jpg",Campbell Fighting Camels vs. Wisconsin Badgers (4 November 2025 at 01:00)
+#EXTINF:-1 tvg-id="ppv-13178" tvg-name="North Dakota Fighting Hawks vs. Alabama Crimson Tide (4 November 2025 at 01:00)" tvg-epgid="13178" tvg-logo="https://api.ppvs.su/assets/thumb/c99616fa81705b5fa06fd5b4bea94a61-thumbnail.jpg",North Dakota Fighting Hawks vs. Alabama Crimson Tide (4 November 2025 at 01:00)
+https://gg.poocloud.in/cbb-3/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13179" tvg-name="Fairleigh Dickinson Knights vs. Iowa State Cyclones (4 November 2025 at 01:00)" tvg-epgid="13179" tvg-logo="https://api.ppvs.su/assets/thumb/31d6931b2c07dcca944f7689e31babf1-thumbnail.jpg",Fairleigh Dickinson Knights vs. Iowa State Cyclones (4 November 2025 at 01:00)
+https://gg.poocloud.in/cbb-4/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13180" tvg-name="Green Bay Phoenix vs. Kansas Jayhawks (4 November 2025 at 01:00)" tvg-epgid="13180" tvg-logo="https://api.ppvs.su/assets/thumb/26c925a629cfebeaf0c7bd0284d870dd-thumbnail.jpg",Green Bay Phoenix vs. Kansas Jayhawks (4 November 2025 at 01:00)
+https://gg.poocloud.in/cbb-5/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13181" tvg-name="Bethune-Cookman Wildcats vs. Auburn Tigers (4 November 2025 at 01:00)" tvg-epgid="13181" tvg-logo="https://api.ppvs.su/assets/thumb/f1c136ccd323e416fadfd7af0ddd7e58-thumbnail.jpg",Bethune-Cookman Wildcats vs. Auburn Tigers (4 November 2025 at 01:00)
+https://gg.poocloud.in/cbb-6/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13182" tvg-name="Campbell Fighting Camels vs. Wisconsin Badgers (4 November 2025 at 01:00)" tvg-epgid="13182" tvg-logo="https://api.ppvs.su/assets/thumb/12fd6919c8b82f6f94e83394a7f9f3dc-thumbnail.jpg",Campbell Fighting Camels vs. Wisconsin Badgers (4 November 2025 at 01:00)
 https://gg.poocloud.in/B1G+/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13171" tvg-name="Florida Gators vs. Arizona Wildcats (4 November 2025 at 00:00)" tvg-epgid="13171" tvg-logo="https://api.ppvs.su/assets/thumb/c2b47ceb1b3e7ff800d435febdfc8be9-thumbnail.jpg",Florida Gators vs. Arizona Wildcats (4 November 2025 at 00:00)
 
-#EXTINF:-1 tvg-id="ppv-13172" tvg-name="New Haven Chargers vs. UConn Huskies (4 November 2025 at 00:00)" tvg-epgid="13172" tvg-logo="https://api.ppvs.su/assets/thumb/3dcfc1175d54e3dfd36176b2a35c6763-thumbnail.jpg",New Haven Chargers vs. UConn Huskies (4 November 2025 at 00:00)
-https://gg.poocloud.in/ESPN+/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13172" tvg-name="New Haven Chargers vs. UConn Huskies (4 November 2025 at 00:00)" tvg-epgid="13172" tvg-logo="https://api.ppvs.su/assets/thumb/08bf9f9552e30f3b35c18c7d4acdc44f-thumbnail.jpg",New Haven Chargers vs. UConn Huskies (4 November 2025 at 00:00)
+https://gg.poocloud.in/cbb-1/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13173" tvg-name="Southern Jaguars vs. Arkansas Razorbacks (4 November 2025 at 00:00)" tvg-epgid="13173" tvg-logo="https://api.ppvs.su/assets/thumb/12393efdc18d2e485f589fa317d04f8e-thumbnail.jpg",Southern Jaguars vs. Arkansas Razorbacks (4 November 2025 at 00:00)
 
-#EXTINF:-1 tvg-id="ppv-13174" tvg-name="Mercer Bears vs. Tennessee Volunteers (4 November 2025 at 00:00)" tvg-epgid="13174" tvg-logo="https://api.ppvs.su/assets/thumb/61b7197763c87e45634f0763f329a277-thumbnail.jpg",Mercer Bears vs. Tennessee Volunteers (4 November 2025 at 00:00)
-https://gg.poocloud.in/SECN+/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13175" tvg-name="Colgate Raiders vs. Michigan State Spartans (4 November 2025 at 00:00)" tvg-epgid="13175" tvg-logo="https://api.ppvs.su/assets/thumb/cc3912dc1d256ebe43e45d70d7b148c1-thumbnail.jpg",Colgate Raiders vs. Michigan State Spartans (4 November 2025 at 00:00)
-https://gg.poocloud.in/B1G+/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13174" tvg-name="Mercer Bears vs. Tennessee Volunteers (4 November 2025 at 00:00)" tvg-epgid="13174" tvg-logo="https://api.ppvs.su/assets/thumb/e37c5ade9870819ab14eabd7eb7c7593-thumbnail.jpg",Mercer Bears vs. Tennessee Volunteers (4 November 2025 at 00:00)
+https://gg.poocloud.in/cbb-2/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13176" tvg-name="Central Arkansas Bears vs. North Carolina Tar Heels (4 November 2025 at 00:00)" tvg-epgid="13176" tvg-logo="https://api.ppvs.su/assets/thumb/6b4755d2a20cc5c802caac393ea1ffd0-thumbnail.jpg",Central Arkansas Bears vs. North Carolina Tar Heels (4 November 2025 at 00:00)
 
 #EXTINF:-1 tvg-id="ppv-13170" tvg-name="Quinnipiac Bobcats vs. St. John's Red Storm (3 November 2025 at 23:30)" tvg-epgid="13170" tvg-logo="https://api.ppvs.su/assets/thumb/0a5040bdba2e2e67112e1ecfea11e3ce-thumbnail.jpg",Quinnipiac Bobcats vs. St. John's Red Storm (3 November 2025 at 23:30)
