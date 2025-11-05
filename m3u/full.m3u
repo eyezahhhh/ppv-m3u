@@ -1,4 +1,26 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ppv-13220" tvg-name="San Antonio Spurs vs. Los Angeles Lakers (6 November 2025 at 03:00)" tvg-epgid="13220" tvg-logo="https://api.ppvs.su/assets/thumb/d4ad32634fb1f21c65f0ff3f83f570cc-thumbnail.jpg",San Antonio Spurs vs. Los Angeles Lakers (6 November 2025 at 03:00)
+https://gg.poocloud.in/nba_losangeleslakers/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13221" tvg-name="Oklahoma City Thunder vs. Portland Trail Blazers (6 November 2025 at 03:00)" tvg-epgid="13221" tvg-logo="https://api.ppvs.su/assets/thumb/a49e229e429e858265d0e08947cdc77e-thumbnail.jpg",Oklahoma City Thunder vs. Portland Trail Blazers (6 November 2025 at 03:00)
+https://gg.poocloud.in/nba_portlandtrailblazers/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13222" tvg-name="Golden State Warriors vs. Sacramento Kings (6 November 2025 at 03:00)" tvg-epgid="13222" tvg-logo="https://api.ppvs.su/assets/thumb/c0f394dd8b1b45b851f305991b6bc088-thumbnail.jpg",Golden State Warriors vs. Sacramento Kings (6 November 2025 at 03:00)
+https://gg.poocloud.in/nba_sacramentokings/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13219" tvg-name="Miami Heat vs. Denver Nuggets (6 November 2025 at 02:00)" tvg-epgid="13219" tvg-logo="https://api.ppvs.su/assets/thumb/3d2db59185befd428345d5073e5c4836-thumbnail.jpg",Miami Heat vs. Denver Nuggets (6 November 2025 at 02:00)
+https://gg.poocloud.in/nba_denvernuggets/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13218" tvg-name="New Orleans Pelicans vs. Dallas Mavericks (6 November 2025 at 01:30)" tvg-epgid="13218" tvg-logo="https://api.ppvs.su/assets/thumb/14a73ef73279127e4995ced4e89654e5-thumbnail.jpg",New Orleans Pelicans vs. Dallas Mavericks (6 November 2025 at 01:30)
+https://gg.poocloud.in/nba_dallasmavericks/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13217" tvg-name="Houston Rockets vs. Memphis Grizzlies (6 November 2025 at 01:00)" tvg-epgid="13217" tvg-logo="https://api.ppvs.su/assets/thumb/a82b0a070a79de72f6b96cf50981e424-thumbnail.jpg",Houston Rockets vs. Memphis Grizzlies (6 November 2025 at 01:00)
+https://gg.poocloud.in/nba_memphisgrizzlies/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13215" tvg-name="Washington Wizards vs. Boston Celtics (6 November 2025 at 00:30)" tvg-epgid="13215" tvg-logo="https://api.ppvs.su/assets/thumb/15754c1e244bbaa41ad8f54c0b1f7006-thumbnail.jpg",Washington Wizards vs. Boston Celtics (6 November 2025 at 00:30)
+https://gg.poocloud.in/nba_bostonceltics/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13216" tvg-name="Minnesota Timberwolves vs. New York Knicks (6 November 2025 at 00:30)" tvg-epgid="13216" tvg-logo="https://api.ppvs.su/assets/thumb/6cad80d09868b45a598b3b9e4aaab7fd-thumbnail.jpg",Minnesota Timberwolves vs. New York Knicks (6 November 2025 at 00:30)
+https://gg.poocloud.in/nba_newyorkknicks/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13212" tvg-name="Philadelphia 76ers vs. Cleveland Cavaliers (6 November 2025 at 00:00)" tvg-epgid="13212" tvg-logo="https://api.ppvs.su/assets/thumb/a09c34df30498852e48f0eadc1fac7f3-thumbnail.jpg",Philadelphia 76ers vs. Cleveland Cavaliers (6 November 2025 at 00:00)
+https://gg.poocloud.in/nba_clevelandcavaliers/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13213" tvg-name="Utah Jazz vs. Detroit Pistons (6 November 2025 at 00:00)" tvg-epgid="13213" tvg-logo="https://api.ppvs.su/assets/thumb/32b2ee7432c959ed7e9b29c4502c9ba0-thumbnail.jpg",Utah Jazz vs. Detroit Pistons (6 November 2025 at 00:00)
+https://gg.poocloud.in/nba_detroitpistons/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13214" tvg-name="Brooklyn Nets vs. Indiana Pacers (6 November 2025 at 00:00)" tvg-epgid="13214" tvg-logo="https://api.ppvs.su/assets/thumb/e1fad95483ae952d39e7d9aaf4ae570c-thumbnail.jpg",Brooklyn Nets vs. Indiana Pacers (6 November 2025 at 00:00)
+https://gg.poocloud.in/nba_indianapacers/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13194" tvg-name="Oklahoma City Thunder vs. LA Clippers (5 November 2025 at 04:00)" tvg-epgid="13194" tvg-logo="https://api.ppvs.su/assets/thumb/a1a74762161ced9562881f9f05713462-thumbnail.jpg",Oklahoma City Thunder vs. LA Clippers (5 November 2025 at 04:00)
 https://gg.poocloud.in/nba_laclippers/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13193" tvg-name="Phoenix Suns vs. Golden State Warriors (5 November 2025 at 03:00)" tvg-epgid="13193" tvg-logo="https://api.ppvs.su/assets/thumb/59dd2844a7644b03837f2000673b9479-thumbnail.jpg",Phoenix Suns vs. Golden State Warriors (5 November 2025 at 03:00)
@@ -107,10 +129,6 @@ https://gg.poocloud.in/vegasgoldenknights/index.m3u8
 https://gg.poocloud.in/anaheimducks/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13203" tvg-name="Tampa Bay Lightning vs. Colorado Avalanche (5 November 2025 at 03:30)" tvg-epgid="13203" tvg-logo="https://api.ppvs.su/assets/thumb/3b4a5d74555921b1f0858deb52330262-thumbnail.jpg",Tampa Bay Lightning vs. Colorado Avalanche (5 November 2025 at 03:30)
 https://gg.poocloud.in/coloradoavalanche/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13201" tvg-name="Edmonton Oilers vs. Dallas Stars (5 November 2025 at 02:00)" tvg-epgid="13201" tvg-logo="https://api.ppvs.su/assets/thumb/736db811f927fea25a747d5544dc6537-thumbnail.jpg",Edmonton Oilers vs. Dallas Stars (5 November 2025 at 02:00)
-https://gg.poocloud.in/dallasstars/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13202" tvg-name="Nashville Predators vs. Minnesota Wild (5 November 2025 at 02:00)" tvg-epgid="13202" tvg-logo="https://api.ppvs.su/assets/thumb/aeb2e8e609602a376ac8fa4345052b95-thumbnail.jpg",Nashville Predators vs. Minnesota Wild (5 November 2025 at 02:00)
-https://gg.poocloud.in/minnesotawild/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13163" tvg-name="TNA: Impact (7 November 2025 at 01:00)" tvg-epgid="13163" tvg-logo="https://api.ppvs.su/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg",TNA: Impact (7 November 2025 at 01:00)
 
 #EXTINF:-1 tvg-id="ppv-13162" tvg-name="AEW: Wednesday Night Dynamite (6 November 2025 at 01:00)" tvg-epgid="13162" tvg-logo="https://api.ppvs.su/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg",AEW: Wednesday Night Dynamite (6 November 2025 at 01:00)
