@@ -131,28 +131,6 @@ channel="ppv-13192"
 <icon src="https://api.ppvs.su/assets/thumb/309cad4ede382bcfd9a0ea4606be3134-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-13209">
-<display-name>Nicholls Colonels vs. Kentucky Wildcats</display-name>
-</channel>
-<programme
-start="20251105000000 +0000"
-stop="20251105033000 +0000"
-channel="ppv-13209"
->
-<title lang="en">Nicholls Colonels vs. Kentucky Wildcats</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://api.ppvs.su/assets/thumb/9581f8650527247263084775f253d04c-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-13133">
 <display-name>Rangers vs. Roma</display-name>
 </channel>
