@@ -1231,50 +1231,6 @@ channel="ppv-13195"
 <icon src="https://api.ppvs.su/assets/thumb/b298c483d47e2a1e15899b4c6097fa99-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-13115">
-<display-name>Qarabağ vs. Chelsea</display-name>
-</channel>
-<programme
-start="20251105174500 +0000"
-stop="20251105194500 +0000"
-channel="ppv-13115"
->
-<title lang="en">Qarabağ vs. Chelsea</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/7b69b66b188088bf5ffdf254e2411a4e-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13116">
-<display-name>Pafos vs. Villarreal</display-name>
-</channel>
-<programme
-start="20251105174500 +0000"
-stop="20251105194500 +0000"
-channel="ppv-13116"
->
-<title lang="en">Pafos vs. Villarreal</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/08c1f5171006cb3df5e81dd5bf334151-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-13228">
 <display-name>Chicago Blackhawks vs. Vancouver Canucks</display-name>
 </channel>
