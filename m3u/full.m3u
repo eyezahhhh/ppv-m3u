@@ -115,6 +115,16 @@ https://gg.poocloud.in/ucl_goalsxtra/index.m3u8
 
 #EXTINF:-1 tvg-id="ppv-13116" tvg-name="Pafos vs. Villarreal (5 November 2025 at 17:45)" tvg-epgid="13116" tvg-logo="https://api.ppvs.su/assets/thumb/08c1f5171006cb3df5e81dd5bf334151-thumbnail.jpg",Pafos vs. Villarreal (5 November 2025 at 17:45)
 
+#EXTINF:-1 tvg-id="ppv-13228" tvg-name="Chicago Blackhawks vs. Vancouver Canucks (6 November 2025 at 04:00)" tvg-epgid="13228" tvg-logo="https://api.ppvs.su/assets/thumb/1c78f0a84eb9eba0a18d9364f4aa912f-thumbnail.jpg",Chicago Blackhawks vs. Vancouver Canucks (6 November 2025 at 04:00)
+https://gg.poocloud.in/vancouvercanucks/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13229" tvg-name="San Jose Sharks vs. Seattle Kraken (6 November 2025 at 04:00)" tvg-epgid="13229" tvg-logo="https://api.ppvs.su/assets/thumb/5fa24c8cf2b3b7aa09e1258df71c7d1f-thumbnail.jpg",San Jose Sharks vs. Seattle Kraken (6 November 2025 at 04:00)
+https://gg.poocloud.in/seattlekraken/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13227" tvg-name="Columbus Blue Jackets vs. Calgary Flames (6 November 2025 at 03:30)" tvg-epgid="13227" tvg-logo="https://api.ppvs.su/assets/thumb/1885c199fde177a3637c1fc1e65f760f-thumbnail.jpg",Columbus Blue Jackets vs. Calgary Flames (6 November 2025 at 03:30)
+https://gg.poocloud.in/calgaryflames/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13226" tvg-name="St. Louis Blues vs. Washington Capitals (6 November 2025 at 01:30)" tvg-epgid="13226" tvg-logo="https://api.ppvs.su/assets/thumb/b4378c30f2b9decd8d103b41473b7b03-thumbnail.jpg",St. Louis Blues vs. Washington Capitals (6 November 2025 at 01:30)
+https://gg.poocloud.in/washingtoncapitals/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13225" tvg-name="Utah Mammoth vs. Toronto Maple Leafs (6 November 2025 at 01:00)" tvg-epgid="13225" tvg-logo="https://api.ppvs.su/assets/thumb/079a74d4191c8390952ee3164ca9548f-thumbnail.jpg",Utah Mammoth vs. Toronto Maple Leafs (6 November 2025 at 01:00)
+https://gg.poocloud.in/torontomapleleafs/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13163" tvg-name="TNA: Impact (7 November 2025 at 01:00)" tvg-epgid="13163" tvg-logo="https://api.ppvs.su/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg",TNA: Impact (7 November 2025 at 01:00)
 
 #EXTINF:-1 tvg-id="ppv-13162" tvg-name="AEW: Wednesday Night Dynamite (6 November 2025 at 01:00)" tvg-epgid="13162" tvg-logo="https://api.ppvs.su/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg",AEW: Wednesday Night Dynamite (6 November 2025 at 01:00)
