@@ -131,6 +131,28 @@ channel="ppv-13217"
 <icon src="https://api.ppvs.su/assets/thumb/a82b0a070a79de72f6b96cf50981e424-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-13230">
+<display-name>South Dakota Coyotes vs. Creighton Bluejays</display-name>
+</channel>
+<programme
+start="20251106010000 +0000"
+stop="20251106043000 +0000"
+channel="ppv-13230"
+>
+<title lang="en">South Dakota Coyotes vs. Creighton Bluejays</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://api.ppvs.su/assets/thumb/3a2a33fb92d69a9eb830758738265342-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-13215">
 <display-name>Washington Wizards vs. Boston Celtics</display-name>
 </channel>
@@ -1031,160 +1053,6 @@ channel="ppv-13150"
 </audio>
 <category>Football</category>
 <icon src="https://api.ppvs.su/assets/thumb/cd30a5fc9b4620138cc32d2a01ca59ff-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13117">
-<display-name>Man City vs. B. Dortmund</display-name>
-</channel>
-<programme
-start="20251105200000 +0000"
-stop="20251105220000 +0000"
-channel="ppv-13117"
->
-<title lang="en">Man City vs. B. Dortmund</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/de63a262852ae09f47ad54559669a538-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13118">
-<display-name>Inter vs. Kairat Almaty</display-name>
-</channel>
-<programme
-start="20251105200000 +0000"
-stop="20251105220000 +0000"
-channel="ppv-13118"
->
-<title lang="en">Inter vs. Kairat Almaty</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/4bd55f4b84c203035195023087ccbb99-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13119">
-<display-name>Benfica vs. Leverkusen</display-name>
-</channel>
-<programme
-start="20251105200000 +0000"
-stop="20251105220000 +0000"
-channel="ppv-13119"
->
-<title lang="en">Benfica vs. Leverkusen</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/7500130919702a346df264a8b551d3d8-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13120">
-<display-name>Club Brugge vs. Barcelona</display-name>
-</channel>
-<programme
-start="20251105200000 +0000"
-stop="20251105220000 +0000"
-channel="ppv-13120"
->
-<title lang="en">Club Brugge vs. Barcelona</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/b88b6937de7f6a9465d2522273908d98-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13121">
-<display-name>Ajax vs. Galatasaray</display-name>
-</channel>
-<programme
-start="20251105200000 +0000"
-stop="20251105220000 +0000"
-channel="ppv-13121"
->
-<title lang="en">Ajax vs. Galatasaray</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/342b04e4223154755f5aa2b0485b223f-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13122">
-<display-name>Marseille vs. Atalanta</display-name>
-</channel>
-<programme
-start="20251105200000 +0000"
-stop="20251105220000 +0000"
-channel="ppv-13122"
->
-<title lang="en">Marseille vs. Atalanta</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/9b4be4f35f41c9b9e162d51d7a248988-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13123">
-<display-name>Newcastle vs. Athletic Club</display-name>
-</channel>
-<programme
-start="20251105200000 +0000"
-stop="20251105220000 +0000"
-channel="ppv-13123"
->
-<title lang="en">Newcastle vs. Athletic Club</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/89b5c993faa1c30f9c28da5d93717ace-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-12737">

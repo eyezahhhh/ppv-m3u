@@ -11,6 +11,8 @@ https://gg.poocloud.in/nba_denvernuggets/index.m3u8
 https://gg.poocloud.in/nba_dallasmavericks/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13217" tvg-name="Houston Rockets vs. Memphis Grizzlies (6 November 2025 at 01:00)" tvg-epgid="13217" tvg-logo="https://api.ppvs.su/assets/thumb/a82b0a070a79de72f6b96cf50981e424-thumbnail.jpg",Houston Rockets vs. Memphis Grizzlies (6 November 2025 at 01:00)
 https://gg.poocloud.in/nba_memphisgrizzlies/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13230" tvg-name="South Dakota Coyotes vs. Creighton Bluejays (6 November 2025 at 01:00)" tvg-epgid="13230" tvg-logo="https://api.ppvs.su/assets/thumb/3a2a33fb92d69a9eb830758738265342-thumbnail.jpg",South Dakota Coyotes vs. Creighton Bluejays (6 November 2025 at 01:00)
+
 #EXTINF:-1 tvg-id="ppv-13215" tvg-name="Washington Wizards vs. Boston Celtics (6 November 2025 at 00:30)" tvg-epgid="13215" tvg-logo="https://api.ppvs.su/assets/thumb/15754c1e244bbaa41ad8f54c0b1f7006-thumbnail.jpg",Washington Wizards vs. Boston Celtics (6 November 2025 at 00:30)
 https://gg.poocloud.in/nba_bostonceltics/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13216" tvg-name="Minnesota Timberwolves vs. New York Knicks (6 November 2025 at 00:30)" tvg-epgid="13216" tvg-logo="https://api.ppvs.su/assets/thumb/6cad80d09868b45a598b3b9e4aaab7fd-thumbnail.jpg",Minnesota Timberwolves vs. New York Knicks (6 November 2025 at 00:30)
@@ -92,20 +94,6 @@ https://gg.poocloud.in/nba_indianapacers/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13149" tvg-name="AEK Larnaca vs. Aberdeen (6 November 2025 at 17:45)" tvg-epgid="13149" tvg-logo="https://api.ppvs.su/assets/thumb/0d8dbbeac4b87d5c7aa1fd3dd2f4bce7-thumbnail.jpg",AEK Larnaca vs. Aberdeen (6 November 2025 at 17:45)
 
 #EXTINF:-1 tvg-id="ppv-13150" tvg-name="Noah vs. Sigma Olomouc (6 November 2025 at 17:45)" tvg-epgid="13150" tvg-logo="https://api.ppvs.su/assets/thumb/cd30a5fc9b4620138cc32d2a01ca59ff-thumbnail.jpg",Noah vs. Sigma Olomouc (6 November 2025 at 17:45)
-
-#EXTINF:-1 tvg-id="ppv-13117" tvg-name="Man City vs. B. Dortmund (5 November 2025 at 20:00)" tvg-epgid="13117" tvg-logo="https://api.ppvs.su/assets/thumb/de63a262852ae09f47ad54559669a538-thumbnail.jpg",Man City vs. B. Dortmund (5 November 2025 at 20:00)
-
-#EXTINF:-1 tvg-id="ppv-13118" tvg-name="Inter vs. Kairat Almaty (5 November 2025 at 20:00)" tvg-epgid="13118" tvg-logo="https://api.ppvs.su/assets/thumb/4bd55f4b84c203035195023087ccbb99-thumbnail.jpg",Inter vs. Kairat Almaty (5 November 2025 at 20:00)
-
-#EXTINF:-1 tvg-id="ppv-13119" tvg-name="Benfica vs. Leverkusen (5 November 2025 at 20:00)" tvg-epgid="13119" tvg-logo="https://api.ppvs.su/assets/thumb/7500130919702a346df264a8b551d3d8-thumbnail.jpg",Benfica vs. Leverkusen (5 November 2025 at 20:00)
-
-#EXTINF:-1 tvg-id="ppv-13120" tvg-name="Club Brugge vs. Barcelona (5 November 2025 at 20:00)" tvg-epgid="13120" tvg-logo="https://api.ppvs.su/assets/thumb/b88b6937de7f6a9465d2522273908d98-thumbnail.jpg",Club Brugge vs. Barcelona (5 November 2025 at 20:00)
-
-#EXTINF:-1 tvg-id="ppv-13121" tvg-name="Ajax vs. Galatasaray (5 November 2025 at 20:00)" tvg-epgid="13121" tvg-logo="https://api.ppvs.su/assets/thumb/342b04e4223154755f5aa2b0485b223f-thumbnail.jpg",Ajax vs. Galatasaray (5 November 2025 at 20:00)
-
-#EXTINF:-1 tvg-id="ppv-13122" tvg-name="Marseille vs. Atalanta (5 November 2025 at 20:00)" tvg-epgid="13122" tvg-logo="https://api.ppvs.su/assets/thumb/9b4be4f35f41c9b9e162d51d7a248988-thumbnail.jpg",Marseille vs. Atalanta (5 November 2025 at 20:00)
-
-#EXTINF:-1 tvg-id="ppv-13123" tvg-name="Newcastle vs. Athletic Club (5 November 2025 at 20:00)" tvg-epgid="13123" tvg-logo="https://api.ppvs.su/assets/thumb/89b5c993faa1c30f9c28da5d93717ace-thumbnail.jpg",Newcastle vs. Athletic Club (5 November 2025 at 20:00)
 
 #EXTINF:-1 tvg-id="ppv-12737" tvg-name="CBS Sports Golazo Show (5 November 2025 at 19:59)" tvg-epgid="12737" tvg-logo="https://api.ppvs.su/assets/thumb/ac5ffe0730c07087e3659b377e57714e-thumbnail.jpg",CBS Sports Golazo Show (5 November 2025 at 19:59)
 
