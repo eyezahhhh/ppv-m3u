@@ -107,6 +107,8 @@ https://gg.poocloud.in/SECN+/index.m3u8
 
 #EXTINF:-1 tvg-id="ppv-12737" tvg-name="CBS Sports Golazo Show (5 November 2025 at 19:59)" tvg-epgid="12737" tvg-logo="https://api.ppvs.su/assets/thumb/ac5ffe0730c07087e3659b377e57714e-thumbnail.jpg",CBS Sports Golazo Show (5 November 2025 at 19:59)
 
+#EXTINF:-1 tvg-id="ppv-13195" tvg-name="TNT Sports Goals Show (5 November 2025 at 19:59)" tvg-epgid="13195" tvg-logo="https://api.ppvs.su/assets/thumb/b298c483d47e2a1e15899b4c6097fa99-thumbnail.jpg",TNT Sports Goals Show (5 November 2025 at 19:59)
+https://gg.poocloud.in/ucl_goalsxtra/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13115" tvg-name="Qarabağ vs. Chelsea (5 November 2025 at 17:45)" tvg-epgid="13115" tvg-logo="https://api.ppvs.su/assets/thumb/7b69b66b188088bf5ffdf254e2411a4e-thumbnail.jpg",Qarabağ vs. Chelsea (5 November 2025 at 17:45)
 
 #EXTINF:-1 tvg-id="ppv-13116" tvg-name="Pafos vs. Villarreal (5 November 2025 at 17:45)" tvg-epgid="13116" tvg-logo="https://api.ppvs.su/assets/thumb/08c1f5171006cb3df5e81dd5bf334151-thumbnail.jpg",Pafos vs. Villarreal (5 November 2025 at 17:45)
