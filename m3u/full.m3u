@@ -1,12 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ppv-13232" tvg-name="LA Clippers vs. Phoenix Suns (7 November 2025 at 02:00)" tvg-epgid="13232" tvg-logo="https://api.ppvs.su/assets/thumb/b5ce65f7b57feb0188808d4eeb80844b-thumbnail.jpg",LA Clippers vs. Phoenix Suns (7 November 2025 at 02:00)
 https://gg.poocloud.in/nba_phoenixsuns/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13220" tvg-name="San Antonio Spurs vs. Los Angeles Lakers (6 November 2025 at 03:00)" tvg-epgid="13220" tvg-logo="https://api.ppvs.su/assets/thumb/d4ad32634fb1f21c65f0ff3f83f570cc-thumbnail.jpg",San Antonio Spurs vs. Los Angeles Lakers (6 November 2025 at 03:00)
-https://gg.poocloud.in/nba_losangeleslakers/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13221" tvg-name="Oklahoma City Thunder vs. Portland Trail Blazers (6 November 2025 at 03:00)" tvg-epgid="13221" tvg-logo="https://api.ppvs.su/assets/thumb/a49e229e429e858265d0e08947cdc77e-thumbnail.jpg",Oklahoma City Thunder vs. Portland Trail Blazers (6 November 2025 at 03:00)
-https://gg.poocloud.in/nba_portlandtrailblazers/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13222" tvg-name="Golden State Warriors vs. Sacramento Kings (6 November 2025 at 03:00)" tvg-epgid="13222" tvg-logo="https://api.ppvs.su/assets/thumb/c0f394dd8b1b45b851f305991b6bc088-thumbnail.jpg",Golden State Warriors vs. Sacramento Kings (6 November 2025 at 03:00)
-https://gg.poocloud.in/nba_sacramentokings/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13133" tvg-name="Rangers vs. Roma (6 November 2025 at 20:00)" tvg-epgid="13133" tvg-logo="https://api.ppvs.su/assets/thumb/b3a7c48802516bab2060e579a5c61723-thumbnail.jpg",Rangers vs. Roma (6 November 2025 at 20:00)
 
 #EXTINF:-1 tvg-id="ppv-13134" tvg-name="Real Betis vs. Lyon (6 November 2025 at 20:00)" tvg-epgid="13134" tvg-logo="https://api.ppvs.su/assets/thumb/02bb366796abbb82e5752fe49cd64499-thumbnail.jpg",Real Betis vs. Lyon (6 November 2025 at 20:00)
