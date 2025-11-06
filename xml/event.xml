@@ -87,50 +87,6 @@ channel="ppv-13219"
 <icon src="https://api.ppvs.su/assets/thumb/3d2db59185befd428345d5073e5c4836-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-13218">
-<display-name>New Orleans Pelicans vs. Dallas Mavericks</display-name>
-</channel>
-<programme
-start="20251106013000 +0000"
-stop="20251106041800 +0000"
-channel="ppv-13218"
->
-<title lang="en">New Orleans Pelicans vs. Dallas Mavericks</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://api.ppvs.su/assets/thumb/14a73ef73279127e4995ced4e89654e5-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13230">
-<display-name>South Dakota Coyotes vs. Creighton Bluejays</display-name>
-</channel>
-<programme
-start="20251106010000 +0000"
-stop="20251106043000 +0000"
-channel="ppv-13230"
->
-<title lang="en">South Dakota Coyotes vs. Creighton Bluejays</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://api.ppvs.su/assets/thumb/3a2a33fb92d69a9eb830758738265342-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-13133">
 <display-name>Rangers vs. Roma</display-name>
 </channel>
@@ -987,28 +943,6 @@ channel="ppv-13227"
 </audio>
 <category>Ice Hockey</category>
 <icon src="https://api.ppvs.su/assets/thumb/1885c199fde177a3637c1fc1e65f760f-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13226">
-<display-name>St. Louis Blues vs. Washington Capitals</display-name>
-</channel>
-<programme
-start="20251106013000 +0000"
-stop="20251106043000 +0000"
-channel="ppv-13226"
->
-<title lang="en">St. Louis Blues vs. Washington Capitals</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://api.ppvs.su/assets/thumb/b4378c30f2b9decd8d103b41473b7b03-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-13164">

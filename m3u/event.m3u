@@ -7,10 +7,6 @@ https://gg.poocloud.in/nba_portlandtrailblazers/index.m3u8
 https://gg.poocloud.in/nba_sacramentokings/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13219" tvg-name="Miami Heat vs. Denver Nuggets (6 November 2025 at 02:00)" tvg-epgid="13219" tvg-logo="https://api.ppvs.su/assets/thumb/3d2db59185befd428345d5073e5c4836-thumbnail.jpg",Miami Heat vs. Denver Nuggets (6 November 2025 at 02:00)
 https://gg.poocloud.in/nba_denvernuggets/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13218" tvg-name="New Orleans Pelicans vs. Dallas Mavericks (6 November 2025 at 01:30)" tvg-epgid="13218" tvg-logo="https://api.ppvs.su/assets/thumb/14a73ef73279127e4995ced4e89654e5-thumbnail.jpg",New Orleans Pelicans vs. Dallas Mavericks (6 November 2025 at 01:30)
-https://gg.poocloud.in/nba_dallasmavericks/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13230" tvg-name="South Dakota Coyotes vs. Creighton Bluejays (6 November 2025 at 01:00)" tvg-epgid="13230" tvg-logo="https://api.ppvs.su/assets/thumb/3a2a33fb92d69a9eb830758738265342-thumbnail.jpg",South Dakota Coyotes vs. Creighton Bluejays (6 November 2025 at 01:00)
-
 #EXTINF:-1 tvg-id="ppv-13133" tvg-name="Rangers vs. Roma (6 November 2025 at 20:00)" tvg-epgid="13133" tvg-logo="https://api.ppvs.su/assets/thumb/b3a7c48802516bab2060e579a5c61723-thumbnail.jpg",Rangers vs. Roma (6 November 2025 at 20:00)
 
 #EXTINF:-1 tvg-id="ppv-13134" tvg-name="Real Betis vs. Lyon (6 November 2025 at 20:00)" tvg-epgid="13134" tvg-logo="https://api.ppvs.su/assets/thumb/02bb366796abbb82e5752fe49cd64499-thumbnail.jpg",Real Betis vs. Lyon (6 November 2025 at 20:00)
@@ -89,8 +85,6 @@ https://gg.poocloud.in/vancouvercanucks/index.m3u8
 https://gg.poocloud.in/seattlekraken/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13227" tvg-name="Columbus Blue Jackets vs. Calgary Flames (6 November 2025 at 03:30)" tvg-epgid="13227" tvg-logo="https://api.ppvs.su/assets/thumb/1885c199fde177a3637c1fc1e65f760f-thumbnail.jpg",Columbus Blue Jackets vs. Calgary Flames (6 November 2025 at 03:30)
 https://gg.poocloud.in/calgaryflames/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13226" tvg-name="St. Louis Blues vs. Washington Capitals (6 November 2025 at 01:30)" tvg-epgid="13226" tvg-logo="https://api.ppvs.su/assets/thumb/b4378c30f2b9decd8d103b41473b7b03-thumbnail.jpg",St. Louis Blues vs. Washington Capitals (6 November 2025 at 01:30)
-https://gg.poocloud.in/washingtoncapitals/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13164" tvg-name="WWE: Friday Night Smackdown (8 November 2025 at 01:00)" tvg-epgid="13164" tvg-logo="https://api.ppvs.su/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg",WWE: Friday Night Smackdown (8 November 2025 at 01:00)
 
 #EXTINF:-1 tvg-id="ppv-13163" tvg-name="TNA: Impact (7 November 2025 at 01:00)" tvg-epgid="13163" tvg-logo="https://api.ppvs.su/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg",TNA: Impact (7 November 2025 at 01:00)
