@@ -1,4 +1,246 @@
 <tv>
+<channel id="ppv-13329">
+<display-name>Washington Huskies vs. Wisconsin Badgers</display-name>
+</channel>
+<programme
+start="20251108213000 +0000"
+stop="20251109010000 +0000"
+channel="ppv-13329"
+>
+<title lang="en">Washington Huskies vs. Wisconsin Badgers</title>
+<sub-title>American Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>American Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/a54070f277ea5ada4b8bcd02bc45cc79-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13328">
+<display-name>Auburn Tigers vs. Vanderbilt Commodores</display-name>
+</channel>
+<programme
+start="20251108210000 +0000"
+stop="20251109003000 +0000"
+channel="ppv-13328"
+>
+<title lang="en">Auburn Tigers vs. Vanderbilt Commodores</title>
+<sub-title>American Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>American Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/e232c1094f6bfc69fb03cbe581ac4dbd-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13325">
+<display-name>Texas A&amp;M Aggies vs. Missouri Tigers</display-name>
+</channel>
+<programme
+start="20251108203000 +0000"
+stop="20251109000000 +0000"
+channel="ppv-13325"
+>
+<title lang="en">Texas A&amp;M Aggies vs. Missouri Tigers</title>
+<sub-title>American Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>American Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/1bbded2f49be8a46d7ebf430422c3578-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13326">
+<display-name>Oregon Ducks vs. Iowa Hawkeyes</display-name>
+</channel>
+<programme
+start="20251108203000 +0000"
+stop="20251109000000 +0000"
+channel="ppv-13326"
+>
+<title lang="en">Oregon Ducks vs. Iowa Hawkeyes</title>
+<sub-title>American Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>American Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/65b64aa9ee0644220164f214ce79dcad-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13327">
+<display-name>Syracuse Orange vs. Miami Hurricanes</display-name>
+</channel>
+<programme
+start="20251108203000 +0000"
+stop="20251109000000 +0000"
+channel="ppv-13327"
+>
+<title lang="en">Syracuse Orange vs. Miami Hurricanes</title>
+<sub-title>American Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>American Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/5f1b07db7a8aa5d34a6a928fa3bc7fed-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13323">
+<display-name>Ohio State Buckeyes vs. Purdue Boilermakers</display-name>
+</channel>
+<programme
+start="20251108180000 +0000"
+stop="20251108213000 +0000"
+channel="ppv-13323"
+>
+<title lang="en">Ohio State Buckeyes vs. Purdue Boilermakers</title>
+<sub-title>American Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>American Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/56d75dc5110c182c4bf253e7c4a932ad-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13324">
+<display-name>The Citadel Bulldogs vs. Ole Miss Rebels</display-name>
+</channel>
+<programme
+start="20251108180000 +0000"
+stop="20251108213000 +0000"
+channel="ppv-13324"
+>
+<title lang="en">The Citadel Bulldogs vs. Ole Miss Rebels</title>
+<sub-title>American Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>American Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/f30df8d4e16df23ae986ea8b9cc59c7f-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13320">
+<display-name>Indiana Hoosiers vs. Penn State Nittany Lions</display-name>
+</channel>
+<programme
+start="20251108170000 +0000"
+stop="20251108203000 +0000"
+channel="ppv-13320"
+>
+<title lang="en">Indiana Hoosiers vs. Penn State Nittany Lions</title>
+<sub-title>American Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>American Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/83f2dc4572174a8b4ad5c53ad4d4dbce-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13321">
+<display-name>Georgia Bulldogs vs. Mississippi State Bulldogs</display-name>
+</channel>
+<programme
+start="20251108170000 +0000"
+stop="20251108203000 +0000"
+channel="ppv-13321"
+>
+<title lang="en">Georgia Bulldogs vs. Mississippi State Bulldogs</title>
+<sub-title>American Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>American Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/1a0ba998a3486f306d523b411dc51b55-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13322">
+<display-name>BYU Cougars vs. Texas Tech Red Raiders</display-name>
+</channel>
+<programme
+start="20251108170000 +0000"
+stop="20251108203000 +0000"
+channel="ppv-13322"
+>
+<title lang="en">BYU Cougars vs. Texas Tech Red Raiders</title>
+<sub-title>American Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>American Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/0b554946e401035aed44cfcbe5e95102-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13319">
+<display-name>Northwestern Wildcats vs. USC Trojans</display-name>
+</channel>
+<programme
+start="20251108020000 +0000"
+stop="20251108053000 +0000"
+channel="ppv-13319"
+>
+<title lang="en">Northwestern Wildcats vs. USC Trojans</title>
+<sub-title>American Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>American Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/efd4453b39e973a0c604528568894486-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-13244">
 <display-name>Raiders vs. Broncos (with Next Gen Stats)</display-name>
 </channel>
@@ -21,6 +263,28 @@ channel="ppv-13244"
 <icon src="https://api.ppvs.su/assets/thumb/299cb8922c6e4acec9f916581a868cb4-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-13301">
+<display-name>Las Vegas Raiders vs. Denver Broncos</display-name>
+</channel>
+<programme
+start="20251107011500 +0000"
+stop="20251107044500 +0000"
+channel="ppv-13301"
+>
+<title lang="en">Las Vegas Raiders vs. Denver Broncos</title>
+<sub-title>American Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>American Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/949a5d21395579dc9f3b85bb53f179a9-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-13232">
 <display-name>LA Clippers vs. Phoenix Suns</display-name>
 </channel>
@@ -41,6 +305,94 @@ channel="ppv-13232"
 </audio>
 <category>Basketball</category>
 <icon src="https://api.ppvs.su/assets/thumb/b5ce65f7b57feb0188808d4eeb80844b-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13314">
+<display-name>North Florida Ospreys vs. Florida Gators</display-name>
+</channel>
+<programme
+start="20251107010000 +0000"
+stop="20251107043000 +0000"
+channel="ppv-13314"
+>
+<title lang="en">North Florida Ospreys vs. Florida Gators</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://api.ppvs.su/assets/thumb/2a24706ea345b928dffcd42d5bdb682e-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13316">
+<display-name>Grambling Tigers vs. Iowa State Cyclones</display-name>
+</channel>
+<programme
+start="20251107010000 +0000"
+stop="20251107043000 +0000"
+channel="ppv-13316"
+>
+<title lang="en">Grambling Tigers vs. Iowa State Cyclones</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://api.ppvs.su/assets/thumb/885859aa854a49d374fc8cf689d512a3-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13318">
+<display-name>Merrimack Warriors vs. Auburn Tigers</display-name>
+</channel>
+<programme
+start="20251107010000 +0000"
+stop="20251107043000 +0000"
+channel="ppv-13318"
+>
+<title lang="en">Merrimack Warriors vs. Auburn Tigers</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://api.ppvs.su/assets/thumb/3a0539f2eb4ca696c4e17a97b0e8b48a-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13312">
+<display-name>Jackson State Tigers vs. Louisville Cardinals</display-name>
+</channel>
+<programme
+start="20251107000000 +0000"
+stop="20251107033000 +0000"
+channel="ppv-13312"
+>
+<title lang="en">Jackson State Tigers vs. Louisville Cardinals</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://api.ppvs.su/assets/thumb/ae5b52bcf1161ad083dbb74bab7d7a9f-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-13296">
