@@ -813,50 +813,6 @@ channel="ppv-13150"
 <icon src="https://api.ppvs.su/assets/thumb/cd30a5fc9b4620138cc32d2a01ca59ff-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-13228">
-<display-name>Chicago Blackhawks vs. Vancouver Canucks</display-name>
-</channel>
-<programme
-start="20251106040000 +0000"
-stop="20251106070000 +0000"
-channel="ppv-13228"
->
-<title lang="en">Chicago Blackhawks vs. Vancouver Canucks</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://api.ppvs.su/assets/thumb/1c78f0a84eb9eba0a18d9364f4aa912f-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13229">
-<display-name>San Jose Sharks vs. Seattle Kraken</display-name>
-</channel>
-<programme
-start="20251106040000 +0000"
-stop="20251106070000 +0000"
-channel="ppv-13229"
->
-<title lang="en">San Jose Sharks vs. Seattle Kraken</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://api.ppvs.su/assets/thumb/5fa24c8cf2b3b7aa09e1258df71c7d1f-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-13164">
 <display-name>WWE: Friday Night Smackdown</display-name>
 </channel>
