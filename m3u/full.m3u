@@ -1,8 +1,58 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ppv-13243" tvg-name="Raiders vs. Broncos (7 November 2025 at 01:15)" tvg-epgid="13243" tvg-logo="https://api.ppvs.su/assets/thumb/cd210fe26697bd4bd1b8d722690860ae-thumbnail.jpg",Raiders vs. Broncos (7 November 2025 at 01:15)
-https://gg.poocloud.in/denverbroncos/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13244" tvg-name="Raiders vs. Broncos (with Next Gen Stats) (7 November 2025 at 01:15)" tvg-epgid="13244" tvg-logo="https://api.ppvs.su/assets/thumb/299cb8922c6e4acec9f916581a868cb4-thumbnail.jpg",Raiders vs. Broncos (with Next Gen Stats) (7 November 2025 at 01:15)
+https://gg.poocloud.in/primenextgen/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13232" tvg-name="LA Clippers vs. Phoenix Suns (7 November 2025 at 02:00)" tvg-epgid="13232" tvg-logo="https://api.ppvs.su/assets/thumb/b5ce65f7b57feb0188808d4eeb80844b-thumbnail.jpg",LA Clippers vs. Phoenix Suns (7 November 2025 at 02:00)
 https://gg.poocloud.in/nba_phoenixsuns/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13296" tvg-name="AS Monaco vs. RC Lens (8 November 2025 at 20:05)" tvg-epgid="13296" tvg-logo="https://api.ppvs.su/assets/thumb/36cf3eca92e5d53f32e09bac9266f5f8-thumbnail.jpg",AS Monaco vs. RC Lens (8 November 2025 at 20:05)
+
+#EXTINF:-1 tvg-id="ppv-13254" tvg-name="RCD Espanyol de Barcelona vs. Villarreal CF (8 November 2025 at 20:00)" tvg-epgid="13254" tvg-logo="https://api.ppvs.su/assets/thumb/0dafbcac38e4c92da8e98e488a47ad75-thumbnail.jpg",RCD Espanyol de Barcelona vs. Villarreal CF (8 November 2025 at 20:00)
+
+#EXTINF:-1 tvg-id="ppv-13281" tvg-name="Chelsea vs. Wolverhampton Wanderers (8 November 2025 at 20:00)" tvg-epgid="13281" tvg-logo="https://api.ppvs.su/assets/thumb/9ff5b7e0a559e37ede1d5366ae7d971e-thumbnail.jpg",Chelsea vs. Wolverhampton Wanderers (8 November 2025 at 20:00)
+
+#EXTINF:-1 tvg-id="ppv-13273" tvg-name="Parma vs. Milan (8 November 2025 at 19:45)" tvg-epgid="13273" tvg-logo="https://api.ppvs.su/assets/thumb/8596f4d6ad06689f206f8a5df75dc544-thumbnail.jpg",Parma vs. Milan (8 November 2025 at 19:45)
+
+#EXTINF:-1 tvg-id="ppv-13294" tvg-name="Havre AC vs. FC Nantes (8 November 2025 at 18:00)" tvg-epgid="13294" tvg-logo="https://api.ppvs.su/assets/thumb/544f720d1ab82d9a35bd39016c1353ea-thumbnail.jpg",Havre AC vs. FC Nantes (8 November 2025 at 18:00)
+
+#EXTINF:-1 tvg-id="ppv-13253" tvg-name="Atlético de Madrid vs. Levante UD (8 November 2025 at 17:30)" tvg-epgid="13253" tvg-logo="https://api.ppvs.su/assets/thumb/ee646e582c0392e3fb0d6eb257fabfc7-thumbnail.jpg",Atlético de Madrid vs. Levante UD (8 November 2025 at 17:30)
+
+#EXTINF:-1 tvg-id="ppv-13265" tvg-name="Gladbach vs. Cologne (8 November 2025 at 17:30)" tvg-epgid="13265" tvg-logo="https://api.ppvs.su/assets/thumb/01ad6d938d08e84b0d947509035059ef-thumbnail.jpg",Gladbach vs. Cologne (8 November 2025 at 17:30)
+
+#EXTINF:-1 tvg-id="ppv-13286" tvg-name="Sunderland vs. Arsenal (8 November 2025 at 17:30)" tvg-epgid="13286" tvg-logo="https://api.ppvs.su/assets/thumb/e2ab54d455f4ca0d4b830810ecf5d0d4-thumbnail.jpg",Sunderland vs. Arsenal (8 November 2025 at 17:30)
+
+#EXTINF:-1 tvg-id="ppv-13272" tvg-name="Juventus vs. Torino (8 November 2025 at 17:00)" tvg-epgid="13272" tvg-logo="https://api.ppvs.su/assets/thumb/d9c0aec6e5c87dbd1c4b0b82f8993b68-thumbnail.jpg",Juventus vs. Torino (8 November 2025 at 17:00)
+
+#EXTINF:-1 tvg-id="ppv-13295" tvg-name="OM vs. Brest (8 November 2025 at 16:00)" tvg-epgid="13295" tvg-logo="https://api.ppvs.su/assets/thumb/c483856dec124b691c58176e4ce3a4b1-thumbnail.jpg",OM vs. Brest (8 November 2025 at 16:00)
+
+#EXTINF:-1 tvg-id="ppv-13252" tvg-name="Sevilla FC vs. CA Osasuna (8 November 2025 at 15:15)" tvg-epgid="13252" tvg-logo="https://api.ppvs.su/assets/thumb/3ec94612d98080a46b4fb71a9b505cda-thumbnail.jpg",Sevilla FC vs. CA Osasuna (8 November 2025 at 15:15)
+
+#EXTINF:-1 tvg-id="ppv-13283" tvg-name="Everton vs. Fulham (8 November 2025 at 15:00)" tvg-epgid="13283" tvg-logo="https://api.ppvs.su/assets/thumb/ee8d7150172f60feed8dad74eed40d56-thumbnail.jpg",Everton vs. Fulham (8 November 2025 at 15:00)
+
+#EXTINF:-1 tvg-id="ppv-13288" tvg-name="West Ham United vs. Burnley (8 November 2025 at 15:00)" tvg-epgid="13288" tvg-logo="https://api.ppvs.su/assets/thumb/7ddca3c61f36743c39e6be0b09ff272c-thumbnail.jpg",West Ham United vs. Burnley (8 November 2025 at 15:00)
+
+#EXTINF:-1 tvg-id="ppv-13261" tvg-name="Union Berlin vs. Bayern (8 November 2025 at 14:30)" tvg-epgid="13261" tvg-logo="https://api.ppvs.su/assets/thumb/0d7bd594ba9cf546b559870e7666a348-thumbnail.jpg",Union Berlin vs. Bayern (8 November 2025 at 14:30)
+
+#EXTINF:-1 tvg-id="ppv-13262" tvg-name="Leverkusen vs. Heidenheim (8 November 2025 at 14:30)" tvg-epgid="13262" tvg-logo="https://api.ppvs.su/assets/thumb/5c393b16d0ea4329c08d632ec5d0ab3f-thumbnail.jpg",Leverkusen vs. Heidenheim (8 November 2025 at 14:30)
+
+#EXTINF:-1 tvg-id="ppv-13263" tvg-name="Hamburg vs. Dortmund (8 November 2025 at 14:30)" tvg-epgid="13263" tvg-logo="https://api.ppvs.su/assets/thumb/c2db36351d22dcd5c4087f968a3093e8-thumbnail.jpg",Hamburg vs. Dortmund (8 November 2025 at 14:30)
+
+#EXTINF:-1 tvg-id="ppv-13264" tvg-name="Hoffenheim vs. RB Leipzig (8 November 2025 at 14:30)" tvg-epgid="13264" tvg-logo="https://api.ppvs.su/assets/thumb/1e33d2e33fe26e382f17d766e9d63f66-thumbnail.jpg",Hoffenheim vs. RB Leipzig (8 November 2025 at 14:30)
+
+#EXTINF:-1 tvg-id="ppv-13270" tvg-name="Como vs. Cagliari (8 November 2025 at 14:00)" tvg-epgid="13270" tvg-logo="https://api.ppvs.su/assets/thumb/f6489e370cc9f1677346a3860fe700af-thumbnail.jpg",Como vs. Cagliari (8 November 2025 at 14:00)
+
+#EXTINF:-1 tvg-id="ppv-13271" tvg-name="Lecce vs. Hellas Verona (8 November 2025 at 14:00)" tvg-epgid="13271" tvg-logo="https://api.ppvs.su/assets/thumb/62a35730a1e1662d0cca4ed73465d661-thumbnail.jpg",Lecce vs. Hellas Verona (8 November 2025 at 14:00)
+
+#EXTINF:-1 tvg-id="ppv-13251" tvg-name="Girona FC vs. Deportivo Alavés (8 November 2025 at 13:00)" tvg-epgid="13251" tvg-logo="https://api.ppvs.su/assets/thumb/ff542120489afd98b78d9679e4e2890c-thumbnail.jpg",Girona FC vs. Deportivo Alavés (8 November 2025 at 13:00)
+
+#EXTINF:-1 tvg-id="ppv-13287" tvg-name="Tottenham Hotspur vs. Manchester United (8 November 2025 at 12:30)" tvg-epgid="13287" tvg-logo="https://api.ppvs.su/assets/thumb/dcc267d047354572014411f5c4b1266e-thumbnail.jpg",Tottenham Hotspur vs. Manchester United (8 November 2025 at 12:30)
+
+#EXTINF:-1 tvg-id="ppv-13250" tvg-name="Elche CF vs. Real Sociedad (7 November 2025 at 20:00)" tvg-epgid="13250" tvg-logo="https://api.ppvs.su/assets/thumb/dc45bf50a1f965d8193b63f30c803f67-thumbnail.jpg",Elche CF vs. Real Sociedad (7 November 2025 at 20:00)
+
+#EXTINF:-1 tvg-id="ppv-13269" tvg-name="Pisa vs. Cremonese (7 November 2025 at 19:45)" tvg-epgid="13269" tvg-logo="https://api.ppvs.su/assets/thumb/1d553a52f3ed116c7717d354941cc9c4-thumbnail.jpg",Pisa vs. Cremonese (7 November 2025 at 19:45)
+
+#EXTINF:-1 tvg-id="ppv-13299" tvg-name="Paris FC vs. Rennes (7 November 2025 at 19:45)" tvg-epgid="13299" tvg-logo="https://api.ppvs.su/assets/thumb/c814af81abe4c9c376f1ab2805286e6b-thumbnail.jpg",Paris FC vs. Rennes (7 November 2025 at 19:45)
+
+#EXTINF:-1 tvg-id="ppv-13260" tvg-name="Bremen vs. Wolfsburg (7 November 2025 at 19:30)" tvg-epgid="13260" tvg-logo="https://api.ppvs.su/assets/thumb/1e63658470cf0a195ee74d8d75853918-thumbnail.jpg",Bremen vs. Wolfsburg (7 November 2025 at 19:30)
+
 #EXTINF:-1 tvg-id="ppv-12737" tvg-name="CBS Sports Golazo Show (6 November 2025 at 17:44)" tvg-epgid="12737" tvg-logo="https://api.ppvs.su/assets/thumb/7667bfb4147d701265dad618cb466e01-thumbnail.jpg",CBS Sports Golazo Show (6 November 2025 at 17:44)
 
 #EXTINF:-1 tvg-id="ppv-13241" tvg-name="Tampa Bay Lightning vs. Vegas Golden Knights (7 November 2025 at 04:00)" tvg-epgid="13241" tvg-logo="https://api.ppvs.su/assets/thumb/663abe7af21c4be82328a36296036d57-thumbnail.jpg",Tampa Bay Lightning vs. Vegas Golden Knights (7 November 2025 at 04:00)
@@ -23,6 +73,14 @@ https://gg.poocloud.in/buffalosabres/index.m3u8
 https://gg.poocloud.in/newjerseydevils/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13237" tvg-name="Minnesota Wild vs. Carolina Hurricanes (7 November 2025 at 01:00)" tvg-epgid="13237" tvg-logo="https://api.ppvs.su/assets/thumb/85476cf0b324d093db7e196ef576fce1-thumbnail.jpg",Minnesota Wild vs. Carolina Hurricanes (7 November 2025 at 01:00)
 https://gg.poocloud.in/carolinahurricanes/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13248" tvg-name="Brazillian Grand Prix - Qualifying (8 November 2025 at 18:00)" tvg-epgid="13248" tvg-logo="https://api.ppvs.su/assets/thumb/e3c35d1967f4b4b254844d029c52d4d6-thumbnail.jpg",Brazillian Grand Prix - Qualifying (8 November 2025 at 18:00)
+https://gg.poocloud.in/f1/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13247" tvg-name="Brazillian Grand Prix - Sprint (8 November 2025 at 14:00)" tvg-epgid="13247" tvg-logo="https://api.ppvs.su/assets/thumb/e3c35d1967f4b4b254844d029c52d4d6-thumbnail.jpg",Brazillian Grand Prix - Sprint (8 November 2025 at 14:00)
+https://gg.poocloud.in/f1/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13246" tvg-name="Brazillian Grand Prix - Sprint Quali (7 November 2025 at 18:30)" tvg-epgid="13246" tvg-logo="https://api.ppvs.su/assets/thumb/e3c35d1967f4b4b254844d029c52d4d6-thumbnail.jpg",Brazillian Grand Prix - Sprint Quali (7 November 2025 at 18:30)
+https://gg.poocloud.in/f1/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13245" tvg-name="Brazillian Grand Prix - FP1 (7 November 2025 at 14:30)" tvg-epgid="13245" tvg-logo="https://api.ppvs.su/assets/thumb/e3c35d1967f4b4b254844d029c52d4d6-thumbnail.jpg",Brazillian Grand Prix - FP1 (7 November 2025 at 14:30)
+https://gg.poocloud.in/f1/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13164" tvg-name="WWE: Friday Night Smackdown (8 November 2025 at 01:00)" tvg-epgid="13164" tvg-logo="https://api.ppvs.su/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg",WWE: Friday Night Smackdown (8 November 2025 at 01:00)
 
 #EXTINF:-1 tvg-id="ppv-13163" tvg-name="TNA: Impact (7 November 2025 at 01:00)" tvg-epgid="13163" tvg-logo="https://api.ppvs.su/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg",TNA: Impact (7 November 2025 at 01:00)
