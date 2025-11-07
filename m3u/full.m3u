@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ppv-13330" tvg-name="Wake Forest Demon Deacons vs. Virginia Cavaliers (9 November 2025 at 00:00)" tvg-epgid="13330" tvg-logo="https://api.ppvs.su/assets/thumb/db57a5dae2f980ccbedb2539556d01b2-thumbnail.jpg",Wake Forest Demon Deacons vs. Virginia Cavaliers (9 November 2025 at 00:00)
+
+#EXTINF:-1 tvg-id="ppv-13331" tvg-name="California Golden Bears vs. Louisville Cardinals (9 November 2025 at 00:00)" tvg-epgid="13331" tvg-logo="https://api.ppvs.su/assets/thumb/0a1938136cee5375302754b8ac25ba6a-thumbnail.jpg",California Golden Bears vs. Louisville Cardinals (9 November 2025 at 00:00)
+https://gg.poocloud.in/ESPN2/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13329" tvg-name="Washington Huskies vs. Wisconsin Badgers (8 November 2025 at 21:30)" tvg-epgid="13329" tvg-logo="https://api.ppvs.su/assets/thumb/a54070f277ea5ada4b8bcd02bc45cc79-thumbnail.jpg",Washington Huskies vs. Wisconsin Badgers (8 November 2025 at 21:30)
 
 #EXTINF:-1 tvg-id="ppv-13328" tvg-name="Auburn Tigers vs. Vanderbilt Commodores (8 November 2025 at 21:00)" tvg-epgid="13328" tvg-logo="https://api.ppvs.su/assets/thumb/e232c1094f6bfc69fb03cbe581ac4dbd-thumbnail.jpg",Auburn Tigers vs. Vanderbilt Commodores (8 November 2025 at 21:00)
@@ -84,8 +88,6 @@ https://gg.poocloud.in/cbb-1/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13299" tvg-name="Paris FC vs. Rennes (7 November 2025 at 19:45)" tvg-epgid="13299" tvg-logo="https://api.ppvs.su/assets/thumb/c814af81abe4c9c376f1ab2805286e6b-thumbnail.jpg",Paris FC vs. Rennes (7 November 2025 at 19:45)
 
 #EXTINF:-1 tvg-id="ppv-13260" tvg-name="Bremen vs. Wolfsburg (7 November 2025 at 19:30)" tvg-epgid="13260" tvg-logo="https://api.ppvs.su/assets/thumb/1e63658470cf0a195ee74d8d75853918-thumbnail.jpg",Bremen vs. Wolfsburg (7 November 2025 at 19:30)
-
-#EXTINF:-1 tvg-id="ppv-12737" tvg-name="CBS Sports Golazo Show (6 November 2025 at 17:44)" tvg-epgid="12737" tvg-logo="https://api.ppvs.su/assets/thumb/7667bfb4147d701265dad618cb466e01-thumbnail.jpg",CBS Sports Golazo Show (6 November 2025 at 17:44)
 
 #EXTINF:-1 tvg-id="ppv-13241" tvg-name="Tampa Bay Lightning vs. Vegas Golden Knights (7 November 2025 at 04:00)" tvg-epgid="13241" tvg-logo="https://api.ppvs.su/assets/thumb/663abe7af21c4be82328a36296036d57-thumbnail.jpg",Tampa Bay Lightning vs. Vegas Golden Knights (7 November 2025 at 04:00)
 https://gg.poocloud.in/vegasgoldenknights/index.m3u8
