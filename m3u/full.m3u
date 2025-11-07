@@ -29,10 +29,28 @@ https://gg.poocloud.in/SECN+/index.m3u8
 
 #EXTINF:-1 tvg-id="ppv-13319" tvg-name="Northwestern Wildcats vs. USC Trojans (8 November 2025 at 02:00)" tvg-epgid="13319" tvg-logo="https://api.ppvs.su/assets/thumb/efd4453b39e973a0c604528568894486-thumbnail.jpg",Northwestern Wildcats vs. USC Trojans (8 November 2025 at 02:00)
 
-#EXTINF:-1 tvg-id="ppv-13301" tvg-name="Las Vegas Raiders vs. Denver Broncos (7 November 2025 at 01:15)" tvg-epgid="13301" tvg-logo="https://api.ppvs.su/assets/thumb/949a5d21395579dc9f3b85bb53f179a9-thumbnail.jpg",Las Vegas Raiders vs. Denver Broncos (7 November 2025 at 01:15)
-
-#EXTINF:-1 tvg-id="ppv-13232" tvg-name="LA Clippers vs. Phoenix Suns (7 November 2025 at 02:00)" tvg-epgid="13232" tvg-logo="https://api.ppvs.su/assets/thumb/b5ce65f7b57feb0188808d4eeb80844b-thumbnail.jpg",LA Clippers vs. Phoenix Suns (7 November 2025 at 02:00)
-https://gg.poocloud.in/nba_phoenixsuns/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13344" tvg-name="Golden State Warriors vs. Denver Nuggets (West Group C) (8 November 2025 at 03:00)" tvg-epgid="13344" tvg-logo="https://api.ppvs.su/assets/thumb/5beb4dd059ae2b59b975ee9e5042aac3-thumbnail.jpg",Golden State Warriors vs. Denver Nuggets (West Group C) (8 November 2025 at 03:00)
+https://gg.poocloud.in/nba_denvernuggets/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13345" tvg-name="Oklahoma City Thunder vs. Sacramento Kings (West Group A) (8 November 2025 at 03:00)" tvg-epgid="13345" tvg-logo="https://api.ppvs.su/assets/thumb/859262d46aa96b8f627fc3121d07d086-thumbnail.jpg",Oklahoma City Thunder vs. Sacramento Kings (West Group A) (8 November 2025 at 03:00)
+https://gg.poocloud.in/nba_sacramentokings/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13340" tvg-name="Charlotte Hornets vs. Miami Heat (East Group C) (8 November 2025 at 01:00)" tvg-epgid="13340" tvg-logo="https://api.ppvs.su/assets/thumb/1dca98f54f51cdd305bd0a0be61f9418-thumbnail.jpg",Charlotte Hornets vs. Miami Heat (East Group C) (8 November 2025 at 01:00)
+https://gg.poocloud.in/nba_miamiheat/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13341" tvg-name="Dallas Mavericks vs. Memphis Grizzlies (West Group B) (8 November 2025 at 01:00)" tvg-epgid="13341" tvg-logo="https://api.ppvs.su/assets/thumb/053b6c3d595f6f3272a842d13e0daa48-thumbnail.jpg",Dallas Mavericks vs. Memphis Grizzlies (West Group B) (8 November 2025 at 01:00)
+https://gg.poocloud.in/nba_memphisgrizzlies/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13342" tvg-name="Chicago Bulls vs. Milwaukee Bucks (East Group C) (8 November 2025 at 01:00)" tvg-epgid="13342" tvg-logo="https://api.ppvs.su/assets/thumb/a8109dad70ebbfe08a74eb2e1f080945-thumbnail.jpg",Chicago Bulls vs. Milwaukee Bucks (East Group C) (8 November 2025 at 01:00)
+https://gg.poocloud.in/nba_milwaukeebucks/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13343" tvg-name="Utah Jazz vs. Minnesota Timberwolves (West Group A) (8 November 2025 at 01:00)" tvg-epgid="13343" tvg-logo="https://api.ppvs.su/assets/thumb/5a4d3fc8c8374f39891787b830eed6cb-thumbnail.jpg",Utah Jazz vs. Minnesota Timberwolves (West Group A) (8 November 2025 at 01:00)
+https://gg.poocloud.in/nba_minnesotatimberwolves/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13336" tvg-name="Toronto Raptors vs. Atlanta Hawks (East Group A) (8 November 2025 at 00:30)" tvg-epgid="13336" tvg-logo="https://api.ppvs.su/assets/thumb/cb1de41e493ad491e35ecfe734740be7-thumbnail.jpg",Toronto Raptors vs. Atlanta Hawks (East Group A) (8 November 2025 at 00:30)
+https://gg.poocloud.in/nba_atlantahawks/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13338" tvg-name="Detroit Pistons vs. Brooklyn Nets (East Group B) (8 November 2025 at 00:30)" tvg-epgid="13338" tvg-logo="https://api.ppvs.su/assets/thumb/24e339401ed3c5b5e008f6d9a2743c62-thumbnail.jpg",Detroit Pistons vs. Brooklyn Nets (East Group B) (8 November 2025 at 00:30)
+https://gg.poocloud.in/nba_brooklynnets/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13339" tvg-name="Houston Rockets vs. San Antonio Spurs (West Group C) (8 November 2025 at 00:30)" tvg-epgid="13339" tvg-logo="https://api.ppvs.su/assets/thumb/e01a1633714ff24e9ea4c5f01b1551ef-thumbnail.jpg",Houston Rockets vs. San Antonio Spurs (West Group C) (8 November 2025 at 00:30)
+https://gg.poocloud.in/nba_sanantoniospurs/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13334" tvg-name="Boston Celtics vs. Orlando Magic (East Group B) (8 November 2025 at 00:00)" tvg-epgid="13334" tvg-logo="https://api.ppvs.su/assets/thumb/ad675274a30ebdf527ae7e41297174ab-thumbnail.jpg",Boston Celtics vs. Orlando Magic (East Group B) (8 November 2025 at 00:00)
+https://gg.poocloud.in/nba_orlandomagic/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13335" tvg-name="Cleveland Cavaliers vs. Washington Wizards (East Group A) (8 November 2025 at 00:00)" tvg-epgid="13335" tvg-logo="https://api.ppvs.su/assets/thumb/2e80251c32f8b386d17ccc3d4a46baf8-thumbnail.jpg",Cleveland Cavaliers vs. Washington Wizards (East Group A) (8 November 2025 at 00:00)
+https://gg.poocloud.in/nba_washingtonwizards/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13296" tvg-name="AS Monaco vs. RC Lens (8 November 2025 at 20:05)" tvg-epgid="13296" tvg-logo="https://api.ppvs.su/assets/thumb/36cf3eca92e5d53f32e09bac9266f5f8-thumbnail.jpg",AS Monaco vs. RC Lens (8 November 2025 at 20:05)
 
 #EXTINF:-1 tvg-id="ppv-13254" tvg-name="RCD Espanyol de Barcelona vs. Villarreal CF (8 November 2025 at 20:00)" tvg-epgid="13254" tvg-logo="https://api.ppvs.su/assets/thumb/0dafbcac38e4c92da8e98e488a47ad75-thumbnail.jpg",RCD Espanyol de Barcelona vs. Villarreal CF (8 November 2025 at 20:00)
@@ -87,10 +105,6 @@ https://gg.poocloud.in/nba_phoenixsuns/index.m3u8
 https://gg.poocloud.in/vegasgoldenknights/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13242" tvg-name="Florida Panthers vs. Los Angeles Kings (7 November 2025 at 04:00)" tvg-epgid="13242" tvg-logo="https://api.ppvs.su/assets/thumb/b5f7be1d5779c0ca16dec91f1e8b83fb-thumbnail.jpg",Florida Panthers vs. Los Angeles Kings (7 November 2025 at 04:00)
 https://gg.poocloud.in/losangeleskings/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13239" tvg-name="Philadelphia Flyers vs. Nashville Predators (7 November 2025 at 02:00)" tvg-epgid="13239" tvg-logo="https://api.ppvs.su/assets/thumb/50c69b6897eb483e7ea237d1d61ef04a-thumbnail.jpg",Philadelphia Flyers vs. Nashville Predators (7 November 2025 at 02:00)
-https://gg.poocloud.in/nashvillepredators/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13240" tvg-name="Anaheim Ducks vs. Dallas Stars (7 November 2025 at 02:00)" tvg-epgid="13240" tvg-logo="https://api.ppvs.su/assets/thumb/a4edbfad5d69ca62c197f6f3dfc8098a-thumbnail.jpg",Anaheim Ducks vs. Dallas Stars (7 November 2025 at 02:00)
-https://gg.poocloud.in/dallasstars/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13248" tvg-name="Brazillian Grand Prix - Qualifying (8 November 2025 at 18:00)" tvg-epgid="13248" tvg-logo="https://api.ppvs.su/assets/thumb/e3c35d1967f4b4b254844d029c52d4d6-thumbnail.jpg",Brazillian Grand Prix - Qualifying (8 November 2025 at 18:00)
 https://gg.poocloud.in/f1/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13247" tvg-name="Brazillian Grand Prix - Sprint (8 November 2025 at 14:00)" tvg-epgid="13247" tvg-logo="https://api.ppvs.su/assets/thumb/e3c35d1967f4b4b254844d029c52d4d6-thumbnail.jpg",Brazillian Grand Prix - Sprint (8 November 2025 at 14:00)
