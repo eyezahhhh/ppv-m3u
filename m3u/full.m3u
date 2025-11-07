@@ -59,6 +59,16 @@ https://gg.poocloud.in/darts/index.m3u8
 https://gg.poocloud.in/darts/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13346" tvg-name="Grand Slam of Darts - Day 1 Afternoon (8 November 2025 at 13:00)" tvg-epgid="13346" tvg-logo="https://api.ppvs.su/assets/thumb/b09ec5417e8f5831860f91a0a8ea5e2b-thumbnail.jpg",Grand Slam of Darts - Day 1 Afternoon (8 November 2025 at 13:00)
 https://gg.poocloud.in/darts/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13267" tvg-name="Stuttgart vs. Augsburg (9 November 2025 at 16:30)" tvg-epgid="13267" tvg-logo="https://api.ppvs.su/assets/thumb/6e2d157d131f20a65b0b8c502ee325a1-thumbnail.jpg",Stuttgart vs. Augsburg (9 November 2025 at 16:30)
+
+#EXTINF:-1 tvg-id="ppv-13284" tvg-name="Manchester City vs. Liverpool (9 November 2025 at 16:30)" tvg-epgid="13284" tvg-logo="https://api.ppvs.su/assets/thumb/4f1b8e8fc7961c0a15811bc87893d13e-thumbnail.jpg",Manchester City vs. Liverpool (9 November 2025 at 16:30)
+
+#EXTINF:-1 tvg-id="ppv-13289" tvg-name="Angers SCO vs. AJ Auxerre (9 November 2025 at 16:15)" tvg-epgid="13289" tvg-logo="https://api.ppvs.su/assets/thumb/ca05450cc15b820627b6320aab679a9f-thumbnail.jpg",Angers SCO vs. AJ Auxerre (9 November 2025 at 16:15)
+
+#EXTINF:-1 tvg-id="ppv-13292" tvg-name="FC Metz vs. OGC Nice (9 November 2025 at 16:15)" tvg-epgid="13292" tvg-logo="https://api.ppvs.su/assets/thumb/90f0e8745878fc5a2475498467113cde-thumbnail.jpg",FC Metz vs. OGC Nice (9 November 2025 at 16:15)
+
+#EXTINF:-1 tvg-id="ppv-13293" tvg-name="Strasbourg vs. LOSC (9 November 2025 at 16:15)" tvg-epgid="13293" tvg-logo="https://api.ppvs.su/assets/thumb/10c2ef911ee55fcf00ad70a977e2ccdc-thumbnail.jpg",Strasbourg vs. LOSC (9 November 2025 at 16:15)
+
 #EXTINF:-1 tvg-id="ppv-13256" tvg-name="Rayo Vallecano vs. Real Madrid (9 November 2025 at 15:15)" tvg-epgid="13256" tvg-logo="https://api.ppvs.su/assets/thumb/507770aa44a9eaaaebbbe8db296d9ee0-thumbnail.jpg",Rayo Vallecano vs. Real Madrid (9 November 2025 at 15:15)
 
 #EXTINF:-1 tvg-id="ppv-13266" tvg-name="Freiburg vs. St. Pauli (9 November 2025 at 14:30)" tvg-epgid="13266" tvg-logo="https://api.ppvs.su/assets/thumb/487a9764d5853e93999c0b698debff1f-thumbnail.jpg",Freiburg vs. St. Pauli (9 November 2025 at 14:30)
@@ -131,13 +141,19 @@ https://gg.poocloud.in/darts/index.m3u8
 
 #EXTINF:-1 tvg-id="ppv-13260" tvg-name="Bremen vs. Wolfsburg (7 November 2025 at 19:30)" tvg-epgid="13260" tvg-logo="https://api.ppvs.su/assets/thumb/1e63658470cf0a195ee74d8d75853918-thumbnail.jpg",Bremen vs. Wolfsburg (7 November 2025 at 19:30)
 
+#EXTINF:-1 tvg-id="ppv-13361" tvg-name="Winnipeg Jets vs. San Jose Sharks (8 November 2025 at 04:00)" tvg-epgid="13361" tvg-logo="https://api.ppvs.su/assets/thumb/5f5bfd7f6eb5bdb64bfd6a95864bf84d-thumbnail.jpg",Winnipeg Jets vs. San Jose Sharks (8 November 2025 at 04:00)
+https://gg.poocloud.in/sanjosesharks/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13360" tvg-name="Chicago Blackhawks vs. Calgary Flames (8 November 2025 at 03:00)" tvg-epgid="13360" tvg-logo="https://api.ppvs.su/assets/thumb/f0e2b09b2a0f0a9a92df93625fefa849-thumbnail.jpg",Chicago Blackhawks vs. Calgary Flames (8 November 2025 at 03:00)
+https://gg.poocloud.in/calgaryflames/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13358" tvg-name="New York Rangers vs. Detroit Red Wings (8 November 2025 at 01:00)" tvg-epgid="13358" tvg-logo="https://api.ppvs.su/assets/thumb/d7bf3117162483b5d4b92951652930fe-thumbnail.jpg",New York Rangers vs. Detroit Red Wings (8 November 2025 at 01:00)
+https://gg.poocloud.in/detroitredwings/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13359" tvg-name="Minnesota Wild vs. New York Islanders (8 November 2025 at 01:00)" tvg-epgid="13359" tvg-logo="https://api.ppvs.su/assets/thumb/6533a881d7a6c29605e5b3a677ff4b7c-thumbnail.jpg",Minnesota Wild vs. New York Islanders (8 November 2025 at 01:00)
+https://gg.poocloud.in/newyorkislanders/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13248" tvg-name="Brazillian Grand Prix - Qualifying (8 November 2025 at 18:00)" tvg-epgid="13248" tvg-logo="https://api.ppvs.su/assets/thumb/e3c35d1967f4b4b254844d029c52d4d6-thumbnail.jpg",Brazillian Grand Prix - Qualifying (8 November 2025 at 18:00)
 https://gg.poocloud.in/f1/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13247" tvg-name="Brazillian Grand Prix - Sprint (8 November 2025 at 14:00)" tvg-epgid="13247" tvg-logo="https://api.ppvs.su/assets/thumb/e3c35d1967f4b4b254844d029c52d4d6-thumbnail.jpg",Brazillian Grand Prix - Sprint (8 November 2025 at 14:00)
 https://gg.poocloud.in/f1/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13246" tvg-name="Brazillian Grand Prix - Sprint Quali (7 November 2025 at 18:30)" tvg-epgid="13246" tvg-logo="https://api.ppvs.su/assets/thumb/e3c35d1967f4b4b254844d029c52d4d6-thumbnail.jpg",Brazillian Grand Prix - Sprint Quali (7 November 2025 at 18:30)
-https://gg.poocloud.in/f1/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13245" tvg-name="Brazillian Grand Prix - FP1 (7 November 2025 at 14:30)" tvg-epgid="13245" tvg-logo="https://api.ppvs.su/assets/thumb/e3c35d1967f4b4b254844d029c52d4d6-thumbnail.jpg",Brazillian Grand Prix - FP1 (7 November 2025 at 14:30)
 https://gg.poocloud.in/f1/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13165" tvg-name="AEW: Saturday Night Collision (9 November 2025 at 01:00)" tvg-epgid="13165" tvg-logo="https://api.ppvs.su/assets/thumb/a03b6ea5eeaee85a3b44d1d66030ef7a-thumbnail.jpg",AEW: Saturday Night Collision (9 November 2025 at 01:00)
 
