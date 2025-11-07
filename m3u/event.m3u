@@ -29,18 +29,10 @@ https://gg.poocloud.in/SECN+/index.m3u8
 
 #EXTINF:-1 tvg-id="ppv-13319" tvg-name="Northwestern Wildcats vs. USC Trojans (8 November 2025 at 02:00)" tvg-epgid="13319" tvg-logo="https://api.ppvs.su/assets/thumb/efd4453b39e973a0c604528568894486-thumbnail.jpg",Northwestern Wildcats vs. USC Trojans (8 November 2025 at 02:00)
 
-#EXTINF:-1 tvg-id="ppv-13244" tvg-name="Raiders vs. Broncos (with Next Gen Stats) (7 November 2025 at 01:15)" tvg-epgid="13244" tvg-logo="https://api.ppvs.su/assets/thumb/299cb8922c6e4acec9f916581a868cb4-thumbnail.jpg",Raiders vs. Broncos (with Next Gen Stats) (7 November 2025 at 01:15)
-https://gg.poocloud.in/primenextgen/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13301" tvg-name="Las Vegas Raiders vs. Denver Broncos (7 November 2025 at 01:15)" tvg-epgid="13301" tvg-logo="https://api.ppvs.su/assets/thumb/949a5d21395579dc9f3b85bb53f179a9-thumbnail.jpg",Las Vegas Raiders vs. Denver Broncos (7 November 2025 at 01:15)
 
 #EXTINF:-1 tvg-id="ppv-13232" tvg-name="LA Clippers vs. Phoenix Suns (7 November 2025 at 02:00)" tvg-epgid="13232" tvg-logo="https://api.ppvs.su/assets/thumb/b5ce65f7b57feb0188808d4eeb80844b-thumbnail.jpg",LA Clippers vs. Phoenix Suns (7 November 2025 at 02:00)
 https://gg.poocloud.in/nba_phoenixsuns/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13314" tvg-name="North Florida Ospreys vs. Florida Gators (7 November 2025 at 01:00)" tvg-epgid="13314" tvg-logo="https://api.ppvs.su/assets/thumb/2a24706ea345b928dffcd42d5bdb682e-thumbnail.jpg",North Florida Ospreys vs. Florida Gators (7 November 2025 at 01:00)
-https://gg.poocloud.in/cbb-2/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13316" tvg-name="Grambling Tigers vs. Iowa State Cyclones (7 November 2025 at 01:00)" tvg-epgid="13316" tvg-logo="https://api.ppvs.su/assets/thumb/885859aa854a49d374fc8cf689d512a3-thumbnail.jpg",Grambling Tigers vs. Iowa State Cyclones (7 November 2025 at 01:00)
-https://gg.poocloud.in/cbb-3/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13318" tvg-name="Merrimack Warriors vs. Auburn Tigers (7 November 2025 at 01:00)" tvg-epgid="13318" tvg-logo="https://api.ppvs.su/assets/thumb/3a0539f2eb4ca696c4e17a97b0e8b48a-thumbnail.jpg",Merrimack Warriors vs. Auburn Tigers (7 November 2025 at 01:00)
-https://gg.poocloud.in/cbb-4/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13296" tvg-name="AS Monaco vs. RC Lens (8 November 2025 at 20:05)" tvg-epgid="13296" tvg-logo="https://api.ppvs.su/assets/thumb/36cf3eca92e5d53f32e09bac9266f5f8-thumbnail.jpg",AS Monaco vs. RC Lens (8 November 2025 at 20:05)
 
 #EXTINF:-1 tvg-id="ppv-13254" tvg-name="RCD Espanyol de Barcelona vs. Villarreal CF (8 November 2025 at 20:00)" tvg-epgid="13254" tvg-logo="https://api.ppvs.su/assets/thumb/0dafbcac38e4c92da8e98e488a47ad75-thumbnail.jpg",RCD Espanyol de Barcelona vs. Villarreal CF (8 November 2025 at 20:00)
@@ -99,8 +91,6 @@ https://gg.poocloud.in/losangeleskings/index.m3u8
 https://gg.poocloud.in/nashvillepredators/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13240" tvg-name="Anaheim Ducks vs. Dallas Stars (7 November 2025 at 02:00)" tvg-epgid="13240" tvg-logo="https://api.ppvs.su/assets/thumb/a4edbfad5d69ca62c197f6f3dfc8098a-thumbnail.jpg",Anaheim Ducks vs. Dallas Stars (7 November 2025 at 02:00)
 https://gg.poocloud.in/dallasstars/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13238" tvg-name="Washington Capitals vs. Pittsburgh Penguins (7 November 2025 at 01:30)" tvg-epgid="13238" tvg-logo="https://api.ppvs.su/assets/thumb/51c2bdafec0c498ca2e3a12ab3771080-thumbnail.jpg",Washington Capitals vs. Pittsburgh Penguins (7 November 2025 at 01:30)
-https://gg.poocloud.in/pittsburghpenguins/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13248" tvg-name="Brazillian Grand Prix - Qualifying (8 November 2025 at 18:00)" tvg-epgid="13248" tvg-logo="https://api.ppvs.su/assets/thumb/e3c35d1967f4b4b254844d029c52d4d6-thumbnail.jpg",Brazillian Grand Prix - Qualifying (8 November 2025 at 18:00)
 https://gg.poocloud.in/f1/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13247" tvg-name="Brazillian Grand Prix - Sprint (8 November 2025 at 14:00)" tvg-epgid="13247" tvg-logo="https://api.ppvs.su/assets/thumb/e3c35d1967f4b4b254844d029c52d4d6-thumbnail.jpg",Brazillian Grand Prix - Sprint (8 November 2025 at 14:00)
