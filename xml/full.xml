@@ -659,6 +659,28 @@ channel="ppv-13346"
 <icon src="https://api.ppvs.su/assets/thumb/b09ec5417e8f5831860f91a0a8ea5e2b-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-13277">
+<display-name>Roma vs. Udinese</display-name>
+</channel>
+<programme
+start="20251109170000 +0000"
+stop="20251109193000 +0000"
+channel="ppv-13277"
+>
+<title lang="en">Roma vs. Udinese</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/ec16edeb507cf26092722c068094556d-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-13267">
 <display-name>Stuttgart vs. Augsburg</display-name>
 </channel>
@@ -1647,6 +1669,28 @@ channel="ppv-13359"
 </audio>
 <category>Ice Hockey</category>
 <icon src="https://api.ppvs.su/assets/thumb/6533a881d7a6c29605e5b3a677ff4b7c-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13249">
+<display-name>Brazillian Grand Prix - Race</display-name>
+</channel>
+<programme
+start="20251109170000 +0000"
+stop="20251109200000 +0000"
+channel="ppv-13249"
+>
+<title lang="en">Brazillian Grand Prix - Race</title>
+<sub-title>Motorsports</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Motorsports</category>
+<icon src="https://api.ppvs.su/assets/thumb/e3c35d1967f4b4b254844d029c52d4d6-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-13248">
