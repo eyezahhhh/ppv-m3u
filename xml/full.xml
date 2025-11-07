@@ -835,6 +835,72 @@ channel="ppv-13346"
 <icon src="https://api.ppvs.su/assets/thumb/b09ec5417e8f5831860f91a0a8ea5e2b-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-13259">
+<display-name>Celta vs. FC Barcelona</display-name>
+</channel>
+<programme
+start="20251109200000 +0000"
+stop="20251109223000 +0000"
+channel="ppv-13259"
+>
+<title lang="en">Celta vs. FC Barcelona</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/88e76de50839c0667864c0477e54fe0e-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13278">
+<display-name>Inter vs. Lazio</display-name>
+</channel>
+<programme
+start="20251109194500 +0000"
+stop="20251109221500 +0000"
+channel="ppv-13278"
+>
+<title lang="en">Inter vs. Lazio</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/7fba4b5218484a052b7e045b0916f801-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13291">
+<display-name>OL vs. PSG</display-name>
+</channel>
+<programme
+start="20251109194500 +0000"
+stop="20251109221500 +0000"
+channel="ppv-13291"
+>
+<title lang="en">OL vs. PSG</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/e1bd574d3ff5c00317e93632bc7aef3a-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-13268">
 <display-name>Frankfurt vs. Mainz</display-name>
 </channel>
