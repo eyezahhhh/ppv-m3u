@@ -119,6 +119,8 @@ https://gg.poocloud.in/f1/index.m3u8
 https://gg.poocloud.in/f1/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13245" tvg-name="Brazillian Grand Prix - FP1 (7 November 2025 at 14:30)" tvg-epgid="13245" tvg-logo="https://api.ppvs.su/assets/thumb/e3c35d1967f4b4b254844d029c52d4d6-thumbnail.jpg",Brazillian Grand Prix - FP1 (7 November 2025 at 14:30)
 https://gg.poocloud.in/f1/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13165" tvg-name="AEW: Saturday Night Collision (9 November 2025 at 01:00)" tvg-epgid="13165" tvg-logo="https://api.ppvs.su/assets/thumb/a03b6ea5eeaee85a3b44d1d66030ef7a-thumbnail.jpg",AEW: Saturday Night Collision (9 November 2025 at 01:00)
+
 #EXTINF:-1 tvg-id="ppv-13164" tvg-name="WWE: Friday Night Smackdown (8 November 2025 at 01:00)" tvg-epgid="13164" tvg-logo="https://api.ppvs.su/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg",WWE: Friday Night Smackdown (8 November 2025 at 01:00)
 
 #EXTINF:-1 tvg-id="ppv-13163" tvg-name="TNA: Impact (7 November 2025 at 01:00)" tvg-epgid="13163" tvg-logo="https://api.ppvs.su/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg",TNA: Impact (7 November 2025 at 01:00)
