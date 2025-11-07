@@ -1121,94 +1121,6 @@ channel="ppv-13238"
 <icon src="https://api.ppvs.su/assets/thumb/51c2bdafec0c498ca2e3a12ab3771080-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-13234">
-<display-name>Ottawa Senators vs. Boston Bruins</display-name>
-</channel>
-<programme
-start="20251107010000 +0000"
-stop="20251107040000 +0000"
-channel="ppv-13234"
->
-<title lang="en">Ottawa Senators vs. Boston Bruins</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://api.ppvs.su/assets/thumb/985ce545dd0279983ae26cbb74b0bcaf-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13235">
-<display-name>St. Louis Blues vs. Buffalo Sabres</display-name>
-</channel>
-<programme
-start="20251107010000 +0000"
-stop="20251107040000 +0000"
-channel="ppv-13235"
->
-<title lang="en">St. Louis Blues vs. Buffalo Sabres</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://api.ppvs.su/assets/thumb/77dcae31b7769f2638f45186ca27ba63-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13236">
-<display-name>Montreal Canadiens vs. New Jersey Devils</display-name>
-</channel>
-<programme
-start="20251107010000 +0000"
-stop="20251107040000 +0000"
-channel="ppv-13236"
->
-<title lang="en">Montreal Canadiens vs. New Jersey Devils</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://api.ppvs.su/assets/thumb/00af302417eaafd292d5ea96010eecbb-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13237">
-<display-name>Minnesota Wild vs. Carolina Hurricanes</display-name>
-</channel>
-<programme
-start="20251107010000 +0000"
-stop="20251107040000 +0000"
-channel="ppv-13237"
->
-<title lang="en">Minnesota Wild vs. Carolina Hurricanes</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://api.ppvs.su/assets/thumb/85476cf0b324d093db7e196ef576fce1-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-13248">
 <display-name>Brazillian Grand Prix - Qualifying</display-name>
 </channel>
@@ -1339,27 +1251,5 @@ channel="ppv-13164"
 </audio>
 <category>Wrestling</category>
 <icon src="https://api.ppvs.su/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13163">
-<display-name>TNA: Impact</display-name>
-</channel>
-<programme
-start="20251107010000 +0000"
-stop="20251107040000 +0000"
-channel="ppv-13163"
->
-<title lang="en">TNA: Impact</title>
-<sub-title>Wrestling</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Wrestling</category>
-<icon src="https://api.ppvs.su/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg" />
 </programme>
 </tv>
