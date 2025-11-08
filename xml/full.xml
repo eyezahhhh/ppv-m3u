@@ -725,28 +725,6 @@ channel="ppv-13348"
 <icon src="https://api.ppvs.su/assets/thumb/b09ec5417e8f5831860f91a0a8ea5e2b-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-13347">
-<display-name>Grand Slam of Darts - Day 1 Evening</display-name>
-</channel>
-<programme
-start="20251108190000 +0000"
-stop="20251108230000 +0000"
-channel="ppv-13347"
->
-<title lang="en">Grand Slam of Darts - Day 1 Evening</title>
-<sub-title>Darts</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Darts</category>
-<icon src="https://api.ppvs.su/assets/thumb/b09ec5417e8f5831860f91a0a8ea5e2b-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-13259">
 <display-name>Celta vs. FC Barcelona</display-name>
 </channel>
@@ -1251,28 +1229,6 @@ channel="ppv-13274"
 </audio>
 <category>Football</category>
 <icon src="https://api.ppvs.su/assets/thumb/0f1db6fabc686c689b3752761a5fd791-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13296">
-<display-name>AS Monaco vs. RC Lens</display-name>
-</channel>
-<programme
-start="20251108200500 +0000"
-stop="20251108223500 +0000"
-channel="ppv-13296"
->
-<title lang="en">AS Monaco vs. RC Lens</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/36cf3eca92e5d53f32e09bac9266f5f8-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-13395">
