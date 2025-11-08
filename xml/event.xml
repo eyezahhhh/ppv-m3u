@@ -1,4 +1,26 @@
 <tv>
+<channel id="ppv-13315">
+<display-name>Pittsburgh Steelers vs. Los Angeles Chargers</display-name>
+</channel>
+<programme
+start="20251110012000 +0000"
+stop="20251110045000 +0000"
+channel="ppv-13315"
+>
+<title lang="en">Pittsburgh Steelers vs. Los Angeles Chargers</title>
+<sub-title>American Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>American Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/92250be8f0cb0dd976c8e27d89be47e7-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-13311">
 <display-name>Los Angeles Rams vs. San Francisco 49ers</display-name>
 </channel>
