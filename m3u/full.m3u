@@ -67,8 +67,6 @@ https://gg.poocloud.in/nba_sanantoniospurs/index.m3u8
 https://gg.poocloud.in/nba_philadelphia76ers/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13371" tvg-name="Dallas Mavericks vs. Washington Wizards (9 November 2025 at 00:00)" tvg-epgid="13371" tvg-logo="https://api.ppvs.su/assets/thumb/d647a35eefcfdc7c5c16c83736f11483-thumbnail.jpg",Dallas Mavericks vs. Washington Wizards (9 November 2025 at 00:00)
 https://gg.poocloud.in/nba_washingtonwizards/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13370" tvg-name="Pepperdine Waves vs. UCLA Bruins (8 November 2025 at 03:30)" tvg-epgid="13370" tvg-logo="https://api.ppvs.su/assets/thumb/aef5b024f271e3167bbc1ee7f2a09b46-thumbnail.jpg",Pepperdine Waves vs. UCLA Bruins (8 November 2025 at 03:30)
-
 #EXTINF:-1 tvg-id="ppv-13349" tvg-name="Grand Slam of Darts - Day 2 Evening (9 November 2025 at 19:30)" tvg-epgid="13349" tvg-logo="https://api.ppvs.su/assets/thumb/b09ec5417e8f5831860f91a0a8ea5e2b-thumbnail.jpg",Grand Slam of Darts - Day 2 Evening (9 November 2025 at 19:30)
 https://gg.poocloud.in/darts/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13348" tvg-name="Grand Slam of Darts - Day 2 Afternoon (9 November 2025 at 13:00)" tvg-epgid="13348" tvg-logo="https://api.ppvs.su/assets/thumb/b09ec5417e8f5831860f91a0a8ea5e2b-thumbnail.jpg",Grand Slam of Darts - Day 2 Afternoon (9 November 2025 at 13:00)
@@ -165,8 +163,6 @@ https://gg.poocloud.in/darts/index.m3u8
 
 #EXTINF:-1 tvg-id="ppv-13287" tvg-name="Tottenham Hotspur vs. Manchester United (8 November 2025 at 12:30)" tvg-epgid="13287" tvg-logo="https://api.ppvs.su/assets/thumb/dcc267d047354572014411f5c4b1266e-thumbnail.jpg",Tottenham Hotspur vs. Manchester United (8 November 2025 at 12:30)
 
-#EXTINF:-1 tvg-id="ppv-13361" tvg-name="Winnipeg Jets vs. San Jose Sharks (8 November 2025 at 04:00)" tvg-epgid="13361" tvg-logo="https://api.ppvs.su/assets/thumb/5f5bfd7f6eb5bdb64bfd6a95864bf84d-thumbnail.jpg",Winnipeg Jets vs. San Jose Sharks (8 November 2025 at 04:00)
-https://gg.poocloud.in/sanjosesharks/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13249" tvg-name="Brazillian Grand Prix - Race (9 November 2025 at 17:00)" tvg-epgid="13249" tvg-logo="https://api.ppvs.su/assets/thumb/e3c35d1967f4b4b254844d029c52d4d6-thumbnail.jpg",Brazillian Grand Prix - Race (9 November 2025 at 17:00)
 https://gg.poocloud.in/f1/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13248" tvg-name="Brazillian Grand Prix - Qualifying (8 November 2025 at 18:00)" tvg-epgid="13248" tvg-logo="https://api.ppvs.su/assets/thumb/e3c35d1967f4b4b254844d029c52d4d6-thumbnail.jpg",Brazillian Grand Prix - Qualifying (8 November 2025 at 18:00)
