@@ -1473,72 +1473,6 @@ channel="ppv-13294"
 <icon src="https://api.ppvs.su/assets/thumb/544f720d1ab82d9a35bd39016c1353ea-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-13253">
-<display-name>Atlético de Madrid vs. Levante UD</display-name>
-</channel>
-<programme
-start="20251108173000 +0000"
-stop="20251108200000 +0000"
-channel="ppv-13253"
->
-<title lang="en">Atlético de Madrid vs. Levante UD</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/ee646e582c0392e3fb0d6eb257fabfc7-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13265">
-<display-name>Gladbach vs. Cologne</display-name>
-</channel>
-<programme
-start="20251108173000 +0000"
-stop="20251108200000 +0000"
-channel="ppv-13265"
->
-<title lang="en">Gladbach vs. Cologne</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/01ad6d938d08e84b0d947509035059ef-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13286">
-<display-name>Sunderland vs. Arsenal</display-name>
-</channel>
-<programme
-start="20251108173000 +0000"
-stop="20251108200000 +0000"
-channel="ppv-13286"
->
-<title lang="en">Sunderland vs. Arsenal</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/e2ab54d455f4ca0d4b830810ecf5d0d4-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-13395">
 <display-name>Colorado Avalanche vs. Edmonton Oilers</display-name>
 </channel>
@@ -1834,28 +1768,6 @@ stop="20251109200000 +0000"
 channel="ppv-13249"
 >
 <title lang="en">Brazillian Grand Prix - Race</title>
-<sub-title>Motorsports</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Motorsports</category>
-<icon src="https://api.ppvs.su/assets/thumb/e3c35d1967f4b4b254844d029c52d4d6-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13248">
-<display-name>Brazillian Grand Prix - Qualifying</display-name>
-</channel>
-<programme
-start="20251108180000 +0000"
-stop="20251108200000 +0000"
-channel="ppv-13248"
->
-<title lang="en">Brazillian Grand Prix - Qualifying</title>
 <sub-title>Motorsports</sub-title>
 <video>
 <present>yes</present>

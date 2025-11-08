@@ -133,12 +133,6 @@ https://gg.poocloud.in/darts/index.m3u8
 
 #EXTINF:-1 tvg-id="ppv-13294" tvg-name="Havre AC vs. FC Nantes (8 November 2025 at 18:00)" tvg-epgid="13294" tvg-logo="https://api.ppvs.su/assets/thumb/544f720d1ab82d9a35bd39016c1353ea-thumbnail.jpg",Havre AC vs. FC Nantes (8 November 2025 at 18:00)
 
-#EXTINF:-1 tvg-id="ppv-13253" tvg-name="Atlético de Madrid vs. Levante UD (8 November 2025 at 17:30)" tvg-epgid="13253" tvg-logo="https://api.ppvs.su/assets/thumb/ee646e582c0392e3fb0d6eb257fabfc7-thumbnail.jpg",Atlético de Madrid vs. Levante UD (8 November 2025 at 17:30)
-
-#EXTINF:-1 tvg-id="ppv-13265" tvg-name="Gladbach vs. Cologne (8 November 2025 at 17:30)" tvg-epgid="13265" tvg-logo="https://api.ppvs.su/assets/thumb/01ad6d938d08e84b0d947509035059ef-thumbnail.jpg",Gladbach vs. Cologne (8 November 2025 at 17:30)
-
-#EXTINF:-1 tvg-id="ppv-13286" tvg-name="Sunderland vs. Arsenal (8 November 2025 at 17:30)" tvg-epgid="13286" tvg-logo="https://api.ppvs.su/assets/thumb/e2ab54d455f4ca0d4b830810ecf5d0d4-thumbnail.jpg",Sunderland vs. Arsenal (8 November 2025 at 17:30)
-
 #EXTINF:-1 tvg-id="ppv-13395" tvg-name="Colorado Avalanche vs. Edmonton Oilers (9 November 2025 at 04:00)" tvg-epgid="13395" tvg-logo="https://api.ppvs.su/assets/thumb/a86af6a069b37b241c40af7a1767749b-thumbnail.jpg",Colorado Avalanche vs. Edmonton Oilers (9 November 2025 at 04:00)
 https://gg.poocloud.in/edmontonoilers/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13396" tvg-name="Columbus Blue Jackets vs. Vancouver Canucks (9 November 2025 at 04:00)" tvg-epgid="13396" tvg-logo="https://api.ppvs.su/assets/thumb/c8220684a7eb172aff7d5a75ea314abc-thumbnail.jpg",Columbus Blue Jackets vs. Vancouver Canucks (9 November 2025 at 04:00)
@@ -166,8 +160,6 @@ https://gg.poocloud.in/philadelphiaflyers/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13386" tvg-name="Pittsburgh Penguins vs. New Jersey Devils (8 November 2025 at 18:30)" tvg-epgid="13386" tvg-logo="https://api.ppvs.su/assets/thumb/6ce75950acae386156b0e8ce04add36f-thumbnail.jpg",Pittsburgh Penguins vs. New Jersey Devils (8 November 2025 at 18:30)
 https://gg.poocloud.in/newjerseydevils/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13249" tvg-name="Brazillian Grand Prix - Race (9 November 2025 at 17:00)" tvg-epgid="13249" tvg-logo="https://api.ppvs.su/assets/thumb/e3c35d1967f4b4b254844d029c52d4d6-thumbnail.jpg",Brazillian Grand Prix - Race (9 November 2025 at 17:00)
-https://gg.poocloud.in/f1/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13248" tvg-name="Brazillian Grand Prix - Qualifying (8 November 2025 at 18:00)" tvg-epgid="13248" tvg-logo="https://api.ppvs.su/assets/thumb/e3c35d1967f4b4b254844d029c52d4d6-thumbnail.jpg",Brazillian Grand Prix - Qualifying (8 November 2025 at 18:00)
 https://gg.poocloud.in/f1/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13165" tvg-name="AEW: Saturday Night Collision (9 November 2025 at 01:00)" tvg-epgid="13165" tvg-logo="https://api.ppvs.su/assets/thumb/a03b6ea5eeaee85a3b44d1d66030ef7a-thumbnail.jpg",AEW: Saturday Night Collision (9 November 2025 at 01:00)
 
