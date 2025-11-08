@@ -147,6 +147,8 @@ https://gg.poocloud.in/darts/index.m3u8
 
 #EXTINF:-1 tvg-id="ppv-13288" tvg-name="West Ham United vs. Burnley (8 November 2025 at 15:00)" tvg-epgid="13288" tvg-logo="https://api.ppvs.su/assets/thumb/7ddca3c61f36743c39e6be0b09ff272c-thumbnail.jpg",West Ham United vs. Burnley (8 November 2025 at 15:00)
 
+#EXTINF:-1 tvg-id="ppv-12822" tvg-name="Goal Arena (8 November 2025 at 14:30)" tvg-epgid="12822" tvg-logo="https://api.ppvs.su/assets/thumb/c035a04a4d84afedca7706c23aabf3e2-thumbnail.jpg",Goal Arena (8 November 2025 at 14:30)
+https://gg.poocloud.in/bundesliga_goalarena/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13261" tvg-name="Union Berlin vs. Bayern (8 November 2025 at 14:30)" tvg-epgid="13261" tvg-logo="https://api.ppvs.su/assets/thumb/0d7bd594ba9cf546b559870e7666a348-thumbnail.jpg",Union Berlin vs. Bayern (8 November 2025 at 14:30)
 
 #EXTINF:-1 tvg-id="ppv-13262" tvg-name="Leverkusen vs. Heidenheim (8 November 2025 at 14:30)" tvg-epgid="13262" tvg-logo="https://api.ppvs.su/assets/thumb/5c393b16d0ea4329c08d632ec5d0ab3f-thumbnail.jpg",Leverkusen vs. Heidenheim (8 November 2025 at 14:30)
