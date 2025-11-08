@@ -747,6 +747,28 @@ channel="ppv-13371"
 <icon src="https://api.ppvs.su/assets/thumb/d647a35eefcfdc7c5c16c83736f11483-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-13381">
+<display-name>UFC Fight Night: Bonfim vs. Brown</display-name>
+</channel>
+<programme
+start="20251108210000 +0000"
+stop="20251109050000 +0000"
+channel="ppv-13381"
+>
+<title lang="en">UFC Fight Night: Bonfim vs. Brown</title>
+<sub-title>Combat Sports</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Combat Sports</category>
+<icon src="https://api.ppvs.su/assets/thumb/6a4cdf0873030b0a6ca8f37ed6667142-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-13349">
 <display-name>Grand Slam of Darts - Day 2 Evening</display-name>
 </channel>
@@ -1801,28 +1823,6 @@ channel="ppv-13251"
 </audio>
 <category>Football</category>
 <icon src="https://api.ppvs.su/assets/thumb/ff542120489afd98b78d9679e4e2890c-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13287">
-<display-name>Tottenham Hotspur vs. Manchester United</display-name>
-</channel>
-<programme
-start="20251108123000 +0000"
-stop="20251108150000 +0000"
-channel="ppv-13287"
->
-<title lang="en">Tottenham Hotspur vs. Manchester United</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/dcc267d047354572014411f5c4b1266e-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-13249">

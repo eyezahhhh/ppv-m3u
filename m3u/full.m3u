@@ -67,6 +67,8 @@ https://gg.poocloud.in/nba_sanantoniospurs/index.m3u8
 https://gg.poocloud.in/nba_philadelphia76ers/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13371" tvg-name="Dallas Mavericks vs. Washington Wizards (9 November 2025 at 00:00)" tvg-epgid="13371" tvg-logo="https://api.ppvs.su/assets/thumb/d647a35eefcfdc7c5c16c83736f11483-thumbnail.jpg",Dallas Mavericks vs. Washington Wizards (9 November 2025 at 00:00)
 https://gg.poocloud.in/nba_washingtonwizards/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13381" tvg-name="UFC Fight Night: Bonfim vs. Brown (8 November 2025 at 21:00)" tvg-epgid="13381" tvg-logo="https://api.ppvs.su/assets/thumb/6a4cdf0873030b0a6ca8f37ed6667142-thumbnail.jpg",UFC Fight Night: Bonfim vs. Brown (8 November 2025 at 21:00)
+https://gg.poocloud.in/ufc/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13349" tvg-name="Grand Slam of Darts - Day 2 Evening (9 November 2025 at 19:30)" tvg-epgid="13349" tvg-logo="https://api.ppvs.su/assets/thumb/b09ec5417e8f5831860f91a0a8ea5e2b-thumbnail.jpg",Grand Slam of Darts - Day 2 Evening (9 November 2025 at 19:30)
 https://gg.poocloud.in/darts/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13348" tvg-name="Grand Slam of Darts - Day 2 Afternoon (9 November 2025 at 13:00)" tvg-epgid="13348" tvg-logo="https://api.ppvs.su/assets/thumb/b09ec5417e8f5831860f91a0a8ea5e2b-thumbnail.jpg",Grand Slam of Darts - Day 2 Afternoon (9 November 2025 at 13:00)
@@ -162,8 +164,6 @@ https://gg.poocloud.in/bundesliga_goalarena/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13271" tvg-name="Lecce vs. Hellas Verona (8 November 2025 at 14:00)" tvg-epgid="13271" tvg-logo="https://api.ppvs.su/assets/thumb/62a35730a1e1662d0cca4ed73465d661-thumbnail.jpg",Lecce vs. Hellas Verona (8 November 2025 at 14:00)
 
 #EXTINF:-1 tvg-id="ppv-13251" tvg-name="Girona FC vs. Deportivo Alavés (8 November 2025 at 13:00)" tvg-epgid="13251" tvg-logo="https://api.ppvs.su/assets/thumb/ff542120489afd98b78d9679e4e2890c-thumbnail.jpg",Girona FC vs. Deportivo Alavés (8 November 2025 at 13:00)
-
-#EXTINF:-1 tvg-id="ppv-13287" tvg-name="Tottenham Hotspur vs. Manchester United (8 November 2025 at 12:30)" tvg-epgid="13287" tvg-logo="https://api.ppvs.su/assets/thumb/dcc267d047354572014411f5c4b1266e-thumbnail.jpg",Tottenham Hotspur vs. Manchester United (8 November 2025 at 12:30)
 
 #EXTINF:-1 tvg-id="ppv-13249" tvg-name="Brazillian Grand Prix - Race (9 November 2025 at 17:00)" tvg-epgid="13249" tvg-logo="https://api.ppvs.su/assets/thumb/e3c35d1967f4b4b254844d029c52d4d6-thumbnail.jpg",Brazillian Grand Prix - Race (9 November 2025 at 17:00)
 https://gg.poocloud.in/f1/index.m3u8
