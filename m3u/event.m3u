@@ -33,7 +33,7 @@
 https://gg.poocloud.in/ESPN2/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13329" tvg-name="Washington Huskies vs. Wisconsin Badgers (8 November 2025 at 21:30)" tvg-epgid="13329" tvg-logo="https://api.ppvs.su/assets/thumb/a54070f277ea5ada4b8bcd02bc45cc79-thumbnail.jpg",Washington Huskies vs. Wisconsin Badgers (8 November 2025 at 21:30)
 
-#EXTINF:-1 tvg-id="ppv-13328" tvg-name="Auburn Tigers vs. Vanderbilt Commodores (8 November 2025 at 21:00)" tvg-epgid="13328" tvg-logo="https://api.ppvs.su/assets/thumb/e232c1094f6bfc69fb03cbe581ac4dbd-thumbnail.jpg",Auburn Tigers vs. Vanderbilt Commodores (8 November 2025 at 21:00)
+#EXTINF:-1 tvg-id="ppv-13328" tvg-name="Auburn Tigers vs. Vanderbilt Commodores (8 November 2025 at 21:00)" tvg-epgid="13328" tvg-logo="https://api.ppvs.su/assets/thumb/81e1be8271bd2834945c820222f9db49-thumbnail.jpg",Auburn Tigers vs. Vanderbilt Commodores (8 November 2025 at 21:00)
 
 #EXTINF:-1 tvg-id="ppv-13325" tvg-name="Texas A&M Aggies vs. Missouri Tigers (8 November 2025 at 20:30)" tvg-epgid="13325" tvg-logo="https://api.ppvs.su/assets/thumb/1bbded2f49be8a46d7ebf430422c3578-thumbnail.jpg",Texas A&M Aggies vs. Missouri Tigers (8 November 2025 at 20:30)
 
@@ -43,8 +43,8 @@ https://gg.poocloud.in/ESPN2/index.m3u8
 
 #EXTINF:-1 tvg-id="ppv-13323" tvg-name="Ohio State Buckeyes vs. Purdue Boilermakers (8 November 2025 at 18:00)" tvg-epgid="13323" tvg-logo="https://api.ppvs.su/assets/thumb/56d75dc5110c182c4bf253e7c4a932ad-thumbnail.jpg",Ohio State Buckeyes vs. Purdue Boilermakers (8 November 2025 at 18:00)
 
-#EXTINF:-1 tvg-id="ppv-13324" tvg-name="The Citadel Bulldogs vs. Ole Miss Rebels (8 November 2025 at 18:00)" tvg-epgid="13324" tvg-logo="https://api.ppvs.su/assets/thumb/f30df8d4e16df23ae986ea8b9cc59c7f-thumbnail.jpg",The Citadel Bulldogs vs. Ole Miss Rebels (8 November 2025 at 18:00)
-https://gg.poocloud.in/SECN+/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13324" tvg-name="The Citadel Bulldogs vs. Ole Miss Rebels (8 November 2025 at 18:00)" tvg-epgid="13324" tvg-logo="https://api.ppvs.su/assets/thumb/c8c67fda8d44f6816fd3058f5646caa5-thumbnail.jpg",The Citadel Bulldogs vs. Ole Miss Rebels (8 November 2025 at 18:00)
+https://gg.poocloud.in/cfb-1/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13320" tvg-name="Indiana Hoosiers vs. Penn State Nittany Lions (8 November 2025 at 17:00)" tvg-epgid="13320" tvg-logo="https://api.ppvs.su/assets/thumb/83f2dc4572174a8b4ad5c53ad4d4dbce-thumbnail.jpg",Indiana Hoosiers vs. Penn State Nittany Lions (8 November 2025 at 17:00)
 
 #EXTINF:-1 tvg-id="ppv-13321" tvg-name="Georgia Bulldogs vs. Mississippi State Bulldogs (8 November 2025 at 17:00)" tvg-epgid="13321" tvg-logo="https://api.ppvs.su/assets/thumb/1a0ba998a3486f306d523b411dc51b55-thumbnail.jpg",Georgia Bulldogs vs. Mississippi State Bulldogs (8 November 2025 at 17:00)
@@ -166,8 +166,6 @@ https://gg.poocloud.in/bundesliga_goalarena/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13249" tvg-name="Brazillian Grand Prix - Race (9 November 2025 at 17:00)" tvg-epgid="13249" tvg-logo="https://api.ppvs.su/assets/thumb/e3c35d1967f4b4b254844d029c52d4d6-thumbnail.jpg",Brazillian Grand Prix - Race (9 November 2025 at 17:00)
 https://gg.poocloud.in/f1/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13248" tvg-name="Brazillian Grand Prix - Qualifying (8 November 2025 at 18:00)" tvg-epgid="13248" tvg-logo="https://api.ppvs.su/assets/thumb/e3c35d1967f4b4b254844d029c52d4d6-thumbnail.jpg",Brazillian Grand Prix - Qualifying (8 November 2025 at 18:00)
-https://gg.poocloud.in/f1/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13247" tvg-name="Brazillian Grand Prix - Sprint (8 November 2025 at 14:00)" tvg-epgid="13247" tvg-logo="https://api.ppvs.su/assets/thumb/e3c35d1967f4b4b254844d029c52d4d6-thumbnail.jpg",Brazillian Grand Prix - Sprint (8 November 2025 at 14:00)
 https://gg.poocloud.in/f1/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13165" tvg-name="AEW: Saturday Night Collision (9 November 2025 at 01:00)" tvg-epgid="13165" tvg-logo="https://api.ppvs.su/assets/thumb/a03b6ea5eeaee85a3b44d1d66030ef7a-thumbnail.jpg",AEW: Saturday Night Collision (9 November 2025 at 01:00)
 
