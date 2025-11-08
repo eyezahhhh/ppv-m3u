@@ -505,72 +505,6 @@ channel="ppv-13324"
 <icon src="https://api.ppvs.su/assets/thumb/c8c67fda8d44f6816fd3058f5646caa5-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-13320">
-<display-name>Indiana Hoosiers vs. Penn State Nittany Lions</display-name>
-</channel>
-<programme
-start="20251108170000 +0000"
-stop="20251108203000 +0000"
-channel="ppv-13320"
->
-<title lang="en">Indiana Hoosiers vs. Penn State Nittany Lions</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/83f2dc4572174a8b4ad5c53ad4d4dbce-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13321">
-<display-name>Georgia Bulldogs vs. Mississippi State Bulldogs</display-name>
-</channel>
-<programme
-start="20251108170000 +0000"
-stop="20251108203000 +0000"
-channel="ppv-13321"
->
-<title lang="en">Georgia Bulldogs vs. Mississippi State Bulldogs</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/1a0ba998a3486f306d523b411dc51b55-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13322">
-<display-name>BYU Cougars vs. Texas Tech Red Raiders</display-name>
-</channel>
-<programme
-start="20251108170000 +0000"
-stop="20251108203000 +0000"
-channel="ppv-13322"
->
-<title lang="en">BYU Cougars vs. Texas Tech Red Raiders</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/0b554946e401035aed44cfcbe5e95102-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-13379">
 <display-name>Phoenix Suns vs. LA Clippers</display-name>
 </channel>
@@ -1449,28 +1383,6 @@ channel="ppv-13273"
 </audio>
 <category>Football</category>
 <icon src="https://api.ppvs.su/assets/thumb/8596f4d6ad06689f206f8a5df75dc544-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13294">
-<display-name>Havre AC vs. FC Nantes</display-name>
-</channel>
-<programme
-start="20251108180000 +0000"
-stop="20251108203000 +0000"
-channel="ppv-13294"
->
-<title lang="en">Havre AC vs. FC Nantes</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/544f720d1ab82d9a35bd39016c1353ea-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-13395">

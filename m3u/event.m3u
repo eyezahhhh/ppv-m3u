@@ -45,12 +45,6 @@ https://gg.poocloud.in/ESPN2/index.m3u8
 
 #EXTINF:-1 tvg-id="ppv-13324" tvg-name="The Citadel Bulldogs vs. Ole Miss Rebels (8 November 2025 at 18:00)" tvg-epgid="13324" tvg-logo="https://api.ppvs.su/assets/thumb/c8c67fda8d44f6816fd3058f5646caa5-thumbnail.jpg",The Citadel Bulldogs vs. Ole Miss Rebels (8 November 2025 at 18:00)
 https://gg.poocloud.in/cfb-1/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13320" tvg-name="Indiana Hoosiers vs. Penn State Nittany Lions (8 November 2025 at 17:00)" tvg-epgid="13320" tvg-logo="https://api.ppvs.su/assets/thumb/83f2dc4572174a8b4ad5c53ad4d4dbce-thumbnail.jpg",Indiana Hoosiers vs. Penn State Nittany Lions (8 November 2025 at 17:00)
-
-#EXTINF:-1 tvg-id="ppv-13321" tvg-name="Georgia Bulldogs vs. Mississippi State Bulldogs (8 November 2025 at 17:00)" tvg-epgid="13321" tvg-logo="https://api.ppvs.su/assets/thumb/1a0ba998a3486f306d523b411dc51b55-thumbnail.jpg",Georgia Bulldogs vs. Mississippi State Bulldogs (8 November 2025 at 17:00)
-
-#EXTINF:-1 tvg-id="ppv-13322" tvg-name="BYU Cougars vs. Texas Tech Red Raiders (8 November 2025 at 17:00)" tvg-epgid="13322" tvg-logo="https://api.ppvs.su/assets/thumb/0b554946e401035aed44cfcbe5e95102-thumbnail.jpg",BYU Cougars vs. Texas Tech Red Raiders (8 November 2025 at 17:00)
-
 #EXTINF:-1 tvg-id="ppv-13379" tvg-name="Phoenix Suns vs. LA Clippers (9 November 2025 at 03:30)" tvg-epgid="13379" tvg-logo="https://api.ppvs.su/assets/thumb/422885f01d7b92847befdad10a3b4152-thumbnail.jpg",Phoenix Suns vs. LA Clippers (9 November 2025 at 03:30)
 https://gg.poocloud.in/nba_laclippers/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13378" tvg-name="Indiana Pacers vs. Denver Nuggets (9 November 2025 at 02:00)" tvg-epgid="13378" tvg-logo="https://api.ppvs.su/assets/thumb/918b17119387fc2b8c869048bf41c974-thumbnail.jpg",Indiana Pacers vs. Denver Nuggets (9 November 2025 at 02:00)
@@ -130,8 +124,6 @@ https://gg.poocloud.in/darts/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13281" tvg-name="Chelsea vs. Wolverhampton Wanderers (8 November 2025 at 20:00)" tvg-epgid="13281" tvg-logo="https://api.ppvs.su/assets/thumb/9ff5b7e0a559e37ede1d5366ae7d971e-thumbnail.jpg",Chelsea vs. Wolverhampton Wanderers (8 November 2025 at 20:00)
 
 #EXTINF:-1 tvg-id="ppv-13273" tvg-name="Parma vs. Milan (8 November 2025 at 19:45)" tvg-epgid="13273" tvg-logo="https://api.ppvs.su/assets/thumb/8596f4d6ad06689f206f8a5df75dc544-thumbnail.jpg",Parma vs. Milan (8 November 2025 at 19:45)
-
-#EXTINF:-1 tvg-id="ppv-13294" tvg-name="Havre AC vs. FC Nantes (8 November 2025 at 18:00)" tvg-epgid="13294" tvg-logo="https://api.ppvs.su/assets/thumb/544f720d1ab82d9a35bd39016c1353ea-thumbnail.jpg",Havre AC vs. FC Nantes (8 November 2025 at 18:00)
 
 #EXTINF:-1 tvg-id="ppv-13395" tvg-name="Colorado Avalanche vs. Edmonton Oilers (9 November 2025 at 04:00)" tvg-epgid="13395" tvg-logo="https://api.ppvs.su/assets/thumb/a86af6a069b37b241c40af7a1767749b-thumbnail.jpg",Colorado Avalanche vs. Edmonton Oilers (9 November 2025 at 04:00)
 https://gg.poocloud.in/edmontonoilers/index.m3u8
