@@ -1561,28 +1561,6 @@ channel="ppv-13295"
 <icon src="https://api.ppvs.su/assets/thumb/c483856dec124b691c58176e4ce3a4b1-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-13252">
-<display-name>Sevilla FC vs. CA Osasuna</display-name>
-</channel>
-<programme
-start="20251108151500 +0000"
-stop="20251108174500 +0000"
-channel="ppv-13252"
->
-<title lang="en">Sevilla FC vs. CA Osasuna</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/3ec94612d98080a46b4fb71a9b505cda-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-13395">
 <display-name>Colorado Avalanche vs. Edmonton Oilers</display-name>
 </channel>
