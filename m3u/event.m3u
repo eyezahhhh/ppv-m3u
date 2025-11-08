@@ -69,6 +69,8 @@ https://gg.poocloud.in/nba_philadelphia76ers/index.m3u8
 https://gg.poocloud.in/nba_washingtonwizards/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13381" tvg-name="UFC Fight Night: Bonfim vs. Brown (8 November 2025 at 21:00)" tvg-epgid="13381" tvg-logo="https://api.ppvs.su/assets/thumb/6a4cdf0873030b0a6ca8f37ed6667142-thumbnail.jpg",UFC Fight Night: Bonfim vs. Brown (8 November 2025 at 21:00)
 https://gg.poocloud.in/ufc/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13350" tvg-name="Grand Slam of Darts - Day 3 (10 November 2025 at 19:00)" tvg-epgid="13350" tvg-logo="https://api.ppvs.su/assets/thumb/b09ec5417e8f5831860f91a0a8ea5e2b-thumbnail.jpg",Grand Slam of Darts - Day 3 (10 November 2025 at 19:00)
+https://gg.poocloud.in/darts/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13349" tvg-name="Grand Slam of Darts - Day 2 Evening (9 November 2025 at 19:30)" tvg-epgid="13349" tvg-logo="https://api.ppvs.su/assets/thumb/b09ec5417e8f5831860f91a0a8ea5e2b-thumbnail.jpg",Grand Slam of Darts - Day 2 Evening (9 November 2025 at 19:30)
 https://gg.poocloud.in/darts/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13348" tvg-name="Grand Slam of Darts - Day 2 Afternoon (9 November 2025 at 13:00)" tvg-epgid="13348" tvg-logo="https://api.ppvs.su/assets/thumb/b09ec5417e8f5831860f91a0a8ea5e2b-thumbnail.jpg",Grand Slam of Darts - Day 2 Afternoon (9 November 2025 at 13:00)
