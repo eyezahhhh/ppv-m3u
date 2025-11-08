@@ -53,6 +53,22 @@ https://gg.poocloud.in/SECN+/index.m3u8
 
 #EXTINF:-1 tvg-id="ppv-13319" tvg-name="Northwestern Wildcats vs. USC Trojans (8 November 2025 at 02:00)" tvg-epgid="13319" tvg-logo="https://api.ppvs.su/assets/thumb/efd4453b39e973a0c604528568894486-thumbnail.jpg",Northwestern Wildcats vs. USC Trojans (8 November 2025 at 02:00)
 
+#EXTINF:-1 tvg-id="ppv-13379" tvg-name="Phoenix Suns vs. LA Clippers (9 November 2025 at 03:30)" tvg-epgid="13379" tvg-logo="https://api.ppvs.su/assets/thumb/422885f01d7b92847befdad10a3b4152-thumbnail.jpg",Phoenix Suns vs. LA Clippers (9 November 2025 at 03:30)
+https://gg.poocloud.in/nba_laclippers/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13378" tvg-name="Indiana Pacers vs. Denver Nuggets (9 November 2025 at 02:00)" tvg-epgid="13378" tvg-logo="https://api.ppvs.su/assets/thumb/918b17119387fc2b8c869048bf41c974-thumbnail.jpg",Indiana Pacers vs. Denver Nuggets (9 November 2025 at 02:00)
+https://gg.poocloud.in/nba_denvernuggets/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13374" tvg-name="Los Angeles Lakers vs. Atlanta Hawks (9 November 2025 at 01:00)" tvg-epgid="13374" tvg-logo="https://api.ppvs.su/assets/thumb/309c51a683c63ca231753b842af82ac6-thumbnail.jpg",Los Angeles Lakers vs. Atlanta Hawks (9 November 2025 at 01:00)
+https://gg.poocloud.in/nba_atlantahawks/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13375" tvg-name="Chicago Bulls vs. Cleveland Cavaliers (9 November 2025 at 01:00)" tvg-epgid="13375" tvg-logo="https://api.ppvs.su/assets/thumb/89904832fbb4e251af8817d2511e68a4-thumbnail.jpg",Chicago Bulls vs. Cleveland Cavaliers (9 November 2025 at 01:00)
+https://gg.poocloud.in/nba_clevelandcavaliers/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13376" tvg-name="Portland Trail Blazers vs. Miami Heat (9 November 2025 at 01:00)" tvg-epgid="13376" tvg-logo="https://api.ppvs.su/assets/thumb/ff99ade1d34e732b3030e7547d78bf8b-thumbnail.jpg",Portland Trail Blazers vs. Miami Heat (9 November 2025 at 01:00)
+https://gg.poocloud.in/nba_miamiheat/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13377" tvg-name="New Orleans Pelicans vs. San Antonio Spurs (9 November 2025 at 01:00)" tvg-epgid="13377" tvg-logo="https://api.ppvs.su/assets/thumb/f58fae5522ec3b2d9f06dc8402c28447-thumbnail.jpg",New Orleans Pelicans vs. San Antonio Spurs (9 November 2025 at 01:00)
+https://gg.poocloud.in/nba_sanantoniospurs/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13372" tvg-name="Toronto Raptors vs. Philadelphia 76ers (9 November 2025 at 00:30)" tvg-epgid="13372" tvg-logo="https://api.ppvs.su/assets/thumb/7d96b5a19995419c953bee3b5372cd4a-thumbnail.jpg",Toronto Raptors vs. Philadelphia 76ers (9 November 2025 at 00:30)
+https://gg.poocloud.in/nba_philadelphia76ers/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13371" tvg-name="Dallas Mavericks vs. Washington Wizards (9 November 2025 at 00:00)" tvg-epgid="13371" tvg-logo="https://api.ppvs.su/assets/thumb/d647a35eefcfdc7c5c16c83736f11483-thumbnail.jpg",Dallas Mavericks vs. Washington Wizards (9 November 2025 at 00:00)
+https://gg.poocloud.in/nba_washingtonwizards/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13370" tvg-name="Pepperdine Waves vs. UCLA Bruins (8 November 2025 at 03:30)" tvg-epgid="13370" tvg-logo="https://api.ppvs.su/assets/thumb/aef5b024f271e3167bbc1ee7f2a09b46-thumbnail.jpg",Pepperdine Waves vs. UCLA Bruins (8 November 2025 at 03:30)
 
 #EXTINF:-1 tvg-id="ppv-13344" tvg-name="Golden State Warriors vs. Denver Nuggets (West Group C) (8 November 2025 at 03:00)" tvg-epgid="13344" tvg-logo="https://api.ppvs.su/assets/thumb/5beb4dd059ae2b59b975ee9e5042aac3-thumbnail.jpg",Golden State Warriors vs. Denver Nuggets (West Group C) (8 November 2025 at 03:00)
@@ -60,10 +76,6 @@ https://gg.poocloud.in/nba_denvernuggets/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13345" tvg-name="Oklahoma City Thunder vs. Sacramento Kings (West Group A) (8 November 2025 at 03:00)" tvg-epgid="13345" tvg-logo="https://api.ppvs.su/assets/thumb/859262d46aa96b8f627fc3121d07d086-thumbnail.jpg",Oklahoma City Thunder vs. Sacramento Kings (West Group A) (8 November 2025 at 03:00)
 https://gg.poocloud.in/nba_sacramentokings/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13369" tvg-name="Utah Tech Trailblazers vs. Arizona Wildcats (8 November 2025 at 02:00)" tvg-epgid="13369" tvg-logo="https://api.ppvs.su/assets/thumb/5c3a16eb3926617edc3be07ca0de589b-thumbnail.jpg",Utah Tech Trailblazers vs. Arizona Wildcats (8 November 2025 at 02:00)
-
-#EXTINF:-1 tvg-id="ppv-13367" tvg-name="Florida Gulf Coast Eagles vs. Illinois Fighting Illini (8 November 2025 at 01:30)" tvg-epgid="13367" tvg-logo="https://api.ppvs.su/assets/thumb/605d7348e730f6f91696604e3a82f925-thumbnail.jpg",Florida Gulf Coast Eagles vs. Illinois Fighting Illini (8 November 2025 at 01:30)
-
-#EXTINF:-1 tvg-id="ppv-13368" tvg-name="Northern Illinois Huskies vs. Wisconsin Badgers (8 November 2025 at 01:30)" tvg-epgid="13368" tvg-logo="https://api.ppvs.su/assets/thumb/512936b1b029ff07b29aa61a0af5ba13-thumbnail.jpg",Northern Illinois Huskies vs. Wisconsin Badgers (8 November 2025 at 01:30)
 
 #EXTINF:-1 tvg-id="ppv-13349" tvg-name="Grand Slam of Darts - Day 2 Evening (9 November 2025 at 19:30)" tvg-epgid="13349" tvg-logo="https://api.ppvs.su/assets/thumb/b09ec5417e8f5831860f91a0a8ea5e2b-thumbnail.jpg",Grand Slam of Darts - Day 2 Evening (9 November 2025 at 19:30)
 https://gg.poocloud.in/darts/index.m3u8

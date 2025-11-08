@@ -593,6 +593,182 @@ channel="ppv-13319"
 <icon src="https://api.ppvs.su/assets/thumb/efd4453b39e973a0c604528568894486-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-13379">
+<display-name>Phoenix Suns vs. LA Clippers</display-name>
+</channel>
+<programme
+start="20251109033000 +0000"
+stop="20251109061800 +0000"
+channel="ppv-13379"
+>
+<title lang="en">Phoenix Suns vs. LA Clippers</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://api.ppvs.su/assets/thumb/422885f01d7b92847befdad10a3b4152-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13378">
+<display-name>Indiana Pacers vs. Denver Nuggets</display-name>
+</channel>
+<programme
+start="20251109020000 +0000"
+stop="20251109044800 +0000"
+channel="ppv-13378"
+>
+<title lang="en">Indiana Pacers vs. Denver Nuggets</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://api.ppvs.su/assets/thumb/918b17119387fc2b8c869048bf41c974-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13374">
+<display-name>Los Angeles Lakers vs. Atlanta Hawks</display-name>
+</channel>
+<programme
+start="20251109010000 +0000"
+stop="20251109034800 +0000"
+channel="ppv-13374"
+>
+<title lang="en">Los Angeles Lakers vs. Atlanta Hawks</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://api.ppvs.su/assets/thumb/309c51a683c63ca231753b842af82ac6-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13375">
+<display-name>Chicago Bulls vs. Cleveland Cavaliers</display-name>
+</channel>
+<programme
+start="20251109010000 +0000"
+stop="20251109034800 +0000"
+channel="ppv-13375"
+>
+<title lang="en">Chicago Bulls vs. Cleveland Cavaliers</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://api.ppvs.su/assets/thumb/89904832fbb4e251af8817d2511e68a4-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13376">
+<display-name>Portland Trail Blazers vs. Miami Heat</display-name>
+</channel>
+<programme
+start="20251109010000 +0000"
+stop="20251109034800 +0000"
+channel="ppv-13376"
+>
+<title lang="en">Portland Trail Blazers vs. Miami Heat</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://api.ppvs.su/assets/thumb/ff99ade1d34e732b3030e7547d78bf8b-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13377">
+<display-name>New Orleans Pelicans vs. San Antonio Spurs</display-name>
+</channel>
+<programme
+start="20251109010000 +0000"
+stop="20251109034800 +0000"
+channel="ppv-13377"
+>
+<title lang="en">New Orleans Pelicans vs. San Antonio Spurs</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://api.ppvs.su/assets/thumb/f58fae5522ec3b2d9f06dc8402c28447-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13372">
+<display-name>Toronto Raptors vs. Philadelphia 76ers</display-name>
+</channel>
+<programme
+start="20251109003000 +0000"
+stop="20251109031800 +0000"
+channel="ppv-13372"
+>
+<title lang="en">Toronto Raptors vs. Philadelphia 76ers</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://api.ppvs.su/assets/thumb/7d96b5a19995419c953bee3b5372cd4a-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13371">
+<display-name>Dallas Mavericks vs. Washington Wizards</display-name>
+</channel>
+<programme
+start="20251109000000 +0000"
+stop="20251109024800 +0000"
+channel="ppv-13371"
+>
+<title lang="en">Dallas Mavericks vs. Washington Wizards</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://api.ppvs.su/assets/thumb/d647a35eefcfdc7c5c16c83736f11483-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-13370">
 <display-name>Pepperdine Waves vs. UCLA Bruins</display-name>
 </channel>
@@ -679,50 +855,6 @@ channel="ppv-13369"
 </audio>
 <category>Basketball</category>
 <icon src="https://api.ppvs.su/assets/thumb/5c3a16eb3926617edc3be07ca0de589b-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13367">
-<display-name>Florida Gulf Coast Eagles vs. Illinois Fighting Illini</display-name>
-</channel>
-<programme
-start="20251108013000 +0000"
-stop="20251108050000 +0000"
-channel="ppv-13367"
->
-<title lang="en">Florida Gulf Coast Eagles vs. Illinois Fighting Illini</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://api.ppvs.su/assets/thumb/605d7348e730f6f91696604e3a82f925-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13368">
-<display-name>Northern Illinois Huskies vs. Wisconsin Badgers</display-name>
-</channel>
-<programme
-start="20251108013000 +0000"
-stop="20251108050000 +0000"
-channel="ppv-13368"
->
-<title lang="en">Northern Illinois Huskies vs. Wisconsin Badgers</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://api.ppvs.su/assets/thumb/512936b1b029ff07b29aa61a0af5ba13-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-13349">
