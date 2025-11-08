@@ -75,8 +75,6 @@ https://gg.poocloud.in/darts/index.m3u8
 https://gg.poocloud.in/darts/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13347" tvg-name="Grand Slam of Darts - Day 1 Evening (8 November 2025 at 19:00)" tvg-epgid="13347" tvg-logo="https://api.ppvs.su/assets/thumb/b09ec5417e8f5831860f91a0a8ea5e2b-thumbnail.jpg",Grand Slam of Darts - Day 1 Evening (8 November 2025 at 19:00)
 https://gg.poocloud.in/darts/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13346" tvg-name="Grand Slam of Darts - Day 1 Afternoon (8 November 2025 at 13:00)" tvg-epgid="13346" tvg-logo="https://api.ppvs.su/assets/thumb/b09ec5417e8f5831860f91a0a8ea5e2b-thumbnail.jpg",Grand Slam of Darts - Day 1 Afternoon (8 November 2025 at 13:00)
-https://gg.poocloud.in/darts/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13259" tvg-name="Celta vs. FC Barcelona (9 November 2025 at 20:00)" tvg-epgid="13259" tvg-logo="https://api.ppvs.su/assets/thumb/88e76de50839c0667864c0477e54fe0e-thumbnail.jpg",Celta vs. FC Barcelona (9 November 2025 at 20:00)
 
 #EXTINF:-1 tvg-id="ppv-13278" tvg-name="Inter vs. Lazio (9 November 2025 at 19:45)" tvg-epgid="13278" tvg-logo="https://api.ppvs.su/assets/thumb/7fba4b5218484a052b7e045b0916f801-thumbnail.jpg",Inter vs. Lazio (9 November 2025 at 19:45)
@@ -151,14 +149,6 @@ https://gg.poocloud.in/darts/index.m3u8
 
 #EXTINF:-1 tvg-id="ppv-12822" tvg-name="Goal Arena (8 November 2025 at 14:30)" tvg-epgid="12822" tvg-logo="https://api.ppvs.su/assets/thumb/c035a04a4d84afedca7706c23aabf3e2-thumbnail.jpg",Goal Arena (8 November 2025 at 14:30)
 https://gg.poocloud.in/bundesliga_goalarena/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13261" tvg-name="Union Berlin vs. Bayern (8 November 2025 at 14:30)" tvg-epgid="13261" tvg-logo="https://api.ppvs.su/assets/thumb/0d7bd594ba9cf546b559870e7666a348-thumbnail.jpg",Union Berlin vs. Bayern (8 November 2025 at 14:30)
-
-#EXTINF:-1 tvg-id="ppv-13262" tvg-name="Leverkusen vs. Heidenheim (8 November 2025 at 14:30)" tvg-epgid="13262" tvg-logo="https://api.ppvs.su/assets/thumb/5c393b16d0ea4329c08d632ec5d0ab3f-thumbnail.jpg",Leverkusen vs. Heidenheim (8 November 2025 at 14:30)
-
-#EXTINF:-1 tvg-id="ppv-13263" tvg-name="Hamburg vs. Dortmund (8 November 2025 at 14:30)" tvg-epgid="13263" tvg-logo="https://api.ppvs.su/assets/thumb/c2db36351d22dcd5c4087f968a3093e8-thumbnail.jpg",Hamburg vs. Dortmund (8 November 2025 at 14:30)
-
-#EXTINF:-1 tvg-id="ppv-13264" tvg-name="Hoffenheim vs. RB Leipzig (8 November 2025 at 14:30)" tvg-epgid="13264" tvg-logo="https://api.ppvs.su/assets/thumb/1e33d2e33fe26e382f17d766e9d63f66-thumbnail.jpg",Hoffenheim vs. RB Leipzig (8 November 2025 at 14:30)
-
 #EXTINF:-1 tvg-id="ppv-13395" tvg-name="Colorado Avalanche vs. Edmonton Oilers (9 November 2025 at 04:00)" tvg-epgid="13395" tvg-logo="https://api.ppvs.su/assets/thumb/a86af6a069b37b241c40af7a1767749b-thumbnail.jpg",Colorado Avalanche vs. Edmonton Oilers (9 November 2025 at 04:00)
 https://gg.poocloud.in/edmontonoilers/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13396" tvg-name="Columbus Blue Jackets vs. Vancouver Canucks (9 November 2025 at 04:00)" tvg-epgid="13396" tvg-logo="https://api.ppvs.su/assets/thumb/c8220684a7eb172aff7d5a75ea314abc-thumbnail.jpg",Columbus Blue Jackets vs. Vancouver Canucks (9 November 2025 at 04:00)
