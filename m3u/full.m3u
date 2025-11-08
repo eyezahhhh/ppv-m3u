@@ -65,18 +65,8 @@ https://gg.poocloud.in/nba_sacramentokings/index.m3u8
 
 #EXTINF:-1 tvg-id="ppv-13368" tvg-name="Northern Illinois Huskies vs. Wisconsin Badgers (8 November 2025 at 01:30)" tvg-epgid="13368" tvg-logo="https://api.ppvs.su/assets/thumb/512936b1b029ff07b29aa61a0af5ba13-thumbnail.jpg",Northern Illinois Huskies vs. Wisconsin Badgers (8 November 2025 at 01:30)
 
-#EXTINF:-1 tvg-id="ppv-13340" tvg-name="Charlotte Hornets vs. Miami Heat (East Group C) (8 November 2025 at 01:00)" tvg-epgid="13340" tvg-logo="https://api.ppvs.su/assets/thumb/1dca98f54f51cdd305bd0a0be61f9418-thumbnail.jpg",Charlotte Hornets vs. Miami Heat (East Group C) (8 November 2025 at 01:00)
-https://gg.poocloud.in/nba_miamiheat/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13341" tvg-name="Dallas Mavericks vs. Memphis Grizzlies (West Group B) (8 November 2025 at 01:00)" tvg-epgid="13341" tvg-logo="https://api.ppvs.su/assets/thumb/053b6c3d595f6f3272a842d13e0daa48-thumbnail.jpg",Dallas Mavericks vs. Memphis Grizzlies (West Group B) (8 November 2025 at 01:00)
-https://gg.poocloud.in/nba_memphisgrizzlies/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13342" tvg-name="Chicago Bulls vs. Milwaukee Bucks (East Group C) (8 November 2025 at 01:00)" tvg-epgid="13342" tvg-logo="https://api.ppvs.su/assets/thumb/a8109dad70ebbfe08a74eb2e1f080945-thumbnail.jpg",Chicago Bulls vs. Milwaukee Bucks (East Group C) (8 November 2025 at 01:00)
-https://gg.poocloud.in/nba_milwaukeebucks/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13343" tvg-name="Utah Jazz vs. Minnesota Timberwolves (West Group A) (8 November 2025 at 01:00)" tvg-epgid="13343" tvg-logo="https://api.ppvs.su/assets/thumb/5a4d3fc8c8374f39891787b830eed6cb-thumbnail.jpg",Utah Jazz vs. Minnesota Timberwolves (West Group A) (8 November 2025 at 01:00)
-https://gg.poocloud.in/nba_minnesotatimberwolves/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13366" tvg-name="Sam Houston Bearkats vs. Texas Tech Red Raiders (8 November 2025 at 01:00)" tvg-epgid="13366" tvg-logo="https://api.ppvs.su/assets/thumb/27fb944595c7a09857e448f0ae2e65c6-thumbnail.jpg",Sam Houston Bearkats vs. Texas Tech Red Raiders (8 November 2025 at 01:00)
 https://gg.poocloud.in/cbb-4/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13365" tvg-name="UMass Lowell River Hawks vs. UConn Huskies (8 November 2025 at 00:30)" tvg-epgid="13365" tvg-logo="https://api.ppvs.su/assets/thumb/e108704316f1321263f8255a434a1816-thumbnail.jpg",UMass Lowell River Hawks vs. UConn Huskies (8 November 2025 at 00:30)
-
 #EXTINF:-1 tvg-id="ppv-13349" tvg-name="Grand Slam of Darts - Day 2 Evening (9 November 2025 at 19:30)" tvg-epgid="13349" tvg-logo="https://api.ppvs.su/assets/thumb/b09ec5417e8f5831860f91a0a8ea5e2b-thumbnail.jpg",Grand Slam of Darts - Day 2 Evening (9 November 2025 at 19:30)
 https://gg.poocloud.in/darts/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13348" tvg-name="Grand Slam of Darts - Day 2 Afternoon (9 November 2025 at 13:00)" tvg-epgid="13348" tvg-logo="https://api.ppvs.su/assets/thumb/b09ec5417e8f5831860f91a0a8ea5e2b-thumbnail.jpg",Grand Slam of Darts - Day 2 Afternoon (9 November 2025 at 13:00)
@@ -177,10 +167,6 @@ https://gg.poocloud.in/darts/index.m3u8
 https://gg.poocloud.in/sanjosesharks/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13360" tvg-name="Chicago Blackhawks vs. Calgary Flames (8 November 2025 at 03:00)" tvg-epgid="13360" tvg-logo="https://api.ppvs.su/assets/thumb/f0e2b09b2a0f0a9a92df93625fefa849-thumbnail.jpg",Chicago Blackhawks vs. Calgary Flames (8 November 2025 at 03:00)
 https://gg.poocloud.in/calgaryflames/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13358" tvg-name="New York Rangers vs. Detroit Red Wings (8 November 2025 at 01:00)" tvg-epgid="13358" tvg-logo="https://api.ppvs.su/assets/thumb/d7bf3117162483b5d4b92951652930fe-thumbnail.jpg",New York Rangers vs. Detroit Red Wings (8 November 2025 at 01:00)
-https://gg.poocloud.in/detroitredwings/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13359" tvg-name="Minnesota Wild vs. New York Islanders (8 November 2025 at 01:00)" tvg-epgid="13359" tvg-logo="https://api.ppvs.su/assets/thumb/6533a881d7a6c29605e5b3a677ff4b7c-thumbnail.jpg",Minnesota Wild vs. New York Islanders (8 November 2025 at 01:00)
-https://gg.poocloud.in/newyorkislanders/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13249" tvg-name="Brazillian Grand Prix - Race (9 November 2025 at 17:00)" tvg-epgid="13249" tvg-logo="https://api.ppvs.su/assets/thumb/e3c35d1967f4b4b254844d029c52d4d6-thumbnail.jpg",Brazillian Grand Prix - Race (9 November 2025 at 17:00)
 https://gg.poocloud.in/f1/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13248" tvg-name="Brazillian Grand Prix - Qualifying (8 November 2025 at 18:00)" tvg-epgid="13248" tvg-logo="https://api.ppvs.su/assets/thumb/e3c35d1967f4b4b254844d029c52d4d6-thumbnail.jpg",Brazillian Grand Prix - Qualifying (8 November 2025 at 18:00)
@@ -188,6 +174,4 @@ https://gg.poocloud.in/f1/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13247" tvg-name="Brazillian Grand Prix - Sprint (8 November 2025 at 14:00)" tvg-epgid="13247" tvg-logo="https://api.ppvs.su/assets/thumb/e3c35d1967f4b4b254844d029c52d4d6-thumbnail.jpg",Brazillian Grand Prix - Sprint (8 November 2025 at 14:00)
 https://gg.poocloud.in/f1/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13165" tvg-name="AEW: Saturday Night Collision (9 November 2025 at 01:00)" tvg-epgid="13165" tvg-logo="https://api.ppvs.su/assets/thumb/a03b6ea5eeaee85a3b44d1d66030ef7a-thumbnail.jpg",AEW: Saturday Night Collision (9 November 2025 at 01:00)
-
-#EXTINF:-1 tvg-id="ppv-13164" tvg-name="WWE: Friday Night Smackdown (8 November 2025 at 01:00)" tvg-epgid="13164" tvg-logo="https://api.ppvs.su/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg",WWE: Friday Night Smackdown (8 November 2025 at 01:00)
 
