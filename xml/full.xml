@@ -1803,28 +1803,6 @@ channel="ppv-13271"
 <icon src="https://api.ppvs.su/assets/thumb/62a35730a1e1662d0cca4ed73465d661-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-13251">
-<display-name>Girona FC vs. Deportivo Alavés</display-name>
-</channel>
-<programme
-start="20251108130000 +0000"
-stop="20251108153000 +0000"
-channel="ppv-13251"
->
-<title lang="en">Girona FC vs. Deportivo Alavés</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/ff542120489afd98b78d9679e4e2890c-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-13249">
 <display-name>Brazillian Grand Prix - Race</display-name>
 </channel>
