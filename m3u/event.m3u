@@ -55,9 +55,19 @@
 
 #EXTINF:-1 tvg-id="ppv-13268" tvg-name="Frankfurt vs. Mainz (9 November 2025 at 18:30)" tvg-epgid="13268" tvg-logo="https://api.ppvs.su/assets/thumb/5fd53eb60168786a0728b49a65569a8d-thumbnail.jpg",Frankfurt vs. Mainz (9 November 2025 at 18:30)
 
-#EXTINF:-1 tvg-id="ppv-13257" tvg-name="Valencia CF vs. Real Betis (9 November 2025 at 17:30)" tvg-epgid="13257" tvg-logo="https://api.ppvs.su/assets/thumb/732fcfe04db170028cc997af7c692d46-thumbnail.jpg",Valencia CF vs. Real Betis (9 November 2025 at 17:30)
+#EXTINF:-1 tvg-id="ppv-13434" tvg-name="Colorado Avalanche vs. Vancouver Canucks (10 November 2025 at 03:00)" tvg-epgid="13434" tvg-logo="https://api.ppvs.su/assets/thumb/d60a41b3df31e49ace3b65134c8f190c-thumbnail.jpg",Colorado Avalanche vs. Vancouver Canucks (10 November 2025 at 03:00)
 
-#EXTINF:-1 tvg-id="ppv-13258" tvg-name="RCD Mallorca vs. Getafe CF (9 November 2025 at 17:30)" tvg-epgid="13258" tvg-logo="https://api.ppvs.su/assets/thumb/f8a50589cb65a0e90b7ecdbbfcacd56a-thumbnail.jpg",RCD Mallorca vs. Getafe CF (9 November 2025 at 17:30)
+#EXTINF:-1 tvg-id="ppv-13435" tvg-name="Winnipeg Jets vs. Anaheim Ducks (10 November 2025 at 03:00)" tvg-epgid="13435" tvg-logo="https://api.ppvs.su/assets/thumb/7ac8af221f9ddebbd61231d38a773ccd-thumbnail.jpg",Winnipeg Jets vs. Anaheim Ducks (10 November 2025 at 03:00)
 
-#EXTINF:-1 tvg-id="ppv-13249" tvg-name="Brazillian Grand Prix - Race (9 November 2025 at 17:00)" tvg-epgid="13249" tvg-logo="https://api.ppvs.su/assets/thumb/e3c35d1967f4b4b254844d029c52d4d6-thumbnail.jpg",Brazillian Grand Prix - Race (9 November 2025 at 17:00)
+#EXTINF:-1 tvg-id="ppv-13433" tvg-name="Calgary Flames vs. Minnesota Wild (10 November 2025 at 01:00)" tvg-epgid="13433" tvg-logo="https://api.ppvs.su/assets/thumb/aecd9736d694653d6990c5e5c369a413-thumbnail.jpg",Calgary Flames vs. Minnesota Wild (10 November 2025 at 01:00)
+
+#EXTINF:-1 tvg-id="ppv-13430" tvg-name="Carolina Hurricanes vs. Toronto Maple Leafs (10 November 2025 at 00:00)" tvg-epgid="13430" tvg-logo="https://api.ppvs.su/assets/thumb/3995afe7872647d6c0febcebd3321cc5-thumbnail.jpg",Carolina Hurricanes vs. Toronto Maple Leafs (10 November 2025 at 00:00)
+
+#EXTINF:-1 tvg-id="ppv-13431" tvg-name="Utah Mammoth vs. Ottawa Senators (10 November 2025 at 00:00)" tvg-epgid="13431" tvg-logo="https://api.ppvs.su/assets/thumb/7958cf3163f862ae29f1ce843b955e5e-thumbnail.jpg",Utah Mammoth vs. Ottawa Senators (10 November 2025 at 00:00)
+
+#EXTINF:-1 tvg-id="ppv-13432" tvg-name="Seattle Kraken vs. Dallas Stars (10 November 2025 at 00:00)" tvg-epgid="13432" tvg-logo="https://api.ppvs.su/assets/thumb/b5b5dbcc8566d2c41acd1166a29b699a-thumbnail.jpg",Seattle Kraken vs. Dallas Stars (10 November 2025 at 00:00)
+
+#EXTINF:-1 tvg-id="ppv-13429" tvg-name="Los Angeles Kings vs. Pittsburgh Penguins (9 November 2025 at 19:00)" tvg-epgid="13429" tvg-logo="https://api.ppvs.su/assets/thumb/5ef1a7410916e017bf7cf1d5629ae3c1-thumbnail.jpg",Los Angeles Kings vs. Pittsburgh Penguins (9 November 2025 at 19:00)
+
+#EXTINF:-1 tvg-id="ppv-13428" tvg-name="Chicago Blackhawks vs. Detroit Red Wings (9 November 2025 at 18:00)" tvg-epgid="13428" tvg-logo="https://api.ppvs.su/assets/thumb/5789d36e410d1ea6a2cf74dee49080d7-thumbnail.jpg",Chicago Blackhawks vs. Detroit Red Wings (9 November 2025 at 18:00)
 
