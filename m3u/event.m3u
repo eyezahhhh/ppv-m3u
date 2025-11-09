@@ -39,11 +39,7 @@ https://gg.poocloud.in/nba_orlandomagic/index.m3u8
 https://gg.poocloud.in/nba_memphisgrizzlies/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13401" tvg-name="Houston Rockets vs. Milwaukee Bucks (9 November 2025 at 20:30)" tvg-epgid="13401" tvg-logo="https://api.ppvs.su/assets/thumb/830a7812bc9446e2c6ec90ad4c698733-thumbnail.jpg",Houston Rockets vs. Milwaukee Bucks (9 November 2025 at 20:30)
 https://gg.poocloud.in/nba_milwaukeebucks/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13414" tvg-name="Oklahoma Sooners vs. Gonzaga Bulldogs (9 November 2025 at 03:30)" tvg-epgid="13414" tvg-logo="https://api.ppvs.su/assets/thumb/34a3156cfba40b42f757d0a6ad226cd1-thumbnail.jpg",Oklahoma Sooners vs. Gonzaga Bulldogs (9 November 2025 at 03:30)
-https://gg.poocloud.in/ESPN2/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13400" tvg-name="MF Duel: Lil CraCra vs. Fox The G (9 November 2025 at 21:00)" tvg-epgid="13400" tvg-logo="https://api.ppvs.su/assets/thumb/2901a10bcde47db4cd3e6b6ad32aa4e4-thumbnail.jpg",MF Duel: Lil CraCra vs. Fox The G (9 November 2025 at 21:00)
-https://gg.poocloud.in/daznboxing/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13399" tvg-name="Ortiz Jr. vs. Lubin (9 November 2025 at 01:00)" tvg-epgid="13399" tvg-logo="https://api.ppvs.su/assets/thumb/a692f5d35307fa1b1316f953a5a6f0ab-thumbnail.jpg",Ortiz Jr. vs. Lubin (9 November 2025 at 01:00)
 https://gg.poocloud.in/daznboxing/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13350" tvg-name="Grand Slam of Darts - Day 3 (10 November 2025 at 19:00)" tvg-epgid="13350" tvg-logo="https://api.ppvs.su/assets/thumb/b09ec5417e8f5831860f91a0a8ea5e2b-thumbnail.jpg",Grand Slam of Darts - Day 3 (10 November 2025 at 19:00)
 https://gg.poocloud.in/darts/index.m3u8
@@ -97,13 +93,5 @@ https://gg.poocloud.in/darts/index.m3u8
 
 #EXTINF:-1 tvg-id="ppv-13274" tvg-name="Atalanta vs. Sassuolo (9 November 2025 at 11:30)" tvg-epgid="13274" tvg-logo="https://api.ppvs.su/assets/thumb/0f1db6fabc686c689b3752761a5fd791-thumbnail.jpg",Atalanta vs. Sassuolo (9 November 2025 at 11:30)
 
-#EXTINF:-1 tvg-id="ppv-13395" tvg-name="Colorado Avalanche vs. Edmonton Oilers (9 November 2025 at 04:00)" tvg-epgid="13395" tvg-logo="https://api.ppvs.su/assets/thumb/a86af6a069b37b241c40af7a1767749b-thumbnail.jpg",Colorado Avalanche vs. Edmonton Oilers (9 November 2025 at 04:00)
-https://gg.poocloud.in/edmontonoilers/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13396" tvg-name="Columbus Blue Jackets vs. Vancouver Canucks (9 November 2025 at 04:00)" tvg-epgid="13396" tvg-logo="https://api.ppvs.su/assets/thumb/c8220684a7eb172aff7d5a75ea314abc-thumbnail.jpg",Columbus Blue Jackets vs. Vancouver Canucks (9 November 2025 at 04:00)
-https://gg.poocloud.in/vancouvercanucks/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13397" tvg-name="Anaheim Ducks vs. Vegas Golden Knights (9 November 2025 at 04:00)" tvg-epgid="13397" tvg-logo="https://api.ppvs.su/assets/thumb/239534308d94df6102e69e400955fec4-thumbnail.jpg",Anaheim Ducks vs. Vegas Golden Knights (9 November 2025 at 04:00)
-https://gg.poocloud.in/vegasgoldenknights/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13398" tvg-name="Florida Panthers vs. San Jose Sharks (9 November 2025 at 04:00)" tvg-epgid="13398" tvg-logo="https://api.ppvs.su/assets/thumb/24ae95ab6931222fed48d32314035ca6-thumbnail.jpg",Florida Panthers vs. San Jose Sharks (9 November 2025 at 04:00)
-https://gg.poocloud.in/sanjosesharks/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13249" tvg-name="Brazillian Grand Prix - Race (9 November 2025 at 17:00)" tvg-epgid="13249" tvg-logo="https://api.ppvs.su/assets/thumb/e3c35d1967f4b4b254844d029c52d4d6-thumbnail.jpg",Brazillian Grand Prix - Race (9 November 2025 at 17:00)
 https://gg.poocloud.in/f1/index.m3u8

@@ -439,28 +439,6 @@ channel="ppv-13401"
 <icon src="https://api.ppvs.su/assets/thumb/830a7812bc9446e2c6ec90ad4c698733-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-13414">
-<display-name>Oklahoma Sooners vs. Gonzaga Bulldogs</display-name>
-</channel>
-<programme
-start="20251109033000 +0000"
-stop="20251109070000 +0000"
-channel="ppv-13414"
->
-<title lang="en">Oklahoma Sooners vs. Gonzaga Bulldogs</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://api.ppvs.su/assets/thumb/34a3156cfba40b42f757d0a6ad226cd1-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-13400">
 <display-name>MF Duel: Lil CraCra vs. Fox The G</display-name>
 </channel>
@@ -481,28 +459,6 @@ channel="ppv-13400"
 </audio>
 <category>Combat Sports</category>
 <icon src="https://api.ppvs.su/assets/thumb/2901a10bcde47db4cd3e6b6ad32aa4e4-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13399">
-<display-name>Ortiz Jr. vs. Lubin</display-name>
-</channel>
-<programme
-start="20251109010000 +0000"
-stop="20251109070000 +0000"
-channel="ppv-13399"
->
-<title lang="en">Ortiz Jr. vs. Lubin</title>
-<sub-title>Combat Sports</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Combat Sports</category>
-<icon src="https://api.ppvs.su/assets/thumb/a692f5d35307fa1b1316f953a5a6f0ab-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-13350">
@@ -1075,94 +1031,6 @@ channel="ppv-13274"
 </audio>
 <category>Football</category>
 <icon src="https://api.ppvs.su/assets/thumb/0f1db6fabc686c689b3752761a5fd791-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13395">
-<display-name>Colorado Avalanche vs. Edmonton Oilers</display-name>
-</channel>
-<programme
-start="20251109040000 +0000"
-stop="20251109070000 +0000"
-channel="ppv-13395"
->
-<title lang="en">Colorado Avalanche vs. Edmonton Oilers</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://api.ppvs.su/assets/thumb/a86af6a069b37b241c40af7a1767749b-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13396">
-<display-name>Columbus Blue Jackets vs. Vancouver Canucks</display-name>
-</channel>
-<programme
-start="20251109040000 +0000"
-stop="20251109070000 +0000"
-channel="ppv-13396"
->
-<title lang="en">Columbus Blue Jackets vs. Vancouver Canucks</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://api.ppvs.su/assets/thumb/c8220684a7eb172aff7d5a75ea314abc-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13397">
-<display-name>Anaheim Ducks vs. Vegas Golden Knights</display-name>
-</channel>
-<programme
-start="20251109040000 +0000"
-stop="20251109070000 +0000"
-channel="ppv-13397"
->
-<title lang="en">Anaheim Ducks vs. Vegas Golden Knights</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://api.ppvs.su/assets/thumb/239534308d94df6102e69e400955fec4-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13398">
-<display-name>Florida Panthers vs. San Jose Sharks</display-name>
-</channel>
-<programme
-start="20251109040000 +0000"
-stop="20251109070000 +0000"
-channel="ppv-13398"
->
-<title lang="en">Florida Panthers vs. San Jose Sharks</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://api.ppvs.su/assets/thumb/24ae95ab6931222fed48d32314035ca6-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-13249">
