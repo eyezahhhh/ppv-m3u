@@ -25,22 +25,10 @@
 
 #EXTINF:-1 tvg-id="ppv-13302" tvg-name="Atlanta Falcons vs. Indianapolis Colts (9 November 2025 at 14:30)" tvg-epgid="13302" tvg-logo="https://api.ppvs.su/assets/thumb/b976f3afd55de21d58e4cd03bdb06797-thumbnail.jpg",Atlanta Falcons vs. Indianapolis Colts (9 November 2025 at 14:30)
 
-#EXTINF:-1 tvg-id="ppv-13332" tvg-name="LSU Tigers vs. Alabama Crimson Tide (9 November 2025 at 00:30)" tvg-epgid="13332" tvg-logo="https://api.ppvs.su/assets/thumb/f4392abdbaf2c54404a54eb692e9f345-thumbnail.jpg",LSU Tigers vs. Alabama Crimson Tide (9 November 2025 at 00:30)
-
-#EXTINF:-1 tvg-id="ppv-13333" tvg-name="Navy Midshipmen vs. Notre Dame Fighting Irish (9 November 2025 at 00:30)" tvg-epgid="13333" tvg-logo="https://api.ppvs.su/assets/thumb/95ab74aacd2dc88905f5ba47cab508cb-thumbnail.jpg",Navy Midshipmen vs. Notre Dame Fighting Irish (9 November 2025 at 00:30)
-
 #EXTINF:-1 tvg-id="ppv-13379" tvg-name="Phoenix Suns vs. LA Clippers (9 November 2025 at 03:30)" tvg-epgid="13379" tvg-logo="https://api.ppvs.su/assets/thumb/422885f01d7b92847befdad10a3b4152-thumbnail.jpg",Phoenix Suns vs. LA Clippers (9 November 2025 at 03:30)
 https://gg.poocloud.in/nba_laclippers/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13378" tvg-name="Indiana Pacers vs. Denver Nuggets (9 November 2025 at 02:00)" tvg-epgid="13378" tvg-logo="https://api.ppvs.su/assets/thumb/918b17119387fc2b8c869048bf41c974-thumbnail.jpg",Indiana Pacers vs. Denver Nuggets (9 November 2025 at 02:00)
 https://gg.poocloud.in/nba_denvernuggets/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13374" tvg-name="Los Angeles Lakers vs. Atlanta Hawks (9 November 2025 at 01:00)" tvg-epgid="13374" tvg-logo="https://api.ppvs.su/assets/thumb/309c51a683c63ca231753b842af82ac6-thumbnail.jpg",Los Angeles Lakers vs. Atlanta Hawks (9 November 2025 at 01:00)
-https://gg.poocloud.in/nba_atlantahawks/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13375" tvg-name="Chicago Bulls vs. Cleveland Cavaliers (9 November 2025 at 01:00)" tvg-epgid="13375" tvg-logo="https://api.ppvs.su/assets/thumb/89904832fbb4e251af8817d2511e68a4-thumbnail.jpg",Chicago Bulls vs. Cleveland Cavaliers (9 November 2025 at 01:00)
-https://gg.poocloud.in/nba_clevelandcavaliers/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13376" tvg-name="Portland Trail Blazers vs. Miami Heat (9 November 2025 at 01:00)" tvg-epgid="13376" tvg-logo="https://api.ppvs.su/assets/thumb/ff99ade1d34e732b3030e7547d78bf8b-thumbnail.jpg",Portland Trail Blazers vs. Miami Heat (9 November 2025 at 01:00)
-https://gg.poocloud.in/nba_miamiheat/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13377" tvg-name="New Orleans Pelicans vs. San Antonio Spurs (9 November 2025 at 01:00)" tvg-epgid="13377" tvg-logo="https://api.ppvs.su/assets/thumb/f58fae5522ec3b2d9f06dc8402c28447-thumbnail.jpg",New Orleans Pelicans vs. San Antonio Spurs (9 November 2025 at 01:00)
-https://gg.poocloud.in/nba_sanantoniospurs/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13400" tvg-name="MF Duel: Lil CraCra vs. Fox The G (9 November 2025 at 21:00)" tvg-epgid="13400" tvg-logo="https://api.ppvs.su/assets/thumb/2901a10bcde47db4cd3e6b6ad32aa4e4-thumbnail.jpg",MF Duel: Lil CraCra vs. Fox The G (9 November 2025 at 21:00)
 https://gg.poocloud.in/daznboxing/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13399" tvg-name="Ortiz Jr. vs. Lubin (9 November 2025 at 01:00)" tvg-epgid="13399" tvg-logo="https://api.ppvs.su/assets/thumb/a692f5d35307fa1b1316f953a5a6f0ab-thumbnail.jpg",Ortiz Jr. vs. Lubin (9 November 2025 at 01:00)
@@ -107,19 +95,5 @@ https://gg.poocloud.in/vancouvercanucks/index.m3u8
 https://gg.poocloud.in/vegasgoldenknights/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13398" tvg-name="Florida Panthers vs. San Jose Sharks (9 November 2025 at 04:00)" tvg-epgid="13398" tvg-logo="https://api.ppvs.su/assets/thumb/24ae95ab6931222fed48d32314035ca6-thumbnail.jpg",Florida Panthers vs. San Jose Sharks (9 November 2025 at 04:00)
 https://gg.poocloud.in/sanjosesharks/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13389" tvg-name="Boston Bruins vs. Toronto Maple Leafs (9 November 2025 at 01:00)" tvg-epgid="13389" tvg-logo="https://api.ppvs.su/assets/thumb/0164c6b8c6ec8c0a7a93e12ceed90b61-thumbnail.jpg",Boston Bruins vs. Toronto Maple Leafs (9 November 2025 at 01:00)
-https://gg.poocloud.in/torontomapleleafs/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13390" tvg-name="Utah Mammoth vs. Montreal Canadiens (9 November 2025 at 01:00)" tvg-epgid="13390" tvg-logo="https://api.ppvs.su/assets/thumb/a052165e00e0ee7f0ed843a05e5804ef-thumbnail.jpg",Utah Mammoth vs. Montreal Canadiens (9 November 2025 at 01:00)
-https://gg.poocloud.in/montrealcanadiens/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13391" tvg-name="Washington Capitals vs. Tampa Bay Lightning (9 November 2025 at 01:00)" tvg-epgid="13391" tvg-logo="https://api.ppvs.su/assets/thumb/a74afd6bf99e69223531ef6401d79f1b-thumbnail.jpg",Washington Capitals vs. Tampa Bay Lightning (9 November 2025 at 01:00)
-https://gg.poocloud.in/tampabaylightning/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13392" tvg-name="New York Islanders vs. New York Rangers (9 November 2025 at 01:00)" tvg-epgid="13392" tvg-logo="https://api.ppvs.su/assets/thumb/e54f89c5ac101ebb51bc10445e01c234-thumbnail.jpg",New York Islanders vs. New York Rangers (9 November 2025 at 01:00)
-https://gg.poocloud.in/newyorkrangers/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13393" tvg-name="Buffalo Sabres vs. Carolina Hurricanes (9 November 2025 at 01:00)" tvg-epgid="13393" tvg-logo="https://api.ppvs.su/assets/thumb/b37f76c2718222fe69904936c5bd5123-thumbnail.jpg",Buffalo Sabres vs. Carolina Hurricanes (9 November 2025 at 01:00)
-https://gg.poocloud.in/carolinahurricanes/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13394" tvg-name="Seattle Kraken vs. St. Louis Blues (9 November 2025 at 01:00)" tvg-epgid="13394" tvg-logo="https://api.ppvs.su/assets/thumb/691b544453133442b845fb3789235860-thumbnail.jpg",Seattle Kraken vs. St. Louis Blues (9 November 2025 at 01:00)
-https://gg.poocloud.in/stlouisblues/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13249" tvg-name="Brazillian Grand Prix - Race (9 November 2025 at 17:00)" tvg-epgid="13249" tvg-logo="https://api.ppvs.su/assets/thumb/e3c35d1967f4b4b254844d029c52d4d6-thumbnail.jpg",Brazillian Grand Prix - Race (9 November 2025 at 17:00)
 https://gg.poocloud.in/f1/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13165" tvg-name="AEW: Saturday Night Collision (9 November 2025 at 01:00)" tvg-epgid="13165" tvg-logo="https://api.ppvs.su/assets/thumb/a03b6ea5eeaee85a3b44d1d66030ef7a-thumbnail.jpg",AEW: Saturday Night Collision (9 November 2025 at 01:00)
-
