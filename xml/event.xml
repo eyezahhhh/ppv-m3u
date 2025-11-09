@@ -285,28 +285,6 @@ channel="ppv-13309"
 <icon src="https://api.ppvs.su/assets/thumb/0c43d8b844a739daed4846ca054c995f-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-13302">
-<display-name>Atlanta Falcons vs. Indianapolis Colts</display-name>
-</channel>
-<programme
-start="20251109143000 +0000"
-stop="20251109180000 +0000"
-channel="ppv-13302"
->
-<title lang="en">Atlanta Falcons vs. Indianapolis Colts</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/b976f3afd55de21d58e4cd03bdb06797-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-13407">
 <display-name>Minnesota Timberwolves vs. Sacramento Kings</display-name>
 </channel>
@@ -789,28 +767,6 @@ channel="ppv-13293"
 </audio>
 <category>Football</category>
 <icon src="https://api.ppvs.su/assets/thumb/10c2ef911ee55fcf00ad70a977e2ccdc-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13256">
-<display-name>Rayo Vallecano vs. Real Madrid</display-name>
-</channel>
-<programme
-start="20251109151500 +0000"
-stop="20251109174500 +0000"
-channel="ppv-13256"
->
-<title lang="en">Rayo Vallecano vs. Real Madrid</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/507770aa44a9eaaaebbbe8db296d9ee0-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-13249">

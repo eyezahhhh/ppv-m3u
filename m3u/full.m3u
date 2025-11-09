@@ -25,8 +25,6 @@
 
 #EXTINF:-1 tvg-id="ppv-13309" tvg-name="Jacksonville Jaguars vs. Houston Texans (9 November 2025 at 18:00)" tvg-epgid="13309" tvg-logo="https://api.ppvs.su/assets/thumb/0c43d8b844a739daed4846ca054c995f-thumbnail.jpg",Jacksonville Jaguars vs. Houston Texans (9 November 2025 at 18:00)
 
-#EXTINF:-1 tvg-id="ppv-13302" tvg-name="Atlanta Falcons vs. Indianapolis Colts (9 November 2025 at 14:30)" tvg-epgid="13302" tvg-logo="https://api.ppvs.su/assets/thumb/b976f3afd55de21d58e4cd03bdb06797-thumbnail.jpg",Atlanta Falcons vs. Indianapolis Colts (9 November 2025 at 14:30)
-
 #EXTINF:-1 tvg-id="ppv-13407" tvg-name="Minnesota Timberwolves vs. Sacramento Kings (10 November 2025 at 02:00)" tvg-epgid="13407" tvg-logo="https://api.ppvs.su/assets/thumb/7d3eea86a73727c3afbe478692694f5a-thumbnail.jpg",Minnesota Timberwolves vs. Sacramento Kings (10 November 2025 at 02:00)
 https://gg.poocloud.in/nba_sacramentokings/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13406" tvg-name="Indiana Pacers vs. Golden State Warriors (10 November 2025 at 01:30)" tvg-epgid="13406" tvg-logo="https://api.ppvs.su/assets/thumb/904d8c882bfd287530d0ae303007b9b2-thumbnail.jpg",Indiana Pacers vs. Golden State Warriors (10 November 2025 at 01:30)
@@ -70,8 +68,6 @@ https://gg.poocloud.in/darts/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13292" tvg-name="FC Metz vs. OGC Nice (9 November 2025 at 16:15)" tvg-epgid="13292" tvg-logo="https://api.ppvs.su/assets/thumb/90f0e8745878fc5a2475498467113cde-thumbnail.jpg",FC Metz vs. OGC Nice (9 November 2025 at 16:15)
 
 #EXTINF:-1 tvg-id="ppv-13293" tvg-name="Strasbourg vs. LOSC (9 November 2025 at 16:15)" tvg-epgid="13293" tvg-logo="https://api.ppvs.su/assets/thumb/10c2ef911ee55fcf00ad70a977e2ccdc-thumbnail.jpg",Strasbourg vs. LOSC (9 November 2025 at 16:15)
-
-#EXTINF:-1 tvg-id="ppv-13256" tvg-name="Rayo Vallecano vs. Real Madrid (9 November 2025 at 15:15)" tvg-epgid="13256" tvg-logo="https://api.ppvs.su/assets/thumb/507770aa44a9eaaaebbbe8db296d9ee0-thumbnail.jpg",Rayo Vallecano vs. Real Madrid (9 November 2025 at 15:15)
 
 #EXTINF:-1 tvg-id="ppv-13249" tvg-name="Brazillian Grand Prix - Race (9 November 2025 at 17:00)" tvg-epgid="13249" tvg-logo="https://api.ppvs.su/assets/thumb/e3c35d1967f4b4b254844d029c52d4d6-thumbnail.jpg",Brazillian Grand Prix - Race (9 November 2025 at 17:00)
 https://gg.poocloud.in/f1/index.m3u8
