@@ -26,25 +26,27 @@
 #EXTINF:-1 tvg-id="ppv-13309" tvg-name="Jacksonville Jaguars vs. Houston Texans (9 November 2025 at 18:00)" tvg-epgid="13309" tvg-logo="https://api.ppvs.su/assets/thumb/0c43d8b844a739daed4846ca054c995f-thumbnail.jpg",Jacksonville Jaguars vs. Houston Texans (9 November 2025 at 18:00)
 
 #EXTINF:-1 tvg-id="ppv-13407" tvg-name="Minnesota Timberwolves vs. Sacramento Kings (10 November 2025 at 02:00)" tvg-epgid="13407" tvg-logo="https://api.ppvs.su/assets/thumb/7d3eea86a73727c3afbe478692694f5a-thumbnail.jpg",Minnesota Timberwolves vs. Sacramento Kings (10 November 2025 at 02:00)
-https://gg.poocloud.in/nba_sacramentokings/index.m3u8
+
 #EXTINF:-1 tvg-id="ppv-13406" tvg-name="Indiana Pacers vs. Golden State Warriors (10 November 2025 at 01:30)" tvg-epgid="13406" tvg-logo="https://api.ppvs.su/assets/thumb/904d8c882bfd287530d0ae303007b9b2-thumbnail.jpg",Indiana Pacers vs. Golden State Warriors (10 November 2025 at 01:30)
-https://gg.poocloud.in/nba_goldenstatewarriors/index.m3u8
+
 #EXTINF:-1 tvg-id="ppv-13405" tvg-name="Detroit Pistons vs. Philadelphia 76ers (10 November 2025 at 00:30)" tvg-epgid="13405" tvg-logo="https://api.ppvs.su/assets/thumb/f749fcbf1c4e4ca54b15453f5de6d079-thumbnail.jpg",Detroit Pistons vs. Philadelphia 76ers (10 November 2025 at 00:30)
-https://gg.poocloud.in/nba_philadelphia76ers/index.m3u8
+
 #EXTINF:-1 tvg-id="ppv-13402" tvg-name="Brooklyn Nets vs. New York Knicks (9 November 2025 at 23:00)" tvg-epgid="13402" tvg-logo="https://api.ppvs.su/assets/thumb/eb097dc891e9e20ec7edd24694f76f35-thumbnail.jpg",Brooklyn Nets vs. New York Knicks (9 November 2025 at 23:00)
-https://gg.poocloud.in/nba_newyorkknicks/index.m3u8
+
 #EXTINF:-1 tvg-id="ppv-13403" tvg-name="Boston Celtics vs. Orlando Magic (9 November 2025 at 23:00)" tvg-epgid="13403" tvg-logo="https://api.ppvs.su/assets/thumb/ad675274a30ebdf527ae7e41297174ab-thumbnail.jpg",Boston Celtics vs. Orlando Magic (9 November 2025 at 23:00)
-https://gg.poocloud.in/nba_orlandomagic/index.m3u8
+
 #EXTINF:-1 tvg-id="ppv-13404" tvg-name="Oklahoma City Thunder vs. Memphis Grizzlies (9 November 2025 at 23:00)" tvg-epgid="13404" tvg-logo="https://api.ppvs.su/assets/thumb/d96bd1088e4ecfad2c9655e50775e951-thumbnail.jpg",Oklahoma City Thunder vs. Memphis Grizzlies (9 November 2025 at 23:00)
-https://gg.poocloud.in/nba_memphisgrizzlies/index.m3u8
+
 #EXTINF:-1 tvg-id="ppv-13401" tvg-name="Houston Rockets vs. Milwaukee Bucks (9 November 2025 at 20:30)" tvg-epgid="13401" tvg-logo="https://api.ppvs.su/assets/thumb/830a7812bc9446e2c6ec90ad4c698733-thumbnail.jpg",Houston Rockets vs. Milwaukee Bucks (9 November 2025 at 20:30)
-https://gg.poocloud.in/nba_milwaukeebucks/index.m3u8
+
 #EXTINF:-1 tvg-id="ppv-13400" tvg-name="MF Duel: Lil CraCra vs. Fox The G (9 November 2025 at 21:00)" tvg-epgid="13400" tvg-logo="https://api.ppvs.su/assets/thumb/2901a10bcde47db4cd3e6b6ad32aa4e4-thumbnail.jpg",MF Duel: Lil CraCra vs. Fox The G (9 November 2025 at 21:00)
-https://gg.poocloud.in/daznboxing/index.m3u8
+
+#EXTINF:-1 tvg-id="ppv-13351" tvg-name="Grand Slam of Darts - Day 4 (11 November 2025 at 19:00)" tvg-epgid="13351" tvg-logo="https://api.ppvs.su/assets/thumb/b09ec5417e8f5831860f91a0a8ea5e2b-thumbnail.jpg",Grand Slam of Darts - Day 4 (11 November 2025 at 19:00)
+
 #EXTINF:-1 tvg-id="ppv-13350" tvg-name="Grand Slam of Darts - Day 3 (10 November 2025 at 19:00)" tvg-epgid="13350" tvg-logo="https://api.ppvs.su/assets/thumb/b09ec5417e8f5831860f91a0a8ea5e2b-thumbnail.jpg",Grand Slam of Darts - Day 3 (10 November 2025 at 19:00)
-https://gg.poocloud.in/darts/index.m3u8
+
 #EXTINF:-1 tvg-id="ppv-13349" tvg-name="Grand Slam of Darts - Day 2 Evening (9 November 2025 at 19:30)" tvg-epgid="13349" tvg-logo="https://api.ppvs.su/assets/thumb/b09ec5417e8f5831860f91a0a8ea5e2b-thumbnail.jpg",Grand Slam of Darts - Day 2 Evening (9 November 2025 at 19:30)
-https://gg.poocloud.in/darts/index.m3u8
+
 #EXTINF:-1 tvg-id="ppv-13259" tvg-name="Celta vs. FC Barcelona (9 November 2025 at 20:00)" tvg-epgid="13259" tvg-logo="https://api.ppvs.su/assets/thumb/88e76de50839c0667864c0477e54fe0e-thumbnail.jpg",Celta vs. FC Barcelona (9 November 2025 at 20:00)
 
 #EXTINF:-1 tvg-id="ppv-13278" tvg-name="Inter vs. Lazio (9 November 2025 at 19:45)" tvg-epgid="13278" tvg-logo="https://api.ppvs.su/assets/thumb/7fba4b5218484a052b7e045b0916f801-thumbnail.jpg",Inter vs. Lazio (9 November 2025 at 19:45)
@@ -59,15 +61,5 @@ https://gg.poocloud.in/darts/index.m3u8
 
 #EXTINF:-1 tvg-id="ppv-13277" tvg-name="Roma vs. Udinese (9 November 2025 at 17:00)" tvg-epgid="13277" tvg-logo="https://api.ppvs.su/assets/thumb/ec16edeb507cf26092722c068094556d-thumbnail.jpg",Roma vs. Udinese (9 November 2025 at 17:00)
 
-#EXTINF:-1 tvg-id="ppv-13267" tvg-name="Stuttgart vs. Augsburg (9 November 2025 at 16:30)" tvg-epgid="13267" tvg-logo="https://api.ppvs.su/assets/thumb/6e2d157d131f20a65b0b8c502ee325a1-thumbnail.jpg",Stuttgart vs. Augsburg (9 November 2025 at 16:30)
-
-#EXTINF:-1 tvg-id="ppv-13284" tvg-name="Manchester City vs. Liverpool (9 November 2025 at 16:30)" tvg-epgid="13284" tvg-logo="https://api.ppvs.su/assets/thumb/4f1b8e8fc7961c0a15811bc87893d13e-thumbnail.jpg",Manchester City vs. Liverpool (9 November 2025 at 16:30)
-
-#EXTINF:-1 tvg-id="ppv-13289" tvg-name="Angers SCO vs. AJ Auxerre (9 November 2025 at 16:15)" tvg-epgid="13289" tvg-logo="https://api.ppvs.su/assets/thumb/ca05450cc15b820627b6320aab679a9f-thumbnail.jpg",Angers SCO vs. AJ Auxerre (9 November 2025 at 16:15)
-
-#EXTINF:-1 tvg-id="ppv-13292" tvg-name="FC Metz vs. OGC Nice (9 November 2025 at 16:15)" tvg-epgid="13292" tvg-logo="https://api.ppvs.su/assets/thumb/90f0e8745878fc5a2475498467113cde-thumbnail.jpg",FC Metz vs. OGC Nice (9 November 2025 at 16:15)
-
-#EXTINF:-1 tvg-id="ppv-13293" tvg-name="Strasbourg vs. LOSC (9 November 2025 at 16:15)" tvg-epgid="13293" tvg-logo="https://api.ppvs.su/assets/thumb/10c2ef911ee55fcf00ad70a977e2ccdc-thumbnail.jpg",Strasbourg vs. LOSC (9 November 2025 at 16:15)
-
 #EXTINF:-1 tvg-id="ppv-13249" tvg-name="Brazillian Grand Prix - Race (9 November 2025 at 17:00)" tvg-epgid="13249" tvg-logo="https://api.ppvs.su/assets/thumb/e3c35d1967f4b4b254844d029c52d4d6-thumbnail.jpg",Brazillian Grand Prix - Race (9 November 2025 at 17:00)
-https://gg.poocloud.in/f1/index.m3u8
+
