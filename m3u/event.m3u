@@ -33,8 +33,6 @@
 https://gg.poocloud.in/ESPN2/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13329" tvg-name="Washington Huskies vs. Wisconsin Badgers (8 November 2025 at 21:30)" tvg-epgid="13329" tvg-logo="https://api.ppvs.su/assets/thumb/a54070f277ea5ada4b8bcd02bc45cc79-thumbnail.jpg",Washington Huskies vs. Wisconsin Badgers (8 November 2025 at 21:30)
 
-#EXTINF:-1 tvg-id="ppv-13328" tvg-name="Auburn Tigers vs. Vanderbilt Commodores (8 November 2025 at 21:00)" tvg-epgid="13328" tvg-logo="https://api.ppvs.su/assets/thumb/81e1be8271bd2834945c820222f9db49-thumbnail.jpg",Auburn Tigers vs. Vanderbilt Commodores (8 November 2025 at 21:00)
-
 #EXTINF:-1 tvg-id="ppv-13379" tvg-name="Phoenix Suns vs. LA Clippers (9 November 2025 at 03:30)" tvg-epgid="13379" tvg-logo="https://api.ppvs.su/assets/thumb/422885f01d7b92847befdad10a3b4152-thumbnail.jpg",Phoenix Suns vs. LA Clippers (9 November 2025 at 03:30)
 https://gg.poocloud.in/nba_laclippers/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13378" tvg-name="Indiana Pacers vs. Denver Nuggets (9 November 2025 at 02:00)" tvg-epgid="13378" tvg-logo="https://api.ppvs.su/assets/thumb/918b17119387fc2b8c869048bf41c974-thumbnail.jpg",Indiana Pacers vs. Denver Nuggets (9 November 2025 at 02:00)
@@ -51,6 +49,10 @@ https://gg.poocloud.in/nba_sanantoniospurs/index.m3u8
 https://gg.poocloud.in/nba_philadelphia76ers/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13371" tvg-name="Dallas Mavericks vs. Washington Wizards (9 November 2025 at 00:00)" tvg-epgid="13371" tvg-logo="https://api.ppvs.su/assets/thumb/d647a35eefcfdc7c5c16c83736f11483-thumbnail.jpg",Dallas Mavericks vs. Washington Wizards (9 November 2025 at 00:00)
 https://gg.poocloud.in/nba_washingtonwizards/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13400" tvg-name="MF Duel: Lil CraCra vs. Fox The G (9 November 2025 at 21:00)" tvg-epgid="13400" tvg-logo="https://api.ppvs.su/assets/thumb/2901a10bcde47db4cd3e6b6ad32aa4e4-thumbnail.jpg",MF Duel: Lil CraCra vs. Fox The G (9 November 2025 at 21:00)
+https://gg.poocloud.in/daznboxing/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13399" tvg-name="Ortiz Jr. vs. Lubin (9 November 2025 at 01:00)" tvg-epgid="13399" tvg-logo="https://api.ppvs.su/assets/thumb/a692f5d35307fa1b1316f953a5a6f0ab-thumbnail.jpg",Ortiz Jr. vs. Lubin (9 November 2025 at 01:00)
+https://gg.poocloud.in/daznboxing/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13381" tvg-name="UFC Fight Night: Bonfim vs. Brown (8 November 2025 at 21:00)" tvg-epgid="13381" tvg-logo="https://api.ppvs.su/assets/thumb/7910a967b3592719a4f45983531a2a53-thumbnail.jpg",UFC Fight Night: Bonfim vs. Brown (8 November 2025 at 21:00)
 https://gg.poocloud.in/ufc/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13350" tvg-name="Grand Slam of Darts - Day 3 (10 November 2025 at 19:00)" tvg-epgid="13350" tvg-logo="https://api.ppvs.su/assets/thumb/b09ec5417e8f5831860f91a0a8ea5e2b-thumbnail.jpg",Grand Slam of Darts - Day 3 (10 November 2025 at 19:00)
@@ -125,8 +127,6 @@ https://gg.poocloud.in/newyorkrangers/index.m3u8
 https://gg.poocloud.in/carolinahurricanes/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13394" tvg-name="Seattle Kraken vs. St. Louis Blues (9 November 2025 at 01:00)" tvg-epgid="13394" tvg-logo="https://api.ppvs.su/assets/thumb/691b544453133442b845fb3789235860-thumbnail.jpg",Seattle Kraken vs. St. Louis Blues (9 November 2025 at 01:00)
 https://gg.poocloud.in/stlouisblues/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13388" tvg-name="Dallas Stars vs. Nashville Predators (8 November 2025 at 21:30)" tvg-epgid="13388" tvg-logo="https://api.ppvs.su/assets/thumb/e7f993addc85625519f625482c394471-thumbnail.jpg",Dallas Stars vs. Nashville Predators (8 November 2025 at 21:30)
-https://gg.poocloud.in/nashvillepredators/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13249" tvg-name="Brazillian Grand Prix - Race (9 November 2025 at 17:00)" tvg-epgid="13249" tvg-logo="https://api.ppvs.su/assets/thumb/e3c35d1967f4b4b254844d029c52d4d6-thumbnail.jpg",Brazillian Grand Prix - Race (9 November 2025 at 17:00)
 https://gg.poocloud.in/f1/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13165" tvg-name="AEW: Saturday Night Collision (9 November 2025 at 01:00)" tvg-epgid="13165" tvg-logo="https://api.ppvs.su/assets/thumb/a03b6ea5eeaee85a3b44d1d66030ef7a-thumbnail.jpg",AEW: Saturday Night Collision (9 November 2025 at 01:00)

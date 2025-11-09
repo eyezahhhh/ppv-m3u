@@ -373,28 +373,6 @@ channel="ppv-13329"
 <icon src="https://api.ppvs.su/assets/thumb/a54070f277ea5ada4b8bcd02bc45cc79-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-13328">
-<display-name>Auburn Tigers vs. Vanderbilt Commodores</display-name>
-</channel>
-<programme
-start="20251108210000 +0000"
-stop="20251109003000 +0000"
-channel="ppv-13328"
->
-<title lang="en">Auburn Tigers vs. Vanderbilt Commodores</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/81e1be8271bd2834945c820222f9db49-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-13379">
 <display-name>Phoenix Suns vs. LA Clippers</display-name>
 </channel>
@@ -569,6 +547,50 @@ channel="ppv-13371"
 </audio>
 <category>Basketball</category>
 <icon src="https://api.ppvs.su/assets/thumb/d647a35eefcfdc7c5c16c83736f11483-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13400">
+<display-name>MF Duel: Lil CraCra vs. Fox The G</display-name>
+</channel>
+<programme
+start="20251109210000 +0000"
+stop="20251110030000 +0000"
+channel="ppv-13400"
+>
+<title lang="en">MF Duel: Lil CraCra vs. Fox The G</title>
+<sub-title>Combat Sports</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Combat Sports</category>
+<icon src="https://api.ppvs.su/assets/thumb/2901a10bcde47db4cd3e6b6ad32aa4e4-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13399">
+<display-name>Ortiz Jr. vs. Lubin</display-name>
+</channel>
+<programme
+start="20251109010000 +0000"
+stop="20251109070000 +0000"
+channel="ppv-13399"
+>
+<title lang="en">Ortiz Jr. vs. Lubin</title>
+<sub-title>Combat Sports</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Combat Sports</category>
+<icon src="https://api.ppvs.su/assets/thumb/a692f5d35307fa1b1316f953a5a6f0ab-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-13381">
@@ -1383,28 +1405,6 @@ channel="ppv-13394"
 </audio>
 <category>Ice Hockey</category>
 <icon src="https://api.ppvs.su/assets/thumb/691b544453133442b845fb3789235860-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13388">
-<display-name>Dallas Stars vs. Nashville Predators</display-name>
-</channel>
-<programme
-start="20251108213000 +0000"
-stop="20251109003000 +0000"
-channel="ppv-13388"
->
-<title lang="en">Dallas Stars vs. Nashville Predators</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://api.ppvs.su/assets/thumb/e7f993addc85625519f625482c394471-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-13249">
