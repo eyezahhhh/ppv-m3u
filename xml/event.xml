@@ -439,28 +439,6 @@ channel="ppv-13401"
 <icon src="https://api.ppvs.su/assets/thumb/830a7812bc9446e2c6ec90ad4c698733-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-13379">
-<display-name>Phoenix Suns vs. LA Clippers</display-name>
-</channel>
-<programme
-start="20251109033000 +0000"
-stop="20251109061800 +0000"
-channel="ppv-13379"
->
-<title lang="en">Phoenix Suns vs. LA Clippers</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://api.ppvs.su/assets/thumb/422885f01d7b92847befdad10a3b4152-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-13414">
 <display-name>Oklahoma Sooners vs. Gonzaga Bulldogs</display-name>
 </channel>
