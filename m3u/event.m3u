@@ -25,16 +25,26 @@
 
 #EXTINF:-1 tvg-id="ppv-13302" tvg-name="Atlanta Falcons vs. Indianapolis Colts (9 November 2025 at 14:30)" tvg-epgid="13302" tvg-logo="https://api.ppvs.su/assets/thumb/b976f3afd55de21d58e4cd03bdb06797-thumbnail.jpg",Atlanta Falcons vs. Indianapolis Colts (9 November 2025 at 14:30)
 
+#EXTINF:-1 tvg-id="ppv-13407" tvg-name="Minnesota Timberwolves vs. Sacramento Kings (10 November 2025 at 02:00)" tvg-epgid="13407" tvg-logo="https://api.ppvs.su/assets/thumb/7d3eea86a73727c3afbe478692694f5a-thumbnail.jpg",Minnesota Timberwolves vs. Sacramento Kings (10 November 2025 at 02:00)
+https://gg.poocloud.in/nba_sacramentokings/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13406" tvg-name="Indiana Pacers vs. Golden State Warriors (10 November 2025 at 01:30)" tvg-epgid="13406" tvg-logo="https://api.ppvs.su/assets/thumb/904d8c882bfd287530d0ae303007b9b2-thumbnail.jpg",Indiana Pacers vs. Golden State Warriors (10 November 2025 at 01:30)
+https://gg.poocloud.in/nba_goldenstatewarriors/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13405" tvg-name="Detroit Pistons vs. Philadelphia 76ers (10 November 2025 at 00:30)" tvg-epgid="13405" tvg-logo="https://api.ppvs.su/assets/thumb/f749fcbf1c4e4ca54b15453f5de6d079-thumbnail.jpg",Detroit Pistons vs. Philadelphia 76ers (10 November 2025 at 00:30)
+https://gg.poocloud.in/nba_philadelphia76ers/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13402" tvg-name="Brooklyn Nets vs. New York Knicks (9 November 2025 at 23:00)" tvg-epgid="13402" tvg-logo="https://api.ppvs.su/assets/thumb/eb097dc891e9e20ec7edd24694f76f35-thumbnail.jpg",Brooklyn Nets vs. New York Knicks (9 November 2025 at 23:00)
+https://gg.poocloud.in/nba_newyorkknicks/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13403" tvg-name="Boston Celtics vs. Orlando Magic (9 November 2025 at 23:00)" tvg-epgid="13403" tvg-logo="https://api.ppvs.su/assets/thumb/ad675274a30ebdf527ae7e41297174ab-thumbnail.jpg",Boston Celtics vs. Orlando Magic (9 November 2025 at 23:00)
+https://gg.poocloud.in/nba_orlandomagic/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13404" tvg-name="Oklahoma City Thunder vs. Memphis Grizzlies (9 November 2025 at 23:00)" tvg-epgid="13404" tvg-logo="https://api.ppvs.su/assets/thumb/d96bd1088e4ecfad2c9655e50775e951-thumbnail.jpg",Oklahoma City Thunder vs. Memphis Grizzlies (9 November 2025 at 23:00)
+https://gg.poocloud.in/nba_memphisgrizzlies/index.m3u8
+#EXTINF:-1 tvg-id="ppv-13401" tvg-name="Houston Rockets vs. Milwaukee Bucks (9 November 2025 at 20:30)" tvg-epgid="13401" tvg-logo="https://api.ppvs.su/assets/thumb/830a7812bc9446e2c6ec90ad4c698733-thumbnail.jpg",Houston Rockets vs. Milwaukee Bucks (9 November 2025 at 20:30)
+https://gg.poocloud.in/nba_milwaukeebucks/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13379" tvg-name="Phoenix Suns vs. LA Clippers (9 November 2025 at 03:30)" tvg-epgid="13379" tvg-logo="https://api.ppvs.su/assets/thumb/422885f01d7b92847befdad10a3b4152-thumbnail.jpg",Phoenix Suns vs. LA Clippers (9 November 2025 at 03:30)
 https://gg.poocloud.in/nba_laclippers/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13378" tvg-name="Indiana Pacers vs. Denver Nuggets (9 November 2025 at 02:00)" tvg-epgid="13378" tvg-logo="https://api.ppvs.su/assets/thumb/918b17119387fc2b8c869048bf41c974-thumbnail.jpg",Indiana Pacers vs. Denver Nuggets (9 November 2025 at 02:00)
-https://gg.poocloud.in/nba_denvernuggets/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13400" tvg-name="MF Duel: Lil CraCra vs. Fox The G (9 November 2025 at 21:00)" tvg-epgid="13400" tvg-logo="https://api.ppvs.su/assets/thumb/2901a10bcde47db4cd3e6b6ad32aa4e4-thumbnail.jpg",MF Duel: Lil CraCra vs. Fox The G (9 November 2025 at 21:00)
 https://gg.poocloud.in/daznboxing/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13399" tvg-name="Ortiz Jr. vs. Lubin (9 November 2025 at 01:00)" tvg-epgid="13399" tvg-logo="https://api.ppvs.su/assets/thumb/a692f5d35307fa1b1316f953a5a6f0ab-thumbnail.jpg",Ortiz Jr. vs. Lubin (9 November 2025 at 01:00)
 https://gg.poocloud.in/daznboxing/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13381" tvg-name="UFC Fight Night: Bonfim vs. Brown (8 November 2025 at 21:00)" tvg-epgid="13381" tvg-logo="https://api.ppvs.su/assets/thumb/7910a967b3592719a4f45983531a2a53-thumbnail.jpg",UFC Fight Night: Bonfim vs. Brown (8 November 2025 at 21:00)
-https://gg.poocloud.in/ufc/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13350" tvg-name="Grand Slam of Darts - Day 3 (10 November 2025 at 19:00)" tvg-epgid="13350" tvg-logo="https://api.ppvs.su/assets/thumb/b09ec5417e8f5831860f91a0a8ea5e2b-thumbnail.jpg",Grand Slam of Darts - Day 3 (10 November 2025 at 19:00)
 https://gg.poocloud.in/darts/index.m3u8
 #EXTINF:-1 tvg-id="ppv-13349" tvg-name="Grand Slam of Darts - Day 2 Evening (9 November 2025 at 19:30)" tvg-epgid="13349" tvg-logo="https://api.ppvs.su/assets/thumb/b09ec5417e8f5831860f91a0a8ea5e2b-thumbnail.jpg",Grand Slam of Darts - Day 2 Evening (9 November 2025 at 19:30)

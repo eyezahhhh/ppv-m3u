@@ -285,6 +285,160 @@ channel="ppv-13302"
 <icon src="https://api.ppvs.su/assets/thumb/b976f3afd55de21d58e4cd03bdb06797-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-13407">
+<display-name>Minnesota Timberwolves vs. Sacramento Kings</display-name>
+</channel>
+<programme
+start="20251110020000 +0000"
+stop="20251110044800 +0000"
+channel="ppv-13407"
+>
+<title lang="en">Minnesota Timberwolves vs. Sacramento Kings</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://api.ppvs.su/assets/thumb/7d3eea86a73727c3afbe478692694f5a-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13406">
+<display-name>Indiana Pacers vs. Golden State Warriors</display-name>
+</channel>
+<programme
+start="20251110013000 +0000"
+stop="20251110041800 +0000"
+channel="ppv-13406"
+>
+<title lang="en">Indiana Pacers vs. Golden State Warriors</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://api.ppvs.su/assets/thumb/904d8c882bfd287530d0ae303007b9b2-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13405">
+<display-name>Detroit Pistons vs. Philadelphia 76ers</display-name>
+</channel>
+<programme
+start="20251110003000 +0000"
+stop="20251110031800 +0000"
+channel="ppv-13405"
+>
+<title lang="en">Detroit Pistons vs. Philadelphia 76ers</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://api.ppvs.su/assets/thumb/f749fcbf1c4e4ca54b15453f5de6d079-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13402">
+<display-name>Brooklyn Nets vs. New York Knicks</display-name>
+</channel>
+<programme
+start="20251109230000 +0000"
+stop="20251110014800 +0000"
+channel="ppv-13402"
+>
+<title lang="en">Brooklyn Nets vs. New York Knicks</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://api.ppvs.su/assets/thumb/eb097dc891e9e20ec7edd24694f76f35-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13403">
+<display-name>Boston Celtics vs. Orlando Magic</display-name>
+</channel>
+<programme
+start="20251109230000 +0000"
+stop="20251110014800 +0000"
+channel="ppv-13403"
+>
+<title lang="en">Boston Celtics vs. Orlando Magic</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://api.ppvs.su/assets/thumb/ad675274a30ebdf527ae7e41297174ab-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13404">
+<display-name>Oklahoma City Thunder vs. Memphis Grizzlies</display-name>
+</channel>
+<programme
+start="20251109230000 +0000"
+stop="20251110014800 +0000"
+channel="ppv-13404"
+>
+<title lang="en">Oklahoma City Thunder vs. Memphis Grizzlies</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://api.ppvs.su/assets/thumb/d96bd1088e4ecfad2c9655e50775e951-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13401">
+<display-name>Houston Rockets vs. Milwaukee Bucks</display-name>
+</channel>
+<programme
+start="20251109203000 +0000"
+stop="20251109231800 +0000"
+channel="ppv-13401"
+>
+<title lang="en">Houston Rockets vs. Milwaukee Bucks</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://api.ppvs.su/assets/thumb/830a7812bc9446e2c6ec90ad4c698733-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-13379">
 <display-name>Phoenix Suns vs. LA Clippers</display-name>
 </channel>
@@ -305,28 +459,6 @@ channel="ppv-13379"
 </audio>
 <category>Basketball</category>
 <icon src="https://api.ppvs.su/assets/thumb/422885f01d7b92847befdad10a3b4152-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13378">
-<display-name>Indiana Pacers vs. Denver Nuggets</display-name>
-</channel>
-<programme
-start="20251109020000 +0000"
-stop="20251109044800 +0000"
-channel="ppv-13378"
->
-<title lang="en">Indiana Pacers vs. Denver Nuggets</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://api.ppvs.su/assets/thumb/918b17119387fc2b8c869048bf41c974-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-13400">
@@ -371,28 +503,6 @@ channel="ppv-13399"
 </audio>
 <category>Combat Sports</category>
 <icon src="https://api.ppvs.su/assets/thumb/a692f5d35307fa1b1316f953a5a6f0ab-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13381">
-<display-name>UFC Fight Night: Bonfim vs. Brown</display-name>
-</channel>
-<programme
-start="20251108210000 +0000"
-stop="20251109050000 +0000"
-channel="ppv-13381"
->
-<title lang="en">UFC Fight Night: Bonfim vs. Brown</title>
-<sub-title>Combat Sports</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Combat Sports</category>
-<icon src="https://api.ppvs.su/assets/thumb/7910a967b3592719a4f45983531a2a53-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-13350">
