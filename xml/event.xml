@@ -174,26 +174,4 @@ channel="ppv-13435"
 <category>Ice Hockey</category>
 <icon src="https://api.ppvs.su/assets/thumb/7ac8af221f9ddebbd61231d38a773ccd-thumbnail.jpg" />
 </programme>
-
-<channel id="ppv-13433">
-<display-name>Calgary Flames vs. Minnesota Wild</display-name>
-</channel>
-<programme
-start="20251110010000 +0000"
-stop="20251110040000 +0000"
-channel="ppv-13433"
->
-<title lang="en">Calgary Flames vs. Minnesota Wild</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://api.ppvs.su/assets/thumb/aecd9736d694653d6990c5e5c369a413-thumbnail.jpg" />
-</programme>
 </tv>
