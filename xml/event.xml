@@ -109,28 +109,6 @@ channel="ppv-13441"
 <icon src="https://api.ppvs.su/assets/thumb/cd69ce930ab20efb0ac63aafb29cf01f-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-13440">
-<display-name>San Antonio Spurs vs. Chicago Bulls</display-name>
-</channel>
-<programme
-start="20251111010000 +0000"
-stop="20251111034800 +0000"
-channel="ppv-13440"
->
-<title lang="en">San Antonio Spurs vs. Chicago Bulls</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://api.ppvs.su/assets/thumb/319047a24ca241f48ad2e601f7727131-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-13352">
 <display-name>Grand Slam of Darts - Day 5</display-name>
 </channel>
@@ -261,27 +239,5 @@ channel="ppv-13446"
 </audio>
 <category>Wrestling</category>
 <icon src="https://api.ppvs.su/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13445">
-<display-name>WWE: Monday Night RAW</display-name>
-</channel>
-<programme
-start="20251111010000 +0000"
-stop="20251111040000 +0000"
-channel="ppv-13445"
->
-<title lang="en">WWE: Monday Night RAW</title>
-<sub-title>Wrestling</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Wrestling</category>
-<icon src="https://api.ppvs.su/assets/thumb/56336f9d22c51c416e1a56afbd18f314-thumbnail.jpg" />
 </programme>
 </tv>
