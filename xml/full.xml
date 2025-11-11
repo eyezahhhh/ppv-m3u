@@ -175,6 +175,72 @@ channel="ppv-13351"
 <icon src="https://api.ppvs.su/assets/thumb/b09ec5417e8f5831860f91a0a8ea5e2b-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-13451">
+<display-name>Armenia vs. Hungary</display-name>
+</channel>
+<programme
+start="20251113170000 +0000"
+stop="20251113193000 +0000"
+channel="ppv-13451"
+>
+<title lang="en">Armenia vs. Hungary</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/0c87765860b3d8411088917c203fb625-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13452">
+<display-name>Azerbaijan vs. Iceland</display-name>
+</channel>
+<programme
+start="20251113170000 +0000"
+stop="20251113193000 +0000"
+channel="ppv-13452"
+>
+<title lang="en">Azerbaijan vs. Iceland</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/8dd5933cd53599d7a2f60d4b77ce1597-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13453">
+<display-name>Norway vs. Estonia</display-name>
+</channel>
+<programme
+start="20251113170000 +0000"
+stop="20251113193000 +0000"
+channel="ppv-13453"
+>
+<title lang="en">Norway vs. Estonia</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/ef0465664779165326ad738bebb9a173-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-13447">
 <display-name>AEW: Wednesday Night Dynamite</display-name>
 </channel>
