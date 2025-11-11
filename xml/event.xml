@@ -131,28 +131,6 @@ channel="ppv-13503"
 <icon src="https://api.ppvs.su/assets/thumb/5d1c9cccfe82bb286ac547432909b45d-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-13444">
-<display-name>Atlanta Hawks vs. LA Clippers</display-name>
-</channel>
-<programme
-start="20251111033000 +0000"
-stop="20251111061800 +0000"
-channel="ppv-13444"
->
-<title lang="en">Atlanta Hawks vs. LA Clippers</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://api.ppvs.su/assets/thumb/cb0ef61d39932a7f029ddc7ce66617aa-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-13352">
 <display-name>Grand Slam of Darts - Day 5</display-name>
 </channel>
