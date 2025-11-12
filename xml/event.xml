@@ -263,28 +263,6 @@ channel="ppv-13536"
 <icon src="https://api.ppvs.su/assets/thumb/6a02155eab6d84e8bedb871d46a1f9b2-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-13507">
-<display-name>Denver Nuggets vs. Sacramento Kings</display-name>
-</channel>
-<programme
-start="20251112040000 +0000"
-stop="20251112064800 +0000"
-channel="ppv-13507"
->
-<title lang="en">Denver Nuggets vs. Sacramento Kings</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://api.ppvs.su/assets/thumb/0b18d58f0c9d578f468c3d6bbc7ca3f7-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-13353">
 <display-name>Grand Slam of Darts - Day 6</display-name>
 </channel>
