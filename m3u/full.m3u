@@ -1,17 +1,35 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ppv-13545" tvg-name="Denver Nuggets vs. LA Clippers (13 November 2025 at 03:30)" tvg-epgid="13545" tvg-logo="https://api.ppvs.su/assets/thumb/e30415ef40718c3dd38b10a3a38fe04b-thumbnail.jpg",Denver Nuggets vs. LA Clippers (13 November 2025 at 03:30)
+
+#EXTINF:-1 tvg-id="ppv-13544" tvg-name="Atlanta Hawks vs. Sacramento Kings (13 November 2025 at 03:00)" tvg-epgid="13544" tvg-logo="https://api.ppvs.su/assets/thumb/e2ce50ab6dd899ad990c6a7283c734b7-thumbnail.jpg",Atlanta Hawks vs. Sacramento Kings (13 November 2025 at 03:00)
+
+#EXTINF:-1 tvg-id="ppv-13543" tvg-name="Los Angeles Lakers vs. Oklahoma City Thunder (13 November 2025 at 02:30)" tvg-epgid="13543" tvg-logo="https://api.ppvs.su/assets/thumb/0e221ecbaacfc58c9f50ccd049fb0c20-thumbnail.jpg",Los Angeles Lakers vs. Oklahoma City Thunder (13 November 2025 at 02:30)
+
+#EXTINF:-1 tvg-id="ppv-13542" tvg-name="Phoenix Suns vs. Dallas Mavericks (13 November 2025 at 01:30)" tvg-epgid="13542" tvg-logo="https://api.ppvs.su/assets/thumb/82e904740bf670aea8e049a7a52fa2f7-thumbnail.jpg",Phoenix Suns vs. Dallas Mavericks (13 November 2025 at 01:30)
+
+#EXTINF:-1 tvg-id="ppv-13539" tvg-name="Washington Wizards vs. Houston Rockets (13 November 2025 at 01:00)" tvg-epgid="13539" tvg-logo="https://api.ppvs.su/assets/thumb/35bd68e9ff6d21fa8adec701f8cfe8a9-thumbnail.jpg",Washington Wizards vs. Houston Rockets (13 November 2025 at 01:00)
+
+#EXTINF:-1 tvg-id="ppv-13540" tvg-name="Portland Trail Blazers vs. New Orleans Pelicans (13 November 2025 at 01:00)" tvg-epgid="13540" tvg-logo="https://api.ppvs.su/assets/thumb/70343239458ba7a2722f6557fcbd1186-thumbnail.jpg",Portland Trail Blazers vs. New Orleans Pelicans (13 November 2025 at 01:00)
+
+#EXTINF:-1 tvg-id="ppv-13541" tvg-name="Golden State Warriors vs. San Antonio Spurs (13 November 2025 at 01:00)" tvg-epgid="13541" tvg-logo="https://api.ppvs.su/assets/thumb/c64a6cf8d83ec20faf9a6fd2c93e3c60-thumbnail.jpg",Golden State Warriors vs. San Antonio Spurs (13 November 2025 at 01:00)
+
+#EXTINF:-1 tvg-id="ppv-13537" tvg-name="Memphis Grizzlies vs. Boston Celtics (13 November 2025 at 00:30)" tvg-epgid="13537" tvg-logo="https://api.ppvs.su/assets/thumb/d89809e20f83a3d67fecb0becbbc0c82-thumbnail.jpg",Memphis Grizzlies vs. Boston Celtics (13 November 2025 at 00:30)
+
+#EXTINF:-1 tvg-id="ppv-13538" tvg-name="Cleveland Cavaliers vs. Miami Heat (13 November 2025 at 00:30)" tvg-epgid="13538" tvg-logo="https://api.ppvs.su/assets/thumb/900d1853ad44f21b786dc36c90db6b2c-thumbnail.jpg",Cleveland Cavaliers vs. Miami Heat (13 November 2025 at 00:30)
+
+#EXTINF:-1 tvg-id="ppv-13534" tvg-name="Milwaukee Bucks vs. Charlotte Hornets (13 November 2025 at 00:00)" tvg-epgid="13534" tvg-logo="https://api.ppvs.su/assets/thumb/b7c691a7346e35df5a14b079cf482c3c-thumbnail.jpg",Milwaukee Bucks vs. Charlotte Hornets (13 November 2025 at 00:00)
+
+#EXTINF:-1 tvg-id="ppv-13535" tvg-name="Chicago Bulls vs. Detroit Pistons (13 November 2025 at 00:00)" tvg-epgid="13535" tvg-logo="https://api.ppvs.su/assets/thumb/7a6dc2f5fa84c331d2e58d6f48f99e2c-thumbnail.jpg",Chicago Bulls vs. Detroit Pistons (13 November 2025 at 00:00)
+
+#EXTINF:-1 tvg-id="ppv-13536" tvg-name="Orlando Magic vs. New York Knicks (13 November 2025 at 00:00)" tvg-epgid="13536" tvg-logo="https://api.ppvs.su/assets/thumb/6a02155eab6d84e8bedb871d46a1f9b2-thumbnail.jpg",Orlando Magic vs. New York Knicks (13 November 2025 at 00:00)
+
 #EXTINF:-1 tvg-id="ppv-13507" tvg-name="Denver Nuggets vs. Sacramento Kings (12 November 2025 at 04:00)" tvg-epgid="13507" tvg-logo="https://api.ppvs.su/assets/thumb/0b18d58f0c9d578f468c3d6bbc7ca3f7-thumbnail.jpg",Denver Nuggets vs. Sacramento Kings (12 November 2025 at 04:00)
 
 #EXTINF:-1 tvg-id="ppv-13533" tvg-name="Creighton Bluejays vs. Gonzaga Bulldogs (12 November 2025 at 03:00)" tvg-epgid="13533" tvg-logo="https://api.ppvs.su/assets/thumb/e397a1365b8cc840942bd596a07fb065-thumbnail.jpg",Creighton Bluejays vs. Gonzaga Bulldogs (12 November 2025 at 03:00)
 
-#EXTINF:-1 tvg-id="ppv-13506" tvg-name="Indiana Pacers vs. Utah Jazz (12 November 2025 at 02:00)" tvg-epgid="13506" tvg-logo="https://api.ppvs.su/assets/thumb/a13df17399ebc9b7091b6b9fa6f111c6-thumbnail.jpg",Indiana Pacers vs. Utah Jazz (12 November 2025 at 02:00)
-
 #EXTINF:-1 tvg-id="ppv-13531" tvg-name="Northern Arizona Lumberjacks vs. Arizona Wildcats (12 November 2025 at 02:00)" tvg-epgid="13531" tvg-logo="https://api.ppvs.su/assets/thumb/90aaeb81de571835276bf4d6658502ae-thumbnail.jpg",Northern Arizona Lumberjacks vs. Arizona Wildcats (12 November 2025 at 02:00)
 
 #EXTINF:-1 tvg-id="ppv-13532" tvg-name="Delaware Blue Hens vs. BYU Cougars (12 November 2025 at 02:00)" tvg-epgid="13532" tvg-logo="https://api.ppvs.su/assets/thumb/220f8b6527951de76dd67ffe66616b4f-thumbnail.jpg",Delaware Blue Hens vs. BYU Cougars (12 November 2025 at 02:00)
-
-#EXTINF:-1 tvg-id="ppv-13529" tvg-name="Texas Tech Red Raiders vs. Illinois Fighting Illini (12 November 2025 at 01:30)" tvg-epgid="13529" tvg-logo="https://api.ppvs.su/assets/thumb/0c529f382fc95e8202df02c1390200e6-thumbnail.jpg",Texas Tech Red Raiders vs. Illinois Fighting Illini (12 November 2025 at 01:30)
-
-#EXTINF:-1 tvg-id="ppv-13530" tvg-name="Ball State Cardinals vs. Wisconsin Badgers (12 November 2025 at 01:30)" tvg-epgid="13530" tvg-logo="https://api.ppvs.su/assets/thumb/c46a146f39c908437f15aaa03c1200bf-thumbnail.jpg",Ball State Cardinals vs. Wisconsin Badgers (12 November 2025 at 01:30)
 
 #EXTINF:-1 tvg-id="ppv-13353" tvg-name="Grand Slam of Darts - Day 6 (13 November 2025 at 19:00)" tvg-epgid="13353" tvg-logo="https://api.ppvs.su/assets/thumb/b09ec5417e8f5831860f91a0a8ea5e2b-thumbnail.jpg",Grand Slam of Darts - Day 6 (13 November 2025 at 19:00)
 
