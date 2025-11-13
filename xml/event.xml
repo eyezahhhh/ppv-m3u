@@ -87,28 +87,6 @@ channel="ppv-13545"
 <icon src="https://api.ppvs.su/assets/thumb/e30415ef40718c3dd38b10a3a38fe04b-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-13544">
-<display-name>Atlanta Hawks vs. Sacramento Kings</display-name>
-</channel>
-<programme
-start="20251113030000 +0000"
-stop="20251113054800 +0000"
-channel="ppv-13544"
->
-<title lang="en">Atlanta Hawks vs. Sacramento Kings</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://api.ppvs.su/assets/thumb/e2ce50ab6dd899ad990c6a7283c734b7-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-13354">
 <display-name>Grand Slam of Darts - Day 7</display-name>
 </channel>
