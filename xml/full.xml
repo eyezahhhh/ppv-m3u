@@ -1,4 +1,70 @@
 <tv>
+<channel id="ppv-13556">
+<display-name>Indiana Pacers vs. Phoenix Suns</display-name>
+</channel>
+<programme
+start="20251114020000 +0000"
+stop="20251114044800 +0000"
+channel="ppv-13556"
+>
+<title lang="en">Indiana Pacers vs. Phoenix Suns</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://api.ppvs.su/assets/thumb/955758ef984b19124ca0113c818b442b-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13557">
+<display-name>Atlanta Hawks vs. Utah Jazz</display-name>
+</channel>
+<programme
+start="20251114020000 +0000"
+stop="20251114044800 +0000"
+channel="ppv-13557"
+>
+<title lang="en">Atlanta Hawks vs. Utah Jazz</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://api.ppvs.su/assets/thumb/cfd00837a13d1272b40ca6e8d112133a-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13554">
+<display-name>Toronto Raptors vs. Cleveland Cavaliers</display-name>
+</channel>
+<programme
+start="20251114000000 +0000"
+stop="20251114024800 +0000"
+channel="ppv-13554"
+>
+<title lang="en">Toronto Raptors vs. Cleveland Cavaliers</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://api.ppvs.su/assets/thumb/c1edd1823dfb05bab687ca2686fd7ea7-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-13545">
 <display-name>Denver Nuggets vs. LA Clippers</display-name>
 </channel>
@@ -437,28 +503,6 @@ channel="ppv-13551"
 </audio>
 <category>Ice Hockey</category>
 <icon src="https://api.ppvs.su/assets/thumb/c4153995e67377321290c8479ffaf960-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13550">
-<display-name>Buffalo Sabres vs. Utah Mammoth</display-name>
-</channel>
-<programme
-start="20251113020000 +0000"
-stop="20251113050000 +0000"
-channel="ppv-13550"
->
-<title lang="en">Buffalo Sabres vs. Utah Mammoth</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://api.ppvs.su/assets/thumb/58dbeab69bbcb9b2b9ccb57869ff4db5-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-13224">
