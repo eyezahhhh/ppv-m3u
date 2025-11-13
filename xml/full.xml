@@ -109,6 +109,94 @@ channel="ppv-13353"
 <icon src="https://api.ppvs.su/assets/thumb/b09ec5417e8f5831860f91a0a8ea5e2b-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-13466">
+<display-name>Türki̇ye vs. Bulgaria</display-name>
+</channel>
+<programme
+start="20251115170000 +0000"
+stop="20251115193000 +0000"
+channel="ppv-13466"
+>
+<title lang="en">Türki̇ye vs. Bulgaria</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/66bea7557abbd81b2cf1e59881f17653-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13467">
+<display-name>Georgia vs. Spain</display-name>
+</channel>
+<programme
+start="20251115170000 +0000"
+stop="20251115193000 +0000"
+channel="ppv-13467"
+>
+<title lang="en">Georgia vs. Spain</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/fd86e0ef4e8b1b761a099e8bdebb9918-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13468">
+<display-name>Cyprus vs. Austria</display-name>
+</channel>
+<programme
+start="20251115170000 +0000"
+stop="20251115193000 +0000"
+channel="ppv-13468"
+>
+<title lang="en">Cyprus vs. Austria</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/0b712cf75766c45c36b78b528c904149-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13469">
+<display-name>Liechtenstein vs. Wales</display-name>
+</channel>
+<programme
+start="20251115170000 +0000"
+stop="20251115193000 +0000"
+channel="ppv-13469"
+>
+<title lang="en">Liechtenstein vs. Wales</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/c4c382239fc0f0072c98ce7c44a919fc-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-13465">
 <display-name>Kazakhstan vs. Belgium</display-name>
 </channel>
