@@ -87,72 +87,6 @@ channel="ppv-13542"
 <icon src="https://api.ppvs.su/assets/thumb/82e904740bf670aea8e049a7a52fa2f7-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-13539">
-<display-name>Washington Wizards vs. Houston Rockets</display-name>
-</channel>
-<programme
-start="20251113010000 +0000"
-stop="20251113034800 +0000"
-channel="ppv-13539"
->
-<title lang="en">Washington Wizards vs. Houston Rockets</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://api.ppvs.su/assets/thumb/35bd68e9ff6d21fa8adec701f8cfe8a9-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13540">
-<display-name>Portland Trail Blazers vs. New Orleans Pelicans</display-name>
-</channel>
-<programme
-start="20251113010000 +0000"
-stop="20251113034800 +0000"
-channel="ppv-13540"
->
-<title lang="en">Portland Trail Blazers vs. New Orleans Pelicans</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://api.ppvs.su/assets/thumb/70343239458ba7a2722f6557fcbd1186-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13541">
-<display-name>Golden State Warriors vs. San Antonio Spurs</display-name>
-</channel>
-<programme
-start="20251113010000 +0000"
-stop="20251113034800 +0000"
-channel="ppv-13541"
->
-<title lang="en">Golden State Warriors vs. San Antonio Spurs</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://api.ppvs.su/assets/thumb/c64a6cf8d83ec20faf9a6fd2c93e3c60-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-13553">
 <display-name>Oakland Golden Grizzlies vs. Houston Cougars</display-name>
 </channel>
@@ -635,27 +569,5 @@ channel="ppv-13448"
 </audio>
 <category>Wrestling</category>
 <icon src="https://api.ppvs.su/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13447">
-<display-name>AEW: Wednesday Night Dynamite</display-name>
-</channel>
-<programme
-start="20251113010000 +0000"
-stop="20251113040000 +0000"
-channel="ppv-13447"
->
-<title lang="en">AEW: Wednesday Night Dynamite</title>
-<sub-title>Wrestling</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Wrestling</category>
-<icon src="https://api.ppvs.su/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg" />
 </programme>
 </tv>
