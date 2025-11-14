@@ -1055,50 +1055,6 @@ channel="ppv-13459"
 <icon src="https://api.ppvs.su/assets/thumb/3d2638821274821be53f6fa51d361fe9-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-13566">
-<display-name>New York Islanders vs. Vegas Golden Knights</display-name>
-</channel>
-<programme
-start="20251114030000 +0000"
-stop="20251114060000 +0000"
-channel="ppv-13566"
->
-<title lang="en">New York Islanders vs. Vegas Golden Knights</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://api.ppvs.su/assets/thumb/0494e46ae90ff1c80ae488f1e7edef57-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13567">
-<display-name>Winnipeg Jets vs. Seattle Kraken</display-name>
-</channel>
-<programme
-start="20251114030000 +0000"
-stop="20251114060000 +0000"
-channel="ppv-13567"
->
-<title lang="en">Winnipeg Jets vs. Seattle Kraken</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://api.ppvs.su/assets/thumb/2b607f93be2e3bb42d953d54a61367d0-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-13224">
 <display-name>Skankfest: New Orleans</display-name>
 </channel>
