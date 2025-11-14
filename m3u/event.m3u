@@ -91,8 +91,6 @@
 
 #EXTINF:-1 tvg-id="ppv-13355" tvg-name="Grand Slam of Darts - Day 8 (15 November 2025 at 19:00)" tvg-epgid="13355" tvg-logo="https://api.ppvs.su/assets/thumb/b09ec5417e8f5831860f91a0a8ea5e2b-thumbnail.jpg",Grand Slam of Darts - Day 8 (15 November 2025 at 19:00)
 
-#EXTINF:-1 tvg-id="ppv-13354" tvg-name="Grand Slam of Darts - Day 7 (14 November 2025 at 19:00)" tvg-epgid="13354" tvg-logo="https://api.ppvs.su/assets/thumb/b09ec5417e8f5831860f91a0a8ea5e2b-thumbnail.jpg",Grand Slam of Darts - Day 7 (14 November 2025 at 19:00)
-
 #EXTINF:-1 tvg-id="ppv-13481" tvg-name="Italy vs. Norway (16 November 2025 at 19:45)" tvg-epgid="13481" tvg-logo="https://api.ppvs.su/assets/thumb/c2a4a12a628c94af8d1ec559c5b89727-thumbnail.jpg",Italy vs. Norway (16 November 2025 at 19:45)
 
 #EXTINF:-1 tvg-id="ppv-13482" tvg-name="Israel vs. Moldova (16 November 2025 at 19:45)" tvg-epgid="13482" tvg-logo="https://api.ppvs.su/assets/thumb/22750b4902c2558ffe63995d580f7b7f-thumbnail.jpg",Israel vs. Moldova (16 November 2025 at 19:45)
@@ -129,11 +127,19 @@
 
 #EXTINF:-1 tvg-id="ppv-13465" tvg-name="Kazakhstan vs. Belgium (15 November 2025 at 14:00)" tvg-epgid="13465" tvg-logo="https://api.ppvs.su/assets/thumb/8d63714ff29d2dbdc2a01166c9140549-thumbnail.jpg",Kazakhstan vs. Belgium (15 November 2025 at 14:00)
 
+#EXTINF:-1 tvg-id="ppv-13231" tvg-name="Providence vs Merrimack (16 November 2025 at 23:00)" tvg-epgid="13231" tvg-logo="https://api.ppvs.su/assets/thumb/c4de2ac599e2362af0e819cf2abae826-thumbnail.jpg",Providence vs Merrimack (16 November 2025 at 23:00)
+
 #EXTINF:-1 tvg-id="ppv-13623" tvg-name="Islanders vs. Mammoth (15 November 2025 at 02:00)" tvg-epgid="13623" tvg-logo="https://api.ppvs.su/assets/thumb/362fca9e7882d46521cfed0c7a9a78a7-thumbnail.jpg",Islanders vs. Mammoth (15 November 2025 at 02:00)
+
+#EXTINF:-1 tvg-id="ppv-13627" tvg-name="New York Islanders vs. Utah Mammoth (15 November 2025 at 02:00)" tvg-epgid="13627" tvg-logo="https://api.ppvs.su/assets/thumb/84f1ca55adfee6e64593e51c1b056f20-thumbnail.jpg",New York Islanders vs. Utah Mammoth (15 November 2025 at 02:00)
 
 #EXTINF:-1 tvg-id="ppv-13622" tvg-name="Flyers vs. Blues (15 November 2025 at 01:00)" tvg-epgid="13622" tvg-logo="https://api.ppvs.su/assets/thumb/c8bf6740bf1ad31106889c365206e6b9-thumbnail.jpg",Flyers vs. Blues (15 November 2025 at 01:00)
 
+#EXTINF:-1 tvg-id="ppv-13626" tvg-name="Philadelphia Flyers vs. St. Louis Blues (15 November 2025 at 01:00)" tvg-epgid="13626" tvg-logo="https://api.ppvs.su/assets/thumb/932d9ee3c50170d2b3339fe06c5a809b-thumbnail.jpg",Philadelphia Flyers vs. St. Louis Blues (15 November 2025 at 01:00)
+
 #EXTINF:-1 tvg-id="ppv-13621" tvg-name="Canucks vs. Hurricanes (15 November 2025 at 00:00)" tvg-epgid="13621" tvg-logo="https://api.ppvs.su/assets/thumb/c057947c57b25a343f79f5b1d13ad1c3-thumbnail.jpg",Canucks vs. Hurricanes (15 November 2025 at 00:00)
+
+#EXTINF:-1 tvg-id="ppv-13625" tvg-name="Vancouver Canucks vs. Carolina Hurricanes (15 November 2025 at 00:00)" tvg-epgid="13625" tvg-logo="https://api.ppvs.su/assets/thumb/94e45e99781f302fc78b277ca4039756-thumbnail.jpg",Vancouver Canucks vs. Carolina Hurricanes (15 November 2025 at 00:00)
 
 #EXTINF:-1 tvg-id="ppv-13224" tvg-name="Skankfest: New Orleans (14 November 2025 at 18:00)" tvg-epgid="13224" tvg-logo="https://api.ppvs.su/assets/thumb/f2e1696c889d9ab460134d1d90234a88-thumbnail.jpg",Skankfest: New Orleans (14 November 2025 at 18:00)
 
