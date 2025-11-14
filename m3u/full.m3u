@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ppv-13577" tvg-name="Seattle Seahawks vs. Los Angeles Rams (16 November 2025 at 21:05)" tvg-epgid="13577" tvg-logo="https://api.ppvs.su/assets/thumb/5bb8c89893779e2382c37b9d72285d38-thumbnail.jpg",Seattle Seahawks vs. Los Angeles Rams (16 November 2025 at 21:05)
+
+#EXTINF:-1 tvg-id="ppv-13578" tvg-name="San Francisco 49ers vs. Arizona Cardinals (16 November 2025 at 21:05)" tvg-epgid="13578" tvg-logo="https://api.ppvs.su/assets/thumb/6b50c79debff092214fa052f1b6697d6-thumbnail.jpg",San Francisco 49ers vs. Arizona Cardinals (16 November 2025 at 21:05)
+
 #EXTINF:-1 tvg-id="ppv-13570" tvg-name="Carolina Panthers vs. Atlanta Falcons (16 November 2025 at 18:00)" tvg-epgid="13570" tvg-logo="https://api.ppvs.su/assets/thumb/fa7b8fc345425626133d11e328ddf470-thumbnail.jpg",Carolina Panthers vs. Atlanta Falcons (16 November 2025 at 18:00)
 
 #EXTINF:-1 tvg-id="ppv-13571" tvg-name="Tampa Bay Buccaneers vs. Buffalo Bills (16 November 2025 at 18:00)" tvg-epgid="13571" tvg-logo="https://api.ppvs.su/assets/thumb/ee2f0234de4c486b262c5d2d52818aa3-thumbnail.jpg",Tampa Bay Buccaneers vs. Buffalo Bills (16 November 2025 at 18:00)
