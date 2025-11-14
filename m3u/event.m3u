@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ppv-13600" tvg-name="UCLA Bruins vs. Ohio State Buckeyes (16 November 2025 at 00:30)" tvg-epgid="13600" tvg-logo="https://api.ppvs.su/assets/thumb/01a0f890babf0874eceff2c5d6b64f98-thumbnail.jpg",UCLA Bruins vs. Ohio State Buckeyes (16 November 2025 at 00:30)
+
+#EXTINF:-1 tvg-id="ppv-13601" tvg-name="Texas Longhorns vs. Georgia Bulldogs (16 November 2025 at 00:30)" tvg-epgid="13601" tvg-logo="https://api.ppvs.su/assets/thumb/3e466c62e21ed93798f063c9fe633966-thumbnail.jpg",Texas Longhorns vs. Georgia Bulldogs (16 November 2025 at 00:30)
+
 #EXTINF:-1 tvg-id="ppv-13598" tvg-name="Florida Gators vs. Ole Miss Rebels (16 November 2025 at 00:00)" tvg-epgid="13598" tvg-logo="https://api.ppvs.su/assets/thumb/6985a2dd4efb0ceedae6647866c8bdeb-thumbnail.jpg",Florida Gators vs. Ole Miss Rebels (16 November 2025 at 00:00)
 
 #EXTINF:-1 tvg-id="ppv-13599" tvg-name="Utah Utes vs. Baylor Bears (16 November 2025 at 00:00)" tvg-epgid="13599" tvg-logo="https://api.ppvs.su/assets/thumb/a7d8bef9f7194c83fdbd1ee387a4621f-thumbnail.jpg",Utah Utes vs. Baylor Bears (16 November 2025 at 00:00)
