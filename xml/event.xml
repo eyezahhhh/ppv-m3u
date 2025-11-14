@@ -1,4 +1,48 @@
 <tv>
+<channel id="ppv-13579">
+<display-name>Baltimore Ravens vs. Cleveland Browns</display-name>
+</channel>
+<programme
+start="20251116212500 +0000"
+stop="20251117005500 +0000"
+channel="ppv-13579"
+>
+<title lang="en">Baltimore Ravens vs. Cleveland Browns</title>
+<sub-title>American Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>American Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/95c4ebfbaf7fc7dcbdaf2209e0c18d1b-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13580">
+<display-name>Kansas City Chiefs vs. Denver Broncos</display-name>
+</channel>
+<programme
+start="20251116212500 +0000"
+stop="20251117005500 +0000"
+channel="ppv-13580"
+>
+<title lang="en">Kansas City Chiefs vs. Denver Broncos</title>
+<sub-title>American Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>American Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/e44452c968e07e7548f4b773e489bb3b-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-13577">
 <display-name>Seattle Seahawks vs. Los Angeles Rams</display-name>
 </channel>
