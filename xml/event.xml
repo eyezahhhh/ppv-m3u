@@ -1539,6 +1539,72 @@ channel="ppv-13464"
 <icon src="https://api.ppvs.su/assets/thumb/b2b56e343345ebc082402beb2575e852-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-13623">
+<display-name>Islanders vs. Mammoth</display-name>
+</channel>
+<programme
+start="20251115020000 +0000"
+stop="20251115050000 +0000"
+channel="ppv-13623"
+>
+<title lang="en">Islanders vs. Mammoth</title>
+<sub-title>Ice Hockey</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Ice Hockey</category>
+<icon src="https://api.ppvs.su/assets/thumb/362fca9e7882d46521cfed0c7a9a78a7-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13622">
+<display-name>Flyers vs. Blues</display-name>
+</channel>
+<programme
+start="20251115010000 +0000"
+stop="20251115040000 +0000"
+channel="ppv-13622"
+>
+<title lang="en">Flyers vs. Blues</title>
+<sub-title>Ice Hockey</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Ice Hockey</category>
+<icon src="https://api.ppvs.su/assets/thumb/c8bf6740bf1ad31106889c365206e6b9-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13621">
+<display-name>Canucks vs. Hurricanes</display-name>
+</channel>
+<programme
+start="20251115000000 +0000"
+stop="20251115030000 +0000"
+channel="ppv-13621"
+>
+<title lang="en">Canucks vs. Hurricanes</title>
+<sub-title>Ice Hockey</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Ice Hockey</category>
+<icon src="https://api.ppvs.su/assets/thumb/c057947c57b25a343f79f5b1d13ad1c3-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-13224">
 <display-name>Skankfest: New Orleans</display-name>
 </channel>
