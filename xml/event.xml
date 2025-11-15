@@ -681,28 +681,6 @@ channel="ppv-13590"
 <icon src="https://api.ppvs.su/assets/thumb/33c8ab5cececc16200342a0c9a66f10e-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-13584">
-<display-name>Minnesota Golden Gophers vs. Oregon Ducks</display-name>
-</channel>
-<programme
-start="20251115020000 +0000"
-stop="20251115053000 +0000"
-channel="ppv-13584"
->
-<title lang="en">Minnesota Golden Gophers vs. Oregon Ducks</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/01dc4a4c3fecd092d4bcdf36ad58a642-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-13642">
 <display-name>Los Angeles Lakers vs. Milwaukee Bucks</display-name>
 </channel>
@@ -855,72 +833,6 @@ channel="ppv-13636"
 </audio>
 <category>Basketball</category>
 <icon src="https://api.ppvs.su/assets/thumb/e7b8ab1c363952a8106121d5620550ce-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13617">
-<display-name>Golden State Warriors vs. San Antonio Spurs (West Group C)</display-name>
-</channel>
-<programme
-start="20251115023000 +0000"
-stop="20251115051800 +0000"
-channel="ppv-13617"
->
-<title lang="en">Golden State Warriors vs. San Antonio Spurs (West Group C)</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://api.ppvs.su/assets/thumb/c64a6cf8d83ec20faf9a6fd2c93e3c60-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13633">
-<display-name>Michigan Wolverines vs. TCU Horned Frogs</display-name>
-</channel>
-<programme
-start="20251115020000 +0000"
-stop="20251115053000 +0000"
-channel="ppv-13633"
->
-<title lang="en">Michigan Wolverines vs. TCU Horned Frogs</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://api.ppvs.su/assets/thumb/5fd161f182f9d2d6acbb3ad7c7fd470e-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13635">
-<display-name>North Carolina Central Eagles vs. North Carolina Tar Heels</display-name>
-</channel>
-<programme
-start="20251115020000 +0000"
-stop="20251115053000 +0000"
-channel="ppv-13635"
->
-<title lang="en">North Carolina Central Eagles vs. North Carolina Tar Heels</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://api.ppvs.su/assets/thumb/c6f6e0c1a507104b6d3e6a5df121f9c1-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-13546">
