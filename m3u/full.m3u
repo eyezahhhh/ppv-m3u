@@ -63,8 +63,6 @@
 
 #EXTINF:-1 tvg-id="ppv-13584" tvg-name="Minnesota Golden Gophers vs. Oregon Ducks (15 November 2025 at 02:00)" tvg-epgid="13584" tvg-logo="https://api.ppvs.su/assets/thumb/01dc4a4c3fecd092d4bcdf36ad58a642-thumbnail.jpg",Minnesota Golden Gophers vs. Oregon Ducks (15 November 2025 at 02:00)
 
-#EXTINF:-1 tvg-id="ppv-13583" tvg-name="Clemson Tigers vs. Louisville Cardinals (15 November 2025 at 00:30)" tvg-epgid="13583" tvg-logo="https://api.ppvs.su/assets/thumb/69cb9d574e28c96920c86a3ae1390f61-thumbnail.jpg",Clemson Tigers vs. Louisville Cardinals (15 November 2025 at 00:30)
-
 #EXTINF:-1 tvg-id="ppv-13637" tvg-name="Gonzaga Bulldogs vs. Arizona State Sun Devils (15 November 2025 at 04:00)" tvg-epgid="13637" tvg-logo="https://api.ppvs.su/assets/thumb/1befe93b9c43777049ee90f07295c607-thumbnail.jpg",Gonzaga Bulldogs vs. Arizona State Sun Devils (15 November 2025 at 04:00)
 
 #EXTINF:-1 tvg-id="ppv-13636" tvg-name="Arizona Wildcats vs. UCLA Bruins (15 November 2025 at 03:00)" tvg-epgid="13636" tvg-logo="https://api.ppvs.su/assets/thumb/e7b8ab1c363952a8106121d5620550ce-thumbnail.jpg",Arizona Wildcats vs. UCLA Bruins (15 November 2025 at 03:00)
@@ -76,14 +74,6 @@
 #EXTINF:-1 tvg-id="ppv-13635" tvg-name="North Carolina Central Eagles vs. North Carolina Tar Heels (15 November 2025 at 02:00)" tvg-epgid="13635" tvg-logo="https://api.ppvs.su/assets/thumb/c6f6e0c1a507104b6d3e6a5df121f9c1-thumbnail.jpg",North Carolina Central Eagles vs. North Carolina Tar Heels (15 November 2025 at 02:00)
 
 #EXTINF:-1 tvg-id="ppv-13616" tvg-name="LA Clippers vs. Dallas Mavericks (West Group B) (15 November 2025 at 01:30)" tvg-epgid="13616" tvg-logo="https://api.ppvs.su/assets/thumb/79e5ab23c2a855f12d8148f2092a54e3-thumbnail.jpg",LA Clippers vs. Dallas Mavericks (West Group B) (15 November 2025 at 01:30)
-
-#EXTINF:-1 tvg-id="ppv-13611" tvg-name="Portland Trail Blazers vs. Houston Rockets (West Group C) (15 November 2025 at 01:00)" tvg-epgid="13611" tvg-logo="https://api.ppvs.su/assets/thumb/04507f2b605acbe0bcb855155354f17d-thumbnail.jpg",Portland Trail Blazers vs. Houston Rockets (West Group C) (15 November 2025 at 01:00)
-
-#EXTINF:-1 tvg-id="ppv-13612" tvg-name="Charlotte Hornets vs. Milwaukee Bucks (East Group C) (15 November 2025 at 01:00)" tvg-epgid="13612" tvg-logo="https://api.ppvs.su/assets/thumb/ce722507dc9e073bed8c8d911911b3b3-thumbnail.jpg",Charlotte Hornets vs. Milwaukee Bucks (East Group C) (15 November 2025 at 01:00)
-
-#EXTINF:-1 tvg-id="ppv-13613" tvg-name="Sacramento Kings vs. Minnesota Timberwolves (West Group A) (15 November 2025 at 01:00)" tvg-epgid="13613" tvg-logo="https://api.ppvs.su/assets/thumb/989d3e8e8dcc8f3cf3aba1a196e66158-thumbnail.jpg",Sacramento Kings vs. Minnesota Timberwolves (West Group A) (15 November 2025 at 01:00)
-
-#EXTINF:-1 tvg-id="ppv-13614" tvg-name="Los Angeles Lakers vs. New Orleans Pelicans (West Group B) (15 November 2025 at 01:00)" tvg-epgid="13614" tvg-logo="https://api.ppvs.su/assets/thumb/0f43ce163452dd11f86f2e136bba3521-thumbnail.jpg",Los Angeles Lakers vs. New Orleans Pelicans (West Group B) (15 November 2025 at 01:00)
 
 #EXTINF:-1 tvg-id="ppv-13630" tvg-name="Milwaukee Panthers vs. Texas Tech Red Raiders (15 November 2025 at 01:00)" tvg-epgid="13630" tvg-logo="https://api.ppvs.su/assets/thumb/4551a12717ad4201b0f01531f4258348-thumbnail.jpg",Milwaukee Panthers vs. Texas Tech Red Raiders (15 November 2025 at 01:00)
 
@@ -141,11 +131,7 @@
 
 #EXTINF:-1 tvg-id="ppv-13627" tvg-name="New York Islanders vs. Utah Mammoth (15 November 2025 at 02:00)" tvg-epgid="13627" tvg-logo="https://api.ppvs.su/assets/thumb/84f1ca55adfee6e64593e51c1b056f20-thumbnail.jpg",New York Islanders vs. Utah Mammoth (15 November 2025 at 02:00)
 
-#EXTINF:-1 tvg-id="ppv-13626" tvg-name="Philadelphia Flyers vs. St. Louis Blues (15 November 2025 at 01:00)" tvg-epgid="13626" tvg-logo="https://api.ppvs.su/assets/thumb/932d9ee3c50170d2b3339fe06c5a809b-thumbnail.jpg",Philadelphia Flyers vs. St. Louis Blues (15 November 2025 at 01:00)
-
 #EXTINF:-1 tvg-id="ppv-13224" tvg-name="Skankfest: New Orleans (14 November 2025 at 18:00)" tvg-epgid="13224" tvg-logo="https://api.ppvs.su/assets/thumb/f2e1696c889d9ab460134d1d90234a88-thumbnail.jpg",Skankfest: New Orleans (14 November 2025 at 18:00)
 
 #EXTINF:-1 tvg-id="ppv-13450" tvg-name="AEW: Saturday Night Collision (16 November 2025 at 01:00)" tvg-epgid="13450" tvg-logo="https://api.ppvs.su/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg",AEW: Saturday Night Collision (16 November 2025 at 01:00)
-
-#EXTINF:-1 tvg-id="ppv-13449" tvg-name="WWE: Friday Night Smackdown (15 November 2025 at 01:00)" tvg-epgid="13449" tvg-logo="https://api.ppvs.su/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg",WWE: Friday Night Smackdown (15 November 2025 at 01:00)
 
