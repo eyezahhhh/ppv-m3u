@@ -63,8 +63,6 @@
 
 #EXTINF:-1 tvg-id="ppv-13638" tvg-name="Memphis Grizzlies vs. Cleveland Cavaliers (15 November 2025 at 22:00)" tvg-epgid="13638" tvg-logo="https://api.ppvs.su/assets/thumb/37e361ffb79b7ff4a79fc65d4e05f30a-thumbnail.jpg",Memphis Grizzlies vs. Cleveland Cavaliers (15 November 2025 at 22:00)
 
-#EXTINF:-1 tvg-id="ppv-13645" tvg-name="Princeton Tigers vs. Kansas Jayhawks (15 November 2025 at 19:00)" tvg-epgid="13645" tvg-logo="https://api.ppvs.su/assets/thumb/808bffef55503846bdca106ec2607e94-thumbnail.jpg",Princeton Tigers vs. Kansas Jayhawks (15 November 2025 at 19:00)
-
 #EXTINF:-1 tvg-id="ppv-13661" tvg-name="UFC 322: Della Maddalena vs. Makhachev (ESPN+) (16 November 2025 at 03:00)" tvg-epgid="13661" tvg-logo="https://api.ppvs.su/assets/thumb/0f265c257c1da7483f6c6f2439f6a789-thumbnail.jpg",UFC 322: Della Maddalena vs. Makhachev (ESPN+) (16 November 2025 at 03:00)
 
 #EXTINF:-1 tvg-id="ppv-13546" tvg-name="UFC 322: Della Maddalena vs. Makhachev (15 November 2025 at 23:00)" tvg-epgid="13546" tvg-logo="https://api.ppvs.su/assets/thumb/f752b3f8b3a333d521202fba6c8e0d24-thumbnail.jpg",UFC 322: Della Maddalena vs. Makhachev (15 November 2025 at 23:00)
@@ -104,16 +102,6 @@
 #EXTINF:-1 tvg-id="ppv-13475" tvg-name="Hungary vs. Republic of Ireland (16 November 2025 at 14:00)" tvg-epgid="13475" tvg-logo="https://api.ppvs.su/assets/thumb/8e1b6d1e94574135e2a692efeffcbb87-thumbnail.jpg",Hungary vs. Republic of Ireland (16 November 2025 at 14:00)
 
 #EXTINF:-1 tvg-id="ppv-13476" tvg-name="Portugal vs. Armenia (16 November 2025 at 14:00)" tvg-epgid="13476" tvg-logo="https://api.ppvs.su/assets/thumb/53633da974263321b0df3e01f3ed9101-thumbnail.jpg",Portugal vs. Armenia (16 November 2025 at 14:00)
-
-#EXTINF:-1 tvg-id="ppv-13470" tvg-name="Denmark vs. Belarus (15 November 2025 at 19:45)" tvg-epgid="13470" tvg-logo="https://api.ppvs.su/assets/thumb/f15618808dcba1c2d52cb7a14e4cf081-thumbnail.jpg",Denmark vs. Belarus (15 November 2025 at 19:45)
-
-#EXTINF:-1 tvg-id="ppv-13471" tvg-name="Switzerland vs. Sweden (15 November 2025 at 19:45)" tvg-epgid="13471" tvg-logo="https://api.ppvs.su/assets/thumb/6430e82f79d5e976fd661f82c6c8e5ed-thumbnail.jpg",Switzerland vs. Sweden (15 November 2025 at 19:45)
-
-#EXTINF:-1 tvg-id="ppv-13472" tvg-name="Greece vs. Scotland (15 November 2025 at 19:45)" tvg-epgid="13472" tvg-logo="https://api.ppvs.su/assets/thumb/4fc4289fb8ec7f47945f7b58ce0976f0-thumbnail.jpg",Greece vs. Scotland (15 November 2025 at 19:45)
-
-#EXTINF:-1 tvg-id="ppv-13473" tvg-name="Slovenia vs. Kosovo (15 November 2025 at 19:45)" tvg-epgid="13473" tvg-logo="https://api.ppvs.su/assets/thumb/ffff08026a07d4e97af1ab7fe4c0a2fa-thumbnail.jpg",Slovenia vs. Kosovo (15 November 2025 at 19:45)
-
-#EXTINF:-1 tvg-id="ppv-13474" tvg-name="Bosnia and Herzegovina vs. Romania (15 November 2025 at 19:45)" tvg-epgid="13474" tvg-logo="https://api.ppvs.su/assets/thumb/007a1ae4420a41bdb7ee51afa0a06631-thumbnail.jpg",Bosnia and Herzegovina vs. Romania (15 November 2025 at 19:45)
 
 #EXTINF:-1 tvg-id="ppv-13231" tvg-name="Providence vs Merrimack (16 November 2025 at 23:00)" tvg-epgid="13231" tvg-logo="https://api.ppvs.su/assets/thumb/c4de2ac599e2362af0e819cf2abae826-thumbnail.jpg",Providence vs Merrimack (16 November 2025 at 23:00)
 
