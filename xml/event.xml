@@ -813,28 +813,6 @@ channel="ppv-13637"
 <icon src="https://api.ppvs.su/assets/thumb/1befe93b9c43777049ee90f07295c607-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-13636">
-<display-name>Arizona Wildcats vs. UCLA Bruins</display-name>
-</channel>
-<programme
-start="20251115030000 +0000"
-stop="20251115063000 +0000"
-channel="ppv-13636"
->
-<title lang="en">Arizona Wildcats vs. UCLA Bruins</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://api.ppvs.su/assets/thumb/e7b8ab1c363952a8106121d5620550ce-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-13546">
 <display-name>UFC 322: Della Maddalena vs. Makhachev</display-name>
 </channel>
