@@ -989,6 +989,138 @@ channel="ppv-13355"
 <icon src="https://api.ppvs.su/assets/thumb/b09ec5417e8f5831860f91a0a8ea5e2b-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-13483">
+<display-name>Czechia vs. Gibraltar</display-name>
+</channel>
+<programme
+start="20251117194500 +0000"
+stop="20251117221500 +0000"
+channel="ppv-13483"
+>
+<title lang="en">Czechia vs. Gibraltar</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/b51d9ae94e06331c670d728b0a7a8141-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13484">
+<display-name>Northern Ireland vs. Luxembourg</display-name>
+</channel>
+<programme
+start="20251117194500 +0000"
+stop="20251117221500 +0000"
+channel="ppv-13484"
+>
+<title lang="en">Northern Ireland vs. Luxembourg</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/bc029260ef40d988a1fc1851c2bed84d-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13485">
+<display-name>Montenegro vs. Croatia</display-name>
+</channel>
+<programme
+start="20251117194500 +0000"
+stop="20251117221500 +0000"
+channel="ppv-13485"
+>
+<title lang="en">Montenegro vs. Croatia</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/c0d5fb534faa2b6f1d47120bdde67fce-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13486">
+<display-name>Malta vs. Poland</display-name>
+</channel>
+<programme
+start="20251117194500 +0000"
+stop="20251117221500 +0000"
+channel="ppv-13486"
+>
+<title lang="en">Malta vs. Poland</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/2481cf7dd7500299937d25ef888b0079-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13487">
+<display-name>Germany vs. Slovakia</display-name>
+</channel>
+<programme
+start="20251117194500 +0000"
+stop="20251117221500 +0000"
+channel="ppv-13487"
+>
+<title lang="en">Germany vs. Slovakia</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/782d15ceccf823f5881d9b8af99fcd18-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13488">
+<display-name>Netherlands vs. Lithuania</display-name>
+</channel>
+<programme
+start="20251117194500 +0000"
+stop="20251117221500 +0000"
+channel="ppv-13488"
+>
+<title lang="en">Netherlands vs. Lithuania</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/31f32c9de73ec8d88e2199e043502ada-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-13481">
 <display-name>Italy vs. Norway</display-name>
 </channel>
