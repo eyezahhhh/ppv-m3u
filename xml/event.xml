@@ -971,8 +971,8 @@ channel="ppv-13660"
 <display-name>Skankfest: New Orleans</display-name>
 </channel>
 <programme
-start="20251115200000 +0000"
-stop="20251120200000 +0000"
+start="20251116200000 +0000"
+stop="20251121200000 +0000"
 channel="ppv-13224"
 >
 <title lang="en">Skankfest: New Orleans</title>
@@ -986,6 +986,6 @@ channel="ppv-13224"
 <stereo>stereo</stereo>
 </audio>
 <category>Miscellaneous</category>
-<icon src="https://api.ppvs.su/assets/thumb/4b7cc76be329823e61bd7a6a13da518f-thumbnail.jpg" />
+<icon src="https://api.ppvs.su/assets/thumb/a4b0b249bc493a950bbcf7eb9980302a-thumbnail.jpg" />
 </programme>
 </tv>
