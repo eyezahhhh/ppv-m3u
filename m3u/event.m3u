@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ppv-13582" tvg-name="Dallas Cowboys vs. Las Vegas Raiders (18 November 2025 at 01:15)" tvg-epgid="13582" tvg-logo="https://api.ppvs.su/assets/thumb/4dba27aa4735346e83752332cd1ebaae-thumbnail.jpg",Dallas Cowboys vs. Las Vegas Raiders (18 November 2025 at 01:15)
+
 #EXTINF:-1 tvg-id="ppv-13581" tvg-name="Detroit Lions vs. Philadelphia Eagles (17 November 2025 at 01:20)" tvg-epgid="13581" tvg-logo="https://api.ppvs.su/assets/thumb/fa89b1b957c4758b182991f4615e302f-thumbnail.jpg",Detroit Lions vs. Philadelphia Eagles (17 November 2025 at 01:20)
 
 #EXTINF:-1 tvg-id="ppv-13579" tvg-name="Baltimore Ravens vs. Cleveland Browns (16 November 2025 at 21:25)" tvg-epgid="13579" tvg-logo="https://api.ppvs.su/assets/thumb/95c4ebfbaf7fc7dcbdaf2209e0c18d1b-thumbnail.jpg",Baltimore Ravens vs. Cleveland Browns (16 November 2025 at 21:25)
@@ -108,8 +110,6 @@
 #EXTINF:-1 tvg-id="ppv-13656" tvg-name="Toronto Maple Leafs vs. Chicago Blackhawks (16 November 2025 at 00:00)" tvg-epgid="13656" tvg-logo="https://api.ppvs.su/assets/thumb/922558b585874a6cee0d2ac8e026525e-thumbnail.jpg",Toronto Maple Leafs vs. Chicago Blackhawks (16 November 2025 at 00:00)
 
 #EXTINF:-1 tvg-id="ppv-13649" tvg-name="Anaheim Ducks vs. Minnesota Wild (15 November 2025 at 23:00)" tvg-epgid="13649" tvg-logo="https://api.ppvs.su/assets/thumb/62cf05b97afabed61e857c6e4d3edfc4-thumbnail.jpg",Anaheim Ducks vs. Minnesota Wild (15 November 2025 at 23:00)
-
-#EXTINF:-1 tvg-id="ppv-13648" tvg-name="Tampa Bay Lightning vs. Florida Panthers (15 November 2025 at 22:00)" tvg-epgid="13648" tvg-logo="https://api.ppvs.su/assets/thumb/0b5e92bdc6172639a16727587029f2a2-thumbnail.jpg",Tampa Bay Lightning vs. Florida Panthers (15 November 2025 at 22:00)
 
 #EXTINF:-1 tvg-id="ppv-13224" tvg-name="Skankfest: New Orleans (15 November 2025 at 20:00)" tvg-epgid="13224" tvg-logo="https://api.ppvs.su/assets/thumb/4b7cc76be329823e61bd7a6a13da518f-thumbnail.jpg",Skankfest: New Orleans (15 November 2025 at 20:00)
 

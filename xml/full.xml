@@ -1,4 +1,26 @@
 <tv>
+<channel id="ppv-13582">
+<display-name>Dallas Cowboys vs. Las Vegas Raiders</display-name>
+</channel>
+<programme
+start="20251118011500 +0000"
+stop="20251118044500 +0000"
+channel="ppv-13582"
+>
+<title lang="en">Dallas Cowboys vs. Las Vegas Raiders</title>
+<sub-title>American Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>American Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/4dba27aa4735346e83752332cd1ebaae-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-13581">
 <display-name>Detroit Lions vs. Philadelphia Eagles</display-name>
 </channel>
@@ -1207,28 +1229,6 @@ channel="ppv-13649"
 </audio>
 <category>Ice Hockey</category>
 <icon src="https://api.ppvs.su/assets/thumb/62cf05b97afabed61e857c6e4d3edfc4-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13648">
-<display-name>Tampa Bay Lightning vs. Florida Panthers</display-name>
-</channel>
-<programme
-start="20251115220000 +0000"
-stop="20251116010000 +0000"
-channel="ppv-13648"
->
-<title lang="en">Tampa Bay Lightning vs. Florida Panthers</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://api.ppvs.su/assets/thumb/0b5e92bdc6172639a16727587029f2a2-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-13224">
