@@ -307,6 +307,28 @@ channel="ppv-13576"
 <icon src="https://api.ppvs.su/assets/thumb/2cb6c34ea00bcfc5a11fea62f410a351-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-13679">
+<display-name>Miami Hurricanes vs. Florida Gators</display-name>
+</channel>
+<programme
+start="20251117013000 +0000"
+stop="20251117050000 +0000"
+channel="ppv-13679"
+>
+<title lang="en">Miami Hurricanes vs. Florida Gators</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://api.ppvs.su/assets/thumb/8eb000540a1b35e6e3bb79da9de98499-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-13669">
 <display-name>Atlanta Hawks vs. Phoenix Suns</display-name>
 </channel>
@@ -371,6 +393,28 @@ channel="ppv-13668"
 </audio>
 <category>Basketball</category>
 <icon src="https://api.ppvs.su/assets/thumb/d456f2bde48eb5a8655cb32a33e4c641-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13678">
+<display-name>Akron Zips vs. Purdue Boilermakers</display-name>
+</channel>
+<programme
+start="20251117003000 +0000"
+stop="20251117040000 +0000"
+channel="ppv-13678"
+>
+<title lang="en">Akron Zips vs. Purdue Boilermakers</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://api.ppvs.su/assets/thumb/7fdc878e93df1bfafd56d43dc3ca9479-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-13666">
@@ -481,6 +525,28 @@ channel="ppv-13663"
 </audio>
 <category>Basketball</category>
 <icon src="https://api.ppvs.su/assets/thumb/e79e86872ab9b773bca34c658cb7ba9c-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13677">
+<display-name>Houston Cougars vs. Auburn Tigers</display-name>
+</channel>
+<programme
+start="20251116200000 +0000"
+stop="20251116233000 +0000"
+channel="ppv-13677"
+>
+<title lang="en">Houston Cougars vs. Auburn Tigers</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://api.ppvs.su/assets/thumb/147d626182c43688e9f43a4481576099-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-13357">
@@ -679,94 +745,6 @@ channel="ppv-13482"
 </audio>
 <category>Football</category>
 <icon src="https://api.ppvs.su/assets/thumb/22750b4902c2558ffe63995d580f7b7f-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13477">
-<display-name>Ukraine vs. Iceland</display-name>
-</channel>
-<programme
-start="20251116170000 +0000"
-stop="20251116193000 +0000"
-channel="ppv-13477"
->
-<title lang="en">Ukraine vs. Iceland</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/0e930db0eba74eb066768ae10dce5aeb-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13478">
-<display-name>Serbia vs. Latvia</display-name>
-</channel>
-<programme
-start="20251116170000 +0000"
-stop="20251116193000 +0000"
-channel="ppv-13478"
->
-<title lang="en">Serbia vs. Latvia</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/51f85ddf83900165d723ff2798ea34ee-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13479">
-<display-name>Albania vs. England</display-name>
-</channel>
-<programme
-start="20251116170000 +0000"
-stop="20251116193000 +0000"
-channel="ppv-13479"
->
-<title lang="en">Albania vs. England</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/d442f1c8eab98bc13d7fa6ede5ce6b93-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13480">
-<display-name>Azerbaijan vs. France</display-name>
-</channel>
-<programme
-start="20251116170000 +0000"
-stop="20251116193000 +0000"
-channel="ppv-13480"
->
-<title lang="en">Azerbaijan vs. France</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/928f7c5eab74f3b4befb9003ed257efa-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-13676">

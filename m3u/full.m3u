@@ -27,11 +27,15 @@
 
 #EXTINF:-1 tvg-id="ppv-13576" tvg-name="Los Angeles Chargers vs. Jacksonville Jaguars (16 November 2025 at 18:00)" tvg-epgid="13576" tvg-logo="https://api.ppvs.su/assets/thumb/2cb6c34ea00bcfc5a11fea62f410a351-thumbnail.jpg",Los Angeles Chargers vs. Jacksonville Jaguars (16 November 2025 at 18:00)
 
+#EXTINF:-1 tvg-id="ppv-13679" tvg-name="Miami Hurricanes vs. Florida Gators (17 November 2025 at 01:30)" tvg-epgid="13679" tvg-logo="https://api.ppvs.su/assets/thumb/8eb000540a1b35e6e3bb79da9de98499-thumbnail.jpg",Miami Hurricanes vs. Florida Gators (17 November 2025 at 01:30)
+
 #EXTINF:-1 tvg-id="ppv-13669" tvg-name="Atlanta Hawks vs. Phoenix Suns (17 November 2025 at 01:00)" tvg-epgid="13669" tvg-logo="https://api.ppvs.su/assets/thumb/cb31e1e30b5e9a06d4a35acf0c944838-thumbnail.jpg",Atlanta Hawks vs. Phoenix Suns (17 November 2025 at 01:00)
 
 #EXTINF:-1 tvg-id="ppv-13670" tvg-name="Chicago Bulls vs. Utah Jazz (17 November 2025 at 01:00)" tvg-epgid="13670" tvg-logo="https://api.ppvs.su/assets/thumb/f6848207130a9dbdde02ac56e0cd8c8b-thumbnail.jpg",Chicago Bulls vs. Utah Jazz (17 November 2025 at 01:00)
 
 #EXTINF:-1 tvg-id="ppv-13668" tvg-name="Portland Trail Blazers vs. Dallas Mavericks (17 November 2025 at 00:30)" tvg-epgid="13668" tvg-logo="https://api.ppvs.su/assets/thumb/d456f2bde48eb5a8655cb32a33e4c641-thumbnail.jpg",Portland Trail Blazers vs. Dallas Mavericks (17 November 2025 at 00:30)
+
+#EXTINF:-1 tvg-id="ppv-13678" tvg-name="Akron Zips vs. Purdue Boilermakers (17 November 2025 at 00:30)" tvg-epgid="13678" tvg-logo="https://api.ppvs.su/assets/thumb/7fdc878e93df1bfafd56d43dc3ca9479-thumbnail.jpg",Akron Zips vs. Purdue Boilermakers (17 November 2025 at 00:30)
 
 #EXTINF:-1 tvg-id="ppv-13666" tvg-name="Orlando Magic vs. Houston Rockets (17 November 2025 at 00:00)" tvg-epgid="13666" tvg-logo="https://api.ppvs.su/assets/thumb/49d2553635469e1968456b0a62ce1fb1-thumbnail.jpg",Orlando Magic vs. Houston Rockets (17 November 2025 at 00:00)
 
@@ -42,6 +46,8 @@
 #EXTINF:-1 tvg-id="ppv-13664" tvg-name="Sacramento Kings vs. San Antonio Spurs (16 November 2025 at 21:00)" tvg-epgid="13664" tvg-logo="https://api.ppvs.su/assets/thumb/2e03205a6958e224effb5a6f3a8acd03-thumbnail.jpg",Sacramento Kings vs. San Antonio Spurs (16 November 2025 at 21:00)
 
 #EXTINF:-1 tvg-id="ppv-13663" tvg-name="LA Clippers vs. Boston Celtics (16 November 2025 at 20:30)" tvg-epgid="13663" tvg-logo="https://api.ppvs.su/assets/thumb/e79e86872ab9b773bca34c658cb7ba9c-thumbnail.jpg",LA Clippers vs. Boston Celtics (16 November 2025 at 20:30)
+
+#EXTINF:-1 tvg-id="ppv-13677" tvg-name="Houston Cougars vs. Auburn Tigers (16 November 2025 at 20:00)" tvg-epgid="13677" tvg-logo="https://api.ppvs.su/assets/thumb/147d626182c43688e9f43a4481576099-thumbnail.jpg",Houston Cougars vs. Auburn Tigers (16 November 2025 at 20:00)
 
 #EXTINF:-1 tvg-id="ppv-13357" tvg-name="Grand Slam of Darts - Day 9 Evening (16 November 2025 at 19:30)" tvg-epgid="13357" tvg-logo="https://api.ppvs.su/assets/thumb/b09ec5417e8f5831860f91a0a8ea5e2b-thumbnail.jpg",Grand Slam of Darts - Day 9 Evening (16 November 2025 at 19:30)
 
@@ -60,14 +66,6 @@
 #EXTINF:-1 tvg-id="ppv-13481" tvg-name="Italy vs. Norway (16 November 2025 at 19:45)" tvg-epgid="13481" tvg-logo="https://api.ppvs.su/assets/thumb/c2a4a12a628c94af8d1ec559c5b89727-thumbnail.jpg",Italy vs. Norway (16 November 2025 at 19:45)
 
 #EXTINF:-1 tvg-id="ppv-13482" tvg-name="Israel vs. Moldova (16 November 2025 at 19:45)" tvg-epgid="13482" tvg-logo="https://api.ppvs.su/assets/thumb/22750b4902c2558ffe63995d580f7b7f-thumbnail.jpg",Israel vs. Moldova (16 November 2025 at 19:45)
-
-#EXTINF:-1 tvg-id="ppv-13477" tvg-name="Ukraine vs. Iceland (16 November 2025 at 17:00)" tvg-epgid="13477" tvg-logo="https://api.ppvs.su/assets/thumb/0e930db0eba74eb066768ae10dce5aeb-thumbnail.jpg",Ukraine vs. Iceland (16 November 2025 at 17:00)
-
-#EXTINF:-1 tvg-id="ppv-13478" tvg-name="Serbia vs. Latvia (16 November 2025 at 17:00)" tvg-epgid="13478" tvg-logo="https://api.ppvs.su/assets/thumb/51f85ddf83900165d723ff2798ea34ee-thumbnail.jpg",Serbia vs. Latvia (16 November 2025 at 17:00)
-
-#EXTINF:-1 tvg-id="ppv-13479" tvg-name="Albania vs. England (16 November 2025 at 17:00)" tvg-epgid="13479" tvg-logo="https://api.ppvs.su/assets/thumb/d442f1c8eab98bc13d7fa6ede5ce6b93-thumbnail.jpg",Albania vs. England (16 November 2025 at 17:00)
-
-#EXTINF:-1 tvg-id="ppv-13480" tvg-name="Azerbaijan vs. France (16 November 2025 at 17:00)" tvg-epgid="13480" tvg-logo="https://api.ppvs.su/assets/thumb/928f7c5eab74f3b4befb9003ed257efa-thumbnail.jpg",Azerbaijan vs. France (16 November 2025 at 17:00)
 
 #EXTINF:-1 tvg-id="ppv-13676" tvg-name="New York Islanders vs. Colorado Avalanche (17 November 2025 at 02:00)" tvg-epgid="13676" tvg-logo="https://api.ppvs.su/assets/thumb/4e6bdce6dafd4f003448be020643d6d3-thumbnail.jpg",New York Islanders vs. Colorado Avalanche (17 November 2025 at 02:00)
 
