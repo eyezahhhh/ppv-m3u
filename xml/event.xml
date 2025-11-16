@@ -329,28 +329,6 @@ channel="ppv-13569"
 <icon src="https://api.ppvs.su/assets/thumb/004b8c4a5ad53813eb31a5d4c0128dfe-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-13602">
-<display-name>TCU Horned Frogs vs. BYU Cougars</display-name>
-</channel>
-<programme
-start="20251116031500 +0000"
-stop="20251116064500 +0000"
-channel="ppv-13602"
->
-<title lang="en">TCU Horned Frogs vs. BYU Cougars</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/346e68c05fd70bc1addf86c1bf3f4fed-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-13669">
 <display-name>Atlanta Hawks vs. Phoenix Suns</display-name>
 </channel>
@@ -525,28 +503,6 @@ channel="ppv-13663"
 </audio>
 <category>Basketball</category>
 <icon src="https://api.ppvs.su/assets/thumb/e79e86872ab9b773bca34c658cb7ba9c-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13546">
-<display-name>UFC 322: Della Maddalena vs. Makhachev</display-name>
-</channel>
-<programme
-start="20251115230000 +0000"
-stop="20251116070000 +0000"
-channel="ppv-13546"
->
-<title lang="en">UFC 322: Della Maddalena vs. Makhachev</title>
-<sub-title>Combat Sports</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Combat Sports</category>
-<icon src="https://api.ppvs.su/assets/thumb/f752b3f8b3a333d521202fba6c8e0d24-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-13357">
