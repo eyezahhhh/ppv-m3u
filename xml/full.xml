@@ -351,50 +351,6 @@ channel="ppv-13602"
 <icon src="https://api.ppvs.su/assets/thumb/346e68c05fd70bc1addf86c1bf3f4fed-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-13600">
-<display-name>UCLA Bruins vs. Ohio State Buckeyes</display-name>
-</channel>
-<programme
-start="20251116003000 +0000"
-stop="20251116040000 +0000"
-channel="ppv-13600"
->
-<title lang="en">UCLA Bruins vs. Ohio State Buckeyes</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/01a0f890babf0874eceff2c5d6b64f98-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13601">
-<display-name>Texas Longhorns vs. Georgia Bulldogs</display-name>
-</channel>
-<programme
-start="20251116003000 +0000"
-stop="20251116040000 +0000"
-channel="ppv-13601"
->
-<title lang="en">Texas Longhorns vs. Georgia Bulldogs</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/3e466c62e21ed93798f063c9fe633966-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-13546">
 <display-name>UFC 322: Della Maddalena vs. Makhachev</display-name>
 </channel>
@@ -835,50 +791,6 @@ channel="ppv-13660"
 <icon src="https://api.ppvs.su/assets/thumb/5fa24c8cf2b3b7aa09e1258df71c7d1f-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-13657">
-<display-name>Vegas Golden Knights vs. St. Louis Blues</display-name>
-</channel>
-<programme
-start="20251116010000 +0000"
-stop="20251116040000 +0000"
-channel="ppv-13657"
->
-<title lang="en">Vegas Golden Knights vs. St. Louis Blues</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://api.ppvs.su/assets/thumb/b5e43bbcd7acd7008831635dedb6dc83-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13658">
-<display-name>Philadelphia Flyers vs. Dallas Stars</display-name>
-</channel>
-<programme
-start="20251116010000 +0000"
-stop="20251116040000 +0000"
-channel="ppv-13658"
->
-<title lang="en">Philadelphia Flyers vs. Dallas Stars</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://api.ppvs.su/assets/thumb/5b1c8cc211b957032de38ba7e2261165-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-13224">
 <display-name>Skankfest: New Orleans</display-name>
 </channel>
@@ -899,27 +811,5 @@ channel="ppv-13224"
 </audio>
 <category>Miscellaneous</category>
 <icon src="https://api.ppvs.su/assets/thumb/4b7cc76be329823e61bd7a6a13da518f-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13450">
-<display-name>AEW: Saturday Night Collision</display-name>
-</channel>
-<programme
-start="20251116010000 +0000"
-stop="20251116040000 +0000"
-channel="ppv-13450"
->
-<title lang="en">AEW: Saturday Night Collision</title>
-<sub-title>Wrestling</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Wrestling</category>
-<icon src="https://api.ppvs.su/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" />
 </programme>
 </tv>
