@@ -813,50 +813,6 @@ channel="ppv-13480"
 <icon src="https://api.ppvs.su/assets/thumb/928f7c5eab74f3b4befb9003ed257efa-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-13475">
-<display-name>Hungary vs. Republic of Ireland</display-name>
-</channel>
-<programme
-start="20251116140000 +0000"
-stop="20251116163000 +0000"
-channel="ppv-13475"
->
-<title lang="en">Hungary vs. Republic of Ireland</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/8e1b6d1e94574135e2a692efeffcbb87-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13476">
-<display-name>Portugal vs. Armenia</display-name>
-</channel>
-<programme
-start="20251116140000 +0000"
-stop="20251116163000 +0000"
-channel="ppv-13476"
->
-<title lang="en">Portugal vs. Armenia</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/53633da974263321b0df3e01f3ed9101-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-13676">
 <display-name>New York Islanders vs. Colorado Avalanche</display-name>
 </channel>
