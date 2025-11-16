@@ -351,50 +351,6 @@ channel="ppv-13664"
 <icon src="https://api.ppvs.su/assets/thumb/2e03205a6958e224effb5a6f3a8acd03-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-13663">
-<display-name>LA Clippers vs. Boston Celtics</display-name>
-</channel>
-<programme
-start="20251116203000 +0000"
-stop="20251116231800 +0000"
-channel="ppv-13663"
->
-<title lang="en">LA Clippers vs. Boston Celtics</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://api.ppvs.su/assets/thumb/e79e86872ab9b773bca34c658cb7ba9c-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13677">
-<display-name>Houston Cougars vs. Auburn Tigers</display-name>
-</channel>
-<programme
-start="20251116200000 +0000"
-stop="20251116233000 +0000"
-channel="ppv-13677"
->
-<title lang="en">Houston Cougars vs. Auburn Tigers</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://api.ppvs.su/assets/thumb/147d626182c43688e9f43a4481576099-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-13483">
 <display-name>Czechia vs. Gibraltar</display-name>
 </channel>
