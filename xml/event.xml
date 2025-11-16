@@ -307,28 +307,6 @@ channel="ppv-13576"
 <icon src="https://api.ppvs.su/assets/thumb/2cb6c34ea00bcfc5a11fea62f410a351-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-13569">
-<display-name>Washington Commanders vs. Miami Dolphins</display-name>
-</channel>
-<programme
-start="20251116143000 +0000"
-stop="20251116180000 +0000"
-channel="ppv-13569"
->
-<title lang="en">Washington Commanders vs. Miami Dolphins</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/004b8c4a5ad53813eb31a5d4c0128dfe-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-13669">
 <display-name>Atlanta Hawks vs. Phoenix Suns</display-name>
 </channel>
