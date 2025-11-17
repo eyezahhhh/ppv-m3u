@@ -1,9 +1,21 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ppv-13582" tvg-name="Dallas Cowboys vs. Las Vegas Raiders (18 November 2025 at 01:15)" tvg-epgid="13582" tvg-logo="https://api.ppvs.su/assets/thumb/4dba27aa4735346e83752332cd1ebaae-thumbnail.jpg",Dallas Cowboys vs. Las Vegas Raiders (18 November 2025 at 01:15)
 
-#EXTINF:-1 tvg-id="ppv-13581" tvg-name="Detroit Lions vs. Philadelphia Eagles (17 November 2025 at 01:20)" tvg-epgid="13581" tvg-logo="https://api.ppvs.su/assets/thumb/fa89b1b957c4758b182991f4615e302f-thumbnail.jpg",Detroit Lions vs. Philadelphia Eagles (17 November 2025 at 01:20)
+#EXTINF:-1 tvg-id="ppv-13687" tvg-name="Chicago Bulls vs. Denver Nuggets (18 November 2025 at 02:00)" tvg-epgid="13687" tvg-logo="https://api.ppvs.su/assets/thumb/54e71efed5af22a7c681e5e406753771-thumbnail.jpg",Chicago Bulls vs. Denver Nuggets (18 November 2025 at 02:00)
 
-#EXTINF:-1 tvg-id="ppv-13679" tvg-name="Miami Hurricanes vs. Florida Gators (17 November 2025 at 01:30)" tvg-epgid="13679" tvg-logo="https://api.ppvs.su/assets/thumb/8eb000540a1b35e6e3bb79da9de98499-thumbnail.jpg",Miami Hurricanes vs. Florida Gators (17 November 2025 at 01:30)
+#EXTINF:-1 tvg-id="ppv-13685" tvg-name="Dallas Mavericks vs. Minnesota Timberwolves (18 November 2025 at 01:00)" tvg-epgid="13685" tvg-logo="https://api.ppvs.su/assets/thumb/e4649f72fd2665efd183e9e5504b2264-thumbnail.jpg",Dallas Mavericks vs. Minnesota Timberwolves (18 November 2025 at 01:00)
+
+#EXTINF:-1 tvg-id="ppv-13686" tvg-name="Oklahoma City Thunder vs. New Orleans Pelicans (18 November 2025 at 01:00)" tvg-epgid="13686" tvg-logo="https://api.ppvs.su/assets/thumb/2eb2883e4061fda678a097b1f2f0bfcd-thumbnail.jpg",Oklahoma City Thunder vs. New Orleans Pelicans (18 November 2025 at 01:00)
+
+#EXTINF:-1 tvg-id="ppv-13683" tvg-name="New York Knicks vs. Miami Heat (18 November 2025 at 00:30)" tvg-epgid="13683" tvg-logo="https://api.ppvs.su/assets/thumb/468bfef2338ad7b0b36d7c0458793e92-thumbnail.jpg",New York Knicks vs. Miami Heat (18 November 2025 at 00:30)
+
+#EXTINF:-1 tvg-id="ppv-13684" tvg-name="Charlotte Hornets vs. Toronto Raptors (18 November 2025 at 00:30)" tvg-epgid="13684" tvg-logo="https://api.ppvs.su/assets/thumb/99db37e322f63b249487e13379b8182c-thumbnail.jpg",Charlotte Hornets vs. Toronto Raptors (18 November 2025 at 00:30)
+
+#EXTINF:-1 tvg-id="ppv-13680" tvg-name="Milwaukee Bucks vs. Cleveland Cavaliers (18 November 2025 at 00:00)" tvg-epgid="13680" tvg-logo="https://api.ppvs.su/assets/thumb/aedda10dd77576c5e2d80e1a13554e7e-thumbnail.jpg",Milwaukee Bucks vs. Cleveland Cavaliers (18 November 2025 at 00:00)
+
+#EXTINF:-1 tvg-id="ppv-13681" tvg-name="Indiana Pacers vs. Detroit Pistons (18 November 2025 at 00:00)" tvg-epgid="13681" tvg-logo="https://api.ppvs.su/assets/thumb/b1bcd80c5a15a7ff45c30c374359b3e7-thumbnail.jpg",Indiana Pacers vs. Detroit Pistons (18 November 2025 at 00:00)
+
+#EXTINF:-1 tvg-id="ppv-13682" tvg-name="LA Clippers vs. Philadelphia 76ers (18 November 2025 at 00:00)" tvg-epgid="13682" tvg-logo="https://api.ppvs.su/assets/thumb/fe5dd6f4cb575aee8978f8cbecbae0c8-thumbnail.jpg",LA Clippers vs. Philadelphia 76ers (18 November 2025 at 00:00)
 
 #EXTINF:-1 tvg-id="ppv-13483" tvg-name="Czechia vs. Gibraltar (17 November 2025 at 19:45)" tvg-epgid="13483" tvg-logo="https://api.ppvs.su/assets/thumb/b51d9ae94e06331c670d728b0a7a8141-thumbnail.jpg",Czechia vs. Gibraltar (17 November 2025 at 19:45)
 
@@ -16,8 +28,6 @@
 #EXTINF:-1 tvg-id="ppv-13487" tvg-name="Germany vs. Slovakia (17 November 2025 at 19:45)" tvg-epgid="13487" tvg-logo="https://api.ppvs.su/assets/thumb/782d15ceccf823f5881d9b8af99fcd18-thumbnail.jpg",Germany vs. Slovakia (17 November 2025 at 19:45)
 
 #EXTINF:-1 tvg-id="ppv-13488" tvg-name="Netherlands vs. Lithuania (17 November 2025 at 19:45)" tvg-epgid="13488" tvg-logo="https://api.ppvs.su/assets/thumb/31f32c9de73ec8d88e2199e043502ada-thumbnail.jpg",Netherlands vs. Lithuania (17 November 2025 at 19:45)
-
-#EXTINF:-1 tvg-id="ppv-13676" tvg-name="New York Islanders vs. Colorado Avalanche (17 November 2025 at 02:00)" tvg-epgid="13676" tvg-logo="https://api.ppvs.su/assets/thumb/4e6bdce6dafd4f003448be020643d6d3-thumbnail.jpg",New York Islanders vs. Colorado Avalanche (17 November 2025 at 02:00)
 
 #EXTINF:-1 tvg-id="ppv-13224" tvg-name="Skankfest: New Orleans (16 November 2025 at 20:00)" tvg-epgid="13224" tvg-logo="https://api.ppvs.su/assets/thumb/a4b0b249bc493a950bbcf7eb9980302a-thumbnail.jpg",Skankfest: New Orleans (16 November 2025 at 20:00)
 
