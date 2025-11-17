@@ -197,6 +197,226 @@ channel="ppv-13682"
 <icon src="https://api.ppvs.su/assets/thumb/fe5dd6f4cb575aee8978f8cbecbae0c8-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-13736">
+<display-name>Austria vs. Bosnia and Herzegovina</display-name>
+</channel>
+<programme
+start="20251118194500 +0000"
+stop="20251118221500 +0000"
+channel="ppv-13736"
+>
+<title lang="en">Austria vs. Bosnia and Herzegovina</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/8be3f61f283d6a579b11fb7562f113ee-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13737">
+<display-name>Sweden vs. Slovenia</display-name>
+</channel>
+<programme
+start="20251118194500 +0000"
+stop="20251118221500 +0000"
+channel="ppv-13737"
+>
+<title lang="en">Sweden vs. Slovenia</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/95ad550d7814d5862be32fb658e7bc4e-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13738">
+<display-name>Wales vs. North Macedonia</display-name>
+</channel>
+<programme
+start="20251118194500 +0000"
+stop="20251118221500 +0000"
+channel="ppv-13738"
+>
+<title lang="en">Wales vs. North Macedonia</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/9b38865b248acea35b503d2e55162829-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13739">
+<display-name>Romania vs. San Marino</display-name>
+</channel>
+<programme
+start="20251118194500 +0000"
+stop="20251118221500 +0000"
+channel="ppv-13739"
+>
+<title lang="en">Romania vs. San Marino</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/d809a7014be1a21b1d493fa8721cf1f2-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13740">
+<display-name>Kosovo vs. Switzerland</display-name>
+</channel>
+<programme
+start="20251118194500 +0000"
+stop="20251118221500 +0000"
+channel="ppv-13740"
+>
+<title lang="en">Kosovo vs. Switzerland</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/cc6392de9aa3fcf345472c1bb3549617-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13741">
+<display-name>Scotland vs. Denmark</display-name>
+</channel>
+<programme
+start="20251118194500 +0000"
+stop="20251118221500 +0000"
+channel="ppv-13741"
+>
+<title lang="en">Scotland vs. Denmark</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/3d865227cbaf2d17872dafc5b5fe7f33-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13742">
+<display-name>Bulgaria vs. Georgia</display-name>
+</channel>
+<programme
+start="20251118194500 +0000"
+stop="20251118221500 +0000"
+channel="ppv-13742"
+>
+<title lang="en">Bulgaria vs. Georgia</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/2e19dd7a6039953c2f598006a4869913-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13743">
+<display-name>Belarus vs. Greece</display-name>
+</channel>
+<programme
+start="20251118194500 +0000"
+stop="20251118221500 +0000"
+channel="ppv-13743"
+>
+<title lang="en">Belarus vs. Greece</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/e952200c3fb97aa1286bf30bb37a1341-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13744">
+<display-name>Spain vs. Türki̇ye</display-name>
+</channel>
+<programme
+start="20251118194500 +0000"
+stop="20251118221500 +0000"
+channel="ppv-13744"
+>
+<title lang="en">Spain vs. Türki̇ye</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/b8a853c22605b8a34775cfcd79e7372d-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13745">
+<display-name>Belgium vs. Liechtenstein</display-name>
+</channel>
+<programme
+start="20251118194500 +0000"
+stop="20251118221500 +0000"
+channel="ppv-13745"
+>
+<title lang="en">Belgium vs. Liechtenstein</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/417c880e347e173be9181ee894ea0ae7-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-13483">
 <display-name>Czechia vs. Gibraltar</display-name>
 </channel>
@@ -327,5 +547,49 @@ channel="ppv-13488"
 </audio>
 <category>Football</category>
 <icon src="https://api.ppvs.su/assets/thumb/31f32c9de73ec8d88e2199e043502ada-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13747">
+<display-name>WWE: NXT</display-name>
+</channel>
+<programme
+start="20251119010000 +0000"
+stop="20251119040000 +0000"
+channel="ppv-13747"
+>
+<title lang="en">WWE: NXT</title>
+<sub-title>Wrestling</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Wrestling</category>
+<icon src="https://api.ppvs.su/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13746">
+<display-name>WWE: Monday Night RAW</display-name>
+</channel>
+<programme
+start="20251118010000 +0000"
+stop="20251118040000 +0000"
+channel="ppv-13746"
+>
+<title lang="en">WWE: Monday Night RAW</title>
+<sub-title>Wrestling</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Wrestling</category>
+<icon src="https://api.ppvs.su/assets/thumb/56336f9d22c51c416e1a56afbd18f314-thumbnail.jpg" />
 </programme>
 </tv>
