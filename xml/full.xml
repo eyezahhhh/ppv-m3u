@@ -197,6 +197,28 @@ channel="ppv-13786"
 <icon src="https://api.ppvs.su/assets/thumb/7d96b5a19995419c953bee3b5372cd4a-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-13727">
+<display-name>Mainz vs. Hoffenheim</display-name>
+</channel>
+<programme
+start="20251121193000 +0000"
+stop="20251121220000 +0000"
+channel="ppv-13727"
+>
+<title lang="en">Mainz vs. Hoffenheim</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/937a613e75ba921e035118b15ff2da6d-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-13749">
 <display-name>TNA: Impact</display-name>
 </channel>
