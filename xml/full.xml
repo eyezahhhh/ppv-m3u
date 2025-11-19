@@ -197,50 +197,6 @@ channel="ppv-13786"
 <icon src="https://api.ppvs.su/assets/thumb/7d96b5a19995419c953bee3b5372cd4a-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-13768">
-<display-name>Phoenix Suns vs. Portland Trail Blazers</display-name>
-</channel>
-<programme
-start="20251119040000 +0000"
-stop="20251119064800 +0000"
-channel="ppv-13768"
->
-<title lang="en">Phoenix Suns vs. Portland Trail Blazers</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://api.ppvs.su/assets/thumb/8bba381d8ae13a2fd31aca353f2330d7-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13773">
-<display-name>Sacramento State Hornets vs. UCLA Bruins</display-name>
-</channel>
-<programme
-start="20251119033000 +0000"
-stop="20251119070000 +0000"
-channel="ppv-13773"
->
-<title lang="en">Sacramento State Hornets vs. UCLA Bruins</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://api.ppvs.su/assets/thumb/bc8c902185a73cbbb3427784379420bc-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-13749">
 <display-name>TNA: Impact</display-name>
 </channel>
