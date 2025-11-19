@@ -109,72 +109,6 @@ channel="ppv-13766"
 <icon src="https://api.ppvs.su/assets/thumb/b5311d48967e05c6e71640311a6d9ed0-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-13764">
-<display-name>Boston Celtics vs. Brooklyn Nets</display-name>
-</channel>
-<programme
-start="20251119003000 +0000"
-stop="20251119031800 +0000"
-channel="ppv-13764"
->
-<title lang="en">Boston Celtics vs. Brooklyn Nets</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://api.ppvs.su/assets/thumb/ed2f49db5d70bc8e24bd191c28cd23a8-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13765">
-<display-name>Detroit Pistons vs. Atlanta Hawks</display-name>
-</channel>
-<programme
-start="20251119003000 +0000"
-stop="20251119031800 +0000"
-channel="ppv-13765"
->
-<title lang="en">Detroit Pistons vs. Atlanta Hawks</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://api.ppvs.su/assets/thumb/77791264d7d5ecc11c194098f693a9de-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13763">
-<display-name>Golden State Warriors vs. Orlando Magic</display-name>
-</channel>
-<programme
-start="20251119000000 +0000"
-stop="20251119024800 +0000"
-channel="ppv-13763"
->
-<title lang="en">Golden State Warriors vs. Orlando Magic</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://api.ppvs.su/assets/thumb/e695e48cfc24b46b801f51d03f03df2a-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-13770">
 <display-name>Navy Midshipmen vs. North Carolina Tar Heels</display-name>
 </channel>
@@ -195,28 +129,6 @@ channel="ppv-13770"
 </audio>
 <category>Basketball</category>
 <icon src="https://api.ppvs.su/assets/thumb/f0e12e2e7a6f15ac3d3ef74c57dca3bd-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13769">
-<display-name>Michigan State Spartans vs. Kentucky Wildcats</display-name>
-</channel>
-<programme
-start="20251118233000 +0000"
-stop="20251119030000 +0000"
-channel="ppv-13769"
->
-<title lang="en">Michigan State Spartans vs. Kentucky Wildcats</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://api.ppvs.su/assets/thumb/9e15f0ff288375beb6308324d2bf0ead-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-13782">
@@ -349,72 +261,6 @@ channel="ppv-13778"
 </audio>
 <category>Ice Hockey</category>
 <icon src="https://api.ppvs.su/assets/thumb/c9c352ea2d1c9e7bb90856b3a2031de3-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13774">
-<display-name>St. Louis Blues vs. Toronto Maple Leafs</display-name>
-</channel>
-<programme
-start="20251119000000 +0000"
-stop="20251119030000 +0000"
-channel="ppv-13774"
->
-<title lang="en">St. Louis Blues vs. Toronto Maple Leafs</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://api.ppvs.su/assets/thumb/2c1abf4c80d4333a43f93b541c85052f-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13775">
-<display-name>Seattle Kraken vs. Detroit Red Wings</display-name>
-</channel>
-<programme
-start="20251119000000 +0000"
-stop="20251119030000 +0000"
-channel="ppv-13775"
->
-<title lang="en">Seattle Kraken vs. Detroit Red Wings</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://api.ppvs.su/assets/thumb/dd5ad727664acbc72178bd77f7bae951-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13776">
-<display-name>New Jersey Devils vs. Tampa Bay Lightning</display-name>
-</channel>
-<programme
-start="20251119000000 +0000"
-stop="20251119030000 +0000"
-channel="ppv-13776"
->
-<title lang="en">New Jersey Devils vs. Tampa Bay Lightning</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://api.ppvs.su/assets/thumb/d8d59aaf8387197fa68e66c252632c8c-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-13749">
