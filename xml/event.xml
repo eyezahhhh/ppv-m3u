@@ -131,6 +131,28 @@ channel="ppv-13818"
 <icon src="https://api.ppvs.su/assets/thumb/e4f7494ce49163f4a7d4b4db2cc21b53-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-13700">
+<display-name>FC Barcelona vs. Athletic Club</display-name>
+</channel>
+<programme
+start="20251122151500 +0000"
+stop="20251122174500 +0000"
+channel="ppv-13700"
+>
+<title lang="en">FC Barcelona vs. Athletic Club</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/bb9494ea55cf2cff5f4eebed6acc3c15-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-13688">
 <display-name>Bournemouth vs. West Ham United</display-name>
 </channel>
