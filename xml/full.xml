@@ -153,28 +153,6 @@ channel="ppv-13790"
 <icon src="https://api.ppvs.su/assets/thumb/9e4a94cc8d8970c307dd61c8a45354e1-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-13802">
-<display-name>Arizona Wildcats vs. UConn Huskies</display-name>
-</channel>
-<programme
-start="20251120000000 +0000"
-stop="20251120033000 +0000"
-channel="ppv-13802"
->
-<title lang="en">Arizona Wildcats vs. UConn Huskies</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://api.ppvs.su/assets/thumb/9f43af8856b95c998da0fd4f213c39f4-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-13698">
 <display-name>Valencia CF vs. Levante UD</display-name>
 </channel>
@@ -283,28 +261,6 @@ channel="ppv-13807"
 </audio>
 <category>Ice Hockey</category>
 <icon src="https://api.ppvs.su/assets/thumb/5fd10c96c9c801128e66b1636467a369-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13806">
-<display-name>Calgary Flames vs. Buffalo Sabres</display-name>
-</channel>
-<programme
-start="20251120003000 +0000"
-stop="20251120033000 +0000"
-channel="ppv-13806"
->
-<title lang="en">Calgary Flames vs. Buffalo Sabres</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://api.ppvs.su/assets/thumb/9880a342c0660a0a1dc14117e1779454-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-13811">
