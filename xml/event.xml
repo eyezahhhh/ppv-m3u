@@ -1,4 +1,92 @@
 <tv>
+<channel id="ppv-13815">
+<display-name>Sacramento Kings vs. Memphis Grizzlies</display-name>
+</channel>
+<programme
+start="20251121010000 +0000"
+stop="20251121034800 +0000"
+channel="ppv-13815"
+>
+<title lang="en">Sacramento Kings vs. Memphis Grizzlies</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://api.ppvs.su/assets/thumb/587b7115d1e4d29e53e2c82d326dfb7a-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13816">
+<display-name>Philadelphia 76ers vs. Milwaukee Bucks</display-name>
+</channel>
+<programme
+start="20251121010000 +0000"
+stop="20251121034800 +0000"
+channel="ppv-13816"
+>
+<title lang="en">Philadelphia 76ers vs. Milwaukee Bucks</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://api.ppvs.su/assets/thumb/25acf6e6e4f0898a888148f6c366d23b-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13817">
+<display-name>Atlanta Hawks vs. San Antonio Spurs</display-name>
+</channel>
+<programme
+start="20251121010000 +0000"
+stop="20251121034800 +0000"
+channel="ppv-13817"
+>
+<title lang="en">Atlanta Hawks vs. San Antonio Spurs</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://api.ppvs.su/assets/thumb/0b8df1fe150050021b8d7ed32f3898cb-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13814">
+<display-name>LA Clippers vs. Orlando Magic</display-name>
+</channel>
+<programme
+start="20251121000000 +0000"
+stop="20251121024800 +0000"
+channel="ppv-13814"
+>
+<title lang="en">LA Clippers vs. Orlando Magic</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://api.ppvs.su/assets/thumb/602761bf0d0eb49f4e8f313b32deb8e4-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-13792">
 <display-name>Chicago Bulls vs. Portland Trail Blazers</display-name>
 </channel>
