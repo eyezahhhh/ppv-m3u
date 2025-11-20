@@ -505,6 +505,28 @@ channel="ppv-13809"
 <icon src="https://api.ppvs.su/assets/thumb/4ac24a9a90c0c04ecbea31189930fbbe-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-13750">
+<display-name>WWE: Friday Night Smackdown</display-name>
+</channel>
+<programme
+start="20251122010000 +0000"
+stop="20251122040000 +0000"
+channel="ppv-13750"
+>
+<title lang="en">WWE: Friday Night Smackdown</title>
+<sub-title>Wrestling</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Wrestling</category>
+<icon src="https://api.ppvs.su/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-13749">
 <display-name>TNA: Impact</display-name>
 </channel>
