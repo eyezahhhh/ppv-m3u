@@ -131,6 +131,72 @@ channel="ppv-13818"
 <icon src="https://api.ppvs.su/assets/thumb/e4f7494ce49163f4a7d4b4db2cc21b53-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-13721">
+<display-name>PSG vs. Havre AC</display-name>
+</channel>
+<programme
+start="20251122200500 +0000"
+stop="20251122223500 +0000"
+channel="ppv-13721"
+>
+<title lang="en">PSG vs. Havre AC</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/bf4cbec8a27250cc1738acf79f35b632-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13702">
+<display-name>Villarreal CF vs. RCD Mallorca</display-name>
+</channel>
+<programme
+start="20251122200000 +0000"
+stop="20251122223000 +0000"
+channel="ppv-13702"
+>
+<title lang="en">Villarreal CF vs. RCD Mallorca</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/0fa61d84f5caf5880543ef0e668aff99-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13711">
+<display-name>Napoli vs. Atalanta</display-name>
+</channel>
+<programme
+start="20251122194500 +0000"
+stop="20251122221500 +0000"
+channel="ppv-13711"
+>
+<title lang="en">Napoli vs. Atalanta</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/09d011df54ec6b105b6ea57b22422ebb-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-13720">
 <display-name>Rennes vs. AS Monaco</display-name>
 </channel>
