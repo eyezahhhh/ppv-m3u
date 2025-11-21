@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ppv-13863" tvg-name="Pittsburgh Panthers vs. Georgia Tech Yellow Jackets (23 November 2025 at 00:00)" tvg-epgid="13863" tvg-logo="https://api.ppvs.su/assets/thumb/5a646cbd114f12f4783881630253d81e-thumbnail.jpg",Pittsburgh Panthers vs. Georgia Tech Yellow Jackets (23 November 2025 at 00:00)
+
 #EXTINF:-1 tvg-id="ppv-13856" tvg-name="Kansas State Wildcats vs. Utah Utes (22 November 2025 at 21:00)" tvg-epgid="13856" tvg-logo="https://api.ppvs.su/assets/thumb/5041da98946879f80f6ed396a6fc4d52-thumbnail.jpg",Kansas State Wildcats vs. Utah Utes (22 November 2025 at 21:00)
 
 #EXTINF:-1 tvg-id="ppv-13859" tvg-name="Michigan Wolverines vs. Maryland Terrapins (22 November 2025 at 21:00)" tvg-epgid="13859" tvg-logo="https://api.ppvs.su/assets/thumb/bbf0bb096cb7ec154eab9c4e11ad79bf-thumbnail.jpg",Michigan Wolverines vs. Maryland Terrapins (22 November 2025 at 21:00)
