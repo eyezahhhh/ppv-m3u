@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ppv-13872" tvg-name="BYU Cougars vs. Cincinnati Bearcats (23 November 2025 at 01:00)" tvg-epgid="13872" tvg-logo="https://api.ppvs.su/assets/thumb/1e47dd3379cc97df15e22c8497faf046-thumbnail.jpg",BYU Cougars vs. Cincinnati Bearcats (23 November 2025 at 01:00)
+
+#EXTINF:-1 tvg-id="ppv-13874" tvg-name="Arizona State Sun Devils vs. Colorado Buffaloes (23 November 2025 at 01:00)" tvg-epgid="13874" tvg-logo="https://api.ppvs.su/assets/thumb/d083ff96c3aaed762ad44c2cec0b4de3-thumbnail.jpg",Arizona State Sun Devils vs. Colorado Buffaloes (23 November 2025 at 01:00)
+
 #EXTINF:-1 tvg-id="ppv-13866" tvg-name="Tennessee Volunteers vs. Florida Gators (23 November 2025 at 00:30)" tvg-epgid="13866" tvg-logo="https://api.ppvs.su/assets/thumb/decd2d5e166bca00a92eb84490c26352-thumbnail.jpg",Tennessee Volunteers vs. Florida Gators (23 November 2025 at 00:30)
 
 #EXTINF:-1 tvg-id="ppv-13869" tvg-name="Illinois Fighting Illini vs. Wisconsin Badgers (23 November 2025 at 00:30)" tvg-epgid="13869" tvg-logo="https://api.ppvs.su/assets/thumb/4969a7e97183d42a69a0176e8716d2fb-thumbnail.jpg",Illinois Fighting Illini vs. Wisconsin Badgers (23 November 2025 at 00:30)
@@ -144,6 +148,8 @@
 #EXTINF:-1 tvg-id="ppv-13810" tvg-name="Las Vegas Grand Prix - FP2 (21 November 2025 at 04:00)" tvg-epgid="13810" tvg-logo="https://api.ppvs.su/assets/thumb/e70db4bcb8788cf56d0e194a2c237b02-thumbnail.jpg",Las Vegas Grand Prix - FP2 (21 November 2025 at 04:00)
 
 #EXTINF:-1 tvg-id="ppv-13809" tvg-name="Las Vegas Grand Prix - FP1 (21 November 2025 at 00:30)" tvg-epgid="13809" tvg-logo="https://api.ppvs.su/assets/thumb/4ac24a9a90c0c04ecbea31189930fbbe-thumbnail.jpg",Las Vegas Grand Prix - FP1 (21 November 2025 at 00:30)
+
+#EXTINF:-1 tvg-id="ppv-13751" tvg-name="AEW: Saturday Night Collision (23 November 2025 at 01:00)" tvg-epgid="13751" tvg-logo="https://api.ppvs.su/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg",AEW: Saturday Night Collision (23 November 2025 at 01:00)
 
 #EXTINF:-1 tvg-id="ppv-13750" tvg-name="WWE: Friday Night Smackdown (22 November 2025 at 01:00)" tvg-epgid="13750" tvg-logo="https://api.ppvs.su/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg",WWE: Friday Night Smackdown (22 November 2025 at 01:00)
 
