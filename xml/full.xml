@@ -659,6 +659,138 @@ channel="ppv-13819"
 <icon src="https://api.ppvs.su/assets/thumb/e4f7494ce49163f4a7d4b4db2cc21b53-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-13892">
+<display-name>Players Championship Finals - Quarter Finals</display-name>
+</channel>
+<programme
+start="20251123124500 +0000"
+stop="20251123174500 +0000"
+channel="ppv-13892"
+>
+<title lang="en">Players Championship Finals - Quarter Finals</title>
+<sub-title>Darts</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Darts</category>
+<icon src="https://api.ppvs.su/assets/thumb/5b9a5ce79119092d9eedc98b88518062-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13891">
+<display-name>Players Championship Finals - Day 2, Session 2</display-name>
+</channel>
+<programme
+start="20251122190000 +0000"
+stop="20251123000000 +0000"
+channel="ppv-13891"
+>
+<title lang="en">Players Championship Finals - Day 2, Session 2</title>
+<sub-title>Darts</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Darts</category>
+<icon src="https://api.ppvs.su/assets/thumb/5b9a5ce79119092d9eedc98b88518062-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13890">
+<display-name>Players Championship Finals - Day 2, Session 1</display-name>
+</channel>
+<programme
+start="20251122124500 +0000"
+stop="20251122174500 +0000"
+channel="ppv-13890"
+>
+<title lang="en">Players Championship Finals - Day 2, Session 1</title>
+<sub-title>Darts</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Darts</category>
+<icon src="https://api.ppvs.su/assets/thumb/5b9a5ce79119092d9eedc98b88518062-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13889">
+<display-name>Players Championship Finals - Day 1, Session 2</display-name>
+</channel>
+<programme
+start="20251121190000 +0000"
+stop="20251122000000 +0000"
+channel="ppv-13889"
+>
+<title lang="en">Players Championship Finals - Day 1, Session 2</title>
+<sub-title>Darts</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Darts</category>
+<icon src="https://api.ppvs.su/assets/thumb/5b9a5ce79119092d9eedc98b88518062-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13888">
+<display-name>Players Championship Finals - Day 1, Session 1</display-name>
+</channel>
+<programme
+start="20251121124500 +0000"
+stop="20251121174500 +0000"
+channel="ppv-13888"
+>
+<title lang="en">Players Championship Finals - Day 1, Session 1</title>
+<sub-title>Darts</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Darts</category>
+<icon src="https://api.ppvs.su/assets/thumb/5b9a5ce79119092d9eedc98b88518062-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13734">
+<display-name>RB Leipzig vs. Bremen</display-name>
+</channel>
+<programme
+start="20251123143000 +0000"
+stop="20251123170000 +0000"
+channel="ppv-13734"
+>
+<title lang="en">RB Leipzig vs. Bremen</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/0f7c069ea6c2017940732697a08c014b-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-13693">
 <display-name>Leeds United vs. Aston Villa</display-name>
 </channel>
