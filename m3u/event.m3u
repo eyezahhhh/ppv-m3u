@@ -83,6 +83,12 @@
 
 #EXTINF:-1 tvg-id="ppv-13889" tvg-name="Players Championship Finals - Day 1, Session 2 (21 November 2025 at 19:00)" tvg-epgid="13889" tvg-logo="https://api.ppvs.su/assets/thumb/5b9a5ce79119092d9eedc98b88518062-thumbnail.jpg",Players Championship Finals - Day 1, Session 2 (21 November 2025 at 19:00)
 
+#EXTINF:-1 tvg-id="ppv-13706" tvg-name="Elche CF vs. Real Madrid (23 November 2025 at 20:00)" tvg-epgid="13706" tvg-logo="https://api.ppvs.su/assets/thumb/bea53058dd03a6c07c85382256403fc6-thumbnail.jpg",Elche CF vs. Real Madrid (23 November 2025 at 20:00)
+
+#EXTINF:-1 tvg-id="ppv-13715" tvg-name="Inter vs. Milan (23 November 2025 at 19:45)" tvg-epgid="13715" tvg-logo="https://api.ppvs.su/assets/thumb/78d350880c15f732ab988d90a62dc937-thumbnail.jpg",Inter vs. Milan (23 November 2025 at 19:45)
+
+#EXTINF:-1 tvg-id="ppv-13726" tvg-name="LOSC vs. Paris FC (23 November 2025 at 19:45)" tvg-epgid="13726" tvg-logo="https://api.ppvs.su/assets/thumb/b81ccb0f4ddb953f0c53eaee4706ea4b-thumbnail.jpg",LOSC vs. Paris FC (23 November 2025 at 19:45)
+
 #EXTINF:-1 tvg-id="ppv-13705" tvg-name="Getafe CF vs. Atlético de Madrid (23 November 2025 at 17:30)" tvg-epgid="13705" tvg-logo="https://api.ppvs.su/assets/thumb/acf3246be5da7a952d02307a50ef7a95-thumbnail.jpg",Getafe CF vs. Atlético de Madrid (23 November 2025 at 17:30)
 
 #EXTINF:-1 tvg-id="ppv-13714" tvg-name="Lazio vs. Lecce (23 November 2025 at 17:00)" tvg-epgid="13714" tvg-logo="https://api.ppvs.su/assets/thumb/dfa3e433e9e1e6bc98cc0f7fe11aa8a4-thumbnail.jpg",Lazio vs. Lecce (23 November 2025 at 17:00)
