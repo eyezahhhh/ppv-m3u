@@ -1,4 +1,18 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ppv-13842" tvg-name="Pittsburgh Steelers vs. Chicago Bears (23 November 2025 at 18:00)" tvg-epgid="13842" tvg-logo="https://api.ppvs.su/assets/thumb/8b10e4db438460f528633d50ac0fcfce-thumbnail.jpg",Pittsburgh Steelers vs. Chicago Bears (23 November 2025 at 18:00)
+
+#EXTINF:-1 tvg-id="ppv-13846" tvg-name="New England Patriots vs. Cincinnati Bengals (23 November 2025 at 18:00)" tvg-epgid="13846" tvg-logo="https://api.ppvs.su/assets/thumb/952d6b2ee9d02fcc2a1d7ff1e388773e-thumbnail.jpg",New England Patriots vs. Cincinnati Bengals (23 November 2025 at 18:00)
+
+#EXTINF:-1 tvg-id="ppv-13848" tvg-name="New York Giants vs. Detroit Lions (23 November 2025 at 18:00)" tvg-epgid="13848" tvg-logo="https://api.ppvs.su/assets/thumb/87ecd12353a6afa7a1458dbd3e685260-thumbnail.jpg",New York Giants vs. Detroit Lions (23 November 2025 at 18:00)
+
+#EXTINF:-1 tvg-id="ppv-13851" tvg-name="Minnesota Vikings vs. Green Bay Packers (23 November 2025 at 18:00)" tvg-epgid="13851" tvg-logo="https://api.ppvs.su/assets/thumb/1339fb374ac6a798ba28575db688cb10-thumbnail.jpg",Minnesota Vikings vs. Green Bay Packers (23 November 2025 at 18:00)
+
+#EXTINF:-1 tvg-id="ppv-13854" tvg-name="Seattle Seahawks vs. Tennessee Titans (23 November 2025 at 18:00)" tvg-epgid="13854" tvg-logo="https://api.ppvs.su/assets/thumb/31328dbd75331c5693966823aae636d2-thumbnail.jpg",Seattle Seahawks vs. Tennessee Titans (23 November 2025 at 18:00)
+
+#EXTINF:-1 tvg-id="ppv-13857" tvg-name="Indianapolis Colts vs. Kansas City Chiefs (23 November 2025 at 18:00)" tvg-epgid="13857" tvg-logo="https://api.ppvs.su/assets/thumb/ec085c53a94f3e73512f42b4ae5da14b-thumbnail.jpg",Indianapolis Colts vs. Kansas City Chiefs (23 November 2025 at 18:00)
+
+#EXTINF:-1 tvg-id="ppv-13862" tvg-name="New York Jets vs. Baltimore Ravens (23 November 2025 at 18:00)" tvg-epgid="13862" tvg-logo="https://api.ppvs.su/assets/thumb/7223706a0d8c86cadbeb1548598396a0-thumbnail.jpg",New York Jets vs. Baltimore Ravens (23 November 2025 at 18:00)
+
 #EXTINF:-1 tvg-id="ppv-13872" tvg-name="BYU Cougars vs. Cincinnati Bearcats (23 November 2025 at 01:00)" tvg-epgid="13872" tvg-logo="https://api.ppvs.su/assets/thumb/1e47dd3379cc97df15e22c8497faf046-thumbnail.jpg",BYU Cougars vs. Cincinnati Bearcats (23 November 2025 at 01:00)
 
 #EXTINF:-1 tvg-id="ppv-13874" tvg-name="Arizona State Sun Devils vs. Colorado Buffaloes (23 November 2025 at 01:00)" tvg-epgid="13874" tvg-logo="https://api.ppvs.su/assets/thumb/d083ff96c3aaed762ad44c2cec0b4de3-thumbnail.jpg",Arizona State Sun Devils vs. Colorado Buffaloes (23 November 2025 at 01:00)
@@ -66,8 +80,6 @@
 #EXTINF:-1 tvg-id="ppv-13890" tvg-name="Players Championship Finals - Day 2, Session 1 (22 November 2025 at 12:45)" tvg-epgid="13890" tvg-logo="https://api.ppvs.su/assets/thumb/5b9a5ce79119092d9eedc98b88518062-thumbnail.jpg",Players Championship Finals - Day 2, Session 1 (22 November 2025 at 12:45)
 
 #EXTINF:-1 tvg-id="ppv-13889" tvg-name="Players Championship Finals - Day 1, Session 2 (21 November 2025 at 19:00)" tvg-epgid="13889" tvg-logo="https://api.ppvs.su/assets/thumb/5b9a5ce79119092d9eedc98b88518062-thumbnail.jpg",Players Championship Finals - Day 1, Session 2 (21 November 2025 at 19:00)
-
-#EXTINF:-1 tvg-id="ppv-13888" tvg-name="Players Championship Finals - Day 1, Session 1 (21 November 2025 at 12:45)" tvg-epgid="13888" tvg-logo="https://api.ppvs.su/assets/thumb/5b9a5ce79119092d9eedc98b88518062-thumbnail.jpg",Players Championship Finals - Day 1, Session 1 (21 November 2025 at 12:45)
 
 #EXTINF:-1 tvg-id="ppv-13705" tvg-name="Getafe CF vs. Atlético de Madrid (23 November 2025 at 17:30)" tvg-epgid="13705" tvg-logo="https://api.ppvs.su/assets/thumb/acf3246be5da7a952d02307a50ef7a95-thumbnail.jpg",Getafe CF vs. Atlético de Madrid (23 November 2025 at 17:30)
 

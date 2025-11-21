@@ -1,4 +1,158 @@
 <tv>
+<channel id="ppv-13842">
+<display-name>Pittsburgh Steelers vs. Chicago Bears</display-name>
+</channel>
+<programme
+start="20251123180000 +0000"
+stop="20251123213000 +0000"
+channel="ppv-13842"
+>
+<title lang="en">Pittsburgh Steelers vs. Chicago Bears</title>
+<sub-title>American Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>American Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/8b10e4db438460f528633d50ac0fcfce-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13846">
+<display-name>New England Patriots vs. Cincinnati Bengals</display-name>
+</channel>
+<programme
+start="20251123180000 +0000"
+stop="20251123213000 +0000"
+channel="ppv-13846"
+>
+<title lang="en">New England Patriots vs. Cincinnati Bengals</title>
+<sub-title>American Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>American Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/952d6b2ee9d02fcc2a1d7ff1e388773e-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13848">
+<display-name>New York Giants vs. Detroit Lions</display-name>
+</channel>
+<programme
+start="20251123180000 +0000"
+stop="20251123213000 +0000"
+channel="ppv-13848"
+>
+<title lang="en">New York Giants vs. Detroit Lions</title>
+<sub-title>American Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>American Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/87ecd12353a6afa7a1458dbd3e685260-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13851">
+<display-name>Minnesota Vikings vs. Green Bay Packers</display-name>
+</channel>
+<programme
+start="20251123180000 +0000"
+stop="20251123213000 +0000"
+channel="ppv-13851"
+>
+<title lang="en">Minnesota Vikings vs. Green Bay Packers</title>
+<sub-title>American Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>American Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/1339fb374ac6a798ba28575db688cb10-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13854">
+<display-name>Seattle Seahawks vs. Tennessee Titans</display-name>
+</channel>
+<programme
+start="20251123180000 +0000"
+stop="20251123213000 +0000"
+channel="ppv-13854"
+>
+<title lang="en">Seattle Seahawks vs. Tennessee Titans</title>
+<sub-title>American Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>American Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/31328dbd75331c5693966823aae636d2-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13857">
+<display-name>Indianapolis Colts vs. Kansas City Chiefs</display-name>
+</channel>
+<programme
+start="20251123180000 +0000"
+stop="20251123213000 +0000"
+channel="ppv-13857"
+>
+<title lang="en">Indianapolis Colts vs. Kansas City Chiefs</title>
+<sub-title>American Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>American Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/ec085c53a94f3e73512f42b4ae5da14b-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13862">
+<display-name>New York Jets vs. Baltimore Ravens</display-name>
+</channel>
+<programme
+start="20251123180000 +0000"
+stop="20251123213000 +0000"
+channel="ppv-13862"
+>
+<title lang="en">New York Jets vs. Baltimore Ravens</title>
+<sub-title>American Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>American Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/7223706a0d8c86cadbeb1548598396a0-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-13872">
 <display-name>BYU Cougars vs. Cincinnati Bearcats</display-name>
 </channel>
@@ -734,28 +888,6 @@ stop="20251122000000 +0000"
 channel="ppv-13889"
 >
 <title lang="en">Players Championship Finals - Day 1, Session 2</title>
-<sub-title>Darts</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Darts</category>
-<icon src="https://api.ppvs.su/assets/thumb/5b9a5ce79119092d9eedc98b88518062-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13888">
-<display-name>Players Championship Finals - Day 1, Session 1</display-name>
-</channel>
-<programme
-start="20251121124500 +0000"
-stop="20251121174500 +0000"
-channel="ppv-13888"
->
-<title lang="en">Players Championship Finals - Day 1, Session 1</title>
 <sub-title>Darts</sub-title>
 <video>
 <present>yes</present>
