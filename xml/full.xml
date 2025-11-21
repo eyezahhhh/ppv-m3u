@@ -417,28 +417,6 @@ channel="ppv-13836"
 <icon src="https://api.ppvs.su/assets/thumb/ddf55bf1be599acd2b7c520b834312d2-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-13877">
-<display-name>Buffalo Bills vs. Houston Texans (Prime Vison)</display-name>
-</channel>
-<programme
-start="20251121011500 +0000"
-stop="20251121051500 +0000"
-channel="ppv-13877"
->
-<title lang="en">Buffalo Bills vs. Houston Texans (Prime Vison)</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/8a29a7718be8315ea61372db50529299-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-13886">
 <display-name>Oklahoma City Thunder vs. Utah Jazz (West Group A)</display-name>
 </channel>
@@ -635,28 +613,6 @@ channel="ppv-13879"
 </audio>
 <category>Basketball</category>
 <icon src="https://api.ppvs.su/assets/thumb/71c1c6eddca3be6dd1d4ed66c9107eb5-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13831">
-<display-name>Rider Broncs vs. Houston Cougars</display-name>
-</channel>
-<programme
-start="20251121020000 +0000"
-stop="20251121053000 +0000"
-channel="ppv-13831"
->
-<title lang="en">Rider Broncs vs. Houston Cougars</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://api.ppvs.su/assets/thumb/2a8f10d2c895d97ad6577a3398754fc2-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-13820">
