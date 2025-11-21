@@ -37,13 +37,27 @@
 
 #EXTINF:-1 tvg-id="ppv-13836" tvg-name="Miami Hurricanes vs. Virginia Tech Hokies (22 November 2025 at 17:00)" tvg-epgid="13836" tvg-logo="https://api.ppvs.su/assets/thumb/ddf55bf1be599acd2b7c520b834312d2-thumbnail.jpg",Miami Hurricanes vs. Virginia Tech Hokies (22 November 2025 at 17:00)
 
-#EXTINF:-1 tvg-id="ppv-13838" tvg-name="Buffalo Bills vs. Houston Texans (21 November 2025 at 01:15)" tvg-epgid="13838" tvg-logo="https://api.ppvs.su/assets/thumb/648b237bda5ce68bdf59eaf9bac63f63-thumbnail.jpg",Buffalo Bills vs. Houston Texans (21 November 2025 at 01:15)
-
 #EXTINF:-1 tvg-id="ppv-13877" tvg-name="Buffalo Bills vs. Houston Texans (Prime Vison) (21 November 2025 at 01:15)" tvg-epgid="13877" tvg-logo="https://api.ppvs.su/assets/thumb/8a29a7718be8315ea61372db50529299-thumbnail.jpg",Buffalo Bills vs. Houston Texans (Prime Vison) (21 November 2025 at 01:15)
 
-#EXTINF:-1 tvg-id="ppv-13831" tvg-name="Rider Broncs vs. Houston Cougars (21 November 2025 at 02:00)" tvg-epgid="13831" tvg-logo="https://api.ppvs.su/assets/thumb/2a8f10d2c895d97ad6577a3398754fc2-thumbnail.jpg",Rider Broncs vs. Houston Cougars (21 November 2025 at 02:00)
+#EXTINF:-1 tvg-id="ppv-13886" tvg-name="Oklahoma City Thunder vs. Utah Jazz (West Group A) (22 November 2025 at 03:00)" tvg-epgid="13886" tvg-logo="https://api.ppvs.su/assets/thumb/ae96aa9cf44b45504f71c6d5e3a7be90-thumbnail.jpg",Oklahoma City Thunder vs. Utah Jazz (West Group A) (22 November 2025 at 03:00)
 
-#EXTINF:-1 tvg-id="ppv-13830" tvg-name="Wake Forest Demon Deacons vs. Texas Tech Red Raiders (21 November 2025 at 01:30)" tvg-epgid="13830" tvg-logo="https://api.ppvs.su/assets/thumb/b2a49d4747d513cf1dc40a439d22f68a-thumbnail.jpg",Wake Forest Demon Deacons vs. Texas Tech Red Raiders (21 November 2025 at 01:30)
+#EXTINF:-1 tvg-id="ppv-13887" tvg-name="Portland Trail Blazers vs. Golden State Warriors (West Group C) (22 November 2025 at 03:00)" tvg-epgid="13887" tvg-logo="https://api.ppvs.su/assets/thumb/4a2cabd49a28c3f2fa1249a6cefc4238-thumbnail.jpg",Portland Trail Blazers vs. Golden State Warriors (West Group C) (22 November 2025 at 03:00)
+
+#EXTINF:-1 tvg-id="ppv-13885" tvg-name="Denver Nuggets vs. Houston Rockets (West Group C) (22 November 2025 at 02:30)" tvg-epgid="13885" tvg-logo="https://api.ppvs.su/assets/thumb/1b6c5b8dcfaef71cabeb6f0ce4805bc8-thumbnail.jpg",Denver Nuggets vs. Houston Rockets (West Group C) (22 November 2025 at 02:30)
+
+#EXTINF:-1 tvg-id="ppv-13884" tvg-name="Minnesota Timberwolves vs. Phoenix Suns (West Group A) (22 November 2025 at 02:00)" tvg-epgid="13884" tvg-logo="https://api.ppvs.su/assets/thumb/2116ccade7c809f2a538183753303d00-thumbnail.jpg",Minnesota Timberwolves vs. Phoenix Suns (West Group A) (22 November 2025 at 02:00)
+
+#EXTINF:-1 tvg-id="ppv-13883" tvg-name="New Orleans Pelicans vs. Dallas Mavericks (West Group B) (22 November 2025 at 01:30)" tvg-epgid="13883" tvg-logo="https://api.ppvs.su/assets/thumb/14a73ef73279127e4995ced4e89654e5-thumbnail.jpg",New Orleans Pelicans vs. Dallas Mavericks (West Group B) (22 November 2025 at 01:30)
+
+#EXTINF:-1 tvg-id="ppv-13882" tvg-name="Miami Heat vs. Chicago Bulls (East Group C) (22 November 2025 at 01:00)" tvg-epgid="13882" tvg-logo="https://api.ppvs.su/assets/thumb/d03ddab55f04ae99f039d51deb2972ea-thumbnail.jpg",Miami Heat vs. Chicago Bulls (East Group C) (22 November 2025 at 01:00)
+
+#EXTINF:-1 tvg-id="ppv-13880" tvg-name="Brooklyn Nets vs. Boston Celtics (East Group B) (22 November 2025 at 00:30)" tvg-epgid="13880" tvg-logo="https://api.ppvs.su/assets/thumb/8563f38e9234c35c91ff2d4fd4ca2790-thumbnail.jpg",Brooklyn Nets vs. Boston Celtics (East Group B) (22 November 2025 at 00:30)
+
+#EXTINF:-1 tvg-id="ppv-13881" tvg-name="Washington Wizards vs. Toronto Raptors (East Group A) (22 November 2025 at 00:30)" tvg-epgid="13881" tvg-logo="https://api.ppvs.su/assets/thumb/37d5cfaa80ad37fdfd2dc7478ade184a-thumbnail.jpg",Washington Wizards vs. Toronto Raptors (East Group A) (22 November 2025 at 00:30)
+
+#EXTINF:-1 tvg-id="ppv-13879" tvg-name="Indiana Pacers vs. Cleveland Cavaliers (East Group A) (22 November 2025 at 00:00)" tvg-epgid="13879" tvg-logo="https://api.ppvs.su/assets/thumb/71c1c6eddca3be6dd1d4ed66c9107eb5-thumbnail.jpg",Indiana Pacers vs. Cleveland Cavaliers (East Group A) (22 November 2025 at 00:00)
+
+#EXTINF:-1 tvg-id="ppv-13831" tvg-name="Rider Broncs vs. Houston Cougars (21 November 2025 at 02:00)" tvg-epgid="13831" tvg-logo="https://api.ppvs.su/assets/thumb/2a8f10d2c895d97ad6577a3398754fc2-thumbnail.jpg",Rider Broncs vs. Houston Cougars (21 November 2025 at 02:00)
 
 #EXTINF:-1 tvg-id="ppv-13820" tvg-name="1st Test, Day 3: Australia vs. England (23 November 2025 at 02:20)" tvg-epgid="13820" tvg-logo="https://api.ppvs.su/assets/thumb/e4f7494ce49163f4a7d4b4db2cc21b53-thumbnail.jpg",1st Test, Day 3: Australia vs. England (23 November 2025 at 02:20)
 
@@ -110,10 +124,6 @@
 #EXTINF:-1 tvg-id="ppv-13868" tvg-name="Ottawa Senators vs. Anaheim Ducks (21 November 2025 at 03:00)" tvg-epgid="13868" tvg-logo="https://api.ppvs.su/assets/thumb/19c832f177e31e674bbbe1ac57594a42-thumbnail.jpg",Ottawa Senators vs. Anaheim Ducks (21 November 2025 at 03:00)
 
 #EXTINF:-1 tvg-id="ppv-13871" tvg-name="Los Angeles Kings vs. San Jose Sharks (21 November 2025 at 03:00)" tvg-epgid="13871" tvg-logo="https://api.ppvs.su/assets/thumb/d5bcef864ec0ad8d6860d1d0889a8f7a-thumbnail.jpg",Los Angeles Kings vs. San Jose Sharks (21 November 2025 at 03:00)
-
-#EXTINF:-1 tvg-id="ppv-13858" tvg-name="New York Rangers vs. Colorado Avalanche (21 November 2025 at 02:00)" tvg-epgid="13858" tvg-logo="https://api.ppvs.su/assets/thumb/af5eca49c29cf952c039b7f090421a03-thumbnail.jpg",New York Rangers vs. Colorado Avalanche (21 November 2025 at 02:00)
-
-#EXTINF:-1 tvg-id="ppv-13861" tvg-name="Vegas Golden Knights vs. Utah Mammoth (21 November 2025 at 02:00)" tvg-epgid="13861" tvg-logo="https://api.ppvs.su/assets/thumb/b25ccb75afb9c54c986175ce465dc64d-thumbnail.jpg",Vegas Golden Knights vs. Utah Mammoth (21 November 2025 at 02:00)
 
 #EXTINF:-1 tvg-id="ppv-13813" tvg-name="Las Vegas Grand Prix - Race (23 November 2025 at 04:00)" tvg-epgid="13813" tvg-logo="https://api.ppvs.su/assets/thumb/ad652c26f1e7b8e8c36cf316f47f0d4b-thumbnail.jpg",Las Vegas Grand Prix - Race (23 November 2025 at 04:00)
 
