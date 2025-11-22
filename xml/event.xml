@@ -1671,28 +1671,6 @@ channel="ppv-13710"
 <icon src="https://api.ppvs.su/assets/thumb/30aa4e5735a03820f9bccf4760aef42b-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-13719">
-<display-name>RC Lens vs. Strasbourg</display-name>
-</channel>
-<programme
-start="20251122160000 +0000"
-stop="20251122183000 +0000"
-channel="ppv-13719"
->
-<title lang="en">RC Lens vs. Strasbourg</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/9d3cf70c5b8dab6ed3a89d8aebbd9cda-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-13813">
 <display-name>Las Vegas Grand Prix - Race</display-name>
 </channel>
