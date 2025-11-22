@@ -857,28 +857,6 @@ channel="ppv-13883"
 <icon src="https://api.ppvs.su/assets/thumb/14a73ef73279127e4995ced4e89654e5-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-13882">
-<display-name>Miami Heat vs. Chicago Bulls (East Group C)</display-name>
-</channel>
-<programme
-start="20251122010000 +0000"
-stop="20251122034800 +0000"
-channel="ppv-13882"
->
-<title lang="en">Miami Heat vs. Chicago Bulls (East Group C)</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://api.ppvs.su/assets/thumb/d03ddab55f04ae99f039d51deb2972ea-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-13917">
 <display-name>Jackson State Tigers vs. Arkansas Razorbacks</display-name>
 </channel>
@@ -2001,28 +1979,6 @@ channel="ppv-13910"
 <icon src="https://api.ppvs.su/assets/thumb/544d701ddcbd3c5535fcf00296972979-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-13909">
-<display-name>Carolina Hurricanes vs. Winnipeg Jets</display-name>
-</channel>
-<programme
-start="20251122010000 +0000"
-stop="20251122040000 +0000"
-channel="ppv-13909"
->
-<title lang="en">Carolina Hurricanes vs. Winnipeg Jets</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://api.ppvs.su/assets/thumb/94b9837de608cbc68104f8df4afc64a5-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-13813">
 <display-name>Las Vegas Grand Prix - Race</display-name>
 </channel>
@@ -2087,27 +2043,5 @@ channel="ppv-13751"
 </audio>
 <category>Wrestling</category>
 <icon src="https://api.ppvs.su/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13750">
-<display-name>WWE: Friday Night Smackdown</display-name>
-</channel>
-<programme
-start="20251122010000 +0000"
-stop="20251122040000 +0000"
-channel="ppv-13750"
->
-<title lang="en">WWE: Friday Night Smackdown</title>
-<sub-title>Wrestling</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Wrestling</category>
-<icon src="https://api.ppvs.su/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" />
 </programme>
 </tv>
