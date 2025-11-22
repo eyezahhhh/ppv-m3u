@@ -615,94 +615,6 @@ channel="ppv-13839"
 <icon src="https://api.ppvs.su/assets/thumb/f7a9b58ef375aa1ce03a5a7700302102-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-13832">
-<display-name>Rutgers Scarlet Knights vs. Ohio State Buckeyes</display-name>
-</channel>
-<programme
-start="20251122170000 +0000"
-stop="20251122203000 +0000"
-channel="ppv-13832"
->
-<title lang="en">Rutgers Scarlet Knights vs. Ohio State Buckeyes</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/d055ee8cd2cbff1cdbee04fdfc3e2103-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13833">
-<display-name>Samford Bulldogs vs. Texas A&amp;M Aggies</display-name>
-</channel>
-<programme
-start="20251122170000 +0000"
-stop="20251122203000 +0000"
-channel="ppv-13833"
->
-<title lang="en">Samford Bulldogs vs. Texas A&amp;M Aggies</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/b5fed802d907270118e063e2c0ebbced-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13834">
-<display-name>Missouri Tigers vs. Oklahoma Sooners</display-name>
-</channel>
-<programme
-start="20251122170000 +0000"
-stop="20251122203000 +0000"
-channel="ppv-13834"
->
-<title lang="en">Missouri Tigers vs. Oklahoma Sooners</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/aed1efe9de72adc30f324c8d40e5609d-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13836">
-<display-name>Miami Hurricanes vs. Virginia Tech Hokies</display-name>
-</channel>
-<programme
-start="20251122170000 +0000"
-stop="20251122203000 +0000"
-channel="ppv-13836"
->
-<title lang="en">Miami Hurricanes vs. Virginia Tech Hokies</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/ddf55bf1be599acd2b7c520b834312d2-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-13934">
 <display-name>Sacramento Kings vs. Denver Nuggets</display-name>
 </channel>
@@ -1625,28 +1537,6 @@ channel="ppv-13711"
 </audio>
 <category>Football</category>
 <icon src="https://api.ppvs.su/assets/thumb/09d011df54ec6b105b6ea57b22422ebb-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13720">
-<display-name>Rennes vs. AS Monaco</display-name>
-</channel>
-<programme
-start="20251122180000 +0000"
-stop="20251122203000 +0000"
-channel="ppv-13720"
->
-<title lang="en">Rennes vs. AS Monaco</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/9fe9113fa1881b3ee5be45adbeac4ce9-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-13813">
