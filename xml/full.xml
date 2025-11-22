@@ -725,94 +725,6 @@ channel="ppv-13940"
 <icon src="https://api.ppvs.su/assets/thumb/7289590eeb6b57832a7079736640a23a-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-13936">
-<display-name>OKTAGON 80 (English)</display-name>
-</channel>
-<programme
-start="20251122170000 +0000"
-stop="20251122230000 +0000"
-channel="ppv-13936"
->
-<title lang="en">OKTAGON 80 (English)</title>
-<sub-title>Combat Sports</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Combat Sports</category>
-<icon src="https://api.ppvs.su/assets/thumb/bb0da688400a63e2ec8b801cb3d37646-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13937">
-<display-name>OKTAGON 80 (German)</display-name>
-</channel>
-<programme
-start="20251122170000 +0000"
-stop="20251122230000 +0000"
-channel="ppv-13937"
->
-<title lang="en">OKTAGON 80 (German)</title>
-<sub-title>Combat Sports</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Combat Sports</category>
-<icon src="https://api.ppvs.su/assets/thumb/bb0da688400a63e2ec8b801cb3d37646-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13938">
-<display-name>OKTAGON 80 (Czech)</display-name>
-</channel>
-<programme
-start="20251122170000 +0000"
-stop="20251122230000 +0000"
-channel="ppv-13938"
->
-<title lang="en">OKTAGON 80 (Czech)</title>
-<sub-title>Combat Sports</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Combat Sports</category>
-<icon src="https://api.ppvs.su/assets/thumb/bb0da688400a63e2ec8b801cb3d37646-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13920">
-<display-name>UFC Fight Night: Tsarukyan vs. Hooker</display-name>
-</channel>
-<programme
-start="20251122150000 +0000"
-stop="20251122230000 +0000"
-channel="ppv-13920"
->
-<title lang="en">UFC Fight Night: Tsarukyan vs. Hooker</title>
-<sub-title>Combat Sports</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Combat Sports</category>
-<icon src="https://api.ppvs.su/assets/thumb/e8a3d67e0126edf93883f8f7c32558c5-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-13821">
 <display-name>1st Test, Day 4: Australia vs. England</display-name>
 </channel>
@@ -1383,28 +1295,6 @@ channel="ppv-13712"
 </audio>
 <category>Football</category>
 <icon src="https://api.ppvs.su/assets/thumb/abcd4bd11c80c04825172a39f9c585c6-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13721">
-<display-name>PSG vs. Havre AC</display-name>
-</channel>
-<programme
-start="20251122200500 +0000"
-stop="20251122223500 +0000"
-channel="ppv-13721"
->
-<title lang="en">PSG vs. Havre AC</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/bf4cbec8a27250cc1738acf79f35b632-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-13813">
