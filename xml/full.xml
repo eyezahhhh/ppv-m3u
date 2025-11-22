@@ -549,28 +549,6 @@ channel="ppv-13850"
 <icon src="https://api.ppvs.su/assets/thumb/f7fa055045ea975da4d1d11379ad00c0-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-13840">
-<display-name>Eastern Illinois Panthers vs. Alabama Crimson Tide</display-name>
-</channel>
-<programme
-start="20251122190000 +0000"
-stop="20251122223000 +0000"
-channel="ppv-13840"
->
-<title lang="en">Eastern Illinois Panthers vs. Alabama Crimson Tide</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/5cd585cdc7f38a2eed52c510a2fb95e6-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-13934">
 <display-name>Sacramento Kings vs. Denver Nuggets</display-name>
 </channel>
@@ -1427,50 +1405,6 @@ channel="ppv-13721"
 </audio>
 <category>Football</category>
 <icon src="https://api.ppvs.su/assets/thumb/bf4cbec8a27250cc1738acf79f35b632-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13702">
-<display-name>Villarreal CF vs. RCD Mallorca</display-name>
-</channel>
-<programme
-start="20251122200000 +0000"
-stop="20251122223000 +0000"
-channel="ppv-13702"
->
-<title lang="en">Villarreal CF vs. RCD Mallorca</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/0fa61d84f5caf5880543ef0e668aff99-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13711">
-<display-name>Napoli vs. Atalanta</display-name>
-</channel>
-<programme
-start="20251122194500 +0000"
-stop="20251122221500 +0000"
-channel="ppv-13711"
->
-<title lang="en">Napoli vs. Atalanta</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/09d011df54ec6b105b6ea57b22422ebb-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-13813">
