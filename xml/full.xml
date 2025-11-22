@@ -835,50 +835,6 @@ channel="ppv-13884"
 <icon src="https://api.ppvs.su/assets/thumb/2116ccade7c809f2a538183753303d00-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-13883">
-<display-name>New Orleans Pelicans vs. Dallas Mavericks (West Group B)</display-name>
-</channel>
-<programme
-start="20251122013000 +0000"
-stop="20251122041800 +0000"
-channel="ppv-13883"
->
-<title lang="en">New Orleans Pelicans vs. Dallas Mavericks (West Group B)</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://api.ppvs.su/assets/thumb/14a73ef73279127e4995ced4e89654e5-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13917">
-<display-name>Jackson State Tigers vs. Arkansas Razorbacks</display-name>
-</channel>
-<programme
-start="20251122010000 +0000"
-stop="20251122043000 +0000"
-channel="ppv-13917"
->
-<title lang="en">Jackson State Tigers vs. Arkansas Razorbacks</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://api.ppvs.su/assets/thumb/6bb6895adbb5cb1835ad4fb1efbc2a66-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-13920">
 <display-name>UFC Fight Night: Tsarukyan vs. Hooker</display-name>
 </channel>
