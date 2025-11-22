@@ -836,14 +836,14 @@ channel="ppv-13928"
 </programme>
 
 <channel id="ppv-13935">
-<display-name>Ring IV: Night Of Champions - Benavidez vs Yarde</display-name>
+<display-name>Ring IV: Night Of Champions - Benavidez vs. Yarde</display-name>
 </channel>
 <programme
 start="20251122200000 +0000"
 stop="20251123020000 +0000"
 channel="ppv-13935"
 >
-<title lang="en">Ring IV: Night Of Champions - Benavidez vs Yarde</title>
+<title lang="en">Ring IV: Night Of Champions - Benavidez vs. Yarde</title>
 <sub-title>Combat Sports</sub-title>
 <video>
 <present>yes</present>
@@ -854,7 +854,7 @@ channel="ppv-13935"
 <stereo>stereo</stereo>
 </audio>
 <category>Combat Sports</category>
-<icon src="https://api.ppvs.su/assets/thumb/2d796d6b6c40321b14180b7740da87dd-thumbnail.jpg" />
+<icon src="https://api.ppvs.su/assets/thumb/6c2a0406f4d0a6370fd66d6402505940-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-13936">
@@ -1671,6 +1671,28 @@ channel="ppv-13700"
 <icon src="https://api.ppvs.su/assets/thumb/bb9494ea55cf2cff5f4eebed6acc3c15-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-5193">
+<display-name>Goal Rush</display-name>
+</channel>
+<programme
+start="20251122150000 +0000"
+stop="20251122180000 +0000"
+channel="ppv-5193"
+>
+<title lang="en">Goal Rush</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/bf183a3c2fc1aedafb05d8df0e5bf5f2-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-13688">
 <display-name>Bournemouth vs. West Ham United</display-name>
 </channel>
@@ -1779,6 +1801,28 @@ channel="ppv-13697"
 </audio>
 <category>Football</category>
 <icon src="https://api.ppvs.su/assets/thumb/3e8b0b61251cfa3e464baaad7dfdbd21-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-12822">
+<display-name>Goal Arena</display-name>
+</channel>
+<programme
+start="20251122143000 +0000"
+stop="20251122173000 +0000"
+channel="ppv-12822"
+>
+<title lang="en">Goal Arena</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/5b591994cd75a39737262d2e1b65aded-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-13728">
@@ -2001,15 +2045,15 @@ channel="ppv-13813"
 <icon src="https://api.ppvs.su/assets/thumb/ad652c26f1e7b8e8c36cf316f47f0d4b-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-13751">
-<display-name>AEW: Saturday Night Collision</display-name>
+<channel id="ppv-13939">
+<display-name>AEW: Full Gear</display-name>
 </channel>
 <programme
 start="20251123010000 +0000"
-stop="20251123040000 +0000"
-channel="ppv-13751"
+stop="20251123050000 +0000"
+channel="ppv-13939"
 >
-<title lang="en">AEW: Saturday Night Collision</title>
+<title lang="en">AEW: Full Gear</title>
 <sub-title>Wrestling</sub-title>
 <video>
 <present>yes</present>
@@ -2020,6 +2064,6 @@ channel="ppv-13751"
 <stereo>stereo</stereo>
 </audio>
 <category>Wrestling</category>
-<icon src="https://api.ppvs.su/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" />
+<icon src="https://api.ppvs.su/assets/thumb/13d0dd00c116c0ae2277729f17cf6329-thumbnail.jpg" />
 </programme>
 </tv>
