@@ -942,7 +942,7 @@ channel="ppv-13914"
 <stereo>stereo</stereo>
 </audio>
 <category>Basketball</category>
-<icon src="https://api.ppvs.su/assets/thumb/f212e2b47a7a12594041956b07ebbb49-thumbnail.jpg" />
+<icon src="https://api.ppvs.su/assets/thumb/d31b94f49fb288d7514ab50632943183-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-13915">
@@ -1031,28 +1031,6 @@ channel="ppv-13913"
 </audio>
 <category>Basketball</category>
 <icon src="https://api.ppvs.su/assets/thumb/373cd5f181d219441b998189c820aa1c-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13911">
-<display-name>Wisconsin Badgers vs. BYU Cougars</display-name>
-</channel>
-<programme
-start="20251121210000 +0000"
-stop="20251122003000 +0000"
-channel="ppv-13911"
->
-<title lang="en">Wisconsin Badgers vs. BYU Cougars</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://api.ppvs.su/assets/thumb/dd3483e714594e22a4cf6cf31d962ec7-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-13820">
@@ -1174,28 +1152,6 @@ stop="20251122174500 +0000"
 channel="ppv-13890"
 >
 <title lang="en">Players Championship Finals - Day 2, Session 1</title>
-<sub-title>Darts</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Darts</category>
-<icon src="https://api.ppvs.su/assets/thumb/5b9a5ce79119092d9eedc98b88518062-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13889">
-<display-name>Players Championship Finals - Day 1, Session 2</display-name>
-</channel>
-<programme
-start="20251121190000 +0000"
-stop="20251122000000 +0000"
-channel="ppv-13889"
->
-<title lang="en">Players Championship Finals - Day 1, Session 2</title>
 <sub-title>Darts</sub-title>
 <video>
 <present>yes</present>
