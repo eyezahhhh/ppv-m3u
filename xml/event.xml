@@ -571,6 +571,28 @@ channel="ppv-13840"
 <icon src="https://api.ppvs.su/assets/thumb/5cd585cdc7f38a2eed52c510a2fb95e6-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-13945">
+<display-name>California (PA) vs. Virginia Union</display-name>
+</channel>
+<programme
+start="20251122180000 +0000"
+stop="20251122220000 +0000"
+channel="ppv-13945"
+>
+<title lang="en">California (PA) vs. Virginia Union</title>
+<sub-title>American Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>American Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/13d0dd00c116c0ae2277729f17cf6329-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-13839">
 <display-name>Charlotte 49ers vs. Georgia Bulldogs</display-name>
 </channel>
@@ -1064,28 +1086,6 @@ stop="20251123000000 +0000"
 channel="ppv-13891"
 >
 <title lang="en">Players Championship Finals - Day 2, Session 2</title>
-<sub-title>Darts</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Darts</category>
-<icon src="https://api.ppvs.su/assets/thumb/5b9a5ce79119092d9eedc98b88518062-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13890">
-<display-name>Players Championship Finals - Day 2, Session 1</display-name>
-</channel>
-<programme
-start="20251122124500 +0000"
-stop="20251122174500 +0000"
-channel="ppv-13890"
->
-<title lang="en">Players Championship Finals - Day 2, Session 1</title>
 <sub-title>Darts</sub-title>
 <video>
 <present>yes</present>
@@ -1691,50 +1691,6 @@ channel="ppv-13719"
 </audio>
 <category>Football</category>
 <icon src="https://api.ppvs.su/assets/thumb/9d3cf70c5b8dab6ed3a89d8aebbd9cda-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13700">
-<display-name>FC Barcelona vs. Athletic Club</display-name>
-</channel>
-<programme
-start="20251122151500 +0000"
-stop="20251122174500 +0000"
-channel="ppv-13700"
->
-<title lang="en">FC Barcelona vs. Athletic Club</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/bb9494ea55cf2cff5f4eebed6acc3c15-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-5193">
-<display-name>Goal Rush</display-name>
-</channel>
-<programme
-start="20251122150000 +0000"
-stop="20251122180000 +0000"
-channel="ppv-5193"
->
-<title lang="en">Goal Rush</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/bf183a3c2fc1aedafb05d8df0e5bf5f2-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-13813">
