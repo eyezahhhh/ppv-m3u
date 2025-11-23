@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ppv-13876" tvg-name="Carolina Panthers vs. San Francisco 49ers (25 November 2025 at 01:15)" tvg-epgid="13876" tvg-logo="https://api.ppvs.su/assets/thumb/45e1423f3c25d4472ca1798542e99dc7-thumbnail.jpg",Carolina Panthers vs. San Francisco 49ers (25 November 2025 at 01:15)
 
-#EXTINF:-1 tvg-id="ppv-11090" tvg-name="NFL RedZone (24 November 2025 at 18:00)" tvg-epgid="11090" tvg-logo="https://api.ppvs.su/assets/thumb/54aa61e14195478973adbd4719599cb5-thumbnail.jpg",NFL RedZone (24 November 2025 at 18:00)
-
 #EXTINF:-1 tvg-id="ppv-13875" tvg-name="Tampa Bay Buccaneers vs. Los Angeles Rams (24 November 2025 at 01:20)" tvg-epgid="13875" tvg-logo="https://api.ppvs.su/assets/thumb/e4bf8e4d971d6e82614627621458e6e4-thumbnail.jpg",Tampa Bay Buccaneers vs. Los Angeles Rams (24 November 2025 at 01:20)
 
 #EXTINF:-1 tvg-id="ppv-13870" tvg-name="Philadelphia Eagles vs. Dallas Cowboys (23 November 2025 at 21:25)" tvg-epgid="13870" tvg-logo="https://api.ppvs.su/assets/thumb/9851d9b52ac076bc4b527073bcb8fc98-thumbnail.jpg",Philadelphia Eagles vs. Dallas Cowboys (23 November 2025 at 21:25)
@@ -12,6 +10,8 @@
 #EXTINF:-1 tvg-id="ppv-13864" tvg-name="Cleveland Browns vs. Las Vegas Raiders (23 November 2025 at 21:05)" tvg-epgid="13864" tvg-logo="https://api.ppvs.su/assets/thumb/ca612289f5e9ff4c725ee0b35d2c1627-thumbnail.jpg",Cleveland Browns vs. Las Vegas Raiders (23 November 2025 at 21:05)
 
 #EXTINF:-1 tvg-id="ppv-13867" tvg-name="Jacksonville Jaguars vs. Arizona Cardinals (23 November 2025 at 21:05)" tvg-epgid="13867" tvg-logo="https://api.ppvs.su/assets/thumb/be2319257c167fee1cff360e551234ec-thumbnail.jpg",Jacksonville Jaguars vs. Arizona Cardinals (23 November 2025 at 21:05)
+
+#EXTINF:-1 tvg-id="ppv-11090" tvg-name="NFL RedZone (23 November 2025 at 18:00)" tvg-epgid="11090" tvg-logo="https://api.ppvs.su/assets/thumb/b81de749344645209b90492c795620e1-thumbnail.jpg",NFL RedZone (23 November 2025 at 18:00)
 
 #EXTINF:-1 tvg-id="ppv-13842" tvg-name="Pittsburgh Steelers vs. Chicago Bears (23 November 2025 at 18:00)" tvg-epgid="13842" tvg-logo="https://api.ppvs.su/assets/thumb/8b10e4db438460f528633d50ac0fcfce-thumbnail.jpg",Pittsburgh Steelers vs. Chicago Bears (23 November 2025 at 18:00)
 
@@ -86,6 +86,4 @@
 #EXTINF:-1 tvg-id="ppv-13713" tvg-name="Cremonese vs. Roma (23 November 2025 at 14:00)" tvg-epgid="13713" tvg-logo="https://api.ppvs.su/assets/thumb/ebc24ee6c0ac8efff7d502facbdfa226-thumbnail.jpg",Cremonese vs. Roma (23 November 2025 at 14:00)
 
 #EXTINF:-1 tvg-id="ppv-13722" tvg-name="AJ Auxerre vs. OL (23 November 2025 at 14:00)" tvg-epgid="13722" tvg-logo="https://api.ppvs.su/assets/thumb/95f857c07992f5237151f714f2603efa-thumbnail.jpg",AJ Auxerre vs. OL (23 November 2025 at 14:00)
-
-#EXTINF:-1 tvg-id="ppv-13703" tvg-name="Real Oviedo vs. Rayo Vallecano (23 November 2025 at 13:00)" tvg-epgid="13703" tvg-logo="https://api.ppvs.su/assets/thumb/e9cb7d85cd57e4ef7c9a3e07e2a2165e-thumbnail.jpg",Real Oviedo vs. Rayo Vallecano (23 November 2025 at 13:00)
 

@@ -21,28 +21,6 @@ channel="ppv-13876"
 <icon src="https://api.ppvs.su/assets/thumb/45e1423f3c25d4472ca1798542e99dc7-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-11090">
-<display-name>NFL RedZone</display-name>
-</channel>
-<programme
-start="20251124180000 +0000"
-stop="20251125010000 +0000"
-channel="ppv-11090"
->
-<title lang="en">NFL RedZone</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/54aa61e14195478973adbd4719599cb5-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-13875">
 <display-name>Tampa Bay Buccaneers vs. Los Angeles Rams</display-name>
 </channel>
@@ -151,6 +129,28 @@ channel="ppv-13867"
 </audio>
 <category>American Football</category>
 <icon src="https://api.ppvs.su/assets/thumb/be2319257c167fee1cff360e551234ec-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-11090">
+<display-name>NFL RedZone</display-name>
+</channel>
+<programme
+start="20251123180000 +0000"
+stop="20251124010000 +0000"
+channel="ppv-11090"
+>
+<title lang="en">NFL RedZone</title>
+<sub-title>American Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>American Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/b81de749344645209b90492c795620e1-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-13842">
@@ -965,27 +965,5 @@ channel="ppv-13722"
 </audio>
 <category>Football</category>
 <icon src="https://api.ppvs.su/assets/thumb/95f857c07992f5237151f714f2603efa-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13703">
-<display-name>Real Oviedo vs. Rayo Vallecano</display-name>
-</channel>
-<programme
-start="20251123130000 +0000"
-stop="20251123153000 +0000"
-channel="ppv-13703"
->
-<title lang="en">Real Oviedo vs. Rayo Vallecano</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/e9cb7d85cd57e4ef7c9a3e07e2a2165e-thumbnail.jpg" />
 </programme>
 </tv>
