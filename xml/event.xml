@@ -527,28 +527,6 @@ channel="ppv-13893"
 <icon src="https://api.ppvs.su/assets/thumb/5b9a5ce79119092d9eedc98b88518062-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-13892">
-<display-name>Players Championship Finals - Quarter Finals</display-name>
-</channel>
-<programme
-start="20251123124500 +0000"
-stop="20251123174500 +0000"
-channel="ppv-13892"
->
-<title lang="en">Players Championship Finals - Quarter Finals</title>
-<sub-title>Darts</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Darts</category>
-<icon src="https://api.ppvs.su/assets/thumb/5b9a5ce79119092d9eedc98b88518062-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-13695">
 <display-name>Manchester United vs. Everton</display-name>
 </channel>
@@ -855,27 +833,5 @@ channel="ppv-13725"
 </audio>
 <category>Football</category>
 <icon src="https://api.ppvs.su/assets/thumb/5307621f61129a79498bf592d9eb63ae-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13704">
-<display-name>Real Betis vs. Girona FC</display-name>
-</channel>
-<programme
-start="20251123151500 +0000"
-stop="20251123174500 +0000"
-channel="ppv-13704"
->
-<title lang="en">Real Betis vs. Girona FC</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/6fe4890fa1b25c3bbd4c906cd78f29bd-thumbnail.jpg" />
 </programme>
 </tv>
