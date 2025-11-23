@@ -702,26 +702,4 @@ channel="ppv-13705"
 <category>Football</category>
 <icon src="https://api.ppvs.su/assets/thumb/acf3246be5da7a952d02307a50ef7a95-thumbnail.jpg" />
 </programme>
-
-<channel id="ppv-13714">
-<display-name>Lazio vs. Lecce</display-name>
-</channel>
-<programme
-start="20251123170000 +0000"
-stop="20251123193000 +0000"
-channel="ppv-13714"
->
-<title lang="en">Lazio vs. Lecce</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/dfa3e433e9e1e6bc98cc0f7fe11aa8a4-thumbnail.jpg" />
-</programme>
 </tv>
