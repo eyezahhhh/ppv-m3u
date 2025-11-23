@@ -29,7 +29,7 @@
 
 #EXTINF:-1 tvg-id="ppv-14009" tvg-name="Bryant Bulldogs vs. UConn Huskies (23 November 2025 at 23:00)" tvg-epgid="14009" tvg-logo="https://api.ppvs.su/assets/thumb/2e2d5db457e6c4e97c8b487f93a9f142-thumbnail.jpg",Bryant Bulldogs vs. UConn Huskies (23 November 2025 at 23:00)
 
-#EXTINF:-1 tvg-id="ppv-14008" tvg-name="Howard Bison vs. Duke Blue Devils (23 November 2025 at 21:00)" tvg-epgid="14008" tvg-logo="https://api.ppvs.su/assets/thumb/95b3a21f916559706b859473d0795e3d-thumbnail.jpg",Howard Bison vs. Duke Blue Devils (23 November 2025 at 21:00)
+#EXTINF:-1 tvg-id="ppv-14008" tvg-name="Howard Bison vs. Duke Blue Devils (23 November 2025 at 21:00)" tvg-epgid="14008" tvg-logo="https://api.ppvs.su/assets/thumb/581cfd9d5e80db250aa0c8ea4a0c4639-thumbnail.jpg",Howard Bison vs. Duke Blue Devils (23 November 2025 at 21:00)
 
 #EXTINF:-1 tvg-id="ppv-13968" tvg-name="India vs. South Africa (24 November 2025 at 03:30)" tvg-epgid="13968" tvg-logo="https://api.ppvs.su/assets/thumb/8165fb5e2d33a599beb55489fcbcb4a3-thumbnail.jpg",India vs. South Africa (24 November 2025 at 03:30)
 
@@ -42,12 +42,6 @@
 #EXTINF:-1 tvg-id="ppv-13717" tvg-name="Sassuolo vs. Pisa (24 November 2025 at 19:45)" tvg-epgid="13717" tvg-logo="https://api.ppvs.su/assets/thumb/f9b4acb968b89e16a096e152f14397c0-thumbnail.jpg",Sassuolo vs. Pisa (24 November 2025 at 19:45)
 
 #EXTINF:-1 tvg-id="ppv-13716" tvg-name="Torino vs. Como (24 November 2025 at 17:30)" tvg-epgid="13716" tvg-logo="https://api.ppvs.su/assets/thumb/ca4f7a879c0fbe33f3973bd5b4af9a1a-thumbnail.jpg",Torino vs. Como (24 November 2025 at 17:30)
-
-#EXTINF:-1 tvg-id="ppv-13706" tvg-name="Elche CF vs. Real Madrid (23 November 2025 at 20:00)" tvg-epgid="13706" tvg-logo="https://api.ppvs.su/assets/thumb/bea53058dd03a6c07c85382256403fc6-thumbnail.jpg",Elche CF vs. Real Madrid (23 November 2025 at 20:00)
-
-#EXTINF:-1 tvg-id="ppv-13715" tvg-name="Inter vs. Milan (23 November 2025 at 19:45)" tvg-epgid="13715" tvg-logo="https://api.ppvs.su/assets/thumb/78d350880c15f732ab988d90a62dc937-thumbnail.jpg",Inter vs. Milan (23 November 2025 at 19:45)
-
-#EXTINF:-1 tvg-id="ppv-13726" tvg-name="LOSC vs. Paris FC (23 November 2025 at 19:45)" tvg-epgid="13726" tvg-logo="https://api.ppvs.su/assets/thumb/b81ccb0f4ddb953f0c53eaee4706ea4b-thumbnail.jpg",LOSC vs. Paris FC (23 November 2025 at 19:45)
 
 #EXTINF:-1 tvg-id="ppv-14015" tvg-name="Calgary Flames vs. Vancouver Canucks (24 November 2025 at 02:00)" tvg-epgid="14015" tvg-logo="https://api.ppvs.su/assets/thumb/d0254389167401a507840310f91f872f-thumbnail.jpg",Calgary Flames vs. Vancouver Canucks (24 November 2025 at 02:00)
 
