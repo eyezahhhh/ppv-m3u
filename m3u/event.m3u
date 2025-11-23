@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ppv-13876" tvg-name="Carolina Panthers vs. San Francisco 49ers (25 November 2025 at 01:15)" tvg-epgid="13876" tvg-logo="https://api.ppvs.su/assets/thumb/45e1423f3c25d4472ca1798542e99dc7-thumbnail.jpg",Carolina Panthers vs. San Francisco 49ers (25 November 2025 at 01:15)
 
+#EXTINF:-1 tvg-id="ppv-11090" tvg-name="NFL RedZone (24 November 2025 at 18:00)" tvg-epgid="11090" tvg-logo="https://api.ppvs.su/assets/thumb/54aa61e14195478973adbd4719599cb5-thumbnail.jpg",NFL RedZone (24 November 2025 at 18:00)
+
 #EXTINF:-1 tvg-id="ppv-13875" tvg-name="Tampa Bay Buccaneers vs. Los Angeles Rams (24 November 2025 at 01:20)" tvg-epgid="13875" tvg-logo="https://api.ppvs.su/assets/thumb/e4bf8e4d971d6e82614627621458e6e4-thumbnail.jpg",Tampa Bay Buccaneers vs. Los Angeles Rams (24 November 2025 at 01:20)
 
 #EXTINF:-1 tvg-id="ppv-13870" tvg-name="Philadelphia Eagles vs. Dallas Cowboys (23 November 2025 at 21:25)" tvg-epgid="13870" tvg-logo="https://api.ppvs.su/assets/thumb/9851d9b52ac076bc4b527073bcb8fc98-thumbnail.jpg",Philadelphia Eagles vs. Dallas Cowboys (23 November 2025 at 21:25)
@@ -96,4 +98,6 @@
 #EXTINF:-1 tvg-id="ppv-13957" tvg-name="Golden Knights vs. Ducks (23 November 2025 at 03:00)" tvg-epgid="13957" tvg-logo="https://api.ppvs.su/assets/thumb/8f17f42b662b957473fe8a4cc4fd9992-thumbnail.jpg",Golden Knights vs. Ducks (23 November 2025 at 03:00)
 
 #EXTINF:-1 tvg-id="ppv-13813" tvg-name="Las Vegas Grand Prix - Race (23 November 2025 at 04:00)" tvg-epgid="13813" tvg-logo="https://api.ppvs.su/assets/thumb/ad652c26f1e7b8e8c36cf316f47f0d4b-thumbnail.jpg",Las Vegas Grand Prix - Race (23 November 2025 at 04:00)
+
+#EXTINF:-1 tvg-id="ppv-13939" tvg-name="AEW: Full Gear (23 November 2025 at 00:00)" tvg-epgid="13939" tvg-logo="https://api.ppvs.su/assets/thumb/0084ef60c486d43b0d1cea301e451fe0-thumbnail.jpg",AEW: Full Gear (23 November 2025 at 00:00)
 
