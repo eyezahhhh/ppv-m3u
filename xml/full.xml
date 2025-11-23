@@ -285,50 +285,6 @@ channel="ppv-13862"
 <icon src="https://api.ppvs.su/assets/thumb/7223706a0d8c86cadbeb1548598396a0-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-13872">
-<display-name>BYU Cougars vs. Cincinnati Bearcats</display-name>
-</channel>
-<programme
-start="20251123010000 +0000"
-stop="20251123043000 +0000"
-channel="ppv-13872"
->
-<title lang="en">BYU Cougars vs. Cincinnati Bearcats</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/1e47dd3379cc97df15e22c8497faf046-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13874">
-<display-name>Arizona State Sun Devils vs. Colorado Buffaloes</display-name>
-</channel>
-<programme
-start="20251123010000 +0000"
-stop="20251123043000 +0000"
-channel="ppv-13874"
->
-<title lang="en">Arizona State Sun Devils vs. Colorado Buffaloes</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/d083ff96c3aaed762ad44c2cec0b4de3-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-13934">
 <display-name>Sacramento Kings vs. Denver Nuggets</display-name>
 </channel>
@@ -349,28 +305,6 @@ channel="ppv-13934"
 </audio>
 <category>Basketball</category>
 <icon src="https://api.ppvs.su/assets/thumb/6b543476fa4872380c932f71807a0acb-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13933">
-<display-name>Memphis Grizzlies vs. Dallas Mavericks</display-name>
-</channel>
-<programme
-start="20251123013000 +0000"
-stop="20251123041800 +0000"
-channel="ppv-13933"
->
-<title lang="en">Memphis Grizzlies vs. Dallas Mavericks</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://api.ppvs.su/assets/thumb/372a10d72dc23e0e10db6387d16d79c1-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-13893">
