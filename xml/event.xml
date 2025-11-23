@@ -285,6 +285,182 @@ channel="ppv-13862"
 <icon src="https://api.ppvs.su/assets/thumb/7223706a0d8c86cadbeb1548598396a0-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-13964">
+<display-name>San Antonio Spurs vs. Phoenix Suns</display-name>
+</channel>
+<programme
+start="20251124010000 +0000"
+stop="20251124034800 +0000"
+channel="ppv-13964"
+>
+<title lang="en">San Antonio Spurs vs. Phoenix Suns</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://api.ppvs.su/assets/thumb/24f8327df6314950536180e444f63c10-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13965">
+<display-name>Los Angeles Lakers vs. Utah Jazz</display-name>
+</channel>
+<programme
+start="20251124010000 +0000"
+stop="20251124034800 +0000"
+channel="ppv-13965"
+>
+<title lang="en">Los Angeles Lakers vs. Utah Jazz</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://api.ppvs.su/assets/thumb/04490974b7d6e108d443031c1ef97346-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13963">
+<display-name>Portland Trail Blazers vs. Oklahoma City Thunder</display-name>
+</channel>
+<programme
+start="20251124000000 +0000"
+stop="20251124024800 +0000"
+channel="ppv-13963"
+>
+<title lang="en">Portland Trail Blazers vs. Oklahoma City Thunder</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://api.ppvs.su/assets/thumb/b6eebf9f6513907285e7e6d5bb5878fc-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13959">
+<display-name>Charlotte Hornets vs. Atlanta Hawks</display-name>
+</channel>
+<programme
+start="20251123230000 +0000"
+stop="20251124014800 +0000"
+channel="ppv-13959"
+>
+<title lang="en">Charlotte Hornets vs. Atlanta Hawks</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://api.ppvs.su/assets/thumb/88bc06316d5a64126d060cbf84a18f44-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13960">
+<display-name>Orlando Magic vs. Boston Celtics</display-name>
+</channel>
+<programme
+start="20251123230000 +0000"
+stop="20251124014800 +0000"
+channel="ppv-13960"
+>
+<title lang="en">Orlando Magic vs. Boston Celtics</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://api.ppvs.su/assets/thumb/0fdcd1e0836994c126fc27d5fcdc4fee-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13961">
+<display-name>LA Clippers vs. Cleveland Cavaliers</display-name>
+</channel>
+<programme
+start="20251123230000 +0000"
+stop="20251124014800 +0000"
+channel="ppv-13961"
+>
+<title lang="en">LA Clippers vs. Cleveland Cavaliers</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://api.ppvs.su/assets/thumb/8b03de63720e21893428ea48aeba0e92-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13962">
+<display-name>Brooklyn Nets vs. Toronto Raptors</display-name>
+</channel>
+<programme
+start="20251123230000 +0000"
+stop="20251124014800 +0000"
+channel="ppv-13962"
+>
+<title lang="en">Brooklyn Nets vs. Toronto Raptors</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://api.ppvs.su/assets/thumb/1e338a6cfb422a03d2c94240330c3dfc-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-13958">
+<display-name>Miami Heat vs. Philadelphia 76ers</display-name>
+</channel>
+<programme
+start="20251123180000 +0000"
+stop="20251123204800 +0000"
+channel="ppv-13958"
+>
+<title lang="en">Miami Heat vs. Philadelphia 76ers</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://api.ppvs.su/assets/thumb/f015b6b70b59fac4849e79a6e0893b59-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-13934">
 <display-name>Sacramento Kings vs. Denver Nuggets</display-name>
 </channel>
@@ -879,28 +1055,6 @@ channel="ppv-13957"
 <icon src="https://api.ppvs.su/assets/thumb/8f17f42b662b957473fe8a4cc4fd9992-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-13954">
-<display-name>Rangers vs. Mammoth</display-name>
-</channel>
-<programme
-start="20251123020000 +0000"
-stop="20251123050000 +0000"
-channel="ppv-13954"
->
-<title lang="en">Rangers vs. Mammoth</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://api.ppvs.su/assets/thumb/5d735158b521304aeb5585b7b9ad42ab-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-13813">
 <display-name>Las Vegas Grand Prix - Race</display-name>
 </channel>
@@ -921,27 +1075,5 @@ channel="ppv-13813"
 </audio>
 <category>Motorsports</category>
 <icon src="https://api.ppvs.su/assets/thumb/ad652c26f1e7b8e8c36cf316f47f0d4b-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13939">
-<display-name>AEW: Full Gear</display-name>
-</channel>
-<programme
-start="20251123000000 +0000"
-stop="20251123050000 +0000"
-channel="ppv-13939"
->
-<title lang="en">AEW: Full Gear</title>
-<sub-title>Wrestling</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Wrestling</category>
-<icon src="https://api.ppvs.su/assets/thumb/0084ef60c486d43b0d1cea301e451fe0-thumbnail.jpg" />
 </programme>
 </tv>
