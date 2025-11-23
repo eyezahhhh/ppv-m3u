@@ -153,50 +153,6 @@ channel="ppv-11090"
 <icon src="https://api.ppvs.su/assets/thumb/b81de749344645209b90492c795620e1-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-13851">
-<display-name>Minnesota Vikings vs. Green Bay Packers</display-name>
-</channel>
-<programme
-start="20251123180000 +0000"
-stop="20251123220000 +0000"
-channel="ppv-13851"
->
-<title lang="en">Minnesota Vikings vs. Green Bay Packers</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/1339fb374ac6a798ba28575db688cb10-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13857">
-<display-name>Indianapolis Colts vs. Kansas City Chiefs</display-name>
-</channel>
-<programme
-start="20251123180000 +0000"
-stop="20251123220000 +0000"
-channel="ppv-13857"
->
-<title lang="en">Indianapolis Colts vs. Kansas City Chiefs</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/ec085c53a94f3e73512f42b4ae5da14b-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-13964">
 <display-name>San Antonio Spurs vs. Phoenix Suns</display-name>
 </channel>
