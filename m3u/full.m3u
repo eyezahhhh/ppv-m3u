@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ppv-13876" tvg-name="Carolina Panthers vs. San Francisco 49ers (25 November 2025 at 01:15)" tvg-epgid="13876" tvg-logo="https://api.ppvs.su/assets/thumb/45e1423f3c25d4472ca1798542e99dc7-thumbnail.jpg",Carolina Panthers vs. San Francisco 49ers (25 November 2025 at 01:15)
+
 #EXTINF:-1 tvg-id="ppv-13875" tvg-name="Tampa Bay Buccaneers vs. Los Angeles Rams (24 November 2025 at 01:20)" tvg-epgid="13875" tvg-logo="https://api.ppvs.su/assets/thumb/e4bf8e4d971d6e82614627621458e6e4-thumbnail.jpg",Tampa Bay Buccaneers vs. Los Angeles Rams (24 November 2025 at 01:20)
 
 #EXTINF:-1 tvg-id="ppv-13870" tvg-name="Philadelphia Eagles vs. Dallas Cowboys (23 November 2025 at 21:25)" tvg-epgid="13870" tvg-logo="https://api.ppvs.su/assets/thumb/9851d9b52ac076bc4b527073bcb8fc98-thumbnail.jpg",Philadelphia Eagles vs. Dallas Cowboys (23 November 2025 at 21:25)
@@ -33,22 +35,6 @@
 
 #EXTINF:-1 tvg-id="ppv-13863" tvg-name="Pittsburgh Panthers vs. Georgia Tech Yellow Jackets (23 November 2025 at 00:00)" tvg-epgid="13863" tvg-logo="https://api.ppvs.su/assets/thumb/5a646cbd114f12f4783881630253d81e-thumbnail.jpg",Pittsburgh Panthers vs. Georgia Tech Yellow Jackets (23 November 2025 at 00:00)
 
-#EXTINF:-1 tvg-id="ppv-13856" tvg-name="Kansas State Wildcats vs. Utah Utes (22 November 2025 at 21:00)" tvg-epgid="13856" tvg-logo="https://api.ppvs.su/assets/thumb/5041da98946879f80f6ed396a6fc4d52-thumbnail.jpg",Kansas State Wildcats vs. Utah Utes (22 November 2025 at 21:00)
-
-#EXTINF:-1 tvg-id="ppv-13859" tvg-name="Michigan Wolverines vs. Maryland Terrapins (22 November 2025 at 21:00)" tvg-epgid="13859" tvg-logo="https://api.ppvs.su/assets/thumb/bbf0bb096cb7ec154eab9c4e11ad79bf-thumbnail.jpg",Michigan Wolverines vs. Maryland Terrapins (22 November 2025 at 21:00)
-
-#EXTINF:-1 tvg-id="ppv-13860" tvg-name="TCU Horned Frogs vs. Houston Cougars (22 November 2025 at 21:00)" tvg-epgid="13860" tvg-logo="https://api.ppvs.su/assets/thumb/5a9c23148f208e1638b3245ec88b252c-thumbnail.jpg",TCU Horned Frogs vs. Houston Cougars (22 November 2025 at 21:00)
-
-#EXTINF:-1 tvg-id="ppv-13853" tvg-name="Tulane Green Wave vs. Temple Owls (22 November 2025 at 20:45)" tvg-epgid="13853" tvg-logo="https://api.ppvs.su/assets/thumb/b8bacbd0c6809fc7f3668af2d6e02ae3-thumbnail.jpg",Tulane Green Wave vs. Temple Owls (22 November 2025 at 20:45)
-
-#EXTINF:-1 tvg-id="ppv-13843" tvg-name="USC Trojans vs. Oregon Ducks (22 November 2025 at 20:30)" tvg-epgid="13843" tvg-logo="https://api.ppvs.su/assets/thumb/75a28e5b6b0a18f3883f09bc67a02f2c-thumbnail.jpg",USC Trojans vs. Oregon Ducks (22 November 2025 at 20:30)
-
-#EXTINF:-1 tvg-id="ppv-13844" tvg-name="Syracuse Orange vs. Notre Dame Fighting Irish (22 November 2025 at 20:30)" tvg-epgid="13844" tvg-logo="https://api.ppvs.su/assets/thumb/888d4969af31cec02fbe4e045089a3f9-thumbnail.jpg",Syracuse Orange vs. Notre Dame Fighting Irish (22 November 2025 at 20:30)
-
-#EXTINF:-1 tvg-id="ppv-13847" tvg-name="Kentucky Wildcats vs. Vanderbilt Commodores (22 November 2025 at 20:30)" tvg-epgid="13847" tvg-logo="https://api.ppvs.su/assets/thumb/3fe82260fa564efa297b819b2b9d818f-thumbnail.jpg",Kentucky Wildcats vs. Vanderbilt Commodores (22 November 2025 at 20:30)
-
-#EXTINF:-1 tvg-id="ppv-13850" tvg-name="Arkansas Razorbacks vs. Texas Longhorns (22 November 2025 at 20:30)" tvg-epgid="13850" tvg-logo="https://api.ppvs.su/assets/thumb/f7fa055045ea975da4d1d11379ad00c0-thumbnail.jpg",Arkansas Razorbacks vs. Texas Longhorns (22 November 2025 at 20:30)
-
 #EXTINF:-1 tvg-id="ppv-13934" tvg-name="Sacramento Kings vs. Denver Nuggets (23 November 2025 at 03:00)" tvg-epgid="13934" tvg-logo="https://api.ppvs.su/assets/thumb/6b543476fa4872380c932f71807a0acb-thumbnail.jpg",Sacramento Kings vs. Denver Nuggets (23 November 2025 at 03:00)
 
 #EXTINF:-1 tvg-id="ppv-13933" tvg-name="Memphis Grizzlies vs. Dallas Mavericks (23 November 2025 at 01:30)" tvg-epgid="13933" tvg-logo="https://api.ppvs.su/assets/thumb/372a10d72dc23e0e10db6387d16d79c1-thumbnail.jpg",Memphis Grizzlies vs. Dallas Mavericks (23 November 2025 at 01:30)
@@ -59,21 +45,11 @@
 
 #EXTINF:-1 tvg-id="ppv-13930" tvg-name="Atlanta Hawks vs. New Orleans Pelicans (23 November 2025 at 00:00)" tvg-epgid="13930" tvg-logo="https://api.ppvs.su/assets/thumb/0f8caf87cf9984c353800bcb81c9a5cf-thumbnail.jpg",Atlanta Hawks vs. New Orleans Pelicans (23 November 2025 at 00:00)
 
-#EXTINF:-1 tvg-id="ppv-13929" tvg-name="New York Knicks vs. Orlando Magic (22 November 2025 at 22:00)" tvg-epgid="13929" tvg-logo="https://api.ppvs.su/assets/thumb/d33331780fe9b86319bf08daecdeb628-thumbnail.jpg",New York Knicks vs. Orlando Magic (22 November 2025 at 22:00)
-
 #EXTINF:-1 tvg-id="ppv-13935" tvg-name="Ring IV: Night Of Champions - Benavidez vs. Yarde (22 November 2025 at 20:00)" tvg-epgid="13935" tvg-logo="https://api.ppvs.su/assets/thumb/6c2a0406f4d0a6370fd66d6402505940-thumbnail.jpg",Ring IV: Night Of Champions - Benavidez vs. Yarde (22 November 2025 at 20:00)
-
-#EXTINF:-1 tvg-id="ppv-13940" tvg-name="Cage Warriors 198 (22 November 2025 at 18:30)" tvg-epgid="13940" tvg-logo="https://api.ppvs.su/assets/thumb/7289590eeb6b57832a7079736640a23a-thumbnail.jpg",Cage Warriors 198 (22 November 2025 at 18:30)
-
-#EXTINF:-1 tvg-id="ppv-13821" tvg-name="1st Test, Day 4: Australia vs. England (24 November 2025 at 02:20)" tvg-epgid="13821" tvg-logo="https://api.ppvs.su/assets/thumb/e4f7494ce49163f4a7d4b4db2cc21b53-thumbnail.jpg",1st Test, Day 4: Australia vs. England (24 November 2025 at 02:20)
-
-#EXTINF:-1 tvg-id="ppv-13820" tvg-name="1st Test, Day 3: Australia vs. England (23 November 2025 at 02:20)" tvg-epgid="13820" tvg-logo="https://api.ppvs.su/assets/thumb/e4f7494ce49163f4a7d4b4db2cc21b53-thumbnail.jpg",1st Test, Day 3: Australia vs. England (23 November 2025 at 02:20)
 
 #EXTINF:-1 tvg-id="ppv-13893" tvg-name="Players Championship Finals - Semis & Finals (23 November 2025 at 19:00)" tvg-epgid="13893" tvg-logo="https://api.ppvs.su/assets/thumb/5b9a5ce79119092d9eedc98b88518062-thumbnail.jpg",Players Championship Finals - Semis & Finals (23 November 2025 at 19:00)
 
 #EXTINF:-1 tvg-id="ppv-13892" tvg-name="Players Championship Finals - Quarter Finals (23 November 2025 at 12:45)" tvg-epgid="13892" tvg-logo="https://api.ppvs.su/assets/thumb/5b9a5ce79119092d9eedc98b88518062-thumbnail.jpg",Players Championship Finals - Quarter Finals (23 November 2025 at 12:45)
-
-#EXTINF:-1 tvg-id="ppv-13891" tvg-name="Players Championship Finals - Day 2, Session 2 (22 November 2025 at 19:00)" tvg-epgid="13891" tvg-logo="https://api.ppvs.su/assets/thumb/5b9a5ce79119092d9eedc98b88518062-thumbnail.jpg",Players Championship Finals - Day 2, Session 2 (22 November 2025 at 19:00)
 
 #EXTINF:-1 tvg-id="ppv-13695" tvg-name="Manchester United vs. Everton (24 November 2025 at 20:00)" tvg-epgid="13695" tvg-logo="https://api.ppvs.su/assets/thumb/a0375164be5a5ed1b5378901d95044d5-thumbnail.jpg",Manchester United vs. Everton (24 November 2025 at 20:00)
 
@@ -117,7 +93,29 @@
 
 #EXTINF:-1 tvg-id="ppv-13712" tvg-name="Hellas Verona vs. Parma (23 November 2025 at 11:30)" tvg-epgid="13712" tvg-logo="https://api.ppvs.su/assets/thumb/abcd4bd11c80c04825172a39f9c585c6-thumbnail.jpg",Hellas Verona vs. Parma (23 November 2025 at 11:30)
 
+#EXTINF:-1 tvg-id="ppv-13955" tvg-name="Stars vs. Flames (23 November 2025 at 03:00)" tvg-epgid="13955" tvg-logo="https://api.ppvs.su/assets/thumb/1cb0085a4fae1ec08ad33b49beb05e8d-thumbnail.jpg",Stars vs. Flames (23 November 2025 at 03:00)
+
+#EXTINF:-1 tvg-id="ppv-13956" tvg-name="Golden Knights vs. Ducks (23 November 2025 at 03:00)" tvg-epgid="13956" tvg-logo="https://api.ppvs.su/assets/thumb/8f17f42b662b957473fe8a4cc4fd9992-thumbnail.jpg",Golden Knights vs. Ducks (23 November 2025 at 03:00)
+
+#EXTINF:-1 tvg-id="ppv-13957" tvg-name="Golden Knights vs. Ducks (23 November 2025 at 03:00)" tvg-epgid="13957" tvg-logo="https://api.ppvs.su/assets/thumb/8f17f42b662b957473fe8a4cc4fd9992-thumbnail.jpg",Golden Knights vs. Ducks (23 November 2025 at 03:00)
+
+#EXTINF:-1 tvg-id="ppv-13954" tvg-name="Rangers vs. Mammoth (23 November 2025 at 02:00)" tvg-epgid="13954" tvg-logo="https://api.ppvs.su/assets/thumb/5d735158b521304aeb5585b7b9ad42ab-thumbnail.jpg",Rangers vs. Mammoth (23 November 2025 at 02:00)
+
+#EXTINF:-1 tvg-id="ppv-13953" tvg-name="Avalanche vs. Predators (23 November 2025 at 01:00)" tvg-epgid="13953" tvg-logo="https://api.ppvs.su/assets/thumb/3d60fddaee7003edc92583c2fb064cf1-thumbnail.jpg",Avalanche vs. Predators (23 November 2025 at 01:00)
+
+#EXTINF:-1 tvg-id="ppv-13947" tvg-name="Maple Leafs vs. Canadiens (23 November 2025 at 00:00)" tvg-epgid="13947" tvg-logo="https://api.ppvs.su/assets/thumb/1bcacc07990b4e7cd894a45c3d0955a2-thumbnail.jpg",Maple Leafs vs. Canadiens (23 November 2025 at 00:00)
+
+#EXTINF:-1 tvg-id="ppv-13948" tvg-name="Oilers vs. Panthers (23 November 2025 at 00:00)" tvg-epgid="13948" tvg-logo="https://api.ppvs.su/assets/thumb/843f35d3152334c400429e66fedba2b0-thumbnail.jpg",Oilers vs. Panthers (23 November 2025 at 00:00)
+
+#EXTINF:-1 tvg-id="ppv-13949" tvg-name="Devils vs. Flyers (23 November 2025 at 00:00)" tvg-epgid="13949" tvg-logo="https://api.ppvs.su/assets/thumb/2b2cb0882a0bf8866eb02292fafe0fb5-thumbnail.jpg",Devils vs. Flyers (23 November 2025 at 00:00)
+
+#EXTINF:-1 tvg-id="ppv-13950" tvg-name="Kraken vs. Penguins (23 November 2025 at 00:00)" tvg-epgid="13950" tvg-logo="https://api.ppvs.su/assets/thumb/9c6ddb2a8f455449245210c3c69afbed-thumbnail.jpg",Kraken vs. Penguins (23 November 2025 at 00:00)
+
+#EXTINF:-1 tvg-id="ppv-13951" tvg-name="Lightning vs. Capitals (23 November 2025 at 00:00)" tvg-epgid="13951" tvg-logo="https://api.ppvs.su/assets/thumb/bf74b14d75769453131cb93cfd06dbec-thumbnail.jpg",Lightning vs. Capitals (23 November 2025 at 00:00)
+
+#EXTINF:-1 tvg-id="ppv-13952" tvg-name="Senators vs. Sharks (23 November 2025 at 00:00)" tvg-epgid="13952" tvg-logo="https://api.ppvs.su/assets/thumb/1393554822e54006208694940a3b13d3-thumbnail.jpg",Senators vs. Sharks (23 November 2025 at 00:00)
+
 #EXTINF:-1 tvg-id="ppv-13813" tvg-name="Las Vegas Grand Prix - Race (23 November 2025 at 04:00)" tvg-epgid="13813" tvg-logo="https://api.ppvs.su/assets/thumb/ad652c26f1e7b8e8c36cf316f47f0d4b-thumbnail.jpg",Las Vegas Grand Prix - Race (23 November 2025 at 04:00)
 
-#EXTINF:-1 tvg-id="ppv-13939" tvg-name="AEW: Full Gear (23 November 2025 at 01:00)" tvg-epgid="13939" tvg-logo="https://api.ppvs.su/assets/thumb/f2d481c39236d16f7ddb0cdb4db9a9dc-thumbnail.jpg",AEW: Full Gear (23 November 2025 at 01:00)
+#EXTINF:-1 tvg-id="ppv-13939" tvg-name="AEW: Full Gear (23 November 2025 at 00:00)" tvg-epgid="13939" tvg-logo="https://api.ppvs.su/assets/thumb/0084ef60c486d43b0d1cea301e451fe0-thumbnail.jpg",AEW: Full Gear (23 November 2025 at 00:00)
 
