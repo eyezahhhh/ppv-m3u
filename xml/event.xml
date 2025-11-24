@@ -87,28 +87,6 @@ channel="ppv-13965"
 <icon src="https://api.ppvs.su/assets/thumb/04490974b7d6e108d443031c1ef97346-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-13963">
-<display-name>Portland Trail Blazers vs. Oklahoma City Thunder</display-name>
-</channel>
-<programme
-start="20251124000000 +0000"
-stop="20251124024800 +0000"
-channel="ppv-13963"
->
-<title lang="en">Portland Trail Blazers vs. Oklahoma City Thunder</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://api.ppvs.su/assets/thumb/b6eebf9f6513907285e7e6d5bb5878fc-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-13968">
 <display-name>India vs. South Africa</display-name>
 </channel>
@@ -459,28 +437,6 @@ channel="ppv-14014"
 </audio>
 <category>Ice Hockey</category>
 <icon src="https://api.ppvs.su/assets/thumb/19e5cb0e40a328202d20fb78a7dee0e2-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-14013">
-<display-name>Colorado Avalanche vs. Chicago Blackhawks</display-name>
-</channel>
-<programme
-start="20251124000000 +0000"
-stop="20251124030000 +0000"
-channel="ppv-14013"
->
-<title lang="en">Colorado Avalanche vs. Chicago Blackhawks</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://api.ppvs.su/assets/thumb/04d991639449ca643022fd3498a845f2-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-14022">
