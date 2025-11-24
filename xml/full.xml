@@ -263,6 +263,160 @@ channel="ppv-13968"
 <icon src="https://api.ppvs.su/assets/thumb/2ea94947186df7758180e20c0c56273f-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-14066">
+<display-name>Paris vs. Tottenham</display-name>
+</channel>
+<programme
+start="20251126200000 +0000"
+stop="20251126220000 +0000"
+channel="ppv-14066"
+>
+<title lang="en">Paris vs. Tottenham</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/258560ebb7599fad3fdffea70e8e6157-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-14067">
+<display-name>Liverpool vs. PSV</display-name>
+</channel>
+<programme
+start="20251126200000 +0000"
+stop="20251126220000 +0000"
+channel="ppv-14067"
+>
+<title lang="en">Liverpool vs. PSV</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/ca59e72a9f6955dc2c3e815a6c9b98c2-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-14068">
+<display-name>Arsenal vs. Bayern München</display-name>
+</channel>
+<programme
+start="20251126200000 +0000"
+stop="20251126220000 +0000"
+channel="ppv-14068"
+>
+<title lang="en">Arsenal vs. Bayern München</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/ede42a6c98ffce23939c945274c274d4-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-14069">
+<display-name>Atleti vs. Inter</display-name>
+</channel>
+<programme
+start="20251126200000 +0000"
+stop="20251126220000 +0000"
+channel="ppv-14069"
+>
+<title lang="en">Atleti vs. Inter</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/a6d8d9d65b181b9720b38abcbe404d12-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-14070">
+<display-name>Frankfurt vs. Atalanta</display-name>
+</channel>
+<programme
+start="20251126200000 +0000"
+stop="20251126220000 +0000"
+channel="ppv-14070"
+>
+<title lang="en">Frankfurt vs. Atalanta</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/691e294ea0421225ca4200baab0f2f30-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-14071">
+<display-name>Sporting CP vs. Club Brugge</display-name>
+</channel>
+<programme
+start="20251126200000 +0000"
+stop="20251126220000 +0000"
+channel="ppv-14071"
+>
+<title lang="en">Sporting CP vs. Club Brugge</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/9085414849c59cfd3914db9e7e87c61a-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-14072">
+<display-name>Olympiacos vs. Real Madrid</display-name>
+</channel>
+<programme
+start="20251126200000 +0000"
+stop="20251126220000 +0000"
+channel="ppv-14072"
+>
+<title lang="en">Olympiacos vs. Real Madrid</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/eb47fec321c19dd00301d5cf11420058-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-14064">
 <display-name>Copenhagen vs. Kairat Almaty</display-name>
 </channel>
@@ -591,28 +745,6 @@ channel="ppv-13717"
 </audio>
 <category>Football</category>
 <icon src="https://api.ppvs.su/assets/thumb/f9b4acb968b89e16a096e152f14397c0-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13716">
-<display-name>Torino vs. Como</display-name>
-</channel>
-<programme
-start="20251124173000 +0000"
-stop="20251124200000 +0000"
-channel="ppv-13716"
->
-<title lang="en">Torino vs. Como</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/ca4f7a879c0fbe33f3973bd5b4af9a1a-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-14022">
