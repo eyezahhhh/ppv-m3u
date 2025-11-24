@@ -241,28 +241,6 @@ channel="ppv-14130"
 <icon src="https://api.ppvs.su/assets/thumb/a312b6f4484d59af8b9ebfd27ff2b63e-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-13968">
-<display-name>India vs. South Africa</display-name>
-</channel>
-<programme
-start="20251124033000 +0000"
-stop="20251124120000 +0000"
-channel="ppv-13968"
->
-<title lang="en">India vs. South Africa</title>
-<sub-title>Cricket</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Cricket</category>
-<icon src="https://api.ppvs.su/assets/thumb/8165fb5e2d33a599beb55489fcbcb4a3-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-14057">
 <display-name>Man City vs. Leverkusen</display-name>
 </channel>
