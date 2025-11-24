@@ -43,72 +43,6 @@ channel="ppv-13875"
 <icon src="https://api.ppvs.su/assets/thumb/e4bf8e4d971d6e82614627621458e6e4-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-13870">
-<display-name>Philadelphia Eagles vs. Dallas Cowboys</display-name>
-</channel>
-<programme
-start="20251123212500 +0000"
-stop="20251124005500 +0000"
-channel="ppv-13870"
->
-<title lang="en">Philadelphia Eagles vs. Dallas Cowboys</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/9851d9b52ac076bc4b527073bcb8fc98-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-13873">
-<display-name>Atlanta Falcons vs. New Orleans Saints</display-name>
-</channel>
-<programme
-start="20251123212500 +0000"
-stop="20251124005500 +0000"
-channel="ppv-13873"
->
-<title lang="en">Atlanta Falcons vs. New Orleans Saints</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/db3e2933fe675d16426c80325fa34ea0-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-11090">
-<display-name>NFL RedZone</display-name>
-</channel>
-<programme
-start="20251123180000 +0000"
-stop="20251124010000 +0000"
-channel="ppv-11090"
->
-<title lang="en">NFL RedZone</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/b81de749344645209b90492c795620e1-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-13964">
 <display-name>San Antonio Spurs vs. Phoenix Suns</display-name>
 </channel>
@@ -659,16 +593,16 @@ channel="ppv-14013"
 <icon src="https://api.ppvs.su/assets/thumb/04d991639449ca643022fd3498a845f2-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-14012">
-<display-name>Seattle Kraken vs. New York Islanders</display-name>
+<channel id="ppv-14022">
+<display-name>WWE: NXT</display-name>
 </channel>
 <programme
-start="20251123220000 +0000"
-stop="20251124010000 +0000"
-channel="ppv-14012"
+start="20251126010000 +0000"
+stop="20251126040000 +0000"
+channel="ppv-14022"
 >
-<title lang="en">Seattle Kraken vs. New York Islanders</title>
-<sub-title>Ice Hockey</sub-title>
+<title lang="en">WWE: NXT</title>
+<sub-title>Wrestling</sub-title>
 <video>
 <present>yes</present>
 <colour>yes</colour>
@@ -677,8 +611,8 @@ channel="ppv-14012"
 <present>yes</present>
 <stereo>stereo</stereo>
 </audio>
-<category>Ice Hockey</category>
-<icon src="https://api.ppvs.su/assets/thumb/d193ee807630751adada526401f2527e-thumbnail.jpg" />
+<category>Wrestling</category>
+<icon src="https://api.ppvs.su/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-14021">
