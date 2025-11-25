@@ -153,50 +153,6 @@ channel="ppv-14161"
 <icon src="https://api.ppvs.su/assets/thumb/a733dd918067cc1e3df0757f641f4836-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-14159">
-<display-name>UT Rio Grande Valley Vaqueros vs. Illinois Fighting Illini</display-name>
-</channel>
-<programme
-start="20251125010000 +0000"
-stop="20251125043000 +0000"
-channel="ppv-14159"
->
-<title lang="en">UT Rio Grande Valley Vaqueros vs. Illinois Fighting Illini</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://api.ppvs.su/assets/thumb/c798d9e7bd8cd8c0408b9ca84503642f-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-14160">
-<display-name>Auburn Tigers vs. Oregon Ducks</display-name>
-</channel>
-<programme
-start="20251125010000 +0000"
-stop="20251125043000 +0000"
-channel="ppv-14160"
->
-<title lang="en">Auburn Tigers vs. Oregon Ducks</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://api.ppvs.su/assets/thumb/8e8d6caf0769a40f2024e7e823aca2b1-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-13968">
 <display-name>India vs. South Africa</display-name>
 </channel>
