@@ -1,5 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ppv-13876" tvg-name="Carolina Panthers vs. San Francisco 49ers (25 November 2025 at 01:15)" tvg-epgid="13876" tvg-logo="https://api.ppvs.su/assets/thumb/45e1423f3c25d4472ca1798542e99dc7-thumbnail.jpg",Carolina Panthers vs. San Francisco 49ers (25 November 2025 at 01:15)
+#EXTINF:-1 tvg-id="ppv-14182" tvg-name="LA Clippers vs. Los Angeles Lakers (West Group B) (26 November 2025 at 04:00)" tvg-epgid="14182" tvg-logo="https://api.ppvs.su/assets/thumb/8621ae396a65c247e83f7068697faf4e-thumbnail.jpg",LA Clippers vs. Los Angeles Lakers (West Group B) (26 November 2025 at 04:00)
+
+#EXTINF:-1 tvg-id="ppv-14181" tvg-name="Orlando Magic vs. Philadelphia 76ers (East Group B) (26 November 2025 at 01:00)" tvg-epgid="14181" tvg-logo="https://api.ppvs.su/assets/thumb/fa8e5fe647aab279c54dc0a9c1f3fbf0-thumbnail.jpg",Orlando Magic vs. Philadelphia 76ers (East Group B) (26 November 2025 at 01:00)
+
+#EXTINF:-1 tvg-id="ppv-14180" tvg-name="Atlanta Hawks vs. Washington Wizards (East Group A) (26 November 2025 at 00:00)" tvg-epgid="14180" tvg-logo="https://api.ppvs.su/assets/thumb/6bbde8a4c3c84f69603b510669be0df0-thumbnail.jpg",Atlanta Hawks vs. Washington Wizards (East Group A) (26 November 2025 at 00:00)
 
 #EXTINF:-1 tvg-id="ppv-14162" tvg-name="Denver Pioneers vs. Arizona Wildcats (25 November 2025 at 03:30)" tvg-epgid="14162" tvg-logo="https://api.ppvs.su/assets/thumb/afaf5d73e5343bb0aa80a65aa5180c17-thumbnail.jpg",Denver Pioneers vs. Arizona Wildcats (25 November 2025 at 03:30)
 
@@ -52,10 +56,6 @@
 #EXTINF:-1 tvg-id="ppv-14055" tvg-name="Ajax vs. Benfica (25 November 2025 at 17:45)" tvg-epgid="14055" tvg-logo="https://api.ppvs.su/assets/thumb/10cc92409620dc83d33281fd4488cf80-thumbnail.jpg",Ajax vs. Benfica (25 November 2025 at 17:45)
 
 #EXTINF:-1 tvg-id="ppv-14056" tvg-name="Galatasaray vs. Union SG (25 November 2025 at 17:45)" tvg-epgid="14056" tvg-logo="https://api.ppvs.su/assets/thumb/61394225fcb8cc719f577c5d7236bc8a-thumbnail.jpg",Galatasaray vs. Union SG (25 November 2025 at 17:45)
-
-#EXTINF:-1 tvg-id="ppv-14151" tvg-name="Vegas Golden Knights vs. Utah Mammoth (25 November 2025 at 02:00)" tvg-epgid="14151" tvg-logo="https://api.ppvs.su/assets/thumb/b25ccb75afb9c54c986175ce465dc64d-thumbnail.jpg",Vegas Golden Knights vs. Utah Mammoth (25 November 2025 at 02:00)
-
-#EXTINF:-1 tvg-id="ppv-14152" tvg-name="Ottawa Senators vs. Los Angeles Kings (25 November 2025 at 02:00)" tvg-epgid="14152" tvg-logo="https://api.ppvs.su/assets/thumb/4e852b53f759d234aaf3708034a0a6a3-thumbnail.jpg",Ottawa Senators vs. Los Angeles Kings (25 November 2025 at 02:00)
 
 #EXTINF:-1 tvg-id="ppv-14023" tvg-name="AEW: Wednesday Night Dynamite (27 November 2025 at 01:00)" tvg-epgid="14023" tvg-logo="https://api.ppvs.su/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg",AEW: Wednesday Night Dynamite (27 November 2025 at 01:00)
 
