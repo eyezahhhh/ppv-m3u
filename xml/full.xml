@@ -153,72 +153,6 @@ channel="ppv-14161"
 <icon src="https://api.ppvs.su/assets/thumb/a733dd918067cc1e3df0757f641f4836-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-14134">
-<display-name>Denver Nuggets vs. Memphis Grizzlies</display-name>
-</channel>
-<programme
-start="20251125010000 +0000"
-stop="20251125034800 +0000"
-channel="ppv-14134"
->
-<title lang="en">Denver Nuggets vs. Memphis Grizzlies</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://api.ppvs.su/assets/thumb/fcb2a7ca3b1e1cea6384634aa44bd29a-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-14135">
-<display-name>Portland Trail Blazers vs. Milwaukee Bucks</display-name>
-</channel>
-<programme
-start="20251125010000 +0000"
-stop="20251125034800 +0000"
-channel="ppv-14135"
->
-<title lang="en">Portland Trail Blazers vs. Milwaukee Bucks</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://api.ppvs.su/assets/thumb/02daaa5ef736177ae0d090e0d5cffdc2-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-14136">
-<display-name>Chicago Bulls vs. New Orleans Pelicans</display-name>
-</channel>
-<programme
-start="20251125010000 +0000"
-stop="20251125034800 +0000"
-channel="ppv-14136"
->
-<title lang="en">Chicago Bulls vs. New Orleans Pelicans</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://api.ppvs.su/assets/thumb/064625428207f168b56705e13b5b7916-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-14159">
 <display-name>UT Rio Grande Valley Vaqueros vs. Illinois Fighting Illini</display-name>
 </channel>
@@ -747,28 +681,6 @@ channel="ppv-14152"
 <icon src="https://api.ppvs.su/assets/thumb/4e852b53f759d234aaf3708034a0a6a3-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-14150">
-<display-name>Florida Panthers vs. Nashville Predators</display-name>
-</channel>
-<programme
-start="20251125010000 +0000"
-stop="20251125040000 +0000"
-channel="ppv-14150"
->
-<title lang="en">Florida Panthers vs. Nashville Predators</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://api.ppvs.su/assets/thumb/20819141db1ed58c28ec9a7ae99b85b6-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-14023">
 <display-name>AEW: Wednesday Night Dynamite</display-name>
 </channel>
@@ -811,27 +723,5 @@ channel="ppv-14022"
 </audio>
 <category>Wrestling</category>
 <icon src="https://api.ppvs.su/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-14021">
-<display-name>WWE: Monday Night RAW</display-name>
-</channel>
-<programme
-start="20251125010000 +0000"
-stop="20251125040000 +0000"
-channel="ppv-14021"
->
-<title lang="en">WWE: Monday Night RAW</title>
-<sub-title>Wrestling</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Wrestling</category>
-<icon src="https://api.ppvs.su/assets/thumb/56336f9d22c51c416e1a56afbd18f314-thumbnail.jpg" />
 </programme>
 </tv>
