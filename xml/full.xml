@@ -21,6 +21,50 @@ channel="ppv-13876"
 <icon src="https://api.ppvs.su/assets/thumb/45e1423f3c25d4472ca1798542e99dc7-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-14162">
+<display-name>Denver Pioneers vs. Arizona Wildcats</display-name>
+</channel>
+<programme
+start="20251125033000 +0000"
+stop="20251125070000 +0000"
+channel="ppv-14162"
+>
+<title lang="en">Denver Pioneers vs. Arizona Wildcats</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://api.ppvs.su/assets/thumb/afaf5d73e5343bb0aa80a65aa5180c17-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-14163">
+<display-name>San Diego State Aztecs vs. Michigan Wolverines</display-name>
+</channel>
+<programme
+start="20251125033000 +0000"
+stop="20251125070000 +0000"
+channel="ppv-14163"
+>
+<title lang="en">San Diego State Aztecs vs. Michigan Wolverines</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://api.ppvs.su/assets/thumb/80acf6ac81fc58056bb8ee8c0ed6e5a2-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-14138">
 <display-name>Utah Jazz vs. Golden State Warriors</display-name>
 </channel>
@@ -87,6 +131,28 @@ channel="ppv-14137"
 <icon src="https://api.ppvs.su/assets/thumb/66cd935c93a321643f65195083bb7519-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-14161">
+<display-name>Gonzaga Bulldogs vs. Alabama Crimson Tide</display-name>
+</channel>
+<programme
+start="20251125023000 +0000"
+stop="20251125060000 +0000"
+channel="ppv-14161"
+>
+<title lang="en">Gonzaga Bulldogs vs. Alabama Crimson Tide</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://api.ppvs.su/assets/thumb/a733dd918067cc1e3df0757f641f4836-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-14134">
 <display-name>Denver Nuggets vs. Memphis Grizzlies</display-name>
 </channel>
@@ -151,6 +217,50 @@ channel="ppv-14136"
 </audio>
 <category>Basketball</category>
 <icon src="https://api.ppvs.su/assets/thumb/064625428207f168b56705e13b5b7916-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-14159">
+<display-name>UT Rio Grande Valley Vaqueros vs. Illinois Fighting Illini</display-name>
+</channel>
+<programme
+start="20251125010000 +0000"
+stop="20251125043000 +0000"
+channel="ppv-14159"
+>
+<title lang="en">UT Rio Grande Valley Vaqueros vs. Illinois Fighting Illini</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://api.ppvs.su/assets/thumb/c798d9e7bd8cd8c0408b9ca84503642f-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-14160">
+<display-name>Auburn Tigers vs. Oregon Ducks</display-name>
+</channel>
+<programme
+start="20251125010000 +0000"
+stop="20251125043000 +0000"
+channel="ppv-14160"
+>
+<title lang="en">Auburn Tigers vs. Oregon Ducks</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://api.ppvs.su/assets/thumb/8e8d6caf0769a40f2024e7e823aca2b1-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-14132">
@@ -239,6 +349,72 @@ channel="ppv-14130"
 </audio>
 <category>Basketball</category>
 <icon src="https://api.ppvs.su/assets/thumb/a312b6f4484d59af8b9ebfd27ff2b63e-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-14155">
+<display-name>Eastern Michigan Eagles vs. Louisville Cardinals</display-name>
+</channel>
+<programme
+start="20251125000000 +0000"
+stop="20251125033000 +0000"
+channel="ppv-14155"
+>
+<title lang="en">Eastern Michigan Eagles vs. Louisville Cardinals</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://api.ppvs.su/assets/thumb/f2a19384659ff532a76d76bf84a050a9-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-14154">
+<display-name>Syracuse Orange vs. Houston Cougars</display-name>
+</channel>
+<programme
+start="20251124230000 +0000"
+stop="20251125023000 +0000"
+channel="ppv-14154"
+>
+<title lang="en">Syracuse Orange vs. Houston Cougars</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://api.ppvs.su/assets/thumb/3f525c598995f6cbb2b25f08d83154e1-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-14156">
+<display-name>Iowa State Cyclones vs. St. John&apos;s Red Storm</display-name>
+</channel>
+<programme
+start="20251124213000 +0000"
+stop="20251125010000 +0000"
+channel="ppv-14156"
+>
+<title lang="en">Iowa State Cyclones vs. St. John&apos;s Red Storm</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://api.ppvs.su/assets/thumb/04bf4d8583c6f6a0b6413fc4f4b8ee2e-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-13968">
