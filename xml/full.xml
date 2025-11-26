@@ -1,4 +1,26 @@
 <tv>
+<channel id="ppv-14166">
+<display-name>Cincinnati Bengals vs. Baltimore Ravens</display-name>
+</channel>
+<programme
+start="20251128012000 +0000"
+stop="20251128045000 +0000"
+channel="ppv-14166"
+>
+<title lang="en">Cincinnati Bengals vs. Baltimore Ravens</title>
+<sub-title>American Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>American Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/129b854bdfa2b62a83f328202a1a90ca-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-14165">
 <display-name>Kansas City Chiefs vs. Dallas Cowboys</display-name>
 </channel>
@@ -1295,6 +1317,28 @@ channel="ppv-14190"
 </audio>
 <category>Ice Hockey</category>
 <icon src="https://api.ppvs.su/assets/thumb/5bf5849ec0b8c3f5a36f1378bcc1d904-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-14024">
+<display-name>TNA: Impact</display-name>
+</channel>
+<programme
+start="20251128010000 +0000"
+stop="20251128040000 +0000"
+channel="ppv-14024"
+>
+<title lang="en">TNA: Impact</title>
+<sub-title>Wrestling</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Wrestling</category>
+<icon src="https://api.ppvs.su/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-14023">
