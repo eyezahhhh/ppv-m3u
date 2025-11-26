@@ -43,6 +43,28 @@ channel="ppv-14164"
 <icon src="https://api.ppvs.su/assets/thumb/ce44e1e5174825d697d898f58758661d-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-14201">
+<display-name>UNLV Rebels vs. Alabama Crimson Tide</display-name>
+</channel>
+<programme
+start="20251126045900 +0000"
+stop="20251126082900 +0000"
+channel="ppv-14201"
+>
+<title lang="en">UNLV Rebels vs. Alabama Crimson Tide</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://api.ppvs.su/assets/thumb/b5b738d1178ce032b1e3e78324dd44ea-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-14182">
 <display-name>LA Clippers vs. Los Angeles Lakers (West Group B)</display-name>
 </channel>
@@ -63,6 +85,72 @@ channel="ppv-14182"
 </audio>
 <category>Basketball</category>
 <icon src="https://api.ppvs.su/assets/thumb/8621ae396a65c247e83f7068697faf4e-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-14200">
+<display-name>UCLA Bruins vs. California Golden Bears</display-name>
+</channel>
+<programme
+start="20251126030000 +0000"
+stop="20251126063000 +0000"
+channel="ppv-14200"
+>
+<title lang="en">UCLA Bruins vs. California Golden Bears</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://api.ppvs.su/assets/thumb/199c241881464d74e63853bbe64df530-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-14199">
+<display-name>Maryland Terrapins vs. Gonzaga Bulldogs</display-name>
+</channel>
+<programme
+start="20251126023000 +0000"
+stop="20251126060000 +0000"
+channel="ppv-14199"
+>
+<title lang="en">Maryland Terrapins vs. Gonzaga Bulldogs</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://api.ppvs.su/assets/thumb/70e349aa666df263afddf20fa80c753b-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-14198">
+<display-name>Auburn Tigers vs. Michigan Wolverines</display-name>
+</channel>
+<programme
+start="20251126013000 +0000"
+stop="20251126050000 +0000"
+channel="ppv-14198"
+>
+<title lang="en">Auburn Tigers vs. Michigan Wolverines</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://api.ppvs.su/assets/thumb/fefd3b19c2128a9c2b9c64f29a0a8733-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-14181">
@@ -87,6 +175,28 @@ channel="ppv-14181"
 <icon src="https://api.ppvs.su/assets/thumb/fa8e5fe647aab279c54dc0a9c1f3fbf0-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-14197">
+<display-name>Kansas State Wildcats vs. Indiana Hoosiers</display-name>
+</channel>
+<programme
+start="20251126010000 +0000"
+stop="20251126043000 +0000"
+channel="ppv-14197"
+>
+<title lang="en">Kansas State Wildcats vs. Indiana Hoosiers</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://api.ppvs.su/assets/thumb/f435a25b3fe7b564e4bcb71846b0820d-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-14180">
 <display-name>Atlanta Hawks vs. Washington Wizards (East Group A)</display-name>
 </channel>
@@ -107,6 +217,50 @@ channel="ppv-14180"
 </audio>
 <category>Basketball</category>
 <icon src="https://api.ppvs.su/assets/thumb/6bbde8a4c3c84f69603b510669be0df0-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-14195">
+<display-name>Tennessee Volunteers vs. Houston Cougars</display-name>
+</channel>
+<programme
+start="20251125230000 +0000"
+stop="20251126023000 +0000"
+channel="ppv-14195"
+>
+<title lang="en">Tennessee Volunteers vs. Houston Cougars</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://api.ppvs.su/assets/thumb/8d111557b132a393033e267816298c7e-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-14196">
+<display-name>St. Bonaventure Bonnies vs. North Carolina Tar Heels</display-name>
+</channel>
+<programme
+start="20251125230000 +0000"
+stop="20251126023000 +0000"
+channel="ppv-14196"
+>
+<title lang="en">St. Bonaventure Bonnies vs. North Carolina Tar Heels</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://api.ppvs.su/assets/thumb/d40daea0a4aa37ac57b0c8ab95480e13-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-13968">
@@ -1119,6 +1273,28 @@ channel="ppv-14065"
 </audio>
 <category>Football</category>
 <icon src="https://api.ppvs.su/assets/thumb/8e4184bdf151f1974450434decfbdf33-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-14190">
+<display-name>Dallas Stars vs. Edmonton Oilers</display-name>
+</channel>
+<programme
+start="20251126020000 +0000"
+stop="20251126050000 +0000"
+channel="ppv-14190"
+>
+<title lang="en">Dallas Stars vs. Edmonton Oilers</title>
+<sub-title>Ice Hockey</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Ice Hockey</category>
+<icon src="https://api.ppvs.su/assets/thumb/5bf5849ec0b8c3f5a36f1378bcc1d904-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-14023">
