@@ -549,6 +549,28 @@ channel="ppv-14228"
 <icon src="https://api.ppvs.su/assets/thumb/e7c06573b8ae26c27c135536fb2d6d9f-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-14046">
+<display-name>Gladbach vs. RB Leipzig</display-name>
+</channel>
+<programme
+start="20251128193000 +0000"
+stop="20251128220000 +0000"
+channel="ppv-14046"
+>
+<title lang="en">Gladbach vs. RB Leipzig</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/023a790d6578107f9a340751320e69d4-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-14082">
 <display-name>Rangers vs. Braga</display-name>
 </channel>
