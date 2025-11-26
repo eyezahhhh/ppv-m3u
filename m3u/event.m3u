@@ -1,9 +1,15 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ppv-14239" tvg-name="Ole Miss Rebels vs. Mississippi State Bulldogs (28 November 2025 at 17:00)" tvg-epgid="14239" tvg-logo="https://api.ppvs.su/assets/thumb/2f72b60449932e89e830fee1aa9853ff-thumbnail.jpg",Ole Miss Rebels vs. Mississippi State Bulldogs (28 November 2025 at 17:00)
+
+#EXTINF:-1 tvg-id="ppv-14240" tvg-name="Utah Utes vs. Kansas Jayhawks (28 November 2025 at 17:00)" tvg-epgid="14240" tvg-logo="https://api.ppvs.su/assets/thumb/23e9a0902c8c67efd032b23ea14ffdda-thumbnail.jpg",Utah Utes vs. Kansas Jayhawks (28 November 2025 at 17:00)
+
 #EXTINF:-1 tvg-id="ppv-14166" tvg-name="Cincinnati Bengals vs. Baltimore Ravens (28 November 2025 at 01:20)" tvg-epgid="14166" tvg-logo="https://api.ppvs.su/assets/thumb/129b854bdfa2b62a83f328202a1a90ca-thumbnail.jpg",Cincinnati Bengals vs. Baltimore Ravens (28 November 2025 at 01:20)
 
 #EXTINF:-1 tvg-id="ppv-14165" tvg-name="Kansas City Chiefs vs. Dallas Cowboys (27 November 2025 at 21:30)" tvg-epgid="14165" tvg-logo="https://api.ppvs.su/assets/thumb/9ccdd52f6ef55678ec64bf62e415313a-thumbnail.jpg",Kansas City Chiefs vs. Dallas Cowboys (27 November 2025 at 21:30)
 
 #EXTINF:-1 tvg-id="ppv-14164" tvg-name="Green Bay Packers vs. Detroit Lions (27 November 2025 at 18:00)" tvg-epgid="14164" tvg-logo="https://api.ppvs.su/assets/thumb/0bb209db142e9a89f4ea787a22900b4b-thumbnail.jpg",Green Bay Packers vs. Detroit Lions (27 November 2025 at 18:00)
+
+#EXTINF:-1 tvg-id="ppv-14238" tvg-name="Maryland Terrapins vs. Alabama Crimson Tide (27 November 2025 at 04:59)" tvg-epgid="14238" tvg-logo="https://api.ppvs.su/assets/thumb/e3e75a4747e13206744f09f9ef3d4f80-thumbnail.jpg",Maryland Terrapins vs. Alabama Crimson Tide (27 November 2025 at 04:59)
 
 #EXTINF:-1 tvg-id="ppv-14208" tvg-name="Houston Rockets vs. Golden State Warriors (West Group C) (27 November 2025 at 03:00)" tvg-epgid="14208" tvg-logo="https://api.ppvs.su/assets/thumb/bcd6acd55bd37f3296d76a68bff2b7f0-thumbnail.jpg",Houston Rockets vs. Golden State Warriors (West Group C) (27 November 2025 at 03:00)
 
@@ -11,7 +17,15 @@
 
 #EXTINF:-1 tvg-id="ppv-14210" tvg-name="Phoenix Suns vs. Sacramento Kings (West Group A) (27 November 2025 at 03:00)" tvg-epgid="14210" tvg-logo="https://api.ppvs.su/assets/thumb/aa70c35c2987d8f057eefd7bb483fbbe-thumbnail.jpg",Phoenix Suns vs. Sacramento Kings (West Group A) (27 November 2025 at 03:00)
 
+#EXTINF:-1 tvg-id="ppv-14236" tvg-name="Gonzaga Bulldogs vs. Michigan Wolverines (27 November 2025 at 02:30)" tvg-epgid="14236" tvg-logo="https://api.ppvs.su/assets/thumb/cb5e86a808cfce7d5514527be1b5c864-thumbnail.jpg",Gonzaga Bulldogs vs. Michigan Wolverines (27 November 2025 at 02:30)
+
+#EXTINF:-1 tvg-id="ppv-14237" tvg-name="NC State Wolfpack vs. Texas Longhorns (27 November 2025 at 02:30)" tvg-epgid="14237" tvg-logo="https://api.ppvs.su/assets/thumb/fb4ec1ab25c4f95db6f03d71aae65389-thumbnail.jpg",NC State Wolfpack vs. Texas Longhorns (27 November 2025 at 02:30)
+
+#EXTINF:-1 tvg-id="ppv-14235" tvg-name="NJIT Highlanders vs. Louisville Cardinals (27 November 2025 at 02:00)" tvg-epgid="14235" tvg-logo="https://api.ppvs.su/assets/thumb/7b7a1abb89d176044eb53752cc5d367e-thumbnail.jpg",NJIT Highlanders vs. Louisville Cardinals (27 November 2025 at 02:00)
+
 #EXTINF:-1 tvg-id="ppv-14207" tvg-name="Memphis Grizzlies vs. New Orleans Pelicans (West Group B) (27 November 2025 at 01:00)" tvg-epgid="14207" tvg-logo="https://api.ppvs.su/assets/thumb/d2d0f04c9915520463b5eee762edbdd6-thumbnail.jpg",Memphis Grizzlies vs. New Orleans Pelicans (West Group B) (27 November 2025 at 01:00)
+
+#EXTINF:-1 tvg-id="ppv-14234" tvg-name="St. John's Red Storm vs. Auburn Tigers (27 November 2025 at 01:00)" tvg-epgid="14234" tvg-logo="https://api.ppvs.su/assets/thumb/d44f906cdbc9c0aa49ac30ed1fcb0f4f-thumbnail.jpg",St. John's Red Storm vs. Auburn Tigers (27 November 2025 at 01:00)
 
 #EXTINF:-1 tvg-id="ppv-14204" tvg-name="Milwaukee Bucks vs. Miami Heat (East Group C) (27 November 2025 at 00:30)" tvg-epgid="14204" tvg-logo="https://api.ppvs.su/assets/thumb/fecd6a8293c1820150ca3ffc86205247-thumbnail.jpg",Milwaukee Bucks vs. Miami Heat (East Group C) (27 November 2025 at 00:30)
 
@@ -21,7 +35,19 @@
 
 #EXTINF:-1 tvg-id="ppv-14203" tvg-name="New York Knicks vs. Charlotte Hornets (East Group C) (27 November 2025 at 00:00)" tvg-epgid="14203" tvg-logo="https://api.ppvs.su/assets/thumb/a7f0d6b3a875bf84b2a010860cf9d818-thumbnail.jpg",New York Knicks vs. Charlotte Hornets (East Group C) (27 November 2025 at 00:00)
 
+#EXTINF:-1 tvg-id="ppv-14232" tvg-name="Kansas Jayhawks vs. Tennessee Volunteers (27 November 2025 at 00:00)" tvg-epgid="14232" tvg-logo="https://api.ppvs.su/assets/thumb/74aa5aa0eac456d88f079b28cab5a514-thumbnail.jpg",Kansas Jayhawks vs. Tennessee Volunteers (27 November 2025 at 00:00)
+
+#EXTINF:-1 tvg-id="ppv-14233" tvg-name="Tennessee Tech Golden Eagles vs. Kentucky Wildcats (27 November 2025 at 00:00)" tvg-epgid="14233" tvg-logo="https://api.ppvs.su/assets/thumb/e471046e5e923689edc6e05a631aa41e-thumbnail.jpg",Tennessee Tech Golden Eagles vs. Kentucky Wildcats (27 November 2025 at 00:00)
+
 #EXTINF:-1 tvg-id="ppv-14202" tvg-name="Detroit Pistons vs. Boston Celtics (East Group B) (26 November 2025 at 22:00)" tvg-epgid="14202" tvg-logo="https://api.ppvs.su/assets/thumb/a39725f5e21195dd6e8435ec69d2108a-thumbnail.jpg",Detroit Pistons vs. Boston Celtics (East Group B) (26 November 2025 at 22:00)
+
+#EXTINF:-1 tvg-id="ppv-14231" tvg-name="Notre Dame Fighting Irish vs. Houston Cougars (26 November 2025 at 20:30)" tvg-epgid="14231" tvg-logo="https://api.ppvs.su/assets/thumb/81e085b951fb7cba284cce2e2f9b5cdf-thumbnail.jpg",Notre Dame Fighting Irish vs. Houston Cougars (26 November 2025 at 20:30)
+
+#EXTINF:-1 tvg-id="ppv-14229" tvg-name="Syracuse Orange vs. Iowa State Cyclones (26 November 2025 at 18:00)" tvg-epgid="14229" tvg-logo="https://api.ppvs.su/assets/thumb/56fed9df3b8cb004e0c65bcfe50da1a5-thumbnail.jpg",Syracuse Orange vs. Iowa State Cyclones (26 November 2025 at 18:00)
+
+#EXTINF:-1 tvg-id="ppv-14230" tvg-name="New Orleans Privateers vs. Texas Tech Red Raiders (26 November 2025 at 18:00)" tvg-epgid="14230" tvg-logo="https://api.ppvs.su/assets/thumb/d91a7a2743c9810a42d735572c677edd-thumbnail.jpg",New Orleans Privateers vs. Texas Tech Red Raiders (26 November 2025 at 18:00)
+
+#EXTINF:-1 tvg-id="ppv-14228" tvg-name="Vanderbilt Commodores vs. Western Kentucky Hilltoppers (26 November 2025 at 17:00)" tvg-epgid="14228" tvg-logo="https://api.ppvs.su/assets/thumb/e7c06573b8ae26c27c135536fb2d6d9f-thumbnail.jpg",Vanderbilt Commodores vs. Western Kentucky Hilltoppers (26 November 2025 at 17:00)
 
 #EXTINF:-1 tvg-id="ppv-14082" tvg-name="Rangers vs. Braga (27 November 2025 at 20:00)" tvg-epgid="14082" tvg-logo="https://api.ppvs.su/assets/thumb/6ace06b4ab7cc10ed503b28fea81ded1-thumbnail.jpg",Rangers vs. Braga (27 November 2025 at 20:00)
 
@@ -95,6 +121,10 @@
 
 #EXTINF:-1 tvg-id="ppv-14099" tvg-name="Hamrun Spartans  vs. L. Red Imps (27 November 2025 at 17:45)" tvg-epgid="14099" tvg-logo="https://api.ppvs.su/assets/thumb/f00dc17e52657d466c447370d2a36ea0-thumbnail.jpg",Hamrun Spartans  vs. L. Red Imps (27 November 2025 at 17:45)
 
+#EXTINF:-1 tvg-id="ppv-12737" tvg-name="CBS Sports Golazo Show (26 November 2025 at 20:00)" tvg-epgid="12737" tvg-logo="https://api.ppvs.su/assets/thumb/9495bb8da4657a7abea8bacb2a43b50b-thumbnail.jpg",CBS Sports Golazo Show (26 November 2025 at 20:00)
+
+#EXTINF:-1 tvg-id="ppv-13195" tvg-name="TNT Sports Goals Show (26 November 2025 at 20:00)" tvg-epgid="13195" tvg-logo="https://api.ppvs.su/assets/thumb/a1ffcb323db604d728eb84a29c7d3df0-thumbnail.jpg",TNT Sports Goals Show (26 November 2025 at 20:00)
+
 #EXTINF:-1 tvg-id="ppv-14066" tvg-name="Paris vs. Tottenham (26 November 2025 at 20:00)" tvg-epgid="14066" tvg-logo="https://api.ppvs.su/assets/thumb/258560ebb7599fad3fdffea70e8e6157-thumbnail.jpg",Paris vs. Tottenham (26 November 2025 at 20:00)
 
 #EXTINF:-1 tvg-id="ppv-14067" tvg-name="Liverpool vs. PSV (26 November 2025 at 20:00)" tvg-epgid="14067" tvg-logo="https://api.ppvs.su/assets/thumb/ca59e72a9f6955dc2c3e815a6c9b98c2-thumbnail.jpg",Liverpool vs. PSV (26 November 2025 at 20:00)
@@ -142,6 +172,8 @@
 #EXTINF:-1 tvg-id="ppv-14220" tvg-name="New York Rangers vs. Carolina Hurricanes (27 November 2025 at 00:00)" tvg-epgid="14220" tvg-logo="https://api.ppvs.su/assets/thumb/9831efc3e280b05c80c9512f2a401325-thumbnail.jpg",New York Rangers vs. Carolina Hurricanes (27 November 2025 at 00:00)
 
 #EXTINF:-1 tvg-id="ppv-14221" tvg-name="Toronto Maple Leafs vs. Columbus Blue Jackets (27 November 2025 at 00:00)" tvg-epgid="14221" tvg-logo="https://api.ppvs.su/assets/thumb/f4a7314b4b776a1bffad0661f28524d2-thumbnail.jpg",Toronto Maple Leafs vs. Columbus Blue Jackets (27 November 2025 at 00:00)
+
+#EXTINF:-1 tvg-id="ppv-14017" tvg-name="Qatar Grand Prix - Sprint Q (28 November 2025 at 17:30)" tvg-epgid="14017" tvg-logo="https://api.ppvs.su/assets/thumb/a2f76cc9c1d88fdcd9ba1e36510ce4af-thumbnail.jpg",Qatar Grand Prix - Sprint Q (28 November 2025 at 17:30)
 
 #EXTINF:-1 tvg-id="ppv-14016" tvg-name="Qatar Grand Prix - FP1 (28 November 2025 at 13:30)" tvg-epgid="14016" tvg-logo="https://api.ppvs.su/assets/thumb/44ed6d2c095fdebeee9d33c803225830-thumbnail.jpg",Qatar Grand Prix - FP1 (28 November 2025 at 13:30)
 
