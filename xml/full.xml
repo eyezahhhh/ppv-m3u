@@ -527,50 +527,6 @@ channel="ppv-14231"
 <icon src="https://api.ppvs.su/assets/thumb/81e085b951fb7cba284cce2e2f9b5cdf-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-14229">
-<display-name>Syracuse Orange vs. Iowa State Cyclones</display-name>
-</channel>
-<programme
-start="20251126180000 +0000"
-stop="20251126213000 +0000"
-channel="ppv-14229"
->
-<title lang="en">Syracuse Orange vs. Iowa State Cyclones</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://api.ppvs.su/assets/thumb/56fed9df3b8cb004e0c65bcfe50da1a5-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-14230">
-<display-name>New Orleans Privateers vs. Texas Tech Red Raiders</display-name>
-</channel>
-<programme
-start="20251126180000 +0000"
-stop="20251126213000 +0000"
-channel="ppv-14230"
->
-<title lang="en">New Orleans Privateers vs. Texas Tech Red Raiders</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://api.ppvs.su/assets/thumb/d91a7a2743c9810a42d735572c677edd-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-14109">
 <display-name>Como vs. Sassuolo</display-name>
 </channel>
