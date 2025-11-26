@@ -113,6 +113,8 @@
 
 #EXTINF:-1 tvg-id="ppv-14065" tvg-name="Pafos vs. Monaco (26 November 2025 at 17:45)" tvg-epgid="14065" tvg-logo="https://api.ppvs.su/assets/thumb/8e4184bdf151f1974450434decfbdf33-thumbnail.jpg",Pafos vs. Monaco (26 November 2025 at 17:45)
 
+#EXTINF:-1 tvg-id="ppv-14016" tvg-name="Qatar Grand Prix - FP1 (28 November 2025 at 13:30)" tvg-epgid="14016" tvg-logo="https://api.ppvs.su/assets/thumb/44ed6d2c095fdebeee9d33c803225830-thumbnail.jpg",Qatar Grand Prix - FP1 (28 November 2025 at 13:30)
+
 #EXTINF:-1 tvg-id="ppv-14024" tvg-name="TNA: Impact (28 November 2025 at 01:00)" tvg-epgid="14024" tvg-logo="https://api.ppvs.su/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg",TNA: Impact (28 November 2025 at 01:00)
 
 #EXTINF:-1 tvg-id="ppv-14023" tvg-name="AEW: Wednesday Night Dynamite (27 November 2025 at 01:00)" tvg-epgid="14023" tvg-logo="https://api.ppvs.su/assets/thumb/939d74f529afb1d0c8674c3a27434196-thumbnail.jpg",AEW: Wednesday Night Dynamite (27 November 2025 at 01:00)
