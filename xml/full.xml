@@ -1,4 +1,26 @@
 <tv>
+<channel id="ppv-14167">
+<display-name>Chicago Bears vs. Philadelphia Eagles</display-name>
+</channel>
+<programme
+start="20251128200000 +0000"
+stop="20251128233000 +0000"
+channel="ppv-14167"
+>
+<title lang="en">Chicago Bears vs. Philadelphia Eagles</title>
+<sub-title>American Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>American Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/aaa79b3caccafbe362170731c1858078-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-14239">
 <display-name>Ole Miss Rebels vs. Mississippi State Bulldogs</display-name>
 </channel>
@@ -547,6 +569,50 @@ channel="ppv-14228"
 </audio>
 <category>Basketball</category>
 <icon src="https://api.ppvs.su/assets/thumb/e7c06573b8ae26c27c135536fb2d6d9f-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-14109">
+<display-name>Como vs. Sassuolo</display-name>
+</channel>
+<programme
+start="20251128194500 +0000"
+stop="20251128221500 +0000"
+channel="ppv-14109"
+>
+<title lang="en">Como vs. Sassuolo</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/55401ac2aad0825bddd57a9aeb1df35a-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-14119">
+<display-name>FC Metz vs. Rennes</display-name>
+</channel>
+<programme
+start="20251128194500 +0000"
+stop="20251128221500 +0000"
+channel="ppv-14119"
+>
+<title lang="en">FC Metz vs. Rennes</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/30820a39dbdc363ae35845aeea09919b-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-14046">
@@ -1559,50 +1625,6 @@ channel="ppv-14072"
 </audio>
 <category>Football</category>
 <icon src="https://api.ppvs.su/assets/thumb/eb47fec321c19dd00301d5cf11420058-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-14064">
-<display-name>Copenhagen vs. Kairat Almaty</display-name>
-</channel>
-<programme
-start="20251126174500 +0000"
-stop="20251126194500 +0000"
-channel="ppv-14064"
->
-<title lang="en">Copenhagen vs. Kairat Almaty</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/a7554f725552531f5d7a12ef9e61f931-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-14065">
-<display-name>Pafos vs. Monaco</display-name>
-</channel>
-<programme
-start="20251126174500 +0000"
-stop="20251126194500 +0000"
-channel="ppv-14065"
->
-<title lang="en">Pafos vs. Monaco</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/8e4184bdf151f1974450434decfbdf33-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-14225">

@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ppv-14167" tvg-name="Chicago Bears vs. Philadelphia Eagles (28 November 2025 at 20:00)" tvg-epgid="14167" tvg-logo="https://api.ppvs.su/assets/thumb/aaa79b3caccafbe362170731c1858078-thumbnail.jpg",Chicago Bears vs. Philadelphia Eagles (28 November 2025 at 20:00)
+
 #EXTINF:-1 tvg-id="ppv-14239" tvg-name="Ole Miss Rebels vs. Mississippi State Bulldogs (28 November 2025 at 17:00)" tvg-epgid="14239" tvg-logo="https://api.ppvs.su/assets/thumb/2f72b60449932e89e830fee1aa9853ff-thumbnail.jpg",Ole Miss Rebels vs. Mississippi State Bulldogs (28 November 2025 at 17:00)
 
 #EXTINF:-1 tvg-id="ppv-14240" tvg-name="Utah Utes vs. Kansas Jayhawks (28 November 2025 at 17:00)" tvg-epgid="14240" tvg-logo="https://api.ppvs.su/assets/thumb/23e9a0902c8c67efd032b23ea14ffdda-thumbnail.jpg",Utah Utes vs. Kansas Jayhawks (28 November 2025 at 17:00)
@@ -48,6 +50,10 @@
 #EXTINF:-1 tvg-id="ppv-14230" tvg-name="New Orleans Privateers vs. Texas Tech Red Raiders (26 November 2025 at 18:00)" tvg-epgid="14230" tvg-logo="https://api.ppvs.su/assets/thumb/d91a7a2743c9810a42d735572c677edd-thumbnail.jpg",New Orleans Privateers vs. Texas Tech Red Raiders (26 November 2025 at 18:00)
 
 #EXTINF:-1 tvg-id="ppv-14228" tvg-name="Vanderbilt Commodores vs. Western Kentucky Hilltoppers (26 November 2025 at 17:00)" tvg-epgid="14228" tvg-logo="https://api.ppvs.su/assets/thumb/e7c06573b8ae26c27c135536fb2d6d9f-thumbnail.jpg",Vanderbilt Commodores vs. Western Kentucky Hilltoppers (26 November 2025 at 17:00)
+
+#EXTINF:-1 tvg-id="ppv-14109" tvg-name="Como vs. Sassuolo (28 November 2025 at 19:45)" tvg-epgid="14109" tvg-logo="https://api.ppvs.su/assets/thumb/55401ac2aad0825bddd57a9aeb1df35a-thumbnail.jpg",Como vs. Sassuolo (28 November 2025 at 19:45)
+
+#EXTINF:-1 tvg-id="ppv-14119" tvg-name="FC Metz vs. Rennes (28 November 2025 at 19:45)" tvg-epgid="14119" tvg-logo="https://api.ppvs.su/assets/thumb/30820a39dbdc363ae35845aeea09919b-thumbnail.jpg",FC Metz vs. Rennes (28 November 2025 at 19:45)
 
 #EXTINF:-1 tvg-id="ppv-14046" tvg-name="Gladbach vs. RB Leipzig (28 November 2025 at 19:30)" tvg-epgid="14046" tvg-logo="https://api.ppvs.su/assets/thumb/023a790d6578107f9a340751320e69d4-thumbnail.jpg",Gladbach vs. RB Leipzig (28 November 2025 at 19:30)
 
@@ -140,10 +146,6 @@
 #EXTINF:-1 tvg-id="ppv-14071" tvg-name="Sporting CP vs. Club Brugge (26 November 2025 at 20:00)" tvg-epgid="14071" tvg-logo="https://api.ppvs.su/assets/thumb/9085414849c59cfd3914db9e7e87c61a-thumbnail.jpg",Sporting CP vs. Club Brugge (26 November 2025 at 20:00)
 
 #EXTINF:-1 tvg-id="ppv-14072" tvg-name="Olympiacos vs. Real Madrid (26 November 2025 at 20:00)" tvg-epgid="14072" tvg-logo="https://api.ppvs.su/assets/thumb/eb47fec321c19dd00301d5cf11420058-thumbnail.jpg",Olympiacos vs. Real Madrid (26 November 2025 at 20:00)
-
-#EXTINF:-1 tvg-id="ppv-14064" tvg-name="Copenhagen vs. Kairat Almaty (26 November 2025 at 17:45)" tvg-epgid="14064" tvg-logo="https://api.ppvs.su/assets/thumb/a7554f725552531f5d7a12ef9e61f931-thumbnail.jpg",Copenhagen vs. Kairat Almaty (26 November 2025 at 17:45)
-
-#EXTINF:-1 tvg-id="ppv-14065" tvg-name="Pafos vs. Monaco (26 November 2025 at 17:45)" tvg-epgid="14065" tvg-logo="https://api.ppvs.su/assets/thumb/8e4184bdf151f1974450434decfbdf33-thumbnail.jpg",Pafos vs. Monaco (26 November 2025 at 17:45)
 
 #EXTINF:-1 tvg-id="ppv-14225" tvg-name="Ottawa Senators vs. Vegas Golden Knights (27 November 2025 at 03:00)" tvg-epgid="14225" tvg-logo="https://api.ppvs.su/assets/thumb/261ed4f755d80031518542947c9fad12-thumbnail.jpg",Ottawa Senators vs. Vegas Golden Knights (27 November 2025 at 03:00)
 
