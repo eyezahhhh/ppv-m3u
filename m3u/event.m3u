@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ppv-14242" tvg-name="Indiana Hoosiers vs. Purdue Boilermakers (29 November 2025 at 00:30)" tvg-epgid="14242" tvg-logo="https://api.ppvs.su/assets/thumb/3618955c562d164519606ba9b7ac7d63-thumbnail.jpg",Indiana Hoosiers vs. Purdue Boilermakers (29 November 2025 at 00:30)
+
+#EXTINF:-1 tvg-id="ppv-14243" tvg-name="Texas A&M Aggies vs. Texas Longhorns (29 November 2025 at 00:30)" tvg-epgid="14243" tvg-logo="https://api.ppvs.su/assets/thumb/ff015cef0b1983a81844ee62c71e2fe1-thumbnail.jpg",Texas A&M Aggies vs. Texas Longhorns (29 November 2025 at 00:30)
+
 #EXTINF:-1 tvg-id="ppv-14241" tvg-name="Georgia Bulldogs vs. Georgia Tech Yellow Jackets (28 November 2025 at 20:30)" tvg-epgid="14241" tvg-logo="https://api.ppvs.su/assets/thumb/7fdfa81d8dfd79421f2951cadc85f000-thumbnail.jpg",Georgia Bulldogs vs. Georgia Tech Yellow Jackets (28 November 2025 at 20:30)
 
 #EXTINF:-1 tvg-id="ppv-14167" tvg-name="Chicago Bears vs. Philadelphia Eagles (28 November 2025 at 20:00)" tvg-epgid="14167" tvg-logo="https://api.ppvs.su/assets/thumb/aaa79b3caccafbe362170731c1858078-thumbnail.jpg",Chicago Bears vs. Philadelphia Eagles (28 November 2025 at 20:00)
