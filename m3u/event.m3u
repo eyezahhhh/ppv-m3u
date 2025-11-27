@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ppv-14248" tvg-name="UCF Knights vs. BYU Cougars (29 November 2025 at 18:00)" tvg-epgid="14248" tvg-logo="https://api.ppvs.su/assets/thumb/f5d795dfc56f708ddc12ac8dd61e61c7-thumbnail.jpg",UCF Knights vs. BYU Cougars (29 November 2025 at 18:00)
+
 #EXTINF:-1 tvg-id="ppv-14245" tvg-name="Ohio State Buckeyes vs. Michigan Wolverines (29 November 2025 at 17:00)" tvg-epgid="14245" tvg-logo="https://api.ppvs.su/assets/thumb/8c83ea5c2c4765d68dd699010a5f5fef-thumbnail.jpg",Ohio State Buckeyes vs. Michigan Wolverines (29 November 2025 at 17:00)
 
 #EXTINF:-1 tvg-id="ppv-14246" tvg-name="Texas Tech Red Raiders vs. West Virginia Mountaineers (29 November 2025 at 17:00)" tvg-epgid="14246" tvg-logo="https://api.ppvs.su/assets/thumb/59d8f2219d43ae76966f2c400bee49c0-thumbnail.jpg",Texas Tech Red Raiders vs. West Virginia Mountaineers (29 November 2025 at 17:00)
@@ -36,6 +38,8 @@
 #EXTINF:-1 tvg-id="ppv-14263" tvg-name="VCU Rams vs. Vanderbilt Commodores (27 November 2025 at 17:00)" tvg-epgid="14263" tvg-logo="https://api.ppvs.su/assets/thumb/89d441b71809933302b7223a10415e42-thumbnail.jpg",VCU Rams vs. Vanderbilt Commodores (27 November 2025 at 17:00)
 
 #EXTINF:-1 tvg-id="ppv-13967" tvg-name="Prime Minister's XI vs England XI (29 November 2025 at 03:40)" tvg-epgid="13967" tvg-logo="https://api.ppvs.su/assets/thumb/c683e7d7414bdffc52498fdc55a6d9c2-thumbnail.jpg",Prime Minister's XI vs England XI (29 November 2025 at 03:40)
+
+#EXTINF:-1 tvg-id="ppv-14121" tvg-name="Paris FC vs. AJ Auxerre (29 November 2025 at 18:00)" tvg-epgid="14121" tvg-logo="https://api.ppvs.su/assets/thumb/5dea2507af3cb3dfac2f76281c516c8a-thumbnail.jpg",Paris FC vs. AJ Auxerre (29 November 2025 at 18:00)
 
 #EXTINF:-1 tvg-id="ppv-14031" tvg-name="Everton vs. Newcastle United (29 November 2025 at 17:30)" tvg-epgid="14031" tvg-logo="https://api.ppvs.su/assets/thumb/06b90c7be028bea3b17d9428cdb4eaf1-thumbnail.jpg",Everton vs. Newcastle United (29 November 2025 at 17:30)
 
@@ -168,6 +172,8 @@
 #EXTINF:-1 tvg-id="ppv-14269" tvg-name="New York Rangers vs. Boston Bruins (28 November 2025 at 18:00)" tvg-epgid="14269" tvg-logo="https://api.ppvs.su/assets/thumb/36e10c488b59f869c4897eed68b5bfc6-thumbnail.jpg",New York Rangers vs. Boston Bruins (28 November 2025 at 18:00)
 
 #EXTINF:-1 tvg-id="ppv-14268" tvg-name="Tampa Bay Lightning vs. Detroit Red Wings (28 November 2025 at 17:00)" tvg-epgid="14268" tvg-logo="https://api.ppvs.su/assets/thumb/00e945dd9685921df8431000461abd5a-thumbnail.jpg",Tampa Bay Lightning vs. Detroit Red Wings (28 November 2025 at 17:00)
+
+#EXTINF:-1 tvg-id="ppv-14019" tvg-name="Qatar Grand Prix - Qualifying (29 November 2025 at 18:00)" tvg-epgid="14019" tvg-logo="https://api.ppvs.su/assets/thumb/b9c007ff22ab6f8625188a61dcadf712-thumbnail.jpg",Qatar Grand Prix - Qualifying (29 November 2025 at 18:00)
 
 #EXTINF:-1 tvg-id="ppv-14018" tvg-name="Qatar Grand Prix - Sprint (29 November 2025 at 14:00)" tvg-epgid="14018" tvg-logo="https://api.ppvs.su/assets/thumb/c0de455d8f67fdf4ad189fff194075db-thumbnail.jpg",Qatar Grand Prix - Sprint (29 November 2025 at 14:00)
 
