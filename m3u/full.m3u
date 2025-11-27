@@ -37,6 +37,10 @@
 
 #EXTINF:-1 tvg-id="ppv-13967" tvg-name="Prime Minister's XI vs England XI (29 November 2025 at 03:40)" tvg-epgid="13967" tvg-logo="https://api.ppvs.su/assets/thumb/c683e7d7414bdffc52498fdc55a6d9c2-thumbnail.jpg",Prime Minister's XI vs England XI (29 November 2025 at 03:40)
 
+#EXTINF:-1 tvg-id="ppv-14031" tvg-name="Everton vs. Newcastle United (29 November 2025 at 17:30)" tvg-epgid="14031" tvg-logo="https://api.ppvs.su/assets/thumb/06b90c7be028bea3b17d9428cdb4eaf1-thumbnail.jpg",Everton vs. Newcastle United (29 November 2025 at 17:30)
+
+#EXTINF:-1 tvg-id="ppv-14051" tvg-name="Leverkusen vs. Dortmund (29 November 2025 at 17:30)" tvg-epgid="14051" tvg-logo="https://api.ppvs.su/assets/thumb/812137bd71af9b691c616f5ec3077fb7-thumbnail.jpg",Leverkusen vs. Dortmund (29 November 2025 at 17:30)
+
 #EXTINF:-1 tvg-id="ppv-14112" tvg-name="Juventus vs. Cagliari (29 November 2025 at 17:00)" tvg-epgid="14112" tvg-logo="https://api.ppvs.su/assets/thumb/e1b4c81c443ec470f685fe6e743c1a0f-thumbnail.jpg",Juventus vs. Cagliari (29 November 2025 at 17:00)
 
 #EXTINF:-1 tvg-id="ppv-14120" tvg-name="AS Monaco vs. PSG (29 November 2025 at 16:00)" tvg-epgid="14120" tvg-logo="https://api.ppvs.su/assets/thumb/e162f021800b1888fd57b239b8e49eb5-thumbnail.jpg",AS Monaco vs. PSG (29 November 2025 at 16:00)
