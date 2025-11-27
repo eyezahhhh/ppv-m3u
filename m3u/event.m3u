@@ -39,6 +39,12 @@
 
 #EXTINF:-1 tvg-id="ppv-13967" tvg-name="Prime Minister's XI vs England XI (29 November 2025 at 03:40)" tvg-epgid="13967" tvg-logo="https://api.ppvs.su/assets/thumb/c683e7d7414bdffc52498fdc55a6d9c2-thumbnail.jpg",Prime Minister's XI vs England XI (29 November 2025 at 03:40)
 
+#EXTINF:-1 tvg-id="ppv-14122" tvg-name="OM vs. Toulouse FC (29 November 2025 at 20:05)" tvg-epgid="14122" tvg-logo="https://api.ppvs.su/assets/thumb/4700fa6357f71b2df4d1699091118e91-thumbnail.jpg",OM vs. Toulouse FC (29 November 2025 at 20:05)
+
+#EXTINF:-1 tvg-id="ppv-14035" tvg-name="Tottenham Hotspur vs. Fulham (29 November 2025 at 20:00)" tvg-epgid="14035" tvg-logo="https://api.ppvs.su/assets/thumb/e975867a8109f72dfc522c2e9cdce86c-thumbnail.jpg",Tottenham Hotspur vs. Fulham (29 November 2025 at 20:00)
+
+#EXTINF:-1 tvg-id="ppv-14113" tvg-name="Milan vs. Lazio (29 November 2025 at 19:45)" tvg-epgid="14113" tvg-logo="https://api.ppvs.su/assets/thumb/e11d6414013fb2f7deffff9a6d5628fe-thumbnail.jpg",Milan vs. Lazio (29 November 2025 at 19:45)
+
 #EXTINF:-1 tvg-id="ppv-14121" tvg-name="Paris FC vs. AJ Auxerre (29 November 2025 at 18:00)" tvg-epgid="14121" tvg-logo="https://api.ppvs.su/assets/thumb/5dea2507af3cb3dfac2f76281c516c8a-thumbnail.jpg",Paris FC vs. AJ Auxerre (29 November 2025 at 18:00)
 
 #EXTINF:-1 tvg-id="ppv-14031" tvg-name="Everton vs. Newcastle United (29 November 2025 at 17:30)" tvg-epgid="14031" tvg-logo="https://api.ppvs.su/assets/thumb/06b90c7be028bea3b17d9428cdb4eaf1-thumbnail.jpg",Everton vs. Newcastle United (29 November 2025 at 17:30)
@@ -108,42 +114,6 @@
 #EXTINF:-1 tvg-id="ppv-14107" tvg-name="Drita vs. Shkëndija (27 November 2025 at 20:00)" tvg-epgid="14107" tvg-logo="https://api.ppvs.su/assets/thumb/1a1b960c2e6b1f99fc0266566f5c232f-thumbnail.jpg",Drita vs. Shkëndija (27 November 2025 at 20:00)
 
 #EXTINF:-1 tvg-id="ppv-14108" tvg-name="Breiðablik vs. Samsunspor (27 November 2025 at 20:00)" tvg-epgid="14108" tvg-logo="https://api.ppvs.su/assets/thumb/46315f77f8bfc34d11a396790914ee38-thumbnail.jpg",Breiðablik vs. Samsunspor (27 November 2025 at 20:00)
-
-#EXTINF:-1 tvg-id="ppv-14073" tvg-name="Roma vs. Midtjylland (27 November 2025 at 17:45)" tvg-epgid="14073" tvg-logo="https://api.ppvs.su/assets/thumb/a4d0c4ccfce27de01da30f51df44fac4-thumbnail.jpg",Roma vs. Midtjylland (27 November 2025 at 17:45)
-
-#EXTINF:-1 tvg-id="ppv-14074" tvg-name="Porto vs. Nice (27 November 2025 at 17:45)" tvg-epgid="14074" tvg-logo="https://api.ppvs.su/assets/thumb/ba65b168a1e9922f9edfcecc73f7dc08-thumbnail.jpg",Porto vs. Nice (27 November 2025 at 17:45)
-
-#EXTINF:-1 tvg-id="ppv-14075" tvg-name="Feyenoord vs. Celtic (27 November 2025 at 17:45)" tvg-epgid="14075" tvg-logo="https://api.ppvs.su/assets/thumb/5ffbcde3ab2622cd15d871c7423a4e85-thumbnail.jpg",Feyenoord vs. Celtic (27 November 2025 at 17:45)
-
-#EXTINF:-1 tvg-id="ppv-14076" tvg-name="Lille vs. GNK Dinamo (27 November 2025 at 17:45)" tvg-epgid="14076" tvg-logo="https://api.ppvs.su/assets/thumb/99354569bdd5473544d45aabf618d47f-thumbnail.jpg",Lille vs. GNK Dinamo (27 November 2025 at 17:45)
-
-#EXTINF:-1 tvg-id="ppv-14077" tvg-name="Aston Villa vs. Young Boys (27 November 2025 at 17:45)" tvg-epgid="14077" tvg-logo="https://api.ppvs.su/assets/thumb/f29da0f1fda7770793e0a140411f2475-thumbnail.jpg",Aston Villa vs. Young Boys (27 November 2025 at 17:45)
-
-#EXTINF:-1 tvg-id="ppv-14078" tvg-name="Fenerbahçe vs. Ferencváros (27 November 2025 at 17:45)" tvg-epgid="14078" tvg-logo="https://api.ppvs.su/assets/thumb/87cc43eff36b4a06b6835f04f520f653-thumbnail.jpg",Fenerbahçe vs. Ferencváros (27 November 2025 at 17:45)
-
-#EXTINF:-1 tvg-id="ppv-14079" tvg-name="PAOK vs. Brann (27 November 2025 at 17:45)" tvg-epgid="14079" tvg-logo="https://api.ppvs.su/assets/thumb/695eb93a23621bc84f9c35b3060b3a5d-thumbnail.jpg",PAOK vs. Brann (27 November 2025 at 17:45)
-
-#EXTINF:-1 tvg-id="ppv-14080" tvg-name="Viktoria Plzeň vs. Freiburg (27 November 2025 at 17:45)" tvg-epgid="14080" tvg-logo="https://api.ppvs.su/assets/thumb/e3e126348ded5742c2fe7a9519ebd26a-thumbnail.jpg",Viktoria Plzeň vs. Freiburg (27 November 2025 at 17:45)
-
-#EXTINF:-1 tvg-id="ppv-14081" tvg-name="Ludogorets vs. Celta (27 November 2025 at 17:45)" tvg-epgid="14081" tvg-logo="https://api.ppvs.su/assets/thumb/d6a7928ef9ed612250357ea81f58a8cf-thumbnail.jpg",Ludogorets vs. Celta (27 November 2025 at 17:45)
-
-#EXTINF:-1 tvg-id="ppv-14091" tvg-name="AZ Alkmaar vs. Shelbourne (27 November 2025 at 17:45)" tvg-epgid="14091" tvg-logo="https://api.ppvs.su/assets/thumb/2ef5afa4dc44b663cf07bb167c9d2348-thumbnail.jpg",AZ Alkmaar vs. Shelbourne (27 November 2025 at 17:45)
-
-#EXTINF:-1 tvg-id="ppv-14092" tvg-name="S. Bratislava vs. Rayo Vallecano (27 November 2025 at 17:45)" tvg-epgid="14092" tvg-logo="https://api.ppvs.su/assets/thumb/edb782ccf9ddc8b2d918000e3889be6f-thumbnail.jpg",S. Bratislava vs. Rayo Vallecano (27 November 2025 at 17:45)
-
-#EXTINF:-1 tvg-id="ppv-14093" tvg-name="Lech Poznań vs. Lausanne-Sport (27 November 2025 at 17:45)" tvg-epgid="14093" tvg-logo="https://api.ppvs.su/assets/thumb/4e09e896cdf6a5d13b3736376b79db6d-thumbnail.jpg",Lech Poznań vs. Lausanne-Sport (27 November 2025 at 17:45)
-
-#EXTINF:-1 tvg-id="ppv-14094" tvg-name="Omonoia vs. Dynamo Kyiv (27 November 2025 at 17:45)" tvg-epgid="14094" tvg-logo="https://api.ppvs.su/assets/thumb/a11152648250a360b3827ab0814243c5-thumbnail.jpg",Omonoia vs. Dynamo Kyiv (27 November 2025 at 17:45)
-
-#EXTINF:-1 tvg-id="ppv-14095" tvg-name="Zrinjski vs. Häcken (27 November 2025 at 17:45)" tvg-epgid="14095" tvg-logo="https://api.ppvs.su/assets/thumb/1a76fa1076058b6a47884593138493b6-thumbnail.jpg",Zrinjski vs. Häcken (27 November 2025 at 17:45)
-
-#EXTINF:-1 tvg-id="ppv-14096" tvg-name="Sigma Olomouc vs. Celje (27 November 2025 at 17:45)" tvg-epgid="14096" tvg-logo="https://api.ppvs.su/assets/thumb/5e1605c90223f4394a58ab0a9a93d716-thumbnail.jpg",Sigma Olomouc vs. Celje (27 November 2025 at 17:45)
-
-#EXTINF:-1 tvg-id="ppv-14097" tvg-name="Raków vs. SK Rapid (27 November 2025 at 17:45)" tvg-epgid="14097" tvg-logo="https://api.ppvs.su/assets/thumb/6af0d08310f9bf3a142c8951d978ae62-thumbnail.jpg",Raków vs. SK Rapid (27 November 2025 at 17:45)
-
-#EXTINF:-1 tvg-id="ppv-14098" tvg-name="U. Craiova vs. Mainz (27 November 2025 at 17:45)" tvg-epgid="14098" tvg-logo="https://api.ppvs.su/assets/thumb/995fc14b827caea98a3de0be73498c43-thumbnail.jpg",U. Craiova vs. Mainz (27 November 2025 at 17:45)
-
-#EXTINF:-1 tvg-id="ppv-14099" tvg-name="Hamrun Spartans  vs. L. Red Imps (27 November 2025 at 17:45)" tvg-epgid="14099" tvg-logo="https://api.ppvs.su/assets/thumb/f00dc17e52657d466c447370d2a36ea0-thumbnail.jpg",Hamrun Spartans  vs. L. Red Imps (27 November 2025 at 17:45)
 
 #EXTINF:-1 tvg-id="ppv-14280" tvg-name="Nashville Predators vs. Chicago Blackhawks (29 November 2025 at 01:00)" tvg-epgid="14280" tvg-logo="https://api.ppvs.su/assets/thumb/3f522984337a84447971afc2925a4f2d-thumbnail.jpg",Nashville Predators vs. Chicago Blackhawks (29 November 2025 at 01:00)
 
