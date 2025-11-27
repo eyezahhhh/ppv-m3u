@@ -417,16 +417,16 @@ channel="ppv-14234"
 <icon src="https://api.ppvs.su/assets/thumb/d44f906cdbc9c0aa49ac30ed1fcb0f4f-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-14232">
-<display-name>Kansas Jayhawks vs. Tennessee Volunteers</display-name>
+<channel id="ppv-13967">
+<display-name>Prime Minister&apos;s XI vs England XI</display-name>
 </channel>
 <programme
-start="20251127000000 +0000"
-stop="20251127033000 +0000"
-channel="ppv-14232"
+start="20251129034000 +0000"
+stop="20251129134000 +0000"
+channel="ppv-13967"
 >
-<title lang="en">Kansas Jayhawks vs. Tennessee Volunteers</title>
-<sub-title>Basketball</sub-title>
+<title lang="en">Prime Minister&apos;s XI vs England XI</title>
+<sub-title>Cricket</sub-title>
 <video>
 <present>yes</present>
 <colour>yes</colour>
@@ -435,30 +435,8 @@ channel="ppv-14232"
 <present>yes</present>
 <stereo>stereo</stereo>
 </audio>
-<category>Basketball</category>
-<icon src="https://api.ppvs.su/assets/thumb/74aa5aa0eac456d88f079b28cab5a514-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-14233">
-<display-name>Tennessee Tech Golden Eagles vs. Kentucky Wildcats</display-name>
-</channel>
-<programme
-start="20251127000000 +0000"
-stop="20251127033000 +0000"
-channel="ppv-14233"
->
-<title lang="en">Tennessee Tech Golden Eagles vs. Kentucky Wildcats</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://api.ppvs.su/assets/thumb/e471046e5e923689edc6e05a631aa41e-thumbnail.jpg" />
+<category>Cricket</category>
+<icon src="https://api.ppvs.su/assets/thumb/c683e7d7414bdffc52498fdc55a6d9c2-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-14109">
