@@ -219,6 +219,116 @@ channel="ppv-14164"
 <icon src="https://api.ppvs.su/assets/thumb/0bb209db142e9a89f4ea787a22900b4b-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-14267">
+<display-name>Duke Blue Devils vs. Arkansas Razorbacks</display-name>
+</channel>
+<programme
+start="20251128010000 +0000"
+stop="20251128043000 +0000"
+channel="ppv-14267"
+>
+<title lang="en">Duke Blue Devils vs. Arkansas Razorbacks</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://api.ppvs.su/assets/thumb/2fa0ddd0d735d6d2071e9a76d1145126-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-14266">
+<display-name>BYU Cougars vs. Miami Hurricanes</display-name>
+</channel>
+<programme
+start="20251127220000 +0000"
+stop="20251128013000 +0000"
+channel="ppv-14266"
+>
+<title lang="en">BYU Cougars vs. Miami Hurricanes</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://api.ppvs.su/assets/thumb/6ada2ba9507bd9a2be4860259f672e58-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-14265">
+<display-name>North Carolina Tar Heels vs. Michigan State Spartans</display-name>
+</channel>
+<programme
+start="20251127213000 +0000"
+stop="20251128010000 +0000"
+channel="ppv-14265"
+>
+<title lang="en">North Carolina Tar Heels vs. Michigan State Spartans</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://api.ppvs.su/assets/thumb/f08b0742593dbf7d9593a3ff9e48a1b9-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-14264">
+<display-name>TCU Horned Frogs vs. Florida Gators</display-name>
+</channel>
+<programme
+start="20251127200000 +0000"
+stop="20251127233000 +0000"
+channel="ppv-14264"
+>
+<title lang="en">TCU Horned Frogs vs. Florida Gators</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://api.ppvs.su/assets/thumb/3e3ae7d9bd3afef2f2990917694c4db4-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-14263">
+<display-name>VCU Rams vs. Vanderbilt Commodores</display-name>
+</channel>
+<programme
+start="20251127170000 +0000"
+stop="20251127203000 +0000"
+channel="ppv-14263"
+>
+<title lang="en">VCU Rams vs. Vanderbilt Commodores</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://api.ppvs.su/assets/thumb/89d441b71809933302b7223a10415e42-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-13967">
 <display-name>Prime Minister&apos;s XI vs England XI</display-name>
 </channel>
@@ -239,6 +349,72 @@ channel="ppv-13967"
 </audio>
 <category>Cricket</category>
 <icon src="https://api.ppvs.su/assets/thumb/c683e7d7414bdffc52498fdc55a6d9c2-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-14028">
+<display-name>Brentford vs. Burnley</display-name>
+</channel>
+<programme
+start="20251129150000 +0000"
+stop="20251129173000 +0000"
+channel="ppv-14028"
+>
+<title lang="en">Brentford vs. Burnley</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/d63a054b4be4b55891b2ef31fdf3a5e7-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-14032">
+<display-name>Manchester City vs. Leeds United</display-name>
+</channel>
+<programme
+start="20251129150000 +0000"
+stop="20251129173000 +0000"
+channel="ppv-14032"
+>
+<title lang="en">Manchester City vs. Leeds United</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/d78b4345ac6732cc81b1e4e87f97ddf7-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-14034">
+<display-name>Sunderland vs. Bournemouth</display-name>
+</channel>
+<programme
+start="20251129150000 +0000"
+stop="20251129173000 +0000"
+channel="ppv-14034"
+>
+<title lang="en">Sunderland vs. Bournemouth</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/a75c05a8d1919d876c0f9e72f5310c35-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-14047">
