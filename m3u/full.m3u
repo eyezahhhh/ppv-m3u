@@ -47,8 +47,6 @@
 
 #EXTINF:-1 tvg-id="ppv-14233" tvg-name="Tennessee Tech Golden Eagles vs. Kentucky Wildcats (27 November 2025 at 00:00)" tvg-epgid="14233" tvg-logo="https://api.ppvs.su/assets/thumb/e471046e5e923689edc6e05a631aa41e-thumbnail.jpg",Tennessee Tech Golden Eagles vs. Kentucky Wildcats (27 November 2025 at 00:00)
 
-#EXTINF:-1 tvg-id="ppv-14202" tvg-name="Detroit Pistons vs. Boston Celtics (East Group B) (26 November 2025 at 22:00)" tvg-epgid="14202" tvg-logo="https://api.ppvs.su/assets/thumb/a39725f5e21195dd6e8435ec69d2108a-thumbnail.jpg",Detroit Pistons vs. Boston Celtics (East Group B) (26 November 2025 at 22:00)
-
 #EXTINF:-1 tvg-id="ppv-14109" tvg-name="Como vs. Sassuolo (28 November 2025 at 19:45)" tvg-epgid="14109" tvg-logo="https://api.ppvs.su/assets/thumb/55401ac2aad0825bddd57a9aeb1df35a-thumbnail.jpg",Como vs. Sassuolo (28 November 2025 at 19:45)
 
 #EXTINF:-1 tvg-id="ppv-14119" tvg-name="FC Metz vs. Rennes (28 November 2025 at 19:45)" tvg-epgid="14119" tvg-logo="https://api.ppvs.su/assets/thumb/30820a39dbdc363ae35845aeea09919b-thumbnail.jpg",FC Metz vs. Rennes (28 November 2025 at 19:45)
@@ -160,6 +158,8 @@
 #EXTINF:-1 tvg-id="ppv-14017" tvg-name="Qatar Grand Prix - Sprint Q (28 November 2025 at 17:30)" tvg-epgid="14017" tvg-logo="https://api.ppvs.su/assets/thumb/a2f76cc9c1d88fdcd9ba1e36510ce4af-thumbnail.jpg",Qatar Grand Prix - Sprint Q (28 November 2025 at 17:30)
 
 #EXTINF:-1 tvg-id="ppv-14016" tvg-name="Qatar Grand Prix - FP1 (28 November 2025 at 13:30)" tvg-epgid="14016" tvg-logo="https://api.ppvs.su/assets/thumb/44ed6d2c095fdebeee9d33c803225830-thumbnail.jpg",Qatar Grand Prix - FP1 (28 November 2025 at 13:30)
+
+#EXTINF:-1 tvg-id="ppv-14025" tvg-name="WWE: Friday Night Smackdown (29 November 2025 at 01:00)" tvg-epgid="14025" tvg-logo="https://api.ppvs.su/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg",WWE: Friday Night Smackdown (29 November 2025 at 01:00)
 
 #EXTINF:-1 tvg-id="ppv-14024" tvg-name="TNA: Impact (28 November 2025 at 01:00)" tvg-epgid="14024" tvg-logo="https://api.ppvs.su/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg",TNA: Impact (28 November 2025 at 01:00)
 
