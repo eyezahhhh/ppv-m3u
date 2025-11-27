@@ -373,28 +373,6 @@ channel="ppv-14235"
 <icon src="https://api.ppvs.su/assets/thumb/7b7a1abb89d176044eb53752cc5d367e-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-14234">
-<display-name>St. John&apos;s Red Storm vs. Auburn Tigers</display-name>
-</channel>
-<programme
-start="20251127010000 +0000"
-stop="20251127043000 +0000"
-channel="ppv-14234"
->
-<title lang="en">St. John&apos;s Red Storm vs. Auburn Tigers</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://api.ppvs.su/assets/thumb/d44f906cdbc9c0aa49ac30ed1fcb0f4f-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-13967">
 <display-name>Prime Minister&apos;s XI vs England XI</display-name>
 </channel>
@@ -1383,28 +1361,6 @@ channel="ppv-14223"
 </audio>
 <category>Ice Hockey</category>
 <icon src="https://api.ppvs.su/assets/thumb/25103ae8ae51c986702e6d9212c29c7d-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-14222">
-<display-name>Minnesota Wild vs. Chicago Blackhawks</display-name>
-</channel>
-<programme
-start="20251127013000 +0000"
-stop="20251127043000 +0000"
-channel="ppv-14222"
->
-<title lang="en">Minnesota Wild vs. Chicago Blackhawks</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://api.ppvs.su/assets/thumb/21745d96647b324ac0957067c983f483-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-14017">
