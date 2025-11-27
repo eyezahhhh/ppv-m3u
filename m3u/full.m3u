@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ppv-14249" tvg-name="Oregon Ducks vs. Washington Huskies (29 November 2025 at 20:30)" tvg-epgid="14249" tvg-logo="https://api.ppvs.su/assets/thumb/8b8c9968597e3854f95077f51353d9dd-thumbnail.jpg",Oregon Ducks vs. Washington Huskies (29 November 2025 at 20:30)
+
+#EXTINF:-1 tvg-id="ppv-14250" tvg-name="LSU Tigers vs. Oklahoma Sooners (29 November 2025 at 20:30)" tvg-epgid="14250" tvg-logo="https://api.ppvs.su/assets/thumb/ea15cd170343202bd2fa8875a6912977-thumbnail.jpg",LSU Tigers vs. Oklahoma Sooners (29 November 2025 at 20:30)
+
+#EXTINF:-1 tvg-id="ppv-14251" tvg-name="Vanderbilt Commodores vs. Tennessee Volunteers (29 November 2025 at 20:30)" tvg-epgid="14251" tvg-logo="https://api.ppvs.su/assets/thumb/f04b56ec34d5537c4df137a0885ac52a-thumbnail.jpg",Vanderbilt Commodores vs. Tennessee Volunteers (29 November 2025 at 20:30)
+
 #EXTINF:-1 tvg-id="ppv-14248" tvg-name="UCF Knights vs. BYU Cougars (29 November 2025 at 18:00)" tvg-epgid="14248" tvg-logo="https://api.ppvs.su/assets/thumb/f5d795dfc56f708ddc12ac8dd61e61c7-thumbnail.jpg",UCF Knights vs. BYU Cougars (29 November 2025 at 18:00)
 
 #EXTINF:-1 tvg-id="ppv-14245" tvg-name="Ohio State Buckeyes vs. Michigan Wolverines (29 November 2025 at 17:00)" tvg-epgid="14245" tvg-logo="https://api.ppvs.su/assets/thumb/8c83ea5c2c4765d68dd699010a5f5fef-thumbnail.jpg",Ohio State Buckeyes vs. Michigan Wolverines (29 November 2025 at 17:00)
@@ -34,8 +40,6 @@
 #EXTINF:-1 tvg-id="ppv-14265" tvg-name="North Carolina Tar Heels vs. Michigan State Spartans (27 November 2025 at 21:30)" tvg-epgid="14265" tvg-logo="https://api.ppvs.su/assets/thumb/f08b0742593dbf7d9593a3ff9e48a1b9-thumbnail.jpg",North Carolina Tar Heels vs. Michigan State Spartans (27 November 2025 at 21:30)
 
 #EXTINF:-1 tvg-id="ppv-14264" tvg-name="TCU Horned Frogs vs. Florida Gators (27 November 2025 at 20:00)" tvg-epgid="14264" tvg-logo="https://api.ppvs.su/assets/thumb/3e3ae7d9bd3afef2f2990917694c4db4-thumbnail.jpg",TCU Horned Frogs vs. Florida Gators (27 November 2025 at 20:00)
-
-#EXTINF:-1 tvg-id="ppv-14263" tvg-name="VCU Rams vs. Vanderbilt Commodores (27 November 2025 at 17:00)" tvg-epgid="14263" tvg-logo="https://api.ppvs.su/assets/thumb/89d441b71809933302b7223a10415e42-thumbnail.jpg",VCU Rams vs. Vanderbilt Commodores (27 November 2025 at 17:00)
 
 #EXTINF:-1 tvg-id="ppv-13967" tvg-name="Prime Minister's XI vs England XI (29 November 2025 at 03:40)" tvg-epgid="13967" tvg-logo="https://api.ppvs.su/assets/thumb/c683e7d7414bdffc52498fdc55a6d9c2-thumbnail.jpg",Prime Minister's XI vs England XI (29 November 2025 at 03:40)
 
