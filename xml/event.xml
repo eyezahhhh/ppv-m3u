@@ -351,28 +351,6 @@ channel="ppv-14165"
 <icon src="https://api.ppvs.su/assets/thumb/9ccdd52f6ef55678ec64bf62e415313a-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-14164">
-<display-name>Green Bay Packers vs. Detroit Lions</display-name>
-</channel>
-<programme
-start="20251127180000 +0000"
-stop="20251127213000 +0000"
-channel="ppv-14164"
->
-<title lang="en">Green Bay Packers vs. Detroit Lions</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/0bb209db142e9a89f4ea787a22900b4b-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-14267">
 <display-name>Duke Blue Devils vs. Arkansas Razorbacks</display-name>
 </channel>
