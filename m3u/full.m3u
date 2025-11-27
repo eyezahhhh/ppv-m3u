@@ -31,6 +31,8 @@
 
 #EXTINF:-1 tvg-id="ppv-13967" tvg-name="Prime Minister's XI vs England XI (29 November 2025 at 03:40)" tvg-epgid="13967" tvg-logo="https://api.ppvs.su/assets/thumb/c683e7d7414bdffc52498fdc55a6d9c2-thumbnail.jpg",Prime Minister's XI vs England XI (29 November 2025 at 03:40)
 
+#EXTINF:-1 tvg-id="ppv-14120" tvg-name="AS Monaco vs. PSG (29 November 2025 at 16:00)" tvg-epgid="14120" tvg-logo="https://api.ppvs.su/assets/thumb/e162f021800b1888fd57b239b8e49eb5-thumbnail.jpg",AS Monaco vs. PSG (29 November 2025 at 16:00)
+
 #EXTINF:-1 tvg-id="ppv-14028" tvg-name="Brentford vs. Burnley (29 November 2025 at 15:00)" tvg-epgid="14028" tvg-logo="https://api.ppvs.su/assets/thumb/d63a054b4be4b55891b2ef31fdf3a5e7-thumbnail.jpg",Brentford vs. Burnley (29 November 2025 at 15:00)
 
 #EXTINF:-1 tvg-id="ppv-14032" tvg-name="Manchester City vs. Leeds United (29 November 2025 at 15:00)" tvg-epgid="14032" tvg-logo="https://api.ppvs.su/assets/thumb/d78b4345ac6732cc81b1e4e87f97ddf7-thumbnail.jpg",Manchester City vs. Leeds United (29 November 2025 at 15:00)
