@@ -61,6 +61,8 @@
 
 #EXTINF:-1 tvg-id="ppv-14290" tvg-name="Milwaukee Bucks vs. New York Knicks (East Group C) (29 November 2025 at 00:30)" tvg-epgid="14290" tvg-logo="https://api.ppvs.su/assets/thumb/3c73618c3841367e757f9c0b6b9de9ae-thumbnail.jpg",Milwaukee Bucks vs. New York Knicks (East Group C) (29 November 2025 at 00:30)
 
+#EXTINF:-1 tvg-id="ppv-14116" tvg-name="Atalanta vs. Fiorentina (30 November 2025 at 17:00)" tvg-epgid="14116" tvg-logo="https://api.ppvs.su/assets/thumb/754bcd30717fad739088122c171af917-thumbnail.jpg",Atalanta vs. Fiorentina (30 November 2025 at 17:00)
+
 #EXTINF:-1 tvg-id="ppv-14029" tvg-name="Chelsea vs. Arsenal (30 November 2025 at 16:30)" tvg-epgid="14029" tvg-logo="https://api.ppvs.su/assets/thumb/d706e1e97f8d2fe4dca33452797ee724-thumbnail.jpg",Chelsea vs. Arsenal (30 November 2025 at 16:30)
 
 #EXTINF:-1 tvg-id="ppv-14053" tvg-name="Frankfurt vs. Wolfsburg (30 November 2025 at 16:30)" tvg-epgid="14053" tvg-logo="https://api.ppvs.su/assets/thumb/eec7b16d38cbf032206df4641fe12555-thumbnail.jpg",Frankfurt vs. Wolfsburg (30 November 2025 at 16:30)
@@ -145,11 +147,21 @@
 
 #EXTINF:-1 tvg-id="ppv-14281" tvg-name="Utah Mammoth vs. Dallas Stars (29 November 2025 at 01:00)" tvg-epgid="14281" tvg-logo="https://api.ppvs.su/assets/thumb/914282270b63a3053729273076a00a3a-thumbnail.jpg",Utah Mammoth vs. Dallas Stars (29 November 2025 at 01:00)
 
+#EXTINF:-1 tvg-id="ppv-14320" tvg-name="Nashville Predators vs. Chicago Blackhawks (29 November 2025 at 01:00)" tvg-epgid="14320" tvg-logo="https://api.ppvs.su/assets/thumb/3f522984337a84447971afc2925a4f2d-thumbnail.jpg",Nashville Predators vs. Chicago Blackhawks (29 November 2025 at 01:00)
+
+#EXTINF:-1 tvg-id="ppv-14321" tvg-name="Utah Mammoth vs. Dallas Stars (29 November 2025 at 01:00)" tvg-epgid="14321" tvg-logo="https://api.ppvs.su/assets/thumb/914282270b63a3053729273076a00a3a-thumbnail.jpg",Utah Mammoth vs. Dallas Stars (29 November 2025 at 01:00)
+
 #EXTINF:-1 tvg-id="ppv-14279" tvg-name="Pittsburgh Penguins vs. Columbus Blue Jackets (29 November 2025 at 00:00)" tvg-epgid="14279" tvg-logo="https://api.ppvs.su/assets/thumb/80ff4ea0832a1e95e569518497111a8e-thumbnail.jpg",Pittsburgh Penguins vs. Columbus Blue Jackets (29 November 2025 at 00:00)
+
+#EXTINF:-1 tvg-id="ppv-14319" tvg-name="Pittsburgh Penguins vs. Columbus Blue Jackets (29 November 2025 at 00:00)" tvg-epgid="14319" tvg-logo="https://api.ppvs.su/assets/thumb/80ff4ea0832a1e95e569518497111a8e-thumbnail.jpg",Pittsburgh Penguins vs. Columbus Blue Jackets (29 November 2025 at 00:00)
 
 #EXTINF:-1 tvg-id="ppv-14277" tvg-name="Toronto Maple Leafs vs. Washington Capitals (28 November 2025 at 22:00)" tvg-epgid="14277" tvg-logo="https://api.ppvs.su/assets/thumb/fd4fb01715acf07af621396161eb4eb3-thumbnail.jpg",Toronto Maple Leafs vs. Washington Capitals (28 November 2025 at 22:00)
 
 #EXTINF:-1 tvg-id="ppv-14278" tvg-name="Winnipeg Jets vs. Carolina Hurricanes (28 November 2025 at 22:00)" tvg-epgid="14278" tvg-logo="https://api.ppvs.su/assets/thumb/519658ef5aeb63ee04db910f273e90af-thumbnail.jpg",Winnipeg Jets vs. Carolina Hurricanes (28 November 2025 at 22:00)
+
+#EXTINF:-1 tvg-id="ppv-14317" tvg-name="Toronto Maple Leafs vs. Washington Capitals (28 November 2025 at 22:00)" tvg-epgid="14317" tvg-logo="https://api.ppvs.su/assets/thumb/fd4fb01715acf07af621396161eb4eb3-thumbnail.jpg",Toronto Maple Leafs vs. Washington Capitals (28 November 2025 at 22:00)
+
+#EXTINF:-1 tvg-id="ppv-14318" tvg-name="Winnipeg Jets vs. Carolina Hurricanes (28 November 2025 at 22:00)" tvg-epgid="14318" tvg-logo="https://api.ppvs.su/assets/thumb/519658ef5aeb63ee04db910f273e90af-thumbnail.jpg",Winnipeg Jets vs. Carolina Hurricanes (28 November 2025 at 22:00)
 
 #EXTINF:-1 tvg-id="ppv-14270" tvg-name="New Jersey Devils vs. Buffalo Sabres (28 November 2025 at 21:00)" tvg-epgid="14270" tvg-logo="https://api.ppvs.su/assets/thumb/968928eaa718c8278b1cc49ea8242410-thumbnail.jpg",New Jersey Devils vs. Buffalo Sabres (28 November 2025 at 21:00)
 
@@ -165,9 +177,29 @@
 
 #EXTINF:-1 tvg-id="ppv-14276" tvg-name="Vancouver Canucks vs. San Jose Sharks (28 November 2025 at 21:00)" tvg-epgid="14276" tvg-logo="https://api.ppvs.su/assets/thumb/9c1421377bd5129a53a74204beff89c1-thumbnail.jpg",Vancouver Canucks vs. San Jose Sharks (28 November 2025 at 21:00)
 
+#EXTINF:-1 tvg-id="ppv-14310" tvg-name="New Jersey Devils vs. Buffalo Sabres (28 November 2025 at 21:00)" tvg-epgid="14310" tvg-logo="https://api.ppvs.su/assets/thumb/968928eaa718c8278b1cc49ea8242410-thumbnail.jpg",New Jersey Devils vs. Buffalo Sabres (28 November 2025 at 21:00)
+
+#EXTINF:-1 tvg-id="ppv-14311" tvg-name="Calgary Flames vs. Florida Panthers (28 November 2025 at 21:00)" tvg-epgid="14311" tvg-logo="https://api.ppvs.su/assets/thumb/445c8947377002486219094f77f36291-thumbnail.jpg",Calgary Flames vs. Florida Panthers (28 November 2025 at 21:00)
+
+#EXTINF:-1 tvg-id="ppv-14312" tvg-name="Philadelphia Flyers vs. New York Islanders (28 November 2025 at 21:00)" tvg-epgid="14312" tvg-logo="https://api.ppvs.su/assets/thumb/d49b81d7f08a70df321946fd54096a77-thumbnail.jpg",Philadelphia Flyers vs. New York Islanders (28 November 2025 at 21:00)
+
+#EXTINF:-1 tvg-id="ppv-14313" tvg-name="Ottawa Senators vs. St. Louis Blues (28 November 2025 at 21:00)" tvg-epgid="14313" tvg-logo="https://api.ppvs.su/assets/thumb/d879aac1420a07d9474ba4b128e889e5-thumbnail.jpg",Ottawa Senators vs. St. Louis Blues (28 November 2025 at 21:00)
+
+#EXTINF:-1 tvg-id="ppv-14314" tvg-name="Montreal Canadiens vs. Vegas Golden Knights (28 November 2025 at 21:00)" tvg-epgid="14314" tvg-logo="https://api.ppvs.su/assets/thumb/8a346917620389d8d3a800a4cbadd3c3-thumbnail.jpg",Montreal Canadiens vs. Vegas Golden Knights (28 November 2025 at 21:00)
+
+#EXTINF:-1 tvg-id="ppv-14315" tvg-name="Los Angeles Kings vs. Anaheim Ducks (28 November 2025 at 21:00)" tvg-epgid="14315" tvg-logo="https://api.ppvs.su/assets/thumb/d967c868c3796e940b1a3eba5ec60e0d-thumbnail.jpg",Los Angeles Kings vs. Anaheim Ducks (28 November 2025 at 21:00)
+
+#EXTINF:-1 tvg-id="ppv-14316" tvg-name="Vancouver Canucks vs. San Jose Sharks (28 November 2025 at 21:00)" tvg-epgid="14316" tvg-logo="https://api.ppvs.su/assets/thumb/9c1421377bd5129a53a74204beff89c1-thumbnail.jpg",Vancouver Canucks vs. San Jose Sharks (28 November 2025 at 21:00)
+
+#EXTINF:-1 tvg-id="ppv-14309" tvg-name="Colorado Avalanche vs. Minnesota Wild (28 November 2025 at 20:30)" tvg-epgid="14309" tvg-logo="https://api.ppvs.su/assets/thumb/4c30b7f978a3c460cb4f777918ff0db5-thumbnail.jpg",Colorado Avalanche vs. Minnesota Wild (28 November 2025 at 20:30)
+
 #EXTINF:-1 tvg-id="ppv-14269" tvg-name="New York Rangers vs. Boston Bruins (28 November 2025 at 18:00)" tvg-epgid="14269" tvg-logo="https://api.ppvs.su/assets/thumb/36e10c488b59f869c4897eed68b5bfc6-thumbnail.jpg",New York Rangers vs. Boston Bruins (28 November 2025 at 18:00)
 
+#EXTINF:-1 tvg-id="ppv-14308" tvg-name="New York Rangers vs. Boston Bruins (28 November 2025 at 18:00)" tvg-epgid="14308" tvg-logo="https://api.ppvs.su/assets/thumb/36e10c488b59f869c4897eed68b5bfc6-thumbnail.jpg",New York Rangers vs. Boston Bruins (28 November 2025 at 18:00)
+
 #EXTINF:-1 tvg-id="ppv-14268" tvg-name="Tampa Bay Lightning vs. Detroit Red Wings (28 November 2025 at 17:00)" tvg-epgid="14268" tvg-logo="https://api.ppvs.su/assets/thumb/00e945dd9685921df8431000461abd5a-thumbnail.jpg",Tampa Bay Lightning vs. Detroit Red Wings (28 November 2025 at 17:00)
+
+#EXTINF:-1 tvg-id="ppv-14307" tvg-name="Tampa Bay Lightning vs. Detroit Red Wings (28 November 2025 at 17:00)" tvg-epgid="14307" tvg-logo="https://api.ppvs.su/assets/thumb/00e945dd9685921df8431000461abd5a-thumbnail.jpg",Tampa Bay Lightning vs. Detroit Red Wings (28 November 2025 at 17:00)
 
 #EXTINF:-1 tvg-id="ppv-14020" tvg-name="Qatar Grand Prix - Race (30 November 2025 at 16:00)" tvg-epgid="14020" tvg-logo="https://api.ppvs.su/assets/thumb/25fcfc6e44ab81e3872f319f0bad17d5-thumbnail.jpg",Qatar Grand Prix - Race (30 November 2025 at 16:00)
 
