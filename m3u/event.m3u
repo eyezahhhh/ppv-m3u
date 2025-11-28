@@ -85,6 +85,12 @@
 
 #EXTINF:-1 tvg-id="ppv-14322" tvg-name="Eastern Illinois Panthers vs. Purdue Boilermakers (28 November 2025 at 17:00)" tvg-epgid="14322" tvg-logo="https://api.ppvs.su/assets/thumb/f546d7a5500674b2b564464b70f0625f-thumbnail.jpg",Eastern Illinois Panthers vs. Purdue Boilermakers (28 November 2025 at 17:00)
 
+#EXTINF:-1 tvg-id="ppv-14304" tvg-name="Girona FC vs. Real Madrid (30 November 2025 at 20:00)" tvg-epgid="14304" tvg-logo="https://api.ppvs.su/assets/thumb/07b6052b9c0e7c323c46cad950fd27bd-thumbnail.jpg",Girona FC vs. Real Madrid (30 November 2025 at 20:00)
+
+#EXTINF:-1 tvg-id="ppv-14117" tvg-name="Roma vs. Napoli (30 November 2025 at 19:45)" tvg-epgid="14117" tvg-logo="https://api.ppvs.su/assets/thumb/5c67947a03fbfaac9b424f5b115b20d3-thumbnail.jpg",Roma vs. Napoli (30 November 2025 at 19:45)
+
+#EXTINF:-1 tvg-id="ppv-14127" tvg-name="OL vs. FC Nantes (30 November 2025 at 19:45)" tvg-epgid="14127" tvg-logo="https://api.ppvs.su/assets/thumb/1df2cc5e91d86f622c1df186d25f804e-thumbnail.jpg",OL vs. FC Nantes (30 November 2025 at 19:45)
+
 #EXTINF:-1 tvg-id="ppv-14054" tvg-name="Freiburg vs. Mainz (30 November 2025 at 18:30)" tvg-epgid="14054" tvg-logo="https://api.ppvs.su/assets/thumb/0fb3be3aa77a99874386128dbe28a5fb-thumbnail.jpg",Freiburg vs. Mainz (30 November 2025 at 18:30)
 
 #EXTINF:-1 tvg-id="ppv-14303" tvg-name="Celta vs. RCD Espanyol de Barcelona (30 November 2025 at 17:30)" tvg-epgid="14303" tvg-logo="https://api.ppvs.su/assets/thumb/c0ca68f189daccb8074e9a2aa9ce6d36-thumbnail.jpg",Celta vs. RCD Espanyol de Barcelona (30 November 2025 at 17:30)
@@ -198,8 +204,6 @@
 #EXTINF:-1 tvg-id="ppv-14309" tvg-name="Colorado Avalanche vs. Minnesota Wild (28 November 2025 at 20:30)" tvg-epgid="14309" tvg-logo="https://api.ppvs.su/assets/thumb/4c30b7f978a3c460cb4f777918ff0db5-thumbnail.jpg",Colorado Avalanche vs. Minnesota Wild (28 November 2025 at 20:30)
 
 #EXTINF:-1 tvg-id="ppv-14269" tvg-name="New York Rangers vs. Boston Bruins (28 November 2025 at 18:00)" tvg-epgid="14269" tvg-logo="https://api.ppvs.su/assets/thumb/36e10c488b59f869c4897eed68b5bfc6-thumbnail.jpg",New York Rangers vs. Boston Bruins (28 November 2025 at 18:00)
-
-#EXTINF:-1 tvg-id="ppv-14268" tvg-name="Tampa Bay Lightning vs. Detroit Red Wings (28 November 2025 at 17:00)" tvg-epgid="14268" tvg-logo="https://api.ppvs.su/assets/thumb/00e945dd9685921df8431000461abd5a-thumbnail.jpg",Tampa Bay Lightning vs. Detroit Red Wings (28 November 2025 at 17:00)
 
 #EXTINF:-1 tvg-id="ppv-14020" tvg-name="Qatar Grand Prix - Race (30 November 2025 at 16:00)" tvg-epgid="14020" tvg-logo="https://api.ppvs.su/assets/thumb/25fcfc6e44ab81e3872f319f0bad17d5-thumbnail.jpg",Qatar Grand Prix - Race (30 November 2025 at 16:00)
 
