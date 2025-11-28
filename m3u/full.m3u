@@ -67,6 +67,8 @@
 
 #EXTINF:-1 tvg-id="ppv-14035" tvg-name="Tottenham Hotspur vs. Fulham (29 November 2025 at 20:00)" tvg-epgid="14035" tvg-logo="https://api.ppvs.su/assets/thumb/e975867a8109f72dfc522c2e9cdce86c-thumbnail.jpg",Tottenham Hotspur vs. Fulham (29 November 2025 at 20:00)
 
+#EXTINF:-1 tvg-id="ppv-14300" tvg-name="Atlético de Madrid vs. Real Oviedo (29 November 2025 at 20:00)" tvg-epgid="14300" tvg-logo="https://api.ppvs.su/assets/thumb/68e89148f5383518af4d8f8dc769c5c4-thumbnail.jpg",Atlético de Madrid vs. Real Oviedo (29 November 2025 at 20:00)
+
 #EXTINF:-1 tvg-id="ppv-14113" tvg-name="Milan vs. Lazio (29 November 2025 at 19:45)" tvg-epgid="14113" tvg-logo="https://api.ppvs.su/assets/thumb/e11d6414013fb2f7deffff9a6d5628fe-thumbnail.jpg",Milan vs. Lazio (29 November 2025 at 19:45)
 
 #EXTINF:-1 tvg-id="ppv-14121" tvg-name="Paris FC vs. AJ Auxerre (29 November 2025 at 18:00)" tvg-epgid="14121" tvg-logo="https://api.ppvs.su/assets/thumb/5dea2507af3cb3dfac2f76281c516c8a-thumbnail.jpg",Paris FC vs. AJ Auxerre (29 November 2025 at 18:00)
@@ -75,9 +77,13 @@
 
 #EXTINF:-1 tvg-id="ppv-14051" tvg-name="Leverkusen vs. Dortmund (29 November 2025 at 17:30)" tvg-epgid="14051" tvg-logo="https://api.ppvs.su/assets/thumb/812137bd71af9b691c616f5ec3077fb7-thumbnail.jpg",Leverkusen vs. Dortmund (29 November 2025 at 17:30)
 
+#EXTINF:-1 tvg-id="ppv-14299" tvg-name="Levante UD vs. Athletic Club (29 November 2025 at 17:30)" tvg-epgid="14299" tvg-logo="https://api.ppvs.su/assets/thumb/5a54a4b329385b8b72e158c90cffbcde-thumbnail.jpg",Levante UD vs. Athletic Club (29 November 2025 at 17:30)
+
 #EXTINF:-1 tvg-id="ppv-14112" tvg-name="Juventus vs. Cagliari (29 November 2025 at 17:00)" tvg-epgid="14112" tvg-logo="https://api.ppvs.su/assets/thumb/e1b4c81c443ec470f685fe6e743c1a0f-thumbnail.jpg",Juventus vs. Cagliari (29 November 2025 at 17:00)
 
 #EXTINF:-1 tvg-id="ppv-14120" tvg-name="AS Monaco vs. PSG (29 November 2025 at 16:00)" tvg-epgid="14120" tvg-logo="https://api.ppvs.su/assets/thumb/e162f021800b1888fd57b239b8e49eb5-thumbnail.jpg",AS Monaco vs. PSG (29 November 2025 at 16:00)
+
+#EXTINF:-1 tvg-id="ppv-14298" tvg-name="FC Barcelona vs. Deportivo Alavés (29 November 2025 at 15:15)" tvg-epgid="14298" tvg-logo="https://api.ppvs.su/assets/thumb/07bb654b5028efcb4ca3117292ab1bff-thumbnail.jpg",FC Barcelona vs. Deportivo Alavés (29 November 2025 at 15:15)
 
 #EXTINF:-1 tvg-id="ppv-14028" tvg-name="Brentford vs. Burnley (29 November 2025 at 15:00)" tvg-epgid="14028" tvg-logo="https://api.ppvs.su/assets/thumb/d63a054b4be4b55891b2ef31fdf3a5e7-thumbnail.jpg",Brentford vs. Burnley (29 November 2025 at 15:00)
 
@@ -96,6 +102,10 @@
 #EXTINF:-1 tvg-id="ppv-14110" tvg-name="Genoa vs. Hellas Verona (29 November 2025 at 14:00)" tvg-epgid="14110" tvg-logo="https://api.ppvs.su/assets/thumb/6519e5dc8efdff99e03b0e10f6b1a9ef-thumbnail.jpg",Genoa vs. Hellas Verona (29 November 2025 at 14:00)
 
 #EXTINF:-1 tvg-id="ppv-14111" tvg-name="Parma vs. Udinese (29 November 2025 at 14:00)" tvg-epgid="14111" tvg-logo="https://api.ppvs.su/assets/thumb/1d485895fae1410dc708a9e85102af16-thumbnail.jpg",Parma vs. Udinese (29 November 2025 at 14:00)
+
+#EXTINF:-1 tvg-id="ppv-14297" tvg-name="RCD Mallorca vs. CA Osasuna (29 November 2025 at 13:00)" tvg-epgid="14297" tvg-logo="https://api.ppvs.su/assets/thumb/78753432b4a43bdb78d99c6a00e322c9-thumbnail.jpg",RCD Mallorca vs. CA Osasuna (29 November 2025 at 13:00)
+
+#EXTINF:-1 tvg-id="ppv-14296" tvg-name="Getafe CF vs. Elche CF (28 November 2025 at 20:00)" tvg-epgid="14296" tvg-logo="https://api.ppvs.su/assets/thumb/8b26b67f5b87dd59c65be1d8fc982c45-thumbnail.jpg",Getafe CF vs. Elche CF (28 November 2025 at 20:00)
 
 #EXTINF:-1 tvg-id="ppv-14109" tvg-name="Como vs. Sassuolo (28 November 2025 at 19:45)" tvg-epgid="14109" tvg-logo="https://api.ppvs.su/assets/thumb/55401ac2aad0825bddd57a9aeb1df35a-thumbnail.jpg",Como vs. Sassuolo (28 November 2025 at 19:45)
 
