@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ppv-14176" tvg-name="Buffalo Bills vs. Pittsburgh Steelers (30 November 2025 at 21:25)" tvg-epgid="14176" tvg-logo="https://api.ppvs.su/assets/thumb/c5415e2258c8dbdf9552e469c768b1cd-thumbnail.jpg",Buffalo Bills vs. Pittsburgh Steelers (30 November 2025 at 21:25)
+
+#EXTINF:-1 tvg-id="ppv-14177" tvg-name="Las Vegas Raiders vs. Los Angeles Chargers (30 November 2025 at 21:25)" tvg-epgid="14177" tvg-logo="https://api.ppvs.su/assets/thumb/2b762796825206742229bd6f2daabe6e-thumbnail.jpg",Las Vegas Raiders vs. Los Angeles Chargers (30 November 2025 at 21:25)
+
+#EXTINF:-1 tvg-id="ppv-14175" tvg-name="Minnesota Vikings vs. Seattle Seahawks (30 November 2025 at 21:05)" tvg-epgid="14175" tvg-logo="https://api.ppvs.su/assets/thumb/3f9077d0fff269b2ea78d76846737053-thumbnail.jpg",Minnesota Vikings vs. Seattle Seahawks (30 November 2025 at 21:05)
+
 #EXTINF:-1 tvg-id="ppv-14168" tvg-name="San Francisco 49ers vs. Cleveland Browns (30 November 2025 at 18:00)" tvg-epgid="14168" tvg-logo="https://api.ppvs.su/assets/thumb/f298e56333ec62add67554ea34214c8b-thumbnail.jpg",San Francisco 49ers vs. Cleveland Browns (30 November 2025 at 18:00)
 
 #EXTINF:-1 tvg-id="ppv-14169" tvg-name="Jacksonville Jaguars vs. Tennessee Titans (30 November 2025 at 18:00)" tvg-epgid="14169" tvg-logo="https://api.ppvs.su/assets/thumb/19d4e7bc03aa58e24ae7004dde416ff4-thumbnail.jpg",Jacksonville Jaguars vs. Tennessee Titans (30 November 2025 at 18:00)
@@ -74,8 +80,6 @@
 #EXTINF:-1 tvg-id="ppv-14290" tvg-name="Milwaukee Bucks vs. New York Knicks (East Group C) (29 November 2025 at 00:30)" tvg-epgid="14290" tvg-logo="https://api.ppvs.su/assets/thumb/3c73618c3841367e757f9c0b6b9de9ae-thumbnail.jpg",Milwaukee Bucks vs. New York Knicks (East Group C) (29 November 2025 at 00:30)
 
 #EXTINF:-1 tvg-id="ppv-14325" tvg-name="Providence Friars vs. Florida Gators (28 November 2025 at 20:00)" tvg-epgid="14325" tvg-logo="https://api.ppvs.su/assets/thumb/a9664cdb68ae3b3db2d6a02fdb0d7c73-thumbnail.jpg",Providence Friars vs. Florida Gators (28 November 2025 at 20:00)
-
-#EXTINF:-1 tvg-id="ppv-14324" tvg-name="Saint Mary's Gaels vs. Vanderbilt Commodores (28 November 2025 at 18:00)" tvg-epgid="14324" tvg-logo="https://api.ppvs.su/assets/thumb/40d6707d9582cdfee45bebb01c627390-thumbnail.jpg",Saint Mary's Gaels vs. Vanderbilt Commodores (28 November 2025 at 18:00)
 
 #EXTINF:-1 tvg-id="ppv-14304" tvg-name="Girona FC vs. Real Madrid (30 November 2025 at 20:00)" tvg-epgid="14304" tvg-logo="https://api.ppvs.su/assets/thumb/07b6052b9c0e7c323c46cad950fd27bd-thumbnail.jpg",Girona FC vs. Real Madrid (30 November 2025 at 20:00)
 
