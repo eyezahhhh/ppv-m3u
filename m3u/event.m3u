@@ -159,6 +159,8 @@
 
 #EXTINF:-1 tvg-id="ppv-14268" tvg-name="Tampa Bay Lightning vs. Detroit Red Wings (28 November 2025 at 17:00)" tvg-epgid="14268" tvg-logo="https://api.ppvs.su/assets/thumb/00e945dd9685921df8431000461abd5a-thumbnail.jpg",Tampa Bay Lightning vs. Detroit Red Wings (28 November 2025 at 17:00)
 
+#EXTINF:-1 tvg-id="ppv-14020" tvg-name="Qatar Grand Prix - Race (30 November 2025 at 16:00)" tvg-epgid="14020" tvg-logo="https://api.ppvs.su/assets/thumb/25fcfc6e44ab81e3872f319f0bad17d5-thumbnail.jpg",Qatar Grand Prix - Race (30 November 2025 at 16:00)
+
 #EXTINF:-1 tvg-id="ppv-14019" tvg-name="Qatar Grand Prix - Qualifying (29 November 2025 at 18:00)" tvg-epgid="14019" tvg-logo="https://api.ppvs.su/assets/thumb/b9c007ff22ab6f8625188a61dcadf712-thumbnail.jpg",Qatar Grand Prix - Qualifying (29 November 2025 at 18:00)
 
 #EXTINF:-1 tvg-id="ppv-14018" tvg-name="Qatar Grand Prix - Sprint (29 November 2025 at 14:00)" tvg-epgid="14018" tvg-logo="https://api.ppvs.su/assets/thumb/c0de455d8f67fdf4ad189fff194075db-thumbnail.jpg",Qatar Grand Prix - Sprint (29 November 2025 at 14:00)
