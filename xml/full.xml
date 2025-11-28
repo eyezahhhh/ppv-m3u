@@ -439,16 +439,16 @@ channel="ppv-14240"
 <icon src="https://api.ppvs.su/assets/thumb/23e9a0902c8c67efd032b23ea14ffdda-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-14166">
-<display-name>Cincinnati Bengals vs. Baltimore Ravens</display-name>
+<channel id="ppv-14294">
+<display-name>Dallas Mavericks vs. Los Angeles Lakers (West Group B)</display-name>
 </channel>
 <programme
-start="20251128012000 +0000"
-stop="20251128045000 +0000"
-channel="ppv-14166"
+start="20251129030000 +0000"
+stop="20251129054800 +0000"
+channel="ppv-14294"
 >
-<title lang="en">Cincinnati Bengals vs. Baltimore Ravens</title>
-<sub-title>American Football</sub-title>
+<title lang="en">Dallas Mavericks vs. Los Angeles Lakers (West Group B)</title>
+<sub-title>Basketball</sub-title>
 <video>
 <present>yes</present>
 <colour>yes</colour>
@@ -457,8 +457,228 @@ channel="ppv-14166"
 <present>yes</present>
 <stereo>stereo</stereo>
 </audio>
-<category>American Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/129b854bdfa2b62a83f328202a1a90ca-thumbnail.jpg" />
+<category>Basketball</category>
+<icon src="https://api.ppvs.su/assets/thumb/6e4c4c718f5b51c2f2cd30e0735b0076-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-14295">
+<display-name>Memphis Grizzlies vs. LA Clippers (West Group B)</display-name>
+</channel>
+<programme
+start="20251129030000 +0000"
+stop="20251129054800 +0000"
+channel="ppv-14295"
+>
+<title lang="en">Memphis Grizzlies vs. LA Clippers (West Group B)</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://api.ppvs.su/assets/thumb/0d8bdff7b1cb5b2343b6a5c392aac5d3-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-14291">
+<display-name>Phoenix Suns vs. Oklahoma City Thunder (West Group A)</display-name>
+</channel>
+<programme
+start="20251129023000 +0000"
+stop="20251129051800 +0000"
+channel="ppv-14291"
+>
+<title lang="en">Phoenix Suns vs. Oklahoma City Thunder (West Group A)</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://api.ppvs.su/assets/thumb/4332ec189375aad1f2f07d68cc848856-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-14292">
+<display-name>San Antonio Spurs vs. Denver Nuggets (West Group C)</display-name>
+</channel>
+<programme
+start="20251129023000 +0000"
+stop="20251129051800 +0000"
+channel="ppv-14292"
+>
+<title lang="en">San Antonio Spurs vs. Denver Nuggets (West Group C)</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://api.ppvs.su/assets/thumb/77b51512098a633d72158be08097586f-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-14293">
+<display-name>Sacramento Kings vs. Utah Jazz (West Group A)</display-name>
+</channel>
+<programme
+start="20251129023000 +0000"
+stop="20251129051800 +0000"
+channel="ppv-14293"
+>
+<title lang="en">Sacramento Kings vs. Utah Jazz (West Group A)</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://api.ppvs.su/assets/thumb/0c3d1a2dfdfe7262187694105fa05a51-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-14285">
+<display-name>Cleveland Cavaliers vs. Atlanta Hawks (East Group A)</display-name>
+</channel>
+<programme
+start="20251129003000 +0000"
+stop="20251129031800 +0000"
+channel="ppv-14285"
+>
+<title lang="en">Cleveland Cavaliers vs. Atlanta Hawks (East Group A)</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://api.ppvs.su/assets/thumb/16931354a113fb8b800af9e092c29f94-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-14286">
+<display-name>Philadelphia 76ers vs. Brooklyn Nets (East Group B)</display-name>
+</channel>
+<programme
+start="20251129003000 +0000"
+stop="20251129031800 +0000"
+channel="ppv-14286"
+>
+<title lang="en">Philadelphia 76ers vs. Brooklyn Nets (East Group B)</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://api.ppvs.su/assets/thumb/9b63906ebfb9ae08b141ccdbdea60038-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-14287">
+<display-name>Chicago Bulls vs. Charlotte Hornets (East Group C)</display-name>
+</channel>
+<programme
+start="20251129003000 +0000"
+stop="20251129031800 +0000"
+channel="ppv-14287"
+>
+<title lang="en">Chicago Bulls vs. Charlotte Hornets (East Group C)</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://api.ppvs.su/assets/thumb/f11b78d3ff7134c4f4f593c1598b711e-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-14288">
+<display-name>Orlando Magic vs. Detroit Pistons (East Group B)</display-name>
+</channel>
+<programme
+start="20251129003000 +0000"
+stop="20251129031800 +0000"
+channel="ppv-14288"
+>
+<title lang="en">Orlando Magic vs. Detroit Pistons (East Group B)</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://api.ppvs.su/assets/thumb/8baa4af8aa64723f4075f48658212cdf-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-14289">
+<display-name>Washington Wizards vs. Indiana Pacers (East Group A)</display-name>
+</channel>
+<programme
+start="20251129003000 +0000"
+stop="20251129031800 +0000"
+channel="ppv-14289"
+>
+<title lang="en">Washington Wizards vs. Indiana Pacers (East Group A)</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://api.ppvs.su/assets/thumb/0371ef23853d3604548917e58454c678-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-14290">
+<display-name>Milwaukee Bucks vs. New York Knicks (East Group C)</display-name>
+</channel>
+<programme
+start="20251129003000 +0000"
+stop="20251129031800 +0000"
+channel="ppv-14290"
+>
+<title lang="en">Milwaukee Bucks vs. New York Knicks (East Group C)</title>
+<sub-title>Basketball</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Basketball</category>
+<icon src="https://api.ppvs.su/assets/thumb/3c73618c3841367e757f9c0b6b9de9ae-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-13967">
