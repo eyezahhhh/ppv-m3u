@@ -1,4 +1,26 @@
 <tv>
+<channel id="ppv-14256">
+<display-name>SMU Mustangs vs. California Golden Bears</display-name>
+</channel>
+<programme
+start="20251130010000 +0000"
+stop="20251130043000 +0000"
+channel="ppv-14256"
+>
+<title lang="en">SMU Mustangs vs. California Golden Bears</title>
+<sub-title>American Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>American Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/edb225d8661a2935b216a2524c5e2596-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-14253">
 <display-name>Alabama Crimson Tide vs. Auburn Tigers</display-name>
 </channel>
@@ -417,28 +439,6 @@ channel="ppv-14166"
 <icon src="https://api.ppvs.su/assets/thumb/129b854bdfa2b62a83f328202a1a90ca-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-14165">
-<display-name>Kansas City Chiefs vs. Dallas Cowboys</display-name>
-</channel>
-<programme
-start="20251127213000 +0000"
-stop="20251128010000 +0000"
-channel="ppv-14165"
->
-<title lang="en">Kansas City Chiefs vs. Dallas Cowboys</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/9ccdd52f6ef55678ec64bf62e415313a-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-14267">
 <display-name>Duke Blue Devils vs. Arkansas Razorbacks</display-name>
 </channel>
@@ -459,50 +459,6 @@ channel="ppv-14267"
 </audio>
 <category>Basketball</category>
 <icon src="https://api.ppvs.su/assets/thumb/2fa0ddd0d735d6d2071e9a76d1145126-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-14266">
-<display-name>BYU Cougars vs. Miami Hurricanes</display-name>
-</channel>
-<programme
-start="20251127220000 +0000"
-stop="20251128013000 +0000"
-channel="ppv-14266"
->
-<title lang="en">BYU Cougars vs. Miami Hurricanes</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://api.ppvs.su/assets/thumb/6ada2ba9507bd9a2be4860259f672e58-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-14265">
-<display-name>North Carolina Tar Heels vs. Michigan State Spartans</display-name>
-</channel>
-<programme
-start="20251127213000 +0000"
-stop="20251128010000 +0000"
-channel="ppv-14265"
->
-<title lang="en">North Carolina Tar Heels vs. Michigan State Spartans</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://api.ppvs.su/assets/thumb/f08b0742593dbf7d9593a3ff9e48a1b9-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-13967">
@@ -1361,6 +1317,28 @@ channel="ppv-14016"
 </audio>
 <category>Motorsports</category>
 <icon src="https://api.ppvs.su/assets/thumb/44ed6d2c095fdebeee9d33c803225830-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-14026">
+<display-name>AEW: Saturday Night Collision</display-name>
+</channel>
+<programme
+start="20251130010000 +0000"
+stop="20251130040000 +0000"
+channel="ppv-14026"
+>
+<title lang="en">AEW: Saturday Night Collision</title>
+<sub-title>Wrestling</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Wrestling</category>
+<icon src="https://api.ppvs.su/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-14025">
