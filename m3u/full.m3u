@@ -61,6 +61,16 @@
 
 #EXTINF:-1 tvg-id="ppv-14290" tvg-name="Milwaukee Bucks vs. New York Knicks (East Group C) (29 November 2025 at 00:30)" tvg-epgid="14290" tvg-logo="https://api.ppvs.su/assets/thumb/3c73618c3841367e757f9c0b6b9de9ae-thumbnail.jpg",Milwaukee Bucks vs. New York Knicks (East Group C) (29 November 2025 at 00:30)
 
+#EXTINF:-1 tvg-id="ppv-14029" tvg-name="Chelsea vs. Arsenal (30 November 2025 at 16:30)" tvg-epgid="14029" tvg-logo="https://api.ppvs.su/assets/thumb/d706e1e97f8d2fe4dca33452797ee724-thumbnail.jpg",Chelsea vs. Arsenal (30 November 2025 at 16:30)
+
+#EXTINF:-1 tvg-id="ppv-14053" tvg-name="Frankfurt vs. Wolfsburg (30 November 2025 at 16:30)" tvg-epgid="14053" tvg-logo="https://api.ppvs.su/assets/thumb/eec7b16d38cbf032206df4641fe12555-thumbnail.jpg",Frankfurt vs. Wolfsburg (30 November 2025 at 16:30)
+
+#EXTINF:-1 tvg-id="ppv-14124" tvg-name="Angers SCO vs. RC Lens (30 November 2025 at 16:15)" tvg-epgid="14124" tvg-logo="https://api.ppvs.su/assets/thumb/b0bf567b230eb2d22b6d9c5385a7139c-thumbnail.jpg",Angers SCO vs. RC Lens (30 November 2025 at 16:15)
+
+#EXTINF:-1 tvg-id="ppv-14125" tvg-name="Havre AC vs. LOSC (30 November 2025 at 16:15)" tvg-epgid="14125" tvg-logo="https://api.ppvs.su/assets/thumb/912501e9c6daa42e95e5000864f2a29e-thumbnail.jpg",Havre AC vs. LOSC (30 November 2025 at 16:15)
+
+#EXTINF:-1 tvg-id="ppv-14126" tvg-name="FC Lorient vs. OGC Nice (30 November 2025 at 16:15)" tvg-epgid="14126" tvg-logo="https://api.ppvs.su/assets/thumb/eccaec2ce0531f5d98be254f4304888d-thumbnail.jpg",FC Lorient vs. OGC Nice (30 November 2025 at 16:15)
+
 #EXTINF:-1 tvg-id="ppv-14302" tvg-name="Sevilla FC vs. Real Betis (30 November 2025 at 15:15)" tvg-epgid="14302" tvg-logo="https://api.ppvs.su/assets/thumb/48a64babc93e1177993d060becb7cc47-thumbnail.jpg",Sevilla FC vs. Real Betis (30 November 2025 at 15:15)
 
 #EXTINF:-1 tvg-id="ppv-14052" tvg-name="Hamburg vs. Stuttgart (30 November 2025 at 14:30)" tvg-epgid="14052" tvg-logo="https://api.ppvs.su/assets/thumb/9f9be14dff938458eb6efd9f37db772e-thumbnail.jpg",Hamburg vs. Stuttgart (30 November 2025 at 14:30)
