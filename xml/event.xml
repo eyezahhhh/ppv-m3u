@@ -549,50 +549,6 @@ channel="ppv-14167"
 <icon src="https://api.ppvs.su/assets/thumb/33dcc6916b077f56e57f639d87b5aab5-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-14239">
-<display-name>Ole Miss Rebels vs. Mississippi State Bulldogs</display-name>
-</channel>
-<programme
-start="20251128170000 +0000"
-stop="20251128203000 +0000"
-channel="ppv-14239"
->
-<title lang="en">Ole Miss Rebels vs. Mississippi State Bulldogs</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/2f72b60449932e89e830fee1aa9853ff-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-14240">
-<display-name>Utah Utes vs. Kansas Jayhawks</display-name>
-</channel>
-<programme
-start="20251128170000 +0000"
-stop="20251128203000 +0000"
-channel="ppv-14240"
->
-<title lang="en">Utah Utes vs. Kansas Jayhawks</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/23e9a0902c8c67efd032b23ea14ffdda-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-14294">
 <display-name>Dallas Mavericks vs. Los Angeles Lakers (West Group B)</display-name>
 </channel>
@@ -921,28 +877,6 @@ channel="ppv-14323"
 </audio>
 <category>Basketball</category>
 <icon src="https://api.ppvs.su/assets/thumb/31afd1050a539e0273ddf03b9cd0ee3e-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-14322">
-<display-name>Eastern Illinois Panthers vs. Purdue Boilermakers</display-name>
-</channel>
-<programme
-start="20251128170000 +0000"
-stop="20251128203000 +0000"
-channel="ppv-14322"
->
-<title lang="en">Eastern Illinois Panthers vs. Purdue Boilermakers</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://api.ppvs.su/assets/thumb/f546d7a5500674b2b564464b70f0625f-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-14304">
