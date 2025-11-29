@@ -1473,6 +1473,28 @@ channel="ppv-14034"
 <icon src="https://api.ppvs.su/assets/thumb/a75c05a8d1919d876c0f9e72f5310c35-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-12822">
+<display-name>Goal Arena</display-name>
+</channel>
+<programme
+start="20251129143000 +0000"
+stop="20251129173000 +0000"
+channel="ppv-12822"
+>
+<title lang="en">Goal Arena</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/dd9a64549d7fa6bd306566b0093c32ba-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-14047">
 <display-name>Union Berlin vs. Heidenheim</display-name>
 </channel>
@@ -1713,5 +1735,27 @@ channel="ppv-14026"
 </audio>
 <category>Wrestling</category>
 <icon src="https://api.ppvs.su/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-14336">
+<display-name>WWE Survivor Series: WarGames</display-name>
+</channel>
+<programme
+start="20251130000000 +0000"
+stop="20251130040000 +0000"
+channel="ppv-14336"
+>
+<title lang="en">WWE Survivor Series: WarGames</title>
+<sub-title>Wrestling</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Wrestling</category>
+<icon src="https://api.ppvs.su/assets/thumb/7d6f7de69f4d95bd349c049aa735537d-thumbnail.jpg" />
 </programme>
 </tv>

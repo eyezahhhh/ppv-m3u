@@ -133,6 +133,8 @@
 
 #EXTINF:-1 tvg-id="ppv-14034" tvg-name="Sunderland vs. Bournemouth (29 November 2025 at 15:00)" tvg-epgid="14034" tvg-logo="https://api.ppvs.su/assets/thumb/a75c05a8d1919d876c0f9e72f5310c35-thumbnail.jpg",Sunderland vs. Bournemouth (29 November 2025 at 15:00)
 
+#EXTINF:-1 tvg-id="ppv-12822" tvg-name="Goal Arena (29 November 2025 at 14:30)" tvg-epgid="12822" tvg-logo="https://api.ppvs.su/assets/thumb/dd9a64549d7fa6bd306566b0093c32ba-thumbnail.jpg",Goal Arena (29 November 2025 at 14:30)
+
 #EXTINF:-1 tvg-id="ppv-14047" tvg-name="Union Berlin vs. Heidenheim (29 November 2025 at 14:30)" tvg-epgid="14047" tvg-logo="https://api.ppvs.su/assets/thumb/7b5c99b786bcec44b30949d5cae0ba5e-thumbnail.jpg",Union Berlin vs. Heidenheim (29 November 2025 at 14:30)
 
 #EXTINF:-1 tvg-id="ppv-14048" tvg-name="Bayern vs. St. Pauli (29 November 2025 at 14:30)" tvg-epgid="14048" tvg-logo="https://api.ppvs.su/assets/thumb/3bf1111d678c97e060e2fbb460a0fd97-thumbnail.jpg",Bayern vs. St. Pauli (29 November 2025 at 14:30)
@@ -154,4 +156,6 @@
 #EXTINF:-1 tvg-id="ppv-14018" tvg-name="Qatar Grand Prix - Sprint (29 November 2025 at 14:00)" tvg-epgid="14018" tvg-logo="https://api.ppvs.su/assets/thumb/c0de455d8f67fdf4ad189fff194075db-thumbnail.jpg",Qatar Grand Prix - Sprint (29 November 2025 at 14:00)
 
 #EXTINF:-1 tvg-id="ppv-14026" tvg-name="AEW: Saturday Night Collision (30 November 2025 at 01:00)" tvg-epgid="14026" tvg-logo="https://api.ppvs.su/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg",AEW: Saturday Night Collision (30 November 2025 at 01:00)
+
+#EXTINF:-1 tvg-id="ppv-14336" tvg-name="WWE Survivor Series: WarGames (30 November 2025 at 00:00)" tvg-epgid="14336" tvg-logo="https://api.ppvs.su/assets/thumb/7d6f7de69f4d95bd349c049aa735537d-thumbnail.jpg",WWE Survivor Series: WarGames (30 November 2025 at 00:00)
 
