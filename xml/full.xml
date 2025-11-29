@@ -1341,28 +1341,6 @@ channel="ppv-14340"
 <icon src="https://api.ppvs.su/assets/thumb/69b70cecf1e88b5138dc541e140dcc11-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-14339">
-<display-name>Montreal Canadiens vs. Colorado Avalanche</display-name>
-</channel>
-<programme
-start="20251129200000 +0000"
-stop="20251129230000 +0000"
-channel="ppv-14339"
->
-<title lang="en">Montreal Canadiens vs. Colorado Avalanche</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://api.ppvs.su/assets/thumb/7cb336efb6e0dfe19672f1c1a3c2f51e-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-14020">
 <display-name>Qatar Grand Prix - Race</display-name>
 </channel>
