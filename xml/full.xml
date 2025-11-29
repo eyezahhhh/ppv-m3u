@@ -527,28 +527,6 @@ channel="ppv-14247"
 <icon src="https://api.ppvs.su/assets/thumb/1fca0136bfdd632b85760027ec4776ec-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-14244">
-<display-name>Arizona Wildcats vs. Arizona State Sun Devils</display-name>
-</channel>
-<programme
-start="20251129020000 +0000"
-stop="20251129053000 +0000"
-channel="ppv-14244"
->
-<title lang="en">Arizona Wildcats vs. Arizona State Sun Devils</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/181aafc9d212c9e8d537c4f978695437-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-14335">
 <display-name>Dallas Mavericks vs. LA Clippers</display-name>
 </channel>
@@ -767,72 +745,6 @@ channel="ppv-14295"
 </audio>
 <category>Basketball</category>
 <icon src="https://api.ppvs.su/assets/thumb/0d8bdff7b1cb5b2343b6a5c392aac5d3-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-14291">
-<display-name>Phoenix Suns vs. Oklahoma City Thunder (West Group A)</display-name>
-</channel>
-<programme
-start="20251129023000 +0000"
-stop="20251129051800 +0000"
-channel="ppv-14291"
->
-<title lang="en">Phoenix Suns vs. Oklahoma City Thunder (West Group A)</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://api.ppvs.su/assets/thumb/4332ec189375aad1f2f07d68cc848856-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-14292">
-<display-name>San Antonio Spurs vs. Denver Nuggets (West Group C)</display-name>
-</channel>
-<programme
-start="20251129023000 +0000"
-stop="20251129051800 +0000"
-channel="ppv-14292"
->
-<title lang="en">San Antonio Spurs vs. Denver Nuggets (West Group C)</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://api.ppvs.su/assets/thumb/77b51512098a633d72158be08097586f-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-14293">
-<display-name>Sacramento Kings vs. Utah Jazz (West Group A)</display-name>
-</channel>
-<programme
-start="20251129023000 +0000"
-stop="20251129051800 +0000"
-channel="ppv-14293"
->
-<title lang="en">Sacramento Kings vs. Utah Jazz (West Group A)</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://api.ppvs.su/assets/thumb/0c3d1a2dfdfe7262187694105fa05a51-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-14326">
