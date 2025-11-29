@@ -722,7 +722,7 @@ channel="ppv-14337"
 <stereo>stereo</stereo>
 </audio>
 <category>Combat Sports</category>
-<icon src="https://api.ppvs.su/assets/thumb/81be3b464a363dee29a3db6b367f98f2-thumbnail.jpg" />
+<icon src="https://api.ppvs.su/assets/thumb/45a23ef07ffe9a891a647de4dfecc57f-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-14304">
@@ -1625,50 +1625,6 @@ channel="ppv-14050"
 </audio>
 <category>Football</category>
 <icon src="https://api.ppvs.su/assets/thumb/8ae402b888869c02484ffe824d2f75bb-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-14110">
-<display-name>Genoa vs. Hellas Verona</display-name>
-</channel>
-<programme
-start="20251129140000 +0000"
-stop="20251129163000 +0000"
-channel="ppv-14110"
->
-<title lang="en">Genoa vs. Hellas Verona</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/6519e5dc8efdff99e03b0e10f6b1a9ef-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-14111">
-<display-name>Parma vs. Udinese</display-name>
-</channel>
-<programme
-start="20251129140000 +0000"
-stop="20251129163000 +0000"
-channel="ppv-14111"
->
-<title lang="en">Parma vs. Udinese</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/1d485895fae1410dc708a9e85102af16-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-14020">
