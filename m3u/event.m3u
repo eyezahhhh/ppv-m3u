@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ppv-14178" tvg-name="Denver Broncos vs. Washington Commanders (1 December 2025 at 01:20)" tvg-epgid="14178" tvg-logo="https://api.ppvs.su/assets/thumb/2ffca50a7d75e536b58fbffa589ed619-thumbnail.jpg",Denver Broncos vs. Washington Commanders (1 December 2025 at 01:20)
+
 #EXTINF:-1 tvg-id="ppv-14176" tvg-name="Buffalo Bills vs. Pittsburgh Steelers (30 November 2025 at 21:25)" tvg-epgid="14176" tvg-logo="https://api.ppvs.su/assets/thumb/c5415e2258c8dbdf9552e469c768b1cd-thumbnail.jpg",Buffalo Bills vs. Pittsburgh Steelers (30 November 2025 at 21:25)
 
 #EXTINF:-1 tvg-id="ppv-14177" tvg-name="Las Vegas Raiders vs. Los Angeles Chargers (30 November 2025 at 21:25)" tvg-epgid="14177" tvg-logo="https://api.ppvs.su/assets/thumb/2b762796825206742229bd6f2daabe6e-thumbnail.jpg",Las Vegas Raiders vs. Los Angeles Chargers (30 November 2025 at 21:25)
@@ -164,10 +166,6 @@
 #EXTINF:-1 tvg-id="ppv-14281" tvg-name="Utah Mammoth vs. Dallas Stars (29 November 2025 at 01:00)" tvg-epgid="14281" tvg-logo="https://api.ppvs.su/assets/thumb/914282270b63a3053729273076a00a3a-thumbnail.jpg",Utah Mammoth vs. Dallas Stars (29 November 2025 at 01:00)
 
 #EXTINF:-1 tvg-id="ppv-14279" tvg-name="Pittsburgh Penguins vs. Columbus Blue Jackets (29 November 2025 at 00:00)" tvg-epgid="14279" tvg-logo="https://api.ppvs.su/assets/thumb/80ff4ea0832a1e95e569518497111a8e-thumbnail.jpg",Pittsburgh Penguins vs. Columbus Blue Jackets (29 November 2025 at 00:00)
-
-#EXTINF:-1 tvg-id="ppv-14277" tvg-name="Toronto Maple Leafs vs. Washington Capitals (28 November 2025 at 22:00)" tvg-epgid="14277" tvg-logo="https://api.ppvs.su/assets/thumb/fd4fb01715acf07af621396161eb4eb3-thumbnail.jpg",Toronto Maple Leafs vs. Washington Capitals (28 November 2025 at 22:00)
-
-#EXTINF:-1 tvg-id="ppv-14278" tvg-name="Winnipeg Jets vs. Carolina Hurricanes (28 November 2025 at 22:00)" tvg-epgid="14278" tvg-logo="https://api.ppvs.su/assets/thumb/519658ef5aeb63ee04db910f273e90af-thumbnail.jpg",Winnipeg Jets vs. Carolina Hurricanes (28 November 2025 at 22:00)
 
 #EXTINF:-1 tvg-id="ppv-14020" tvg-name="Qatar Grand Prix - Race (30 November 2025 at 16:00)" tvg-epgid="14020" tvg-logo="https://api.ppvs.su/assets/thumb/25fcfc6e44ab81e3872f319f0bad17d5-thumbnail.jpg",Qatar Grand Prix - Race (30 November 2025 at 16:00)
 
