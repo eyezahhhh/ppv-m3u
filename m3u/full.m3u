@@ -63,6 +63,8 @@
 
 #EXTINF:-1 tvg-id="ppv-14327" tvg-name="Boston Celtics vs. Minnesota Timberwolves (29 November 2025 at 22:00)" tvg-epgid="14327" tvg-logo="https://api.ppvs.su/assets/thumb/077e57a9e85fb8e7bdf2eebb6ab8beea-thumbnail.jpg",Boston Celtics vs. Minnesota Timberwolves (29 November 2025 at 22:00)
 
+#EXTINF:-1 tvg-id="ppv-14337" tvg-name="Ben Whittaker vs. Benjamin Gavazi (29 November 2025 at 17:15)" tvg-epgid="14337" tvg-logo="https://api.ppvs.su/assets/thumb/81be3b464a363dee29a3db6b367f98f2-thumbnail.jpg",Ben Whittaker vs. Benjamin Gavazi (29 November 2025 at 17:15)
+
 #EXTINF:-1 tvg-id="ppv-14304" tvg-name="Girona FC vs. Real Madrid (30 November 2025 at 20:00)" tvg-epgid="14304" tvg-logo="https://api.ppvs.su/assets/thumb/07b6052b9c0e7c323c46cad950fd27bd-thumbnail.jpg",Girona FC vs. Real Madrid (30 November 2025 at 20:00)
 
 #EXTINF:-1 tvg-id="ppv-14117" tvg-name="Roma vs. Napoli (30 November 2025 at 19:45)" tvg-epgid="14117" tvg-logo="https://api.ppvs.su/assets/thumb/5c67947a03fbfaac9b424f5b115b20d3-thumbnail.jpg",Roma vs. Napoli (30 November 2025 at 19:45)
@@ -152,8 +154,6 @@
 #EXTINF:-1 tvg-id="ppv-14020" tvg-name="Qatar Grand Prix - Race (30 November 2025 at 16:00)" tvg-epgid="14020" tvg-logo="https://api.ppvs.su/assets/thumb/25fcfc6e44ab81e3872f319f0bad17d5-thumbnail.jpg",Qatar Grand Prix - Race (30 November 2025 at 16:00)
 
 #EXTINF:-1 tvg-id="ppv-14019" tvg-name="Qatar Grand Prix - Qualifying (29 November 2025 at 18:00)" tvg-epgid="14019" tvg-logo="https://api.ppvs.su/assets/thumb/b9c007ff22ab6f8625188a61dcadf712-thumbnail.jpg",Qatar Grand Prix - Qualifying (29 November 2025 at 18:00)
-
-#EXTINF:-1 tvg-id="ppv-14018" tvg-name="Qatar Grand Prix - Sprint (29 November 2025 at 14:00)" tvg-epgid="14018" tvg-logo="https://api.ppvs.su/assets/thumb/c0de455d8f67fdf4ad189fff194075db-thumbnail.jpg",Qatar Grand Prix - Sprint (29 November 2025 at 14:00)
 
 #EXTINF:-1 tvg-id="ppv-14026" tvg-name="AEW: Saturday Night Collision (30 November 2025 at 01:00)" tvg-epgid="14026" tvg-logo="https://api.ppvs.su/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg",AEW: Saturday Night Collision (30 November 2025 at 01:00)
 
