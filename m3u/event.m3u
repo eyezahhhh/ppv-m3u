@@ -65,6 +65,10 @@
 
 #EXTINF:-1 tvg-id="ppv-14337" tvg-name="Ben Whittaker vs. Benjamin Gavazi (29 November 2025 at 17:15)" tvg-epgid="14337" tvg-logo="https://api.ppvs.su/assets/thumb/45a23ef07ffe9a891a647de4dfecc57f-thumbnail.jpg",Ben Whittaker vs. Benjamin Gavazi (29 November 2025 at 17:15)
 
+#EXTINF:-1 tvg-id="ppv-14305" tvg-name="Rayo Vallecano vs. Valencia CF (1 December 2025 at 20:00)" tvg-epgid="14305" tvg-logo="https://api.ppvs.su/assets/thumb/fafbb265ea3402b14e79a669eb9407a2-thumbnail.jpg",Rayo Vallecano vs. Valencia CF (1 December 2025 at 20:00)
+
+#EXTINF:-1 tvg-id="ppv-14118" tvg-name="Bologna vs. Cremonese (1 December 2025 at 19:45)" tvg-epgid="14118" tvg-logo="https://api.ppvs.su/assets/thumb/c3da8a232eb9f915c0e9ebfc30d92da3-thumbnail.jpg",Bologna vs. Cremonese (1 December 2025 at 19:45)
+
 #EXTINF:-1 tvg-id="ppv-14304" tvg-name="Girona FC vs. Real Madrid (30 November 2025 at 20:00)" tvg-epgid="14304" tvg-logo="https://api.ppvs.su/assets/thumb/07b6052b9c0e7c323c46cad950fd27bd-thumbnail.jpg",Girona FC vs. Real Madrid (30 November 2025 at 20:00)
 
 #EXTINF:-1 tvg-id="ppv-14117" tvg-name="Roma vs. Napoli (30 November 2025 at 19:45)" tvg-epgid="14117" tvg-logo="https://api.ppvs.su/assets/thumb/5c67947a03fbfaac9b424f5b115b20d3-thumbnail.jpg",Roma vs. Napoli (30 November 2025 at 19:45)
@@ -117,12 +121,6 @@
 
 #EXTINF:-1 tvg-id="ppv-14121" tvg-name="Paris FC vs. AJ Auxerre (29 November 2025 at 18:00)" tvg-epgid="14121" tvg-logo="https://api.ppvs.su/assets/thumb/5dea2507af3cb3dfac2f76281c516c8a-thumbnail.jpg",Paris FC vs. AJ Auxerre (29 November 2025 at 18:00)
 
-#EXTINF:-1 tvg-id="ppv-14031" tvg-name="Everton vs. Newcastle United (29 November 2025 at 17:30)" tvg-epgid="14031" tvg-logo="https://api.ppvs.su/assets/thumb/06b90c7be028bea3b17d9428cdb4eaf1-thumbnail.jpg",Everton vs. Newcastle United (29 November 2025 at 17:30)
-
-#EXTINF:-1 tvg-id="ppv-14051" tvg-name="Leverkusen vs. Dortmund (29 November 2025 at 17:30)" tvg-epgid="14051" tvg-logo="https://api.ppvs.su/assets/thumb/812137bd71af9b691c616f5ec3077fb7-thumbnail.jpg",Leverkusen vs. Dortmund (29 November 2025 at 17:30)
-
-#EXTINF:-1 tvg-id="ppv-14299" tvg-name="Levante UD vs. Athletic Club (29 November 2025 at 17:30)" tvg-epgid="14299" tvg-logo="https://api.ppvs.su/assets/thumb/5a54a4b329385b8b72e158c90cffbcde-thumbnail.jpg",Levante UD vs. Athletic Club (29 November 2025 at 17:30)
-
 #EXTINF:-1 tvg-id="ppv-14347" tvg-name="San Jose Sharks vs. Vegas Golden Knights (30 November 2025 at 03:00)" tvg-epgid="14347" tvg-logo="https://api.ppvs.su/assets/thumb/ffda1990f8aeeb0db7ede8468d3c14b5-thumbnail.jpg",San Jose Sharks vs. Vegas Golden Knights (30 November 2025 at 03:00)
 
 #EXTINF:-1 tvg-id="ppv-14348" tvg-name="Vancouver Canucks vs. Los Angeles Kings (30 November 2025 at 03:00)" tvg-epgid="14348" tvg-logo="https://api.ppvs.su/assets/thumb/01f7c2d0825bda3585872cdae9576346-thumbnail.jpg",Vancouver Canucks vs. Los Angeles Kings (30 November 2025 at 03:00)
@@ -146,8 +144,6 @@
 #EXTINF:-1 tvg-id="ppv-14338" tvg-name="Tampa Bay Lightning vs. New York Rangers (29 November 2025 at 19:00)" tvg-epgid="14338" tvg-logo="https://api.ppvs.su/assets/thumb/56e31d29626a245f88719cdf03ceb1b9-thumbnail.jpg",Tampa Bay Lightning vs. New York Rangers (29 November 2025 at 19:00)
 
 #EXTINF:-1 tvg-id="ppv-14020" tvg-name="Qatar Grand Prix - Race (30 November 2025 at 16:00)" tvg-epgid="14020" tvg-logo="https://api.ppvs.su/assets/thumb/25fcfc6e44ab81e3872f319f0bad17d5-thumbnail.jpg",Qatar Grand Prix - Race (30 November 2025 at 16:00)
-
-#EXTINF:-1 tvg-id="ppv-14019" tvg-name="Qatar Grand Prix - Qualifying (29 November 2025 at 18:00)" tvg-epgid="14019" tvg-logo="https://api.ppvs.su/assets/thumb/b9c007ff22ab6f8625188a61dcadf712-thumbnail.jpg",Qatar Grand Prix - Qualifying (29 November 2025 at 18:00)
 
 #EXTINF:-1 tvg-id="ppv-14026" tvg-name="AEW: Saturday Night Collision (30 November 2025 at 01:00)" tvg-epgid="14026" tvg-logo="https://api.ppvs.su/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg",AEW: Saturday Night Collision (30 November 2025 at 01:00)
 
