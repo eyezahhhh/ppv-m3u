@@ -109,6 +109,28 @@ channel="ppv-14175"
 <icon src="https://api.ppvs.su/assets/thumb/3f9077d0fff269b2ea78d76846737053-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-11090">
+<display-name>NFL RedZone</display-name>
+</channel>
+<programme
+start="20251130180000 +0000"
+stop="20251201010000 +0000"
+channel="ppv-11090"
+>
+<title lang="en">NFL RedZone</title>
+<sub-title>American Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>American Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/b81de749344645209b90492c795620e1-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-14168">
 <display-name>San Francisco 49ers vs. Cleveland Browns</display-name>
 </channel>
@@ -285,28 +307,6 @@ channel="ppv-14257"
 <icon src="https://api.ppvs.su/assets/thumb/3d6bc829e457ad119ebd6fc59fca9491-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-14256">
-<display-name>SMU Mustangs vs. California Golden Bears</display-name>
-</channel>
-<programme
-start="20251130010000 +0000"
-stop="20251130043000 +0000"
-channel="ppv-14256"
->
-<title lang="en">SMU Mustangs vs. California Golden Bears</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/edb225d8661a2935b216a2524c5e2596-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-14335">
 <display-name>Dallas Mavericks vs. LA Clippers</display-name>
 </channel>
@@ -349,28 +349,6 @@ channel="ppv-14334"
 </audio>
 <category>Basketball</category>
 <icon src="https://api.ppvs.su/assets/thumb/e98f65e52b00a890f61f39a760c8006c-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-14333">
-<display-name>New Orleans Pelicans vs. Golden State Warriors</display-name>
-</channel>
-<programme
-start="20251130013000 +0000"
-stop="20251130041800 +0000"
-channel="ppv-14333"
->
-<title lang="en">New Orleans Pelicans vs. Golden State Warriors</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://api.ppvs.su/assets/thumb/b8d8316cf99a6a1a46ee5ca27e6410b5-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-14305">
