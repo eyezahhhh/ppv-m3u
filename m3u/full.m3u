@@ -27,21 +27,11 @@
 
 #EXTINF:-1 tvg-id="ppv-14256" tvg-name="SMU Mustangs vs. California Golden Bears (30 November 2025 at 01:00)" tvg-epgid="14256" tvg-logo="https://api.ppvs.su/assets/thumb/edb225d8661a2935b216a2524c5e2596-thumbnail.jpg",SMU Mustangs vs. California Golden Bears (30 November 2025 at 01:00)
 
-#EXTINF:-1 tvg-id="ppv-14253" tvg-name="Alabama Crimson Tide vs. Auburn Tigers (30 November 2025 at 00:30)" tvg-epgid="14253" tvg-logo="https://api.ppvs.su/assets/thumb/87f282a0580830a9c003c9075f790e32-thumbnail.jpg",Alabama Crimson Tide vs. Auburn Tigers (30 November 2025 at 00:30)
-
-#EXTINF:-1 tvg-id="ppv-14254" tvg-name="UCLA Bruins vs. USC Trojans (30 November 2025 at 00:30)" tvg-epgid="14254" tvg-logo="https://api.ppvs.su/assets/thumb/96307c30b63ed46282664629696aa62e-thumbnail.jpg",UCLA Bruins vs. USC Trojans (30 November 2025 at 00:30)
-
-#EXTINF:-1 tvg-id="ppv-14255" tvg-name="Charlotte 49ers vs. Tulane Green Wave (30 November 2025 at 00:30)" tvg-epgid="14255" tvg-logo="https://api.ppvs.su/assets/thumb/b4c0f5fe55dd1a54460da72a45edc524-thumbnail.jpg",Charlotte 49ers vs. Tulane Green Wave (30 November 2025 at 00:30)
-
 #EXTINF:-1 tvg-id="ppv-14335" tvg-name="Dallas Mavericks vs. LA Clippers (30 November 2025 at 03:00)" tvg-epgid="14335" tvg-logo="https://api.ppvs.su/assets/thumb/496f01aa8e846417fe0caae58bb418dc-thumbnail.jpg",Dallas Mavericks vs. LA Clippers (30 November 2025 at 03:00)
 
 #EXTINF:-1 tvg-id="ppv-14334" tvg-name="Denver Nuggets vs. Phoenix Suns (30 November 2025 at 02:00)" tvg-epgid="14334" tvg-logo="https://api.ppvs.su/assets/thumb/e98f65e52b00a890f61f39a760c8006c-thumbnail.jpg",Denver Nuggets vs. Phoenix Suns (30 November 2025 at 02:00)
 
 #EXTINF:-1 tvg-id="ppv-14333" tvg-name="New Orleans Pelicans vs. Golden State Warriors (30 November 2025 at 01:30)" tvg-epgid="14333" tvg-logo="https://api.ppvs.su/assets/thumb/b8d8316cf99a6a1a46ee5ca27e6410b5-thumbnail.jpg",New Orleans Pelicans vs. Golden State Warriors (30 November 2025 at 01:30)
-
-#EXTINF:-1 tvg-id="ppv-14331" tvg-name="Detroit Pistons vs. Miami Heat (30 November 2025 at 01:00)" tvg-epgid="14331" tvg-logo="https://api.ppvs.su/assets/thumb/3a96a8a1dd764333cf1e579342876899-thumbnail.jpg",Detroit Pistons vs. Miami Heat (30 November 2025 at 01:00)
-
-#EXTINF:-1 tvg-id="ppv-14332" tvg-name="Brooklyn Nets vs. Milwaukee Bucks (30 November 2025 at 01:00)" tvg-epgid="14332" tvg-logo="https://api.ppvs.su/assets/thumb/e6a8ab4a263b019ed13b3851ac408239-thumbnail.jpg",Brooklyn Nets vs. Milwaukee Bucks (30 November 2025 at 01:00)
 
 #EXTINF:-1 tvg-id="ppv-14305" tvg-name="Rayo Vallecano vs. Valencia CF (1 December 2025 at 20:00)" tvg-epgid="14305" tvg-logo="https://api.ppvs.su/assets/thumb/fafbb265ea3402b14e79a669eb9407a2-thumbnail.jpg",Rayo Vallecano vs. Valencia CF (1 December 2025 at 20:00)
 
@@ -93,13 +83,5 @@
 
 #EXTINF:-1 tvg-id="ppv-14348" tvg-name="Vancouver Canucks vs. Los Angeles Kings (30 November 2025 at 03:00)" tvg-epgid="14348" tvg-logo="https://api.ppvs.su/assets/thumb/01f7c2d0825bda3585872cdae9576346-thumbnail.jpg",Vancouver Canucks vs. Los Angeles Kings (30 November 2025 at 03:00)
 
-#EXTINF:-1 tvg-id="ppv-14345" tvg-name="Utah Mammoth vs. St. Louis Blues (30 November 2025 at 01:00)" tvg-epgid="14345" tvg-logo="https://api.ppvs.su/assets/thumb/53cd5cf126e715e9f81478b04871322c-thumbnail.jpg",Utah Mammoth vs. St. Louis Blues (30 November 2025 at 01:00)
-
-#EXTINF:-1 tvg-id="ppv-14346" tvg-name="Buffalo Sabres vs. Minnesota Wild (30 November 2025 at 01:00)" tvg-epgid="14346" tvg-logo="https://api.ppvs.su/assets/thumb/d6c5414743400d48eb8b9911d1e2f4e5-thumbnail.jpg",Buffalo Sabres vs. Minnesota Wild (30 November 2025 at 01:00)
-
 #EXTINF:-1 tvg-id="ppv-14020" tvg-name="Qatar Grand Prix - Race (30 November 2025 at 16:00)" tvg-epgid="14020" tvg-logo="https://api.ppvs.su/assets/thumb/25fcfc6e44ab81e3872f319f0bad17d5-thumbnail.jpg",Qatar Grand Prix - Race (30 November 2025 at 16:00)
-
-#EXTINF:-1 tvg-id="ppv-14026" tvg-name="AEW: Saturday Night Collision (30 November 2025 at 01:00)" tvg-epgid="14026" tvg-logo="https://api.ppvs.su/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg",AEW: Saturday Night Collision (30 November 2025 at 01:00)
-
-#EXTINF:-1 tvg-id="ppv-14336" tvg-name="WWE Survivor Series: WarGames (30 November 2025 at 00:00)" tvg-epgid="14336" tvg-logo="https://api.ppvs.su/assets/thumb/7d6f7de69f4d95bd349c049aa735537d-thumbnail.jpg",WWE Survivor Series: WarGames (30 November 2025 at 00:00)
 
