@@ -43,8 +43,6 @@
 
 #EXTINF:-1 tvg-id="ppv-14349" tvg-name="Houston Rockets vs. Utah Jazz (30 November 2025 at 20:00)" tvg-epgid="14349" tvg-logo="https://api.ppvs.su/assets/thumb/e9bbb6f5591d2ecd85b0b58ee7ab6e3a-thumbnail.jpg",Houston Rockets vs. Utah Jazz (30 November 2025 at 20:00)
 
-#EXTINF:-1 tvg-id="ppv-14335" tvg-name="Dallas Mavericks vs. LA Clippers (30 November 2025 at 03:00)" tvg-epgid="14335" tvg-logo="https://api.ppvs.su/assets/thumb/496f01aa8e846417fe0caae58bb418dc-thumbnail.jpg",Dallas Mavericks vs. LA Clippers (30 November 2025 at 03:00)
-
 #EXTINF:-1 tvg-id="ppv-14305" tvg-name="Rayo Vallecano vs. Valencia CF (1 December 2025 at 20:00)" tvg-epgid="14305" tvg-logo="https://api.ppvs.su/assets/thumb/fafbb265ea3402b14e79a669eb9407a2-thumbnail.jpg",Rayo Vallecano vs. Valencia CF (1 December 2025 at 20:00)
 
 #EXTINF:-1 tvg-id="ppv-14118" tvg-name="Bologna vs. Cremonese (1 December 2025 at 19:45)" tvg-epgid="14118" tvg-logo="https://api.ppvs.su/assets/thumb/c3da8a232eb9f915c0e9ebfc30d92da3-thumbnail.jpg",Bologna vs. Cremonese (1 December 2025 at 19:45)
@@ -90,10 +88,6 @@
 #EXTINF:-1 tvg-id="ppv-14030" tvg-name="Crystal Palace vs. Manchester United (30 November 2025 at 12:00)" tvg-epgid="14030" tvg-logo="https://api.ppvs.su/assets/thumb/eae7342102343592f3e9c51ec6167a27-thumbnail.jpg",Crystal Palace vs. Manchester United (30 November 2025 at 12:00)
 
 #EXTINF:-1 tvg-id="ppv-14114" tvg-name="Lecce vs. Torino (30 November 2025 at 11:30)" tvg-epgid="14114" tvg-logo="https://api.ppvs.su/assets/thumb/97a13a87877cfce033e848fc823e758f-thumbnail.jpg",Lecce vs. Torino (30 November 2025 at 11:30)
-
-#EXTINF:-1 tvg-id="ppv-14347" tvg-name="San Jose Sharks vs. Vegas Golden Knights (30 November 2025 at 03:00)" tvg-epgid="14347" tvg-logo="https://api.ppvs.su/assets/thumb/ffda1990f8aeeb0db7ede8468d3c14b5-thumbnail.jpg",San Jose Sharks vs. Vegas Golden Knights (30 November 2025 at 03:00)
-
-#EXTINF:-1 tvg-id="ppv-14348" tvg-name="Vancouver Canucks vs. Los Angeles Kings (30 November 2025 at 03:00)" tvg-epgid="14348" tvg-logo="https://api.ppvs.su/assets/thumb/01f7c2d0825bda3585872cdae9576346-thumbnail.jpg",Vancouver Canucks vs. Los Angeles Kings (30 November 2025 at 03:00)
 
 #EXTINF:-1 tvg-id="ppv-14020" tvg-name="Qatar Grand Prix - Race (30 November 2025 at 16:00)" tvg-epgid="14020" tvg-logo="https://api.ppvs.su/assets/thumb/25fcfc6e44ab81e3872f319f0bad17d5-thumbnail.jpg",Qatar Grand Prix - Race (30 November 2025 at 16:00)
 
