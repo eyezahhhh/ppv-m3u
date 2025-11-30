@@ -769,16 +769,16 @@ channel="ppv-14302"
 <icon src="https://api.ppvs.su/assets/thumb/48a64babc93e1177993d060becb7cc47-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-14052">
-<display-name>Hamburg vs. Stuttgart</display-name>
+<channel id="ppv-14362">
+<display-name>Ottawa Senators vs. Dallas Stars</display-name>
 </channel>
 <programme
-start="20251130143000 +0000"
-stop="20251130170000 +0000"
-channel="ppv-14052"
+start="20251130230000 +0000"
+stop="20251201020000 +0000"
+channel="ppv-14362"
 >
-<title lang="en">Hamburg vs. Stuttgart</title>
-<sub-title>Football</sub-title>
+<title lang="en">Ottawa Senators vs. Dallas Stars</title>
+<sub-title>Ice Hockey</sub-title>
 <video>
 <present>yes</present>
 <colour>yes</colour>
@@ -787,8 +787,74 @@ channel="ppv-14052"
 <present>yes</present>
 <stereo>stereo</stereo>
 </audio>
-<category>Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/9f9be14dff938458eb6efd9f37db772e-thumbnail.jpg" />
+<category>Ice Hockey</category>
+<icon src="https://api.ppvs.su/assets/thumb/3090fb20e9011924f2d652b83442e603-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-14361">
+<display-name>Calgary Flames vs. Carolina Hurricanes</display-name>
+</channel>
+<programme
+start="20251130220000 +0000"
+stop="20251201010000 +0000"
+channel="ppv-14361"
+>
+<title lang="en">Calgary Flames vs. Carolina Hurricanes</title>
+<sub-title>Ice Hockey</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Ice Hockey</category>
+<icon src="https://api.ppvs.su/assets/thumb/8baaf6b4fee7bfc735c8fb789183a422-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-14360">
+<display-name>Anaheim Ducks vs. Chicago Blackhawks</display-name>
+</channel>
+<programme
+start="20251130203000 +0000"
+stop="20251130233000 +0000"
+channel="ppv-14360"
+>
+<title lang="en">Anaheim Ducks vs. Chicago Blackhawks</title>
+<sub-title>Ice Hockey</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Ice Hockey</category>
+<icon src="https://api.ppvs.su/assets/thumb/aab8d6bb0a3c967dcc01e2d98b370b4d-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-14359">
+<display-name>Washington Capitals vs. New York Islanders</display-name>
+</channel>
+<programme
+start="20251130180000 +0000"
+stop="20251130210000 +0000"
+channel="ppv-14359"
+>
+<title lang="en">Washington Capitals vs. New York Islanders</title>
+<sub-title>Ice Hockey</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Ice Hockey</category>
+<icon src="https://api.ppvs.su/assets/thumb/bb0832e6b2b9263140cae69d45b773f6-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-14020">

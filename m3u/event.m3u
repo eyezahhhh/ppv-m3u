@@ -69,7 +69,13 @@
 
 #EXTINF:-1 tvg-id="ppv-14302" tvg-name="Sevilla FC vs. Real Betis (30 November 2025 at 15:15)" tvg-epgid="14302" tvg-logo="https://api.ppvs.su/assets/thumb/48a64babc93e1177993d060becb7cc47-thumbnail.jpg",Sevilla FC vs. Real Betis (30 November 2025 at 15:15)
 
-#EXTINF:-1 tvg-id="ppv-14052" tvg-name="Hamburg vs. Stuttgart (30 November 2025 at 14:30)" tvg-epgid="14052" tvg-logo="https://api.ppvs.su/assets/thumb/9f9be14dff938458eb6efd9f37db772e-thumbnail.jpg",Hamburg vs. Stuttgart (30 November 2025 at 14:30)
+#EXTINF:-1 tvg-id="ppv-14362" tvg-name="Ottawa Senators vs. Dallas Stars (30 November 2025 at 23:00)" tvg-epgid="14362" tvg-logo="https://api.ppvs.su/assets/thumb/3090fb20e9011924f2d652b83442e603-thumbnail.jpg",Ottawa Senators vs. Dallas Stars (30 November 2025 at 23:00)
+
+#EXTINF:-1 tvg-id="ppv-14361" tvg-name="Calgary Flames vs. Carolina Hurricanes (30 November 2025 at 22:00)" tvg-epgid="14361" tvg-logo="https://api.ppvs.su/assets/thumb/8baaf6b4fee7bfc735c8fb789183a422-thumbnail.jpg",Calgary Flames vs. Carolina Hurricanes (30 November 2025 at 22:00)
+
+#EXTINF:-1 tvg-id="ppv-14360" tvg-name="Anaheim Ducks vs. Chicago Blackhawks (30 November 2025 at 20:30)" tvg-epgid="14360" tvg-logo="https://api.ppvs.su/assets/thumb/aab8d6bb0a3c967dcc01e2d98b370b4d-thumbnail.jpg",Anaheim Ducks vs. Chicago Blackhawks (30 November 2025 at 20:30)
+
+#EXTINF:-1 tvg-id="ppv-14359" tvg-name="Washington Capitals vs. New York Islanders (30 November 2025 at 18:00)" tvg-epgid="14359" tvg-logo="https://api.ppvs.su/assets/thumb/bb0832e6b2b9263140cae69d45b773f6-thumbnail.jpg",Washington Capitals vs. New York Islanders (30 November 2025 at 18:00)
 
 #EXTINF:-1 tvg-id="ppv-14020" tvg-name="Qatar Grand Prix - Race (30 November 2025 at 16:00)" tvg-epgid="14020" tvg-logo="https://api.ppvs.su/assets/thumb/25fcfc6e44ab81e3872f319f0bad17d5-thumbnail.jpg",Qatar Grand Prix - Race (30 November 2025 at 16:00)
 
