@@ -57,16 +57,6 @@
 
 #EXTINF:-1 tvg-id="ppv-14116" tvg-name="Atalanta vs. Fiorentina (30 November 2025 at 17:00)" tvg-epgid="14116" tvg-logo="https://api.ppvs.su/assets/thumb/754bcd30717fad739088122c171af917-thumbnail.jpg",Atalanta vs. Fiorentina (30 November 2025 at 17:00)
 
-#EXTINF:-1 tvg-id="ppv-14029" tvg-name="Chelsea vs. Arsenal (30 November 2025 at 16:30)" tvg-epgid="14029" tvg-logo="https://api.ppvs.su/assets/thumb/d706e1e97f8d2fe4dca33452797ee724-thumbnail.jpg",Chelsea vs. Arsenal (30 November 2025 at 16:30)
-
-#EXTINF:-1 tvg-id="ppv-14053" tvg-name="Frankfurt vs. Wolfsburg (30 November 2025 at 16:30)" tvg-epgid="14053" tvg-logo="https://api.ppvs.su/assets/thumb/eec7b16d38cbf032206df4641fe12555-thumbnail.jpg",Frankfurt vs. Wolfsburg (30 November 2025 at 16:30)
-
-#EXTINF:-1 tvg-id="ppv-14124" tvg-name="Angers SCO vs. RC Lens (30 November 2025 at 16:15)" tvg-epgid="14124" tvg-logo="https://api.ppvs.su/assets/thumb/b0bf567b230eb2d22b6d9c5385a7139c-thumbnail.jpg",Angers SCO vs. RC Lens (30 November 2025 at 16:15)
-
-#EXTINF:-1 tvg-id="ppv-14125" tvg-name="Havre AC vs. LOSC (30 November 2025 at 16:15)" tvg-epgid="14125" tvg-logo="https://api.ppvs.su/assets/thumb/912501e9c6daa42e95e5000864f2a29e-thumbnail.jpg",Havre AC vs. LOSC (30 November 2025 at 16:15)
-
-#EXTINF:-1 tvg-id="ppv-14126" tvg-name="FC Lorient vs. OGC Nice (30 November 2025 at 16:15)" tvg-epgid="14126" tvg-logo="https://api.ppvs.su/assets/thumb/eccaec2ce0531f5d98be254f4304888d-thumbnail.jpg",FC Lorient vs. OGC Nice (30 November 2025 at 16:15)
-
 #EXTINF:-1 tvg-id="ppv-14362" tvg-name="Ottawa Senators vs. Dallas Stars (30 November 2025 at 23:00)" tvg-epgid="14362" tvg-logo="https://api.ppvs.su/assets/thumb/3090fb20e9011924f2d652b83442e603-thumbnail.jpg",Ottawa Senators vs. Dallas Stars (30 November 2025 at 23:00)
 
 #EXTINF:-1 tvg-id="ppv-14361" tvg-name="Calgary Flames vs. Carolina Hurricanes (30 November 2025 at 22:00)" tvg-epgid="14361" tvg-logo="https://api.ppvs.su/assets/thumb/8baaf6b4fee7bfc735c8fb789183a422-thumbnail.jpg",Calgary Flames vs. Carolina Hurricanes (30 November 2025 at 22:00)
@@ -74,6 +64,4 @@
 #EXTINF:-1 tvg-id="ppv-14360" tvg-name="Anaheim Ducks vs. Chicago Blackhawks (30 November 2025 at 20:30)" tvg-epgid="14360" tvg-logo="https://api.ppvs.su/assets/thumb/aab8d6bb0a3c967dcc01e2d98b370b4d-thumbnail.jpg",Anaheim Ducks vs. Chicago Blackhawks (30 November 2025 at 20:30)
 
 #EXTINF:-1 tvg-id="ppv-14359" tvg-name="Washington Capitals vs. New York Islanders (30 November 2025 at 18:00)" tvg-epgid="14359" tvg-logo="https://api.ppvs.su/assets/thumb/bb0832e6b2b9263140cae69d45b773f6-thumbnail.jpg",Washington Capitals vs. New York Islanders (30 November 2025 at 18:00)
-
-#EXTINF:-1 tvg-id="ppv-14020" tvg-name="Qatar Grand Prix - Race (30 November 2025 at 16:00)" tvg-epgid="14020" tvg-logo="https://api.ppvs.su/assets/thumb/25fcfc6e44ab81e3872f319f0bad17d5-thumbnail.jpg",Qatar Grand Prix - Race (30 November 2025 at 16:00)
 
