@@ -219,6 +219,50 @@ channel="ppv-14365"
 <icon src="https://api.ppvs.su/assets/thumb/8fa6db478a86c431917eef1651c72579-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-14388">
+<display-name>Leeds United vs. Chelsea</display-name>
+</channel>
+<programme
+start="20251203201500 +0000"
+stop="20251203224500 +0000"
+channel="ppv-14388"
+>
+<title lang="en">Leeds United vs. Chelsea</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/90c2e4d7b4d8b29638214aa16746a706-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-14389">
+<display-name>Liverpool vs. Sunderland</display-name>
+</channel>
+<programme
+start="20251203201500 +0000"
+stop="20251203224500 +0000"
+channel="ppv-14389"
+>
+<title lang="en">Liverpool vs. Sunderland</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/1373a3e726525039ca30dfb3c427b997-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-14384">
 <display-name>Arsenal vs. Brentford</display-name>
 </channel>
