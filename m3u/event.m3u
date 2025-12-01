@@ -29,6 +29,14 @@
 
 #EXTINF:-1 tvg-id="ppv-14118" tvg-name="Bologna vs. Cremonese (1 December 2025 at 19:45)" tvg-epgid="14118" tvg-logo="https://api.ppvs.su/assets/thumb/c3da8a232eb9f915c0e9ebfc30d92da3-thumbnail.jpg",Bologna vs. Cremonese (1 December 2025 at 19:45)
 
+#EXTINF:-1 tvg-id="ppv-14443" tvg-name="Utah Mammoth vs. San Jose Sharks (2 December 2025 at 03:00)" tvg-epgid="14443" tvg-logo="https://api.ppvs.su/assets/thumb/08bc6329c8a7a39debe15f8f335e98f0-thumbnail.jpg",Utah Mammoth vs. San Jose Sharks (2 December 2025 at 03:00)
+
+#EXTINF:-1 tvg-id="ppv-14442" tvg-name="Winnipeg Jets vs. Buffalo Sabres (2 December 2025 at 00:30)" tvg-epgid="14442" tvg-logo="https://api.ppvs.su/assets/thumb/809968bee2ff8e303f55da27e8b95e3d-thumbnail.jpg",Winnipeg Jets vs. Buffalo Sabres (2 December 2025 at 00:30)
+
+#EXTINF:-1 tvg-id="ppv-14440" tvg-name="Columbus Blue Jackets vs. New Jersey Devils (2 December 2025 at 00:00)" tvg-epgid="14440" tvg-logo="https://api.ppvs.su/assets/thumb/8b8cfda23cfa7bdbf61edae508f53d19-thumbnail.jpg",Columbus Blue Jackets vs. New Jersey Devils (2 December 2025 at 00:00)
+
+#EXTINF:-1 tvg-id="ppv-14441" tvg-name="Pittsburgh Penguins vs. Philadelphia Flyers (2 December 2025 at 00:00)" tvg-epgid="14441" tvg-logo="https://api.ppvs.su/assets/thumb/0139ca0cfef580ba62833d2df91b7d50-thumbnail.jpg",Pittsburgh Penguins vs. Philadelphia Flyers (2 December 2025 at 00:00)
+
 #EXTINF:-1 tvg-id="ppv-14378" tvg-name="WWE: NXT (3 December 2025 at 01:00)" tvg-epgid="14378" tvg-logo="https://api.ppvs.su/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg",WWE: NXT (3 December 2025 at 01:00)
 
 #EXTINF:-1 tvg-id="ppv-14377" tvg-name="WWE: Monday Night RAW (2 December 2025 at 01:00)" tvg-epgid="14377" tvg-logo="https://api.ppvs.su/assets/thumb/56336f9d22c51c416e1a56afbd18f314-thumbnail.jpg",WWE: Monday Night RAW (2 December 2025 at 01:00)
