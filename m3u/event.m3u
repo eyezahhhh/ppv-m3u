@@ -1,15 +1,29 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ppv-14462" tvg-name="Oklahoma City Thunder vs. Golden State Warriors (3 December 2025 at 04:00)" tvg-epgid="14462" tvg-logo="https://api.ppvs.su/assets/thumb/857ee57acf86edc95f24cc0fc2ff30d2-thumbnail.jpg",Oklahoma City Thunder vs. Golden State Warriors (3 December 2025 at 04:00)
 
+#EXTINF:-1 tvg-id="ppv-14469" tvg-name="USC Trojans vs. Oregon Ducks (3 December 2025 at 03:00)" tvg-epgid="14469" tvg-logo="https://api.ppvs.su/assets/thumb/5dc6c7935906de19281b49cc6c212a7a-thumbnail.jpg",USC Trojans vs. Oregon Ducks (3 December 2025 at 03:00)
+
+#EXTINF:-1 tvg-id="ppv-14468" tvg-name="North Carolina Tar Heels vs. Kentucky Wildcats (3 December 2025 at 02:30)" tvg-epgid="14468" tvg-logo="https://api.ppvs.su/assets/thumb/e2da61675c668061b9495c2b6399618a-thumbnail.jpg",North Carolina Tar Heels vs. Kentucky Wildcats (3 December 2025 at 02:30)
+
+#EXTINF:-1 tvg-id="ppv-14467" tvg-name="UConn Huskies vs. Kansas Jayhawks (3 December 2025 at 02:00)" tvg-epgid="14467" tvg-logo="https://api.ppvs.su/assets/thumb/029a93336d35b668dc2eeadfaee4f66d-thumbnail.jpg",UConn Huskies vs. Kansas Jayhawks (3 December 2025 at 02:00)
+
 #EXTINF:-1 tvg-id="ppv-14459" tvg-name="New York Knicks vs. Boston Celtics (3 December 2025 at 01:00)" tvg-epgid="14459" tvg-logo="https://api.ppvs.su/assets/thumb/7ba7f5595565ec51306058ebd6f32024-thumbnail.jpg",New York Knicks vs. Boston Celtics (3 December 2025 at 01:00)
 
 #EXTINF:-1 tvg-id="ppv-14460" tvg-name="Minnesota Timberwolves vs. New Orleans Pelicans (3 December 2025 at 01:00)" tvg-epgid="14460" tvg-logo="https://api.ppvs.su/assets/thumb/e646c4539db5abf49783f5d9bd1e743c-thumbnail.jpg",Minnesota Timberwolves vs. New Orleans Pelicans (3 December 2025 at 01:00)
 
 #EXTINF:-1 tvg-id="ppv-14461" tvg-name="Memphis Grizzlies vs. San Antonio Spurs (3 December 2025 at 01:00)" tvg-epgid="14461" tvg-logo="https://api.ppvs.su/assets/thumb/b5311d48967e05c6e71640311a6d9ed0-thumbnail.jpg",Memphis Grizzlies vs. San Antonio Spurs (3 December 2025 at 01:00)
 
+#EXTINF:-1 tvg-id="ppv-14466" tvg-name="Purdue Boilermakers vs. Rutgers Scarlet Knights (3 December 2025 at 01:00)" tvg-epgid="14466" tvg-logo="https://api.ppvs.su/assets/thumb/ecf44bdffd8d6cc50a7915848a05800d-thumbnail.jpg",Purdue Boilermakers vs. Rutgers Scarlet Knights (3 December 2025 at 01:00)
+
 #EXTINF:-1 tvg-id="ppv-14458" tvg-name="Portland Trail Blazers vs. Toronto Raptors (3 December 2025 at 00:30)" tvg-epgid="14458" tvg-logo="https://api.ppvs.su/assets/thumb/1ec43e376fa6221e57db8db128ff98a4-thumbnail.jpg",Portland Trail Blazers vs. Toronto Raptors (3 December 2025 at 00:30)
 
+#EXTINF:-1 tvg-id="ppv-14465" tvg-name="Florida Gators vs. Duke Blue Devils (3 December 2025 at 00:30)" tvg-epgid="14465" tvg-logo="https://api.ppvs.su/assets/thumb/522f4e87cf2d992f63ffe56f858b7a34-thumbnail.jpg",Florida Gators vs. Duke Blue Devils (3 December 2025 at 00:30)
+
 #EXTINF:-1 tvg-id="ppv-14457" tvg-name="Washington Wizards vs. Philadelphia 76ers (3 December 2025 at 00:00)" tvg-epgid="14457" tvg-logo="https://api.ppvs.su/assets/thumb/a75be1c8928f39c2727764edb1096fe1-thumbnail.jpg",Washington Wizards vs. Philadelphia 76ers (3 December 2025 at 00:00)
+
+#EXTINF:-1 tvg-id="ppv-14463" tvg-name="Iowa Hawkeyes vs. Michigan State Spartans (3 December 2025 at 00:00)" tvg-epgid="14463" tvg-logo="https://api.ppvs.su/assets/thumb/f9f3c5ad3564f9f102e05fd50ced88e5-thumbnail.jpg",Iowa Hawkeyes vs. Michigan State Spartans (3 December 2025 at 00:00)
+
+#EXTINF:-1 tvg-id="ppv-14464" tvg-name="Tennessee Volunteers vs. Syracuse Orange (3 December 2025 at 00:00)" tvg-epgid="14464" tvg-logo="https://api.ppvs.su/assets/thumb/4ae0b3e5de1774dd17774c825fa7afb8-thumbnail.jpg",Tennessee Volunteers vs. Syracuse Orange (3 December 2025 at 00:00)
 
 #EXTINF:-1 tvg-id="ppv-14306" tvg-name="Australia vs. England (4 December 2025 at 03:00)" tvg-epgid="14306" tvg-logo="https://api.ppvs.su/assets/thumb/4de443b4bf25d8cd895f9892ed00451d-thumbnail.jpg",Australia vs. England (4 December 2025 at 03:00)
 
@@ -36,6 +50,26 @@
 #EXTINF:-1 tvg-id="ppv-14383" tvg-name="Bournemouth vs. Everton (2 December 2025 at 19:30)" tvg-epgid="14383" tvg-logo="https://api.ppvs.su/assets/thumb/8fb939cddb931ba2a133faba9b5fa003-thumbnail.jpg",Bournemouth vs. Everton (2 December 2025 at 19:30)
 
 #EXTINF:-1 tvg-id="ppv-14387" tvg-name="Fulham vs. Manchester City (2 December 2025 at 19:30)" tvg-epgid="14387" tvg-logo="https://api.ppvs.su/assets/thumb/adcd8f54219369d06c35e745f9459666-thumbnail.jpg",Fulham vs. Manchester City (2 December 2025 at 19:30)
+
+#EXTINF:-1 tvg-id="ppv-14479" tvg-name="Washington Capitals vs. Los Angeles Kings (3 December 2025 at 03:30)" tvg-epgid="14479" tvg-logo="https://api.ppvs.su/assets/thumb/648ec13aeee73802278a00a770a6dc9e-thumbnail.jpg",Washington Capitals vs. Los Angeles Kings (3 December 2025 at 03:30)
+
+#EXTINF:-1 tvg-id="ppv-14478" tvg-name="Chicago Blackhawks vs. Vegas Golden Knights (3 December 2025 at 03:00)" tvg-epgid="14478" tvg-logo="https://api.ppvs.su/assets/thumb/d4db39bcae3353ddec796606b90558fb-thumbnail.jpg",Chicago Blackhawks vs. Vegas Golden Knights (3 December 2025 at 03:00)
+
+#EXTINF:-1 tvg-id="ppv-14476" tvg-name="Vancouver Canucks vs. Colorado Avalanche (3 December 2025 at 02:00)" tvg-epgid="14476" tvg-logo="https://api.ppvs.su/assets/thumb/47661dc389b1a01364b31aa25ff0c607-thumbnail.jpg",Vancouver Canucks vs. Colorado Avalanche (3 December 2025 at 02:00)
+
+#EXTINF:-1 tvg-id="ppv-14477" tvg-name="Minnesota Wild vs. Edmonton Oilers (3 December 2025 at 02:00)" tvg-epgid="14477" tvg-logo="https://api.ppvs.su/assets/thumb/086203fd1ffe72b1774e0a0fb853444c-thumbnail.jpg",Minnesota Wild vs. Edmonton Oilers (3 December 2025 at 02:00)
+
+#EXTINF:-1 tvg-id="ppv-14475" tvg-name="Calgary Flames vs. Nashville Predators (3 December 2025 at 01:00)" tvg-epgid="14475" tvg-logo="https://api.ppvs.su/assets/thumb/e84aceadaa09a635e04f97bdd45325b6-thumbnail.jpg",Calgary Flames vs. Nashville Predators (3 December 2025 at 01:00)
+
+#EXTINF:-1 tvg-id="ppv-14474" tvg-name="Toronto Maple Leafs vs. Florida Panthers (3 December 2025 at 00:30)" tvg-epgid="14474" tvg-logo="https://api.ppvs.su/assets/thumb/85387b8488c096e3080d1bfb4921671b-thumbnail.jpg",Toronto Maple Leafs vs. Florida Panthers (3 December 2025 at 00:30)
+
+#EXTINF:-1 tvg-id="ppv-14470" tvg-name="Ottawa Senators vs. Montreal Canadiens (3 December 2025 at 00:00)" tvg-epgid="14470" tvg-logo="https://api.ppvs.su/assets/thumb/bc5cc968803cb153e6468b7205ce68ce-thumbnail.jpg",Ottawa Senators vs. Montreal Canadiens (3 December 2025 at 00:00)
+
+#EXTINF:-1 tvg-id="ppv-14471" tvg-name="Boston Bruins vs. Detroit Red Wings (3 December 2025 at 00:00)" tvg-epgid="14471" tvg-logo="https://api.ppvs.su/assets/thumb/571b7572dfd2b1fdc3ec81c7e6d43c5c-thumbnail.jpg",Boston Bruins vs. Detroit Red Wings (3 December 2025 at 00:00)
+
+#EXTINF:-1 tvg-id="ppv-14472" tvg-name="Tampa Bay Lightning vs. New York Islanders (3 December 2025 at 00:00)" tvg-epgid="14472" tvg-logo="https://api.ppvs.su/assets/thumb/2db023ee1f1847b3a480c346d9d6e37a-thumbnail.jpg",Tampa Bay Lightning vs. New York Islanders (3 December 2025 at 00:00)
+
+#EXTINF:-1 tvg-id="ppv-14473" tvg-name="Dallas Stars vs. New York Rangers (3 December 2025 at 00:00)" tvg-epgid="14473" tvg-logo="https://api.ppvs.su/assets/thumb/08fc624a84a6274403bf5c40cef39954-thumbnail.jpg",Dallas Stars vs. New York Rangers (3 December 2025 at 00:00)
 
 #EXTINF:-1 tvg-id="ppv-14379" tvg-name="AEW: Wednesday Night Dynamite (4 December 2025 at 01:00)" tvg-epgid="14379" tvg-logo="https://api.ppvs.su/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg",AEW: Wednesday Night Dynamite (4 December 2025 at 01:00)
 
