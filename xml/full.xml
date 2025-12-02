@@ -131,28 +131,6 @@ channel="ppv-14457"
 <icon src="https://api.ppvs.su/assets/thumb/a75be1c8928f39c2727764edb1096fe1-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-14371">
-<display-name>Phoenix Suns vs. Los Angeles Lakers</display-name>
-</channel>
-<programme
-start="20251202030000 +0000"
-stop="20251202054800 +0000"
-channel="ppv-14371"
->
-<title lang="en">Phoenix Suns vs. Los Angeles Lakers</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://api.ppvs.su/assets/thumb/d4eab29ee32129c51ccd7dc025c98183-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-14306">
 <display-name>Australia vs. England</display-name>
 </channel>
@@ -415,28 +393,6 @@ channel="ppv-14387"
 </audio>
 <category>Football</category>
 <icon src="https://api.ppvs.su/assets/thumb/adcd8f54219369d06c35e745f9459666-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-14443">
-<display-name>Utah Mammoth vs. San Jose Sharks</display-name>
-</channel>
-<programme
-start="20251202030000 +0000"
-stop="20251202060000 +0000"
-channel="ppv-14443"
->
-<title lang="en">Utah Mammoth vs. San Jose Sharks</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://api.ppvs.su/assets/thumb/08bc6329c8a7a39debe15f8f335e98f0-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-14379">
