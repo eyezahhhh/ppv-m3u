@@ -505,28 +505,6 @@ channel="ppv-14391"
 <icon src="https://api.ppvs.su/assets/thumb/f0dd8c9b3fc130d820becd99b1b27700-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-14444">
-<display-name>FC Barcelona vs. Atlético de Madrid</display-name>
-</channel>
-<programme
-start="20251202200000 +0000"
-stop="20251202223000 +0000"
-channel="ppv-14444"
->
-<title lang="en">FC Barcelona vs. Atlético de Madrid</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/48de25ee3c859c74c933a6eeff440a28-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-14479">
 <display-name>Washington Capitals vs. Los Angeles Kings</display-name>
 </channel>
