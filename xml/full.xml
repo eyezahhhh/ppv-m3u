@@ -483,28 +483,6 @@ channel="ppv-14392"
 <icon src="https://api.ppvs.su/assets/thumb/311e070e6d4b847a9d3127c86cd62ea4-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-14445">
-<display-name>Athletic Club vs. Real Madrid</display-name>
-</channel>
-<programme
-start="20251203180000 +0000"
-stop="20251203203000 +0000"
-channel="ppv-14445"
->
-<title lang="en">Athletic Club vs. Real Madrid</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/1ea6c8a23106563349ec8a9a35723a27-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-14373">
 <display-name>Abu Dhabi Grand Prix - FP2</display-name>
 </channel>
