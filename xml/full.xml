@@ -263,28 +263,6 @@ channel="ppv-14468"
 <icon src="https://api.ppvs.su/assets/thumb/e2da61675c668061b9495c2b6399618a-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-14467">
-<display-name>UConn Huskies vs. Kansas Jayhawks</display-name>
-</channel>
-<programme
-start="20251203020000 +0000"
-stop="20251203053000 +0000"
-channel="ppv-14467"
->
-<title lang="en">UConn Huskies vs. Kansas Jayhawks</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://api.ppvs.su/assets/thumb/029a93336d35b668dc2eeadfaee4f66d-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-14306">
 <display-name>Australia vs. England</display-name>
 </channel>
