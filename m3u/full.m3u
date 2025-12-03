@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ppv-14488" tvg-name="Miami Heat vs. Dallas Mavericks (4 December 2025 at 01:30)" tvg-epgid="14488" tvg-logo="https://api.ppvs.su/assets/thumb/a8e908edb4259d33f1603c865a0da283-thumbnail.jpg",Miami Heat vs. Dallas Mavericks (4 December 2025 at 01:30)
+
 #EXTINF:-1 tvg-id="ppv-14485" tvg-name="Brooklyn Nets vs. Chicago Bulls (4 December 2025 at 01:00)" tvg-epgid="14485" tvg-logo="https://api.ppvs.su/assets/thumb/b86624da8de6249e5f65ac4b0f1f2898-thumbnail.jpg",Brooklyn Nets vs. Chicago Bulls (4 December 2025 at 01:00)
 
 #EXTINF:-1 tvg-id="ppv-14486" tvg-name="Sacramento Kings vs. Houston Rockets (4 December 2025 at 01:00)" tvg-epgid="14486" tvg-logo="https://api.ppvs.su/assets/thumb/6c9a1b31189ab53495694ef34cfad333-thumbnail.jpg",Sacramento Kings vs. Houston Rockets (4 December 2025 at 01:00)
@@ -30,16 +32,6 @@
 #EXTINF:-1 tvg-id="ppv-14388" tvg-name="Leeds United vs. Chelsea (3 December 2025 at 20:15)" tvg-epgid="14388" tvg-logo="https://api.ppvs.su/assets/thumb/90c2e4d7b4d8b29638214aa16746a706-thumbnail.jpg",Leeds United vs. Chelsea (3 December 2025 at 20:15)
 
 #EXTINF:-1 tvg-id="ppv-14389" tvg-name="Liverpool vs. Sunderland (3 December 2025 at 20:15)" tvg-epgid="14389" tvg-logo="https://api.ppvs.su/assets/thumb/1373a3e726525039ca30dfb3c427b997-thumbnail.jpg",Liverpool vs. Sunderland (3 December 2025 at 20:15)
-
-#EXTINF:-1 tvg-id="ppv-5193" tvg-name="Goal Rush (3 December 2025 at 19:30)" tvg-epgid="5193" tvg-logo="https://api.ppvs.su/assets/thumb/8053ee46d14de16c3993fea458359cd8-thumbnail.jpg",Goal Rush (3 December 2025 at 19:30)
-
-#EXTINF:-1 tvg-id="ppv-14384" tvg-name="Arsenal vs. Brentford (3 December 2025 at 19:30)" tvg-epgid="14384" tvg-logo="https://api.ppvs.su/assets/thumb/c06cfc9915fae6152852e4a5290b4f9f-thumbnail.jpg",Arsenal vs. Brentford (3 December 2025 at 19:30)
-
-#EXTINF:-1 tvg-id="ppv-14385" tvg-name="Brighton and Hove Albion vs. Aston Villa (3 December 2025 at 19:30)" tvg-epgid="14385" tvg-logo="https://api.ppvs.su/assets/thumb/8c12b6c775f1943421e442cccb9154f4-thumbnail.jpg",Brighton and Hove Albion vs. Aston Villa (3 December 2025 at 19:30)
-
-#EXTINF:-1 tvg-id="ppv-14386" tvg-name="Burnley vs. Crystal Palace (3 December 2025 at 19:30)" tvg-epgid="14386" tvg-logo="https://api.ppvs.su/assets/thumb/9f7782a7dbada325ba7fd2564c5c170e-thumbnail.jpg",Burnley vs. Crystal Palace (3 December 2025 at 19:30)
-
-#EXTINF:-1 tvg-id="ppv-14392" tvg-name="Wolverhampton Wanderers vs. Nottingham Forest (3 December 2025 at 19:30)" tvg-epgid="14392" tvg-logo="https://api.ppvs.su/assets/thumb/311e070e6d4b847a9d3127c86cd62ea4-thumbnail.jpg",Wolverhampton Wanderers vs. Nottingham Forest (3 December 2025 at 19:30)
 
 #EXTINF:-1 tvg-id="ppv-14373" tvg-name="Abu Dhabi Grand Prix - FP2 (5 December 2025 at 13:00)" tvg-epgid="14373" tvg-logo="https://api.ppvs.su/assets/thumb/dcba7ff5908d374016964a7369ce3168-thumbnail.jpg",Abu Dhabi Grand Prix - FP2 (5 December 2025 at 13:00)
 
