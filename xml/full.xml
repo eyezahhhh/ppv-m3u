@@ -1,26 +1,4 @@
 <tv>
-<channel id="ppv-14488">
-<display-name>Miami Heat vs. Dallas Mavericks</display-name>
-</channel>
-<programme
-start="20251204013000 +0000"
-stop="20251204041800 +0000"
-channel="ppv-14488"
->
-<title lang="en">Miami Heat vs. Dallas Mavericks</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://api.ppvs.su/assets/thumb/a8e908edb4259d33f1603c865a0da283-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-14485">
 <display-name>Brooklyn Nets vs. Chicago Bulls</display-name>
 </channel>
