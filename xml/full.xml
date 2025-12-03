@@ -87,72 +87,6 @@ channel="ppv-14467"
 <icon src="https://api.ppvs.su/assets/thumb/029a93336d35b668dc2eeadfaee4f66d-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-14459">
-<display-name>New York Knicks vs. Boston Celtics</display-name>
-</channel>
-<programme
-start="20251203010000 +0000"
-stop="20251203034800 +0000"
-channel="ppv-14459"
->
-<title lang="en">New York Knicks vs. Boston Celtics</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://api.ppvs.su/assets/thumb/7ba7f5595565ec51306058ebd6f32024-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-14460">
-<display-name>Minnesota Timberwolves vs. New Orleans Pelicans</display-name>
-</channel>
-<programme
-start="20251203010000 +0000"
-stop="20251203034800 +0000"
-channel="ppv-14460"
->
-<title lang="en">Minnesota Timberwolves vs. New Orleans Pelicans</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://api.ppvs.su/assets/thumb/e646c4539db5abf49783f5d9bd1e743c-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-14461">
-<display-name>Memphis Grizzlies vs. San Antonio Spurs</display-name>
-</channel>
-<programme
-start="20251203010000 +0000"
-stop="20251203034800 +0000"
-channel="ppv-14461"
->
-<title lang="en">Memphis Grizzlies vs. San Antonio Spurs</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://api.ppvs.su/assets/thumb/b5311d48967e05c6e71640311a6d9ed0-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-14466">
 <display-name>Purdue Boilermakers vs. Rutgers Scarlet Knights</display-name>
 </channel>
@@ -195,50 +129,6 @@ channel="ppv-14465"
 </audio>
 <category>Basketball</category>
 <icon src="https://api.ppvs.su/assets/thumb/522f4e87cf2d992f63ffe56f858b7a34-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-14463">
-<display-name>Iowa Hawkeyes vs. Michigan State Spartans</display-name>
-</channel>
-<programme
-start="20251203000000 +0000"
-stop="20251203033000 +0000"
-channel="ppv-14463"
->
-<title lang="en">Iowa Hawkeyes vs. Michigan State Spartans</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://api.ppvs.su/assets/thumb/f9f3c5ad3564f9f102e05fd50ced88e5-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-14464">
-<display-name>Tennessee Volunteers vs. Syracuse Orange</display-name>
-</channel>
-<programme
-start="20251203000000 +0000"
-stop="20251203033000 +0000"
-channel="ppv-14464"
->
-<title lang="en">Tennessee Volunteers vs. Syracuse Orange</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://api.ppvs.su/assets/thumb/4ae0b3e5de1774dd17774c825fa7afb8-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-14306">
@@ -547,28 +437,6 @@ channel="ppv-14475"
 </audio>
 <category>Ice Hockey</category>
 <icon src="https://api.ppvs.su/assets/thumb/e84aceadaa09a635e04f97bdd45325b6-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-14474">
-<display-name>Toronto Maple Leafs vs. Florida Panthers</display-name>
-</channel>
-<programme
-start="20251203003000 +0000"
-stop="20251203033000 +0000"
-channel="ppv-14474"
->
-<title lang="en">Toronto Maple Leafs vs. Florida Panthers</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://api.ppvs.su/assets/thumb/85387b8488c096e3080d1bfb4921671b-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-14380">
