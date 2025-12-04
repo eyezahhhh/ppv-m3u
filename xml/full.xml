@@ -109,6 +109,116 @@ channel="ppv-14490"
 <icon src="https://api.ppvs.su/assets/thumb/09822f0d61d0f969acfe86ce4ee2ebd8-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-14413">
+<display-name>Heidenheim vs. Freiburg</display-name>
+</channel>
+<programme
+start="20251206143000 +0000"
+stop="20251206170000 +0000"
+channel="ppv-14413"
+>
+<title lang="en">Heidenheim vs. Freiburg</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/d865ea3b1e8ded2aab9d592e39802363-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-14414">
+<display-name>Augsburg vs. Leverkusen</display-name>
+</channel>
+<programme
+start="20251206143000 +0000"
+stop="20251206170000 +0000"
+channel="ppv-14414"
+>
+<title lang="en">Augsburg vs. Leverkusen</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/ebd6330a9e707f1c1b11f6b8e7a39a4b-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-14415">
+<display-name>Cologne vs. St. Pauli</display-name>
+</channel>
+<programme
+start="20251206143000 +0000"
+stop="20251206170000 +0000"
+channel="ppv-14415"
+>
+<title lang="en">Cologne vs. St. Pauli</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/ed0ef226b271fca14eeea02729239dc0-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-14416">
+<display-name>Stuttgart vs. Bayern</display-name>
+</channel>
+<programme
+start="20251206143000 +0000"
+stop="20251206170000 +0000"
+channel="ppv-14416"
+>
+<title lang="en">Stuttgart vs. Bayern</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/0556df90068e70e28351bd888c3c9dec-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-14417">
+<display-name>Wolfsburg vs. Union Berlin</display-name>
+</channel>
+<programme
+start="20251206143000 +0000"
+stop="20251206170000 +0000"
+channel="ppv-14417"
+>
+<title lang="en">Wolfsburg vs. Union Berlin</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/87dd44a5b56faf653a95e0de19a68cf8-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-14421">
 <display-name>Sassuolo vs. Fiorentina</display-name>
 </channel>
