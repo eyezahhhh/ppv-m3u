@@ -109,28 +109,6 @@ channel="ppv-14490"
 <icon src="https://api.ppvs.su/assets/thumb/09822f0d61d0f969acfe86ce4ee2ebd8-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-14306">
-<display-name>Australia vs. England</display-name>
-</channel>
-<programme
-start="20251204030000 +0000"
-stop="20251204120000 +0000"
-channel="ppv-14306"
->
-<title lang="en">Australia vs. England</title>
-<sub-title>Cricket</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Cricket</category>
-<icon src="https://api.ppvs.su/assets/thumb/4de443b4bf25d8cd895f9892ed00451d-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-14432">
 <display-name>LOSC vs. OM</display-name>
 </channel>
