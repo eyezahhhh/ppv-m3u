@@ -3,14 +3,6 @@
 
 #EXTINF:-1 tvg-id="ppv-14494" tvg-name="Minnesota Timberwolves vs. New Orleans Pelicans (5 December 2025 at 01:00)" tvg-epgid="14494" tvg-logo="https://api.ppvs.su/assets/thumb/e646c4539db5abf49783f5d9bd1e743c-thumbnail.jpg",Minnesota Timberwolves vs. New Orleans Pelicans (5 December 2025 at 01:00)
 
-#EXTINF:-1 tvg-id="ppv-14491" tvg-name="Utah Jazz vs. Brooklyn Nets (5 December 2025 at 00:30)" tvg-epgid="14491" tvg-logo="https://api.ppvs.su/assets/thumb/5589c5a1b4d8425498b118b7b838ed8e-thumbnail.jpg",Utah Jazz vs. Brooklyn Nets (5 December 2025 at 00:30)
-
-#EXTINF:-1 tvg-id="ppv-14492" tvg-name="Los Angeles Lakers vs. Toronto Raptors (5 December 2025 at 00:30)" tvg-epgid="14492" tvg-logo="https://api.ppvs.su/assets/thumb/d7d745a65870c6a5ccec399dcd6778c0-thumbnail.jpg",Los Angeles Lakers vs. Toronto Raptors (5 December 2025 at 00:30)
-
-#EXTINF:-1 tvg-id="ppv-14489" tvg-name="Golden State Warriors vs. Philadelphia 76ers (5 December 2025 at 00:00)" tvg-epgid="14489" tvg-logo="https://api.ppvs.su/assets/thumb/25257e5da7f21ce688176d7de731f317-thumbnail.jpg",Golden State Warriors vs. Philadelphia 76ers (5 December 2025 at 00:00)
-
-#EXTINF:-1 tvg-id="ppv-14490" tvg-name="Boston Celtics vs. Washington Wizards (5 December 2025 at 00:00)" tvg-epgid="14490" tvg-logo="https://api.ppvs.su/assets/thumb/09822f0d61d0f969acfe86ce4ee2ebd8-thumbnail.jpg",Boston Celtics vs. Washington Wizards (5 December 2025 at 00:00)
-
 #EXTINF:-1 tvg-id="ppv-14282" tvg-name="UFC 323: Dvalishvili vs. Yan 2 (6 December 2025 at 23:00)" tvg-epgid="14282" tvg-logo="https://api.ppvs.su/assets/thumb/6381c559afa78de552235c103e13a74c-thumbnail.jpg",UFC 323: Dvalishvili vs. Yan 2 (6 December 2025 at 23:00)
 
 #EXTINF:-1 tvg-id="ppv-14506" tvg-name="Shabaz Masoud vs. Peter McGrail (6 December 2025 at 18:00)" tvg-epgid="14506" tvg-logo="https://api.ppvs.su/assets/thumb/eec214b8ea4c56c5ca2f6ec182a0def1-thumbnail.jpg",Shabaz Masoud vs. Peter McGrail (6 December 2025 at 18:00)
@@ -76,20 +68,6 @@
 #EXTINF:-1 tvg-id="ppv-14502" tvg-name="Wild vs. Flames (5 December 2025 at 02:00)" tvg-epgid="14502" tvg-logo="https://api.ppvs.su/assets/thumb/64d7e3ee61963086e58cfd3c060d3ec4-thumbnail.jpg",Wild vs. Flames (5 December 2025 at 02:00)
 
 #EXTINF:-1 tvg-id="ppv-14503" tvg-name="Kraken vs. Oilers (5 December 2025 at 02:00)" tvg-epgid="14503" tvg-logo="https://api.ppvs.su/assets/thumb/7f94e26bb07da557ad7fdbd9496ff45d-thumbnail.jpg",Kraken vs. Oilers (5 December 2025 at 02:00)
-
-#EXTINF:-1 tvg-id="ppv-14501" tvg-name="Red Wings vs. Blue Jackets (5 December 2025 at 00:30)" tvg-epgid="14501" tvg-logo="https://api.ppvs.su/assets/thumb/7b60559e15ab9043f053b1113da3a74f-thumbnail.jpg",Red Wings vs. Blue Jackets (5 December 2025 at 00:30)
-
-#EXTINF:-1 tvg-id="ppv-14495" tvg-name="Blues vs. Bruins (5 December 2025 at 00:00)" tvg-epgid="14495" tvg-logo="https://api.ppvs.su/assets/thumb/4a6bfbf08c09305d88dbc1edd00e86a6-thumbnail.jpg",Blues vs. Bruins (5 December 2025 at 00:00)
-
-#EXTINF:-1 tvg-id="ppv-14496" tvg-name="Rangers vs. Senators (5 December 2025 at 00:00)" tvg-epgid="14496" tvg-logo="https://api.ppvs.su/assets/thumb/40dd24bf57c0113f9a7a99ba7321453b-thumbnail.jpg",Rangers vs. Senators (5 December 2025 at 00:00)
-
-#EXTINF:-1 tvg-id="ppv-14497" tvg-name="Penguins vs. Lightning (5 December 2025 at 00:00)" tvg-epgid="14497" tvg-logo="https://api.ppvs.su/assets/thumb/d9031379e00d10761829a2536b091d2e-thumbnail.jpg",Penguins vs. Lightning (5 December 2025 at 00:00)
-
-#EXTINF:-1 tvg-id="ppv-14498" tvg-name="Predators vs. Panthers (5 December 2025 at 00:00)" tvg-epgid="14498" tvg-logo="https://api.ppvs.su/assets/thumb/50aa367c422ad8867c6aca25302a78d0-thumbnail.jpg",Predators vs. Panthers (5 December 2025 at 00:00)
-
-#EXTINF:-1 tvg-id="ppv-14499" tvg-name="Avalanche vs. Islanders (5 December 2025 at 00:00)" tvg-epgid="14499" tvg-logo="https://api.ppvs.su/assets/thumb/a864deab2f7445b9817e5c4878feaa14-thumbnail.jpg",Avalanche vs. Islanders (5 December 2025 at 00:00)
-
-#EXTINF:-1 tvg-id="ppv-14500" tvg-name="Maple Leafs vs. Hurricanes (5 December 2025 at 00:00)" tvg-epgid="14500" tvg-logo="https://api.ppvs.su/assets/thumb/954638ca2b72d2889b564e4386a9e11c-thumbnail.jpg",Maple Leafs vs. Hurricanes (5 December 2025 at 00:00)
 
 #EXTINF:-1 tvg-id="ppv-14375" tvg-name="Abu Dhabi Grand Prix - Qualifying (6 December 2025 at 14:00)" tvg-epgid="14375" tvg-logo="https://api.ppvs.su/assets/thumb/e53715e90a78c2d744d6ebad3cac4082-thumbnail.jpg",Abu Dhabi Grand Prix - Qualifying (6 December 2025 at 14:00)
 
