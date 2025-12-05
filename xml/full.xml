@@ -329,6 +329,28 @@ channel="ppv-14306"
 <icon src="https://api.ppvs.su/assets/thumb/4de443b4bf25d8cd895f9892ed00451d-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-14453">
+<display-name>RCD Espanyol de Barcelona vs. Rayo Vallecano</display-name>
+</channel>
+<programme
+start="20251207173000 +0000"
+stop="20251207200000 +0000"
+channel="ppv-14453"
+>
+<title lang="en">RCD Espanyol de Barcelona vs. Rayo Vallecano</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/965746d397d42931b18a85b53975179f-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-14426">
 <display-name>Lazio vs. Bologna</display-name>
 </channel>
