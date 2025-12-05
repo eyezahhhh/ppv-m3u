@@ -329,6 +329,72 @@ channel="ppv-14306"
 <icon src="https://api.ppvs.su/assets/thumb/4de443b4bf25d8cd895f9892ed00451d-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-14454">
+<display-name>Real Madrid vs. Celta</display-name>
+</channel>
+<programme
+start="20251207200000 +0000"
+stop="20251207223000 +0000"
+channel="ppv-14454"
+>
+<title lang="en">Real Madrid vs. Celta</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/7474a99937f923382d44be84c63d9f57-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-14427">
+<display-name>Napoli vs. Juventus</display-name>
+</channel>
+<programme
+start="20251207194500 +0000"
+stop="20251207221500 +0000"
+channel="ppv-14427"
+>
+<title lang="en">Napoli vs. Juventus</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/1ec6366647755f299eef3bf02abba79e-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-14439">
+<display-name>FC Lorient vs. OL</display-name>
+</channel>
+<programme
+start="20251207194500 +0000"
+stop="20251207221500 +0000"
+channel="ppv-14439"
+>
+<title lang="en">FC Lorient vs. OL</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/3af6418d01a026864cc8517c3cbe9f15-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-14453">
 <display-name>RCD Espanyol de Barcelona vs. Rayo Vallecano</display-name>
 </channel>
