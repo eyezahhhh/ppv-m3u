@@ -29,6 +29,8 @@
 
 #EXTINF:-1 tvg-id="ppv-14306" tvg-name="Australia vs. England (6 December 2025 at 04:00)" tvg-epgid="14306" tvg-logo="https://api.ppvs.su/assets/thumb/4de443b4bf25d8cd895f9892ed00451d-thumbnail.jpg",Australia vs. England (6 December 2025 at 04:00)
 
+#EXTINF:-1 tvg-id="ppv-14426" tvg-name="Lazio vs. Bologna (7 December 2025 at 17:00)" tvg-epgid="14426" tvg-logo="https://api.ppvs.su/assets/thumb/81402c0c3fe75b55bde6faff246b5c9e-thumbnail.jpg",Lazio vs. Bologna (7 December 2025 at 17:00)
+
 #EXTINF:-1 tvg-id="ppv-14397" tvg-name="Fulham vs. Crystal Palace (7 December 2025 at 16:30)" tvg-epgid="14397" tvg-logo="https://api.ppvs.su/assets/thumb/d2fd18098a2cd0b50e2ededc0ef1c66a-thumbnail.jpg",Fulham vs. Crystal Palace (7 December 2025 at 16:30)
 
 #EXTINF:-1 tvg-id="ppv-14420" tvg-name="Dortmund vs. Hoffenheim (7 December 2025 at 16:30)" tvg-epgid="14420" tvg-logo="https://api.ppvs.su/assets/thumb/959087cd7e92edfadfc2b55e30c9426b-thumbnail.jpg",Dortmund vs. Hoffenheim (7 December 2025 at 16:30)
@@ -104,6 +106,8 @@
 #EXTINF:-1 tvg-id="ppv-14412" tvg-name="Mainz vs. Gladbach (5 December 2025 at 19:30)" tvg-epgid="14412" tvg-logo="https://api.ppvs.su/assets/thumb/f6a585129153f4125a428a81af52b456-thumbnail.jpg",Mainz vs. Gladbach (5 December 2025 at 19:30)
 
 #EXTINF:-1 tvg-id="ppv-14431" tvg-name="Brest vs. AS Monaco (5 December 2025 at 18:00)" tvg-epgid="14431" tvg-logo="https://api.ppvs.su/assets/thumb/da3a18d1270ec1926f28fe1b64a64a5f-thumbnail.jpg",Brest vs. AS Monaco (5 December 2025 at 18:00)
+
+#EXTINF:-1 tvg-id="ppv-14539" tvg-name="2026 FIFA World Cup Draw (5 December 2025 at 17:00)" tvg-epgid="14539" tvg-logo="https://api.ppvs.su/assets/thumb/9482098dedf674344f206d8f3e2d0a96-thumbnail.jpg",2026 FIFA World Cup Draw (5 December 2025 at 17:00)
 
 #EXTINF:-1 tvg-id="ppv-14538" tvg-name="Washington Capitals vs. Anaheim Ducks (6 December 2025 at 03:00)" tvg-epgid="14538" tvg-logo="https://api.ppvs.su/assets/thumb/6d2336ee3fcd3ada6627a7b7db22a5c2-thumbnail.jpg",Washington Capitals vs. Anaheim Ducks (6 December 2025 at 03:00)
 
