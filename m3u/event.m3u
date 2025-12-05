@@ -29,6 +29,8 @@
 
 #EXTINF:-1 tvg-id="ppv-14306" tvg-name="Australia vs. England (5 December 2025 at 04:00)" tvg-epgid="14306" tvg-logo="https://api.ppvs.su/assets/thumb/4de443b4bf25d8cd895f9892ed00451d-thumbnail.jpg",Australia vs. England (5 December 2025 at 04:00)
 
+#EXTINF:-1 tvg-id="ppv-14424" tvg-name="Cremonese vs. Lecce (7 December 2025 at 11:30)" tvg-epgid="14424" tvg-logo="https://api.ppvs.su/assets/thumb/d2ceab95f93fb99dee613dd2cc79b72c-thumbnail.jpg",Cremonese vs. Lecce (7 December 2025 at 11:30)
+
 #EXTINF:-1 tvg-id="ppv-14435" tvg-name="PSG vs. Rennes (6 December 2025 at 20:05)" tvg-epgid="14435" tvg-logo="https://api.ppvs.su/assets/thumb/57910f21e35c5297c74118d13f835c74-thumbnail.jpg",PSG vs. Rennes (6 December 2025 at 20:05)
 
 #EXTINF:-1 tvg-id="ppv-14450" tvg-name="Athletic Club vs. Atlético de Madrid (6 December 2025 at 20:00)" tvg-epgid="14450" tvg-logo="https://api.ppvs.su/assets/thumb/6207097a5fed441ce86325220f11d371-thumbnail.jpg",Athletic Club vs. Atlético de Madrid (6 December 2025 at 20:00)
@@ -88,8 +90,6 @@
 #EXTINF:-1 tvg-id="ppv-14374" tvg-name="Abu Dhabi Grand Prix - FP3 (6 December 2025 at 10:30)" tvg-epgid="14374" tvg-logo="https://api.ppvs.su/assets/thumb/e691fdcd52c74ad7a1f499ce87247c61-thumbnail.jpg",Abu Dhabi Grand Prix - FP3 (6 December 2025 at 10:30)
 
 #EXTINF:-1 tvg-id="ppv-14373" tvg-name="Abu Dhabi Grand Prix - FP2 (5 December 2025 at 13:00)" tvg-epgid="14373" tvg-logo="https://api.ppvs.su/assets/thumb/dcba7ff5908d374016964a7369ce3168-thumbnail.jpg",Abu Dhabi Grand Prix - FP2 (5 December 2025 at 13:00)
-
-#EXTINF:-1 tvg-id="ppv-14372" tvg-name="Abu Dhabi Grand Prix - FP1 (5 December 2025 at 09:30)" tvg-epgid="14372" tvg-logo="https://api.ppvs.su/assets/thumb/872fb7fd7bc18d07bc42ed7eee3290f5-thumbnail.jpg",Abu Dhabi Grand Prix - FP1 (5 December 2025 at 09:30)
 
 #EXTINF:-1 tvg-id="ppv-14382" tvg-name="AEW: Saturday Night Collision (7 December 2025 at 01:00)" tvg-epgid="14382" tvg-logo="https://api.ppvs.su/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg",AEW: Saturday Night Collision (7 December 2025 at 01:00)
 
