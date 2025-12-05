@@ -99,6 +99,8 @@
 
 #EXTINF:-1 tvg-id="ppv-14372" tvg-name="Abu Dhabi Grand Prix - FP1 (5 December 2025 at 09:30)" tvg-epgid="14372" tvg-logo="https://api.ppvs.su/assets/thumb/872fb7fd7bc18d07bc42ed7eee3290f5-thumbnail.jpg",Abu Dhabi Grand Prix - FP1 (5 December 2025 at 09:30)
 
+#EXTINF:-1 tvg-id="ppv-14382" tvg-name="AEW: Saturday Night Collision (7 December 2025 at 01:00)" tvg-epgid="14382" tvg-logo="https://api.ppvs.su/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg",AEW: Saturday Night Collision (7 December 2025 at 01:00)
+
 #EXTINF:-1 tvg-id="ppv-14381" tvg-name="WWE: Friday Night Smackdown (6 December 2025 at 01:00)" tvg-epgid="14381" tvg-logo="https://api.ppvs.su/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg",WWE: Friday Night Smackdown (6 December 2025 at 01:00)
 
 #EXTINF:-1 tvg-id="ppv-14380" tvg-name="TNA: Impact (5 December 2025 at 01:00)" tvg-epgid="14380" tvg-logo="https://api.ppvs.su/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg",TNA: Impact (5 December 2025 at 01:00)
