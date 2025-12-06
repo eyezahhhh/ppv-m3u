@@ -571,6 +571,28 @@ channel="ppv-14506"
 <icon src="https://api.ppvs.su/assets/thumb/eec214b8ea4c56c5ca2f6ec182a0def1-thumbnail.jpg" />
 </programme>
 
+<channel id="ppv-14428">
+<display-name>Pisa vs. Parma</display-name>
+</channel>
+<programme
+start="20251208140000 +0000"
+stop="20251208163000 +0000"
+channel="ppv-14428"
+>
+<title lang="en">Pisa vs. Parma</title>
+<sub-title>Football</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Football</category>
+<icon src="https://api.ppvs.su/assets/thumb/a13c4b1d8e7ee5c155e89f1bbb3d0c39-thumbnail.jpg" />
+</programme>
+
 <channel id="ppv-14454">
 <display-name>Real Madrid vs. Celta</display-name>
 </channel>
