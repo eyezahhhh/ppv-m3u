@@ -53,6 +53,8 @@
 
 #EXTINF:-1 tvg-id="ppv-14306" tvg-name="Australia vs. England (7 December 2025 at 04:00)" tvg-epgid="14306" tvg-logo="https://api.ppvs.su/assets/thumb/4de443b4bf25d8cd895f9892ed00451d-thumbnail.jpg",Australia vs. England (7 December 2025 at 04:00)
 
+#EXTINF:-1 tvg-id="ppv-14429" tvg-name="Udinese vs. Genoa (8 December 2025 at 17:00)" tvg-epgid="14429" tvg-logo="https://api.ppvs.su/assets/thumb/09b85654a26095331c96fa40460bbaa2-thumbnail.jpg",Udinese vs. Genoa (8 December 2025 at 17:00)
+
 #EXTINF:-1 tvg-id="ppv-14428" tvg-name="Pisa vs. Parma (8 December 2025 at 14:00)" tvg-epgid="14428" tvg-logo="https://api.ppvs.su/assets/thumb/a13c4b1d8e7ee5c155e89f1bbb3d0c39-thumbnail.jpg",Pisa vs. Parma (8 December 2025 at 14:00)
 
 #EXTINF:-1 tvg-id="ppv-14454" tvg-name="Real Madrid vs. Celta (7 December 2025 at 20:00)" tvg-epgid="14454" tvg-logo="https://api.ppvs.su/assets/thumb/7474a99937f923382d44be84c63d9f57-thumbnail.jpg",Real Madrid vs. Celta (7 December 2025 at 20:00)
@@ -121,23 +123,21 @@
 
 #EXTINF:-1 tvg-id="ppv-12822" tvg-name="Goal Arena (6 December 2025 at 14:30)" tvg-epgid="12822" tvg-logo="https://api.ppvs.su/assets/thumb/dd9a64549d7fa6bd306566b0093c32ba-thumbnail.jpg",Goal Arena (6 December 2025 at 14:30)
 
-#EXTINF:-1 tvg-id="ppv-14413" tvg-name="Heidenheim vs. Freiburg (6 December 2025 at 14:30)" tvg-epgid="14413" tvg-logo="https://api.ppvs.su/assets/thumb/d865ea3b1e8ded2aab9d592e39802363-thumbnail.jpg",Heidenheim vs. Freiburg (6 December 2025 at 14:30)
-
-#EXTINF:-1 tvg-id="ppv-14414" tvg-name="Augsburg vs. Leverkusen (6 December 2025 at 14:30)" tvg-epgid="14414" tvg-logo="https://api.ppvs.su/assets/thumb/ebd6330a9e707f1c1b11f6b8e7a39a4b-thumbnail.jpg",Augsburg vs. Leverkusen (6 December 2025 at 14:30)
-
-#EXTINF:-1 tvg-id="ppv-14415" tvg-name="Cologne vs. St. Pauli (6 December 2025 at 14:30)" tvg-epgid="14415" tvg-logo="https://api.ppvs.su/assets/thumb/ed0ef226b271fca14eeea02729239dc0-thumbnail.jpg",Cologne vs. St. Pauli (6 December 2025 at 14:30)
-
-#EXTINF:-1 tvg-id="ppv-14416" tvg-name="Stuttgart vs. Bayern (6 December 2025 at 14:30)" tvg-epgid="14416" tvg-logo="https://api.ppvs.su/assets/thumb/0556df90068e70e28351bd888c3c9dec-thumbnail.jpg",Stuttgart vs. Bayern (6 December 2025 at 14:30)
-
-#EXTINF:-1 tvg-id="ppv-14417" tvg-name="Wolfsburg vs. Union Berlin (6 December 2025 at 14:30)" tvg-epgid="14417" tvg-logo="https://api.ppvs.su/assets/thumb/87dd44a5b56faf653a95e0de19a68cf8-thumbnail.jpg",Wolfsburg vs. Union Berlin (6 December 2025 at 14:30)
-
 #EXTINF:-1 tvg-id="ppv-14635" tvg-name="Winnipeg Jets vs. Edmonton Oilers (7 December 2025 at 03:00)" tvg-epgid="14635" tvg-logo="https://api.ppvs.su/assets/thumb/60de5a5517f4d8000c0f352c2983a8ee-thumbnail.jpg",Winnipeg Jets vs. Edmonton Oilers (7 December 2025 at 03:00)
 
 #EXTINF:-1 tvg-id="ppv-14636" tvg-name="Minnesota Wild vs. Vancouver Canucks (7 December 2025 at 03:00)" tvg-epgid="14636" tvg-logo="https://api.ppvs.su/assets/thumb/0680c9c62fb0c73f1e5d510721c57c6a-thumbnail.jpg",Minnesota Wild vs. Vancouver Canucks (7 December 2025 at 03:00)
 
 #EXTINF:-1 tvg-id="ppv-14637" tvg-name="Detroit Red Wings vs. Seattle Kraken (7 December 2025 at 03:00)" tvg-epgid="14637" tvg-logo="https://api.ppvs.su/assets/thumb/a6e87a09c834d036109ae7ab2e24d3ff-thumbnail.jpg",Detroit Red Wings vs. Seattle Kraken (7 December 2025 at 03:00)
 
+#EXTINF:-1 tvg-id="ppv-14675" tvg-name="Winnipeg Jets vs. Edmonton Oilers (7 December 2025 at 03:00)" tvg-epgid="14675" tvg-logo="https://api.ppvs.su/assets/thumb/5f96067dde300e232690e0f725a88442-thumbnail.jpg",Winnipeg Jets vs. Edmonton Oilers (7 December 2025 at 03:00)
+
+#EXTINF:-1 tvg-id="ppv-14676" tvg-name="Minnesota Wild vs. Vancouver Canucks (7 December 2025 at 03:00)" tvg-epgid="14676" tvg-logo="https://api.ppvs.su/assets/thumb/cd2ed60bbcfd60b61cf2b5131c5e54ad-thumbnail.jpg",Minnesota Wild vs. Vancouver Canucks (7 December 2025 at 03:00)
+
+#EXTINF:-1 tvg-id="ppv-14677" tvg-name="Detroit Red Wings vs. Seattle Kraken (7 December 2025 at 03:00)" tvg-epgid="14677" tvg-logo="https://api.ppvs.su/assets/thumb/a0d54c4da2716bc5f7013047c9fa0f99-thumbnail.jpg",Detroit Red Wings vs. Seattle Kraken (7 December 2025 at 03:00)
+
 #EXTINF:-1 tvg-id="ppv-14634" tvg-name="Chicago Blackhawks vs. Los Angeles Kings (7 December 2025 at 02:00)" tvg-epgid="14634" tvg-logo="https://api.ppvs.su/assets/thumb/5ae455391c63065001e82615992fb227-thumbnail.jpg",Chicago Blackhawks vs. Los Angeles Kings (7 December 2025 at 02:00)
+
+#EXTINF:-1 tvg-id="ppv-14674" tvg-name="Chicago Blackhawks vs. Los Angeles Kings (7 December 2025 at 02:00)" tvg-epgid="14674" tvg-logo="https://api.ppvs.su/assets/thumb/76bb90630709e00fdde63a10e80c2a5e-thumbnail.jpg",Chicago Blackhawks vs. Los Angeles Kings (7 December 2025 at 02:00)
 
 #EXTINF:-1 tvg-id="ppv-14628" tvg-name="New Jersey Devils vs. Boston Bruins (7 December 2025 at 00:00)" tvg-epgid="14628" tvg-logo="https://api.ppvs.su/assets/thumb/b57694446c77c7c373842d7226e79b7b-thumbnail.jpg",New Jersey Devils vs. Boston Bruins (7 December 2025 at 00:00)
 
@@ -151,9 +151,25 @@
 
 #EXTINF:-1 tvg-id="ppv-14633" tvg-name="Utah Mammoth vs. Calgary Flames (7 December 2025 at 00:00)" tvg-epgid="14633" tvg-logo="https://api.ppvs.su/assets/thumb/2a69def79c68f73d3e9a7ab99f410795-thumbnail.jpg",Utah Mammoth vs. Calgary Flames (7 December 2025 at 00:00)
 
+#EXTINF:-1 tvg-id="ppv-14668" tvg-name="New Jersey Devils vs. Boston Bruins (7 December 2025 at 00:00)" tvg-epgid="14668" tvg-logo="https://api.ppvs.su/assets/thumb/50d03042c6a96e7a81dbf2e0335321c9-thumbnail.jpg",New Jersey Devils vs. Boston Bruins (7 December 2025 at 00:00)
+
+#EXTINF:-1 tvg-id="ppv-14669" tvg-name="Montreal Canadiens vs. Toronto Maple Leafs (7 December 2025 at 00:00)" tvg-epgid="14669" tvg-logo="https://api.ppvs.su/assets/thumb/570c9f259a9592e0a0e1f7acb735711d-thumbnail.jpg",Montreal Canadiens vs. Toronto Maple Leafs (7 December 2025 at 00:00)
+
+#EXTINF:-1 tvg-id="ppv-14670" tvg-name="St. Louis Blues vs. Ottawa Senators (7 December 2025 at 00:00)" tvg-epgid="14670" tvg-logo="https://api.ppvs.su/assets/thumb/b61edf7ef95c7d6f73afa0cef58d56b1-thumbnail.jpg",St. Louis Blues vs. Ottawa Senators (7 December 2025 at 00:00)
+
+#EXTINF:-1 tvg-id="ppv-14671" tvg-name="New York Islanders vs. Tampa Bay Lightning (7 December 2025 at 00:00)" tvg-epgid="14671" tvg-logo="https://api.ppvs.su/assets/thumb/2a303c6eb2e1ade9170b2f222f6e5eba-thumbnail.jpg",New York Islanders vs. Tampa Bay Lightning (7 December 2025 at 00:00)
+
+#EXTINF:-1 tvg-id="ppv-14672" tvg-name="Nashville Predators vs. Carolina Hurricanes (7 December 2025 at 00:00)" tvg-epgid="14672" tvg-logo="https://api.ppvs.su/assets/thumb/6f881eb39589149e3b718cfef3a43cfd-thumbnail.jpg",Nashville Predators vs. Carolina Hurricanes (7 December 2025 at 00:00)
+
+#EXTINF:-1 tvg-id="ppv-14673" tvg-name="Utah Mammoth vs. Calgary Flames (7 December 2025 at 00:00)" tvg-epgid="14673" tvg-logo="https://api.ppvs.su/assets/thumb/87c1e14b0c842be0d075270b76747aef-thumbnail.jpg",Utah Mammoth vs. Calgary Flames (7 December 2025 at 00:00)
+
 #EXTINF:-1 tvg-id="ppv-14627" tvg-name="Columbus Blue Jackets vs. Florida Panthers (6 December 2025 at 20:30)" tvg-epgid="14627" tvg-logo="https://api.ppvs.su/assets/thumb/ffe2b26662f5211b2baacf6c952c2d30-thumbnail.jpg",Columbus Blue Jackets vs. Florida Panthers (6 December 2025 at 20:30)
 
+#EXTINF:-1 tvg-id="ppv-14667" tvg-name="Columbus Blue Jackets vs. Florida Panthers (6 December 2025 at 20:30)" tvg-epgid="14667" tvg-logo="https://api.ppvs.su/assets/thumb/bc3ebbc864efdb568abcd8e9ae030c70-thumbnail.jpg",Columbus Blue Jackets vs. Florida Panthers (6 December 2025 at 20:30)
+
 #EXTINF:-1 tvg-id="ppv-14626" tvg-name="Colorado Avalanche vs. New York Rangers (6 December 2025 at 17:30)" tvg-epgid="14626" tvg-logo="https://api.ppvs.su/assets/thumb/7f0c1a7776692bbd4c5e945789b34892-thumbnail.jpg",Colorado Avalanche vs. New York Rangers (6 December 2025 at 17:30)
+
+#EXTINF:-1 tvg-id="ppv-14666" tvg-name="Colorado Avalanche vs. New York Rangers (6 December 2025 at 17:30)" tvg-epgid="14666" tvg-logo="https://api.ppvs.su/assets/thumb/c382980db064f24f98aadf3dd404c9f5-thumbnail.jpg",Colorado Avalanche vs. New York Rangers (6 December 2025 at 17:30)
 
 #EXTINF:-1 tvg-id="ppv-14376" tvg-name="Abu Dhabi Grand Prix - Race (7 December 2025 at 13:00)" tvg-epgid="14376" tvg-logo="https://api.ppvs.su/assets/thumb/d890eca4149c3753348ba502a664b75c-thumbnail.jpg",Abu Dhabi Grand Prix - Race (7 December 2025 at 13:00)
 
