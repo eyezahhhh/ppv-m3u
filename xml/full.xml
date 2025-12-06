@@ -329,28 +329,6 @@ channel="ppv-14599"
 <icon src="https://api.ppvs.su/assets/thumb/c25b4d7302c5c1c448a26dc0a4a8f2cf-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-14598">
-<display-name>BYU Cougars vs. Texas Tech Red Raiders</display-name>
-</channel>
-<programme
-start="20251206170000 +0000"
-stop="20251206203000 +0000"
-channel="ppv-14598"
->
-<title lang="en">BYU Cougars vs. Texas Tech Red Raiders</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/0b554946e401035aed44cfcbe5e95102-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-14651">
 <display-name>Houston Rockets vs. Dallas Mavericks</display-name>
 </channel>
@@ -1143,28 +1121,6 @@ channel="ppv-14679"
 <icon src="https://api.ppvs.su/assets/thumb/b229b3daa6c761b9d285a80987ac8a24-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-14434">
-<display-name>Toulouse FC vs. Strasbourg</display-name>
-</channel>
-<programme
-start="20251206180000 +0000"
-stop="20251206203000 +0000"
-channel="ppv-14434"
->
-<title lang="en">Toulouse FC vs. Strasbourg</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/3c71d4bcc20a3443d471d2cbe82ec70c-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-14635">
 <display-name>Winnipeg Jets vs. Edmonton Oilers</display-name>
 </channel>
@@ -1647,50 +1603,6 @@ channel="ppv-14667"
 </audio>
 <category>Ice Hockey</category>
 <icon src="https://api.ppvs.su/assets/thumb/bc3ebbc864efdb568abcd8e9ae030c70-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-14626">
-<display-name>Colorado Avalanche vs. New York Rangers</display-name>
-</channel>
-<programme
-start="20251206173000 +0000"
-stop="20251206203000 +0000"
-channel="ppv-14626"
->
-<title lang="en">Colorado Avalanche vs. New York Rangers</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://api.ppvs.su/assets/thumb/7f0c1a7776692bbd4c5e945789b34892-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-14666">
-<display-name>Colorado Avalanche vs. New York Rangers</display-name>
-</channel>
-<programme
-start="20251206173000 +0000"
-stop="20251206203000 +0000"
-channel="ppv-14666"
->
-<title lang="en">Colorado Avalanche vs. New York Rangers</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://api.ppvs.su/assets/thumb/c382980db064f24f98aadf3dd404c9f5-thumbnail.jpg" />
 </programme>
 
 <channel id="ppv-14376">
