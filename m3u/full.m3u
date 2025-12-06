@@ -51,6 +51,8 @@
 
 #EXTINF:-1 tvg-id="ppv-14506" tvg-name="Shabaz Masoud vs. Peter McGrail (6 December 2025 at 18:00)" tvg-epgid="14506" tvg-logo="https://api.ppvs.su/assets/thumb/eec214b8ea4c56c5ca2f6ec182a0def1-thumbnail.jpg",Shabaz Masoud vs. Peter McGrail (6 December 2025 at 18:00)
 
+#EXTINF:-1 tvg-id="ppv-14306" tvg-name="Australia vs. England (7 December 2025 at 04:00)" tvg-epgid="14306" tvg-logo="https://api.ppvs.su/assets/thumb/4de443b4bf25d8cd895f9892ed00451d-thumbnail.jpg",Australia vs. England (7 December 2025 at 04:00)
+
 #EXTINF:-1 tvg-id="ppv-14428" tvg-name="Pisa vs. Parma (8 December 2025 at 14:00)" tvg-epgid="14428" tvg-logo="https://api.ppvs.su/assets/thumb/a13c4b1d8e7ee5c155e89f1bbb3d0c39-thumbnail.jpg",Pisa vs. Parma (8 December 2025 at 14:00)
 
 #EXTINF:-1 tvg-id="ppv-14454" tvg-name="Real Madrid vs. Celta (7 December 2025 at 20:00)" tvg-epgid="14454" tvg-logo="https://api.ppvs.su/assets/thumb/7474a99937f923382d44be84c63d9f57-thumbnail.jpg",Real Madrid vs. Celta (7 December 2025 at 20:00)
@@ -130,8 +132,6 @@
 #EXTINF:-1 tvg-id="ppv-14417" tvg-name="Wolfsburg vs. Union Berlin (6 December 2025 at 14:30)" tvg-epgid="14417" tvg-logo="https://api.ppvs.su/assets/thumb/87dd44a5b56faf653a95e0de19a68cf8-thumbnail.jpg",Wolfsburg vs. Union Berlin (6 December 2025 at 14:30)
 
 #EXTINF:-1 tvg-id="ppv-14421" tvg-name="Sassuolo vs. Fiorentina (6 December 2025 at 14:00)" tvg-epgid="14421" tvg-logo="https://api.ppvs.su/assets/thumb/635bd397f6e7f9fa0fa857712ffbd014-thumbnail.jpg",Sassuolo vs. Fiorentina (6 December 2025 at 14:00)
-
-#EXTINF:-1 tvg-id="ppv-14447" tvg-name="Villarreal CF vs. Getafe CF (6 December 2025 at 13:00)" tvg-epgid="14447" tvg-logo="https://api.ppvs.su/assets/thumb/fd0b0ffd7a390b687758d2f9228f3c0d-thumbnail.jpg",Villarreal CF vs. Getafe CF (6 December 2025 at 13:00)
 
 #EXTINF:-1 tvg-id="ppv-14635" tvg-name="Winnipeg Jets vs. Edmonton Oilers (7 December 2025 at 03:00)" tvg-epgid="14635" tvg-logo="https://api.ppvs.su/assets/thumb/60de5a5517f4d8000c0f352c2983a8ee-thumbnail.jpg",Winnipeg Jets vs. Edmonton Oilers (7 December 2025 at 03:00)
 
