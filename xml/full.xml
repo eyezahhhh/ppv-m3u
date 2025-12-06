@@ -395,94 +395,6 @@ channel="ppv-14518"
 <icon src="https://api.ppvs.su/assets/thumb/d042645a68d01af1123a428778f44626-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-14514">
-<display-name>Indiana Pacers vs. Chicago Bulls</display-name>
-</channel>
-<programme
-start="20251206010000 +0000"
-stop="20251206034800 +0000"
-channel="ppv-14514"
->
-<title lang="en">Indiana Pacers vs. Chicago Bulls</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://api.ppvs.su/assets/thumb/44ebad0174a8885f7714c8c2311dbfa2-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-14515">
-<display-name>Phoenix Suns vs. Houston Rockets</display-name>
-</channel>
-<programme
-start="20251206010000 +0000"
-stop="20251206034800 +0000"
-channel="ppv-14515"
->
-<title lang="en">Phoenix Suns vs. Houston Rockets</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://api.ppvs.su/assets/thumb/aca05a12f638f14dfdb0eb414de15f29-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-14516">
-<display-name>LA Clippers vs. Memphis Grizzlies</display-name>
-</channel>
-<programme
-start="20251206010000 +0000"
-stop="20251206034800 +0000"
-channel="ppv-14516"
->
-<title lang="en">LA Clippers vs. Memphis Grizzlies</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://api.ppvs.su/assets/thumb/4a80792d506cba8ef201462317e95eab-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-14517">
-<display-name>Philadelphia 76ers vs. Milwaukee Bucks</display-name>
-</channel>
-<programme
-start="20251206010000 +0000"
-stop="20251206034800 +0000"
-channel="ppv-14517"
->
-<title lang="en">Philadelphia 76ers vs. Milwaukee Bucks</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://api.ppvs.su/assets/thumb/25acf6e6e4f0898a888148f6c366d23b-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-14282">
 <display-name>UFC 323: Dvalishvili vs. Yan 2</display-name>
 </channel>
@@ -1473,28 +1385,6 @@ channel="ppv-14537"
 <icon src="https://api.ppvs.su/assets/thumb/e39f0be4d416c2e2524ce24b199ac049-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-14536">
-<display-name>San Jose Sharks vs. Dallas Stars</display-name>
-</channel>
-<programme
-start="20251206010000 +0000"
-stop="20251206040000 +0000"
-channel="ppv-14536"
->
-<title lang="en">San Jose Sharks vs. Dallas Stars</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://api.ppvs.su/assets/thumb/5bb8131c5ee1b858eabff36665fe119b-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-14376">
 <display-name>Abu Dhabi Grand Prix - Race</display-name>
 </channel>
@@ -1581,27 +1471,5 @@ channel="ppv-14382"
 </audio>
 <category>Wrestling</category>
 <icon src="https://api.ppvs.su/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-14381">
-<display-name>WWE: Friday Night Smackdown</display-name>
-</channel>
-<programme
-start="20251206010000 +0000"
-stop="20251206040000 +0000"
-channel="ppv-14381"
->
-<title lang="en">WWE: Friday Night Smackdown</title>
-<sub-title>Wrestling</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Wrestling</category>
-<icon src="https://api.ppvs.su/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" />
 </programme>
 </tv>
