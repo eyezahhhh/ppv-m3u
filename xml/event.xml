@@ -351,50 +351,6 @@ channel="ppv-14651"
 <icon src="https://api.ppvs.su/assets/thumb/0ca5c91ff23622b4cbd319a9636bf75e-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-14649">
-<display-name>Sacramento Kings vs. Miami Heat</display-name>
-</channel>
-<programme
-start="20251207010000 +0000"
-stop="20251207034800 +0000"
-channel="ppv-14649"
->
-<title lang="en">Sacramento Kings vs. Miami Heat</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://api.ppvs.su/assets/thumb/ecaf6133a2eb6989fd5aa0eccfe197de-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-14650">
-<display-name>LA Clippers vs. Minnesota Timberwolves</display-name>
-</channel>
-<programme
-start="20251207010000 +0000"
-stop="20251207034800 +0000"
-channel="ppv-14650"
->
-<title lang="en">LA Clippers vs. Minnesota Timberwolves</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://api.ppvs.su/assets/thumb/770c02b494d06a9a6f758e7f7a72e0fb-thumbnail.jpg" />
-</programme>
-
 <channel id="ppv-14282">
 <display-name>UFC 323: Dvalishvili vs. Yan 2</display-name>
 </channel>
@@ -1119,49 +1075,5 @@ channel="ppv-14376"
 </audio>
 <category>Motorsports</category>
 <icon src="https://api.ppvs.su/assets/thumb/d890eca4149c3753348ba502a664b75c-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-14382">
-<display-name>AEW: Saturday Night Collision</display-name>
-</channel>
-<programme
-start="20251207010000 +0000"
-stop="20251207040000 +0000"
-channel="ppv-14382"
->
-<title lang="en">AEW: Saturday Night Collision</title>
-<sub-title>Wrestling</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Wrestling</category>
-<icon src="https://api.ppvs.su/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-14680">
-<display-name>WWE: NXT Deadline</display-name>
-</channel>
-<programme
-start="20251207000000 +0000"
-stop="20251207040000 +0000"
-channel="ppv-14680"
->
-<title lang="en">WWE: NXT Deadline</title>
-<sub-title>Wrestling</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Wrestling</category>
-<icon src="https://api.ppvs.su/assets/thumb/2369968d390318a05a27b2a50f14adb6-thumbnail.jpg" />
 </programme>
 </tv>
