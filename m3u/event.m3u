@@ -35,12 +35,6 @@
 
 #EXTINF:-1 tvg-id="ppv-14650" tvg-name="LA Clippers vs. Minnesota Timberwolves (7 December 2025 at 01:00)" tvg-epgid="14650" tvg-logo="https://api.ppvs.su/assets/thumb/770c02b494d06a9a6f758e7f7a72e0fb-thumbnail.jpg",LA Clippers vs. Minnesota Timberwolves (7 December 2025 at 01:00)
 
-#EXTINF:-1 tvg-id="ppv-14647" tvg-name="Golden State Warriors vs. Cleveland Cavaliers (7 December 2025 at 00:30)" tvg-epgid="14647" tvg-logo="https://api.ppvs.su/assets/thumb/2bf63d5a991975c4d4e309f55ca2832d-thumbnail.jpg",Golden State Warriors vs. Cleveland Cavaliers (7 December 2025 at 00:30)
-
-#EXTINF:-1 tvg-id="ppv-14648" tvg-name="Milwaukee Bucks vs. Detroit Pistons (7 December 2025 at 00:30)" tvg-epgid="14648" tvg-logo="https://api.ppvs.su/assets/thumb/32a4168781e62b9f3d90caa8c7bc4529-thumbnail.jpg",Milwaukee Bucks vs. Detroit Pistons (7 December 2025 at 00:30)
-
-#EXTINF:-1 tvg-id="ppv-14646" tvg-name="Atlanta Hawks vs. Washington Wizards (7 December 2025 at 00:00)" tvg-epgid="14646" tvg-logo="https://api.ppvs.su/assets/thumb/005d2ebbbccf7578958e32370a5508bb-thumbnail.jpg",Atlanta Hawks vs. Washington Wizards (7 December 2025 at 00:00)
-
 #EXTINF:-1 tvg-id="ppv-14282" tvg-name="UFC 323: Dvalishvili vs. Yan 2 (6 December 2025 at 23:00)" tvg-epgid="14282" tvg-logo="https://api.ppvs.su/assets/thumb/6381c559afa78de552235c103e13a74c-thumbnail.jpg",UFC 323: Dvalishvili vs. Yan 2 (6 December 2025 at 23:00)
 
 #EXTINF:-1 tvg-id="ppv-14602" tvg-name="Isaac Cruz vs. Lamont Roach (6 December 2025 at 22:30)" tvg-epgid="14602" tvg-logo="https://api.ppvs.su/assets/thumb/7423d101216a621b8ee36cf2df19a0f5-thumbnail.jpg",Isaac Cruz vs. Lamont Roach (6 December 2025 at 22:30)
@@ -104,30 +98,6 @@
 #EXTINF:-1 tvg-id="ppv-14634" tvg-name="Chicago Blackhawks vs. Los Angeles Kings (7 December 2025 at 02:00)" tvg-epgid="14634" tvg-logo="https://api.ppvs.su/assets/thumb/5ae455391c63065001e82615992fb227-thumbnail.jpg",Chicago Blackhawks vs. Los Angeles Kings (7 December 2025 at 02:00)
 
 #EXTINF:-1 tvg-id="ppv-14674" tvg-name="Chicago Blackhawks vs. Los Angeles Kings (7 December 2025 at 02:00)" tvg-epgid="14674" tvg-logo="https://api.ppvs.su/assets/thumb/76bb90630709e00fdde63a10e80c2a5e-thumbnail.jpg",Chicago Blackhawks vs. Los Angeles Kings (7 December 2025 at 02:00)
-
-#EXTINF:-1 tvg-id="ppv-14628" tvg-name="New Jersey Devils vs. Boston Bruins (7 December 2025 at 00:00)" tvg-epgid="14628" tvg-logo="https://api.ppvs.su/assets/thumb/b57694446c77c7c373842d7226e79b7b-thumbnail.jpg",New Jersey Devils vs. Boston Bruins (7 December 2025 at 00:00)
-
-#EXTINF:-1 tvg-id="ppv-14629" tvg-name="Montreal Canadiens vs. Toronto Maple Leafs (7 December 2025 at 00:00)" tvg-epgid="14629" tvg-logo="https://api.ppvs.su/assets/thumb/1dc9334a18aa0a6464f3fac007aaa36b-thumbnail.jpg",Montreal Canadiens vs. Toronto Maple Leafs (7 December 2025 at 00:00)
-
-#EXTINF:-1 tvg-id="ppv-14630" tvg-name="St. Louis Blues vs. Ottawa Senators (7 December 2025 at 00:00)" tvg-epgid="14630" tvg-logo="https://api.ppvs.su/assets/thumb/1889173a9c19e518725a2444384f2908-thumbnail.jpg",St. Louis Blues vs. Ottawa Senators (7 December 2025 at 00:00)
-
-#EXTINF:-1 tvg-id="ppv-14631" tvg-name="New York Islanders vs. Tampa Bay Lightning (7 December 2025 at 00:00)" tvg-epgid="14631" tvg-logo="https://api.ppvs.su/assets/thumb/2243208da3b834da65b1d3f97fed63b5-thumbnail.jpg",New York Islanders vs. Tampa Bay Lightning (7 December 2025 at 00:00)
-
-#EXTINF:-1 tvg-id="ppv-14632" tvg-name="Nashville Predators vs. Carolina Hurricanes (7 December 2025 at 00:00)" tvg-epgid="14632" tvg-logo="https://api.ppvs.su/assets/thumb/aae4d7ee3ee329195c2f32e52bf022e2-thumbnail.jpg",Nashville Predators vs. Carolina Hurricanes (7 December 2025 at 00:00)
-
-#EXTINF:-1 tvg-id="ppv-14633" tvg-name="Utah Mammoth vs. Calgary Flames (7 December 2025 at 00:00)" tvg-epgid="14633" tvg-logo="https://api.ppvs.su/assets/thumb/2a69def79c68f73d3e9a7ab99f410795-thumbnail.jpg",Utah Mammoth vs. Calgary Flames (7 December 2025 at 00:00)
-
-#EXTINF:-1 tvg-id="ppv-14668" tvg-name="New Jersey Devils vs. Boston Bruins (7 December 2025 at 00:00)" tvg-epgid="14668" tvg-logo="https://api.ppvs.su/assets/thumb/50d03042c6a96e7a81dbf2e0335321c9-thumbnail.jpg",New Jersey Devils vs. Boston Bruins (7 December 2025 at 00:00)
-
-#EXTINF:-1 tvg-id="ppv-14669" tvg-name="Montreal Canadiens vs. Toronto Maple Leafs (7 December 2025 at 00:00)" tvg-epgid="14669" tvg-logo="https://api.ppvs.su/assets/thumb/570c9f259a9592e0a0e1f7acb735711d-thumbnail.jpg",Montreal Canadiens vs. Toronto Maple Leafs (7 December 2025 at 00:00)
-
-#EXTINF:-1 tvg-id="ppv-14670" tvg-name="St. Louis Blues vs. Ottawa Senators (7 December 2025 at 00:00)" tvg-epgid="14670" tvg-logo="https://api.ppvs.su/assets/thumb/b61edf7ef95c7d6f73afa0cef58d56b1-thumbnail.jpg",St. Louis Blues vs. Ottawa Senators (7 December 2025 at 00:00)
-
-#EXTINF:-1 tvg-id="ppv-14671" tvg-name="New York Islanders vs. Tampa Bay Lightning (7 December 2025 at 00:00)" tvg-epgid="14671" tvg-logo="https://api.ppvs.su/assets/thumb/2a303c6eb2e1ade9170b2f222f6e5eba-thumbnail.jpg",New York Islanders vs. Tampa Bay Lightning (7 December 2025 at 00:00)
-
-#EXTINF:-1 tvg-id="ppv-14672" tvg-name="Nashville Predators vs. Carolina Hurricanes (7 December 2025 at 00:00)" tvg-epgid="14672" tvg-logo="https://api.ppvs.su/assets/thumb/6f881eb39589149e3b718cfef3a43cfd-thumbnail.jpg",Nashville Predators vs. Carolina Hurricanes (7 December 2025 at 00:00)
-
-#EXTINF:-1 tvg-id="ppv-14673" tvg-name="Utah Mammoth vs. Calgary Flames (7 December 2025 at 00:00)" tvg-epgid="14673" tvg-logo="https://api.ppvs.su/assets/thumb/87c1e14b0c842be0d075270b76747aef-thumbnail.jpg",Utah Mammoth vs. Calgary Flames (7 December 2025 at 00:00)
 
 #EXTINF:-1 tvg-id="ppv-14376" tvg-name="Abu Dhabi Grand Prix - Race (7 December 2025 at 13:00)" tvg-epgid="14376" tvg-logo="https://api.ppvs.su/assets/thumb/d890eca4149c3753348ba502a664b75c-thumbnail.jpg",Abu Dhabi Grand Prix - Race (7 December 2025 at 13:00)
 
