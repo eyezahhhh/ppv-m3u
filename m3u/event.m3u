@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ppv-15428" tvg-name="Coastal Carolina Chanticleers vs. Louisiana Tech Bulldogs (30 December 2025 at 19:00)" tvg-epgid="15428" tvg-logo="https://api.ppvs.su/assets/thumb/01e2ba4fa3116d354ddb171a3593390f-thumbnail.jpg",Coastal Carolina Chanticleers vs. Louisiana Tech Bulldogs (30 December 2025 at 19:00)
+
 #EXTINF:-1 tvg-id="ppv-15381" tvg-name="Los Angeles Rams vs. Atlanta Falcons (30 December 2025 at 01:15)" tvg-epgid="15381" tvg-logo="https://api.ppvs.su/assets/thumb/78103dcbc7712cff3aa665658996a4d7-thumbnail.jpg",Los Angeles Rams vs. Atlanta Falcons (30 December 2025 at 01:15)
 
 #EXTINF:-1 tvg-id="ppv-15427" tvg-name="Georgia Southern Eagles vs. App State Mountaineers (29 December 2025 at 19:00)" tvg-epgid="15427" tvg-logo="https://api.ppvs.su/assets/thumb/7e071c3c8204c8e51b8e09f647d4bcce-thumbnail.jpg",Georgia Southern Eagles vs. App State Mountaineers (29 December 2025 at 19:00)
@@ -8,6 +10,8 @@
 #EXTINF:-1 tvg-id="ppv-15379" tvg-name="Philadelphia Eagles vs. Buffalo Bills (28 December 2025 at 21:25)" tvg-epgid="15379" tvg-logo="https://api.ppvs.su/assets/thumb/99d0118ed74a6f0772dc5389bfb457a8-thumbnail.jpg",Philadelphia Eagles vs. Buffalo Bills (28 December 2025 at 21:25)
 
 #EXTINF:-1 tvg-id="ppv-15378" tvg-name="New York Giants vs. Las Vegas Raiders (28 December 2025 at 21:05)" tvg-epgid="15378" tvg-logo="https://api.ppvs.su/assets/thumb/28ae5673cbb9e16046091b51d12b2c62-thumbnail.jpg",New York Giants vs. Las Vegas Raiders (28 December 2025 at 21:05)
+
+#EXTINF:-1 tvg-id="ppv-11090" tvg-name="NFL RedZone (28 December 2025 at 18:00)" tvg-epgid="11090" tvg-logo="https://api.ppvs.su/assets/thumb/b81de749344645209b90492c795620e1-thumbnail.jpg",NFL RedZone (28 December 2025 at 18:00)
 
 #EXTINF:-1 tvg-id="ppv-15356" tvg-name="Arizona Cardinals vs. Cincinnati Bengals (28 December 2025 at 18:00)" tvg-epgid="15356" tvg-logo="https://api.ppvs.su/assets/thumb/25035c294ebc26e362cc076873365827-thumbnail.jpg",Arizona Cardinals vs. Cincinnati Bengals (28 December 2025 at 18:00)
 
@@ -23,9 +27,23 @@
 
 #EXTINF:-1 tvg-id="ppv-15376" tvg-name="Seattle Seahawks vs. Carolina Panthers (28 December 2025 at 18:00)" tvg-epgid="15376" tvg-logo="https://api.ppvs.su/assets/thumb/24a50be34f52ac5c251f2d2470d5483a-thumbnail.jpg",Seattle Seahawks vs. Carolina Panthers (28 December 2025 at 18:00)
 
-#EXTINF:-1 tvg-id="ppv-15426" tvg-name="LSU Tigers vs. Houston Cougars (28 December 2025 at 02:15)" tvg-epgid="15426" tvg-logo="https://api.ppvs.su/assets/thumb/b5fe61d543f89eb37fa97aa80fba6931-thumbnail.jpg",LSU Tigers vs. Houston Cougars (28 December 2025 at 02:15)
+#EXTINF:-1 tvg-id="ppv-15486" tvg-name="Sacramento Kings vs. Los Angeles Lakers (29 December 2025 at 02:30)" tvg-epgid="15486" tvg-logo="https://api.ppvs.su/assets/thumb/d60c289079119ed5962af076b3812607-thumbnail.jpg",Sacramento Kings vs. Los Angeles Lakers (29 December 2025 at 02:30)
 
-#EXTINF:-1 tvg-id="ppv-15354" tvg-name="Baltimore Ravens vs. Green Bay Packers (28 December 2025 at 01:00)" tvg-epgid="15354" tvg-logo="https://api.ppvs.su/assets/thumb/de39ba20ea4671132358f4d801684320-thumbnail.jpg",Baltimore Ravens vs. Green Bay Packers (28 December 2025 at 01:00)
+#EXTINF:-1 tvg-id="ppv-15485" tvg-name="Detroit Pistons vs. LA Clippers (29 December 2025 at 02:00)" tvg-epgid="15485" tvg-logo="https://api.ppvs.su/assets/thumb/b266ee1a775e74f71027ddfff28b6a9f-thumbnail.jpg",Detroit Pistons vs. LA Clippers (29 December 2025 at 02:00)
+
+#EXTINF:-1 tvg-id="ppv-15482" tvg-name="Memphis Grizzlies vs. Washington Wizards (28 December 2025 at 23:00)" tvg-epgid="15482" tvg-logo="https://api.ppvs.su/assets/thumb/c0b9a6fd5f2c3d89192acc92d10c2b9c-thumbnail.jpg",Memphis Grizzlies vs. Washington Wizards (28 December 2025 at 23:00)
+
+#EXTINF:-1 tvg-id="ppv-15484" tvg-name="Boston Celtics vs. Portland Trail Blazers (28 December 2025 at 23:00)" tvg-epgid="15484" tvg-logo="https://api.ppvs.su/assets/thumb/0b21ff6de85a66f183bb0e595aad1a4b-thumbnail.jpg",Boston Celtics vs. Portland Trail Blazers (28 December 2025 at 23:00)
+
+#EXTINF:-1 tvg-id="ppv-15478" tvg-name="Golden State Warriors vs. Toronto Raptors (28 December 2025 at 20:30)" tvg-epgid="15478" tvg-logo="https://api.ppvs.su/assets/thumb/a6f4f7c5a92d89f4a1687abe1bf682d5-thumbnail.jpg",Golden State Warriors vs. Toronto Raptors (28 December 2025 at 20:30)
+
+#EXTINF:-1 tvg-id="ppv-15480" tvg-name="Philadelphia 76ers vs. Oklahoma City Thunder (28 December 2025 at 20:30)" tvg-epgid="15480" tvg-logo="https://api.ppvs.su/assets/thumb/1c199f13d40ddd56644d99cf6677532d-thumbnail.jpg",Philadelphia 76ers vs. Oklahoma City Thunder (28 December 2025 at 20:30)
+
+#EXTINF:-1 tvg-id="ppv-15489" tvg-name="OKTAGON 81 (English) (28 December 2025 at 17:00)" tvg-epgid="15489" tvg-logo="https://api.ppvs.su/assets/thumb/a5b7e3bc8f16cbb7aabd26c1b43cba04-thumbnail.jpg",OKTAGON 81 (English) (28 December 2025 at 17:00)
+
+#EXTINF:-1 tvg-id="ppv-15490" tvg-name="OKTAGON 81 (German) (28 December 2025 at 17:00)" tvg-epgid="15490" tvg-logo="https://api.ppvs.su/assets/thumb/a5b7e3bc8f16cbb7aabd26c1b43cba04-thumbnail.jpg",OKTAGON 81 (German) (28 December 2025 at 17:00)
+
+#EXTINF:-1 tvg-id="ppv-15491" tvg-name="OKTAGON 81 (Czech) (28 December 2025 at 17:00)" tvg-epgid="15491" tvg-logo="https://api.ppvs.su/assets/thumb/a5b7e3bc8f16cbb7aabd26c1b43cba04-thumbnail.jpg",OKTAGON 81 (Czech) (28 December 2025 at 17:00)
 
 #EXTINF:-1 tvg-id="ppv-14899" tvg-name="World Darts Championship (28 December 2025 at 12:30)" tvg-epgid="14899" tvg-logo="https://api.ppvs.su/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg",World Darts Championship (28 December 2025 at 12:30)
 
@@ -43,29 +61,17 @@
 
 #EXTINF:-1 tvg-id="ppv-15325" tvg-name="Atalanta vs. Inter Milan (28 December 2025 at 19:45)" tvg-epgid="15325" tvg-logo="https://api.ppvs.su/assets/thumb/d1a635fb918d88d70a0f45b071ece37d-thumbnail.jpg",Atalanta vs. Inter Milan (28 December 2025 at 19:45)
 
-#EXTINF:-1 tvg-id="ppv-15289" tvg-name="Algeria vs. Burkina Faso (28 December 2025 at 17:30)" tvg-epgid="15289" tvg-logo="https://api.ppvs.su/assets/thumb/a137e15b77c8c4fea21da71ecdf71a37-thumbnail.jpg",Algeria vs. Burkina Faso (28 December 2025 at 17:30)
+#EXTINF:-1 tvg-id="ppv-15488" tvg-name="Philadelphia Flyers vs. Seattle Kraken (29 December 2025 at 01:00)" tvg-epgid="15488" tvg-logo="https://api.ppvs.su/assets/thumb/4dde1f477cd91092b469482d781ee0aa-thumbnail.jpg",Philadelphia Flyers vs. Seattle Kraken (29 December 2025 at 01:00)
 
-#EXTINF:-1 tvg-id="ppv-15324" tvg-name="Bologna vs. Sassuolo (28 December 2025 at 17:00)" tvg-epgid="15324" tvg-logo="https://api.ppvs.su/assets/thumb/e64191771cbf9c6554dd7cc307250b9f-thumbnail.jpg",Bologna vs. Sassuolo (28 December 2025 at 17:00)
+#EXTINF:-1 tvg-id="ppv-15483" tvg-name="Toronto Maple Leafs vs. Detroit Red Wings (29 December 2025 at 00:00)" tvg-epgid="15483" tvg-logo="https://api.ppvs.su/assets/thumb/2f5d35babb22bbe9c031356c4c6494df-thumbnail.jpg",Toronto Maple Leafs vs. Detroit Red Wings (29 December 2025 at 00:00)
 
-#EXTINF:-1 tvg-id="ppv-15316" tvg-name="Crystal Palace vs. Tottenham Hotspur (28 December 2025 at 16:30)" tvg-epgid="15316" tvg-logo="https://api.ppvs.su/assets/thumb/9041e5048b1d05666bf9b3a217adc617-thumbnail.jpg",Crystal Palace vs. Tottenham Hotspur (28 December 2025 at 16:30)
+#EXTINF:-1 tvg-id="ppv-15487" tvg-name="Pittsburgh Penguins vs. Chicago Blackhawks (29 December 2025 at 00:00)" tvg-epgid="15487" tvg-logo="https://api.ppvs.su/assets/thumb/27e0e890c4c1f6f735ddb4f319d22962-thumbnail.jpg",Pittsburgh Penguins vs. Chicago Blackhawks (29 December 2025 at 00:00)
 
-#EXTINF:-1 tvg-id="ppv-15288" tvg-name="Equatorial Guinea vs. Sudan (28 December 2025 at 15:00)" tvg-epgid="15288" tvg-logo="https://api.ppvs.su/assets/thumb/6484d9a6022907b1733cc9640d0d4a6b-thumbnail.jpg",Equatorial Guinea vs. Sudan (28 December 2025 at 15:00)
+#EXTINF:-1 tvg-id="ppv-15479" tvg-name="Montreal Canadiens vs. Tampa Bay Lightning (28 December 2025 at 22:00)" tvg-epgid="15479" tvg-logo="https://api.ppvs.su/assets/thumb/71b0e5e2fd67507565c3d876e4ef5d04-thumbnail.jpg",Montreal Canadiens vs. Tampa Bay Lightning (28 December 2025 at 22:00)
 
-#EXTINF:-1 tvg-id="ppv-15315" tvg-name="Sunderland vs. Leeds United (28 December 2025 at 14:00)" tvg-epgid="15315" tvg-logo="https://api.ppvs.su/assets/thumb/2283b42a20c3bbf41283bc10ad2c0d97-thumbnail.jpg",Sunderland vs. Leeds United (28 December 2025 at 14:00)
+#EXTINF:-1 tvg-id="ppv-15481" tvg-name="New York Islanders vs. Columbus Blue Jackets (28 December 2025 at 22:00)" tvg-epgid="15481" tvg-logo="https://api.ppvs.su/assets/thumb/c56da23b99ccd1158f38f71f75eab9c0-thumbnail.jpg",New York Islanders vs. Columbus Blue Jackets (28 December 2025 at 22:00)
 
-#EXTINF:-1 tvg-id="ppv-15323" tvg-name="Cremonese vs. Napoli (28 December 2025 at 14:00)" tvg-epgid="15323" tvg-logo="https://api.ppvs.su/assets/thumb/c19eaa828a9e7f4cdc9776193c91927f-thumbnail.jpg",Cremonese vs. Napoli (28 December 2025 at 14:00)
+#EXTINF:-1 tvg-id="ppv-15477" tvg-name="Finland vs. Latvia (28 December 2025 at 21:30)" tvg-epgid="15477" tvg-logo="https://api.ppvs.su/assets/thumb/c1542521f574be70ad3d5dd1592b9d5e-thumbnail.jpg",Finland vs. Latvia (28 December 2025 at 21:30)
 
-#EXTINF:-1 tvg-id="ppv-15287" tvg-name="Gabon vs. Mozambique (28 December 2025 at 12:30)" tvg-epgid="15287" tvg-logo="https://api.ppvs.su/assets/thumb/a325ba7490fb3271d96c92890ead13c2-thumbnail.jpg",Gabon vs. Mozambique (28 December 2025 at 12:30)
-
-#EXTINF:-1 tvg-id="ppv-15322" tvg-name="AC Milan vs. Hellas Verona (28 December 2025 at 11:30)" tvg-epgid="15322" tvg-logo="https://api.ppvs.su/assets/thumb/767b97568a9a2bba26deebf8c94056e0-thumbnail.jpg",AC Milan vs. Hellas Verona (28 December 2025 at 11:30)
-
-#EXTINF:-1 tvg-id="ppv-15472" tvg-name="Edmonton Oilers vs. Calgary Flames (28 December 2025 at 03:00)" tvg-epgid="15472" tvg-logo="https://api.ppvs.su/assets/thumb/3c242a1efc7a635ec7d0790879e2b4e9-thumbnail.jpg",Edmonton Oilers vs. Calgary Flames (28 December 2025 at 03:00)
-
-#EXTINF:-1 tvg-id="ppv-15473" tvg-name="San Jose Sharks vs. Vancouver Canucks (28 December 2025 at 03:00)" tvg-epgid="15473" tvg-logo="https://api.ppvs.su/assets/thumb/30c57898b9363ff4adc3210fb19d7ace-thumbnail.jpg",San Jose Sharks vs. Vancouver Canucks (28 December 2025 at 03:00)
-
-#EXTINF:-1 tvg-id="ppv-15474" tvg-name="Colorado Avalanche vs. Vegas Golden Knights (28 December 2025 at 03:00)" tvg-epgid="15474" tvg-logo="https://api.ppvs.su/assets/thumb/e81a10d56fef9f50c9cfa373ac0b95f9-thumbnail.jpg",Colorado Avalanche vs. Vegas Golden Knights (28 December 2025 at 03:00)
-
-#EXTINF:-1 tvg-id="ppv-15471" tvg-name="Anaheim Ducks vs. Los Angeles Kings (28 December 2025 at 02:00)" tvg-epgid="15471" tvg-logo="https://api.ppvs.su/assets/thumb/95ba76f6cb37d3f7c1de35c4f132f3cd-thumbnail.jpg",Anaheim Ducks vs. Los Angeles Kings (28 December 2025 at 02:00)
-
-#EXTINF:-1 tvg-id="ppv-15475" tvg-name="AEW: World's End (28 December 2025 at 00:00)" tvg-epgid="15475" tvg-logo="https://api.ppvs.su/assets/thumb/51025483c6980d4b9c1026b629c42537-thumbnail.jpg",AEW: World's End (28 December 2025 at 00:00)
+#EXTINF:-1 tvg-id="ppv-15476" tvg-name="Sweden vs. Switzerland (28 December 2025 at 19:00)" tvg-epgid="15476" tvg-logo="https://api.ppvs.su/assets/thumb/5ea4c054eb5df714471e5c526dfaf671-thumbnail.jpg",Sweden vs. Switzerland (28 December 2025 at 19:00)
 
