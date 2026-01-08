@@ -1,13 +1,13 @@
 <tv>
-<channel id="ppv-15441">
-<display-name>Arizona Wildcats vs. SMU Mustangs</display-name>
+<channel id="ppv-15836">
+<display-name>Oregon Ducks vs. Indiana Hoosiers</display-name>
 </channel>
 <programme
-start="20260103010000 +0000"
-stop="20260103043000 +0000"
-channel="ppv-15441"
+start="20260110003000 +0000"
+stop="20260110040000 +0000"
+channel="ppv-15836"
 >
-<title lang="en">Arizona Wildcats vs. SMU Mustangs</title>
+<title lang="en">Oregon Ducks vs. Indiana Hoosiers</title>
 <sub-title>American Football</sub-title>
 <video>
 <present>yes</present>
@@ -18,18 +18,18 @@ channel="ppv-15441"
 <stereo>stereo</stereo>
 </audio>
 <category>American Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/a3a6a7f190434496f95eb694e88eb39b-thumbnail.jpg" />
+<icon src="https://api.ppvs.su/assets/thumb/7f57931ba31a4d2c190558c4c6a03306-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-15442">
-<display-name>Wake Forest Demon Deacons vs. Mississippi State Bulldogs</display-name>
+<channel id="ppv-15835">
+<display-name>Miami Hurricanes vs. Ole Miss Rebels</display-name>
 </channel>
 <programme
-start="20260103010000 +0000"
-stop="20260103043000 +0000"
-channel="ppv-15442"
+start="20260109003000 +0000"
+stop="20260109040000 +0000"
+channel="ppv-15835"
 >
-<title lang="en">Wake Forest Demon Deacons vs. Mississippi State Bulldogs</title>
+<title lang="en">Miami Hurricanes vs. Ole Miss Rebels</title>
 <sub-title>American Football</sub-title>
 <video>
 <present>yes</present>
@@ -40,128 +40,18 @@ channel="ppv-15442"
 <stereo>stereo</stereo>
 </audio>
 <category>American Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/2bb2ef27cdc28ea52df0c6b9548be3d4-thumbnail.jpg" />
+<icon src="https://api.ppvs.su/assets/thumb/d23cc99b1da1a2bbe982298d886b38fa-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-15440">
-<display-name>Navy Midshipmen vs. Cincinnati Bearcats</display-name>
+<channel id="ppv-15910">
+<display-name>Dallas Mavericks vs. Utah Jazz</display-name>
 </channel>
 <programme
-start="20260102213000 +0000"
-stop="20260103010000 +0000"
-channel="ppv-15440"
+start="20260109020000 +0000"
+stop="20260109044800 +0000"
+channel="ppv-15910"
 >
-<title lang="en">Navy Midshipmen vs. Cincinnati Bearcats</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/9b65f7ef7075006b08bb6ee919e9c1d2-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-15439">
-<display-name>Rice Owls vs. Texas State Bobcats</display-name>
-</channel>
-<programme
-start="20260102180000 +0000"
-stop="20260102213000 +0000"
-channel="ppv-15439"
->
-<title lang="en">Rice Owls vs. Texas State Bobcats</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/418372260da4e53fd6d09f270bbda500-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-15438">
-<display-name>Ole Miss Rebels vs. Georgia Bulldogs</display-name>
-</channel>
-<programme
-start="20260102010000 +0000"
-stop="20260102043000 +0000"
-channel="ppv-15438"
->
-<title lang="en">Ole Miss Rebels vs. Georgia Bulldogs</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/36533879406a3c06c9267dbacef73e39-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-15437">
-<display-name>Alabama Crimson Tide vs. Indiana Hoosiers</display-name>
-</channel>
-<programme
-start="20260101210000 +0000"
-stop="20260102003000 +0000"
-channel="ppv-15437"
->
-<title lang="en">Alabama Crimson Tide vs. Indiana Hoosiers</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/3c05a4468adaca4d72ed5b4ef4e1a0cf-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-15436">
-<display-name>Oregon Ducks vs. Texas Tech Red Raiders</display-name>
-</channel>
-<programme
-start="20260101170000 +0000"
-stop="20260101203000 +0000"
-channel="ppv-15436"
->
-<title lang="en">Oregon Ducks vs. Texas Tech Red Raiders</title>
-<sub-title>American Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>American Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/35c49515b93c4a76afce636f3aae767b-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-15664">
-<display-name>Utah Jazz vs. LA Clippers</display-name>
-</channel>
-<programme
-start="20260102033000 +0000"
-stop="20260102061800 +0000"
-channel="ppv-15664"
->
-<title lang="en">Utah Jazz vs. LA Clippers</title>
+<title lang="en">Dallas Mavericks vs. Utah Jazz</title>
 <sub-title>Basketball</sub-title>
 <video>
 <present>yes</present>
@@ -172,18 +62,18 @@ channel="ppv-15664"
 <stereo>stereo</stereo>
 </audio>
 <category>Basketball</category>
-<icon src="https://api.ppvs.su/assets/thumb/93f3ae6f328fb26c3e6c2d6422ed0660-thumbnail.jpg" />
+<icon src="https://api.ppvs.su/assets/thumb/13b432c6db1c41251647cfc77e436d6d-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-15662">
-<display-name>Boston Celtics vs. Sacramento Kings</display-name>
+<channel id="ppv-15906">
+<display-name>Miami Heat vs. Chicago Bulls</display-name>
 </channel>
 <programme
-start="20260102030000 +0000"
-stop="20260102054800 +0000"
-channel="ppv-15662"
+start="20260109010000 +0000"
+stop="20260109034800 +0000"
+channel="ppv-15906"
 >
-<title lang="en">Boston Celtics vs. Sacramento Kings</title>
+<title lang="en">Miami Heat vs. Chicago Bulls</title>
 <sub-title>Basketball</sub-title>
 <video>
 <present>yes</present>
@@ -194,18 +84,18 @@ channel="ppv-15662"
 <stereo>stereo</stereo>
 </audio>
 <category>Basketball</category>
-<icon src="https://api.ppvs.su/assets/thumb/12833293dc837d35cfb31ecbb80a0cc3-thumbnail.jpg" />
+<icon src="https://api.ppvs.su/assets/thumb/9ed8aa63f8a7e24c2692247059cd699c-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-15660">
-<display-name>Philadelphia 76ers vs. Dallas Mavericks</display-name>
+<channel id="ppv-15908">
+<display-name>Cleveland Cavaliers vs. Minnesota Timberwolves</display-name>
 </channel>
 <programme
-start="20260102013000 +0000"
-stop="20260102041800 +0000"
-channel="ppv-15660"
+start="20260109010000 +0000"
+stop="20260109034800 +0000"
+channel="ppv-15908"
 >
-<title lang="en">Philadelphia 76ers vs. Dallas Mavericks</title>
+<title lang="en">Cleveland Cavaliers vs. Minnesota Timberwolves</title>
 <sub-title>Basketball</sub-title>
 <video>
 <present>yes</present>
@@ -216,18 +106,18 @@ channel="ppv-15660"
 <stereo>stereo</stereo>
 </audio>
 <category>Basketball</category>
-<icon src="https://api.ppvs.su/assets/thumb/d03193288dc1690108a6681d246b3e54-thumbnail.jpg" />
+<icon src="https://api.ppvs.su/assets/thumb/e58e12abbd469693c8993593e9cf4b60-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-15658">
-<display-name>Miami Heat vs. Detroit Pistons</display-name>
+<channel id="ppv-15904">
+<display-name>Indiana Pacers vs. Charlotte Hornets</display-name>
 </channel>
 <programme
-start="20260102000000 +0000"
-stop="20260102024800 +0000"
-channel="ppv-15658"
+start="20260109000000 +0000"
+stop="20260109024800 +0000"
+channel="ppv-15904"
 >
-<title lang="en">Miami Heat vs. Detroit Pistons</title>
+<title lang="en">Indiana Pacers vs. Charlotte Hornets</title>
 <sub-title>Basketball</sub-title>
 <video>
 <present>yes</present>
@@ -238,62 +128,18 @@ channel="ppv-15658"
 <stereo>stereo</stereo>
 </audio>
 <category>Basketball</category>
-<icon src="https://api.ppvs.su/assets/thumb/8f782a5667e71ca2e3d9584bac67e1d7-thumbnail.jpg" />
+<icon src="https://api.ppvs.su/assets/thumb/ed76984c7d104c6027cc419d6b4a16fd-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-15655">
-<display-name>Houston Rockets vs. Brooklyn Nets</display-name>
+<channel id="ppv-15762">
+<display-name>Getafe vs. Real Sociedad</display-name>
 </channel>
 <programme
-start="20260101230000 +0000"
-stop="20260102014800 +0000"
-channel="ppv-15655"
+start="20260109200000 +0000"
+stop="20260109223000 +0000"
+channel="ppv-15762"
 >
-<title lang="en">Houston Rockets vs. Brooklyn Nets</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://api.ppvs.su/assets/thumb/ee9e7630cdf2282f0ff0559cab95ba83-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-14899">
-<display-name>World Darts Championship</display-name>
-</channel>
-<programme
-start="20260101123000 +0000"
-stop="20260101233000 +0000"
-channel="ppv-14899"
->
-<title lang="en">World Darts Championship</title>
-<sub-title>Darts</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Darts</category>
-<icon src="https://api.ppvs.su/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-15566">
-<display-name>Genoa vs. Pisa</display-name>
-</channel>
-<programme
-start="20260103140000 +0000"
-stop="20260103163000 +0000"
-channel="ppv-15566"
->
-<title lang="en">Genoa vs. Pisa</title>
+<title lang="en">Getafe vs. Real Sociedad</title>
 <sub-title>Football</sub-title>
 <video>
 <present>yes</present>
@@ -304,18 +150,18 @@ channel="ppv-15566"
 <stereo>stereo</stereo>
 </audio>
 <category>Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/c4f90c733633c35581ce8a35bdd42890-thumbnail.jpg" />
+<icon src="https://api.ppvs.su/assets/thumb/72a542e44b7c5a11a05f9561e41d722b-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-15567">
-<display-name>Sassuolo vs. Parma</display-name>
+<channel id="ppv-15787">
+<display-name>Eintracht Frankfurt vs. Borussia Dortmund</display-name>
 </channel>
 <programme
-start="20260103140000 +0000"
-stop="20260103163000 +0000"
-channel="ppv-15567"
+start="20260109193000 +0000"
+stop="20260109220000 +0000"
+channel="ppv-15787"
 >
-<title lang="en">Sassuolo vs. Parma</title>
+<title lang="en">Eintracht Frankfurt vs. Borussia Dortmund</title>
 <sub-title>Football</sub-title>
 <video>
 <present>yes</present>
@@ -326,18 +172,18 @@ channel="ppv-15567"
 <stereo>stereo</stereo>
 </audio>
 <category>Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/9eb03ce38bc9fb160a0b08cd6f3168fa-thumbnail.jpg" />
+<icon src="https://api.ppvs.su/assets/thumb/985665e2b484202b781fa102ac24eb43-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-15519">
-<display-name>Celta Vigo vs. Valencia</display-name>
+<channel id="ppv-15805">
+<display-name>Arsenal vs. Liverpool</display-name>
 </channel>
 <programme
-start="20260103130000 +0000"
-stop="20260103153000 +0000"
-channel="ppv-15519"
+start="20260108200000 +0000"
+stop="20260108223000 +0000"
+channel="ppv-15805"
 >
-<title lang="en">Celta Vigo vs. Valencia</title>
+<title lang="en">Arsenal vs. Liverpool</title>
 <sub-title>Football</sub-title>
 <video>
 <present>yes</present>
@@ -348,18 +194,18 @@ channel="ppv-15519"
 <stereo>stereo</stereo>
 </audio>
 <category>Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/4c352a533a4a9cb75a223500ba0c5485-thumbnail.jpg" />
+<icon src="https://api.ppvs.su/assets/thumb/69bd1af0e43583f8e954027919b6d860-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-15554">
-<display-name>Aston Villa vs. Nottingham Forest</display-name>
+<channel id="ppv-15815">
+<display-name>AC Milan vs. Genoa</display-name>
 </channel>
 <programme
-start="20260103123000 +0000"
-stop="20260103150000 +0000"
-channel="ppv-15554"
+start="20260108194500 +0000"
+stop="20260108221500 +0000"
+channel="ppv-15815"
 >
-<title lang="en">Aston Villa vs. Nottingham Forest</title>
+<title lang="en">AC Milan vs. Genoa</title>
 <sub-title>Football</sub-title>
 <video>
 <present>yes</present>
@@ -370,18 +216,18 @@ channel="ppv-15554"
 <stereo>stereo</stereo>
 </audio>
 <category>Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/145be18c71bc7091ce96135402eecc9d-thumbnail.jpg" />
+<icon src="https://api.ppvs.su/assets/thumb/96eb809059fb5b3afeb6c6bfcba8fdbc-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-15565">
-<display-name>Como vs. Udinese</display-name>
+<channel id="ppv-15923">
+<display-name>Atlético Madrid vs. Real Madrid</display-name>
 </channel>
 <programme
-start="20260103113000 +0000"
-stop="20260103140000 +0000"
-channel="ppv-15565"
+start="20260108190000 +0000"
+stop="20260108213000 +0000"
+channel="ppv-15923"
 >
-<title lang="en">Como vs. Udinese</title>
+<title lang="en">Atlético Madrid vs. Real Madrid</title>
 <sub-title>Football</sub-title>
 <video>
 <present>yes</present>
@@ -392,18 +238,18 @@ channel="ppv-15565"
 <stereo>stereo</stereo>
 </audio>
 <category>Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/d12aba40501e55e90e46258382098ec2-thumbnail.jpg" />
+<icon src="https://api.ppvs.su/assets/thumb/b244653662fed40689b855f60c98054d-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-15517">
-<display-name>Rayo Vallecano vs. Getafe</display-name>
+<channel id="ppv-15921">
+<display-name>Paris Saint-Germain vs. Marseille</display-name>
 </channel>
 <programme
-start="20260102200000 +0000"
-stop="20260102223000 +0000"
-channel="ppv-15517"
+start="20260108180000 +0000"
+stop="20260108203000 +0000"
+channel="ppv-15921"
 >
-<title lang="en">Rayo Vallecano vs. Getafe</title>
+<title lang="en">Paris Saint-Germain vs. Marseille</title>
 <sub-title>Football</sub-title>
 <video>
 <present>yes</present>
@@ -414,18 +260,18 @@ channel="ppv-15517"
 <stereo>stereo</stereo>
 </audio>
 <category>Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/9fe309872e8491a01aed3ac2822d7cec-thumbnail.jpg" />
+<icon src="https://api.ppvs.su/assets/thumb/2e108cc7587992c02495501d0a8c3433-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-15564">
-<display-name>Cagliari vs. AC Milan</display-name>
+<channel id="ppv-15814">
+<display-name>Cremonese vs. Cagliari</display-name>
 </channel>
 <programme
-start="20260102194500 +0000"
-stop="20260102221500 +0000"
-channel="ppv-15564"
+start="20260108173000 +0000"
+stop="20260108200000 +0000"
+channel="ppv-15814"
 >
-<title lang="en">Cagliari vs. AC Milan</title>
+<title lang="en">Cremonese vs. Cagliari</title>
 <sub-title>Football</sub-title>
 <video>
 <present>yes</present>
@@ -436,128 +282,18 @@ channel="ppv-15564"
 <stereo>stereo</stereo>
 </audio>
 <category>Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/f8a19b6245b3bb141dd813acd2b9b3cb-thumbnail.jpg" />
+<icon src="https://api.ppvs.su/assets/thumb/b5ba8a550a2753f86241fcb972e327ae-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-15574">
-<display-name>Toulouse vs. Lens</display-name>
+<channel id="ppv-15918">
+<display-name>Columbus Blue Jackets vs. Vegas Golden Knights</display-name>
 </channel>
 <programme
-start="20260102194500 +0000"
-stop="20260102221500 +0000"
-channel="ppv-15574"
+start="20260109030000 +0000"
+stop="20260109060000 +0000"
+channel="ppv-15918"
 >
-<title lang="en">Toulouse vs. Lens</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/0098b62119882563e93c05d2f9ffd4a3-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-15552">
-<display-name>Brentford vs. Tottenham Hotspur</display-name>
-</channel>
-<programme
-start="20260101200000 +0000"
-stop="20260101223000 +0000"
-channel="ppv-15552"
->
-<title lang="en">Brentford vs. Tottenham Hotspur</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/3ce97ec548d4bebc09a73c0d1850a597-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-15553">
-<display-name>Sunderland vs. Manchester City</display-name>
-</channel>
-<programme
-start="20260101200000 +0000"
-stop="20260101223000 +0000"
-channel="ppv-15553"
->
-<title lang="en">Sunderland vs. Manchester City</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/bd84a58b234b38067908a48f4b77ffd6-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-15550">
-<display-name>Crystal Palace vs. Fulham</display-name>
-</channel>
-<programme
-start="20260101173000 +0000"
-stop="20260101200000 +0000"
-channel="ppv-15550"
->
-<title lang="en">Crystal Palace vs. Fulham</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/a9fe7d80e6985fd9ef940d4b3a8eab1a-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-15551">
-<display-name>Liverpool vs. Leeds United</display-name>
-</channel>
-<programme
-start="20260101173000 +0000"
-stop="20260101200000 +0000"
-channel="ppv-15551"
->
-<title lang="en">Liverpool vs. Leeds United</title>
-<sub-title>Football</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Football</category>
-<icon src="https://api.ppvs.su/assets/thumb/d0b0544bf77396c4bee0ab242909fbfe-thumbnail.jpg" />
-</programme>
-
-<channel id="ppv-15667">
-<display-name>Nashville Predators vs. Seattle Kraken</display-name>
-</channel>
-<programme
-start="20260102030000 +0000"
-stop="20260102060000 +0000"
-channel="ppv-15667"
->
-<title lang="en">Nashville Predators vs. Seattle Kraken</title>
+<title lang="en">Columbus Blue Jackets vs. Vegas Golden Knights</title>
 <sub-title>Ice Hockey</sub-title>
 <video>
 <present>yes</present>
@@ -568,18 +304,18 @@ channel="ppv-15667"
 <stereo>stereo</stereo>
 </audio>
 <category>Ice Hockey</category>
-<icon src="https://api.ppvs.su/assets/thumb/08c6bad9b8987014cf053ff32b0f1663-thumbnail.jpg" />
+<icon src="https://api.ppvs.su/assets/thumb/fec4eed84950d37d0fe276f1545f6ede-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-15666">
-<display-name>Dallas Stars vs. Chicago Blackhawks</display-name>
+<channel id="ppv-15919">
+<display-name>Minnesota Wild vs. Seattle Kraken</display-name>
 </channel>
 <programme
-start="20260102013000 +0000"
-stop="20260102043000 +0000"
-channel="ppv-15666"
+start="20260109030000 +0000"
+stop="20260109060000 +0000"
+channel="ppv-15919"
 >
-<title lang="en">Dallas Stars vs. Chicago Blackhawks</title>
+<title lang="en">Minnesota Wild vs. Seattle Kraken</title>
 <sub-title>Ice Hockey</sub-title>
 <video>
 <present>yes</present>
@@ -590,18 +326,18 @@ channel="ppv-15666"
 <stereo>stereo</stereo>
 </audio>
 <category>Ice Hockey</category>
-<icon src="https://api.ppvs.su/assets/thumb/7499241be1da895a810375f0eeed7268-thumbnail.jpg" />
+<icon src="https://api.ppvs.su/assets/thumb/4740360c98cb01edfeccf53b45a16f27-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-15659">
-<display-name>Winnipeg Jets vs. Toronto Maple Leafs</display-name>
+<channel id="ppv-15917">
+<display-name>Ottawa Senators vs. Colorado Avalanche</display-name>
 </channel>
 <programme
-start="20260102000000 +0000"
-stop="20260102030000 +0000"
-channel="ppv-15659"
+start="20260109020000 +0000"
+stop="20260109050000 +0000"
+channel="ppv-15917"
 >
-<title lang="en">Winnipeg Jets vs. Toronto Maple Leafs</title>
+<title lang="en">Ottawa Senators vs. Colorado Avalanche</title>
 <sub-title>Ice Hockey</sub-title>
 <video>
 <present>yes</present>
@@ -612,18 +348,18 @@ channel="ppv-15659"
 <stereo>stereo</stereo>
 </audio>
 <category>Ice Hockey</category>
-<icon src="https://api.ppvs.su/assets/thumb/6f954df4f506a10878e503628b831908-thumbnail.jpg" />
+<icon src="https://api.ppvs.su/assets/thumb/8643d80d9f2913b358d384a518b2d67c-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-15661">
-<display-name>Detroit Red Wings vs. Pittsburgh Penguins</display-name>
+<channel id="ppv-15915">
+<display-name>New York Islanders vs. Nashville Predators</display-name>
 </channel>
 <programme
-start="20260102000000 +0000"
-stop="20260102030000 +0000"
-channel="ppv-15661"
+start="20260109010000 +0000"
+stop="20260109040000 +0000"
+channel="ppv-15915"
 >
-<title lang="en">Detroit Red Wings vs. Pittsburgh Penguins</title>
+<title lang="en">New York Islanders vs. Nashville Predators</title>
 <sub-title>Ice Hockey</sub-title>
 <video>
 <present>yes</present>
@@ -634,18 +370,18 @@ channel="ppv-15661"
 <stereo>stereo</stereo>
 </audio>
 <category>Ice Hockey</category>
-<icon src="https://api.ppvs.su/assets/thumb/17358158d744a18b9c39e87a8e36e0fa-thumbnail.jpg" />
+<icon src="https://api.ppvs.su/assets/thumb/3910ddb0c01ff26e7418674e8a002891-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-15663">
-<display-name>Montreal Canadiens vs. Carolina Hurricanes</display-name>
+<channel id="ppv-15916">
+<display-name>Edmonton Oilers vs. Winnipeg Jets</display-name>
 </channel>
 <programme
-start="20260102000000 +0000"
-stop="20260102030000 +0000"
-channel="ppv-15663"
+start="20260109010000 +0000"
+stop="20260109040000 +0000"
+channel="ppv-15916"
 >
-<title lang="en">Montreal Canadiens vs. Carolina Hurricanes</title>
+<title lang="en">Edmonton Oilers vs. Winnipeg Jets</title>
 <sub-title>Ice Hockey</sub-title>
 <video>
 <present>yes</present>
@@ -656,18 +392,18 @@ channel="ppv-15663"
 <stereo>stereo</stereo>
 </audio>
 <category>Ice Hockey</category>
-<icon src="https://api.ppvs.su/assets/thumb/21baaa3f52ac5796dfdf69168c663a4f-thumbnail.jpg" />
+<icon src="https://api.ppvs.su/assets/thumb/5579d6c24d0972c046df846a875649a5-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-15665">
-<display-name>Tampa Bay Lightning vs. Los Angeles Kings</display-name>
+<channel id="ppv-15905">
+<display-name>Calgary Flames vs. Boston Bruins</display-name>
 </channel>
 <programme
-start="20260102000000 +0000"
-stop="20260102030000 +0000"
-channel="ppv-15665"
+start="20260109000000 +0000"
+stop="20260109030000 +0000"
+channel="ppv-15905"
 >
-<title lang="en">Tampa Bay Lightning vs. Los Angeles Kings</title>
+<title lang="en">Calgary Flames vs. Boston Bruins</title>
 <sub-title>Ice Hockey</sub-title>
 <video>
 <present>yes</present>
@@ -678,18 +414,18 @@ channel="ppv-15665"
 <stereo>stereo</stereo>
 </audio>
 <category>Ice Hockey</category>
-<icon src="https://api.ppvs.su/assets/thumb/71519124c0ab765fee3b58a071036bff-thumbnail.jpg" />
+<icon src="https://api.ppvs.su/assets/thumb/5a76d124e9a6b82f1df681953fe15eb8-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-15657">
-<display-name>Utah Mammoth vs. New York Islanders</display-name>
+<channel id="ppv-15907">
+<display-name>Florida Panthers vs. Montreal Canadiens</display-name>
 </channel>
 <programme
-start="20260101200000 +0000"
-stop="20260101230000 +0000"
-channel="ppv-15657"
+start="20260109000000 +0000"
+stop="20260109030000 +0000"
+channel="ppv-15907"
 >
-<title lang="en">Utah Mammoth vs. New York Islanders</title>
+<title lang="en">Florida Panthers vs. Montreal Canadiens</title>
 <sub-title>Ice Hockey</sub-title>
 <video>
 <present>yes</present>
@@ -700,18 +436,18 @@ channel="ppv-15657"
 <stereo>stereo</stereo>
 </audio>
 <category>Ice Hockey</category>
-<icon src="https://api.ppvs.su/assets/thumb/781e2037db17d96355fa12b3263a4bb3-thumbnail.jpg" />
+<icon src="https://api.ppvs.su/assets/thumb/bf837dae2216feec566daa1d0fcc6b84-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-15656">
-<display-name>Washington Capitals vs. Ottawa Senators</display-name>
+<channel id="ppv-15909">
+<display-name>Vancouver Canucks vs. Detroit Red Wings</display-name>
 </channel>
 <programme
-start="20260101180000 +0000"
-stop="20260101210000 +0000"
-channel="ppv-15656"
+start="20260109000000 +0000"
+stop="20260109030000 +0000"
+channel="ppv-15909"
 >
-<title lang="en">Washington Capitals vs. Ottawa Senators</title>
+<title lang="en">Vancouver Canucks vs. Detroit Red Wings</title>
 <sub-title>Ice Hockey</sub-title>
 <video>
 <present>yes</present>
@@ -722,16 +458,104 @@ channel="ppv-15656"
 <stereo>stereo</stereo>
 </audio>
 <category>Ice Hockey</category>
-<icon src="https://api.ppvs.su/assets/thumb/9d03fcd62a385a5e81130e2cf4c0c8f0-thumbnail.jpg" />
+<icon src="https://api.ppvs.su/assets/thumb/56bd575aaea860d3959bfbe2a5663575-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-15587">
+<channel id="ppv-15911">
+<display-name>Buffalo Sabres vs. New York Rangers</display-name>
+</channel>
+<programme
+start="20260109000000 +0000"
+stop="20260109030000 +0000"
+channel="ppv-15911"
+>
+<title lang="en">Buffalo Sabres vs. New York Rangers</title>
+<sub-title>Ice Hockey</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Ice Hockey</category>
+<icon src="https://api.ppvs.su/assets/thumb/9d07f902fda8012bdff14d9ee2d43460-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-15912">
+<display-name>Toronto Maple Leafs vs. Philadelphia Flyers</display-name>
+</channel>
+<programme
+start="20260109000000 +0000"
+stop="20260109030000 +0000"
+channel="ppv-15912"
+>
+<title lang="en">Toronto Maple Leafs vs. Philadelphia Flyers</title>
+<sub-title>Ice Hockey</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Ice Hockey</category>
+<icon src="https://api.ppvs.su/assets/thumb/5b68da330692582ca84932ad34818318-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-15913">
+<display-name>New Jersey Devils vs. Pittsburgh Penguins</display-name>
+</channel>
+<programme
+start="20260109000000 +0000"
+stop="20260109030000 +0000"
+channel="ppv-15913"
+>
+<title lang="en">New Jersey Devils vs. Pittsburgh Penguins</title>
+<sub-title>Ice Hockey</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Ice Hockey</category>
+<icon src="https://api.ppvs.su/assets/thumb/d1fac59f97954cb796d3390f91a79223-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-15914">
+<display-name>Anaheim Ducks vs. Carolina Hurricanes</display-name>
+</channel>
+<programme
+start="20260109000000 +0000"
+stop="20260109030000 +0000"
+channel="ppv-15914"
+>
+<title lang="en">Anaheim Ducks vs. Carolina Hurricanes</title>
+<sub-title>Ice Hockey</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Ice Hockey</category>
+<icon src="https://api.ppvs.su/assets/thumb/c842435dac0ce77f40729bb21cd04709-thumbnail.jpg" />
+</programme>
+
+<channel id="ppv-15830">
 <display-name>WWE: Friday Night Smackdown</display-name>
 </channel>
 <programme
-start="20260103010000 +0000"
-stop="20260103040000 +0000"
-channel="ppv-15587"
+start="20260109190000 +0000"
+stop="20260109220000 +0000"
+channel="ppv-15830"
 >
 <title lang="en">WWE: Friday Night Smackdown</title>
 <sub-title>Wrestling</sub-title>
@@ -747,13 +571,13 @@ channel="ppv-15587"
 <icon src="https://api.ppvs.su/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" />
 </programme>
 
-<channel id="ppv-15586">
+<channel id="ppv-15829">
 <display-name>TNA: Impact</display-name>
 </channel>
 <programme
-start="20260102010000 +0000"
-stop="20260102040000 +0000"
-channel="ppv-15586"
+start="20260109010000 +0000"
+stop="20260109040000 +0000"
+channel="ppv-15829"
 >
 <title lang="en">TNA: Impact</title>
 <sub-title>Wrestling</sub-title>

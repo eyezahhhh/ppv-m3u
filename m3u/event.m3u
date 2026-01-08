@@ -1,71 +1,55 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ppv-15441" tvg-name="Arizona Wildcats vs. SMU Mustangs (3 January 2026 at 01:00)" tvg-epgid="15441" tvg-logo="https://api.ppvs.su/assets/thumb/a3a6a7f190434496f95eb694e88eb39b-thumbnail.jpg",Arizona Wildcats vs. SMU Mustangs (3 January 2026 at 01:00)
+#EXTINF:-1 tvg-id="ppv-15836" tvg-name="Oregon Ducks vs. Indiana Hoosiers (10 January 2026 at 00:30)" tvg-epgid="15836" tvg-logo="https://api.ppvs.su/assets/thumb/7f57931ba31a4d2c190558c4c6a03306-thumbnail.jpg",Oregon Ducks vs. Indiana Hoosiers (10 January 2026 at 00:30)
 
-#EXTINF:-1 tvg-id="ppv-15442" tvg-name="Wake Forest Demon Deacons vs. Mississippi State Bulldogs (3 January 2026 at 01:00)" tvg-epgid="15442" tvg-logo="https://api.ppvs.su/assets/thumb/2bb2ef27cdc28ea52df0c6b9548be3d4-thumbnail.jpg",Wake Forest Demon Deacons vs. Mississippi State Bulldogs (3 January 2026 at 01:00)
+#EXTINF:-1 tvg-id="ppv-15835" tvg-name="Miami Hurricanes vs. Ole Miss Rebels (9 January 2026 at 00:30)" tvg-epgid="15835" tvg-logo="https://api.ppvs.su/assets/thumb/d23cc99b1da1a2bbe982298d886b38fa-thumbnail.jpg",Miami Hurricanes vs. Ole Miss Rebels (9 January 2026 at 00:30)
 
-#EXTINF:-1 tvg-id="ppv-15440" tvg-name="Navy Midshipmen vs. Cincinnati Bearcats (2 January 2026 at 21:30)" tvg-epgid="15440" tvg-logo="https://api.ppvs.su/assets/thumb/9b65f7ef7075006b08bb6ee919e9c1d2-thumbnail.jpg",Navy Midshipmen vs. Cincinnati Bearcats (2 January 2026 at 21:30)
+#EXTINF:-1 tvg-id="ppv-15910" tvg-name="Dallas Mavericks vs. Utah Jazz (9 January 2026 at 02:00)" tvg-epgid="15910" tvg-logo="https://api.ppvs.su/assets/thumb/13b432c6db1c41251647cfc77e436d6d-thumbnail.jpg",Dallas Mavericks vs. Utah Jazz (9 January 2026 at 02:00)
 
-#EXTINF:-1 tvg-id="ppv-15439" tvg-name="Rice Owls vs. Texas State Bobcats (2 January 2026 at 18:00)" tvg-epgid="15439" tvg-logo="https://api.ppvs.su/assets/thumb/418372260da4e53fd6d09f270bbda500-thumbnail.jpg",Rice Owls vs. Texas State Bobcats (2 January 2026 at 18:00)
+#EXTINF:-1 tvg-id="ppv-15906" tvg-name="Miami Heat vs. Chicago Bulls (9 January 2026 at 01:00)" tvg-epgid="15906" tvg-logo="https://api.ppvs.su/assets/thumb/9ed8aa63f8a7e24c2692247059cd699c-thumbnail.jpg",Miami Heat vs. Chicago Bulls (9 January 2026 at 01:00)
 
-#EXTINF:-1 tvg-id="ppv-15438" tvg-name="Ole Miss Rebels vs. Georgia Bulldogs (2 January 2026 at 01:00)" tvg-epgid="15438" tvg-logo="https://api.ppvs.su/assets/thumb/36533879406a3c06c9267dbacef73e39-thumbnail.jpg",Ole Miss Rebels vs. Georgia Bulldogs (2 January 2026 at 01:00)
+#EXTINF:-1 tvg-id="ppv-15908" tvg-name="Cleveland Cavaliers vs. Minnesota Timberwolves (9 January 2026 at 01:00)" tvg-epgid="15908" tvg-logo="https://api.ppvs.su/assets/thumb/e58e12abbd469693c8993593e9cf4b60-thumbnail.jpg",Cleveland Cavaliers vs. Minnesota Timberwolves (9 January 2026 at 01:00)
 
-#EXTINF:-1 tvg-id="ppv-15437" tvg-name="Alabama Crimson Tide vs. Indiana Hoosiers (1 January 2026 at 21:00)" tvg-epgid="15437" tvg-logo="https://api.ppvs.su/assets/thumb/3c05a4468adaca4d72ed5b4ef4e1a0cf-thumbnail.jpg",Alabama Crimson Tide vs. Indiana Hoosiers (1 January 2026 at 21:00)
+#EXTINF:-1 tvg-id="ppv-15904" tvg-name="Indiana Pacers vs. Charlotte Hornets (9 January 2026 at 00:00)" tvg-epgid="15904" tvg-logo="https://api.ppvs.su/assets/thumb/ed76984c7d104c6027cc419d6b4a16fd-thumbnail.jpg",Indiana Pacers vs. Charlotte Hornets (9 January 2026 at 00:00)
 
-#EXTINF:-1 tvg-id="ppv-15436" tvg-name="Oregon Ducks vs. Texas Tech Red Raiders (1 January 2026 at 17:00)" tvg-epgid="15436" tvg-logo="https://api.ppvs.su/assets/thumb/35c49515b93c4a76afce636f3aae767b-thumbnail.jpg",Oregon Ducks vs. Texas Tech Red Raiders (1 January 2026 at 17:00)
+#EXTINF:-1 tvg-id="ppv-15762" tvg-name="Getafe vs. Real Sociedad (9 January 2026 at 20:00)" tvg-epgid="15762" tvg-logo="https://api.ppvs.su/assets/thumb/72a542e44b7c5a11a05f9561e41d722b-thumbnail.jpg",Getafe vs. Real Sociedad (9 January 2026 at 20:00)
 
-#EXTINF:-1 tvg-id="ppv-15664" tvg-name="Utah Jazz vs. LA Clippers (2 January 2026 at 03:30)" tvg-epgid="15664" tvg-logo="https://api.ppvs.su/assets/thumb/93f3ae6f328fb26c3e6c2d6422ed0660-thumbnail.jpg",Utah Jazz vs. LA Clippers (2 January 2026 at 03:30)
+#EXTINF:-1 tvg-id="ppv-15787" tvg-name="Eintracht Frankfurt vs. Borussia Dortmund (9 January 2026 at 19:30)" tvg-epgid="15787" tvg-logo="https://api.ppvs.su/assets/thumb/985665e2b484202b781fa102ac24eb43-thumbnail.jpg",Eintracht Frankfurt vs. Borussia Dortmund (9 January 2026 at 19:30)
 
-#EXTINF:-1 tvg-id="ppv-15662" tvg-name="Boston Celtics vs. Sacramento Kings (2 January 2026 at 03:00)" tvg-epgid="15662" tvg-logo="https://api.ppvs.su/assets/thumb/12833293dc837d35cfb31ecbb80a0cc3-thumbnail.jpg",Boston Celtics vs. Sacramento Kings (2 January 2026 at 03:00)
+#EXTINF:-1 tvg-id="ppv-15805" tvg-name="Arsenal vs. Liverpool (8 January 2026 at 20:00)" tvg-epgid="15805" tvg-logo="https://api.ppvs.su/assets/thumb/69bd1af0e43583f8e954027919b6d860-thumbnail.jpg",Arsenal vs. Liverpool (8 January 2026 at 20:00)
 
-#EXTINF:-1 tvg-id="ppv-15660" tvg-name="Philadelphia 76ers vs. Dallas Mavericks (2 January 2026 at 01:30)" tvg-epgid="15660" tvg-logo="https://api.ppvs.su/assets/thumb/d03193288dc1690108a6681d246b3e54-thumbnail.jpg",Philadelphia 76ers vs. Dallas Mavericks (2 January 2026 at 01:30)
+#EXTINF:-1 tvg-id="ppv-15815" tvg-name="AC Milan vs. Genoa (8 January 2026 at 19:45)" tvg-epgid="15815" tvg-logo="https://api.ppvs.su/assets/thumb/96eb809059fb5b3afeb6c6bfcba8fdbc-thumbnail.jpg",AC Milan vs. Genoa (8 January 2026 at 19:45)
 
-#EXTINF:-1 tvg-id="ppv-15658" tvg-name="Miami Heat vs. Detroit Pistons (2 January 2026 at 00:00)" tvg-epgid="15658" tvg-logo="https://api.ppvs.su/assets/thumb/8f782a5667e71ca2e3d9584bac67e1d7-thumbnail.jpg",Miami Heat vs. Detroit Pistons (2 January 2026 at 00:00)
+#EXTINF:-1 tvg-id="ppv-15923" tvg-name="Atlético Madrid vs. Real Madrid (8 January 2026 at 19:00)" tvg-epgid="15923" tvg-logo="https://api.ppvs.su/assets/thumb/b244653662fed40689b855f60c98054d-thumbnail.jpg",Atlético Madrid vs. Real Madrid (8 January 2026 at 19:00)
 
-#EXTINF:-1 tvg-id="ppv-15655" tvg-name="Houston Rockets vs. Brooklyn Nets (1 January 2026 at 23:00)" tvg-epgid="15655" tvg-logo="https://api.ppvs.su/assets/thumb/ee9e7630cdf2282f0ff0559cab95ba83-thumbnail.jpg",Houston Rockets vs. Brooklyn Nets (1 January 2026 at 23:00)
+#EXTINF:-1 tvg-id="ppv-15921" tvg-name="Paris Saint-Germain vs. Marseille (8 January 2026 at 18:00)" tvg-epgid="15921" tvg-logo="https://api.ppvs.su/assets/thumb/2e108cc7587992c02495501d0a8c3433-thumbnail.jpg",Paris Saint-Germain vs. Marseille (8 January 2026 at 18:00)
 
-#EXTINF:-1 tvg-id="ppv-14899" tvg-name="World Darts Championship (1 January 2026 at 12:30)" tvg-epgid="14899" tvg-logo="https://api.ppvs.su/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg",World Darts Championship (1 January 2026 at 12:30)
+#EXTINF:-1 tvg-id="ppv-15814" tvg-name="Cremonese vs. Cagliari (8 January 2026 at 17:30)" tvg-epgid="15814" tvg-logo="https://api.ppvs.su/assets/thumb/b5ba8a550a2753f86241fcb972e327ae-thumbnail.jpg",Cremonese vs. Cagliari (8 January 2026 at 17:30)
 
-#EXTINF:-1 tvg-id="ppv-15566" tvg-name="Genoa vs. Pisa (3 January 2026 at 14:00)" tvg-epgid="15566" tvg-logo="https://api.ppvs.su/assets/thumb/c4f90c733633c35581ce8a35bdd42890-thumbnail.jpg",Genoa vs. Pisa (3 January 2026 at 14:00)
+#EXTINF:-1 tvg-id="ppv-15918" tvg-name="Columbus Blue Jackets vs. Vegas Golden Knights (9 January 2026 at 03:00)" tvg-epgid="15918" tvg-logo="https://api.ppvs.su/assets/thumb/fec4eed84950d37d0fe276f1545f6ede-thumbnail.jpg",Columbus Blue Jackets vs. Vegas Golden Knights (9 January 2026 at 03:00)
 
-#EXTINF:-1 tvg-id="ppv-15567" tvg-name="Sassuolo vs. Parma (3 January 2026 at 14:00)" tvg-epgid="15567" tvg-logo="https://api.ppvs.su/assets/thumb/9eb03ce38bc9fb160a0b08cd6f3168fa-thumbnail.jpg",Sassuolo vs. Parma (3 January 2026 at 14:00)
+#EXTINF:-1 tvg-id="ppv-15919" tvg-name="Minnesota Wild vs. Seattle Kraken (9 January 2026 at 03:00)" tvg-epgid="15919" tvg-logo="https://api.ppvs.su/assets/thumb/4740360c98cb01edfeccf53b45a16f27-thumbnail.jpg",Minnesota Wild vs. Seattle Kraken (9 January 2026 at 03:00)
 
-#EXTINF:-1 tvg-id="ppv-15519" tvg-name="Celta Vigo vs. Valencia (3 January 2026 at 13:00)" tvg-epgid="15519" tvg-logo="https://api.ppvs.su/assets/thumb/4c352a533a4a9cb75a223500ba0c5485-thumbnail.jpg",Celta Vigo vs. Valencia (3 January 2026 at 13:00)
+#EXTINF:-1 tvg-id="ppv-15917" tvg-name="Ottawa Senators vs. Colorado Avalanche (9 January 2026 at 02:00)" tvg-epgid="15917" tvg-logo="https://api.ppvs.su/assets/thumb/8643d80d9f2913b358d384a518b2d67c-thumbnail.jpg",Ottawa Senators vs. Colorado Avalanche (9 January 2026 at 02:00)
 
-#EXTINF:-1 tvg-id="ppv-15554" tvg-name="Aston Villa vs. Nottingham Forest (3 January 2026 at 12:30)" tvg-epgid="15554" tvg-logo="https://api.ppvs.su/assets/thumb/145be18c71bc7091ce96135402eecc9d-thumbnail.jpg",Aston Villa vs. Nottingham Forest (3 January 2026 at 12:30)
+#EXTINF:-1 tvg-id="ppv-15915" tvg-name="New York Islanders vs. Nashville Predators (9 January 2026 at 01:00)" tvg-epgid="15915" tvg-logo="https://api.ppvs.su/assets/thumb/3910ddb0c01ff26e7418674e8a002891-thumbnail.jpg",New York Islanders vs. Nashville Predators (9 January 2026 at 01:00)
 
-#EXTINF:-1 tvg-id="ppv-15565" tvg-name="Como vs. Udinese (3 January 2026 at 11:30)" tvg-epgid="15565" tvg-logo="https://api.ppvs.su/assets/thumb/d12aba40501e55e90e46258382098ec2-thumbnail.jpg",Como vs. Udinese (3 January 2026 at 11:30)
+#EXTINF:-1 tvg-id="ppv-15916" tvg-name="Edmonton Oilers vs. Winnipeg Jets (9 January 2026 at 01:00)" tvg-epgid="15916" tvg-logo="https://api.ppvs.su/assets/thumb/5579d6c24d0972c046df846a875649a5-thumbnail.jpg",Edmonton Oilers vs. Winnipeg Jets (9 January 2026 at 01:00)
 
-#EXTINF:-1 tvg-id="ppv-15517" tvg-name="Rayo Vallecano vs. Getafe (2 January 2026 at 20:00)" tvg-epgid="15517" tvg-logo="https://api.ppvs.su/assets/thumb/9fe309872e8491a01aed3ac2822d7cec-thumbnail.jpg",Rayo Vallecano vs. Getafe (2 January 2026 at 20:00)
+#EXTINF:-1 tvg-id="ppv-15905" tvg-name="Calgary Flames vs. Boston Bruins (9 January 2026 at 00:00)" tvg-epgid="15905" tvg-logo="https://api.ppvs.su/assets/thumb/5a76d124e9a6b82f1df681953fe15eb8-thumbnail.jpg",Calgary Flames vs. Boston Bruins (9 January 2026 at 00:00)
 
-#EXTINF:-1 tvg-id="ppv-15564" tvg-name="Cagliari vs. AC Milan (2 January 2026 at 19:45)" tvg-epgid="15564" tvg-logo="https://api.ppvs.su/assets/thumb/f8a19b6245b3bb141dd813acd2b9b3cb-thumbnail.jpg",Cagliari vs. AC Milan (2 January 2026 at 19:45)
+#EXTINF:-1 tvg-id="ppv-15907" tvg-name="Florida Panthers vs. Montreal Canadiens (9 January 2026 at 00:00)" tvg-epgid="15907" tvg-logo="https://api.ppvs.su/assets/thumb/bf837dae2216feec566daa1d0fcc6b84-thumbnail.jpg",Florida Panthers vs. Montreal Canadiens (9 January 2026 at 00:00)
 
-#EXTINF:-1 tvg-id="ppv-15574" tvg-name="Toulouse vs. Lens (2 January 2026 at 19:45)" tvg-epgid="15574" tvg-logo="https://api.ppvs.su/assets/thumb/0098b62119882563e93c05d2f9ffd4a3-thumbnail.jpg",Toulouse vs. Lens (2 January 2026 at 19:45)
+#EXTINF:-1 tvg-id="ppv-15909" tvg-name="Vancouver Canucks vs. Detroit Red Wings (9 January 2026 at 00:00)" tvg-epgid="15909" tvg-logo="https://api.ppvs.su/assets/thumb/56bd575aaea860d3959bfbe2a5663575-thumbnail.jpg",Vancouver Canucks vs. Detroit Red Wings (9 January 2026 at 00:00)
 
-#EXTINF:-1 tvg-id="ppv-15552" tvg-name="Brentford vs. Tottenham Hotspur (1 January 2026 at 20:00)" tvg-epgid="15552" tvg-logo="https://api.ppvs.su/assets/thumb/3ce97ec548d4bebc09a73c0d1850a597-thumbnail.jpg",Brentford vs. Tottenham Hotspur (1 January 2026 at 20:00)
+#EXTINF:-1 tvg-id="ppv-15911" tvg-name="Buffalo Sabres vs. New York Rangers (9 January 2026 at 00:00)" tvg-epgid="15911" tvg-logo="https://api.ppvs.su/assets/thumb/9d07f902fda8012bdff14d9ee2d43460-thumbnail.jpg",Buffalo Sabres vs. New York Rangers (9 January 2026 at 00:00)
 
-#EXTINF:-1 tvg-id="ppv-15553" tvg-name="Sunderland vs. Manchester City (1 January 2026 at 20:00)" tvg-epgid="15553" tvg-logo="https://api.ppvs.su/assets/thumb/bd84a58b234b38067908a48f4b77ffd6-thumbnail.jpg",Sunderland vs. Manchester City (1 January 2026 at 20:00)
+#EXTINF:-1 tvg-id="ppv-15912" tvg-name="Toronto Maple Leafs vs. Philadelphia Flyers (9 January 2026 at 00:00)" tvg-epgid="15912" tvg-logo="https://api.ppvs.su/assets/thumb/5b68da330692582ca84932ad34818318-thumbnail.jpg",Toronto Maple Leafs vs. Philadelphia Flyers (9 January 2026 at 00:00)
 
-#EXTINF:-1 tvg-id="ppv-15550" tvg-name="Crystal Palace vs. Fulham (1 January 2026 at 17:30)" tvg-epgid="15550" tvg-logo="https://api.ppvs.su/assets/thumb/a9fe7d80e6985fd9ef940d4b3a8eab1a-thumbnail.jpg",Crystal Palace vs. Fulham (1 January 2026 at 17:30)
+#EXTINF:-1 tvg-id="ppv-15913" tvg-name="New Jersey Devils vs. Pittsburgh Penguins (9 January 2026 at 00:00)" tvg-epgid="15913" tvg-logo="https://api.ppvs.su/assets/thumb/d1fac59f97954cb796d3390f91a79223-thumbnail.jpg",New Jersey Devils vs. Pittsburgh Penguins (9 January 2026 at 00:00)
 
-#EXTINF:-1 tvg-id="ppv-15551" tvg-name="Liverpool vs. Leeds United (1 January 2026 at 17:30)" tvg-epgid="15551" tvg-logo="https://api.ppvs.su/assets/thumb/d0b0544bf77396c4bee0ab242909fbfe-thumbnail.jpg",Liverpool vs. Leeds United (1 January 2026 at 17:30)
+#EXTINF:-1 tvg-id="ppv-15914" tvg-name="Anaheim Ducks vs. Carolina Hurricanes (9 January 2026 at 00:00)" tvg-epgid="15914" tvg-logo="https://api.ppvs.su/assets/thumb/c842435dac0ce77f40729bb21cd04709-thumbnail.jpg",Anaheim Ducks vs. Carolina Hurricanes (9 January 2026 at 00:00)
 
-#EXTINF:-1 tvg-id="ppv-15667" tvg-name="Nashville Predators vs. Seattle Kraken (2 January 2026 at 03:00)" tvg-epgid="15667" tvg-logo="https://api.ppvs.su/assets/thumb/08c6bad9b8987014cf053ff32b0f1663-thumbnail.jpg",Nashville Predators vs. Seattle Kraken (2 January 2026 at 03:00)
+#EXTINF:-1 tvg-id="ppv-15830" tvg-name="WWE: Friday Night Smackdown (9 January 2026 at 19:00)" tvg-epgid="15830" tvg-logo="https://api.ppvs.su/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg",WWE: Friday Night Smackdown (9 January 2026 at 19:00)
 
-#EXTINF:-1 tvg-id="ppv-15666" tvg-name="Dallas Stars vs. Chicago Blackhawks (2 January 2026 at 01:30)" tvg-epgid="15666" tvg-logo="https://api.ppvs.su/assets/thumb/7499241be1da895a810375f0eeed7268-thumbnail.jpg",Dallas Stars vs. Chicago Blackhawks (2 January 2026 at 01:30)
-
-#EXTINF:-1 tvg-id="ppv-15659" tvg-name="Winnipeg Jets vs. Toronto Maple Leafs (2 January 2026 at 00:00)" tvg-epgid="15659" tvg-logo="https://api.ppvs.su/assets/thumb/6f954df4f506a10878e503628b831908-thumbnail.jpg",Winnipeg Jets vs. Toronto Maple Leafs (2 January 2026 at 00:00)
-
-#EXTINF:-1 tvg-id="ppv-15661" tvg-name="Detroit Red Wings vs. Pittsburgh Penguins (2 January 2026 at 00:00)" tvg-epgid="15661" tvg-logo="https://api.ppvs.su/assets/thumb/17358158d744a18b9c39e87a8e36e0fa-thumbnail.jpg",Detroit Red Wings vs. Pittsburgh Penguins (2 January 2026 at 00:00)
-
-#EXTINF:-1 tvg-id="ppv-15663" tvg-name="Montreal Canadiens vs. Carolina Hurricanes (2 January 2026 at 00:00)" tvg-epgid="15663" tvg-logo="https://api.ppvs.su/assets/thumb/21baaa3f52ac5796dfdf69168c663a4f-thumbnail.jpg",Montreal Canadiens vs. Carolina Hurricanes (2 January 2026 at 00:00)
-
-#EXTINF:-1 tvg-id="ppv-15665" tvg-name="Tampa Bay Lightning vs. Los Angeles Kings (2 January 2026 at 00:00)" tvg-epgid="15665" tvg-logo="https://api.ppvs.su/assets/thumb/71519124c0ab765fee3b58a071036bff-thumbnail.jpg",Tampa Bay Lightning vs. Los Angeles Kings (2 January 2026 at 00:00)
-
-#EXTINF:-1 tvg-id="ppv-15657" tvg-name="Utah Mammoth vs. New York Islanders (1 January 2026 at 20:00)" tvg-epgid="15657" tvg-logo="https://api.ppvs.su/assets/thumb/781e2037db17d96355fa12b3263a4bb3-thumbnail.jpg",Utah Mammoth vs. New York Islanders (1 January 2026 at 20:00)
-
-#EXTINF:-1 tvg-id="ppv-15656" tvg-name="Washington Capitals vs. Ottawa Senators (1 January 2026 at 18:00)" tvg-epgid="15656" tvg-logo="https://api.ppvs.su/assets/thumb/9d03fcd62a385a5e81130e2cf4c0c8f0-thumbnail.jpg",Washington Capitals vs. Ottawa Senators (1 January 2026 at 18:00)
-
-#EXTINF:-1 tvg-id="ppv-15587" tvg-name="WWE: Friday Night Smackdown (3 January 2026 at 01:00)" tvg-epgid="15587" tvg-logo="https://api.ppvs.su/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg",WWE: Friday Night Smackdown (3 January 2026 at 01:00)
-
-#EXTINF:-1 tvg-id="ppv-15586" tvg-name="TNA: Impact (2 January 2026 at 01:00)" tvg-epgid="15586" tvg-logo="https://api.ppvs.su/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg",TNA: Impact (2 January 2026 at 01:00)
+#EXTINF:-1 tvg-id="ppv-15829" tvg-name="TNA: Impact (9 January 2026 at 01:00)" tvg-epgid="15829" tvg-logo="https://api.ppvs.su/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg",TNA: Impact (9 January 2026 at 01:00)
 
